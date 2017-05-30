@@ -33,6 +33,13 @@ for sequence in file:
    
    handle = ScanProsite.scan(seq=sequence.seq)
    
+   text = ScanProsite.scan(seq=sequence.seq, output='txt')
+   
+   print text
+   
+   with open("prosite_html/"+(sequence.id)[9:]+".html", "w") as outfile:
+       print >>outfile, text.read()
+   
    result = ScanProsite.read(handle)
    
    for record in result:
