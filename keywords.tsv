@@ -5,97 +5,97 @@ ABO10621	glutathione S-transferase [Acinetobacter baumannii]	GST_N	GST_NTER;GST_
 ABO10632	null	null	NULL
 ABO10642	glutathione peroxidase [Acinetobacter baumannii]	GSHPx	GLUTATHIONE_PEROXID_3;GLUTATHIONE_PEROXID_1
 ABO11008	hypothetical protein [Acinetobacter baumannii]	null	NULL
-ABO10646	EamA family transporter, partial [Acinetobacter baumannii]	EamA	NULL
-ABO10647	EamA family transporter, partial [Acinetobacter baumannii]	EamA	NULL
-ABO10652	DUF2946 domain-containing protein [Acinetobacter baumannii]	DUF2946	NULL
-ABO10654	MULTISPECIES: hypothetical protein [Acinetobacter calcoaceticus/baumannii complex]	null	NULL
+ABO10646	EamA/RhaT family transporter, partial [Acinetobacter baumannii]	EamA	NULL
+ABO10647	EamA/RhaT family transporter [Acinetobacter baumannii]	EamA	NULL
+ABO10652	hypothetical protein [Acinetobacter baumannii]	DUF2946	NULL
+ABO10654	hypothetical protein [Acinetobacter baumannii]	null	NULL
 ABO10662	MerR family transcriptional regulator [Acinetobacter baumannii]	MerR_1	HTH_MERR_2
-ABO11017	YjgF family translation initiation inhibitor [Acinetobacter baumannii]	Ribonuc_L-PSP	NULL
-ABO11018	EamA/RhaT family transporter [Acinetobacter baumannii]	EamA	NULL
-ABO11023	ribosome silencing factor [Acinetobacter baumannii]	RsfS	NULL
+ABO11017	RidA family protein [Acinetobacter baumannii]	Ribonuc_L-PSP	NULL
+ABO11018	EamA family transporter [Acinetobacter baumannii]	EamA	NULL
+ABO11023	MULTISPECIES: ribosome silencing factor RsfS [Acinetobacter]	RsfS	NULL
 ABO11025	3-hydroxyisobutyrate dehydrogenase [Acinetobacter baumannii]	NAD_binding_2	NULL
-ABO10675	hypothetical protein [Acinetobacter calcoaceticus]	null	NULL
-ABO10678	outer membrane porin, OprD family [Acinetobacter sp. LMB-5]	OprD	NULL
-ABO10683	transposase [Acinetobacter baumannii]	Tn7_Tnp_TnsA_N	NULL
-ABO10684	IS701 family transposase [Acinetobacter pittii]	DDE_Tnp_1	NULL
+ABO10675	hypothetical protein [Acinetobacter baumannii]	null	NULL
+ABO10678	outer membrane porin, OprD family [Acinetobacter baumannii]	OprD	NULL
+ABO10683	endonuclease, partial [Acinetobacter baumannii]	Tn7_Tnp_TnsA_N	NULL
+ABO10684	IS701 family transposase [Acinetobacter nosocomialis]	DDE_Tnp_1	NULL
 ABO10685	transposase [Acinetobacter baumannii]	null	NULL
-ABO10686	transposase [Acinetobacter baumannii]	Mu-transpos_C	INTEGRASE
+ABO10686	transposase, partial [Acinetobacter baumannii]	Mu-transpos_C	INTEGRASE
 ABO11036	3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter baumannii]	Pantoate_transf	NULL
 ABO11037	3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter baumannii]	Pantoate_transf	NULL
-ABO11040	phosphocarrier protein HPr [Acinetobacter baumannii]	PTS-HPr	PTS_HPR_DOM
-ABO11049	hypothetical protein, partial [Acinetobacter baumannii]	DUF1768	NULL
-ABO11051	hypothetical protein, partial [Acinetobacter baumannii]	null	NULL
-ABO11055	thioredoxin [Acinetobacter pittii]	Thioredoxin	THIOREDOXIN_2;THIOREDOXIN_1
-ABO11058	tRNA(Ile)-lysidine synthetase [Acinetobacter baumannii]	ATP_bind_3	NULL
-ABO10699	MULTISPECIES: hypothetical protein [Acinetobacter]	null	NULL
-ABO10707	transcriptional regulator [Acinetobacter baumannii]	HTH_8	SIGMA54_INTERACT_4;SIGMA54_INTERACT_3
-ABO10708	DNA-binding response regulator [Acinetobacter pittii]	Sigma54_activat	SIGMA54_INTERACT_4;SIGMA54_INTERACT_2
-ABO10709	sigma-54-dependent Fis family transcriptional regulator, partial [Acinetobacter baumannii]	Response_reg	RESPONSE_REGULATORY
-ABO11069	MULTISPECIES: anti-sigma factor antagonist [Acinetobacter calcoaceticus/baumannii complex]	STAS	STAS
-ABO10733	argininosuccinate lyase, partial [Acinetobacter baumannii]	null	NULL
-ABO10734	MULTISPECIES: argininosuccinate lyase [Acinetobacter calcoaceticus/baumannii complex]	Lyase_1	FUMARATE_LYASES
-ABO10739	hypothetical protein, partial [Acinetobacter baumannii]	null	NULL
+ABO11040	MULTISPECIES: phosphocarrier protein HPr [Acinetobacter]	PTS-HPr	PTS_HPR_DOM
+ABO11049	hypothetical protein [Acinetobacter baumannii]	DUF1768	NULL
+ABO11051	hypothetical protein [Acinetobacter baumannii]	null	NULL
+ABO11055	thiol reductase thioredoxin [Acinetobacter baumannii]	Thioredoxin	THIOREDOXIN_2;THIOREDOXIN_1
+ABO11058	tRNA lysidine(34) synthetase TilS [Acinetobacter baumannii]	ATP_bind_3	NULL
+ABO10699	hypothetical protein [Acinetobacter baumannii]	null	NULL
+ABO10707	sigma-54-dependent Fis family transcriptional regulator [Acinetobacter baumannii]	HTH_8	SIGMA54_INTERACT_4;SIGMA54_INTERACT_3
+ABO10708	sigma-54-dependent Fis family transcriptional regulator, partial [Acinetobacter baumannii]	Sigma54_activat	SIGMA54_INTERACT_4;SIGMA54_INTERACT_2
+ABO10709	sigma-54-dependent Fis family transcriptional regulator [Acinetobacter baumannii]	Response_reg	RESPONSE_REGULATORY
+ABO11069	anti-sigma factor antagonist [Acinetobacter baumannii]	STAS	STAS
+ABO10733	argininosuccinate lyase [Acinetobacter baumannii]	null	NULL
+ABO10734	argininosuccinate lyase [Acinetobacter baumannii]	Lyase_1	FUMARATE_LYASES
+ABO10739	hypothetical protein [Acinetobacter baumannii]	null	NULL
 ABO10740	hypothetical protein [Acinetobacter baumannii]	null	NULL
-ABO11085	DNA polymerase V [Acinetobacter sp. 243_ASPC]	Peptidase_S24	NULL
-ABO10743	MULTISPECIES: DNA-binding protein [Acinetobacter]	Histone_HNS	NULL
+ABO11085	DNA polymerase V [Acinetobacter baumannii]	Peptidase_S24	NULL
+ABO10743	DNA-binding protein [Acinetobacter baumannii]	Histone_HNS	NULL
 ABO10744	general secretion pathway protein [Acinetobacter baumannii]	T2SSN	NULL
 ABO10756	50S ribosomal protein L7/L12 [Acinetobacter baumannii]	Ribosomal_L12	NULL
-ABO11097	hypothetical protein [Acinetobacter pittii]	SNase	TNASE_3;TNASE_1
-ABO11101	ferrous iron transport protein A [Acinetobacter sp. Ver3]	FeoA	NULL
-ABO11102	ferrous iron transporter B [Acinetobacter sp. neg1]	FeoB_N	G_FEOB
-ABO11105	MULTISPECIES: hypothetical protein [Acinetobacter calcoaceticus/baumannii complex]	null	NULL
+ABO11097	nuclease [Acinetobacter baumannii]	SNase	TNASE_3;TNASE_1
+ABO11101	MULTISPECIES: ferrous iron transport protein A [Acinetobacter]	FeoA	NULL
+ABO11102	ferrous iron transporter B [Acinetobacter baumannii]	FeoB_N	G_FEOB
+ABO11105	transposase [Acinetobacter baumannii]	null	NULL
 ABO10768	MerR family transcriptional regulator [Acinetobacter baumannii]	MerR_1	HTH_MERR_2
 ABO10769	signal peptide-containing protein [Acinetobacter baumannii]	Ser_hydrolase	NULL
-ABO10772	MULTISPECIES: histidine kinase [Acinetobacter]	HATPase_c_3	NULL
-ABO10778	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase [Acinetobacter sp. 1396970]	CDP-OH_P_transf	CDP_ALCOHOL_P_TRANSF
+ABO10772	histidine kinase [Acinetobacter pittii]	HATPase_c_3	NULL
+ABO10778	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase [Acinetobacter baumannii]	CDP-OH_P_transf	CDP_ALCOHOL_P_TRANSF
 ABO11108	protein TniQ [Acinetobacter baumannii]	TniQ	NULL
 ABO11109	transposase [Acinetobacter baumannii]	TniB	NULL
 ABO11111	null	null	NULL
-ABO11115	MULTISPECIES: P-type conjugative transfer protein TrbL [Proteobacteria]	TrbL	NULL
-ABO11117	arsenical-resistance protein [Pseudomonas putida]	SBF	NULL
+ABO11115	P-type conjugative transfer protein TrbL [Gallibacterium anatis]	TrbL	NULL
+ABO11117	arsenical-resistance protein [Pseudomonas aeruginosa]	SBF	NULL
 ABO11118	hypothetical protein [Stenotrophomonas maltophilia]	null	NULL
-ABO11121	transposase, partial [Escherichia coli]	Zn_Tnp_IS91	NULL
-ABO11122	IS91 family transposase [Acinetobacter baumannii]	Y2_Tnp	NULL
-ABO11124	IS4 family transposase, partial [Acinetobacter baumannii]	DDE_Tnp_1	NULL
+ABO11121	IS91 family transposase, partial [Acinetobacter baumannii]	Zn_Tnp_IS91	NULL
+ABO11122	IS91 family transposase, partial [Escherichia coli]	Y2_Tnp	NULL
+ABO11124	transposase, partial [Acinetobacter baumannii]	DDE_Tnp_1	NULL
 ABO11125	transposase [Acinetobacter baumannii]	null	NULL
-ABO11128	MULTISPECIES: hypothetical protein [Acinetobacter]	BolA	NULL
-ABO11136	hypothetical protein [Acinetobacter seifertii]	Phenol_MetA_deg	NULL
-ABO11145	peptidase C13 family protein [Acinetobacter baumannii]	Peptidase_C13	NULL
-ABO11146	peptidase C13 family protein [Acinetobacter baumannii]	null	NULL
+ABO11128	hypothetical protein [Acinetobacter baumannii]	BolA	NULL
+ABO11136	hypothetical protein [Acinetobacter baumannii]	Phenol_MetA_deg	NULL
+ABO11145	peptidase C13 [Acinetobacter baumannii]	Peptidase_C13	NULL
+ABO11146	peptidase C13 family protein, partial [Acinetobacter baumannii]	null	NULL
 ABO11150	hydrolase [Acinetobacter baumannii]	Hydrolase_3	NULL
 ABO11152	copper resistance protein B [Acinetobacter baumannii]	CopB	NULL
 ABO10810	bifunctional demethylmenaquinone methyltransferase/2-methoxy-6-polyprenyl-1,4-benzoquinol methylase [Acinetobacter baumannii]	Ubie_methyltran	SAM_MT_UBIE;UBIE_1;UBIE_2
 ABO10814	exonuclease V subunit gamma [Acinetobacter baumannii]	Exonuc_V_gamma	NULL
-ABO10815	exonuclease V subunit gamma [Acinetobacter calcoaceticus]	null	NULL
+ABO10815	exonuclease V subunit gamma [Acinetobacter baumannii]	null	NULL
 ABO10816	exonuclease V subunit beta [Acinetobacter baumannii]	UvrD-helicase	NULL
 ABO10817	exonuclease V subunit beta [Acinetobacter baumannii]	UvrD_C	UVRD_HELICASE_ATP_BIND;UVRD_HELICASE_CTER
-ABO11176	hypothetical protein [Acinetobacter nosocomialis]	DUF1852	NULL
-ABO10820	30S ribosomal protein S15 [Acinetobacter sp. ANC 4558]	Ribosomal_S15	RIBOSOMAL_S15
-ABO10834	apolipoprotein N-acyltransferase, partial [Acinetobacter baumannii]	null	NULL
-ABO10836	MULTISPECIES: TusA-like sulfurtransferase [Acinetobacter]	TusA	UPF0033
-ABO10837	electron transfer flavoprotein-ubiquinone oxidoreductase [Acinetobacter calcoaceticus]	FAD_binding_2	NULL
-ABO11179	TetR family transcriptional regulator [Acinetobacter sp. 1179249]	TetR_N	HTH_TETR_2
-ABO11181	darcynin [Acinetobacter calcoaceticus]	Darcynin	NULL
+ABO11176	hypothetical protein [Acinetobacter baumannii]	DUF1852	NULL
+ABO10820	MULTISPECIES: 30S ribosomal protein S15 [Acinetobacter]	Ribosomal_S15	RIBOSOMAL_S15
+ABO10834	apolipoprotein N-acyltransferase [Acinetobacter baumannii]	null	NULL
+ABO10836	sulfurtransferase TusA [Acinetobacter baumannii]	TusA	UPF0033
+ABO10837	electron transfer flavoprotein-ubiquinone oxidoreductase [Acinetobacter baumannii]	FAD_binding_2	NULL
+ABO11179	TetR family transcriptional regulator [Acinetobacter baumannii]	TetR_N	HTH_TETR_2
+ABO11181	darcynin [Acinetobacter baumannii]	Darcynin	NULL
 ABO11185	hypothetical protein [Acinetobacter baumannii]	null	TUBULIN;EF_HAND_1
-ABO11191	sensor domain-containing diguanylate cyclase [Acinetobacter calcoaceticus]	GGDEF	GGDEF
-ABO11192	NADH:ubiquinone oxidoreductase subunit 3 (chain A) [Acinetobacter baumannii]	Oxidored_q4	NULL
-ABO10513	tyrosine recombinase [Acinetobacter baumannii]	Phage_integrase	NULL
-ABO10514	MULTISPECIES: NADPH-dependent oxidoreductase [Acinetobacter calcoaceticus/baumannii complex]	FMN_red	NULL
-ABO10515	MULTISPECIES: peptidylprolyl isomerase [Acinetobacter calcoaceticus/baumannii complex]	FKBP_C	FKBP_PPIASE
-ABO10844	DNA gyrase inhibitor YacG [Acinetobacter sp. WC-141]	YacG	NULL
+ABO11191	GGDEF domain-containing protein [Acinetobacter baumannii]	GGDEF	GGDEF
+ABO11192	NADH-quinone oxidoreductase subunit A [Acinetobacter baumannii]	Oxidored_q4	NULL
+ABO10513	recombinase, partial [Acinetobacter baumannii]	Phage_integrase	NULL
+ABO10514	NADPH-dependent oxidoreductase [Acinetobacter baumannii]	FMN_red	NULL
+ABO10515	peptidylprolyl isomerase [Acinetobacter baumannii]	FKBP_C	FKBP_PPIASE
+ABO10844	DNA gyrase inhibitor YacG [Acinetobacter baumannii]	YacG	NULL
 ABO10843	null	null	NULL
-ABO10847	S-(hydroxymethyl)glutathione synthase [Acinetobacter baumannii]	GFA	NULL
+ABO10847	aldehyde-activating protein [Acinetobacter baumannii]	GFA	NULL
 ABO10849	HopJ type III effector protein [Acinetobacter baumannii]	HopJ	NULL
-ABO10850	MULTISPECIES: 50S ribosomal protein L31 type B [Acinetobacter calcoaceticus/baumannii complex]	Ribosomal_L31	RIBOSOMAL_L31
+ABO10850	50S ribosomal protein L31 [Acinetobacter baumannii]	Ribosomal_L31	RIBOSOMAL_L31
 ABO10859	long-chain-acyl-CoA synthetase [Acinetobacter baumannii]	AMP-binding	AMP_BINDING
 ABO11206	cold-shock protein [Acinetobacter baumannii]	CSD	NULL
 ABO11207	calcium-binding protein [Acinetobacter baumannii]	Excalibur	NULL
 ABO11212	aminoacetone oxidase family FAD-binding enzyme [Acinetobacter baumannii]	HI0933_like	NULL
-ABO10871	LysR family transcriptional regulator [Acinetobacter nosocomialis]	LysR_substrate	HTH_LYSR
-ABO10873	MULTISPECIES: 3-isopropylmalate dehydratase small subunit [Acinetobacter calcoaceticus/baumannii complex]	Aconitase_C	NULL
-ABO10874	hypothetical protein [Acinetobacter nosocomialis]	null	NULL
-ABO10876	translation initiation factor IF-1 [Acinetobacter baumannii]	eIF-1a	S1_IF1_TYPE
+ABO10871	LysR family transcriptional regulator [Acinetobacter baumannii]	LysR_substrate	HTH_LYSR
+ABO10873	3-isopropylmalate dehydratase small subunit [Acinetobacter baumannii]	Aconitase_C	NULL
+ABO10874	hypothetical protein [Acinetobacter baumannii]	null	NULL
+ABO10876	MULTISPECIES: translation initiation factor IF-1 [Acinetobacter]	eIF-1a	S1_IF1_TYPE
 ABO10882	aspartate-semialdehyde dehydrogenase [Acinetobacter baumannii]	Semialdhyde_dhC	ASD
-ABO11563	NAD(P)/FAD-dependent oxidoreductase [Acinetobacter baumannii]	Pyr_redox_3	NULL
+ABO11563	NAD(P)/FAD-dependent oxidoreductase, partial [Acinetobacter baumannii]	Pyr_redox_3	NULL
 ABO11564	NAD(P)/FAD-dependent oxidoreductase [Acinetobacter baumannii]	null	NULL
-ABO11565		Xan_ur_permease	NULL
+ABO11565	NCS2 family permease [Acinetobacter baumannii]	Xan_ur_permease	NULL
