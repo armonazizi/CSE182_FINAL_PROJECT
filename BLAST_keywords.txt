@@ -198,4 +198,3 @@ NAD(P)/FAD-dependent oxidoreductase, partial [Acinetobacter baumannii]
 NAD(P)/FAD-dependent oxidoreductase [Acinetobacter baumannii]
 >embl-cds:ABO11565 putative transporter OS=Acinetobacter baumannii (strain ATCC 17978 / CIP 53.77 / LMG 1025 / NCDC KC755 / 5377) GN=A1S_1135 SV=1 UP=UP000006737:Chromosome
 NCS2 family permease [Acinetobacter baumannii]
-
