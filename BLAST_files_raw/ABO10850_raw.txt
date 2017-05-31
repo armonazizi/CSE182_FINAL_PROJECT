@@ -1,0 +1,4321 @@
+BLASTP 2.6.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: NCBI Protein Reference Sequences
+           82,027,677 sequences; 31,412,196,622 total letters
+
+
+
+Query= embl-cds:ABO10850 50S ribosomal protein L31 type B OS=Acinetobacter
+baumannii (strain ATCC 17978 / CIP 53.77 / LMG 1025 / NCDC KC755 /
+5377) GN=A1S_0391 SV=1 UP=UP000006737:Chromosome
+
+Length=84
+
+RID: JVNG4KF9014
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+WP_001224256.1  MULTISPECIES: 50S ribosomal protein L31 type B [A...  176     2e-056
+WP_045544600.1  50S ribosomal protein L31 [Acinetobacter baumannii]   176     3e-056
+WP_003654672.1  MULTISPECIES: 50S ribosomal protein L31 type B [A...  176     4e-056
+WP_086266770.1  50S ribosomal protein L31 [Acinetobacter baumannii]   175     5e-056
+WP_032050658.1  50S ribosomal protein L31 type B [Acinetobacter b...  175     6e-056
+WP_032046469.1  50S ribosomal protein L31 type B [Acinetobacter b...  175     7e-056
+WP_001224254.1  50S ribosomal protein L31 type B [Acinetobacter b...  175     7e-056
+WP_086435681.1  50S ribosomal protein L31 [Acinetobacter baumannii]   174     9e-056
+WP_023897366.1  50S ribosomal protein L31 [Acinetobacter baumannii]   174     9e-056
+WP_001224253.1  50S ribosomal protein L31 type B [Acinetobacter b...  174     9e-056
+WP_004640941.1  MULTISPECIES: 50S ribosomal protein L31 type B [A...  174     1e-055
+WP_032027678.1  50S ribosomal protein L31 type B [Acinetobacter b...  174     1e-055
+WP_004668481.1  MULTISPECIES: 50S ribosomal protein L31 [Acinetob...  174     2e-055
+WP_031379573.1  50S ribosomal protein L31 [Acinetobacter baumannii]   174     2e-055
+WP_060465219.1  50S ribosomal protein L31 [Acinetobacter sp. LMB-5]   173     4e-055
+WP_005045020.1  50S ribosomal protein L31 type B [Acinetobacter c...  173     4e-055
+WP_004656092.1  MULTISPECIES: 50S ribosomal protein L31 [Acinetob...  173     5e-055
+WP_004802437.1  MULTISPECIES: 50S ribosomal protein L31 [Acinetob...  173     5e-055
+WP_002114896.1  MULTISPECIES: 50S ribosomal protein L31 [Acinetob...  173     5e-055
+WP_049063840.1  50S ribosomal protein L31 [Acinetobacter seifertii]   173     5e-055
+WP_005037093.1  50S ribosomal protein L31 [Acinetobacter calcoace...  172     7e-055
+WP_016142327.1  50S ribosomal protein L31 type B [Acinetobacter p...  172     7e-055
+WP_005239968.1  MULTISPECIES: 50S ribosomal protein L31 [Acinetob...  172     8e-055
+WP_042894627.1  MULTISPECIES: 50S ribosomal protein L31 [Acinetob...  172     8e-055
+WP_005301976.1  MULTISPECIES: 50S ribosomal protein L31 type B [A...  172     1e-054
+WP_016165029.1  50S ribosomal protein L31 [Acinetobacter sp. CIP ...  172     1e-054
+WP_004762213.1  MULTISPECIES: 50S ribosomal protein L31 [Acinetob...  172     1e-054
+WP_004698962.1  50S ribosomal protein L31 [Acinetobacter seifertii]   171     2e-054
+WP_057062093.1  50S ribosomal protein L31 [Acinetobacter pittii]      171     2e-054
+WP_062849596.1  50S ribosomal protein L31 [Acinetobacter lactucae]    171     2e-054
+WP_077169157.1  50S ribosomal protein L31 [Acinetobacter genomosp...  171     2e-054
+WP_004674493.1  50S ribosomal protein L31 [Acinetobacter parvus]      171     2e-054
+WP_005079257.1  MULTISPECIES: 50S ribosomal protein L31 [Acinetob...  171     3e-054
+WP_019456916.1  MULTISPECIES: 50S ribosomal protein L31 [Acinetob...  171     3e-054
+WP_005162745.1  50S ribosomal protein L31 [Acinetobacter sp. NIPH...  170     5e-054
+WP_004794910.1  50S ribosomal protein L31 type B [Acinetobacter s...  170     6e-054
+WP_004916670.1  50S ribosomal protein L31 [Acinetobacter junii]       170     6e-054
+WP_004680625.1  50S ribosomal protein L31 [Acinetobacter parvus]      170     8e-054
+WP_004659161.1  50S ribosomal protein L31 [Acinetobacter sp. NIPH...  170     9e-054
+WP_005218504.1  MULTISPECIES: 50S ribosomal protein L31 [Acinetob...  169     9e-054
+WP_004756222.1  MULTISPECIES: 50S ribosomal protein L31 [Acinetob...  169     1e-053
+WP_077162817.1  50S ribosomal protein L31 [Acinetobacter genomosp...  169     1e-053
+WP_005226565.1  MULTISPECIES: 50S ribosomal protein L31 [Acinetob...  169     2e-053
+WP_018677388.1  50S ribosomal protein L31 [Acinetobacter tjernber...  168     2e-053
+WP_004774205.1  MULTISPECIES: 50S ribosomal protein L31 [Acinetob...  168     4e-053
+WP_039047651.1  50S ribosomal protein L31 [Acinetobacter junii]       168     4e-053
+WP_005051171.1  50S ribosomal protein L31 [Acinetobacter beijerin...  167     6e-053
+WP_005061174.1  50S ribosomal protein L31 [Acinetobacter beijerin...  167     7e-053
+WP_061524214.1  50S ribosomal protein L31 [Acinetobacter venetianus]  166     2e-052
+WP_004637764.1  50S ribosomal protein L31 [Acinetobacter haemolyt...  166     2e-052
+WP_007479144.1  MULTISPECIES: 50S ribosomal protein L31 [Acinetob...  165     7e-052
+WP_005083719.1  MULTISPECIES: 50S ribosomal protein L31 [Acinetob...  164     1e-051
+WP_017395224.1  50S ribosomal protein L31 [Acinetobacter haemolyt...  164     2e-051
+WP_005155032.1  MULTISPECIES: 50S ribosomal protein L31 [Acinetob...  164     2e-051
+WP_061518546.1  50S ribosomal protein L31 [Acinetobacter venetianus]  163     4e-051
+WP_004876612.1  MULTISPECIES: 50S ribosomal protein L31 [Acinetob...  163     4e-051
+WP_004932625.1  MULTISPECIES: 50S ribosomal protein L31 [Acinetob...  158     2e-049
+WP_075911367.1  50S ribosomal protein L31 [Acinetobacter baumannii]   158     3e-049
+WP_004920331.1  MULTISPECIES: 50S ribosomal protein L31 type B [A...  155     4e-048
+WP_049173911.1  50S ribosomal protein L31 [Acinetobacter ursingii]    154     1e-047
+WP_005001286.1  50S ribosomal protein L31 [Acinetobacter ursingii]    154     1e-047
+WP_010111838.1  50S ribosomal protein L31 [Acinetobacter sp. P8-3-8]  154     2e-047
+WP_004991503.1  MULTISPECIES: 50S ribosomal protein L31 [Acinetob...  154     2e-047
+WP_067661744.1  50S ribosomal protein L31 [Acinetobacter sp. TGL-Y2]  153     3e-047
+WP_005016847.1  MULTISPECIES: 50S ribosomal protein L31 [Acinetob...  152     7e-047
+WP_035264993.1  50S ribosomal protein L31 [Acinetobacter sp. Ver3]    152     1e-046
+WP_005023174.1  MULTISPECIES: 50S ribosomal protein L31 [Acinetob...  152     1e-046
+WP_004754795.1  50S ribosomal protein L31 [Acinetobacter sp. ANC ...  151     1e-046
+WP_034682795.1  50S ribosomal protein L31 [Acinetobacter sp. 1294...  151     2e-046
+WP_004898749.1  50S ribosomal protein L31 [Acinetobacter brisouii]    151     3e-046
+WP_016168649.1  50S ribosomal protein L31 [Acinetobacter tandoii]     150     6e-046
+WP_016658507.1  50S ribosomal protein L31 [Acinetobacter indicus]     149     1e-045
+WP_005180368.1  50S ribosomal protein L31 [Acinetobacter sp. CIP ...  149     2e-045
+WP_019836896.1  MULTISPECIES: 50S ribosomal protein L31 [Acinetob...  148     3e-045
+WP_067726730.1  50S ribosomal protein L31 [Acinetobacter sp. SFC]     148     3e-045
+WP_070070537.1  50S ribosomal protein L31 [Acinetobacter qingfeng...  148     3e-045
+WP_086189654.1  50S ribosomal protein L31 [Acinetobacter sp. ANC ...  147     5e-045
+WP_026470897.1  50S ribosomal protein L31 [Alkanindiges illinoise...  147     7e-045
+WP_065994051.1  50S ribosomal protein L31 [Acinetobacter sp. WCHA30]  147     7e-045
+WP_086195808.1  50S ribosomal protein L31 [Acinetobacter sp. ANC ...  147     7e-045
+WP_086198568.1  50S ribosomal protein L31 [Acinetobacter sp. ANC ...  147     1e-044
+WP_048881794.1  50S ribosomal protein L31 [Acinetobacter sp. VT 511]  146     1e-044
+WP_086194156.1  50S ribosomal protein L31 [Acinetobacter sp. ANC ...  146     1e-044
+WP_004809889.1  MULTISPECIES: 50S ribosomal protein L31 [Acinetob...  146     2e-044
+WP_005094222.1  MULTISPECIES: 50S ribosomal protein L31 [Acinetob...  146     2e-044
+WP_076878403.1  50S ribosomal protein L31 [Alkanindiges sp. H1]       146     3e-044
+WP_004732342.1  MULTISPECIES: 50S ribosomal protein L31 [Acinetob...  145     3e-044
+WP_004645016.1  MULTISPECIES: 50S ribosomal protein L31 [Acinetob...  145     3e-044
+WP_004787006.1  MULTISPECIES: 50S ribosomal protein L31 [Acinetob...  145     4e-044
+WP_086174496.1  50S ribosomal protein L31 [Acinetobacter sp. ANC ...  145     4e-044
+WP_067731224.1  50S ribosomal protein L31 [Acinetobacter sp. NCu2...  145     4e-044
+WP_034587776.1  50S ribosomal protein L31 [Acinetobacter sp. HR7]     145     4e-044
+WP_004650536.1  50S ribosomal protein L31 [Acinetobacter bohemicus]   145     5e-044
+WP_074945092.1  50S ribosomal protein L31 [Acinetobacter bohemicus]   145     7e-044
+WP_004974599.1  50S ribosomal protein L31 [Acinetobacter towneri]     144     7e-044
+WP_004281554.1  50S ribosomal protein L31 [Acinetobacter lwoffii]     144     7e-044
+WP_086179992.1  50S ribosomal protein L31 [Acinetobacter sp. ANC ...  144     1e-043
+WP_068975284.1  50S ribosomal protein L31 [Acinetobacter sp. WCHA60]  144     1e-043
+WP_067868705.1  50S ribosomal protein L31 [Acinetobacter sp. SFB]     144     1e-043
+WP_004816804.1  MULTISPECIES: 50S ribosomal protein L31 [Acinetob...  144     2e-043
+WP_068912762.1  50S ribosomal protein L31 [Acinetobacter sp. WCHA34]  143     2e-043
+WP_086164673.1  50S ribosomal protein L31 [Acinetobacter sp. ANC ...  143     3e-043
+WP_086184270.1  50S ribosomal protein L31 [Acinetobacter sp. ANC ...  142     4e-043
+WP_005401314.1  MULTISPECIES: 50S ribosomal protein L31 [Acinetob...  142     6e-043
+WP_004691406.1  50S ribosomal protein L31 [Acinetobacter johnsonii]   142     7e-043
+WP_005034202.1  MULTISPECIES: 50S ribosomal protein L31 [Acinetob...  142     7e-043
+WP_004725595.1  50S ribosomal protein L31 [Acinetobacter guillouiae]  142     8e-043
+WP_086213096.1  50S ribosomal protein L31 [Acinetobacter sp. ANC ...  141     1e-042
+WP_053579470.1  50S ribosomal protein L31 [Acinetobacter sp. TTH0-4]  141     2e-042
+WP_086208998.1  50S ribosomal protein L31 [Acinetobacter sp. ANC ...  141     2e-042
+WP_023273615.1  50S ribosomal protein L31 [Acinetobacter nectaris]    140     2e-042
+WP_054580415.1  50S ribosomal protein L31 [Acinetobacter equi]        140     3e-042
+WP_078389975.1  MULTISPECIES: 50S ribosomal protein L31 [Acinetob...  140     3e-042
+WP_004869698.1  50S ribosomal protein L31 [Acinetobacter gerneri]     140     4e-042
+WP_004825263.1  50S ribosomal protein L31 [Acinetobacter bereziniae]  140     4e-042
+WP_005013081.1  50S ribosomal protein L31 [Acinetobacter bouvetii]    140     5e-042
+WP_086178188.1  50S ribosomal protein L31 [Acinetobacter sp. ANC ...  140     5e-042
+WP_078307953.1  50S ribosomal protein L31 [Moraxella lincolnii]       140     6e-042
+WP_062032294.1  50S ribosomal protein L31 [Acinetobacter sp. BMW17]   139     9e-042
+WP_067762955.1  50S ribosomal protein L31 [Acinetobacter gandensis]   139     1e-041
+WP_078189321.1  MULTISPECIES: 50S ribosomal protein L31 [Acinetob...  138     3e-041
+WP_067669248.1  50S ribosomal protein L31 [Acinetobacter sp. ANC ...  138     3e-041
+WP_058870377.1  50S ribosomal protein L31 [Acinetobacter johnsonii]   137     5e-041
+WP_036366789.1  MULTISPECIES: 50S ribosomal protein L31 [Moraxella]   137     1e-040
+WP_077449633.1  50S ribosomal protein L31 [Psychrobacter sp. CIP ...  135     3e-040
+WP_078275882.1  50S ribosomal protein L31 [Moraxella caviae]          135     4e-040
+WP_062501781.1  50S ribosomal protein L31 [Moraxella lacunata]        135     4e-040
+WP_003656864.1  MULTISPECIES: 50S ribosomal protein L31 [Moraxella]   135     5e-040
+WP_029103198.1  MULTISPECIES: 50S ribosomal protein L31 [Moraxella]   135     5e-040
+WP_007117222.1  50S ribosomal protein L31 [Enhydrobacter sp. H5]      135     7e-040
+WP_065254160.1  50S ribosomal protein L31 [Moraxella osloensis]       134     9e-040
+WP_066886251.1  50S ribosomal protein L31 [Moraxella nonliquefaci...  134     1e-039
+WP_011959789.1  50S ribosomal protein L31 type B [Psychrobacter s...  134     1e-039
+WP_007394157.1  50S ribosomal protein L31 [Psychrobacter sp. 1501...  134     1e-039
+WP_049156436.1  50S ribosomal protein L31 [Moraxella catarrhalis]     134     2e-039
+WP_003669998.1  50S ribosomal protein L31 [Moraxella catarrhalis]     134     2e-039
+WP_019671715.1  50S ribosomal protein L31 type B [Psychrobacter l...  134     2e-039
+WP_066804829.1  50S ribosomal protein L31 [Moraxella oblonga]         134     2e-039
+WP_019519477.1  50S ribosomal protein L31 [Moraxella boevrei]         133     2e-039
+WP_025646314.1  MULTISPECIES: 50S ribosomal protein L31 [Psychrob...  133     2e-039
+WP_078318193.1  50S ribosomal protein L31 [Moraxella porci]           133     2e-039
+WP_049238136.1  MULTISPECIES: 50S ribosomal protein L31 [Moraxella]   133     3e-039
+WP_028857892.1  MULTISPECIES: 50S ribosomal protein L31 type B [P...  133     4e-039
+WP_058025130.1  50S ribosomal protein L31 [Psychrobacter piscatorii]  133     4e-039
+WP_071002901.1  50S ribosomal protein L31 [Psychrobacter sp. Anti...  132     5e-039
+WP_004869702.1  50S ribosomal protein L31 [Acinetobacter gerneri]     132     6e-039
+WP_075102544.1  50S ribosomal protein L31 [Psychrobacter sp. Rd 2...  132     6e-039
+WP_076554543.1  50S ribosomal protein L31 [Moraxella cuniculi]        132     7e-039
+WP_068405148.1  50S ribosomal protein L31 [Psychrobacter sp. SHUES1]  132     8e-039
+WP_036596085.1  50S ribosomal protein L31 [Moraxella osloensis]       132     8e-039
+WP_078254648.1  50S ribosomal protein L31 [Moraxella pluranimalium]   132     9e-039
+WP_062845530.1  50S ribosomal protein L31 [Psychrobacter alimenta...  132     1e-038
+WP_075107333.1  50S ribosomal protein L31 [Psychrobacter sp. C 20.9]  131     1e-038
+WP_058369928.1  MULTISPECIES: 50S ribosomal protein L31 [Psychrob...  131     1e-038
+WP_057761772.1  50S ribosomal protein L31 [Psychrobacter sp. P11G3]   131     2e-038
+WP_011281173.1  MULTISPECIES: 50S ribosomal protein L31 type B [P...  131     2e-038
+WP_021814183.1  50S ribosomal protein L31 [Psychrobacter aquaticus]   131     2e-038
+WP_025652505.1  MULTISPECIES: 50S ribosomal protein L31 [Psychrob...  130     4e-038
+WP_010200640.1  50S ribosomal protein L31 [Psychrobacter sp. PAMC...  130     4e-038
+WP_009767331.1  50S ribosomal protein L31 [Moraxella macacae]         130     4e-038
+WP_011514517.1  50S ribosomal protein L31 type B [Psychrobacter c...  130     5e-038
+WP_068038044.1  MULTISPECIES: 50S ribosomal protein L31 [Psychrob...  130     5e-038
+WP_067057259.1  50S ribosomal protein L31 [Moraxella atlantae]        128     2e-037
+WP_068388375.1  50S ribosomal protein L31 [Ventosimonas gracilis]     128     3e-037
+WP_062533921.1  50S ribosomal protein L31 [Psychrobacter urativor...  128     4e-037
+WP_074936939.1  50S ribosomal protein L31 [Pseudomonas composti]      122     7e-035
+WP_074681139.1  50S ribosomal protein L31 [Pseudomonas alcaliphila]   122     7e-035
+WP_074823544.1  MULTISPECIES: 50S ribosomal protein L31 [Pseudomo...  121     2e-034
+WP_010795098.1  MULTISPECIES: 50S ribosomal protein L31 [Pseudomo...  121     2e-034
+WP_060404219.1  50S ribosomal protein L31 [Pseudomonas amygdali]      120     6e-034
+WP_054988498.1  MULTISPECIES: 50S ribosomal protein L31 [Pseudomo...  120     6e-034
+WP_019365838.1  50S ribosomal protein L31 [Pseudomonas luteola]       120     6e-034
+WP_002554875.1  MULTISPECIES: 50S ribosomal protein L31 [Pseudomo...  120     6e-034
+WP_074755767.1  50S ribosomal protein L31 [Pseudomonas abietaniph...  119     9e-034
+WP_027899813.1  50S ribosomal protein L31 [Pseudomonas syringae]      119     9e-034
+WP_054098707.1  50S ribosomal protein L31 [Pseudomonas amygdali]      119     2e-033
+WP_025261537.1  50S ribosomal protein L31 [Pseudomonas cichorii]      118     2e-033
+WP_024675683.1  50S ribosomal protein L31 [Pseudomonas syringae]      118     3e-033
+WP_032629768.1  50S ribosomal protein L31 [Pseudomonas syringae]      118     3e-033
+WP_004881843.1  MULTISPECIES: 50S ribosomal protein L31 [Pseudomo...  118     4e-033
+WP_040135952.1  50S ribosomal protein L31 [Pseudoalteromonas sp. ...  117     5e-033
+WP_056834634.1  50S ribosomal protein L31 [Pseudomonas sp. Leaf127]   117     5e-033
+WP_054085282.1  MULTISPECIES: 50S ribosomal protein L31 [Pseudomo...  117     5e-033
+WP_081567823.1  50S ribosomal protein L31 [Pseudomonas sp. Bc-h]      117     5e-033
+WP_024643374.1  50S ribosomal protein L31 [Pseudomonas syringae]      117     6e-033
+WP_007248761.1  MULTISPECIES: 50S ribosomal protein L31 [Pseudomo...  117     7e-033
+WP_024682406.1  50S ribosomal protein L31 [Pseudomonas syringae]      117     7e-033
+WP_044319434.1  50S ribosomal protein L31 [Pseudomonas amygdali]      117     8e-033
+WP_062388118.1  50S ribosomal protein L31 [Pseudomonas abietaniph...  117     8e-033
+WP_005764807.1  MULTISPECIES: 50S ribosomal protein L31 type B [P...  117     9e-033
+WP_055001660.1  50S ribosomal protein L31 [Pseudomonas cannabina]     117     9e-033
+WP_065835436.1  50S ribosomal protein L31 [Pseudomonas syringae]      117     9e-033
+WP_072069595.1  50S ribosomal protein L31 [Proteus vulgaris]          117     9e-033
+WP_072064574.1  50S ribosomal protein L31 [Proteus vulgaris]          116     1e-032
+WP_024916093.1  50S ribosomal protein L31 type B [Pseudomonas aer...  116     1e-032
+WP_005889299.1  MULTISPECIES: 50S ribosomal protein L31 [Pseudomo...  117     1e-032
+WP_058760987.1  50S ribosomal protein L31 [Pseudomonas psychrotol...  116     1e-032
+WP_064718602.1  50S ribosomal protein L31 [Proteus hauseri]           116     2e-032
+WP_020431392.1  MULTISPECIES: 50S ribosomal protein L31 [Vibrio]      116     2e-032
+WP_059314409.1  50S ribosomal protein L31 [Pseudomonas oryzihabit...  116     2e-032
+WP_059227567.1  50S ribosomal protein L31 [Pseudomonas sp. EpS/L25]   116     2e-032
+WP_084913794.1  50S ribosomal protein L31 [Pseudomonas graminis]      116     2e-032
+WP_020328104.1  50S ribosomal protein L31 [Vibrio fluvialis]          116     2e-032
+WP_009045397.1  MULTISPECIES: 50S ribosomal protein L31 [Pseudomo...  116     2e-032
+WP_044464797.1  50S ribosomal protein L31 [Pseudomonas sp. MRSN12...  116     2e-032
+WP_049196354.1  50S ribosomal protein L31 [Proteus mirabilis]         115     2e-032
+WP_047573900.1  50S ribosomal protein L31 [Pseudomonas syringae]      116     2e-032
+WP_074887430.1  50S ribosomal protein L31 [Pseudomonas argentinen...  115     2e-032
+WP_020288914.1  50S ribosomal protein L31 [Pseudomonas sp. CFII64]    116     2e-032
+WP_004246279.1  MULTISPECIES: 50S ribosomal protein L31 type B [P...  115     2e-032
+WP_070888105.1  50S ribosomal protein L31 [Pseudomonas argentinen...  115     2e-032
+WP_045881535.1  50S ribosomal protein L31 [Pseudomonas chlororaphis]  115     3e-032
+WP_005739156.1  50S ribosomal protein L31 [Pseudomonas amygdali]      116     3e-032
+WP_019349347.1  50S ribosomal protein L31 [Pseudomonas syringae]      115     3e-032
+WP_003378422.1  50S ribosomal protein L31 [Pseudomonas syringae]      115     3e-032
+WP_017702839.1  50S ribosomal protein L31 [Pseudomonas syringae]      115     3e-032
+WP_023583603.1  50S ribosomal protein L31 [Proteus hauseri]           115     3e-032
+WP_003405399.1  50S ribosomal protein L31 type B [Pseudomonas syr...  115     3e-032
+WP_011268736.1  50S ribosomal protein L31 type B [Pseudomonas syr...  115     3e-032
+WP_010428161.1  MULTISPECIES: 50S ribosomal protein L31 [Pseudomo...  115     3e-032
+WP_024474782.1  50S ribosomal protein L31 [Morganella morganii]       115     4e-032
+WP_075988825.1  50S ribosomal protein L31 [Vibrio fluvialis]          115     4e-032
+WP_003363645.1  MULTISPECIES: 50S ribosomal protein L31 [Pseudomo...  115     4e-032
+WP_036939430.1  50S ribosomal protein L31 [Proteus vulgaris]          115     4e-032
+WP_014602614.1  MULTISPECIES: 50S ribosomal protein L31 [Pseudomo...  115     4e-032
+WP_073169564.1  50S ribosomal protein L31 [Pseudomonas asturiensis]   115     4e-032
+WP_016968545.1  50S ribosomal protein L31 [Pseudomonas fluorescens]   115     4e-032
+WP_024688534.1  50S ribosomal protein L31 [Pseudomonas syringae]      115     5e-032
+WP_070748649.1  50S ribosomal protein L31 [Pseudomonas sp. HMSC06...  115     6e-032
+WP_058158824.1  50S ribosomal protein L31 [Pseudomonas aeruginosa]    115     6e-032
+WP_003092213.1  MULTISPECIES: 50S ribosomal protein L31 type B [P...  115     6e-032
+WP_083181056.1  50S ribosomal protein L31 [Pseudomonas sp. GEV388]    115     6e-032
+WP_078471951.1  50S ribosomal protein L31 [Pseudomonas sp. MF4836]    115     6e-032
+WP_058180848.1  50S ribosomal protein L31 [Pseudomonas aeruginosa]    114     6e-032
+WP_010559267.1  MULTISPECIES: 50S ribosomal protein L31 [Pseudoal...  114     6e-032
+WP_015502498.1  50S ribosomal protein L31 [Pseudomonas aeruginosa]    114     6e-032
+WP_042552547.1  50S ribosomal protein L31 [Pseudomonas fulva]         114     7e-032
+WP_068584912.1  MULTISPECIES: 50S ribosomal protein L31 [Pseudomo...  114     7e-032
+WP_004237695.1  MULTISPECIES: 50S ribosomal protein L31 [Morganella]  114     7e-032
+WP_020298544.1  50S ribosomal protein L31 [Pseudomonas sp. CF161]     114     7e-032
+WP_037012337.1  50S ribosomal protein L31 [Pseudomonas lutea]         114     8e-032
+WP_016350493.1  50S ribosomal protein L31 [Aeromonas hydrophila]      114     8e-032
+WP_007930532.1  50S ribosomal protein L31 [Pseudomonas sp. GM17]      114     8e-032
+WP_073349990.1  MULTISPECIES: 50S ribosomal protein L31 [Aeromonas]   114     8e-032
+WP_042144387.1  MULTISPECIES: 50S ribosomal protein L31 [Pseudoal...  114     8e-032
+WP_025129613.1  50S ribosomal protein L31 [Pseudomonas sp. PH1b]      114     9e-032
+WP_023113980.1  50S ribosomal protein L31 [Pseudomonas aeruginosa]    114     9e-032
+WP_043122476.1  50S ribosomal protein L31 [Aeromonas hydrophila]      114     1e-031
+WP_016703453.1  50S ribosomal protein L31 [Pseudomonas chlororaphis]  114     1e-031
+WP_066749847.1  50S ribosomal protein L31 [Cosenzaea myxofaciens]     114     1e-031
+WP_069369870.1  MULTISPECIES: 50S ribosomal protein L31 [Shigella]    114     1e-031
+WP_028690102.1  MULTISPECIES: 50S ribosomal protein L31 [Pseudomo...  114     1e-031
+WP_024941603.1  MULTISPECIES: 50S ribosomal protein L31 [Aeromonas]   114     1e-031
+WP_068437896.1  50S ribosomal protein L31 [Providencia heimbachae]    114     1e-031
+WP_075121456.1  50S ribosomal protein L31 [Pseudomonas chlororaphis]  114     1e-031
+WP_009050588.1  50S ribosomal protein L31 [Pseudomonas chlororaphis]  114     1e-031
+WP_034027115.1  50S ribosomal protein L31 [Pseudomonas aeruginosa]    114     1e-031
+WP_049858980.1  MULTISPECIES: 50S ribosomal protein L31 [Pseudomo...  114     1e-031
+WP_004906261.1  50S ribosomal protein L31 [Providencia rettgeri]      114     1e-031
+WP_007162739.1  MULTISPECIES: 50S ribosomal protein L31 [Pseudomo...  114     1e-031
+WP_003418539.1  MULTISPECIES: 50S ribosomal protein L31 type B [P...  114     2e-031
+WP_055452219.1  50S ribosomal protein L31 [Vibrio fluvialis]          114     2e-031
+WP_003383662.1  50S ribosomal protein L31 type B [Pseudomonas syr...  114     2e-031
+WP_025732302.1  50S ribosomal protein L31 [Carnimonas nigrificans]    113     2e-031
+WP_070334346.1  50S ribosomal protein L31 [Pseudomonas aeruginosa]    113     2e-031
+WP_011532497.1  50S ribosomal protein L31 type B [Pseudomonas ent...  113     2e-031
+WP_053131721.1  50S ribosomal protein L31 [Pseudomonas sp. CMR5c]     113     2e-031
+WP_025562423.1  50S ribosomal protein L31 [Psychromonas sp. SP041]    113     2e-031
+WP_075672797.1  50S ribosomal protein L31 [Proteus sp. H24]           113     2e-031
+WP_054673427.1  50S ribosomal protein L31 [Photobacterium sp. JCM...  113     2e-031
+WP_059298537.1  50S ribosomal protein L31 [Pseudomonas aeruginosa]    113     2e-031
+WP_023967083.1  50S ribosomal protein L31 [Pseudomonas chlororaphis]  113     3e-031
+WP_049598582.1  50S ribosomal protein L31 [Yersinia nurmii]           113     3e-031
+WP_060844482.1  50S ribosomal protein L31 [Pseudomonas sp. St29]      113     3e-031
+WP_012074719.1  50S ribosomal protein L31 type B [Pseudomonas aer...  113     3e-031
+WP_057388733.1  50S ribosomal protein L31 [Pseudomonas aeruginosa]    113     3e-031
+WP_006661227.1  50S ribosomal protein L31 [Providencia alcalifaci...  113     3e-031
+WP_043163156.1  MULTISPECIES: 50S ribosomal protein L31 type B [A...  113     3e-031
+WP_036969887.1  50S ribosomal protein L31 [Proteus mirabilis]         113     3e-031
+WP_010634187.1  MULTISPECIES: 50S ribosomal protein L31 type B [A...  113     3e-031
+WP_017409631.1  50S ribosomal protein L31 [Aeromonas hydrophila]      113     3e-031
+WP_022643462.1  MULTISPECIES: 50S ribosomal protein L31 [Pseudomo...  113     3e-031
+WP_005328284.1  50S ribosomal protein L31 [Aeromonas media]           113     3e-031
+WP_065992508.1  50S ribosomal protein L31 [Pseudomonas graminis]      113     4e-031
+WP_074888917.1  50S ribosomal protein L31 [Pseudomonas graminis]      112     4e-031
+WP_075961008.1  50S ribosomal protein L31 [Pseudomonas sp. PA15(2...  112     4e-031
+WP_008914237.1  50S ribosomal protein L31 [Providencia sneebia]       112     4e-031
+WP_043132142.1  50S ribosomal protein L31 [Aeromonas media]           112     4e-031
+WP_009835816.1  50S ribosomal protein L31 [Marinomonas sp. MED121]    112     4e-031
+WP_063546663.1  50S ribosomal protein L31 [Pseudomonas putida]        112     5e-031
+WP_008913673.1  50S ribosomal protein L31 [Providencia burhodogra...  112     5e-031
+WP_046854432.1  50S ribosomal protein L31 [Pseudomonas sp. CCOS 191]  112     6e-031
+WP_043556884.1  50S ribosomal protein L31 [Aeromonas bestiarum]       112     6e-031
+WP_023632472.1  50S ribosomal protein L31 [Pseudomonas mosselii]      112     6e-031
+WP_017787156.1  50S ribosomal protein L31 type B [Aeromonas hydro...  112     6e-031
+WP_039430309.1  50S ribosomal protein L31 [Vibrio navarrensis]        112     6e-031
+WP_042065799.1  50S ribosomal protein L31 [Aeromonas hydrophila]      112     6e-031
+WP_043136160.1  50S ribosomal protein L31 [Aeromonas salmonicida]     112     6e-031
+WP_043193214.1  50S ribosomal protein L31 [Pseudomonas rhizosphae...  112     6e-031
+WP_046018436.1  MULTISPECIES: 50S ribosomal protein L31 [Marinomo...  112     6e-031
+WP_047305884.1  50S ribosomal protein L31 [Pseudomonas fluorescens]   112     7e-031
+WP_053396795.1  50S ribosomal protein L31 [Vibrio nereis]             112     7e-031
+WP_032098352.1  50S ribosomal protein L31 [Morganella morganii]       112     7e-031
+WP_039439800.1  MULTISPECIES: 50S ribosomal protein L31 [Vibrio]      112     7e-031
+WP_054891864.1  MULTISPECIES: 50S ribosomal protein L31 [Pseudomo...  112     7e-031
+WP_024662561.1  50S ribosomal protein L31 [Pseudomonas syringae]      112     8e-031
+WP_005300175.1  MULTISPECIES: 50S ribosomal protein L31 type B [A...  112     9e-031
+WP_014657159.1  50S ribosomal protein L31 [Providencia stuartii]      112     1e-030
+WP_045482469.1  50S ribosomal protein L31 [Pseudomonas sp. StFLB209]  112     1e-030
+WP_064512281.1  50S ribosomal protein L31 [Yersinia entomophaga]      111     1e-030
+WP_075930390.1  MULTISPECIES: 50S ribosomal protein L31 [Pseudomo...  111     1e-030
+WP_060840827.1  50S ribosomal protein L31 [Pseudomonas sp. Os17]      111     1e-030
+WP_070883412.1  50S ribosomal protein L31 [Pseudomonas punonensis]    111     1e-030
+WP_065401792.1  50S ribosomal protein L31 [Aeromonas piscicola]       111     1e-030
+WP_060394777.1  50S ribosomal protein L31 [Pseudomonas monteilii]     111     1e-030
+WP_028695326.1  50S ribosomal protein L31 [Pseudomonas cremoricol...  111     1e-030
+WP_003290277.1  50S ribosomal protein L31 type B [Pseudomonas stu...  111     2e-030
+WP_075801902.1  50S ribosomal protein L31 [Pseudomonas putida]        111     2e-030
+WP_042872269.1  50S ribosomal protein L31 [Aeromonas piscicola]       111     2e-030
+WP_012549673.1  MULTISPECIES: 50S ribosomal protein L31 type B [A...  111     2e-030
+WP_032080549.1  50S ribosomal protein L31 [Vibrio fluvialis]          111     2e-030
+WP_009401592.1  50S ribosomal protein L31 [Pseudomonas putida]        110     2e-030
+WP_029297428.1  MULTISPECIES: 50S ribosomal protein L31 [Pseudomo...  111     2e-030
+WP_070929834.1  50S ribosomal protein L31 [Providencia stuartii]      110     2e-030
+WP_036951056.1  50S ribosomal protein L31 [Providencia alcalifaci...  110     2e-030
+WP_042653590.1  50S ribosomal protein L31 [Aeromonas encheleia]       111     2e-030
+WP_011063150.1  MULTISPECIES: 50S ribosomal protein L31 type B [P...  110     2e-030
+WP_027349760.1  50S ribosomal protein L31 [Halotalea alkalilenta]     110     2e-030
+WP_065477779.1  50S ribosomal protein L31 [Aeromonas hydrophila]      110     3e-030
+WP_005310870.1  50S ribosomal protein L31 type B [Aeromonas salmo...  110     3e-030
+WP_003216453.1  MULTISPECIES: 50S ribosomal protein L31 [Pseudomo...  110     3e-030
+WP_014852721.1  50S ribosomal protein L31 [Pseudomonas stutzeri]      110     3e-030
+WP_045046083.1  50S ribosomal protein L31 [Rouxiella chamberiensis]   110     3e-030
+WP_064123906.1  50S ribosomal protein L31 [Halotalea alkalilenta]     110     3e-030
+WP_058075932.1  MULTISPECIES: 50S ribosomal protein L31 [Pseudomo...  110     3e-030
+WP_083159983.1  50S ribosomal protein L31 [Yersinia enterocolitica]   110     4e-030
+WP_059167571.1  50S ribosomal protein L31 [Aeromonas salmonicida]     110     4e-030
+WP_011912949.1  50S ribosomal protein L31 type B [Pseudomonas stu...  110     4e-030
+WP_064302802.1  50S ribosomal protein L31 [Pseudomonas putida]        110     4e-030
+WP_025246874.1  MULTISPECIES: 50S ribosomal protein L31 [Sodalis]     110     4e-030
+WP_062567146.1  50S ribosomal protein L31 [Pseudoalteromonas arab...  110     4e-030
+WP_058064503.1  50S ribosomal protein L31 [Pseudomonas sp. TTU201...  110     4e-030
+WP_025112479.1  50S ribosomal protein L31 [Pseudomonas sp. H1h]       110     4e-030
+WP_068714403.1  50S ribosomal protein L31 [Vibrio tritonius]          110     4e-030
+WP_063707699.1  50S ribosomal protein L31 [Pseudoalteromonas gela...  110     5e-030
+WP_032905607.1  MULTISPECIES: 50S ribosomal protein L31 [Yersinia]    110     5e-030
+WP_017480090.1  MULTISPECIES: 50S ribosomal protein L31 [Pseudomo...  110     5e-030
+WP_084250755.1  50S ribosomal protein L31 [Mycobacterium avium]       110     5e-030
+WP_045157834.1  50S ribosomal protein L31 [Pseudomonas stutzeri]      110     5e-030
+WP_010170240.1  50S ribosomal protein L31 [Pseudomonas sp. PAMC 2...  110     5e-030
+WP_058584106.1  MULTISPECIES: 50S ribosomal protein L31 [Pseudoal...  110     5e-030
+WP_069562849.1  MULTISPECIES: 50S ribosomal protein L31 [Pseudomo...  110     5e-030
+WP_078927213.1  50S ribosomal protein L31 [Vibrio cincinnatiensis]    109     5e-030
+WP_021140431.1  50S ribosomal protein L31 [Aeromonas salmonicida]     110     6e-030
+WP_047883157.1  50S ribosomal protein L31 [Photobacterium ganghwe...  110     6e-030
+WP_077682500.1  50S ribosomal protein L31 [Pseudomonas stutzeri]      109     6e-030
+WP_054094922.1  50S ribosomal protein L31 [Pseudomonas stutzeri]      109     6e-030
+WP_054562425.1  MULTISPECIES: 50S ribosomal protein L31 [Pseudoal...  109     7e-030
+WP_049609312.1  50S ribosomal protein L31 [Yersinia pekkanenii]       109     7e-030
+WP_054554560.1  50S ribosomal protein L31 [Pseudoalteromonas lipo...  109     7e-030
+WP_003284321.1  50S ribosomal protein L31 [Pseudomonas stutzeri]      109     7e-030
+WP_084989145.1  50S ribosomal protein L31 [Vibrio cholerae]           109     8e-030
+WP_084307621.1  50S ribosomal protein L31 [Pseudomonas flavescens]    109     9e-030
+WP_071547547.1  50S ribosomal protein L31 [Providencia rettgeri]      109     1e-029
+WP_006711270.1  50S ribosomal protein L31 [Vibrio ichthyoenteri]      109     1e-029
+WP_076015621.1  50S ribosomal protein L31 [Pseudomonas sp. ATCC P...  109     1e-029
+WP_039575910.1  50S ribosomal protein L31 [Pseudomonas parafulva]     109     1e-029
+WP_019407662.1  50S ribosomal protein L31 type B [Pseudomonas stu...  109     1e-029
+WP_038410659.1  50S ribosomal protein L31 [Pseudomonas cremoricol...  108     1e-029
+WP_006814917.1  50S ribosomal protein L31 [Providencia rustigianii]   108     1e-029
+WP_040002030.1  50S ribosomal protein L31 [Dickeya chrysanthemi]      108     1e-029
+WP_027712816.1  50S ribosomal protein L31 [Dickeya chrysanthemi]      108     1e-029
+WP_012770723.1  50S ribosomal protein L31 [Dickeya chrysanthemi]      108     1e-029
+WP_000643448.1  50S ribosomal protein L31 type B [Vibrio cholerae]    108     1e-029
+WP_000643440.1  MULTISPECIES: 50S ribosomal protein L31 type B [V...  108     1e-029
+WP_042603792.1  50S ribosomal protein L31 [Vibrio harveyi]            108     1e-029
+WP_042846785.1  50S ribosomal protein L31 [Providencia rettgeri]      108     1e-029
+WP_038864672.1  MULTISPECIES: 50S ribosomal protein L31 [Vibrio]      108     1e-029
+WP_055051570.1  50S ribosomal protein L31 [Vibrio metoecus]           108     2e-029
+WP_076576747.1  50S ribosomal protein L31 [Aeromonas sp. RU39B]       108     2e-029
+WP_064665059.1  50S ribosomal protein L31 [Pseudoalteromonas pryd...  108     2e-029
+WP_042035477.1  50S ribosomal protein L31 [Aeromonas popoffii]        108     2e-029
+WP_058068968.1  50S ribosomal protein L31 [Pseudomonas sp. TTU201...  108     2e-029
+WP_045197685.1  50S ribosomal protein L31 [Pseudomonas sp. 2(2015)]   108     2e-029
+WP_023654253.1  50S ribosomal protein L31 [Erwinia piriflorinigrans]  108     2e-029
+WP_014606427.1  50S ribosomal protein L31 [Pantoea ananatis]          108     2e-029
+WP_044412839.1  50S ribosomal protein L31 [Pseudomonas sp. FeS53a]    108     2e-029
+WP_000812360.1  MULTISPECIES: 50S ribosomal protein L31 [Escheric...  108     2e-029
+WP_038443038.1  50S ribosomal protein L31 [Pseudomonas fluorescens]   108     2e-029
+WP_048367004.1  50S ribosomal protein L31 [Pseudomonas helleri]       108     2e-029
+WP_004729223.1  50S ribosomal protein L31 [Vibrio furnissii]          108     2e-029
+WP_000643439.1  50S ribosomal protein L31 type B [Vibrio mimicus]     108     2e-029
+WP_002542462.1  MULTISPECIES: 50S ribosomal protein L31 [Grimontia]   108     2e-029
+WP_050873613.1  50S ribosomal protein L31 [Yersinia frederiksenii]    108     2e-029
+WP_009844387.1  50S ribosomal protein L31 [Vibrio sp. AND4]           108     3e-029
+WP_077663343.1  50S ribosomal protein L31 [Salinivibrio costicola]    108     3e-029
+WP_050082629.1  50S ribosomal protein L31 [Yersinia frederiksenii]    108     3e-029
+WP_060501327.1  50S ribosomal protein L31 [Pseudomonas sp. NBRC 1...  108     3e-029
+WP_054203873.1  MULTISPECIES: 50S ribosomal protein L31 [Pseudoal...  108     3e-029
+WP_043761138.1  50S ribosomal protein L31 [Aeromonas taiwanensis]     108     3e-029
+WP_036763322.1  50S ribosomal protein L31 [Photobacterium damselae]   108     3e-029
+WP_017012004.1  MULTISPECIES: 50S ribosomal protein L31 [Enterovi...  108     3e-029
+WP_077640723.1  50S ribosomal protein L31 [Salinivibrio sp. IB574]    108     3e-029
+WP_062715093.1  50S ribosomal protein L31 [Grimontia marina]          108     3e-029
+WP_000643442.1  MULTISPECIES: 50S ribosomal protein L31 type B [V...  108     3e-029
+WP_035340558.1  MULTISPECIES: 50S ribosomal protein L31 [Dickeya]     107     3e-029
+WP_063881118.1  50S ribosomal protein L31 [Pantoea sp. OXWO6B1]       107     3e-029
+WP_019951403.1  50S ribosomal protein L31 [Kushneria aurantia]        107     3e-029
+WP_077934706.1  50S ribosomal protein L31 [Pseudomonas protegens]     108     4e-029
+WP_033782196.1  MULTISPECIES: 50S ribosomal protein L31 [Pantoea]     107     4e-029
+WP_049605827.1  50S ribosomal protein L31 [Yersinia massiliensis]     107     4e-029
+WP_036972134.1  MULTISPECIES: 50S ribosomal protein L31 [Pseudoal...  107     4e-029
+WP_033738687.1  50S ribosomal protein L31 [Pantoea stewartii]         107     4e-029
+WP_019212873.1  50S ribosomal protein L31 [Yersinia massiliensis]     107     4e-029
+WP_032859931.1  MULTISPECIES: 50S ribosomal protein L31 [Pseudomo...  108     4e-029
+WP_049557762.1  50S ribosomal protein L31 [Yersinia kristensenii]     107     4e-029
+WP_080608411.1  50S ribosomal protein L31 [Yersinia sp. FDAARGOS_...  107     4e-029
+WP_055776867.1  MULTISPECIES: 50S ribosomal protein L31 [Yersinia...  107     4e-029
+WP_039469579.1  50S ribosomal protein L31 type B [Vibrio vulnificus]  107     4e-029
+WP_058559259.1  50S ribosomal protein L31 [Pseudoalteromonas sp. ...  107     4e-029
+WP_074974029.1  50S ribosomal protein L31 [Pseudomonas otitidis]      107     4e-029
+WP_028633961.1  50S ribosomal protein L31 [Pseudomonas parafulva]     107     4e-029
+WP_044174684.1  50S ribosomal protein L31 [Photobacterium damselae]   107     4e-029
+WP_049602348.1  50S ribosomal protein L31 [Yersinia bercovieri]       107     5e-029
+WP_017189219.1  50S ribosomal protein L31 [Vibrio harveyi]            107     5e-029
+WP_050113291.1  50S ribosomal protein L31 [Yersinia kristensenii]     107     5e-029
+WP_025326721.1  50S ribosomal protein L31 [Aeromonas hydrophila]      107     5e-029
+WP_078004508.1  50S ribosomal protein L31 [Izhakiella sp. D4N98]      107     5e-029
+WP_017420212.1  50S ribosomal protein L31 type B [Vibrio vulnificus]  107     5e-029
+WP_000643441.1  50S ribosomal protein L31 type B [Vibrio sp. RC586]   107     5e-029
+WP_026028974.1  50S ribosomal protein L31 [Vibrio ordalii]            107     5e-029
+WP_053009446.1  50S ribosomal protein L31 [Yersinia intermedia]       107     5e-029
+WP_010319081.1  MULTISPECIES: 50S ribosomal protein L31 [Vibrio]      107     5e-029
+WP_004703318.1  50S ribosomal protein L31 [Yersinia aldovae]          107     5e-029
+WP_059764935.1  MULTISPECIES: 50S ribosomal protein L31 [Pseudomo...  107     5e-029
+WP_009619021.1  MULTISPECIES: 50S ribosomal protein L31 [Pseudomo...  107     5e-029
+WP_033731777.1  50S ribosomal protein L31 [Pantoea vagans]            107     6e-029
+WP_038631547.1  MULTISPECIES: 50S ribosomal protein L31 [Yersinia]    107     6e-029
+WP_074012468.1  50S ribosomal protein L31 [Candidatus Sodalis sp....  107     6e-029
+WP_038243728.1  50S ribosomal protein L31 [Yersinia ruckeri]          107     6e-029
+WP_039388329.1  50S ribosomal protein L31 [Pantoea agglomerans]       107     6e-029
+WP_004707629.1  50S ribosomal protein L31 [Yersinia frederiksenii]    107     6e-029
+WP_039924847.1  50S ribosomal protein L31 [Alishewanella aestuarii]   107     6e-029
+WP_011150972.1  50S ribosomal protein L31 type B [Vibrio vulnificus]  107     7e-029
+WP_045101426.1  50S ribosomal protein L31 [Aliivibrio wodanis]        107     7e-029
+WP_061008856.1  50S ribosomal protein L31 [Vibrio harveyi]            107     7e-029
+WP_061037258.1  50S ribosomal protein L31 [Aliivibrio wodanis]        107     7e-029
+WP_038661187.1  MULTISPECIES: 50S ribosomal protein L31 [Dickeya]     107     7e-029
+WP_065600898.1  50S ribosomal protein L31 [Aliivibrio sp. 1S128]      107     7e-029
+WP_010671219.1  MULTISPECIES: 50S ribosomal protein L31 [Pantoea]     107     7e-029
+WP_029790432.1  MULTISPECIES: 50S ribosomal protein L31 [Vibrio]      107     7e-029
+WP_047875829.1  50S ribosomal protein L31 [Photobacterium aphoticum]  107     8e-029
+WP_039040091.1  MULTISPECIES: 50S ribosomal protein L31 [Aeromonas]   107     8e-029
+WP_032820902.1  50S ribosomal protein L31 [Yersinia kristensenii]     107     8e-029
+WP_045403987.1  50S ribosomal protein L31 [Vibrio hyugaensis]         107     8e-029
+WP_043298386.1  50S ribosomal protein L31 [Pseudomonas sp. HMP271]    107     8e-029
+WP_060993595.1  50S ribosomal protein L31 [Aliivibrio wodanis]        107     8e-029
+WP_057958577.1  50S ribosomal protein L31 [Pseudomonas fluorescens]   107     9e-029
+WP_050099119.1  50S ribosomal protein L31 [Yersinia frederiksenii]    107     9e-029
+WP_000643438.1  50S ribosomal protein L31 [Vibrio cholerae]           107     9e-029
+WP_009707432.1  MULTISPECIES: 50S ribosomal protein L31 [Vibrio]      107     9e-029
+WP_048605656.1  50S ribosomal protein L31 [Providencia rettgeri]      107     9e-029
+WP_061005174.1  MULTISPECIES: 50S ribosomal protein L31 [Aliivibrio]  106     9e-029
+WP_006117930.1  50S ribosomal protein L31 [Pantoea stewartii]         106     1e-028
+WP_010361845.1  50S ribosomal protein L31 [Pseudoalteromonas citrea]  106     1e-028
+WP_010449792.1  50S ribosomal protein L31 [Vibrio rotiferianus]       106     1e-028
+WP_070968535.1  50S ribosomal protein L31 [Vibrio sonorensis]         106     1e-028
+WP_058708287.1  50S ribosomal protein L31 [Pantoea stewartii]         106     1e-028
+WP_005446212.1  MULTISPECIES: 50S ribosomal protein L31 [Vibrio]      106     1e-028
+WP_016706760.1  MULTISPECIES: 50S ribosomal protein L31 [Pseudoal...  106     1e-028
+WP_016159256.1  MULTISPECIES: 50S ribosomal protein L31 [Escheric...  106     1e-028
+WP_045440619.1  MULTISPECIES: 50S ribosomal protein L31 [Citrobac...  106     1e-028
+WP_012883776.1  50S ribosomal protein L31 [Dickeya zeae]              106     1e-028
+WP_042881067.1  50S ribosomal protein L31 [Aeromonas sp. ZOR0002]     106     1e-028
+WP_060481011.1  50S ribosomal protein L31 [Pseudomonas sp. NBRC 1...  106     1e-028
+WP_050539845.1  50S ribosomal protein L31 [Yersinia rohdei]           106     1e-028
+WP_004714603.1  50S ribosomal protein L31 [Yersinia rohdei]           106     1e-028
+WP_063331921.1  50S ribosomal protein L31 [Marinomonas sp. TW1]       106     1e-028
+WP_013357014.1  50S ribosomal protein L31 [Pantoea vagans]            106     1e-028
+WP_052899300.1  50S ribosomal protein L31 [Erwinia iniecta]           106     1e-028
+WP_038891879.1  50S ribosomal protein L31 type B [Vibrio campbellii]  106     1e-028
+WP_002208617.1  MULTISPECIES: 50S ribosomal protein L31 type B [Y...  106     1e-028
+WP_004415208.1  50S ribosomal protein L31 [Vibrio orientalis]         106     1e-028
+WP_058078682.1  50S ribosomal protein L31 [Pseudomonas sp. TTU201...  106     1e-028
+WP_046457233.1  50S ribosomal protein L31 [Hafnia alvei]              106     1e-028
+WP_061554927.1  50S ribosomal protein L31 [Obesumbacterium proteus]   106     1e-028
+WP_069586964.1  50S ribosomal protein L31 [Salinivibrio sp. DV]       106     1e-028
+WP_009639086.1  MULTISPECIES: 50S ribosomal protein L31 [Yersinia...  106     1e-028
+WP_063645136.1  50S ribosomal protein L31 [Aliivibrio fischeri]       106     1e-028
+WP_077676117.1  50S ribosomal protein L31 [Salinivibrio proteolyt...  106     1e-028
+WP_014232777.1  50S ribosomal protein L31 [Vibrio sp. EJY3]           106     2e-028
+WP_076962404.1  50S ribosomal protein L31 [Pseudomonas gessardii]     106     2e-028
+WP_033847805.1  MULTISPECIES: 50S ribosomal protein L31 [Yersinia...  106     2e-028
+WP_011079746.1  50S ribosomal protein L31 type B [Vibrio vulnificus]  106     2e-028
+WP_000803993.1  MULTISPECIES: 50S ribosomal protein L31 [Enteroba...  106     2e-028
+WP_069530896.1  50S ribosomal protein L31 [Photobacterium damselae]   106     2e-028
+WP_042075404.1  50S ribosomal protein L31 [Aeromonas sanarellii]      106     2e-028
+WP_034912822.1  MULTISPECIES: 50S ribosomal protein L31 [Erwinia]     106     2e-028
+WP_031374652.1  50S ribosomal protein L31 [Pantoea sp. 3.5.1]         105     2e-028
+WP_074532197.1  50S ribosomal protein L31 [Escherichia coli]          106     2e-028
+
+
+>WP_001224256.1 MULTISPECIES: 50S ribosomal protein L31 type B [Acinetobacter 
+calcoaceticus/baumannii complex]
+Length=84
+
+ Score = 176 bits (447),  Expect = 2e-056, Method: Compositional matrix adjust.
+ Identities = 84/84 (100%), Positives = 84/84 (100%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+           VRQASNEGRVASFNKRFARFNRKS
+Sbjct  61  VRQASNEGRVASFNKRFARFNRKS  84
+
+
+>WP_045544600.1 50S ribosomal protein L31 [Acinetobacter baumannii]
+Length=84
+
+ Score = 176 bits (446),  Expect = 3e-056, Method: Compositional matrix adjust.
+ Identities = 83/84 (99%), Positives = 84/84 (100%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQ+YPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQIYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+           VRQASNEGRVASFNKRFARFNRKS
+Sbjct  61  VRQASNEGRVASFNKRFARFNRKS  84
+
+
+>WP_003654672.1 MULTISPECIES: 50S ribosomal protein L31 type B [Acinetobacter 
+calcoaceticus/baumannii complex]
+Length=84
+
+ Score = 176 bits (445),  Expect = 4e-056, Method: Compositional matrix adjust.
+ Identities = 83/84 (99%), Positives = 84/84 (100%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHPAYQQVLFHDTNADVYFLIGST+QTKQTKEYQGQVYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTLQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+           VRQASNEGRVASFNKRFARFNRKS
+Sbjct  61  VRQASNEGRVASFNKRFARFNRKS  84
+
+
+>WP_086266770.1 50S ribosomal protein L31 [Acinetobacter baumannii]
+Length=84
+
+ Score = 175 bits (444),  Expect = 5e-056, Method: Compositional matrix adjust.
+ Identities = 83/84 (99%), Positives = 84/84 (100%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+           +RQASNEGRVASFNKRFARFNRKS
+Sbjct  61  LRQASNEGRVASFNKRFARFNRKS  84
+
+
+>WP_032050658.1 50S ribosomal protein L31 type B [Acinetobacter baumannii]
+Length=84
+
+ Score = 175 bits (444),  Expect = 6e-056, Method: Compositional matrix adjust.
+ Identities = 83/84 (99%), Positives = 84/84 (100%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHPAYQQVLFHDTNADVYFLIGSTIQ+KQTKEYQGQVYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQSKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+           VRQASNEGRVASFNKRFARFNRKS
+Sbjct  61  VRQASNEGRVASFNKRFARFNRKS  84
+
+
+>WP_032046469.1 50S ribosomal protein L31 type B [Acinetobacter baumannii]
+Length=84
+
+ Score = 175 bits (443),  Expect = 7e-056, Method: Compositional matrix adjust.
+ Identities = 83/84 (99%), Positives = 84/84 (100%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQG+VYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGKVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+           VRQASNEGRVASFNKRFARFNRKS
+Sbjct  61  VRQASNEGRVASFNKRFARFNRKS  84
+
+
+>WP_001224254.1 50S ribosomal protein L31 type B [Acinetobacter baumannii]
+Length=84
+
+ Score = 175 bits (443),  Expect = 7e-056, Method: Compositional matrix adjust.
+ Identities = 83/84 (99%), Positives = 84/84 (100%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+           VR+ASNEGRVASFNKRFARFNRKS
+Sbjct  61  VRKASNEGRVASFNKRFARFNRKS  84
+
+
+>WP_086435681.1 50S ribosomal protein L31 [Acinetobacter baumannii]
+Length=84
+
+ Score = 174 bits (442),  Expect = 9e-056, Method: Compositional matrix adjust.
+ Identities = 83/84 (99%), Positives = 83/84 (99%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISS SHPFYTGE
+Sbjct  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSVSHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+           VRQASNEGRVASFNKRFARFNRKS
+Sbjct  61  VRQASNEGRVASFNKRFARFNRKS  84
+
+
+>WP_023897366.1 50S ribosomal protein L31 [Acinetobacter baumannii]
+Length=84
+
+ Score = 174 bits (442),  Expect = 9e-056, Method: Compositional matrix adjust.
+ Identities = 83/84 (99%), Positives = 83/84 (99%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHP YQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPVYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+           VRQASNEGRVASFNKRFARFNRKS
+Sbjct  61  VRQASNEGRVASFNKRFARFNRKS  84
+
+
+>WP_001224253.1 50S ribosomal protein L31 type B [Acinetobacter baumannii]
+Length=84
+
+ Score = 174 bits (442),  Expect = 9e-056, Method: Compositional matrix adjust.
+ Identities = 83/84 (99%), Positives = 83/84 (99%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQ KEYQGQVYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQAKEYQGQVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+           VRQASNEGRVASFNKRFARFNRKS
+Sbjct  61  VRQASNEGRVASFNKRFARFNRKS  84
+
+
+>WP_004640941.1 MULTISPECIES: 50S ribosomal protein L31 type B [Acinetobacter]
+Length=84
+
+ Score = 174 bits (442),  Expect = 1e-055, Method: Compositional matrix adjust.
+ Identities = 82/84 (98%), Positives = 84/84 (100%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHPAYQQVLFHDTNADVYFLIGST+QTKQTKEYQGQVYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTLQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+           VRQASNEGRVA+FNKRFARFNRKS
+Sbjct  61  VRQASNEGRVATFNKRFARFNRKS  84
+
+
+>WP_032027678.1 50S ribosomal protein L31 type B [Acinetobacter baumannii]
+Length=84
+
+ Score = 174 bits (442),  Expect = 1e-055, Method: Compositional matrix adjust.
+ Identities = 82/84 (98%), Positives = 84/84 (100%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHPAYQQVLFHDTNADVYFLIGST+Q+KQTKEYQGQVYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTLQSKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+           VRQASNEGRVASFNKRFARFNRKS
+Sbjct  61  VRQASNEGRVASFNKRFARFNRKS  84
+
+
+>WP_004668481.1 MULTISPECIES: 50S ribosomal protein L31 [Acinetobacter]
+Length=84
+
+ Score = 174 bits (441),  Expect = 2e-055, Method: Compositional matrix adjust.
+ Identities = 82/84 (98%), Positives = 83/84 (99%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHPAYQQVLFHDTNAD YFLIGST+QTKQTKEYQGQVYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPAYQQVLFHDTNADAYFLIGSTLQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+           VRQASNEGRVASFNKRFARFNRKS
+Sbjct  61  VRQASNEGRVASFNKRFARFNRKS  84
+
+
+>WP_031379573.1 50S ribosomal protein L31 [Acinetobacter baumannii]
+Length=84
+
+ Score = 174 bits (440),  Expect = 2e-055, Method: Compositional matrix adjust.
+ Identities = 83/84 (99%), Positives = 83/84 (99%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHPAYQQVLFHDTNAD YFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPAYQQVLFHDTNADEYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+           VRQASNEGRVASFNKRFARFNRKS
+Sbjct  61  VRQASNEGRVASFNKRFARFNRKS  84
+
+
+>WP_060465219.1 50S ribosomal protein L31 [Acinetobacter sp. LMB-5]
+Length=84
+
+ Score = 173 bits (438),  Expect = 4e-055, Method: Compositional matrix adjust.
+ Identities = 81/84 (96%), Positives = 84/84 (100%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHPAYQQVLFHDTNADVYFLIGST+Q+KQTKEYQG+VYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTVQSKQTKEYQGKVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+           VRQASNEGRVASFNKRFARFNRKS
+Sbjct  61  VRQASNEGRVASFNKRFARFNRKS  84
+
+
+>WP_005045020.1 50S ribosomal protein L31 type B [Acinetobacter calcoaceticus]
+Length=84
+
+ Score = 173 bits (438),  Expect = 4e-055, Method: Compositional matrix adjust.
+ Identities = 81/84 (96%), Positives = 84/84 (100%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHPAYQQVLFHDTNADVYFLIGST+QT+QTKEYQGQVYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTLQTQQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+           VRQASNEGRVA+FNKRFARFNRKS
+Sbjct  61  VRQASNEGRVATFNKRFARFNRKS  84
+
+
+>WP_004656092.1 MULTISPECIES: 50S ribosomal protein L31 [Acinetobacter]
+Length=84
+
+ Score = 173 bits (438),  Expect = 5e-055, Method: Compositional matrix adjust.
+ Identities = 81/84 (96%), Positives = 83/84 (99%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHPAYQQVLFHDTNAD YFLIGST+QTKQTKEYQGQVYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPAYQQVLFHDTNADAYFLIGSTLQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+           VRQASNEGRVASFNKRFARFNRK+
+Sbjct  61  VRQASNEGRVASFNKRFARFNRKA  84
+
+
+>WP_004802437.1 MULTISPECIES: 50S ribosomal protein L31 [Acinetobacter]
+Length=84
+
+ Score = 173 bits (438),  Expect = 5e-055, Method: Compositional matrix adjust.
+ Identities = 81/84 (96%), Positives = 83/84 (99%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHPAYQQVLFHDTNAD YFLIGST+QTKQTKEYQGQVYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPAYQQVLFHDTNADTYFLIGSTLQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+           VRQASNEGRVASFNKRFARFNRK+
+Sbjct  61  VRQASNEGRVASFNKRFARFNRKA  84
+
+
+>WP_002114896.1 MULTISPECIES: 50S ribosomal protein L31 [Acinetobacter]
+ YP_004997568.1 50S ribosomal protein L31 [Acinetobacter pittii PHEA-2]
+Length=84
+
+ Score = 173 bits (438),  Expect = 5e-055, Method: Compositional matrix adjust.
+ Identities = 81/84 (96%), Positives = 84/84 (100%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHPAYQQVLFHDTNADVYFLIGST+Q+KQTKEYQG+VYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTLQSKQTKEYQGKVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+           VRQASNEGRVASFNKRFARFNRKS
+Sbjct  61  VRQASNEGRVASFNKRFARFNRKS  84
+
+
+>WP_049063840.1 50S ribosomal protein L31 [Acinetobacter seifertii]
+Length=84
+
+ Score = 173 bits (438),  Expect = 5e-055, Method: Compositional matrix adjust.
+ Identities = 82/84 (98%), Positives = 83/84 (99%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+           VRQASNEGRVASFNKRF RF+RKS
+Sbjct  61  VRQASNEGRVASFNKRFGRFSRKS  84
+
+
+>WP_005037093.1 50S ribosomal protein L31 [Acinetobacter calcoaceticus]
+Length=84
+
+ Score = 172 bits (437),  Expect = 7e-055, Method: Compositional matrix adjust.
+ Identities = 81/84 (96%), Positives = 83/84 (99%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHPAYQQVLFHDTNAD YFLIGST+QTKQTKEYQGQ+YPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPAYQQVLFHDTNADEYFLIGSTLQTKQTKEYQGQIYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+           VRQASNEGRVASFNKRFARFNRKS
+Sbjct  61  VRQASNEGRVASFNKRFARFNRKS  84
+
+
+>WP_016142327.1 50S ribosomal protein L31 type B [Acinetobacter pittii]
+Length=84
+
+ Score = 172 bits (436),  Expect = 7e-055, Method: Compositional matrix adjust.
+ Identities = 80/84 (95%), Positives = 84/84 (100%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHPAYQQVLFHDTNADVYFLIGST+Q+KQTKEYQG++YPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTLQSKQTKEYQGKIYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+           VRQASNEGRVASFNKRFARFNRKS
+Sbjct  61  VRQASNEGRVASFNKRFARFNRKS  84
+
+
+>WP_005239968.1 MULTISPECIES: 50S ribosomal protein L31 [Acinetobacter]
+Length=84
+
+ Score = 172 bits (436),  Expect = 8e-055, Method: Compositional matrix adjust.
+ Identities = 81/83 (98%), Positives = 82/83 (99%), Gaps = 0/83 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHPAYQQVLFHDTNAD YFLIGST+QTKQTKEYQGQVYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPAYQQVLFHDTNADAYFLIGSTLQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRK  83
+           VRQASNEGRVASFNKRFARFNRK
+Sbjct  61  VRQASNEGRVASFNKRFARFNRK  83
+
+
+>WP_042894627.1 MULTISPECIES: 50S ribosomal protein L31 [Acinetobacter]
+Length=84
+
+ Score = 172 bits (436),  Expect = 8e-055, Method: Compositional matrix adjust.
+ Identities = 81/84 (96%), Positives = 83/84 (99%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHPAYQQVLFHDTNAD YF+IGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPAYQQVLFHDTNADAYFVIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+           VRQASNEGRVA+FNKRFARFNRKS
+Sbjct  61  VRQASNEGRVATFNKRFARFNRKS  84
+
+
+>WP_005301976.1 MULTISPECIES: 50S ribosomal protein L31 type B [Acinetobacter]
+Length=84
+
+ Score = 172 bits (435),  Expect = 1e-054, Method: Compositional matrix adjust.
+ Identities = 80/84 (95%), Positives = 84/84 (100%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHPAYQQVLFHDTNADVYFLIGST+Q+KQTKEYQG+VYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTLQSKQTKEYQGKVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+           VRQASNEGRVA+FNKRFARFNRKS
+Sbjct  61  VRQASNEGRVATFNKRFARFNRKS  84
+
+
+>WP_016165029.1 50S ribosomal protein L31 [Acinetobacter sp. CIP 110321]
+Length=84
+
+ Score = 172 bits (435),  Expect = 1e-054, Method: Compositional matrix adjust.
+ Identities = 80/84 (95%), Positives = 83/84 (99%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHPAYQQVLFHDTNAD YFLIGST+QTKQTKEYQGQVYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPAYQQVLFHDTNADAYFLIGSTLQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+           VRQASNEGRVASFNKRF+RFNRK+
+Sbjct  61  VRQASNEGRVASFNKRFSRFNRKA  84
+
+
+>WP_004762213.1 MULTISPECIES: 50S ribosomal protein L31 [Acinetobacter]
+Length=84
+
+ Score = 172 bits (435),  Expect = 1e-054, Method: Compositional matrix adjust.
+ Identities = 81/83 (98%), Positives = 82/83 (99%), Gaps = 0/83 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHPAYQQVLFHDTNAD YFLIGSTIQTKQTKEYQG+VYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPAYQQVLFHDTNADAYFLIGSTIQTKQTKEYQGKVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRK  83
+           VRQASNEGRVASFNKRFARFNRK
+Sbjct  61  VRQASNEGRVASFNKRFARFNRK  83
+
+
+>WP_004698962.1 50S ribosomal protein L31 [Acinetobacter seifertii]
+Length=84
+
+ Score = 171 bits (434),  Expect = 2e-054, Method: Compositional matrix adjust.
+ Identities = 81/84 (96%), Positives = 83/84 (99%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQG+VYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGEVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+           VRQASNEGRVASFNKRF RF+RKS
+Sbjct  61  VRQASNEGRVASFNKRFGRFSRKS  84
+
+
+>WP_057062093.1 50S ribosomal protein L31 [Acinetobacter pittii]
+Length=84
+
+ Score = 171 bits (434),  Expect = 2e-054, Method: Compositional matrix adjust.
+ Identities = 80/84 (95%), Positives = 84/84 (100%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHPAY+QVLFHDTNADVYFLIGST+Q+KQTKEYQG+VYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPAYKQVLFHDTNADVYFLIGSTLQSKQTKEYQGKVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+           VRQASNEGRVASFNKRFARFNRKS
+Sbjct  61  VRQASNEGRVASFNKRFARFNRKS  84
+
+
+>WP_062849596.1 50S ribosomal protein L31 [Acinetobacter lactucae]
+Length=84
+
+ Score = 171 bits (434),  Expect = 2e-054, Method: Compositional matrix adjust.
+ Identities = 80/84 (95%), Positives = 83/84 (99%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHPAYQQVLFHDTNAD YFLIGST+Q+KQTKEYQG+VYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPAYQQVLFHDTNADAYFLIGSTLQSKQTKEYQGKVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+           VRQASNEGRVASFNKRFARFNRKS
+Sbjct  61  VRQASNEGRVASFNKRFARFNRKS  84
+
+
+>WP_077169157.1 50S ribosomal protein L31 [Acinetobacter genomosp. 33YU]
+Length=84
+
+ Score = 171 bits (433),  Expect = 2e-054, Method: Compositional matrix adjust.
+ Identities = 80/84 (95%), Positives = 83/84 (99%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHPAYQQVLFHDTNADVYFLIGST+Q+KQTKEYQG+VYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTLQSKQTKEYQGKVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+           VRQASNEGRVASFNKRF RFNRKS
+Sbjct  61  VRQASNEGRVASFNKRFGRFNRKS  84
+
+
+>WP_004674493.1 50S ribosomal protein L31 [Acinetobacter parvus]
+Length=84
+
+ Score = 171 bits (433),  Expect = 2e-054, Method: Compositional matrix adjust.
+ Identities = 80/84 (95%), Positives = 83/84 (99%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHPAYQQVLFHDTNAD YFLIGSTIQTKQTKEYQG+VYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPAYQQVLFHDTNADAYFLIGSTIQTKQTKEYQGKVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+           VRQASNEGRVASFNKRF+RFNRK+
+Sbjct  61  VRQASNEGRVASFNKRFSRFNRKA  84
+
+
+>WP_005079257.1 MULTISPECIES: 50S ribosomal protein L31 [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=84
+
+ Score = 171 bits (432),  Expect = 3e-054, Method: Compositional matrix adjust.
+ Identities = 80/84 (95%), Positives = 83/84 (99%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHPAYQQVLFHDTNADVYFLIGST+Q+KQTKEYQG+VYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTLQSKQTKEYQGKVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+           VRQASNEGRVASFNKRFARF RKS
+Sbjct  61  VRQASNEGRVASFNKRFARFTRKS  84
+
+
+>WP_019456916.1 MULTISPECIES: 50S ribosomal protein L31 [Acinetobacter]
+Length=84
+
+ Score = 171 bits (432),  Expect = 3e-054, Method: Compositional matrix adjust.
+ Identities = 80/84 (95%), Positives = 83/84 (99%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHPAYQQVLFHDTNADVYFLIGST+Q+KQTKEYQGQVYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTLQSKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+           VRQASNEGRVASFNKRF RF+RKS
+Sbjct  61  VRQASNEGRVASFNKRFGRFSRKS  84
+
+
+>WP_005162745.1 50S ribosomal protein L31 [Acinetobacter sp. NIPH 284]
+Length=84
+
+ Score = 170 bits (431),  Expect = 5e-054, Method: Compositional matrix adjust.
+ Identities = 79/84 (94%), Positives = 83/84 (99%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHPAYQQVLFHDTNAD YFLIGST+QTKQ+KEYQG+VYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPAYQQVLFHDTNADAYFLIGSTLQTKQSKEYQGKVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+           VRQASNEGRVASFNKRFARFNRK+
+Sbjct  61  VRQASNEGRVASFNKRFARFNRKA  84
+
+
+>WP_004794910.1 50S ribosomal protein L31 type B [Acinetobacter sp. NIPH 817]
+Length=84
+
+ Score = 170 bits (431),  Expect = 6e-054, Method: Compositional matrix adjust.
+ Identities = 79/84 (94%), Positives = 83/84 (99%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHPAYQQVLFHDTNADVYFLIGST+Q+KQTKEYQG+VYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTLQSKQTKEYQGKVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+           VRQ SNEGRVA+FNKRFARFNRKS
+Sbjct  61  VRQTSNEGRVATFNKRFARFNRKS  84
+
+
+>WP_004916670.1 50S ribosomal protein L31 [Acinetobacter junii]
+Length=84
+
+ Score = 170 bits (431),  Expect = 6e-054, Method: Compositional matrix adjust.
+ Identities = 80/84 (95%), Positives = 82/84 (98%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHPAYQQVLFHDTNAD YFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPAYQQVLFHDTNADAYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+           VRQASNEGRVASFNKRF RF+RK+
+Sbjct  61  VRQASNEGRVASFNKRFGRFSRKA  84
+
+
+>WP_004680625.1 50S ribosomal protein L31 [Acinetobacter parvus]
+Length=84
+
+ Score = 170 bits (430),  Expect = 8e-054, Method: Compositional matrix adjust.
+ Identities = 79/84 (94%), Positives = 83/84 (99%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHPAYQQVLFHDTNAD YFLIGSTIQTKQT+EYQG+VYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPAYQQVLFHDTNADAYFLIGSTIQTKQTREYQGKVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+           VRQASNEGRVASFNKRF+RFNRK+
+Sbjct  61  VRQASNEGRVASFNKRFSRFNRKA  84
+
+
+>WP_004659161.1 50S ribosomal protein L31 [Acinetobacter sp. NIPH 236]
+Length=95
+
+ Score = 170 bits (431),  Expect = 9e-054, Method: Compositional matrix adjust.
+ Identities = 79/83 (95%), Positives = 82/83 (99%), Gaps = 0/83 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHPAYQQVLFHDTNAD YFLIGST+QTKQ+KEYQG+VYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPAYQQVLFHDTNADAYFLIGSTLQTKQSKEYQGKVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRK  83
+           VRQASNEGRVASFNKRFARFNRK
+Sbjct  61  VRQASNEGRVASFNKRFARFNRK  83
+
+
+>WP_005218504.1 MULTISPECIES: 50S ribosomal protein L31 [Acinetobacter]
+Length=84
+
+ Score = 169 bits (429),  Expect = 9e-054, Method: Compositional matrix adjust.
+ Identities = 79/83 (95%), Positives = 82/83 (99%), Gaps = 0/83 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHPAYQQVLFHDTNAD YFLIGST+QTKQ+KEYQG+VYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPAYQQVLFHDTNADAYFLIGSTLQTKQSKEYQGKVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRK  83
+           VRQASNEGRVASFNKRFARFNRK
+Sbjct  61  VRQASNEGRVASFNKRFARFNRK  83
+
+
+>WP_004756222.1 MULTISPECIES: 50S ribosomal protein L31 [Acinetobacter]
+Length=84
+
+ Score = 169 bits (429),  Expect = 1e-053, Method: Compositional matrix adjust.
+ Identities = 80/83 (96%), Positives = 81/83 (98%), Gaps = 0/83 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHPAYQQVLFHDTNAD YFLIGSTIQTKQTKEYQG+VYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPAYQQVLFHDTNADAYFLIGSTIQTKQTKEYQGKVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRK  83
+           VRQASNEGRVASF KRFARFNRK
+Sbjct  61  VRQASNEGRVASFKKRFARFNRK  83
+
+
+>WP_077162817.1 50S ribosomal protein L31 [Acinetobacter genomosp. 33YU]
+Length=84
+
+ Score = 169 bits (428),  Expect = 1e-053, Method: Compositional matrix adjust.
+ Identities = 79/84 (94%), Positives = 83/84 (99%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHPAYQQVLFHDTNADVYFLIGST+Q+KQTKEYQG+VYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTLQSKQTKEYQGKVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+           VRQASNEGRVASFNKRF RF+RKS
+Sbjct  61  VRQASNEGRVASFNKRFGRFSRKS  84
+
+
+>WP_005226565.1 MULTISPECIES: 50S ribosomal protein L31 [Acinetobacter]
+Length=84
+
+ Score = 169 bits (427),  Expect = 2e-053, Method: Compositional matrix adjust.
+ Identities = 79/84 (94%), Positives = 82/84 (98%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHPAYQQVLFHDTNAD YFLIGST+QTKQTKEYQG+VYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPAYQQVLFHDTNADAYFLIGSTLQTKQTKEYQGKVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+            RQASNEGRVASFNKRFARFNRK+
+Sbjct  61  QRQASNEGRVASFNKRFARFNRKA  84
+
+
+>WP_018677388.1 50S ribosomal protein L31 [Acinetobacter tjernbergiae]
+Length=82
+
+ Score = 168 bits (426),  Expect = 2e-053, Method: Compositional matrix adjust.
+ Identities = 79/82 (96%), Positives = 81/82 (99%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHPAYQQVLFHDTNAD YFLIGST+QTKQTKEYQGQVYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPAYQQVLFHDTNADAYFLIGSTLQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+           VRQASNEGRVASFNKRFARF+R
+Sbjct  61  VRQASNEGRVASFNKRFARFSR  82
+
+
+>WP_004774205.1 MULTISPECIES: 50S ribosomal protein L31 [Acinetobacter]
+Length=84
+
+ Score = 168 bits (425),  Expect = 4e-053, Method: Compositional matrix adjust.
+ Identities = 79/83 (95%), Positives = 81/83 (98%), Gaps = 0/83 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHPAYQQVLFHDTNAD YFLIGST+QTKQTKEYQG+VYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPAYQQVLFHDTNADAYFLIGSTLQTKQTKEYQGKVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRK  83
+            RQASNEGRVASFNKRFARFNRK
+Sbjct  61  QRQASNEGRVASFNKRFARFNRK  83
+
+
+>WP_039047651.1 50S ribosomal protein L31 [Acinetobacter junii]
+Length=84
+
+ Score = 168 bits (425),  Expect = 4e-053, Method: Compositional matrix adjust.
+ Identities = 79/84 (94%), Positives = 81/84 (96%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHPAYQQVLFHDTNAD YFLIGSTIQTK TKEYQGQVYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPAYQQVLFHDTNADAYFLIGSTIQTKHTKEYQGQVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+           VRQASNEGRVASFNKRF RF+RK+
+Sbjct  61  VRQASNEGRVASFNKRFGRFSRKA  84
+
+
+>WP_005051171.1 50S ribosomal protein L31 [Acinetobacter beijerinckii]
+Length=84
+
+ Score = 167 bits (424),  Expect = 6e-053, Method: Compositional matrix adjust.
+ Identities = 78/84 (93%), Positives = 82/84 (98%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHPAYQQVLFHDTNAD YFLIGST+QTKQTKEYQG VYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPAYQQVLFHDTNADAYFLIGSTLQTKQTKEYQGTVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+           VRQASNEGRVASFNKRF+RF+RK+
+Sbjct  61  VRQASNEGRVASFNKRFSRFSRKA  84
+
+
+>WP_005061174.1 50S ribosomal protein L31 [Acinetobacter beijerinckii]
+Length=84
+
+ Score = 167 bits (424),  Expect = 7e-053, Method: Compositional matrix adjust.
+ Identities = 78/84 (93%), Positives = 82/84 (98%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHP YQQVLFHDTNADVYFLIGST+QTKQTKEYQG VYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPVYQQVLFHDTNADVYFLIGSTLQTKQTKEYQGTVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+           VRQASNEGRVASFNKRF+RF+RK+
+Sbjct  61  VRQASNEGRVASFNKRFSRFSRKA  84
+
+
+>WP_061524214.1 50S ribosomal protein L31 [Acinetobacter venetianus]
+Length=84
+
+ Score = 166 bits (421),  Expect = 2e-052, Method: Compositional matrix adjust.
+ Identities = 78/84 (93%), Positives = 80/84 (95%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHP YQQVLFHDTNADVYFLIGST+QTKQTKEYQG+VYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPTYQQVLFHDTNADVYFLIGSTLQTKQTKEYQGKVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+            RQASNEGRVASFNKRF RFNRK 
+Sbjct  61  QRQASNEGRVASFNKRFGRFNRKG  84
+
+
+>WP_004637764.1 50S ribosomal protein L31 [Acinetobacter haemolyticus]
+Length=84
+
+ Score = 166 bits (420),  Expect = 2e-052, Method: Compositional matrix adjust.
+ Identities = 78/84 (93%), Positives = 80/84 (95%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHP YQ+VLFHDTNAD YFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPVYQKVLFHDTNADAYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+            RQASNEGRVASFNKRF RFNRK+
+Sbjct  61  QRQASNEGRVASFNKRFGRFNRKA  84
+
+
+>WP_007479144.1 MULTISPECIES: 50S ribosomal protein L31 [Acinetobacter]
+Length=84
+
+ Score = 165 bits (417),  Expect = 7e-052, Method: Compositional matrix adjust.
+ Identities = 77/84 (92%), Positives = 79/84 (94%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHP YQQVLFHDTNAD YFLIGST+QTKQTKEYQG+VYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPTYQQVLFHDTNADAYFLIGSTLQTKQTKEYQGKVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+            RQASNEGRVASFNKRF RFNRK 
+Sbjct  61  QRQASNEGRVASFNKRFGRFNRKG  84
+
+
+>WP_005083719.1 MULTISPECIES: 50S ribosomal protein L31 [Acinetobacter]
+Length=84
+
+ Score = 164 bits (415),  Expect = 1e-051, Method: Compositional matrix adjust.
+ Identities = 77/84 (92%), Positives = 80/84 (95%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHP YQ+VLFHDTNAD YFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPVYQKVLFHDTNADAYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+            RQASNEGRVASFNKRF RF+RK+
+Sbjct  61  QRQASNEGRVASFNKRFGRFSRKA  84
+
+
+>WP_017395224.1 50S ribosomal protein L31 [Acinetobacter haemolyticus]
+Length=84
+
+ Score = 164 bits (414),  Expect = 2e-051, Method: Compositional matrix adjust.
+ Identities = 77/84 (92%), Positives = 79/84 (94%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHP YQ+VLFHDTNAD YFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPVYQKVLFHDTNADAYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+            RQASNEGRVASFNKRF  FNRK+
+Sbjct  61  QRQASNEGRVASFNKRFGHFNRKA  84
+
+
+>WP_005155032.1 MULTISPECIES: 50S ribosomal protein L31 [Acinetobacter]
+Length=84
+
+ Score = 164 bits (414),  Expect = 2e-051, Method: Compositional matrix adjust.
+ Identities = 76/84 (90%), Positives = 80/84 (95%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRK IHP YQQVLFHDTNAD YFLIGST+Q+KQT+EYQG+VYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKGIHPTYQQVLFHDTNADTYFLIGSTLQSKQTREYQGKVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+           VRQASNEGRVASFNKRFARFNR S
+Sbjct  61  VRQASNEGRVASFNKRFARFNRNS  84
+
+
+>WP_061518546.1 50S ribosomal protein L31 [Acinetobacter venetianus]
+Length=84
+
+ Score = 163 bits (412),  Expect = 4e-051, Method: Compositional matrix adjust.
+ Identities = 76/84 (90%), Positives = 78/84 (93%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHP YQQVLFHDTN D YFLIGST+QTKQTKEYQG+VYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPTYQQVLFHDTNVDAYFLIGSTLQTKQTKEYQGKVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+            RQASNEGRVASFNKRF RFNRK 
+Sbjct  61  QRQASNEGRVASFNKRFGRFNRKG  84
+
+
+>WP_004876612.1 MULTISPECIES: 50S ribosomal protein L31 [Acinetobacter]
+Length=84
+
+ Score = 163 bits (412),  Expect = 4e-051, Method: Compositional matrix adjust.
+ Identities = 76/84 (90%), Positives = 79/84 (94%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRK+IHP YQQVLFHDTNAD YFLIGST+QTKQTKEYQG+VYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKNIHPTYQQVLFHDTNADAYFLIGSTLQTKQTKEYQGKVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+            RQASNEGRVASFNKRF RFNRK 
+Sbjct  61  QRQASNEGRVASFNKRFGRFNRKG  84
+
+
+>WP_004932625.1 MULTISPECIES: 50S ribosomal protein L31 [Acinetobacter]
+Length=82
+
+ Score = 158 bits (400),  Expect = 2e-049, Method: Compositional matrix adjust.
+ Identities = 74/82 (90%), Positives = 77/82 (94%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR  IHP YQQVLFHDTNADVYFLIGST+QTKQT+EYQG+VYPYVTLDISSASHPFYTGE
+Sbjct  1   MRSGIHPEYQQVLFHDTNADVYFLIGSTLQTKQTREYQGKVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+           VRQASNEGRVASFNKRF RF R
+Sbjct  61  VRQASNEGRVASFNKRFKRFKR  82
+
+
+>WP_075911367.1 50S ribosomal protein L31, partial [Acinetobacter baumannii]
+Length=76
+
+ Score = 158 bits (399),  Expect = 3e-049, Method: Compositional matrix adjust.
+ Identities = 76/76 (100%), Positives = 76/76 (100%), Gaps = 0/76 (0%)
+
+Query  9   YQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGEVRQASNEG  68
+           YQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGEVRQASNEG
+Sbjct  1   YQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGEVRQASNEG  60
+
+Query  69  RVASFNKRFARFNRKS  84
+           RVASFNKRFARFNRKS
+Sbjct  61  RVASFNKRFARFNRKS  76
+
+
+>WP_004920331.1 MULTISPECIES: 50S ribosomal protein L31 type B [Acinetobacter]
+Length=82
+
+ Score = 155 bits (392),  Expect = 4e-048, Method: Compositional matrix adjust.
+ Identities = 71/82 (87%), Positives = 78/82 (95%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR+ IHP YQQVLFHDTNAD YF+IGSTIQTKQT+EY+G+VYPYVTLDISSASHPFYTGE
+Sbjct  1   MRQGIHPEYQQVLFHDTNADAYFIIGSTIQTKQTREYEGKVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+           VRQASNEGRVA+FNKRF+RF R
+Sbjct  61  VRQASNEGRVATFNKRFSRFKR  82
+
+
+>WP_049173911.1 50S ribosomal protein L31 [Acinetobacter ursingii]
+Length=82
+
+ Score = 154 bits (389),  Expect = 1e-047, Method: Compositional matrix adjust.
+ Identities = 71/82 (87%), Positives = 76/82 (93%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR  IHP YQQVLFHDTNAD YF+IGSTIQTKQT+EY+G+ YPYVTLDISSASHPFYTGE
+Sbjct  1   MRNGIHPEYQQVLFHDTNADTYFVIGSTIQTKQTREYEGKTYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+           VRQASNEGRVASFNKRF+RF R
+Sbjct  61  VRQASNEGRVASFNKRFSRFKR  82
+
+
+>WP_005001286.1 50S ribosomal protein L31 [Acinetobacter ursingii]
+Length=82
+
+ Score = 154 bits (389),  Expect = 1e-047, Method: Compositional matrix adjust.
+ Identities = 71/82 (87%), Positives = 76/82 (93%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR  IHP YQQVLFHDTNAD YF+IGSTIQTKQT+EY+G+ YPYVTLDISSASHPFYTGE
+Sbjct  1   MRNGIHPEYQQVLFHDTNADAYFVIGSTIQTKQTREYEGKTYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+           VRQASNEGRVASFNKRF+RF R
+Sbjct  61  VRQASNEGRVASFNKRFSRFKR  82
+
+
+>WP_010111838.1 50S ribosomal protein L31 [Acinetobacter sp. P8-3-8]
+Length=82
+
+ Score = 154 bits (388),  Expect = 2e-047, Method: Compositional matrix adjust.
+ Identities = 70/82 (85%), Positives = 77/82 (94%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR +IHP YQ+VLFHDTNAD YF+IGSTIQ+KQ+KEYQG+ YPYVTLDISSASHPFYTGE
+Sbjct  1   MRANIHPQYQEVLFHDTNADAYFVIGSTIQSKQSKEYQGKTYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+           VRQASNEGRVASFNKRF+RF R
+Sbjct  61  VRQASNEGRVASFNKRFSRFKR  82
+
+
+>WP_004991503.1 MULTISPECIES: 50S ribosomal protein L31 [Acinetobacter]
+Length=82
+
+ Score = 154 bits (388),  Expect = 2e-047, Method: Compositional matrix adjust.
+ Identities = 71/82 (87%), Positives = 76/82 (93%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR  IHP YQQVLFHDTNAD YF+IGSTIQTKQT+EY+G+ YPYVTLDISSASHPFYTGE
+Sbjct  1   MRNGIHPDYQQVLFHDTNADAYFVIGSTIQTKQTREYEGKTYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+           VRQASNEGRVASFNKRF+RF R
+Sbjct  61  VRQASNEGRVASFNKRFSRFKR  82
+
+
+>WP_067661744.1 50S ribosomal protein L31 [Acinetobacter sp. TGL-Y2]
+Length=82
+
+ Score = 153 bits (387),  Expect = 3e-047, Method: Compositional matrix adjust.
+ Identities = 70/82 (85%), Positives = 75/82 (91%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR DIHP YQ VLFHDTNAD YF+IGST+Q+KQTKEYQG+VYPYVTLDISS SHPFYTGE
+Sbjct  1   MRTDIHPQYQDVLFHDTNADAYFIIGSTMQSKQTKEYQGKVYPYVTLDISSVSHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+           +RQASNEGRVASFN RFARF R
+Sbjct  61  IRQASNEGRVASFNNRFARFKR  82
+
+
+>WP_005016847.1 MULTISPECIES: 50S ribosomal protein L31 [Acinetobacter]
+Length=84
+
+ Score = 152 bits (384),  Expect = 7e-047, Method: Compositional matrix adjust.
+ Identities = 69/82 (84%), Positives = 75/82 (91%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHP YQ+VLFHDTNADVYF+IGST++ KQTKEY+G+ YPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPEYQEVLFHDTNADVYFVIGSTMKPKQTKEYEGKTYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+           VRQ  NEGRVASFNKRF RF R
+Sbjct  61  VRQVGNEGRVASFNKRFGRFKR  82
+
+
+>WP_035264993.1 50S ribosomal protein L31 [Acinetobacter sp. Ver3]
+Length=83
+
+ Score = 152 bits (383),  Expect = 1e-046, Method: Compositional matrix adjust.
+ Identities = 70/83 (84%), Positives = 76/83 (92%), Gaps = 0/83 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR +IHP Y +VLFHDTNAD YF+IGSTIQ+KQTKEYQG+ YPYVTLDISSASHPFYTGE
+Sbjct  1   MRPNIHPEYHEVLFHDTNADQYFIIGSTIQSKQTKEYQGKTYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRK  83
+           VRQA+NEGRVASFNKRF RF RK
+Sbjct  61  VRQANNEGRVASFNKRFGRFKRK  83
+
+
+>WP_005023174.1 MULTISPECIES: 50S ribosomal protein L31 [Acinetobacter]
+Length=84
+
+ Score = 152 bits (383),  Expect = 1e-046, Method: Compositional matrix adjust.
+ Identities = 68/82 (83%), Positives = 75/82 (91%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHP YQ+VLFHDTNADVYF+IGST++ KQTKEY+G+ YPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPEYQEVLFHDTNADVYFVIGSTMKPKQTKEYEGKTYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+           VRQ  NEGR+ASFNKRF RF R
+Sbjct  61  VRQVGNEGRIASFNKRFGRFKR  82
+
+
+>WP_004754795.1 50S ribosomal protein L31 [Acinetobacter sp. ANC 3789]
+Length=85
+
+ Score = 151 bits (382),  Expect = 1e-046, Method: Compositional matrix adjust.
+ Identities = 70/83 (84%), Positives = 77/83 (93%), Gaps = 0/83 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRK IHP YQQVLFHDTNAD YFLIGST++  QT+EYQGQVYPYVTLDISSASHPFYTGE
+Sbjct  1   MRKAIHPDYQQVLFHDTNADSYFLIGSTLKPSQTREYQGQVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRK  83
+           VRQASNEGRVA+FN++FARF +K
+Sbjct  61  VRQASNEGRVANFNRKFARFAKK  83
+
+
+>WP_034682795.1 50S ribosomal protein L31 [Acinetobacter sp. 1294596]
+Length=84
+
+ Score = 151 bits (382),  Expect = 2e-046, Method: Compositional matrix adjust.
+ Identities = 68/82 (83%), Positives = 75/82 (91%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHP YQ+VLFHDTNADVYF+IGST++ KQTKEY+G+ YPYVTLDISSASHPFYTGE
+Sbjct  1   MRKDIHPDYQEVLFHDTNADVYFVIGSTMKPKQTKEYEGKTYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+           VRQ  NEGR+ASFNKRF RF R
+Sbjct  61  VRQVGNEGRIASFNKRFGRFKR  82
+
+
+>WP_004898749.1 50S ribosomal protein L31 [Acinetobacter brisouii]
+Length=85
+
+ Score = 151 bits (381),  Expect = 3e-046, Method: Compositional matrix adjust.
+ Identities = 68/83 (82%), Positives = 78/83 (94%), Gaps = 0/83 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           M+++IHP YQQVLFHDTNAD YFLIGST++  Q+KEYQGQVYPYVTLDISSASHPFYTGE
+Sbjct  1   MKQEIHPDYQQVLFHDTNADTYFLIGSTLKPSQSKEYQGQVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRK  83
+           VRQASNEGRVA+FN++FARF +K
+Sbjct  61  VRQASNEGRVANFNRKFARFAKK  83
+
+
+>WP_016168649.1 50S ribosomal protein L31 [Acinetobacter tandoii]
+Length=84
+
+ Score = 150 bits (378),  Expect = 6e-046, Method: Compositional matrix adjust.
+ Identities = 69/82 (84%), Positives = 75/82 (91%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR +IHP Y++VLFHDTNAD YF+IGST+ T Q KEYQGQVYPYV+LDISSASHPFYTGE
+Sbjct  1   MRPNIHPEYREVLFHDTNADAYFIIGSTMHTAQQKEYQGQVYPYVSLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+           VRQASNEGRVASFNKRFARF R
+Sbjct  61  VRQASNEGRVASFNKRFARFQR  82
+
+
+>WP_016658507.1 50S ribosomal protein L31 [Acinetobacter indicus]
+Length=85
+
+ Score = 149 bits (377),  Expect = 1e-045, Method: Compositional matrix adjust.
+ Identities = 67/82 (82%), Positives = 76/82 (93%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR +IHP YQ+VLFHDTNAD YF+IGST++ +QTKEYQG++YPY+TLDISSASHPFYTGE
+Sbjct  1   MRPEIHPEYQEVLFHDTNADAYFIIGSTLKPQQTKEYQGKIYPYMTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+            RQASNEGRVASFNKRFARF R
+Sbjct  61  QRQASNEGRVASFNKRFARFKR  82
+
+
+>WP_005180368.1 50S ribosomal protein L31 [Acinetobacter sp. CIP 53.82]
+Length=85
+
+ Score = 149 bits (375),  Expect = 2e-045, Method: Compositional matrix adjust.
+ Identities = 67/82 (82%), Positives = 76/82 (93%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR +IHP YQ+VLFHDTNAD YF+IGST++ +QTKEYQG++YPY+TLDISSASHPFYTGE
+Sbjct  1   MRPEIHPEYQEVLFHDTNADAYFIIGSTLKPQQTKEYQGRIYPYMTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+            RQASNEGRVASFNKRFARF R
+Sbjct  61  QRQASNEGRVASFNKRFARFKR  82
+
+
+>WP_019836896.1 MULTISPECIES: 50S ribosomal protein L31 [Acinetobacter]
+Length=84
+
+ Score = 148 bits (374),  Expect = 3e-045, Method: Compositional matrix adjust.
+ Identities = 67/84 (80%), Positives = 77/84 (92%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR +IHP Y++VLFHDTNA+ YF+IGST+Q+ QTKEY+G+VYPYVTLDISSASHPFYTGE
+Sbjct  1   MRPNIHPEYREVLFHDTNANAYFVIGSTLQSSQTKEYEGKVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+            RQ SNEGRVASFNKRFARF RK+
+Sbjct  61  QRQTSNEGRVASFNKRFARFKRKA  84
+
+
+>WP_067726730.1 50S ribosomal protein L31 [Acinetobacter sp. SFC]
+Length=84
+
+ Score = 148 bits (374),  Expect = 3e-045, Method: Compositional matrix adjust.
+ Identities = 68/82 (83%), Positives = 75/82 (91%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR +IHP Y++VLFHDTNAD YF+IGST+QT+QTK YQGQ YPYVTLD+SSASHPFYTGE
+Sbjct  1   MRANIHPEYREVLFHDTNADAYFIIGSTLQTQQTKNYQGQDYPYVTLDVSSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+            RQASNEGRVASFNKRFARF R
+Sbjct  61  QRQASNEGRVASFNKRFARFKR  82
+
+
+>WP_070070537.1 50S ribosomal protein L31 [Acinetobacter qingfengensis]
+Length=84
+
+ Score = 148 bits (373),  Expect = 3e-045, Method: Compositional matrix adjust.
+ Identities = 66/82 (80%), Positives = 77/82 (94%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           M+K+IHP YQ VLFHDTNAD+YF+IGST+Q+KQT+EY+G+ YPYV+LDISSASHPFYTGE
+Sbjct  1   MQKNIHPQYQDVLFHDTNADIYFVIGSTLQSKQTREYEGKTYPYVSLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+            RQASNEGRVASFNKRF+RF R
+Sbjct  61  QRQASNEGRVASFNKRFSRFKR  82
+
+
+>WP_086189654.1 50S ribosomal protein L31 [Acinetobacter sp. ANC 3832]
+Length=82
+
+ Score = 147 bits (372),  Expect = 5e-045, Method: Compositional matrix adjust.
+ Identities = 68/82 (83%), Positives = 73/82 (89%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR +IHP YQ+VLFHDTNAD YF+IGSTIQTK  KEYQG+ YPYVTLDISSASHPFYTGE
+Sbjct  1   MRVNIHPQYQEVLFHDTNADAYFIIGSTIQTKHNKEYQGKSYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+           VRQ  NEGRVASFNKRF+RF R
+Sbjct  61  VRQVGNEGRVASFNKRFSRFKR  82
+
+
+>WP_026470897.1 50S ribosomal protein L31 [Alkanindiges illinoisensis]
+Length=86
+
+ Score = 147 bits (371),  Expect = 7e-045, Method: Compositional matrix adjust.
+ Identities = 66/80 (83%), Positives = 76/80 (95%), Gaps = 0/80 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR +IHP+YQ+VLFHDTNADVYF+I ST+Q KQT+E++G++YPYVTLDISSASHPFYTGE
+Sbjct  1   MRANIHPSYQEVLFHDTNADVYFVIRSTLQPKQTREFEGKIYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARF  80
+           VRQASNEGRVASFNKRF RF
+Sbjct  61  VRQASNEGRVASFNKRFGRF  80
+
+
+>WP_065994051.1 50S ribosomal protein L31 [Acinetobacter sp. WCHA30]
+Length=82
+
+ Score = 147 bits (371),  Expect = 7e-045, Method: Compositional matrix adjust.
+ Identities = 67/82 (82%), Positives = 75/82 (91%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR +IHP Y+QVLFHDTNA+ +FLIGSTIQTKQT+EY+GQ YPYV LDISSASHPFYTGE
+Sbjct  1   MRPNIHPEYRQVLFHDTNANAFFLIGSTIQTKQTREYEGQEYPYVALDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+           VRQ +NEGR+ASFNKRFARF R
+Sbjct  61  VRQINNEGRIASFNKRFARFKR  82
+
+
+>WP_086195808.1 50S ribosomal protein L31 [Acinetobacter sp. ANC 4218]
+Length=84
+
+ Score = 147 bits (371),  Expect = 7e-045, Method: Compositional matrix adjust.
+ Identities = 68/80 (85%), Positives = 73/80 (91%), Gaps = 0/80 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR DIHP YQQVLFHDTNADVYF+IGST++  QT+EY+GQ YPYVTLDISSASHPFYTGE
+Sbjct  1   MRPDIHPDYQQVLFHDTNADVYFVIGSTLKPTQTREYEGQTYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARF  80
+            RQ SNEGRVASFNKRFARF
+Sbjct  61  QRQTSNEGRVASFNKRFARF  80
+
+
+>WP_086198568.1 50S ribosomal protein L31 [Acinetobacter sp. ANC 4169]
+Length=84
+
+ Score = 147 bits (370),  Expect = 1e-044, Method: Compositional matrix adjust.
+ Identities = 68/82 (83%), Positives = 73/82 (89%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR DIHP YQ VLFHDTNADVYF+IGST++  QT+EY+GQ YPYVTLDISSASHPFYTGE
+Sbjct  1   MRPDIHPDYQPVLFHDTNADVYFVIGSTLKPTQTREYEGQTYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+            RQ SNEGRVASFNKRFARF R
+Sbjct  61  QRQTSNEGRVASFNKRFARFKR  82
+
+
+>WP_048881794.1 50S ribosomal protein L31 [Acinetobacter sp. VT 511]
+Length=83
+
+ Score = 146 bits (369),  Expect = 1e-044, Method: Compositional matrix adjust.
+ Identities = 66/82 (80%), Positives = 74/82 (90%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR DIHP Y++VLFHDTNADVYF+IGST+ + QT+EY+G+ YPYVTLDISSASHPFYTGE
+Sbjct  1   MRPDIHPEYREVLFHDTNADVYFIIGSTMNSSQTREYEGKTYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+            RQ SNEGRVASFNKRFARF R
+Sbjct  61  QRQTSNEGRVASFNKRFARFKR  82
+
+
+>WP_086194156.1 50S ribosomal protein L31 [Acinetobacter sp. ANC 4655]
+Length=84
+
+ Score = 146 bits (369),  Expect = 1e-044, Method: Compositional matrix adjust.
+ Identities = 67/82 (82%), Positives = 74/82 (90%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR + HP Y++VLFHDTNAD YF+IGST+QT+QTK YQGQ YPYVTLD+SSASHPFYTGE
+Sbjct  1   MRANTHPEYREVLFHDTNADAYFIIGSTLQTQQTKNYQGQDYPYVTLDVSSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+            RQASNEGRVASFNKRFARF R
+Sbjct  61  QRQASNEGRVASFNKRFARFKR  82
+
+
+>WP_004809889.1 MULTISPECIES: 50S ribosomal protein L31 [Acinetobacter]
+Length=83
+
+ Score = 146 bits (369),  Expect = 2e-044, Method: Compositional matrix adjust.
+ Identities = 66/82 (80%), Positives = 74/82 (90%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR DIHP Y++VLFHDTNADVYF+IGST+ + QT+EY+G+ YPYVTLDISSASHPFYTGE
+Sbjct  1   MRPDIHPEYREVLFHDTNADVYFVIGSTMNSSQTREYEGKTYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+            RQ SNEGRVASFNKRFARF R
+Sbjct  61  QRQTSNEGRVASFNKRFARFKR  82
+
+
+>WP_005094222.1 MULTISPECIES: 50S ribosomal protein L31 [Acinetobacter]
+Length=83
+
+ Score = 146 bits (368),  Expect = 2e-044, Method: Compositional matrix adjust.
+ Identities = 66/82 (80%), Positives = 73/82 (89%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR DIHPAY++VLFHDTNAD YF+IGST+ + QTKEY+G+ YPYVTLDISSASHPFYTGE
+Sbjct  1   MRPDIHPAYREVLFHDTNADTYFVIGSTMNSSQTKEYEGKTYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+            RQ SNEGRVASFNKRF RF R
+Sbjct  61  QRQTSNEGRVASFNKRFGRFKR  82
+
+
+>WP_076878403.1 50S ribosomal protein L31 [Alkanindiges sp. H1]
+Length=86
+
+ Score = 146 bits (368),  Expect = 3e-044, Method: Compositional matrix adjust.
+ Identities = 66/80 (83%), Positives = 74/80 (93%), Gaps = 0/80 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR +IHP YQ+VLFHDTNADVYF+I ST+Q KQT+E++G+ YPYVTLDISSASHPFYTGE
+Sbjct  1   MRSNIHPTYQEVLFHDTNADVYFVIRSTMQPKQTREFEGKTYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARF  80
+           VRQASNEGRVASFNKRF RF
+Sbjct  61  VRQASNEGRVASFNKRFGRF  80
+
+
+>WP_004732342.1 MULTISPECIES: 50S ribosomal protein L31 [Acinetobacter]
+Length=83
+
+ Score = 145 bits (367),  Expect = 3e-044, Method: Compositional matrix adjust.
+ Identities = 66/82 (80%), Positives = 72/82 (88%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR DIHP Y++VLFHDTNAD YF+IGST+ + QTKEYQG+ YPYVTLDISSASHPFYTGE
+Sbjct  1   MRSDIHPEYREVLFHDTNADAYFVIGSTMNSSQTKEYQGKTYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+            RQ SNEGRVASFNKRF RF R
+Sbjct  61  QRQTSNEGRVASFNKRFGRFKR  82
+
+
+>WP_004645016.1 MULTISPECIES: 50S ribosomal protein L31 [Acinetobacter]
+Length=83
+
+ Score = 145 bits (367),  Expect = 3e-044, Method: Compositional matrix adjust.
+ Identities = 66/82 (80%), Positives = 72/82 (88%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR DIHP Y++VLFHDTNAD YF+IGST+ + QTKEYQG+ YPYVTLDISSASHPFYTGE
+Sbjct  1   MRSDIHPEYREVLFHDTNADAYFVIGSTMNSNQTKEYQGKTYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+            RQ SNEGRVASFNKRF RF R
+Sbjct  61  QRQTSNEGRVASFNKRFGRFKR  82
+
+
+>WP_004787006.1 MULTISPECIES: 50S ribosomal protein L31 [Acinetobacter]
+Length=83
+
+ Score = 145 bits (366),  Expect = 4e-044, Method: Compositional matrix adjust.
+ Identities = 66/82 (80%), Positives = 73/82 (89%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR DIHP Y++VLFHDTNAD YF+IGST+ + QTKEY+G+ YPYVTLDISSASHPFYTGE
+Sbjct  1   MRPDIHPEYREVLFHDTNADAYFVIGSTMTSSQTKEYEGKTYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+            RQ SNEGRVASFNKRFARF R
+Sbjct  61  QRQTSNEGRVASFNKRFARFKR  82
+
+
+>WP_086174496.1 50S ribosomal protein L31 [Acinetobacter sp. ANC 3903]
+Length=84
+
+ Score = 145 bits (366),  Expect = 4e-044, Method: Compositional matrix adjust.
+ Identities = 67/82 (82%), Positives = 73/82 (89%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR DIHP YQ VLFHDTNADVYF+IGST++  QT+E++GQ YPYVTLDISSASHPFYTGE
+Sbjct  1   MRPDIHPDYQPVLFHDTNADVYFVIGSTLKPPQTREHEGQTYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+            RQ SNEGRVASFNKRFARF R
+Sbjct  61  QRQTSNEGRVASFNKRFARFKR  82
+
+
+>WP_067731224.1 50S ribosomal protein L31 [Acinetobacter sp. NCu2D-2]
+Length=84
+
+ Score = 145 bits (366),  Expect = 4e-044, Method: Compositional matrix adjust.
+ Identities = 64/82 (78%), Positives = 75/82 (91%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR +IHP Y++VLFHDTNADVYF+IGST+ + QT+EY+G+ YPY++LDISSASHPFYTGE
+Sbjct  1   MRANIHPEYREVLFHDTNADVYFVIGSTLNSTQTREYEGKTYPYISLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+            RQ SNEGRVASFNKRFARFNR
+Sbjct  61  QRQTSNEGRVASFNKRFARFNR  82
+
+
+>WP_034587776.1 50S ribosomal protein L31 [Acinetobacter sp. HR7]
+Length=85
+
+ Score = 145 bits (366),  Expect = 4e-044, Method: Compositional matrix adjust.
+ Identities = 66/84 (79%), Positives = 74/84 (88%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR DIHP Y++VLFHDTNADVYF+IGST+ + QT+EY+G+ YPYVTLDISSASHPFYTGE
+Sbjct  1   MRPDIHPEYREVLFHDTNADVYFVIGSTMSSNQTREYEGKTYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+            RQ SNEGRVASFNKRFA F R S
+Sbjct  61  QRQTSNEGRVASFNKRFAHFKRSS  84
+
+
+>WP_004650536.1 50S ribosomal protein L31 [Acinetobacter bohemicus]
+Length=84
+
+ Score = 145 bits (366),  Expect = 5e-044, Method: Compositional matrix adjust.
+ Identities = 67/82 (82%), Positives = 74/82 (90%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR  IHP Y++VLFHDTNADVYF+IGST+QT+QTK YQGQ YPYVTLDISSASHPFYTGE
+Sbjct  1   MRSHIHPEYREVLFHDTNADVYFIIGSTLQTQQTKSYQGQDYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+            RQ +NEGRVASFNKRF+RF R
+Sbjct  61  QRQTNNEGRVASFNKRFSRFKR  82
+
+
+>WP_074945092.1 50S ribosomal protein L31 [Acinetobacter bohemicus]
+Length=84
+
+ Score = 145 bits (365),  Expect = 7e-044, Method: Compositional matrix adjust.
+ Identities = 67/82 (82%), Positives = 74/82 (90%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR  IHP Y++VLFHDTNADVYF+IGST+QT+QTK YQGQ YPYVTLDISSASHPFYTGE
+Sbjct  1   MRPHIHPEYREVLFHDTNADVYFIIGSTLQTQQTKSYQGQDYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+            RQ +NEGRVASFNKRF+RF R
+Sbjct  61  QRQTNNEGRVASFNKRFSRFKR  82
+
+
+>WP_004974599.1 50S ribosomal protein L31 [Acinetobacter towneri]
+Length=82
+
+ Score = 144 bits (364),  Expect = 7e-044, Method: Compositional matrix adjust.
+ Identities = 65/82 (79%), Positives = 75/82 (91%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR +IHP Y++VLFHDTNA+ YF+IGST+Q+ Q+KEY+G+VYPYVTLDISSASHPFYTGE
+Sbjct  1   MRPNIHPEYREVLFHDTNANAYFVIGSTLQSSQSKEYEGKVYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+            RQ SNEGRVASFNKRFARF R
+Sbjct  61  QRQTSNEGRVASFNKRFARFKR  82
+
+
+>WP_004281554.1 50S ribosomal protein L31 [Acinetobacter lwoffii]
+Length=83
+
+ Score = 144 bits (364),  Expect = 7e-044, Method: Compositional matrix adjust.
+ Identities = 65/82 (79%), Positives = 72/82 (88%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR DIHP Y++VLFHDTNAD YF+IGST+ + QTKEY+G+ YPYVTLDISSASHPFYTGE
+Sbjct  1   MRSDIHPEYREVLFHDTNADTYFVIGSTMNSSQTKEYEGKTYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+            RQ SNEGRVASFNKRF RF R
+Sbjct  61  QRQTSNEGRVASFNKRFGRFKR  82
+
+
+>WP_086179992.1 50S ribosomal protein L31 [Acinetobacter sp. ANC 4558]
+Length=84
+
+ Score = 144 bits (364),  Expect = 1e-043, Method: Compositional matrix adjust.
+ Identities = 65/82 (79%), Positives = 74/82 (90%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR +IHP Y++VLFHDTNADVYFLIGST+   QTKEYQG++YPYV+LDISSASHPFYTGE
+Sbjct  1   MRANIHPEYREVLFHDTNADVYFLIGSTLNPTQTKEYQGKIYPYVSLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+            RQA+NEGR+ASFNKRF RF R
+Sbjct  61  QRQANNEGRIASFNKRFNRFKR  82
+
+
+>WP_068975284.1 50S ribosomal protein L31 [Acinetobacter sp. WCHA60]
+Length=82
+
+ Score = 144 bits (363),  Expect = 1e-043, Method: Compositional matrix adjust.
+ Identities = 63/82 (77%), Positives = 75/82 (91%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR +IHP Y++VLFHDTNA+ YF+IGSTIQT  TK+Y+G+ YPY+TLDISSASHPFYTGE
+Sbjct  1   MRTNIHPEYREVLFHDTNANAYFIIGSTIQTNNTKQYEGKEYPYITLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+           +RQASNEGR+ASFNKRFAR+ R
+Sbjct  61  IRQASNEGRIASFNKRFARYKR  82
+
+
+>WP_067868705.1 50S ribosomal protein L31 [Acinetobacter sp. SFB]
+Length=84
+
+ Score = 144 bits (363),  Expect = 1e-043, Method: Compositional matrix adjust.
+ Identities = 66/80 (83%), Positives = 73/80 (91%), Gaps = 0/80 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR +IHP Y++VLFHDTNAD YF+IGST+QT+ TK YQGQ YPYVTLD+SSASHPFYTGE
+Sbjct  1   MRTNIHPEYREVLFHDTNADAYFVIGSTLQTQHTKSYQGQDYPYVTLDVSSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARF  80
+            RQASNEGRVASFNKRFARF
+Sbjct  61  QRQASNEGRVASFNKRFARF  80
+
+
+>WP_004816804.1 MULTISPECIES: 50S ribosomal protein L31 [Acinetobacter]
+Length=82
+
+ Score = 144 bits (362),  Expect = 2e-043, Method: Compositional matrix adjust.
+ Identities = 65/82 (79%), Positives = 74/82 (90%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR+ IHP Y+QVLFHDTNA+ YF+IGSTI+T  TKEY+G  YPYVTLDISSASHPFYTGE
+Sbjct  1   MRQGIHPEYRQVLFHDTNANAYFVIGSTIKTTNTKEYEGTQYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+           +RQASNEGR+A+FNKRFARF R
+Sbjct  61  IRQASNEGRIANFNKRFARFKR  82
+
+
+>WP_068912762.1 50S ribosomal protein L31 [Acinetobacter sp. WCHA34]
+Length=84
+
+ Score = 143 bits (361),  Expect = 2e-043, Method: Compositional matrix adjust.
+ Identities = 64/82 (78%), Positives = 74/82 (90%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR +IHP Y++VLFHDTNAD +F+IGST+ T Q++EYQG+ YPYV+LDISSASHPFYTGE
+Sbjct  1   MRANIHPEYREVLFHDTNADAFFVIGSTLNTAQSREYQGKTYPYVSLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+            RQASNEGRVASFNKRFARF R
+Sbjct  61  QRQASNEGRVASFNKRFARFKR  82
+
+
+>WP_086164673.1 50S ribosomal protein L31 [Acinetobacter sp. ANC 4654]
+Length=84
+
+ Score = 143 bits (361),  Expect = 3e-043, Method: Compositional matrix adjust.
+ Identities = 66/82 (80%), Positives = 73/82 (89%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR  IHP Y++VLFHDTNADVYF+IGST+Q +QTK YQGQ YPYVTLDISSASHPFYTGE
+Sbjct  1   MRSHIHPEYREVLFHDTNADVYFIIGSTLQAQQTKSYQGQDYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+            RQ +NEGRVASFNKRF+RF R
+Sbjct  61  QRQTNNEGRVASFNKRFSRFKR  82
+
+
+>WP_086184270.1 50S ribosomal protein L31 [Acinetobacter sp. ANC 4973]
+Length=84
+
+ Score = 142 bits (359),  Expect = 4e-043, Method: Compositional matrix adjust.
+ Identities = 65/82 (79%), Positives = 74/82 (90%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR  IHP Y++VLFHDTNADVYF+IGST+Q++QTK YQGQ YPYV+LDISSASHPFYTGE
+Sbjct  1   MRSHIHPEYREVLFHDTNADVYFIIGSTLQSQQTKNYQGQDYPYVSLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+            RQ +NEGRVASFNKRF+RF R
+Sbjct  61  QRQTNNEGRVASFNKRFSRFKR  82
+
+
+>WP_005401314.1 MULTISPECIES: 50S ribosomal protein L31 [Acinetobacter]
+Length=84
+
+ Score = 142 bits (358),  Expect = 6e-043, Method: Compositional matrix adjust.
+ Identities = 63/82 (77%), Positives = 74/82 (90%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR +IHP Y++VLFHDTNAD +F+IGST+Q+ QT+EY+G+ YPYV+LDISSASHPFYTGE
+Sbjct  1   MRANIHPEYREVLFHDTNADAFFVIGSTLQSHQTREYEGKAYPYVSLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+            RQ SNEGRVASFNKRFARF R
+Sbjct  61  QRQTSNEGRVASFNKRFARFKR  82
+
+
+>WP_004691406.1 50S ribosomal protein L31 [Acinetobacter johnsonii]
+Length=84
+
+ Score = 142 bits (358),  Expect = 7e-043, Method: Compositional matrix adjust.
+ Identities = 63/82 (77%), Positives = 74/82 (90%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR +IHP Y++VLFHDTNAD +F+IGST+Q+ QT+EY+G+ YPYV+LDISSASHPFYTGE
+Sbjct  1   MRANIHPEYREVLFHDTNADAFFVIGSTLQSHQTREYEGKTYPYVSLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+            RQ SNEGRVASFNKRFARF R
+Sbjct  61  QRQTSNEGRVASFNKRFARFKR  82
+
+
+>WP_005034202.1 MULTISPECIES: 50S ribosomal protein L31 [Acinetobacter]
+Length=82
+
+ Score = 142 bits (358),  Expect = 7e-043, Method: Compositional matrix adjust.
+ Identities = 62/82 (76%), Positives = 75/82 (91%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR  IHP Y++VLFHDTNA+ +F+IGSTI+T  TKE++G++YPYVTLDISSASHPFYTGE
+Sbjct  1   MRPGIHPEYREVLFHDTNANAFFVIGSTIKTANTKEHEGKIYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+           +RQASNEGR+A+FNKRFARF R
+Sbjct  61  IRQASNEGRIANFNKRFARFKR  82
+
+
+>WP_004725595.1 50S ribosomal protein L31 [Acinetobacter guillouiae]
+Length=82
+
+ Score = 142 bits (357),  Expect = 8e-043, Method: Compositional matrix adjust.
+ Identities = 64/82 (78%), Positives = 73/82 (89%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR+ IHP Y+QVLFHDTNA+ YF+IGSTI+T  TKEY+G  YPYVTLDISSASHPFYTGE
+Sbjct  1   MRQGIHPEYRQVLFHDTNANAYFVIGSTIKTTNTKEYEGTQYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+           +RQ SNEGR+A+FNKRFARF R
+Sbjct  61  IRQTSNEGRIANFNKRFARFKR  82
+
+
+>WP_086213096.1 50S ribosomal protein L31 [Acinetobacter sp. ANC 3813]
+Length=84
+
+ Score = 141 bits (356),  Expect = 1e-042, Method: Compositional matrix adjust.
+ Identities = 63/82 (77%), Positives = 75/82 (91%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR +IHP Y++VLFHDTNA+ +F+IGST++T QT+E++G+ YPYVTLDISSASHPFYTGE
+Sbjct  1   MRPNIHPNYREVLFHDTNANAFFVIGSTLETAQTREHEGKTYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+            RQASNEGRVASFNKRFARF R
+Sbjct  61  QRQASNEGRVASFNKRFARFKR  82
+
+
+>WP_053579470.1 50S ribosomal protein L31 [Acinetobacter sp. TTH0-4]
+Length=84
+
+ Score = 141 bits (356),  Expect = 2e-042, Method: Compositional matrix adjust.
+ Identities = 63/82 (77%), Positives = 74/82 (90%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR +IHPAY++VLFHDTNAD YF+IGST+ ++QTK YQG+ YPY+TLDISSASHPFYTGE
+Sbjct  1   MRPNIHPAYREVLFHDTNADAYFIIGSTLNSQQTKTYQGKEYPYITLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+            RQ SNEGRVA+FNKRF+RF R
+Sbjct  61  QRQTSNEGRVANFNKRFSRFKR  82
+
+
+>WP_086208998.1 50S ribosomal protein L31 [Acinetobacter sp. ANC 4204]
+Length=84
+
+ Score = 141 bits (355),  Expect = 2e-042, Method: Compositional matrix adjust.
+ Identities = 62/82 (76%), Positives = 74/82 (90%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR +IHP Y++VLFHDTNAD +F+IGST+Q+ QT+E++G+ YPYV+LDISSASHPFYTGE
+Sbjct  1   MRANIHPEYREVLFHDTNADAFFIIGSTLQSNQTREHEGKTYPYVSLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+            RQ SNEGRVASFNKRFARF R
+Sbjct  61  QRQTSNEGRVASFNKRFARFKR  82
+
+
+>WP_023273615.1 50S ribosomal protein L31 [Acinetobacter nectaris]
+Length=84
+
+ Score = 140 bits (354),  Expect = 2e-042, Method: Compositional matrix adjust.
+ Identities = 63/81 (78%), Positives = 74/81 (91%), Gaps = 0/81 (0%)
+
+Query  3   KDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGEVR  62
+           ++IHP YQQVLFHDTNAD YF+IGST+Q KQTK Y+G+ YPY+TLDISSASHPFYTGEVR
+Sbjct  2   RNIHPKYQQVLFHDTNADAYFIIGSTLQPKQTKVYEGKEYPYMTLDISSASHPFYTGEVR  61
+
+Query  63  QASNEGRVASFNKRFARFNRK  83
+           QASNEGRVA+FN++F RF +K
+Sbjct  62  QASNEGRVANFNRKFGRFAKK  82
+
+
+>WP_054580415.1 50S ribosomal protein L31 [Acinetobacter equi]
+Length=84
+
+ Score = 140 bits (354),  Expect = 3e-042, Method: Compositional matrix adjust.
+ Identities = 62/82 (76%), Positives = 73/82 (89%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR +IHP Y++VLFHDTNAD YFLIGST++T QTKEY+G +YPYV+LDISSASHPFYTGE
+Sbjct  1   MRPNIHPEYREVLFHDTNADAYFLIGSTLKTAQTKEYEGNIYPYVSLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+            RQ +NEGR+A+FNKRF RF R
+Sbjct  61  QRQVNNEGRIANFNKRFQRFKR  82
+
+
+>WP_078389975.1 MULTISPECIES: 50S ribosomal protein L31 [Acinetobacter]
+Length=84
+
+ Score = 140 bits (354),  Expect = 3e-042, Method: Compositional matrix adjust.
+ Identities = 62/82 (76%), Positives = 74/82 (90%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR +IHP Y++VLFHDTNAD +F+IGST+Q+ QT+E++G+ YPYV+LDISSASHPFYTGE
+Sbjct  1   MRANIHPEYREVLFHDTNADAFFVIGSTLQSHQTREHEGKTYPYVSLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+            RQ SNEGRVASFNKRFARF R
+Sbjct  61  QRQTSNEGRVASFNKRFARFKR  82
+
+
+>WP_004869698.1 50S ribosomal protein L31 [Acinetobacter gerneri]
+Length=82
+
+ Score = 140 bits (353),  Expect = 4e-042, Method: Compositional matrix adjust.
+ Identities = 63/82 (77%), Positives = 74/82 (90%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR +IHP Y++VLFHDTNA+ YF+IGSTI+T+Q++EYQG  YPYV+LDISSASHPFYTGE
+Sbjct  1   MRDNIHPEYREVLFHDTNANAYFIIGSTIRTQQSREYQGLKYPYVSLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+            RQ +NEGRVASFNKRFARF R
+Sbjct  61  ARQTNNEGRVASFNKRFARFKR  82
+
+
+>WP_004825263.1 50S ribosomal protein L31 [Acinetobacter bereziniae]
+Length=82
+
+ Score = 140 bits (353),  Expect = 4e-042, Method: Compositional matrix adjust.
+ Identities = 61/82 (74%), Positives = 74/82 (90%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR  IHP Y++VLFHDTNA+ +F+IGSTI+T  TKE++G++YPYVTLDISSASHPFYTGE
+Sbjct  1   MRPGIHPEYREVLFHDTNANAFFVIGSTIKTANTKEHEGKIYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+           +RQ SNEGR+A+FNKRFARF R
+Sbjct  61  IRQTSNEGRIANFNKRFARFKR  82
+
+
+>WP_005013081.1 50S ribosomal protein L31 [Acinetobacter bouvetii]
+Length=84
+
+ Score = 140 bits (353),  Expect = 5e-042, Method: Compositional matrix adjust.
+ Identities = 62/82 (76%), Positives = 74/82 (90%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR +IHP Y++VLFHDTNA+ +F+IGST++T QT+E++G+ YPYVTLDISSASHPFYTGE
+Sbjct  1   MRANIHPNYREVLFHDTNANAFFVIGSTLETAQTREHEGKTYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+            RQ SNEGRVASFNKRFARF R
+Sbjct  61  QRQTSNEGRVASFNKRFARFKR  82
+
+
+>WP_086178188.1 50S ribosomal protein L31 [Acinetobacter sp. ANC 5054]
+Length=84
+
+ Score = 140 bits (352),  Expect = 5e-042, Method: Compositional matrix adjust.
+ Identities = 61/82 (74%), Positives = 74/82 (90%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR +IHP Y++VLFHDTNA+ +F+IGST+ + QTKEY+G+ YPYVTLDISSASHPFYTGE
+Sbjct  1   MRTNIHPEYREVLFHDTNANAFFVIGSTLNSNQTKEYEGKTYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+            RQA+NEGR+A+FNKRFARF R
+Sbjct  61  QRQANNEGRIANFNKRFARFKR  82
+
+
+>WP_078307953.1 50S ribosomal protein L31 [Moraxella lincolnii]
+Length=90
+
+ Score = 140 bits (352),  Expect = 6e-042, Method: Compositional matrix adjust.
+ Identities = 64/84 (76%), Positives = 72/84 (86%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR DIHP YQ+VLFHDTNADVYFL  ST+++K T+EY+GQ YPYV LDISSASHPFYTG 
+Sbjct  1   MRNDIHPEYQEVLFHDTNADVYFLTRSTVKSKTTREYEGQEYPYVALDISSASHPFYTGA  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+            R+ASNEGRVASFNKRF  F R+S
+Sbjct  61  QRKASNEGRVASFNKRFGAFGRRS  84
+
+
+>WP_062032294.1 50S ribosomal protein L31 [Acinetobacter sp. BMW17]
+Length=84
+
+ Score = 139 bits (351),  Expect = 9e-042, Method: Compositional matrix adjust.
+ Identities = 61/82 (74%), Positives = 74/82 (90%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR +IHP Y++VLFHDTNAD +F+IGST+++ QT+E++G+ YPYV+LDISSASHPFYTGE
+Sbjct  1   MRANIHPEYREVLFHDTNADAFFVIGSTLESHQTREHEGKTYPYVSLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+            RQ SNEGRVASFNKRFARF R
+Sbjct  61  QRQTSNEGRVASFNKRFARFKR  82
+
+
+>WP_067762955.1 50S ribosomal protein L31 [Acinetobacter gandensis]
+Length=82
+
+ Score = 139 bits (350),  Expect = 1e-041, Method: Compositional matrix adjust.
+ Identities = 61/82 (74%), Positives = 73/82 (89%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR +IHP Y++VLFHDTNA+ YFLIGST+ T QT+EY+G+ YPYV+LDISSASHPFYTGE
+Sbjct  1   MRPNIHPEYREVLFHDTNANAYFLIGSTLATNQTREYEGKTYPYVSLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+            RQ +NEGR+A+FNKRFARF R
+Sbjct  61  QRQVNNEGRIANFNKRFARFKR  82
+
+
+>WP_078189321.1 MULTISPECIES: 50S ribosomal protein L31 [Acinetobacter]
+Length=84
+
+ Score = 138 bits (347),  Expect = 3e-041, Method: Compositional matrix adjust.
+ Identities = 60/82 (73%), Positives = 73/82 (89%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR +IHP Y++VLFHDTNA+ +F+IGST+ T QTKE++G+ YPYVTLDISSASHPFYTGE
+Sbjct  1   MRANIHPEYREVLFHDTNANAFFVIGSTLSTNQTKEFEGKTYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+            RQ +NEGR+A+FNKRFARF R
+Sbjct  61  QRQVNNEGRIANFNKRFARFKR  82
+
+
+>WP_067669248.1 50S ribosomal protein L31 [Acinetobacter sp. ANC 4149]
+Length=84
+
+ Score = 138 bits (347),  Expect = 3e-041, Method: Compositional matrix adjust.
+ Identities = 61/82 (74%), Positives = 73/82 (89%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR +IHP Y++VLFHDTNA+ +F+IGST++  QT++Y+G+ YPYVTLDISSASHPFYTGE
+Sbjct  1   MRPNIHPNYREVLFHDTNANAFFVIGSTLEAAQTRDYEGKTYPYVTLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+            RQ SNEGRVASFNKRFARF R
+Sbjct  61  QRQTSNEGRVASFNKRFARFKR  82
+
+
+>WP_058870377.1 50S ribosomal protein L31 [Acinetobacter johnsonii]
+Length=84
+
+ Score = 137 bits (346),  Expect = 5e-041, Method: Compositional matrix adjust.
+ Identities = 61/82 (74%), Positives = 73/82 (89%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           M  +IHP Y++VLFHDTNAD +F+IGST+Q+ QT+E++G+ YPYV+LDISSASHPFYTGE
+Sbjct  1   MCANIHPEYREVLFHDTNADAFFVIGSTLQSHQTREHEGKTYPYVSLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+            RQ SNEGRVASFNKRFARF R
+Sbjct  61  QRQTSNEGRVASFNKRFARFKR  82
+
+
+>WP_036366789.1 MULTISPECIES: 50S ribosomal protein L31 [Moraxella]
+Length=87
+
+ Score = 137 bits (344),  Expect = 1e-040, Method: Compositional matrix adjust.
+ Identities = 63/80 (79%), Positives = 69/80 (86%), Gaps = 0/80 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHP Y++VLFHDTNADVYFL  ST+ TK T+EY+GQ YPY  LDISSASHPFYTGE
+Sbjct  1   MRKDIHPEYKEVLFHDTNADVYFLTRSTVATKTTREYEGQEYPYFPLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARF  80
+            R+ASNEGRVASFNKRF  F
+Sbjct  61  QRKASNEGRVASFNKRFGAF  80
+
+
+>WP_077449633.1 50S ribosomal protein L31 [Psychrobacter sp. CIP 110853]
+Length=92
+
+ Score = 135 bits (341),  Expect = 3e-040, Method: Compositional matrix adjust.
+ Identities = 63/84 (75%), Positives = 70/84 (83%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHP YQ+VLFHDTNADVYFL  ST +TK T+EY+G+ YPY  LDISSASHPFYTGE
+Sbjct  1   MRKDIHPEYQEVLFHDTNADVYFLTRSTAKTKATREYEGKEYPYYPLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+            R+ SNEGRVASFNKRF  F  +S
+Sbjct  61  QRKTSNEGRVASFNKRFGAFGGRS  84
+
+
+>WP_078275882.1 50S ribosomal protein L31 [Moraxella caviae]
+Length=86
+
+ Score = 135 bits (340),  Expect = 4e-040, Method: Compositional matrix adjust.
+ Identities = 62/80 (78%), Positives = 69/80 (86%), Gaps = 0/80 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHP Y++VLFHDTNADVYFL  ST+ TK T+EY+G+ YPY  LDISSASHPFYTGE
+Sbjct  1   MRKDIHPEYKEVLFHDTNADVYFLTRSTVATKATREYEGKEYPYFPLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARF  80
+            R+ASNEGRVASFNKRF  F
+Sbjct  61  QRKASNEGRVASFNKRFGAF  80
+
+
+>WP_062501781.1 50S ribosomal protein L31 [Moraxella lacunata]
+Length=86
+
+ Score = 135 bits (340),  Expect = 4e-040, Method: Compositional matrix adjust.
+ Identities = 63/80 (79%), Positives = 68/80 (85%), Gaps = 0/80 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHP Y++VLFHDTNADVYFL  ST+ TK T+EY+G  YPY  LDISSASHPFYTGE
+Sbjct  1   MRKDIHPEYREVLFHDTNADVYFLTRSTVATKTTREYEGAEYPYFPLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARF  80
+            RQASNEGRVASFNKRF  F
+Sbjct  61  QRQASNEGRVASFNKRFGAF  80
+
+
+>WP_003656864.1 MULTISPECIES: 50S ribosomal protein L31 [Moraxella]
+Length=86
+
+ Score = 135 bits (339),  Expect = 5e-040, Method: Compositional matrix adjust.
+ Identities = 62/84 (74%), Positives = 70/84 (83%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHP Y++VLFHDTNADVYFL  ST+ TK T+EY+GQ YPY  LDISSASHPFYTGE
+Sbjct  1   MRKDIHPEYREVLFHDTNADVYFLTRSTVSTKTTREYEGQEYPYFPLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+            R+ +NEGRVASFNKRF  F  +S
+Sbjct  61  QRKTANEGRVASFNKRFGAFASRS  84
+
+
+>WP_029103198.1 MULTISPECIES: 50S ribosomal protein L31 [Moraxella]
+Length=86
+
+ Score = 135 bits (339),  Expect = 5e-040, Method: Compositional matrix adjust.
+ Identities = 63/80 (79%), Positives = 68/80 (85%), Gaps = 0/80 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHP Y++VLFHDTNADVYFL  ST+ TK T+EY+G  YPY  LDISSASHPFYTGE
+Sbjct  1   MRKDIHPEYREVLFHDTNADVYFLTRSTVATKTTREYEGAQYPYFPLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARF  80
+            RQASNEGRVASFNKRF  F
+Sbjct  61  QRQASNEGRVASFNKRFGAF  80
+
+
+>WP_007117222.1 50S ribosomal protein L31 [Enhydrobacter sp. H5]
+Length=86
+
+ Score = 135 bits (339),  Expect = 7e-040, Method: Compositional matrix adjust.
+ Identities = 62/80 (78%), Positives = 69/80 (86%), Gaps = 0/80 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR DIHPAYQ+VLFHDTNADVYFL  STI++K T+EY+G+ YPYV LDISSASHPFYTGE
+Sbjct  1   MRADIHPAYQEVLFHDTNADVYFLTRSTIKSKVTREYEGKEYPYVALDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARF  80
+            R+  NEGRVASFNKRF  F
+Sbjct  61  QRKTQNEGRVASFNKRFGAF  80
+
+
+>WP_065254160.1 50S ribosomal protein L31 [Moraxella osloensis]
+Length=86
+
+ Score = 134 bits (338),  Expect = 9e-040, Method: Compositional matrix adjust.
+ Identities = 62/80 (78%), Positives = 69/80 (86%), Gaps = 0/80 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR DIHPAYQ+VLFHDTNADVYFL  STI++K T+EY+G+ YPYV LDISSASHPFYTGE
+Sbjct  1   MRPDIHPAYQEVLFHDTNADVYFLTRSTIKSKVTREYEGKEYPYVALDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARF  80
+            R+  NEGRVASFNKRF  F
+Sbjct  61  QRKTQNEGRVASFNKRFGAF  80
+
+
+>WP_066886251.1 50S ribosomal protein L31 [Moraxella nonliquefaciens]
+Length=86
+
+ Score = 134 bits (337),  Expect = 1e-039, Method: Compositional matrix adjust.
+ Identities = 63/80 (79%), Positives = 68/80 (85%), Gaps = 0/80 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHP Y++VLFHDTNADVYFL  ST+ TK T+EY+G  YPY  LDISSASHPFYTGE
+Sbjct  1   MRKDIHPEYREVLFHDTNADVYFLTRSTVATKTTREYEGVQYPYFPLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARF  80
+            RQASNEGRVASFNKRF  F
+Sbjct  61  QRQASNEGRVASFNKRFGAF  80
+
+
+>WP_011959789.1 50S ribosomal protein L31 type B [Psychrobacter sp. PRwf-1]
+Length=92
+
+ Score = 134 bits (337),  Expect = 1e-039, Method: Compositional matrix adjust.
+ Identities = 62/84 (74%), Positives = 70/84 (83%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHP YQ+VLFHDTNADV+FL  ST +TK T+EY+G+ YPY  LDISSASHPFYTGE
+Sbjct  1   MRKDIHPEYQEVLFHDTNADVFFLTRSTAKTKATREYEGKEYPYYPLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+            R+ SNEGRVASFNKRF  F  +S
+Sbjct  61  QRKTSNEGRVASFNKRFGAFGGRS  84
+
+
+>WP_007394157.1 50S ribosomal protein L31 [Psychrobacter sp. 1501(2011)]
+Length=92
+
+ Score = 134 bits (337),  Expect = 1e-039, Method: Compositional matrix adjust.
+ Identities = 62/84 (74%), Positives = 70/84 (83%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHP YQ+VLFHDTNADV+FL  ST +TK T+EY+G+ YPY  LDISSASHPFYTGE
+Sbjct  1   MRKDIHPEYQEVLFHDTNADVFFLTRSTAKTKATREYEGKEYPYYPLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+            R+ SNEGRVASFNKRF  F  +S
+Sbjct  61  QRKTSNEGRVASFNKRFGAFGGRS  84
+
+
+>WP_049156436.1 50S ribosomal protein L31 [Moraxella catarrhalis]
+Length=86
+
+ Score = 134 bits (336),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 62/84 (74%), Positives = 69/84 (82%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHP Y++VLFHDTNADVYFL  ST+ TK T+EY+GQ YPY  LDISSASHPFYTGE
+Sbjct  1   MRKDIHPEYREVLFHDTNADVYFLTRSTVSTKTTREYEGQEYPYFPLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+            R+  NEGRVASFNKRF  F  +S
+Sbjct  61  QRKTVNEGRVASFNKRFGAFASRS  84
+
+
+>WP_003669998.1 50S ribosomal protein L31 [Moraxella catarrhalis]
+Length=86
+
+ Score = 134 bits (336),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 61/80 (76%), Positives = 68/80 (85%), Gaps = 0/80 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHP Y++VLFHDTNADVYFL  ST+ TK T+EY+GQ YPY  LDISSASHPFYTGE
+Sbjct  1   MRKDIHPEYREVLFHDTNADVYFLTRSTVSTKTTREYEGQEYPYFPLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARF  80
+            R+ +NEGRVASFNKRF  F
+Sbjct  61  QRKTANEGRVASFNKRFGAF  80
+
+
+>WP_019671715.1 50S ribosomal protein L31 type B [Psychrobacter lutiphocae]
+Length=92
+
+ Score = 134 bits (336),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 62/84 (74%), Positives = 70/84 (83%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHP Y++VLFHDTNADV+FL  ST +TK T+EY+GQ YPY  LDISSASHPFYTGE
+Sbjct  1   MRKDIHPEYREVLFHDTNADVFFLTRSTAKTKTTREYEGQEYPYYPLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+            R+ SNEGRVASFNKRF  F  +S
+Sbjct  61  QRKTSNEGRVASFNKRFGAFGGRS  84
+
+
+>WP_066804829.1 50S ribosomal protein L31 [Moraxella oblonga]
+Length=86
+
+ Score = 134 bits (336),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 63/80 (79%), Positives = 68/80 (85%), Gaps = 0/80 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHP Y++VLFHDTNADVYFL  STI TK T+EY+G  YPY  LDISSASHPFYTGE
+Sbjct  1   MRKDIHPNYREVLFHDTNADVYFLTRSTIATKTTREYEGVEYPYYPLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARF  80
+            RQA+NEGRVASFNKRF  F
+Sbjct  61  QRQATNEGRVASFNKRFGAF  80
+
+
+>WP_019519477.1 50S ribosomal protein L31 [Moraxella boevrei]
+Length=85
+
+ Score = 133 bits (335),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 60/80 (75%), Positives = 68/80 (85%), Gaps = 0/80 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR DIHP Y +VLFHDTNADVYFL  STI++K T+EY+G+ YPYV LD+SSASHPFYTGE
+Sbjct  1   MRADIHPEYNEVLFHDTNADVYFLTRSTIKSKHTREYEGKEYPYVALDVSSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARF  80
+            R+A NEGRVASFNKRF  F
+Sbjct  61  QRKAQNEGRVASFNKRFGAF  80
+
+
+>WP_025646314.1 MULTISPECIES: 50S ribosomal protein L31 [Psychrobacter]
+Length=90
+
+ Score = 133 bits (335),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 62/84 (74%), Positives = 70/84 (83%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHP YQ+VLFHDTNADVYFL  ST +TK T+EY+G+ YPY  LDISSASHPFYTGE
+Sbjct  1   MRKDIHPNYQEVLFHDTNADVYFLTRSTAKTKATREYEGKEYPYYPLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+            R++S EGRVASFNKRF  F  +S
+Sbjct  61  QRKSSTEGRVASFNKRFGAFGGRS  84
+
+
+>WP_078318193.1 50S ribosomal protein L31 [Moraxella porci]
+Length=86
+
+ Score = 133 bits (335),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 61/80 (76%), Positives = 68/80 (85%), Gaps = 0/80 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHP Y++VLFHDTNADVYFL  ST+ TK T+EY+GQ YPY  LDISSASHPFYTGE
+Sbjct  1   MRKDIHPEYREVLFHDTNADVYFLTRSTVATKTTREYEGQEYPYFPLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARF  80
+            R+ +NEGRVASFNKRF  F
+Sbjct  61  QRKTANEGRVASFNKRFGAF  80
+
+
+>WP_049238136.1 MULTISPECIES: 50S ribosomal protein L31 [Moraxella]
+Length=86
+
+ Score = 133 bits (334),  Expect = 3e-039, Method: Compositional matrix adjust.
+ Identities = 61/80 (76%), Positives = 68/80 (85%), Gaps = 0/80 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHP Y++VLFHDTNADVYFL  ST+ TK T+EY+GQ YPY  LDISSASHPFYTGE
+Sbjct  1   MRKDIHPDYREVLFHDTNADVYFLTRSTVATKTTREYEGQEYPYFPLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARF  80
+            R+ +NEGRVASFNKRF  F
+Sbjct  61  QRKTANEGRVASFNKRFGAF  80
+
+
+>WP_028857892.1 MULTISPECIES: 50S ribosomal protein L31 type B [Psychrobacter]
+Length=92
+
+ Score = 133 bits (334),  Expect = 4e-039, Method: Compositional matrix adjust.
+ Identities = 61/84 (73%), Positives = 70/84 (83%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHP Y++VLFHDTNADV+FL  ST +TK T+EY+G+ YPY  LDISSASHPFYTGE
+Sbjct  1   MRKDIHPEYKEVLFHDTNADVFFLTRSTAKTKATREYEGKEYPYYPLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+            R+ SNEGRVASFNKRF  F  +S
+Sbjct  61  QRKTSNEGRVASFNKRFGAFGGRS  84
+
+
+>WP_058025130.1 50S ribosomal protein L31 [Psychrobacter piscatorii]
+Length=92
+
+ Score = 133 bits (334),  Expect = 4e-039, Method: Compositional matrix adjust.
+ Identities = 62/84 (74%), Positives = 69/84 (82%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHP YQ+VLFHDTNADVYFL  ST +TK T+EY+G+ YPY  LDISSASHPFYTGE
+Sbjct  1   MRKDIHPDYQEVLFHDTNADVYFLTRSTAKTKATREYEGKEYPYYPLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+            R+ S EGRVASFNKRF  F  +S
+Sbjct  61  QRKTSTEGRVASFNKRFGAFGGRS  84
+
+
+>WP_071002901.1 50S ribosomal protein L31 [Psychrobacter sp. AntiMn-1]
+Length=92
+
+ Score = 132 bits (333),  Expect = 5e-039, Method: Compositional matrix adjust.
+ Identities = 62/84 (74%), Positives = 69/84 (82%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHP YQ+VLFHDTNADV+FL  ST QTK T+EY+G+ YPY  LDISSASHPFYTGE
+Sbjct  1   MRKDIHPDYQEVLFHDTNADVFFLTRSTAQTKATREYEGKEYPYYPLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+            R+ S EGRVASFNKRF  F  +S
+Sbjct  61  QRKTSTEGRVASFNKRFGAFGGRS  84
+
+
+>WP_004869702.1 50S ribosomal protein L31 [Acinetobacter gerneri]
+Length=82
+
+ Score = 132 bits (332),  Expect = 6e-039, Method: Compositional matrix adjust.
+ Identities = 60/82 (73%), Positives = 69/82 (84%), Gaps = 0/82 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR +IHP Y++VLFHDTNAD YF+IGSTI TKQTK ++G+ YPY  LDISSASHPFYTG 
+Sbjct  1   MRPNIHPTYREVLFHDTNADAYFIIGSTISTKQTKLFEGKEYPYKVLDISSASHPFYTGA  60
+
+Query  61  VRQASNEGRVASFNKRFARFNR  82
+            RQ S +GR+ASFNKRFARF R
+Sbjct  61  FRQKSADGRIASFNKRFARFKR  82
+
+
+>WP_075102544.1 50S ribosomal protein L31 [Psychrobacter sp. Rd 27.2]
+Length=92
+
+ Score = 132 bits (333),  Expect = 6e-039, Method: Compositional matrix adjust.
+ Identities = 61/84 (73%), Positives = 69/84 (82%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHP YQ+VLFHDTNADV+FL  ST+ TK T+EY+G+ YPY  LDISSASHPFYTGE
+Sbjct  1   MRKDIHPNYQEVLFHDTNADVFFLTRSTVSTKATREYEGKEYPYFPLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+            R+ S EGRVASFNKRF  F  +S
+Sbjct  61  QRKTSTEGRVASFNKRFGAFGGRS  84
+
+
+>WP_076554543.1 50S ribosomal protein L31 [Moraxella cuniculi]
+Length=86
+
+ Score = 132 bits (332),  Expect = 7e-039, Method: Compositional matrix adjust.
+ Identities = 61/80 (76%), Positives = 67/80 (84%), Gaps = 0/80 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHP Y++VLFHDTNADVYFL  ST  TK T+EY+GQ YPY  LDISSASHPFYTGE
+Sbjct  1   MRKDIHPEYREVLFHDTNADVYFLTRSTASTKTTREYEGQEYPYFPLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARF  80
+            R+ +NEGRVASFNKRF  F
+Sbjct  61  QRKTANEGRVASFNKRFGAF  80
+
+
+>WP_068405148.1 50S ribosomal protein L31 [Psychrobacter sp. SHUES1]
+Length=92
+
+ Score = 132 bits (332),  Expect = 8e-039, Method: Compositional matrix adjust.
+ Identities = 61/84 (73%), Positives = 69/84 (82%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHP YQ+VLFHDTNADV+FL  ST+ TK T+EY+G+ YPY  LDISSASHPFYTGE
+Sbjct  1   MRKDIHPNYQEVLFHDTNADVFFLTRSTVNTKATREYEGKEYPYYPLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+            R+ S EGRVASFNKRF  F  +S
+Sbjct  61  QRKTSTEGRVASFNKRFGAFGGRS  84
+
+
+>WP_036596085.1 50S ribosomal protein L31 [Moraxella osloensis]
+Length=86
+
+ Score = 132 bits (331),  Expect = 8e-039, Method: Compositional matrix adjust.
+ Identities = 61/80 (76%), Positives = 68/80 (85%), Gaps = 0/80 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR DIHP YQ+VLFHDTNADVYFL  STI++K T+EY+G+ YPYV LDISSASHPFYTGE
+Sbjct  1   MRPDIHPDYQEVLFHDTNADVYFLTRSTIKSKVTREYEGKEYPYVALDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARF  80
+            R+  NEGRVASFNKRF  F
+Sbjct  61  QRKTQNEGRVASFNKRFGAF  80
+
+
+>WP_078254648.1 50S ribosomal protein L31 [Moraxella pluranimalium]
+Length=86
+
+ Score = 132 bits (331),  Expect = 9e-039, Method: Compositional matrix adjust.
+ Identities = 60/80 (75%), Positives = 68/80 (85%), Gaps = 0/80 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHP Y++VLFHDTNADVYFL  ST+ TK T+EY+GQ YPY  LDISSASHPFYTGE
+Sbjct  1   MRKDIHPDYREVLFHDTNADVYFLTRSTVATKTTREYEGQEYPYFPLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARF  80
+            R+ +NEGRVA+FNKRF  F
+Sbjct  61  QRKTANEGRVATFNKRFGAF  80
+
+
+>WP_062845530.1 50S ribosomal protein L31 [Psychrobacter alimentarius]
+Length=89
+
+ Score = 132 bits (331),  Expect = 1e-038, Method: Compositional matrix adjust.
+ Identities = 61/84 (73%), Positives = 69/84 (82%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHP YQ+VLFHDTNADV+FL  ST++TK T+EY+G  YPY  LDISSASHPFYTGE
+Sbjct  1   MRKDIHPNYQEVLFHDTNADVFFLTRSTVKTKATREYEGTEYPYYPLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+            R+ S EGRVASFNKRF  F  +S
+Sbjct  61  QRKTSTEGRVASFNKRFGAFGGRS  84
+
+
+>WP_075107333.1 50S ribosomal protein L31 [Psychrobacter sp. C 20.9]
+Length=92
+
+ Score = 131 bits (330),  Expect = 1e-038, Method: Compositional matrix adjust.
+ Identities = 61/84 (73%), Positives = 69/84 (82%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHP YQ+VLFHDTNADV+FL  ST +TK T+EY+G+ YPY  LDISSASHPFYTGE
+Sbjct  1   MRKDIHPDYQEVLFHDTNADVFFLTRSTAKTKATREYEGKEYPYYPLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+            R+ S EGRVASFNKRF  F  +S
+Sbjct  61  QRKTSTEGRVASFNKRFGAFGGRS  84
+
+
+>WP_058369928.1 MULTISPECIES: 50S ribosomal protein L31 [Psychrobacter]
+Length=92
+
+ Score = 131 bits (330),  Expect = 1e-038, Method: Compositional matrix adjust.
+ Identities = 61/84 (73%), Positives = 69/84 (82%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHP YQ+VLFHDTNADV+FL  ST +TK T+EY+G+ YPY  LDISSASHPFYTGE
+Sbjct  1   MRKDIHPDYQEVLFHDTNADVFFLTRSTAKTKATREYEGKEYPYYPLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+            R+ S EGRVASFNKRF  F  +S
+Sbjct  61  QRKTSTEGRVASFNKRFGAFGGRS  84
+
+
+>WP_057761772.1 50S ribosomal protein L31 [Psychrobacter sp. P11G3]
+Length=92
+
+ Score = 131 bits (330),  Expect = 2e-038, Method: Compositional matrix adjust.
+ Identities = 61/84 (73%), Positives = 69/84 (82%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHP YQ+VLFHDTNADV+FL  ST +TK T+EY+G+ YPY  LDISSASHPFYTGE
+Sbjct  1   MRKDIHPNYQEVLFHDTNADVFFLTRSTAKTKATREYEGKEYPYYPLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+            R+ S EGRVASFNKRF  F  +S
+Sbjct  61  QRKTSTEGRVASFNKRFGAFGGRS  84
+
+
+>WP_011281173.1 MULTISPECIES: 50S ribosomal protein L31 type B [Psychrobacter]
+Length=93
+
+ Score = 131 bits (329),  Expect = 2e-038, Method: Compositional matrix adjust.
+ Identities = 60/81 (74%), Positives = 67/81 (83%), Gaps = 0/81 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHP YQ+VLFHDTNADV+FL  ST++TK T+EY+G  YPY  LDISSASHPFYTGE
+Sbjct  1   MRKDIHPNYQEVLFHDTNADVFFLTRSTVKTKTTREYEGSEYPYYPLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFN  81
+            R+ S EGRVASFNKRF  F 
+Sbjct  61  QRKTSTEGRVASFNKRFGAFG  81
+
+
+>WP_021814183.1 50S ribosomal protein L31 [Psychrobacter aquaticus]
+Length=92
+
+ Score = 131 bits (329),  Expect = 2e-038, Method: Compositional matrix adjust.
+ Identities = 61/84 (73%), Positives = 68/84 (81%), Gaps = 0/84 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHP YQ VLFHDTNADV+FL  ST++TK T+EY+G  YPY  LDISSASHPFYTGE
+Sbjct  1   MRKDIHPNYQDVLFHDTNADVFFLTRSTVKTKATREYEGTEYPYYPLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRKS  84
+            R+ S EGRVASFNKRF  F  +S
+Sbjct  61  QRKTSTEGRVASFNKRFGAFGGRS  84
+
+
+>WP_025652505.1 MULTISPECIES: 50S ribosomal protein L31 [Psychrobacter]
+Length=99
+
+ Score = 130 bits (328),  Expect = 4e-038, Method: Compositional matrix adjust.
+ Identities = 60/81 (74%), Positives = 67/81 (83%), Gaps = 0/81 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHP YQ+VLFHDTNADV+FL  ST +TK T+EY+G+ YPY  LDISSASHPFYTGE
+Sbjct  1   MRKDIHPDYQEVLFHDTNADVFFLTRSTAKTKATREYEGKEYPYYPLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFN  81
+            R+ S EGRVASFNKRF  F 
+Sbjct  61  QRKTSTEGRVASFNKRFGAFG  81
+
+
+>WP_010200640.1 50S ribosomal protein L31 [Psychrobacter sp. PAMC 21119]
+Length=99
+
+ Score = 130 bits (328),  Expect = 4e-038, Method: Compositional matrix adjust.
+ Identities = 60/81 (74%), Positives = 67/81 (83%), Gaps = 0/81 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHP YQ+VLFHDTNADV+FL  ST +TK T+EY+G+ YPY  LDISSASHPFYTGE
+Sbjct  1   MRKDIHPDYQEVLFHDTNADVFFLTRSTAKTKATREYEGKEYPYYPLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFN  81
+            R+ S EGRVASFNKRF  F 
+Sbjct  61  QRKTSTEGRVASFNKRFGAFG  81
+
+
+>WP_009767331.1 50S ribosomal protein L31 [Moraxella macacae]
+Length=85
+
+ Score = 130 bits (327),  Expect = 4e-038, Method: Compositional matrix adjust.
+ Identities = 59/80 (74%), Positives = 66/80 (83%), Gaps = 0/80 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR DIHP Y +VLFHDTNADVYFL  STI+ K T+EY+G+ YPYV LD+SSASHPFYTGE
+Sbjct  1   MRTDIHPEYNEVLFHDTNADVYFLTRSTIKPKHTREYEGKEYPYVALDVSSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARF  80
+            R+  NEGRVASFNKRF  F
+Sbjct  61  QRKTQNEGRVASFNKRFGAF  80
+
+
+>WP_011514517.1 50S ribosomal protein L31 type B [Psychrobacter cryohalolentis]
+Length=93
+
+ Score = 130 bits (327),  Expect = 5e-038, Method: Compositional matrix adjust.
+ Identities = 60/81 (74%), Positives = 67/81 (83%), Gaps = 0/81 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHP YQ+VLFHDTNADV+FL  ST++TK T+EY+G  YPY  LDISSASHPFYTGE
+Sbjct  1   MRKDIHPNYQEVLFHDTNADVFFLTRSTVKTKTTREYEGSEYPYYPLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARFN  81
+            R+ S EGRVASFNKRF  F 
+Sbjct  61  QRKTSTEGRVASFNKRFGAFG  81
+
+
+>WP_068038044.1 MULTISPECIES: 50S ribosomal protein L31 [Psychrobacter]
+Length=92
+
+ Score = 130 bits (327),  Expect = 5e-038, Method: Compositional matrix adjust.
+ Identities = 60/80 (75%), Positives = 67/80 (84%), Gaps = 0/80 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHP YQ+VLFHDTNADV+FL  ST +TK T+EY+G+ YPY  LDISSASHPFYTGE
+Sbjct  1   MRKDIHPNYQEVLFHDTNADVFFLTRSTAKTKATREYEGKEYPYYPLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARF  80
+            R+ S EGRVASFNKRF  F
+Sbjct  61  QRKTSTEGRVASFNKRFGAF  80
+
+
+>WP_067057259.1 50S ribosomal protein L31 [Moraxella atlantae]
+Length=86
+
+ Score = 128 bits (322),  Expect = 2e-037, Method: Compositional matrix adjust.
+ Identities = 59/80 (74%), Positives = 65/80 (81%), Gaps = 0/80 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR DIHP Y  VLFHDTNADVYFL  STI+ K T+EY+G+ YPYV LD+SSASHPFYTGE
+Sbjct  1   MRADIHPDYHDVLFHDTNADVYFLTRSTIKPKATREYEGKEYPYVALDVSSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARF  80
+            R+  NEGRVASFNKRF  F
+Sbjct  61  QRKTQNEGRVASFNKRFGAF  80
+
+
+>WP_068388375.1 50S ribosomal protein L31 [Ventosimonas gracilis]
+Length=85
+
+ Score = 128 bits (321),  Expect = 3e-037, Method: Compositional matrix adjust.
+ Identities = 59/80 (74%), Positives = 66/80 (83%), Gaps = 0/80 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           M+ DIHP Y+ VLFHD  AD YFLIGST+ T +T++YQGQ YPYVTLDISSASHP YTG+
+Sbjct  1   MKPDIHPDYRTVLFHDVAADAYFLIGSTVSTDKTQDYQGQSYPYVTLDISSASHPVYTGK  60
+
+Query  61  VRQASNEGRVASFNKRFARF  80
+            RQA NEGRVA FNKRFA F
+Sbjct  61  QRQAQNEGRVAGFNKRFAGF  80
+
+
+>WP_062533921.1 50S ribosomal protein L31 [Psychrobacter urativorans]
+Length=93
+
+ Score = 128 bits (321),  Expect = 4e-037, Method: Compositional matrix adjust.
+ Identities = 59/80 (74%), Positives = 65/80 (81%), Gaps = 0/80 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MRKDIHP Y  VLFHDTNADV+FL  ST++TK T+EY+G  YPY  LDISSASHPFYTGE
+Sbjct  1   MRKDIHPDYHDVLFHDTNADVFFLTRSTVKTKTTREYEGSEYPYYPLDISSASHPFYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARF  80
+            R+ S EGRVASFNKRF  F
+Sbjct  61  QRKTSTEGRVASFNKRFGAF  80
+
+
+>WP_074936939.1 50S ribosomal protein L31 [Pseudomonas composti]
+Length=85
+
+ Score = 122 bits (306),  Expect = 7e-035, Method: Compositional matrix adjust.
+ Identities = 55/80 (69%), Positives = 65/80 (81%), Gaps = 0/80 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           M+  IHP+Y+ VLFHD  A+ YFLIGST+ T +T EYQG VYPYVTLD+SSASHP YTG+
+Sbjct  1   MKPGIHPSYRTVLFHDVAANAYFLIGSTVDTDKTHEYQGVVYPYVTLDVSSASHPVYTGQ  60
+
+Query  61  VRQASNEGRVASFNKRFARF  80
+            RQA +EGR+A FNKRFA F
+Sbjct  61  QRQAKSEGRIAGFNKRFAGF  80
+
+
+>WP_074681139.1 50S ribosomal protein L31 [Pseudomonas alcaliphila]
+Length=85
+
+ Score = 122 bits (306),  Expect = 7e-035, Method: Compositional matrix adjust.
+ Identities = 55/80 (69%), Positives = 65/80 (81%), Gaps = 0/80 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           M+  IHP+Y+ VLFHD  A+ YFLIGST+ T +T EYQG VYPYVTLD+SSASHP YTG+
+Sbjct  1   MKPGIHPSYRTVLFHDVAANAYFLIGSTVDTDKTHEYQGVVYPYVTLDVSSASHPVYTGQ  60
+
+Query  61  VRQASNEGRVASFNKRFARF  80
+            RQA +EGR+A FNKRFA F
+Sbjct  61  QRQAKSEGRIAGFNKRFAGF  80
+
+
+>WP_074823544.1 MULTISPECIES: 50S ribosomal protein L31 [Pseudomonas]
+Length=87
+
+ Score = 121 bits (303),  Expect = 2e-034, Method: Compositional matrix adjust.
+ Identities = 55/80 (69%), Positives = 66/80 (83%), Gaps = 0/80 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           M+ +IHP Y+ VLFHDT AD YFLIGST QT +T+E++G+ YPYV LD+SSASHP YTGE
+Sbjct  1   MKPNIHPNYRPVLFHDTTADHYFLIGSTAQTDRTQEFEGKTYPYVALDVSSASHPIYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARF  80
+            RQ  +EGRV+SFNKRFA F
+Sbjct  61  QRQLKSEGRVSSFNKRFAGF  80
+
+
+>WP_010795098.1 MULTISPECIES: 50S ribosomal protein L31 [Pseudomonas]
+Length=88
+
+ Score = 121 bits (303),  Expect = 2e-034, Method: Compositional matrix adjust.
+ Identities = 55/80 (69%), Positives = 66/80 (83%), Gaps = 0/80 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           M+ +IHP Y+ VLFHDT AD YFLIGST QT +T+E++G+ YPYV LD+SSASHP YTGE
+Sbjct  1   MKPNIHPNYRPVLFHDTTADHYFLIGSTAQTDRTQEFEGKTYPYVALDVSSASHPIYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARF  80
+            RQ  +EGRV+SFNKRFA F
+Sbjct  61  QRQLKSEGRVSSFNKRFAGF  80
+
+
+>WP_060404219.1 50S ribosomal protein L31 [Pseudomonas amygdali]
+Length=93
+
+ Score = 120 bits (300),  Expect = 6e-034, Method: Compositional matrix adjust.
+ Identities = 54/82 (66%), Positives = 66/82 (80%), Gaps = 1/82 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+ DIHPAY+ VLFHDT ADVYFLIGST+ T +T+++  G  YPYV LD+SSASHP YTG
+Sbjct  1   MKPDIHPAYRTVLFHDTAADVYFLIGSTVDTDRTQQHTDGNTYPYVALDVSSASHPMYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFN  81
+           + R+ +NEGR+A FNKRFA F 
+Sbjct  61  QQRKTTNEGRIAGFNKRFATFG  82
+
+
+>WP_054988498.1 MULTISPECIES: 50S ribosomal protein L31 [Pseudomonas syringae 
+group]
+Length=93
+
+ Score = 120 bits (300),  Expect = 6e-034, Method: Compositional matrix adjust.
+ Identities = 54/82 (66%), Positives = 66/82 (80%), Gaps = 1/82 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+ DIHPAY+ VLFHDT ADVYFLIGST+ T +T+++  G  YPYV LD+SSASHP YTG
+Sbjct  1   MKPDIHPAYRTVLFHDTAADVYFLIGSTVDTDRTQQHSDGNTYPYVALDVSSASHPMYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFN  81
+           + R+ +NEGR+A FNKRFA F 
+Sbjct  61  QQRKTTNEGRIAGFNKRFATFG  82
+
+
+>WP_019365838.1 50S ribosomal protein L31 [Pseudomonas luteola]
+Length=88
+
+ Score = 120 bits (300),  Expect = 6e-034, Method: Compositional matrix adjust.
+ Identities = 54/80 (68%), Positives = 66/80 (83%), Gaps = 0/80 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           M+ +IHP Y+ VLFHDT +D YFLIGST QT +T+E++G+ YPYV LD+SSASHP YTGE
+Sbjct  1   MKPNIHPNYRPVLFHDTTSDHYFLIGSTAQTDRTQEFEGKTYPYVALDVSSASHPIYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARF  80
+            RQ  +EGRV+SFNKRFA F
+Sbjct  61  QRQLKSEGRVSSFNKRFAGF  80
+
+
+>WP_002554875.1 MULTISPECIES: 50S ribosomal protein L31 [Pseudomonas]
+Length=93
+
+ Score = 120 bits (300),  Expect = 6e-034, Method: Compositional matrix adjust.
+ Identities = 54/82 (66%), Positives = 66/82 (80%), Gaps = 1/82 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+ DIHPAY+ VLFHDT ADVYFLIGST+ T +T+++  G  YPYV LD+SSASHP YTG
+Sbjct  1   MKPDIHPAYRTVLFHDTAADVYFLIGSTVDTDRTQQHTDGNTYPYVALDVSSASHPMYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFN  81
+           + R+ +NEGR+A FNKRFA F 
+Sbjct  61  QQRKTTNEGRIAGFNKRFATFG  82
+
+
+>WP_074755767.1 50S ribosomal protein L31 [Pseudomonas abietaniphila]
+Length=89
+
+ Score = 119 bits (299),  Expect = 9e-034, Method: Compositional matrix adjust.
+ Identities = 54/82 (66%), Positives = 66/82 (80%), Gaps = 1/82 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+ DIHP Y+QVLFHDT ADVYFLIGST+ T +T+++  GQ YPYV LD+SSASHP YTG
+Sbjct  1   MKADIHPDYRQVLFHDTAADVYFLIGSTVDTDRTQKHSDGQTYPYVALDVSSASHPMYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFN  81
+           + R+ + EGR+A FNKRFA F 
+Sbjct  61  QQRKTTTEGRIAGFNKRFATFG  82
+
+
+>WP_027899813.1 50S ribosomal protein L31 [Pseudomonas syringae]
+Length=93
+
+ Score = 119 bits (299),  Expect = 9e-034, Method: Compositional matrix adjust.
+ Identities = 53/82 (65%), Positives = 67/82 (82%), Gaps = 1/82 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+ DIHPAY+QVLFHDT ADV+FLIGST+ T +T+++  G+ YPYV LD+SSASHP YTG
+Sbjct  1   MKPDIHPAYRQVLFHDTAADVFFLIGSTVDTDRTQKHSDGETYPYVALDVSSASHPMYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFN  81
+           + R+ + EGR+A FNKRFA F 
+Sbjct  61  QQRKTTTEGRIAGFNKRFATFG  82
+
+
+>WP_054098707.1 50S ribosomal protein L31 [Pseudomonas amygdali]
+Length=93
+
+ Score = 119 bits (297),  Expect = 2e-033, Method: Compositional matrix adjust.
+ Identities = 54/82 (66%), Positives = 65/82 (79%), Gaps = 1/82 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+ DIHPAY+ VLFHDT ADVYFLIGST+ T +T+++  G  YPYV LD SSASHP YTG
+Sbjct  1   MKPDIHPAYRTVLFHDTAADVYFLIGSTVDTDRTQQHTDGNTYPYVALDASSASHPMYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFN  81
+           + R+ +NEGR+A FNKRFA F 
+Sbjct  61  QQRKTTNEGRIAGFNKRFATFG  82
+
+
+>WP_025261537.1 50S ribosomal protein L31 [Pseudomonas cichorii]
+Length=92
+
+ Score = 118 bits (296),  Expect = 2e-033, Method: Compositional matrix adjust.
+ Identities = 54/85 (64%), Positives = 66/85 (78%), Gaps = 1/85 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+ DIHPAY+ VLFHDT ADVYFLIGST+ T +T+++  G  YPYV LD+SSASHP YTG
+Sbjct  1   MKPDIHPAYRTVLFHDTAADVYFLIGSTVDTDRTQQHTDGNTYPYVALDVSSASHPMYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFNRKS  84
+           + R+ + EGR+A FNKRFA F   S
+Sbjct  61  QQRKTTTEGRIAGFNKRFAGFGSGS  85
+
+
+>WP_024675683.1 50S ribosomal protein L31 [Pseudomonas syringae]
+Length=93
+
+ Score = 118 bits (296),  Expect = 3e-033, Method: Compositional matrix adjust.
+ Identities = 53/82 (65%), Positives = 66/82 (80%), Gaps = 1/82 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+ DIHPAY+ VLFHDT ADV+FLIGST+ T +T+++  G  YPYV LD+SSASHP YTG
+Sbjct  1   MKPDIHPAYRTVLFHDTAADVHFLIGSTVDTDRTQQHTDGTTYPYVALDVSSASHPMYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFN  81
+           + R+ +NEGR+A FNKRFA F 
+Sbjct  61  QQRKTTNEGRIAGFNKRFATFG  82
+
+
+>WP_032629768.1 50S ribosomal protein L31 [Pseudomonas syringae]
+Length=93
+
+ Score = 118 bits (295),  Expect = 3e-033, Method: Compositional matrix adjust.
+ Identities = 53/82 (65%), Positives = 64/82 (78%), Gaps = 1/82 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+ DIHPAY+ VLFHDT AD YFLIGST+ T +T+E+  G  YPYV LD+SSASHP YTG
+Sbjct  1   MKPDIHPAYRTVLFHDTAADAYFLIGSTVDTDRTQEHSDGNTYPYVALDVSSASHPMYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFN  81
+           + R+ + EGR+A FNKRFA F 
+Sbjct  61  QQRKTTTEGRIAGFNKRFATFG  82
+
+
+>WP_004881843.1 MULTISPECIES: 50S ribosomal protein L31 [Pseudomonas]
+Length=93
+
+ Score = 118 bits (295),  Expect = 4e-033, Method: Compositional matrix adjust.
+ Identities = 53/85 (62%), Positives = 67/85 (79%), Gaps = 1/85 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+ DIHPAY+ VLFHDT AD YFLIGST+ T++T+++  G  YPYV LD+SSASHP YTG
+Sbjct  1   MKPDIHPAYRTVLFHDTAADAYFLIGSTVDTERTQQHTDGNTYPYVALDVSSASHPMYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFNRKS  84
+           + R+ ++EGR+A FNKRFA F   S
+Sbjct  61  QQRKTTSEGRIAGFNKRFATFGSGS  85
+
+
+>WP_040135952.1 50S ribosomal protein L31 [Pseudoalteromonas sp. OCN003]
+Length=83
+
+ Score = 117 bits (293),  Expect = 5e-033, Method: Compositional matrix adjust.
+ Identities = 50/83 (60%), Positives = 67/83 (81%), Gaps = 0/83 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           M+  IHP Y++V+FHDT AD YFL+GSTI+T++T +YQG+ YPYV +D+SSASHPFYTG+
+Sbjct  1   MKPGIHPDYEKVVFHDTAADTYFLVGSTIKTERTIDYQGRTYPYVAIDVSSASHPFYTGK  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRK  83
+            R A ++GR+A FNKRF +   K
+Sbjct  61  QRVAQSDGRIAKFNKRFGKLGSK  83
+
+
+>WP_056834634.1 50S ribosomal protein L31 [Pseudomonas sp. Leaf127]
+Length=93
+
+ Score = 117 bits (294),  Expect = 5e-033, Method: Compositional matrix adjust.
+ Identities = 54/82 (66%), Positives = 64/82 (78%), Gaps = 1/82 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           MR DIHPAY+ VLFHDT ADV+FLIGST+ T +T  +  GQ YPYV LD+SSASHP YTG
+Sbjct  1   MRPDIHPAYRTVLFHDTAADVFFLIGSTVDTTRTHAHSDGQTYPYVALDVSSASHPIYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFN  81
+           + R+ + EGR+A FNKRFA F 
+Sbjct  61  QQRKTTTEGRIAGFNKRFAGFG  82
+
+
+>WP_054085282.1 MULTISPECIES: 50S ribosomal protein L31 [Pseudomonas syringae 
+group]
+Length=93
+
+ Score = 117 bits (294),  Expect = 5e-033, Method: Compositional matrix adjust.
+ Identities = 53/82 (65%), Positives = 64/82 (78%), Gaps = 1/82 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+ DIHPAY+ VLFHDT AD YFLIGST+ T +T ++  G  YPYV LD+SSASHP YTG
+Sbjct  1   MKPDIHPAYRTVLFHDTAADAYFLIGSTVDTDRTHQHTDGTTYPYVALDVSSASHPMYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFN  81
+           + R+ +NEGR+A FNKRFA F 
+Sbjct  61  QQRKTTNEGRIAGFNKRFATFG  82
+
+
+>WP_081567823.1 50S ribosomal protein L31 [Pseudomonas sp. Bc-h]
+Length=89
+
+ Score = 117 bits (294),  Expect = 5e-033, Method: Compositional matrix adjust.
+ Identities = 53/82 (65%), Positives = 65/82 (79%), Gaps = 1/82 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+ DIHP Y+QVLFHDT ADVYFLIGST+ T +T+++  G  YPYV LD+SSASHP YTG
+Sbjct  1   MKADIHPDYRQVLFHDTAADVYFLIGSTVDTDRTQKHSDGNTYPYVALDVSSASHPMYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFN  81
+           + R+ + EGR+A FNKRFA F 
+Sbjct  61  QQRKTTTEGRIAGFNKRFATFG  82
+
+
+>WP_024643374.1 50S ribosomal protein L31 [Pseudomonas syringae]
+Length=93
+
+ Score = 117 bits (294),  Expect = 6e-033, Method: Compositional matrix adjust.
+ Identities = 53/82 (65%), Positives = 65/82 (79%), Gaps = 1/82 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+ DIHPAY+ VLFHDT ADV+FLIGST+ T +T ++  G  YPYV LD+SSASHP YTG
+Sbjct  1   MKPDIHPAYRTVLFHDTAADVHFLIGSTVDTDRTHQHTDGTTYPYVALDVSSASHPMYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFN  81
+           + R+ +NEGR+A FNKRFA F 
+Sbjct  61  QQRKTTNEGRIAGFNKRFATFG  82
+
+
+>WP_007248761.1 MULTISPECIES: 50S ribosomal protein L31 [Pseudomonas syringae 
+group]
+Length=93
+
+ Score = 117 bits (293),  Expect = 7e-033, Method: Compositional matrix adjust.
+ Identities = 53/82 (65%), Positives = 64/82 (78%), Gaps = 1/82 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+ DIHPAY+ VLFHDT AD YFLIGST+ T +T ++  G  YPYV LD+SSASHP YTG
+Sbjct  1   MKPDIHPAYRTVLFHDTAADAYFLIGSTVDTDRTHQHTDGTTYPYVALDVSSASHPIYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFN  81
+           + R+ +NEGR+A FNKRFA F 
+Sbjct  61  QQRKTTNEGRIAGFNKRFATFG  82
+
+
+>WP_024682406.1 50S ribosomal protein L31 [Pseudomonas syringae]
+Length=93
+
+ Score = 117 bits (293),  Expect = 7e-033, Method: Compositional matrix adjust.
+ Identities = 53/85 (62%), Positives = 65/85 (76%), Gaps = 1/85 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+ DIHPAY+ VLFHDT AD YFLIGST+ T +T+++  G  YPYV LD+SSASHP YTG
+Sbjct  1   MKPDIHPAYRTVLFHDTAADAYFLIGSTVDTDRTQQHTDGMTYPYVALDVSSASHPMYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFNRKS  84
+           + R+ + EGR+A FNKRFA F   S
+Sbjct  61  QQRKTTTEGRIAGFNKRFASFGSGS  85
+
+
+>WP_044319434.1 50S ribosomal protein L31 [Pseudomonas amygdali]
+Length=93
+
+ Score = 117 bits (293),  Expect = 8e-033, Method: Compositional matrix adjust.
+ Identities = 52/82 (63%), Positives = 66/82 (80%), Gaps = 1/82 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+ DIHP+Y+ VLFHDT ADVYFLIGST+ T +T+++  G  +PYV LD+SSASHP YTG
+Sbjct  1   MKPDIHPSYRTVLFHDTAADVYFLIGSTVDTDRTQQHTDGNTHPYVALDVSSASHPMYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFN  81
+           + R+ +NEGR+A FNKRFA F 
+Sbjct  61  QQRKTTNEGRIAGFNKRFATFG  82
+
+
+>WP_062388118.1 50S ribosomal protein L31 [Pseudomonas abietaniphila]
+Length=89
+
+ Score = 117 bits (293),  Expect = 8e-033, Method: Compositional matrix adjust.
+ Identities = 53/82 (65%), Positives = 65/82 (79%), Gaps = 1/82 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+ DIHP Y+QVLFHDT ADVYFLIGST+ T +T+++  G  YPYV LD+SSASHP YTG
+Sbjct  1   MKPDIHPDYRQVLFHDTAADVYFLIGSTVDTDRTQKHSDGNTYPYVALDVSSASHPMYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFN  81
+           + R+ + EGR+A FNKRFA F 
+Sbjct  61  QQRKTTTEGRIAGFNKRFAAFG  82
+
+
+>WP_005764807.1 MULTISPECIES: 50S ribosomal protein L31 type B [Pseudomonas syringae 
+group]
+ NP_793944.1 50S ribosomal protein L31 type B [[Pseudomonas syringae] pv. 
+tomato str. DC3000]
+Length=93
+
+ Score = 117 bits (293),  Expect = 9e-033, Method: Compositional matrix adjust.
+ Identities = 53/85 (62%), Positives = 65/85 (76%), Gaps = 1/85 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+ DIHPAY+ VLFHDT AD YFLIGST+ T +T+++  G  YPYV LD+SSASHP YTG
+Sbjct  1   MKPDIHPAYRTVLFHDTAADAYFLIGSTVDTDRTQQHTDGTTYPYVALDVSSASHPMYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFNRKS  84
+           + R+ + EGR+A FNKRFA F   S
+Sbjct  61  QQRKTTTEGRIAGFNKRFASFGSGS  85
+
+
+>WP_055001660.1 50S ribosomal protein L31 [Pseudomonas cannabina]
+Length=93
+
+ Score = 117 bits (293),  Expect = 9e-033, Method: Compositional matrix adjust.
+ Identities = 53/82 (65%), Positives = 64/82 (78%), Gaps = 1/82 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+ DIHPAY+ VLFHDT AD YFLIGST+ T +T ++  G  YPYV LD+SSASHP YTG
+Sbjct  1   MKLDIHPAYRTVLFHDTAADAYFLIGSTVDTDRTHQHTDGTTYPYVALDVSSASHPIYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFN  81
+           + R+ +NEGR+A FNKRFA F 
+Sbjct  61  QQRKTTNEGRIAGFNKRFATFG  82
+
+
+>WP_065835436.1 50S ribosomal protein L31 [Pseudomonas syringae]
+Length=93
+
+ Score = 117 bits (292),  Expect = 9e-033, Method: Compositional matrix adjust.
+ Identities = 52/82 (63%), Positives = 66/82 (80%), Gaps = 1/82 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+ DIHPAY+ VLFHDT ADV+FLIGST+ T++T+ +  G+ YPYV LD+SSASHP YTG
+Sbjct  1   MKPDIHPAYRTVLFHDTAADVFFLIGSTVDTERTQHHTDGKTYPYVALDVSSASHPMYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFN  81
+           + R+ + EGR+A FNKRFA F 
+Sbjct  61  QQRKTTTEGRIAGFNKRFATFG  82
+
+
+>WP_072069595.1 50S ribosomal protein L31 [Proteus vulgaris]
+Length=82
+
+ Score = 117 bits (292),  Expect = 9e-033, Method: Compositional matrix adjust.
+ Identities = 52/80 (65%), Positives = 65/80 (81%), Gaps = 0/80 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           M+  IHP Y+ V+FHDT+AD YF +GSTI+T++T EY+GQ+YPYVTLD+SS SHPFYTG+
+Sbjct  1   MKPGIHPQYRTVIFHDTSADAYFKVGSTIKTEKTIEYEGQMYPYVTLDVSSQSHPFYTGK  60
+
+Query  61  VRQASNEGRVASFNKRFARF  80
+            +  S EG VA FNKRF RF
+Sbjct  61  QKTHSQEGNVARFNKRFGRF  80
+
+
+>WP_072064574.1 50S ribosomal protein L31 [Proteus vulgaris]
+Length=82
+
+ Score = 116 bits (291),  Expect = 1e-032, Method: Compositional matrix adjust.
+ Identities = 52/80 (65%), Positives = 65/80 (81%), Gaps = 0/80 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           M+  IHP Y+ V+FHDT+AD YF +GSTIQT++T EY+GQ+YPYVTLD+SS SHPFYTG+
+Sbjct  1   MKLGIHPQYRTVIFHDTSADAYFKVGSTIQTEKTIEYEGQIYPYVTLDVSSQSHPFYTGK  60
+
+Query  61  VRQASNEGRVASFNKRFARF  80
+            +  S EG VA FNKRF +F
+Sbjct  61  QKTHSQEGNVARFNKRFGQF  80
+
+
+>WP_024916093.1 50S ribosomal protein L31 type B [Pseudomonas aeruginosa]
+Length=87
+
+ Score = 116 bits (291),  Expect = 1e-032, Method: Compositional matrix adjust.
+ Identities = 55/81 (68%), Positives = 65/81 (80%), Gaps = 1/81 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+  IHP Y+ VLFHDT+ADVYFLIGST +T +T  +  G+ YPYVTLD+SSASHP YTG
+Sbjct  1   MKPGIHPEYRPVLFHDTSADVYFLIGSTAETDKTHTHTDGKTYPYVTLDVSSASHPVYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARF  80
+           E R+A +EGRVA FNKRFA F
+Sbjct  61  EQRKAKSEGRVAGFNKRFAGF  81
+
+
+>WP_005889299.1 MULTISPECIES: 50S ribosomal protein L31 [Pseudomonas syringae 
+group]
+Length=93
+
+ Score = 117 bits (292),  Expect = 1e-032, Method: Compositional matrix adjust.
+ Identities = 53/85 (62%), Positives = 65/85 (76%), Gaps = 1/85 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+ DIHPAY+ VLFHDT AD YFLIGST+ T +T+++  G  YPYV LD+SSASHP YTG
+Sbjct  1   MKPDIHPAYRTVLFHDTAADAYFLIGSTVDTDRTQKHTDGTTYPYVALDVSSASHPMYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFNRKS  84
+           + R+ + EGR+A FNKRFA F   S
+Sbjct  61  QQRKTTTEGRIAGFNKRFAAFGSGS  85
+
+
+>WP_058760987.1 50S ribosomal protein L31 [Pseudomonas psychrotolerans]
+Length=86
+
+ Score = 116 bits (291),  Expect = 1e-032, Method: Compositional matrix adjust.
+ Identities = 52/80 (65%), Positives = 65/80 (81%), Gaps = 0/80 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           M+  IHP Y+ VLFHDT +D YFLI ST ++ +T+EY+GQVYPY++LD+SSASHP YTGE
+Sbjct  1   MKPGIHPNYRPVLFHDTTSDTYFLIRSTAESDRTQEYEGQVYPYISLDVSSASHPIYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARF  80
+            RQ   EGRV+SFNK+FA F
+Sbjct  61  QRQMKVEGRVSSFNKKFAGF  80
+
+
+>WP_064718602.1 50S ribosomal protein L31 [Proteus hauseri]
+Length=82
+
+ Score = 116 bits (290),  Expect = 2e-032, Method: Compositional matrix adjust.
+ Identities = 51/80 (64%), Positives = 64/80 (80%), Gaps = 0/80 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           M+  IHP Y+ V+FHDT+AD YF +GSTI+T++T EY+GQ YPY+TLD+SS SHPFYTG+
+Sbjct  1   MKSGIHPQYRTVIFHDTSADAYFKVGSTIKTEKTIEYEGQTYPYITLDVSSQSHPFYTGK  60
+
+Query  61  VRQASNEGRVASFNKRFARF  80
+            +  S EG VA FNKRF RF
+Sbjct  61  QKTHSQEGNVARFNKRFGRF  80
+
+
+>WP_020431392.1 MULTISPECIES: 50S ribosomal protein L31 [Vibrio]
+Length=85
+
+ Score = 116 bits (290),  Expect = 2e-032, Method: Compositional matrix adjust.
+ Identities = 50/83 (60%), Positives = 69/83 (83%), Gaps = 0/83 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR+ IHP Y++V+FHDT+ D YF+IGST++T++T E+QG+ YPYVT+++SS SHPFYTG+
+Sbjct  1   MREGIHPEYREVVFHDTSIDHYFVIGSTLKTERTIEWQGKTYPYVTIEVSSKSHPFYTGK  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRK  83
+            R    EGRVA+FN+RF+RF  K
+Sbjct  61  QRVMQQEGRVANFNRRFSRFGAK  83
+
+
+>WP_059314409.1 50S ribosomal protein L31 [Pseudomonas oryzihabitans]
+Length=86
+
+ Score = 116 bits (290),  Expect = 2e-032, Method: Compositional matrix adjust.
+ Identities = 52/80 (65%), Positives = 64/80 (80%), Gaps = 0/80 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR  IHP Y+ VLFHDT +D YFLI ST ++ +T+EY+GQ YPY++LD+SSASHP YTGE
+Sbjct  1   MRPGIHPNYRPVLFHDTTSDTYFLIRSTAESDRTQEYEGQTYPYISLDVSSASHPIYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARF  80
+            RQ   EGRV+SFNK+FA F
+Sbjct  61  QRQMKVEGRVSSFNKKFAGF  80
+
+
+>WP_059227567.1 50S ribosomal protein L31 [Pseudomonas sp. EpS/L25]
+Length=86
+
+ Score = 116 bits (290),  Expect = 2e-032, Method: Compositional matrix adjust.
+ Identities = 52/80 (65%), Positives = 64/80 (80%), Gaps = 0/80 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           M+  IHP Y+ VLFHDT +D YFLI ST ++ +T+EY+GQ YPY++LD+SSASHP YTGE
+Sbjct  1   MKPGIHPNYRPVLFHDTTSDTYFLIRSTAESDRTQEYEGQTYPYISLDVSSASHPIYTGE  60
+
+Query  61  VRQASNEGRVASFNKRFARF  80
+            RQ   EGRV+SFNKRFA F
+Sbjct  61  QRQMKVEGRVSSFNKRFAGF  80
+
+
+>WP_084913794.1 50S ribosomal protein L31 [Pseudomonas graminis]
+Length=93
+
+ Score = 116 bits (290),  Expect = 2e-032, Method: Compositional matrix adjust.
+ Identities = 52/82 (63%), Positives = 64/82 (78%), Gaps = 1/82 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+ DIHPAY+ VLFHDT AD YFLIGST+ T +T+++  G  YPYV LD+SSASHP YTG
+Sbjct  1   MKPDIHPAYRTVLFHDTAADAYFLIGSTVDTDRTQQHTDGTTYPYVALDVSSASHPMYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFN  81
+           + R+ + EGR+A FNKRFA F 
+Sbjct  61  QQRKTTTEGRIAGFNKRFAAFG  82
+
+
+>WP_020328104.1 50S ribosomal protein L31 [Vibrio fluvialis]
+Length=85
+
+ Score = 116 bits (290),  Expect = 2e-032, Method: Compositional matrix adjust.
+ Identities = 50/83 (60%), Positives = 69/83 (83%), Gaps = 0/83 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR+ IHP Y++V+FHDT+ D YF+IGST++T++T E+QG+ YPYVT+++SS SHPFYTG+
+Sbjct  1   MREGIHPEYREVVFHDTSIDHYFVIGSTLKTERTIEWQGRTYPYVTIEVSSKSHPFYTGK  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRK  83
+            R    EGRVA+FN+RF+RF  K
+Sbjct  61  QRVMQQEGRVANFNRRFSRFGAK  83
+
+
+>WP_009045397.1 MULTISPECIES: 50S ribosomal protein L31 [Pseudomonas]
+Length=90
+
+ Score = 116 bits (290),  Expect = 2e-032, Method: Compositional matrix adjust.
+ Identities = 53/82 (65%), Positives = 65/82 (79%), Gaps = 1/82 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+ +IHPAY+ VLFHDT ADVYFLIGST+ T +T+ +  G  YPYVTLD+SSASHP YTG
+Sbjct  1   MKANIHPAYRTVLFHDTAADVYFLIGSTVDTDRTQRHSDGNTYPYVTLDVSSASHPVYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFN  81
+           + R+  +EGR+A FNKRFA F 
+Sbjct  61  QQRKTQSEGRIAGFNKRFASFG  82
+
+
+>WP_044464797.1 50S ribosomal protein L31 [Pseudomonas sp. MRSN12121]
+Length=89
+
+ Score = 116 bits (290),  Expect = 2e-032, Method: Compositional matrix adjust.
+ Identities = 53/82 (65%), Positives = 65/82 (79%), Gaps = 1/82 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+ +IHPAY+ VLFHDT ADVYFLIGST+ T +T+ +  G  YPYVTLD+SSASHP YTG
+Sbjct  1   MKANIHPAYRTVLFHDTAADVYFLIGSTVDTDRTQRHSDGHTYPYVTLDVSSASHPVYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFN  81
+           + R+  +EGR+A FNKRFA F 
+Sbjct  61  QQRKTQSEGRIAGFNKRFASFG  82
+
+
+>WP_049196354.1 50S ribosomal protein L31 [Proteus mirabilis]
+Length=82
+
+ Score = 115 bits (289),  Expect = 2e-032, Method: Compositional matrix adjust.
+ Identities = 52/80 (65%), Positives = 64/80 (80%), Gaps = 0/80 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           M+++IHP Y+ V+FHDT+ D YF +GSTIQT +T EY+GQ YPYVTLD+SS SHPFYTG+
+Sbjct  1   MKENIHPQYRTVIFHDTSVDTYFKVGSTIQTDKTIEYEGQRYPYVTLDVSSQSHPFYTGK  60
+
+Query  61  VRQASNEGRVASFNKRFARF  80
+            +  S EG VA FNKRF RF
+Sbjct  61  QKTHSQEGNVARFNKRFGRF  80
+
+
+>WP_047573900.1 50S ribosomal protein L31 [Pseudomonas syringae]
+Length=93
+
+ Score = 116 bits (290),  Expect = 2e-032, Method: Compositional matrix adjust.
+ Identities = 51/82 (62%), Positives = 66/82 (80%), Gaps = 1/82 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+ DIHPAY+ VLFHDT AD +FLIGST+ T++T+++  G+ YPYV LD+SSASHP YTG
+Sbjct  1   MKPDIHPAYRTVLFHDTAADAFFLIGSTVDTERTQQHTDGKTYPYVALDVSSASHPMYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFN  81
+           + R+ + EGR+A FNKRFA F 
+Sbjct  61  QQRKTTTEGRIAGFNKRFATFG  82
+
+
+>WP_074887430.1 50S ribosomal protein L31 [Pseudomonas argentinensis]
+Length=86
+
+ Score = 115 bits (289),  Expect = 2e-032, Method: Compositional matrix adjust.
+ Identities = 52/81 (64%), Positives = 65/81 (80%), Gaps = 1/81 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+ DIHP Y+ VLFHD  AD Y+LIGST++T +T+++  G  YPYVTLD+SSASHP YTG
+Sbjct  1   MKPDIHPTYRPVLFHDVAADAYWLIGSTVETDKTRQHSDGNTYPYVTLDVSSASHPIYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARF  80
+           + RQ ++EGRVA FNKRFA F
+Sbjct  61  QQRQVTSEGRVAGFNKRFAGF  81
+
+
+>WP_020288914.1 50S ribosomal protein L31 [Pseudomonas sp. CFII64]
+Length=93
+
+ Score = 116 bits (290),  Expect = 2e-032, Method: Compositional matrix adjust.
+ Identities = 51/82 (62%), Positives = 66/82 (80%), Gaps = 1/82 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+ DIHPAY+ VLFHDT AD +FLIGST+ T++T+++  G+ YPYV LD+SSASHP YTG
+Sbjct  1   MKPDIHPAYRTVLFHDTAADAFFLIGSTVDTERTQQHTDGKTYPYVALDVSSASHPMYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFN  81
+           + R+ + EGR+A FNKRFA F 
+Sbjct  61  QQRKTTTEGRIAGFNKRFATFG  82
+
+
+>WP_004246279.1 MULTISPECIES: 50S ribosomal protein L31 type B [Proteus]
+Length=82
+
+ Score = 115 bits (289),  Expect = 2e-032, Method: Compositional matrix adjust.
+ Identities = 52/80 (65%), Positives = 64/80 (80%), Gaps = 0/80 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           M+++IHP Y+ V+FHDT+ D YF +GSTIQT +T EY+GQ YPYVTLD+SS SHPFYTG+
+Sbjct  1   MKENIHPQYRTVIFHDTSVDAYFKVGSTIQTDKTIEYEGQRYPYVTLDVSSQSHPFYTGK  60
+
+Query  61  VRQASNEGRVASFNKRFARF  80
+            +  S EG VA FNKRF RF
+Sbjct  61  QKTHSQEGNVARFNKRFGRF  80
+
+
+>WP_070888105.1 50S ribosomal protein L31 [Pseudomonas argentinensis]
+Length=86
+
+ Score = 115 bits (289),  Expect = 2e-032, Method: Compositional matrix adjust.
+ Identities = 52/81 (64%), Positives = 65/81 (80%), Gaps = 1/81 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+ DIHP Y+ VLFHD  AD Y+LIGST++T +T+++  G  YPYVTLD+SSASHP YTG
+Sbjct  1   MKPDIHPTYRPVLFHDVAADAYWLIGSTVETDKTRQHSDGNTYPYVTLDVSSASHPIYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARF  80
+           + RQ ++EGRVA FNKRFA F
+Sbjct  61  QQRQVTSEGRVAGFNKRFAGF  81
+
+
+>WP_045881535.1 50S ribosomal protein L31 [Pseudomonas chlororaphis]
+Length=89
+
+ Score = 115 bits (289),  Expect = 3e-032, Method: Compositional matrix adjust.
+ Identities = 53/82 (65%), Positives = 65/82 (79%), Gaps = 1/82 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+ +IHPAY+ VLFHDT ADVYFLIGST+ T +T+ +  G  YPYVTLD+SSASHP YTG
+Sbjct  1   MKANIHPAYRTVLFHDTAADVYFLIGSTVDTDRTQRHSDGHTYPYVTLDVSSASHPVYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFN  81
+           + R+  +EGR+A FNKRFA F 
+Sbjct  61  QQRKTQSEGRIAGFNKRFASFG  82
+
+
+>WP_005739156.1 50S ribosomal protein L31 [Pseudomonas amygdali]
+Length=93
+
+ Score = 116 bits (290),  Expect = 3e-032, Method: Compositional matrix adjust.
+ Identities = 53/85 (62%), Positives = 64/85 (75%), Gaps = 1/85 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+ DIHPAY+ VLFHDT AD YFLIGST+ T +T+ +  G  YPYV LD+SSASHP YTG
+Sbjct  1   MKPDIHPAYRTVLFHDTAADAYFLIGSTVDTDRTQLHTDGMTYPYVALDVSSASHPMYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFNRKS  84
+           + R+ + EGR+A FNKRFA F   S
+Sbjct  61  QQRKTTTEGRIAGFNKRFASFGSGS  85
+
+
+>WP_019349347.1 50S ribosomal protein L31, partial [Pseudomonas syringae]
+Length=92
+
+ Score = 115 bits (289),  Expect = 3e-032, Method: Compositional matrix adjust.
+ Identities = 53/85 (62%), Positives = 64/85 (75%), Gaps = 1/85 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+ DIHPAY+ VLFHDT AD YFLIGST+ T +T+ +  G  YPYV LD+SSASHP YTG
+Sbjct  1   MKPDIHPAYRTVLFHDTAADAYFLIGSTVDTDRTQLHTDGTTYPYVALDVSSASHPMYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFNRKS  84
+           + R+ + EGR+A FNKRFA F   S
+Sbjct  61  QQRKTTTEGRIAGFNKRFASFGSGS  85
+
+
+>WP_003378422.1 50S ribosomal protein L31 [Pseudomonas syringae]
+Length=93
+
+ Score = 115 bits (289),  Expect = 3e-032, Method: Compositional matrix adjust.
+ Identities = 53/85 (62%), Positives = 64/85 (75%), Gaps = 1/85 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+ DIHPAY+ VLFHDT AD YFLIGST+ T +T+ +  G  YPYV LD+SSASHP YTG
+Sbjct  1   MKPDIHPAYRTVLFHDTAADAYFLIGSTVDTDRTQLHTDGTTYPYVALDVSSASHPMYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFNRKS  84
+           + R+ + EGR+A FNKRFA F   S
+Sbjct  61  QQRKTTTEGRIAGFNKRFASFGSGS  85
+
+
+>WP_017702839.1 50S ribosomal protein L31 [Pseudomonas syringae]
+Length=93
+
+ Score = 115 bits (289),  Expect = 3e-032, Method: Compositional matrix adjust.
+ Identities = 53/85 (62%), Positives = 64/85 (75%), Gaps = 1/85 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+ DIHPAY+ VLFHDT AD YFLIGST+ T +T+ +  G  YPYV LD+SSASHP YTG
+Sbjct  1   MKPDIHPAYRTVLFHDTAADAYFLIGSTVDTDRTQLHTDGTTYPYVALDVSSASHPMYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFNRKS  84
+           + R+ + EGR+A FNKRFA F   S
+Sbjct  61  QQRKTTTEGRIAGFNKRFASFGSGS  85
+
+
+>WP_023583603.1 50S ribosomal protein L31 [Proteus hauseri]
+Length=82
+
+ Score = 115 bits (288),  Expect = 3e-032, Method: Compositional matrix adjust.
+ Identities = 52/80 (65%), Positives = 64/80 (80%), Gaps = 0/80 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           M+  IHP Y+ V+FHDT+AD YF +GSTIQT++T EY+GQ YPYVTLD+SS SHPFYTG+
+Sbjct  1   MKLGIHPQYRTVIFHDTSADAYFKVGSTIQTEKTIEYEGQTYPYVTLDVSSQSHPFYTGK  60
+
+Query  61  VRQASNEGRVASFNKRFARF  80
+            +  S EG VA FNKRF +F
+Sbjct  61  QKTHSQEGNVARFNKRFGQF  80
+
+
+>WP_003405399.1 50S ribosomal protein L31 type B [Pseudomonas syringae]
+Length=93
+
+ Score = 115 bits (289),  Expect = 3e-032, Method: Compositional matrix adjust.
+ Identities = 52/82 (63%), Positives = 64/82 (78%), Gaps = 1/82 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+ DIHP Y+ VLFHDT AD YFLIGST+ T +T+++  G  YPYV LD+SSASHP YTG
+Sbjct  1   MKPDIHPQYRTVLFHDTAADAYFLIGSTVDTDRTQQHTDGTAYPYVALDVSSASHPMYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFN  81
+           + R+A+ EGR+A FNKRFA F 
+Sbjct  61  QQRKATTEGRIAGFNKRFATFG  82
+
+
+>WP_011268736.1 50S ribosomal protein L31 type B [Pseudomonas syringae]
+ YP_236988.1 50S ribosomal protein L31 [Pseudomonas syringae pv. syringae 
+B728a]
+Length=93
+
+ Score = 115 bits (289),  Expect = 3e-032, Method: Compositional matrix adjust.
+ Identities = 52/82 (63%), Positives = 64/82 (78%), Gaps = 1/82 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+ DIHP Y+ VLFHDT AD YFLIGST+ T +T+++  G  YPYV LD+SSASHP YTG
+Sbjct  1   MKPDIHPQYRTVLFHDTAADAYFLIGSTVDTDRTQQHTDGTTYPYVALDVSSASHPMYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFN  81
+           + R+A+ EGR+A FNKRFA F 
+Sbjct  61  QQRKATTEGRIAGFNKRFATFG  82
+
+
+>WP_010428161.1 MULTISPECIES: 50S ribosomal protein L31 [Pseudomonas]
+Length=93
+
+ Score = 115 bits (289),  Expect = 3e-032, Method: Compositional matrix adjust.
+ Identities = 52/82 (63%), Positives = 64/82 (78%), Gaps = 1/82 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+ DIHP Y+ VLFHDT ADVYFLIGST+ T +T+++  G  YPYV LD+SSASHP YTG
+Sbjct  1   MKPDIHPQYRTVLFHDTAADVYFLIGSTVDTDRTQQHTDGATYPYVALDVSSASHPMYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFN  81
+           + R+ + EGR+A FNKRFA F 
+Sbjct  61  QQRKTTTEGRIAGFNKRFATFG  82
+
+
+>WP_024474782.1 50S ribosomal protein L31 [Morganella morganii]
+Length=82
+
+ Score = 115 bits (287),  Expect = 4e-032, Method: Compositional matrix adjust.
+ Identities = 52/80 (65%), Positives = 64/80 (80%), Gaps = 0/80 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           M+ DIHP Y+ V+FHDT ADVYF +GSTI+T++T E++GQ YPYVTLD+SS SHPFYTG+
+Sbjct  1   MKPDIHPDYRTVIFHDTAADVYFKVGSTIRTERTIEFEGQTYPYVTLDVSSHSHPFYTGK  60
+
+Query  61  VRQASNEGRVASFNKRFARF  80
+            +  S EG VA F KRF RF
+Sbjct  61  QKTHSQEGNVARFTKRFGRF  80
+
+
+>WP_075988825.1 50S ribosomal protein L31 [Vibrio fluvialis]
+Length=85
+
+ Score = 115 bits (288),  Expect = 4e-032, Method: Compositional matrix adjust.
+ Identities = 49/81 (60%), Positives = 68/81 (84%), Gaps = 0/81 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           MR+ IHP Y++V+FHDT+ D YF+IGST++T++T E+QG+ YPYVT+++SS SHPFYTG+
+Sbjct  1   MREGIHPEYREVVFHDTSIDHYFVIGSTLKTERTIEWQGKTYPYVTIEVSSKSHPFYTGK  60
+
+Query  61  VRQASNEGRVASFNKRFARFN  81
+            R    EGRVA+FN+RF+RF 
+Sbjct  61  QRVMQQEGRVANFNRRFSRFG  81
+
+
+>WP_003363645.1 MULTISPECIES: 50S ribosomal protein L31 [Pseudomonas]
+Length=93
+
+ Score = 115 bits (288),  Expect = 4e-032, Method: Compositional matrix adjust.
+ Identities = 52/82 (63%), Positives = 64/82 (78%), Gaps = 1/82 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+ DIHP Y+ VLFHDT ADVYFLIGST+ T +T+++  G  YPYV LD+SSASHP YTG
+Sbjct  1   MKPDIHPQYRTVLFHDTAADVYFLIGSTVDTDRTQQHTDGTTYPYVALDVSSASHPMYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFN  81
+           + R+ + EGR+A FNKRFA F 
+Sbjct  61  QQRKTTTEGRIAGFNKRFATFG  82
+
+
+>WP_036939430.1 50S ribosomal protein L31 [Proteus vulgaris]
+Length=82
+
+ Score = 115 bits (287),  Expect = 4e-032, Method: Compositional matrix adjust.
+ Identities = 51/80 (64%), Positives = 64/80 (80%), Gaps = 0/80 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           M+  IHP Y+ V+FHDT+AD YF +GSTI+T++T EY+G +YPYVTLD+SS SHPFYTG+
+Sbjct  1   MKPGIHPQYRTVIFHDTSADAYFKVGSTIKTEKTIEYEGAIYPYVTLDVSSQSHPFYTGK  60
+
+Query  61  VRQASNEGRVASFNKRFARF  80
+            +  S EG VA FNKRF RF
+Sbjct  61  QKTHSQEGNVARFNKRFGRF  80
+
+
+>WP_014602614.1 MULTISPECIES: 50S ribosomal protein L31 [Pseudomonas]
+Length=87
+
+ Score = 115 bits (288),  Expect = 4e-032, Method: Compositional matrix adjust.
+ Identities = 54/81 (67%), Positives = 64/81 (79%), Gaps = 1/81 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+  IHP Y+ VLFHDT+ADVYFLIGST +T +T  +  G+ YPYVTLD+SSASHP YTG
+Sbjct  1   MKPGIHPEYRSVLFHDTSADVYFLIGSTAETDKTHTHTDGKTYPYVTLDVSSASHPVYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARF  80
+           E R+  +EGRVA FNKRFA F
+Sbjct  61  EQRKTKSEGRVAGFNKRFAGF  81
+
+
+>WP_073169564.1 50S ribosomal protein L31 [Pseudomonas asturiensis]
+Length=92
+
+ Score = 115 bits (288),  Expect = 4e-032, Method: Compositional matrix adjust.
+ Identities = 51/82 (62%), Positives = 65/82 (79%), Gaps = 1/82 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+ DIHPAY+ VLFHDT AD +FLIGST+ T +T+++  G  YPYV LD+SSASHP YTG
+Sbjct  1   MKPDIHPAYRTVLFHDTAADAFFLIGSTVDTDRTQQHTDGNAYPYVALDVSSASHPMYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFN  81
+           + R+ ++EGR+A FNKRFA F 
+Sbjct  61  QQRKTTSEGRIAGFNKRFATFG  82
+
+
+>WP_016968545.1 50S ribosomal protein L31 [Pseudomonas fluorescens]
+Length=89
+
+ Score = 115 bits (288),  Expect = 4e-032, Method: Compositional matrix adjust.
+ Identities = 53/82 (65%), Positives = 64/82 (78%), Gaps = 1/82 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+ DIHP Y+ VLFHDT ADVYFLIGST+ T +T  +  G+ YPYVTLD+SSASHP YTG
+Sbjct  1   MKPDIHPDYRTVLFHDTAADVYFLIGSTVDTDRTHTHSDGKTYPYVTLDVSSASHPVYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFN  81
+           + R+  +EGR+A FNKRFA F 
+Sbjct  61  QQRKTQSEGRIAGFNKRFASFG  82
+
+
+>WP_024688534.1 50S ribosomal protein L31 [Pseudomonas syringae]
+Length=92
+
+ Score = 115 bits (287),  Expect = 5e-032, Method: Compositional matrix adjust.
+ Identities = 51/82 (62%), Positives = 65/82 (79%), Gaps = 1/82 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+ DIHPAY+ VLFHDT AD +FLIGST+ T +T+++  G  YPYV LD+SSASHP YTG
+Sbjct  1   MKPDIHPAYRTVLFHDTAADAFFLIGSTVDTDRTQQHTDGNTYPYVALDVSSASHPMYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFN  81
+           + R+ ++EGR+A FNKRFA F 
+Sbjct  61  QQRKTTSEGRIAGFNKRFATFG  82
+
+
+>WP_070748649.1 50S ribosomal protein L31 [Pseudomonas sp. HMSC066A08]
+Length=87
+
+ Score = 115 bits (287),  Expect = 6e-032, Method: Compositional matrix adjust.
+ Identities = 54/81 (67%), Positives = 64/81 (79%), Gaps = 1/81 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+  IHP Y+ VLFHDT+ADVYFLIGST +T +T  +  G+ YPYVTLD+SSASHP YTG
+Sbjct  1   MKPGIHPEYRPVLFHDTSADVYFLIGSTAETNKTHTHIDGKTYPYVTLDVSSASHPVYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARF  80
+           E R+  +EGRVA FNKRFA F
+Sbjct  61  EQRKTKSEGRVAGFNKRFAGF  81
+
+
+>WP_058158824.1 50S ribosomal protein L31 [Pseudomonas aeruginosa]
+Length=87
+
+ Score = 115 bits (287),  Expect = 6e-032, Method: Compositional matrix adjust.
+ Identities = 54/81 (67%), Positives = 63/81 (78%), Gaps = 1/81 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+  IHP Y  VLFHDT+ADVYFLIGST +T +T  +  G+ YPYVTLD+SSASHP YTG
+Sbjct  1   MKPGIHPEYHPVLFHDTSADVYFLIGSTAETDKTHTHTDGKTYPYVTLDVSSASHPVYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARF  80
+           E R+  +EGRVA FNKRFA F
+Sbjct  61  EQRKTKSEGRVAGFNKRFAGF  81
+
+
+>WP_003092213.1 MULTISPECIES: 50S ribosomal protein L31 type B [Pseudomonas]
+ NP_252291.1 50S ribosomal protein L31 [Pseudomonas aeruginosa PAO1]
+Length=87
+
+ Score = 115 bits (287),  Expect = 6e-032, Method: Compositional matrix adjust.
+ Identities = 54/81 (67%), Positives = 64/81 (79%), Gaps = 1/81 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+  IHP Y+ VLFHDT+ADVYFLIGST +T +T  +  G+ YPYVTLD+SSASHP YTG
+Sbjct  1   MKPGIHPEYRPVLFHDTSADVYFLIGSTAETDKTHTHTDGKTYPYVTLDVSSASHPVYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARF  80
+           E R+  +EGRVA FNKRFA F
+Sbjct  61  EQRKTKSEGRVAGFNKRFAGF  81
+
+
+>WP_083181056.1 50S ribosomal protein L31 [Pseudomonas sp. GEV388]
+Length=93
+
+ Score = 115 bits (287),  Expect = 6e-032, Method: Compositional matrix adjust.
+ Identities = 52/85 (61%), Positives = 65/85 (76%), Gaps = 1/85 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+ DIHPAY+ VLFHDT AD +FLIGST+ T +T ++  G  YPYV LD+SSASHP YTG
+Sbjct  1   MKPDIHPAYRTVLFHDTAADAFFLIGSTVDTDRTHQHSDGNTYPYVALDVSSASHPMYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFNRKS  84
+           + R+ ++EGR+A FNKRFA F   S
+Sbjct  61  QQRKTTSEGRIAGFNKRFATFGSGS  85
+
+
+>WP_078471951.1 50S ribosomal protein L31 [Pseudomonas sp. MF4836]
+Length=88
+
+ Score = 115 bits (287),  Expect = 6e-032, Method: Compositional matrix adjust.
+ Identities = 54/85 (64%), Positives = 65/85 (76%), Gaps = 1/85 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+  IHPAY+ VLFHDT ADV+FLIGST+ T +T  +  GQ YPYVTLD+SSASHP YTG
+Sbjct  1   MKPGIHPAYRTVLFHDTAADVFFLIGSTVDTDRTLAHSDGQTYPYVTLDVSSASHPVYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFNRKS  84
+           + R+  +EGR+A FNKRFA F   S
+Sbjct  61  QQRKTQSEGRIAGFNKRFASFGPGS  85
+
+
+>WP_058180848.1 50S ribosomal protein L31 [Pseudomonas aeruginosa]
+Length=87
+
+ Score = 114 bits (286),  Expect = 6e-032, Method: Compositional matrix adjust.
+ Identities = 54/81 (67%), Positives = 64/81 (79%), Gaps = 1/81 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+  IHP Y+ VLFHDT+ADVYFLIGST +T +T  +  G+ YPYVTLD+SSASHP YTG
+Sbjct  1   MKPGIHPEYRPVLFHDTSADVYFLIGSTAETDKTHTHTDGKTYPYVTLDVSSASHPVYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARF  80
+           E R+  +EGRVA FNKRFA F
+Sbjct  61  EQRKTKSEGRVAGFNKRFADF  81
+
+
+>WP_010559267.1 MULTISPECIES: 50S ribosomal protein L31 [Pseudoalteromonas]
+Length=83
+
+ Score = 114 bits (286),  Expect = 6e-032, Method: Compositional matrix adjust.
+ Identities = 49/83 (59%), Positives = 64/83 (77%), Gaps = 0/83 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           M+  IHP Y +V+FHDT AD YFL+GSTI+T +T +YQG+ YPYV +D+SS SHPFYTG+
+Sbjct  1   MKPGIHPDYGKVVFHDTAADAYFLVGSTIKTDRTIDYQGKTYPYVAIDVSSESHPFYTGK  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRK  83
+            R A ++GR+A FNKRF +   K
+Sbjct  61  QRAAQSDGRIAKFNKRFGKLGSK  83
+
+
+>WP_015502498.1 50S ribosomal protein L31 [Pseudomonas aeruginosa]
+Length=87
+
+ Score = 114 bits (286),  Expect = 6e-032, Method: Compositional matrix adjust.
+ Identities = 54/81 (67%), Positives = 64/81 (79%), Gaps = 1/81 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+  IHP Y+ VLFHDT+ADVYFLIGST +T +T  +  G+ YPYVTLD+SSASHP YTG
+Sbjct  1   MKPGIHPEYRPVLFHDTSADVYFLIGSTAETDKTHTHIDGKTYPYVTLDVSSASHPVYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARF  80
+           E R+  +EGRVA FNKRFA F
+Sbjct  61  EQRKTKSEGRVAGFNKRFAGF  81
+
+
+>WP_042552547.1 50S ribosomal protein L31 [Pseudomonas fulva]
+Length=86
+
+ Score = 114 bits (286),  Expect = 7e-032, Method: Compositional matrix adjust.
+ Identities = 53/81 (65%), Positives = 64/81 (79%), Gaps = 1/81 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+  IHP Y+ VLFHD +AD Y+LIGST+ T +T+E+  G  YPYVTLDISSASHP YTG
+Sbjct  1   MKPGIHPDYRPVLFHDVSADTYWLIGSTVSTDKTREHSDGNTYPYVTLDISSASHPIYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARF  80
+           + RQ ++EGRVA FNKRFA F
+Sbjct  61  QQRQTASEGRVAGFNKRFAGF  81
+
+
+>WP_068584912.1 MULTISPECIES: 50S ribosomal protein L31 [Pseudomonas]
+Length=89
+
+ Score = 114 bits (286),  Expect = 7e-032, Method: Compositional matrix adjust.
+ Identities = 52/82 (63%), Positives = 64/82 (78%), Gaps = 1/82 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQ-GQVYPYVTLDISSASHPFYTG  59
+           M+  IHP Y+ VLFHDT ADVYFLIGST+ T +T++Y  GQ YPYV LD+SSASHP YTG
+Sbjct  1   MKPGIHPTYRTVLFHDTAADVYFLIGSTVDTDRTQQYSDGQTYPYVALDVSSASHPVYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFN  81
+           + R+  +EGR+A FNKRF+ F 
+Sbjct  61  QQRKTQSEGRIAGFNKRFSAFG  82
+
+
+>WP_004237695.1 MULTISPECIES: 50S ribosomal protein L31 [Morganella]
+Length=82
+
+ Score = 114 bits (286),  Expect = 7e-032, Method: Compositional matrix adjust.
+ Identities = 52/80 (65%), Positives = 64/80 (80%), Gaps = 0/80 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           M+ DIHP Y+ V+FHDT ADVYF +GSTI+T++T E++GQ YPYVTLD+SS SHPFYTG+
+Sbjct  1   MKPDIHPDYRTVIFHDTAADVYFKVGSTIRTERTIEFEGQTYPYVTLDVSSHSHPFYTGK  60
+
+Query  61  VRQASNEGRVASFNKRFARF  80
+            +  S EG VA F KRF RF
+Sbjct  61  QKTHSQEGNVARFAKRFGRF  80
+
+
+>WP_020298544.1 50S ribosomal protein L31 [Pseudomonas sp. CF161]
+Length=88
+
+ Score = 114 bits (286),  Expect = 7e-032, Method: Compositional matrix adjust.
+ Identities = 53/82 (65%), Positives = 64/82 (78%), Gaps = 1/82 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQ-GQVYPYVTLDISSASHPFYTG  59
+           M+  IHPAY+ VLFHDT ADV+FLIGST+ T +T  +  GQ YPYVTLD+SSASHP YTG
+Sbjct  1   MKPGIHPAYRTVLFHDTAADVFFLIGSTVDTDRTLTHSDGQTYPYVTLDVSSASHPVYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFN  81
+           + R+  +EGR+A FNKRFA F 
+Sbjct  61  QQRKTQSEGRIAGFNKRFASFG  82
+
+
+>WP_037012337.1 50S ribosomal protein L31 [Pseudomonas lutea]
+Length=88
+
+ Score = 114 bits (286),  Expect = 8e-032, Method: Compositional matrix adjust.
+ Identities = 52/82 (63%), Positives = 63/82 (77%), Gaps = 1/82 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+ DIHP Y+QVLFHDT ADV+FLIGST+ T +T  +  G  YPYV LD+SSASHP YTG
+Sbjct  1   MKPDIHPDYRQVLFHDTAADVFFLIGSTVDTDRTHTHSDGNTYPYVALDVSSASHPMYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFN  81
+           + R+ + EGR+A FNKRFA F 
+Sbjct  61  QQRKTTTEGRIAGFNKRFATFG  82
+
+
+>WP_016350493.1 50S ribosomal protein L31 [Aeromonas hydrophila]
+Length=89
+
+ Score = 114 bits (286),  Expect = 8e-032, Method: Compositional matrix adjust.
+ Identities = 52/85 (61%), Positives = 68/85 (80%), Gaps = 1/85 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQ-GQVYPYVTLDISSASHPFYTG  59
+           MR DIHP Y+QVLFHD  A+ YFL+GST++T++TK ++ G+ YPYVTLD+SSASHPFYTG
+Sbjct  1   MRPDIHPEYRQVLFHDLTANTYFLVGSTLKTERTKLWEDGKTYPYVTLDVSSASHPFYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFNRKS  84
+           + +Q S EG+VA F +RF +F  K 
+Sbjct  61  KQKQVSKEGQVARFGQRFGQFFNKG  85
+
+
+>WP_007930532.1 50S ribosomal protein L31 [Pseudomonas sp. GM17]
+Length=90
+
+ Score = 114 bits (286),  Expect = 8e-032, Method: Compositional matrix adjust.
+ Identities = 52/82 (63%), Positives = 64/82 (78%), Gaps = 1/82 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+ +IHPAY+ VLFHDT AD YFLIGST+ T +T+ +  G  YPYVTLD+SSASHP YTG
+Sbjct  1   MKANIHPAYRTVLFHDTAADAYFLIGSTVDTDRTQRHSDGNTYPYVTLDVSSASHPVYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFN  81
+           + R+  +EGR+A FNKRFA F 
+Sbjct  61  QQRKTQSEGRIAGFNKRFASFG  82
+
+
+>WP_073349990.1 MULTISPECIES: 50S ribosomal protein L31 [Aeromonas]
+Length=89
+
+ Score = 114 bits (286),  Expect = 8e-032, Method: Compositional matrix adjust.
+ Identities = 52/85 (61%), Positives = 67/85 (79%), Gaps = 1/85 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQ-GQVYPYVTLDISSASHPFYTG  59
+           MR DIHP Y+QVLFHD  A+ YFL+GST++T +TK+++ G  YPYVTLD+SSASHPFYTG
+Sbjct  1   MRPDIHPEYRQVLFHDLTANTYFLVGSTLKTDRTKQWEDGNTYPYVTLDVSSASHPFYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFNRKS  84
+           + +Q S EG+VA F +RF +F  K 
+Sbjct  61  KQKQVSKEGQVARFGQRFGQFFNKG  85
+
+
+>WP_042144387.1 MULTISPECIES: 50S ribosomal protein L31 [Pseudoalteromonas]
+Length=83
+
+ Score = 114 bits (285),  Expect = 8e-032, Method: Compositional matrix adjust.
+ Identities = 51/83 (61%), Positives = 66/83 (80%), Gaps = 0/83 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           M+ +IHP YQ+V+FHDT AD YF++GSTI+T +T EYQG+  PYVT+DISS SHPFYTG+
+Sbjct  1   MKANIHPPYQKVVFHDTAADSYFVVGSTIKTSRTIEYQGKKMPYVTIDISSESHPFYTGK  60
+
+Query  61  VRQASNEGRVASFNKRFARFNRK  83
+            R + ++GRVA FNKRF +   K
+Sbjct  61  QRVSQSDGRVAQFNKRFGQLGNK  83
+
+
+>WP_025129613.1 50S ribosomal protein L31 [Pseudomonas sp. PH1b]
+Length=89
+
+ Score = 114 bits (286),  Expect = 9e-032, Method: Compositional matrix adjust.
+ Identities = 52/82 (63%), Positives = 65/82 (79%), Gaps = 1/82 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+ +IHP Y+ VLFHDT ADVYFLIGST+ T +T++Y  G+ YPYV LD+SSASHP YTG
+Sbjct  1   MKPNIHPDYRTVLFHDTAADVYFLIGSTVDTDRTQQYSDGKTYPYVALDVSSASHPVYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFN  81
+           + R+  +EGR+A FNKRFA F 
+Sbjct  61  QQRKTQSEGRIAGFNKRFASFG  82
+
+
+>WP_023113980.1 50S ribosomal protein L31 [Pseudomonas aeruginosa]
+Length=85
+
+ Score = 114 bits (285),  Expect = 9e-032, Method: Compositional matrix adjust.
+ Identities = 54/80 (68%), Positives = 63/80 (79%), Gaps = 1/80 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           M+  IHP Y+ VLFHDT+ADVYFLIGST +T +T    G+ YPYVTLD+SSASHP YTGE
+Sbjct  1   MKPGIHPEYRPVLFHDTSADVYFLIGSTAETDKTHT-DGKTYPYVTLDVSSASHPVYTGE  59
+
+Query  61  VRQASNEGRVASFNKRFARF  80
+            R+  +EGRVA FNKRFA F
+Sbjct  60  QRKTKSEGRVAGFNKRFAGF  79
+
+
+>WP_043122476.1 50S ribosomal protein L31 [Aeromonas hydrophila]
+Length=89
+
+ Score = 114 bits (285),  Expect = 1e-031, Method: Compositional matrix adjust.
+ Identities = 52/85 (61%), Positives = 67/85 (79%), Gaps = 1/85 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQ-GQVYPYVTLDISSASHPFYTG  59
+           MR DIHP Y+QVLFHD  A+ YFL+GST++T +TK+++ G  YPYVTLD+SSASHPFYTG
+Sbjct  1   MRPDIHPEYRQVLFHDLTANTYFLVGSTLKTDRTKQWEDGNTYPYVTLDVSSASHPFYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFNRKS  84
+           + +Q S EG+VA F +RF +F  K 
+Sbjct  61  KQKQVSKEGQVARFGQRFGQFFNKG  85
+
+
+>WP_016703453.1 50S ribosomal protein L31 [Pseudomonas chlororaphis]
+Length=90
+
+ Score = 114 bits (285),  Expect = 1e-031, Method: Compositional matrix adjust.
+ Identities = 52/82 (63%), Positives = 64/82 (78%), Gaps = 1/82 (1%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEY-QGQVYPYVTLDISSASHPFYTG  59
+           M+ +IHPAY+ VLFHDT ADVYFLIGST+ T +T+ +  G  YPYV LD+SSASHP YTG
+Sbjct  1   MKANIHPAYRTVLFHDTAADVYFLIGSTVDTDRTQRHSDGNTYPYVALDVSSASHPVYTG  60
+
+Query  60  EVRQASNEGRVASFNKRFARFN  81
+           + R+  +EGR+A FNKRFA F 
+Sbjct  61  QQRKTQSEGRIAGFNKRFASFG  82
+
+
+>WP_066749847.1 50S ribosomal protein L31 [Cosenzaea myxofaciens]
+Length=82
+
+ Score = 114 bits (285),  Expect = 1e-031, Method: Compositional matrix adjust.
+ Identities = 51/80 (64%), Positives = 65/80 (81%), Gaps = 0/80 (0%)
+
+Query  1   MRKDIHPAYQQVLFHDTNADVYFLIGSTIQTKQTKEYQGQVYPYVTLDISSASHPFYTGE  60
+           M++ IHP Y+ V+FHDT+AD YF +GSTI+T++T E++GQ YPYVTLDISS SHPFYTG+
+Sbjct  1   MKQVIHPQYRTVIFHDTSADAYFKVGSTIKTEKTIEFEGQTYPYVTLDISSQSHPFYTGK  60
+
+Query  61  VRQASNEGRVASFNKRFARF  80
+            +  + EG VA FNKRF RF
+Sbjct  61  QKTHAQEGNVARFNKRFGRF  80
+
+
+
+Lambda      K        H
+   0.320    0.132    0.381 
+
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+
+Effective search space used: 780119557223
+
+
+  Database: NCBI Protein Reference Sequences
+    Posted date:  May 29, 2017 12:00 AM
+  Number of letters in database: 31,412,196,622
+  Number of sequences in database:  82,027,677
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40

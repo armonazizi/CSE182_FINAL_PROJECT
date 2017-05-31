@@ -1,0 +1,4162 @@
+BLASTP 2.6.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: NCBI Protein Reference Sequences
+           82,027,677 sequences; 31,412,196,622 total letters
+
+
+
+Query= embl-cds:ABO10652 hypothetical protein OS=Acinetobacter baumannii
+(strain ATCC 17978 / CIP 53.77 / LMG 1025 / NCDC KC755 / 5377)
+GN=A1S_0169 SV=1 UP=UP000006737:Chromosome
+
+Length=100
+
+RID: JU1NDK70015
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+WP_000231981.1  MULTISPECIES: hypothetical protein [Acinetobacter...  203     4e-066
+WP_032039268.1  hypothetical protein [Acinetobacter baumannii]        203     6e-066
+WP_031994412.1  hypothetical protein [Acinetobacter baumannii]        203     6e-066
+WP_000231980.1  hypothetical protein [Acinetobacter baumannii]        203     6e-066
+WP_002045083.1  hypothetical protein [Acinetobacter baumannii]        203     6e-066
+WP_079378561.1  hypothetical protein [Acinetobacter baumannii]        201     7e-066
+WP_000231979.1  hypothetical protein [Acinetobacter baumannii]        202     9e-066
+WP_000231976.1  hypothetical protein [Acinetobacter baumannii]        202     1e-065
+WP_072689890.1  DUF2946 domain-containing protein [Acinetobacter ...  202     2e-065
+WP_000231986.1  hypothetical protein [Acinetobacter baumannii]        202     2e-065
+WP_033853756.1  hypothetical protein [Acinetobacter baumannii]        202     2e-065
+WP_000231982.1  hypothetical protein [Acinetobacter baumannii]        202     2e-065
+WP_032035036.1  hypothetical protein [Acinetobacter baumannii]        202     2e-065
+WP_031964844.1  hypothetical protein [Acinetobacter baumannii]        201     2e-065
+WP_000231985.1  MULTISPECIES: hypothetical protein [Acinetobacter...  201     2e-065
+WP_016654437.1  hypothetical protein [Acinetobacter baumannii]        201     3e-065
+WP_000231984.1  hypothetical protein [Acinetobacter baumannii]        201     3e-065
+WP_064191934.1  DUF2946 domain-containing protein [Acinetobacter ...  201     4e-065
+WP_024435307.1  hypothetical protein [Acinetobacter baumannii]        201     5e-065
+WP_032040574.1  hypothetical protein [Acinetobacter baumannii]        201     5e-065
+WP_032060375.1  hypothetical protein [Acinetobacter baumannii]        201     5e-065
+WP_000231988.1  hypothetical protein [Acinetobacter baumannii]        201     6e-065
+WP_000231983.1  hypothetical protein [Acinetobacter baumannii]        200     8e-065
+WP_057065675.1  hypothetical protein [Acinetobacter baumannii]        200     9e-065
+WP_031955711.1  hypothetical protein [Acinetobacter baumannii]        200     1e-064
+WP_024434874.1  hypothetical protein [Acinetobacter baumannii]        199     2e-064
+WP_032027101.1  hypothetical protein [Acinetobacter baumannii]        199     2e-064
+WP_085838804.1  DUF2946 domain-containing protein [Acinetobacter ...  199     3e-064
+WP_031968364.1  hypothetical protein [Acinetobacter baumannii]        199     4e-064
+WP_070115209.1  DUF2946 domain-containing protein [Acinetobacter ...  198     5e-064
+WP_031967481.1  DUF2946 domain-containing protein [Acinetobacter ...  192     2e-061
+WP_068933976.1  DUF2946 domain-containing protein [Acinetobacter ...  185     6e-059
+WP_004705923.1  MULTISPECIES: DUF2946 domain-containing protein [...  184     2e-058
+WP_069121957.1  DUF2946 domain-containing protein [Acinetobacter ...  182     1e-057
+WP_005804747.1  MULTISPECIES: DUF2946 domain-containing protein [...  181     4e-057
+WP_063097943.1  DUF2946 domain-containing protein [Acinetobacter ...  181     5e-057
+WP_079878121.1  hypothetical protein [Acinetobacter baumannii]        176     8e-056
+WP_003655503.1  hypothetical protein [Acinetobacter calcoaceticus]    172     6e-054
+WP_042898449.1  MULTISPECIES: hypothetical protein [Acinetobacter]    172     9e-054
+WP_017391508.1  MULTISPECIES: hypothetical protein [Acinetobacter]    172     1e-053
+WP_039252946.1  MULTISPECIES: hypothetical protein [Acinetobacter]    172     1e-053
+WP_005049024.1  hypothetical protein [Acinetobacter calcoaceticus]    171     3e-053
+WP_075383933.1  DUF2946 domain-containing protein [Acinetobacter ...  167     9e-052
+WP_071224738.1  DUF2946 domain-containing protein [Acinetobacter ...  167     1e-051
+WP_002054220.1  MULTISPECIES: hypothetical protein [Acinetobacter...  167     1e-051
+WP_045437090.1  hypothetical protein [Acinetobacter calcoaceticus]    166     4e-051
+WP_045124781.1  hypothetical protein [Acinetobacter nosocomialis]     166     5e-051
+WP_064784398.1  DUF2946 domain-containing protein [Acinetobacter ...  165     6e-051
+WP_016139562.1  DUF2946 domain-containing protein [Acinetobacter ...  165     8e-051
+WP_000231978.1  DUF2946 domain-containing protein [Acinetobacter ...  164     1e-050
+WP_086394857.1  DUF2946 domain-containing protein [Acinetobacter ...  164     2e-050
+WP_000231977.1  DUF2946 domain-containing protein [Acinetobacter ...  164     2e-050
+WP_016142490.1  DUF2946 domain-containing protein [Acinetobacter ...  164     2e-050
+WP_005309169.1  MULTISPECIES: DUF2946 domain-containing protein [...  163     3e-050
+WP_002114087.1  MULTISPECIES: DUF2946 domain-containing protein [...  163     3e-050
+WP_057073923.1  DUF2946 domain-containing protein [Acinetobacter ...  163     3e-050
+WP_022574388.1  hypothetical protein [Acinetobacter nosocomialis]     163     4e-050
+WP_069035867.1  DUF2946 domain-containing protein [Acinetobacter ...  163     4e-050
+WP_013199173.1  hypothetical protein [Acinetobacter oleivorans]       163     5e-050
+WP_062848997.1  hypothetical protein [Acinetobacter lactucae]         163     5e-050
+WP_069030755.1  DUF2946 domain-containing protein [Acinetobacter ...  162     1e-049
+WP_061875246.1  DUF2946 domain-containing protein [Acinetobacter ...  162     1e-049
+WP_016144060.1  hypothetical protein [Acinetobacter pittii]           162     1e-049
+WP_039766344.1  DUF2946 domain-containing protein [Acinetobacter ...  161     2e-049
+WP_086260871.1  DUF2946 domain-containing protein [Acinetobacter ...  160     4e-049
+WP_044102552.1  hypothetical protein [Acinetobacter pittii]           160     5e-049
+WP_057106020.1  hypothetical protein [Acinetobacter pittii]           160     7e-049
+WP_070469461.1  DUF2946 domain-containing protein [Acinetobacter ...  159     2e-048
+WP_017399716.1  DUF2946 domain-containing protein [Acinetobacter ...  159     2e-048
+WP_070419658.1  DUF2946 domain-containing protein [Acinetobacter ...  158     4e-048
+WP_005072040.1  MULTISPECIES: DUF2946 domain-containing protein [...  157     7e-048
+WP_032070742.1  MULTISPECIES: DUF2946 domain-containing protein [...  157     8e-048
+WP_079265484.1  hypothetical protein [Acinetobacter baumannii]        153     4e-047
+WP_005155270.1  MULTISPECIES: DUF2946 domain-containing protein [...  154     2e-046
+WP_004680035.1  MULTISPECIES: DUF2946 domain-containing protein [...  153     3e-046
+WP_005154486.1  MULTISPECIES: DUF2946 domain-containing protein [...  153     3e-046
+WP_005240374.1  MULTISPECIES: DUF2946 domain-containing protein [...  151     2e-045
+WP_047433151.1  DUF2946 domain-containing protein [Acinetobacter ...  151     2e-045
+WP_004665175.1  MULTISPECIES: DUF2946 domain-containing protein [...  151     2e-045
+WP_005092481.1  hypothetical protein [Acinetobacter haemolyticus]     150     4e-045
+WP_005186677.1  DUF2946 domain-containing protein [Acinetobacter ...  150     6e-045
+WP_004637503.1  hypothetical protein [Acinetobacter haemolyticus]     150     6e-045
+WP_038345792.1  DUF2946 domain-containing protein [Acinetobacter ...  149     1e-044
+WP_004656476.1  MULTISPECIES: DUF2946 domain-containing protein [...  149     2e-044
+WP_008942435.1  MULTISPECIES: hypothetical protein [Acinetobacter]    148     3e-044
+WP_070076721.1  DUF2946 domain-containing protein [Acinetobacter ...  148     5e-044
+WP_005085667.1  hypothetical protein [Acinetobacter haemolyticus]     147     8e-044
+WP_033133975.1  DUF2946 domain-containing protein [Acinetobacter ...  147     1e-043
+WP_016164815.1  DUF2946 domain-containing protein [Acinetobacter ...  147     2e-043
+WP_004798069.1  hypothetical protein [Acinetobacter sp. CIP 102637]   145     3e-043
+WP_005319691.1  DUF2946 domain-containing protein [Acinetobacter ...  145     4e-043
+WP_079865530.1  hypothetical protein [Acinetobacter baumannii]        139     1e-041
+WP_005209958.1  hypothetical protein [Acinetobacter sp. NIPH 1867]    141     2e-041
+WP_034595322.1  DUF2946 domain-containing protein [Acinetobacter ...  140     7e-041
+WP_005278050.1  hypothetical protein [Acinetobacter sp. NIPH 1859]    139     1e-040
+WP_018678442.1  hypothetical protein [Acinetobacter tjernbergiae]     139     2e-040
+WP_034594816.1  DUF2946 domain-containing protein [Acinetobacter ...  138     4e-040
+WP_004941507.1  DUF2946 domain-containing protein [Acinetobacter ...  137     1e-039
+WP_048763953.1  MULTISPECIES: DUF2946 domain-containing protein [...  136     1e-039
+WP_076033608.1  DUF2946 domain-containing protein [Acinetobacter ...  136     2e-039
+WP_029952578.1  hypothetical protein [Acinetobacter soli]             136     2e-039
+WP_005403959.1  hypothetical protein [Acinetobacter junii]            135     5e-039
+WP_005055585.1  hypothetical protein [Acinetobacter beijerinckii]     135     6e-039
+WP_016542603.1  hypothetical protein [Acinetobacter gyllenbergii]     134     9e-039
+WP_034709792.1  MULTISPECIES: DUF2946 domain-containing protein [...  135     9e-039
+WP_004905505.1  hypothetical protein [Acinetobacter junii]            134     1e-038
+WP_004944206.1  DUF2946 domain-containing protein [Acinetobacter ...  134     1e-038
+WP_042892177.1  hypothetical protein [Acinetobacter junii]            134     1e-038
+WP_005060787.1  hypothetical protein [Acinetobacter beijerinckii]     134     1e-038
+WP_049173877.1  DUF2946 domain-containing protein [Acinetobacter ...  134     2e-038
+WP_039048136.1  hypothetical protein [Acinetobacter junii]            134     2e-038
+WP_004956544.1  hypothetical protein [Acinetobacter junii]            134     2e-038
+WP_004967052.1  hypothetical protein [Acinetobacter junii]            134     2e-038
+WP_004865690.1  DUF2946 domain-containing protein [Acinetobacter ...  133     3e-038
+WP_004985570.1  DUF2946 domain-containing protein [Acinetobacter ...  132     5e-038
+WP_009510458.1  hypothetical protein [Acinetobacter sp. WC-323]       132     5e-038
+WP_044435798.1  DUF2946 domain-containing protein [Acinetobacter ...  132     5e-038
+WP_004995416.1  MULTISPECIES: DUF2946 domain-containing protein [...  132     5e-038
+WP_005001716.1  DUF2946 domain-containing protein [Acinetobacter ...  132     7e-038
+WP_004773211.1  MULTISPECIES: hypothetical protein [Acinetobacter]    132     1e-037
+WP_004674062.1  hypothetical protein [Acinetobacter parvus]           131     1e-037
+WP_086204414.1  DUF2946 domain-containing protein [Acinetobacter ...  131     2e-037
+WP_005281194.1  MULTISPECIES: hypothetical protein [Acinetobacter]    131     2e-037
+WP_032871014.1  hypothetical protein [Acinetobacter baumannii]        130     5e-037
+WP_004814280.1  hypothetical protein [Acinetobacter schindleri]       130     6e-037
+WP_004895276.1  MULTISPECIES: hypothetical protein [Acinetobacter]    128     4e-036
+WP_076754608.1  DUF2946 domain-containing protein [Acinetobacter ...  127     6e-036
+WP_005228397.1  hypothetical protein [Acinetobacter sp. NIPH 1847]    127     7e-036
+WP_016658991.1  hypothetical protein [Acinetobacter indicus]          127     1e-035
+WP_005181463.1  hypothetical protein [Acinetobacter sp. CIP 53.82]    126     1e-035
+WP_048880981.1  DUF2946 domain-containing protein [Acinetobacter ...  126     1e-035
+WP_010325663.1  MULTISPECIES: hypothetical protein [Acinetobacter]    126     2e-035
+WP_004984066.1  hypothetical protein [Acinetobacter johnsonii]        126     2e-035
+WP_005405866.1  MULTISPECIES: hypothetical protein [Acinetobacter]    125     2e-035
+WP_005017249.1  MULTISPECIES: hypothetical protein [Acinetobacter]    125     3e-035
+WP_034671147.1  hypothetical protein [Acinetobacter sp. 1461402]      125     4e-035
+WP_010700342.1  MULTISPECIES: hypothetical protein [Acinetobacter]    125     4e-035
+WP_086189450.1  DUF2946 domain-containing protein [Acinetobacter ...  125     5e-035
+WP_058868690.1  hypothetical protein [Acinetobacter johnsonii]        125     6e-035
+WP_067731744.1  DUF2946 domain-containing protein [Acinetobacter ...  124     7e-035
+WP_081374984.1  MULTISPECIES: DUF2946 domain-containing protein [...  124     9e-035
+WP_035268230.1  DUF2946 domain-containing protein [Acinetobacter ...  124     1e-034
+WP_068910214.1  DUF2946 domain-containing protein [Acinetobacter ...  124     1e-034
+WP_004830853.1  MULTISPECIES: DUF2946 domain-containing protein [...  124     1e-034
+WP_005401880.1  hypothetical protein [Acinetobacter johnsonii]        124     1e-034
+WP_062031778.1  hypothetical protein [Acinetobacter sp. BMW17]        124     2e-034
+WP_056518379.1  hypothetical protein [Acinetobacter sp. Root1280]     124     2e-034
+WP_071320829.1  DUF2946 domain-containing protein [Acinetobacter ...  124     2e-034
+WP_009585349.1  MULTISPECIES: DUF2946 domain-containing protein [...  124     2e-034
+WP_068975663.1  DUF2946 domain-containing protein [Acinetobacter ...  124     2e-034
+WP_078389804.1  DUF2946 domain-containing protein [Acinetobacter ...  123     2e-034
+WP_067671379.1  DUF2946 domain-containing protein [Acinetobacter ...  123     2e-034
+WP_064096964.1  DUF2946 domain-containing protein [Acinetobacter ...  123     3e-034
+WP_004684453.1  MULTISPECIES: hypothetical protein [Acinetobacter]    123     3e-034
+WP_081407353.1  DUF2946 domain-containing protein [Acinetobacter ...  122     5e-034
+WP_004720578.1  MULTISPECIES: hypothetical protein [Acinetobacter]    122     5e-034
+WP_058968558.1  DUF2946 domain-containing protein [Acinetobacter ...  123     5e-034
+WP_086205416.1  DUF2946 domain-containing protein [Acinetobacter ...  122     6e-034
+WP_070155527.1  DUF2946 domain-containing protein [Acinetobacter ...  122     7e-034
+WP_086188026.1  DUF2946 domain-containing protein [Acinetobacter ...  122     7e-034
+WP_039623758.1  hypothetical protein [Acinetobacter harbinensis]      122     8e-034
+WP_019837183.1  hypothetical protein [Acinetobacter sp. MDS7A]        122     9e-034
+WP_004831949.1  MULTISPECIES: DUF2946 domain-containing protein [...  122     1e-033
+WP_005094527.1  hypothetical protein [Acinetobacter lwoffii]          121     1e-033
+WP_009586629.1  MULTISPECIES: DUF2946 domain-containing protein [...  122     1e-033
+WP_081106325.1  DUF2946 domain-containing protein [Acinetobacter ...  121     1e-033
+WP_064101731.1  DUF2946 domain-containing protein [Acinetobacter ...  121     1e-033
+WP_034618192.1  hypothetical protein [Acinetobacter sp. ETR1]         122     1e-033
+WP_005173863.1  MULTISPECIES: hypothetical protein [Acinetobacter]    121     2e-033
+WP_004823725.1  DUF2946 domain-containing protein [Acinetobacter ...  121     2e-033
+WP_004723399.1  DUF2946 domain-containing protein [Acinetobacter ...  121     2e-033
+WP_086196622.1  DUF2946 domain-containing protein [Acinetobacter ...  121     2e-033
+WP_010116792.1  hypothetical protein [Acinetobacter sp. P8-3-8]       120     2e-033
+WP_004780731.1  DUF2946 domain-containing protein [Acinetobacter ...  120     2e-033
+WP_005233427.1  MULTISPECIES: hypothetical protein [Acinetobacter]    120     3e-033
+WP_067725935.1  DUF2946 domain-containing protein [Acinetobacter ...  120     3e-033
+WP_053579004.1  hypothetical protein [Acinetobacter sp. TTH0-4]       120     4e-033
+WP_086213987.1  DUF2946 domain-containing protein [Acinetobacter ...  120     5e-033
+WP_034582548.1  hypothetical protein [Acinetobacter sp. HR7]          119     8e-033
+WP_034171544.1  hypothetical protein [Acinetobacter sp. YZS-X1-1]     119     8e-033
+WP_005012039.1  hypothetical protein [Acinetobacter bouvetii]         119     9e-033
+WP_061393542.1  hypothetical protein [Acinetobacter venetianus]       119     9e-033
+WP_086181310.1  DUF2946 domain-containing protein [Acinetobacter ...  119     9e-033
+WP_004881962.1  hypothetical protein [Acinetobacter venetianus]       119     1e-032
+WP_086210793.1  DUF2946 domain-containing protein [Acinetobacter ...  119     1e-032
+WP_023012642.1  hypothetical protein [Acinetobacter sp. COS3]         119     1e-032
+WP_065994474.1  DUF2946 domain-containing protein [Acinetobacter ...  119     1e-032
+WP_061518688.1  hypothetical protein [Acinetobacter venetianus]       119     2e-032
+WP_078191458.1  MULTISPECIES: DUF2946 domain-containing protein [...  118     2e-032
+WP_068885789.1  DUF2946 domain-containing protein [Acinetobacter ...  118     2e-032
+WP_007478624.1  MULTISPECIES: hypothetical protein [Acinetobacter]    118     3e-032
+WP_016165586.1  hypothetical protein [Acinetobacter tandoii]          118     3e-032
+WP_067762717.1  DUF2946 domain-containing protein [Acinetobacter ...  118     3e-032
+WP_067655001.1  DUF2946 domain-containing protein [Acinetobacter ...  119     3e-032
+WP_019385261.1  hypothetical protein [Acinetobacter venetianus]       118     3e-032
+WP_004732588.1  hypothetical protein [Acinetobacter lwoffii]          117     4e-032
+WP_086164838.1  DUF2946 domain-containing protein [Acinetobacter ...  117     4e-032
+WP_086184125.1  DUF2946 domain-containing protein [Acinetobacter ...  117     5e-032
+WP_086193889.1  DUF2946 domain-containing protein [Acinetobacter ...  117     6e-032
+WP_074947532.1  DUF2946 domain-containing protein [Acinetobacter ...  117     6e-032
+WP_004649549.1  hypothetical protein [Acinetobacter bohemicus]        117     7e-032
+WP_054580523.1  hypothetical protein [Acinetobacter equi]             116     1e-031
+WP_005245288.1  hypothetical protein [Acinetobacter sp. CIP 51.11]    116     1e-031
+WP_067864548.1  DUF2946 domain-containing protein [Acinetobacter ...  115     4e-031
+WP_086178648.1  DUF2946 domain-containing protein [Acinetobacter ...  114     7e-031
+WP_004281013.1  hypothetical protein [Acinetobacter lwoffii]          114     8e-031
+WP_085945808.1  DUF2946 domain-containing protein [Acinetobacter ...  114     1e-030
+WP_086322716.1  DUF2946 domain-containing protein [Acinetobacter ...  114     1e-030
+WP_004644876.1  MULTISPECIES: hypothetical protein [Acinetobacter]    114     1e-030
+WP_004858197.1  DUF2946 domain-containing protein [Acinetobacter ...  114     1e-030
+WP_086200303.1  DUF2946 domain-containing protein [Acinetobacter ...  113     2e-030
+WP_005108420.1  hypothetical protein [Acinetobacter lwoffii]          113     3e-030
+WP_086207349.1  DUF2946 domain-containing protein [Acinetobacter ...  113     4e-030
+WP_081407214.1  DUF2946 domain-containing protein [Acinetobacter ...  113     5e-030
+WP_067557979.1  DUF2946 domain-containing protein [Acinetobacter ...  112     1e-029
+WP_068908220.1  DUF2946 domain-containing protein [Acinetobacter ...  111     2e-029
+WP_016654751.1  DUF2946 domain-containing protein [Acinetobacter ...  111     2e-029
+WP_081409210.1  DUF2946 domain-containing protein [Acinetobacter ...  108     3e-028
+WP_026438527.1  hypothetical protein [Acinetobacter towneri]          107     9e-028
+WP_039622218.1  hypothetical protein [Acinetobacter harbinensis]      106     2e-027
+WP_000242853.1  MULTISPECIES: DUF2946 domain-containing protein [...  105     5e-027
+WP_086176455.1  DUF2946 domain-containing protein [Acinetobacter ...  103     1e-026
+WP_078192109.1  DUF2946 domain-containing protein [Acinetobacter ...  104     1e-026
+WP_086195134.1  DUF2946 domain-containing protein [Acinetobacter ...  103     1e-026
+WP_086194842.1  DUF2946 domain-containing protein [Acinetobacter ...  103     2e-026
+WP_086197096.1  DUF2946 domain-containing protein [Acinetobacter ...  103     2e-026
+WP_081402496.1  DUF2946 domain-containing protein [Acinetobacter ...  102     2e-026
+WP_081401333.1  DUF2946 domain-containing protein [Acinetobacter ...  102     3e-026
+WP_004827113.1  MULTISPECIES: DUF2946 domain-containing protein [...  102     5e-026
+WP_029574393.1  DUF2946 domain-containing protein [Acinetobacter ...  102     6e-026
+WP_002009562.1  DUF2946 domain-containing protein [Acinetobacter ...  102     7e-026
+WP_078193302.1  DUF2946 domain-containing protein [Acinetobacter ...  101     8e-026
+WP_086209445.1  DUF2946 domain-containing protein [Acinetobacter ...  102     1e-025
+WP_058952317.1  DUF2946 domain-containing protein [Acinetobacter ...  101     1e-025
+WP_074947815.1  DUF2946 domain-containing protein [Acinetobacter ...  100     1e-025
+WP_067665599.1  DUF2946 domain-containing protein [Acinetobacter ...  101     2e-025
+WP_004753569.1  DUF2946 domain-containing protein [Acinetobacter ...  99.8    4e-025
+WP_023273118.1  DUF2946 domain-containing protein [Acinetobacter ...  98.6    1e-024
+WP_086194907.1  DUF2946 domain-containing protein [Acinetobacter ...  99.0    1e-024
+WP_004903545.1  DUF2946 domain-containing protein [Acinetobacter ...  97.8    3e-024
+WP_080755340.1  hypothetical protein [Acinetobacter junii]            97.4    4e-024
+WP_004912628.1  DUF2946 domain-containing protein [Acinetobacter ...  97.4    4e-024
+WP_004956199.1  DUF2946 domain-containing protein [Acinetobacter ...  97.4    5e-024
+WP_045793975.1  DUF2946 domain-containing protein [Acinetobacter ...  97.1    5e-024
+WP_081378483.1  hypothetical protein [Acinetobacter junii]            97.1    6e-024
+WP_042069139.1  hypothetical protein [Acinetobacter tandoii]          96.3    8e-024
+WP_031959690.1  MULTISPECIES: DUF2946 domain-containing protein [...  96.3    1e-023
+WP_086399735.1  DUF2946 domain-containing protein [Acinetobacter ...  95.9    2e-023
+WP_035268903.1  hypothetical protein [Acinetobacter sp. Ver3]         95.5    2e-023
+WP_031975204.1  MULTISPECIES: DUF2946 domain-containing protein [...  95.5    2e-023
+WP_017816572.1  DUF2946 domain-containing protein [Acinetobacter ...  95.5    2e-023
+WP_067665602.1  DUF2946 domain-containing protein [Acinetobacter ...  95.1    3e-023
+WP_005062504.1  DUF2946 domain-containing protein [Acinetobacter ...  95.5    4e-023
+WP_017816571.1  DUF2946 domain-containing protein [Acinetobacter ...  94.7    6e-023
+WP_016801361.1  hypothetical protein [Acinetobacter radioresistens]   94.4    7e-023
+WP_005025787.1  MULTISPECIES: hypothetical protein [Acinetobacter]    94.0    1e-022
+WP_086399736.1  DUF2946 domain-containing protein [Acinetobacter ...  94.0    1e-022
+WP_013197555.1  DUF2946 domain-containing protein [Acinetobacter ...  93.6    1e-022
+WP_080941308.1  DUF2946 domain-containing protein [Acinetobacter ...  94.0    1e-022
+WP_005014455.1  MULTISPECIES: hypothetical protein [Acinetobacter]    94.0    1e-022
+WP_081316837.1  DUF2946 domain-containing protein [Acinetobacter ...  93.6    1e-022
+WP_075039889.1  MULTISPECIES: DUF2946 domain-containing protein [...  93.6    2e-022
+WP_032063021.1  DUF2946 domain-containing protein [Acinetobacter ...  93.2    2e-022
+WP_048764615.1  MULTISPECIES: DUF2946 domain-containing protein [...  93.2    2e-022
+WP_004937661.1  DUF2946 domain-containing protein [Acinetobacter ...  93.2    2e-022
+WP_065341948.1  DUF2946 domain-containing protein [Acinetobacter ...  93.6    2e-022
+WP_016660255.1  DUF2946 domain-containing protein [Acinetobacter ...  93.6    2e-022
+WP_035269967.1  hypothetical protein [Acinetobacter sp. Ver3]         92.8    3e-022
+WP_048881376.1  hypothetical protein [Acinetobacter sp. VT 511]       92.8    3e-022
+WP_011182341.1  MULTISPECIES: DUF2946 domain-containing protein [...  92.8    3e-022
+WP_025094624.1  DUF2946 domain-containing protein [Acinetobacter ...  92.8    3e-022
+WP_053577845.1  DUF2946 domain-containing protein [Acinetobacter ...  92.8    4e-022
+WP_005152928.1  hypothetical protein [Acinetobacter sp. ANC 3929]     92.8    4e-022
+WP_005221172.1  hypothetical protein [Acinetobacter sp. CIP 101934]   92.4    4e-022
+WP_023269765.1  DUF2946 domain-containing protein [Acinetobacter ...  92.8    4e-022
+WP_004811008.1  MULTISPECIES: hypothetical protein [Acinetobacter]    92.4    4e-022
+WP_078192108.1  DUF2946 domain-containing protein [Acinetobacter ...  92.0    4e-022
+WP_031959691.1  DUF2946 domain-containing protein [Acinetobacter ...  92.0    5e-022
+WP_055415408.1  MULTISPECIES: DUF2946 domain-containing protein [...  92.0    7e-022
+WP_055415851.1  DUF2946 domain-containing protein [Acinetobacter ...  92.0    8e-022
+WP_077164533.1  DUF2946 domain-containing protein [Acinetobacter ...  91.7    1e-021
+WP_005054775.1  DUF2946 domain-containing protein [Acinetobacter ...  91.7    1e-021
+WP_039250605.1  MULTISPECIES: DUF2946 domain-containing protein [...  91.3    1e-021
+WP_013197554.1  DUF2946 domain-containing protein [Acinetobacter ...  91.3    2e-021
+WP_032063020.1  DUF2946 domain-containing protein [Acinetobacter ...  91.3    2e-021
+WP_034595080.1  hypothetical protein [Acinetobacter sp. NIPH 298]     90.9    2e-021
+WP_004702602.1  DUF2946 domain-containing protein [Acinetobacter ...  90.9    2e-021
+WP_005212388.1  DUF2946 domain-containing protein [Acinetobacter ...  90.9    2e-021
+WP_086193306.1  DUF2946 domain-containing protein [Acinetobacter ...  90.5    2e-021
+WP_049065789.1  DUF2946 domain-containing protein [Acinetobacter ...  90.5    3e-021
+WP_019457368.1  DUF2946 domain-containing protein [Acinetobacter ...  90.5    3e-021
+WP_068933855.1  DUF2946 domain-containing protein [Acinetobacter ...  90.5    3e-021
+WP_034604858.1  MULTISPECIES: DUF2946 domain-containing protein [...  90.1    4e-021
+WP_061516620.1  DUF2946 domain-containing protein [Acinetobacter ...  90.1    4e-021
+WP_071319922.1  DUF2946 domain-containing protein [Acinetobacter ...  89.7    4e-021
+WP_061518321.1  DUF2946 domain-containing protein [Acinetobacter ...  89.7    4e-021
+WP_061396614.1  DUF2946 domain-containing protein [Acinetobacter ...  89.7    5e-021
+WP_067722713.1  DUF2946 domain-containing protein [Acinetobacter ...  89.7    5e-021
+WP_019383936.1  MULTISPECIES: DUF2946 domain-containing protein [...  89.7    5e-021
+WP_005054773.1  hypothetical protein [Acinetobacter beijerinckii]     89.0    7e-021
+WP_061524099.1  DUF2946 domain-containing protein [Acinetobacter ...  89.4    7e-021
+WP_005188459.1  DUF2946 domain-containing protein [Acinetobacter ...  89.7    8e-021
+WP_005294121.1  hypothetical protein [Acinetobacter sp. NIPH 2100]    89.4    8e-021
+WP_017196728.1  DUF2946 domain-containing protein [Acinetobacter ...  88.2    2e-020
+WP_016163716.1  hypothetical protein [Acinetobacter sp. CIP 110321]   87.8    4e-020
+WP_034595500.1  DUF2946 domain-containing protein [Acinetobacter ...  87.0    6e-020
+WP_050560024.1  hypothetical protein [Acinetobacter sp. NIPH 2168]    86.7    7e-020
+WP_052138571.1  hypothetical protein [Acinetobacter sp. neg1]         86.7    7e-020
+WP_062847771.1  hypothetical protein [Acinetobacter sp. NRRL B-65...  86.3    1e-019
+WP_070075317.1  DUF2946 domain-containing protein [Acinetobacter ...  86.3    1e-019
+WP_043970774.1  hypothetical protein [Acinetobacter sp. NBRC 110496]  86.3    2e-019
+WP_004653506.1  hypothetical protein [Acinetobacter sp. NIPH 809]     85.9    2e-019
+WP_005313874.1  hypothetical protein [Acinetobacter sp. ANC 3880]     85.5    3e-019
+WP_005062502.1  hypothetical protein [Acinetobacter beijerinckii]     84.7    3e-019
+WP_004807031.1  MULTISPECIES: hypothetical protein [Acinetobacter]    85.1    3e-019
+WP_005203693.1  MULTISPECIES: hypothetical protein [Acinetobacter]    85.1    4e-019
+WP_005275420.1  hypothetical protein [Acinetobacter sp. NIPH 1859]    84.7    6e-019
+WP_081401779.1  DUF2946 domain-containing protein [Acinetobacter ...  81.6    6e-018
+WP_042111765.1  hypothetical protein [Acinetobacter rudis]            81.6    6e-018
+WP_004947430.1  DUF2946 domain-containing protein [Acinetobacter ...  80.5    1e-017
+WP_004937659.1  MULTISPECIES: DUF2946 domain-containing protein [...  80.5    1e-017
+WP_042073035.1  DUF2946 domain-containing protein [Acinetobacter ...  74.3    5e-015
+WP_005241586.1  hypothetical protein [Acinetobacter sp. CIP 64.2]     73.9    1e-014
+WP_004642877.1  DUF2946 domain-containing protein [Acinetobacter ...  65.9    1e-011
+WP_003651852.1  DUF2946 domain-containing protein [Acinetobacter ...  64.3    4e-011
+WP_068911166.1  hypothetical protein [Acinetobacter sp. WCHA34]       64.3    4e-011
+WP_026438484.1  hypothetical protein [Acinetobacter towneri]          64.7    5e-011
+WP_042896274.1  MULTISPECIES: DUF2946 domain-containing protein [...  60.8    9e-010
+WP_016138068.1  DUF2946 domain-containing protein [Acinetobacter ...  58.2    1e-008
+WP_045125498.1  DUF2946 domain-containing protein [Acinetobacter ...  56.2    6e-008
+WP_068933741.1  hypothetical protein [Acinetobacter seifertii]        51.6    3e-006
+WP_070070369.1  hypothetical protein [Acinetobacter qingfengensis]    50.8    6e-006
+WP_019458842.1  MULTISPECIES: DUF2946 domain-containing protein [...  50.1    1e-005
+WP_039252109.1  hypothetical protein [Acinetobacter baumannii]        49.7    2e-005
+WP_049063795.1  hypothetical protein [Acinetobacter seifertii]        48.9    3e-005
+WP_077169815.1  hypothetical protein [Acinetobacter genomosp. 33YU]   48.5    5e-005
+WP_086194964.1  hypothetical protein [Acinetobacter sp. ANC 4218]     47.4    2e-004
+WP_004751631.1  DUF2946 domain-containing protein [Acinetobacter ...  46.2    3e-004
+WP_081410464.1  hypothetical protein [Acinetobacter bohemicus]        45.8    6e-004
+WP_045792914.1  DUF2946 domain-containing protein [Acinetobacter ...  45.1    9e-004
+WP_016165466.1  hypothetical protein [Acinetobacter tandoii]          44.7    0.001 
+WP_055415731.1  hypothetical protein [Acinetobacter soli]             43.9    0.003 
+WP_048766552.1  MULTISPECIES: hypothetical protein [Acinetobacter]    43.9    0.003 
+WP_076032654.1  hypothetical protein [Acinetobacter soli]             43.9    0.003 
+WP_023272229.1  hypothetical protein [Acinetobacter nectaris]         43.1    0.004 
+WP_004900634.1  DUF2946 domain-containing protein [Acinetobacter ...  42.0    0.011 
+WP_004937012.1  hypothetical protein [Acinetobacter soli]             42.4    0.013 
+WP_086197099.1  hypothetical protein [Acinetobacter sp. ANC 4218]     42.0    0.014 
+WP_025095929.1  hypothetical protein [Acinetobacter soli]             42.0    0.019 
+WP_004925407.1  MULTISPECIES: hypothetical protein [Acinetobacter]    41.2    0.027 
+WP_086374385.1  hypothetical protein [Acinetobacter sp. WCHA34]       40.4    0.062 
+WP_060505479.1  MULTISPECIES: hypothetical protein [Rhizobium]        37.7    0.48  
+WP_047908000.1  hypothetical protein [Pandoraea faecigallinarum]      37.7    0.73  
+WP_065302308.1  DUF2946 domain-containing protein [Vibrio natrieg...  35.0    4.1   
+
+
+>WP_000231981.1 MULTISPECIES: hypothetical protein [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=142
+
+ Score = 203 bits (517),  Expect = 4e-066, Method: Compositional matrix adjust.
+ Identities = 99/100 (99%), Positives = 100/100 (100%), Gaps = 0/100 (0%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  102
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  103  EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  142
+
+
+>WP_032039268.1 hypothetical protein [Acinetobacter baumannii]
+Length=142
+
+ Score = 203 bits (516),  Expect = 6e-066, Method: Compositional matrix adjust.
+ Identities = 98/100 (98%), Positives = 100/100 (100%), Gaps = 0/100 (0%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQTEAMSHAMHHSHHQHHIEQAQ+PDHHDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQTEAMSHAMHHSHHQHHIEQAQIPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  102
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  103  EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  142
+
+
+>WP_031994412.1 hypothetical protein [Acinetobacter baumannii]
+Length=142
+
+ Score = 203 bits (516),  Expect = 6e-066, Method: Compositional matrix adjust.
+ Identities = 98/100 (98%), Positives = 100/100 (100%), Gaps = 0/100 (0%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  102
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVL+RIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  103  EVLIRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  142
+
+
+>WP_000231980.1 hypothetical protein [Acinetobacter baumannii]
+Length=142
+
+ Score = 203 bits (516),  Expect = 6e-066, Method: Compositional matrix adjust.
+ Identities = 98/100 (98%), Positives = 100/100 (100%), Gaps = 0/100 (0%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFG+K
+Sbjct  43   LLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGIK  102
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  103  EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  142
+
+
+>WP_002045083.1 hypothetical protein [Acinetobacter baumannii]
+Length=142
+
+ Score = 203 bits (516),  Expect = 6e-066, Method: Compositional matrix adjust.
+ Identities = 98/100 (98%), Positives = 100/100 (100%), Gaps = 0/100 (0%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  102
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRH+YFALQRLFLLPQGRAPPLFA
+Sbjct  103  EVLVRIQVRLVAYQQAFRHIYFALQRLFLLPQGRAPPLFA  142
+
+
+>WP_079378561.1 hypothetical protein [Acinetobacter baumannii]
+Length=100
+
+ Score = 201 bits (512),  Expect = 7e-066, Method: Compositional matrix adjust.
+ Identities = 99/100 (99%), Positives = 99/100 (99%), Gaps = 0/100 (0%)
+
+Query  1   MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+           MLKPKAQTEAMSHAMHHSHHQ HIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  1   MLKPKAQTEAMSHAMHHSHHQQHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+
+Query  61  EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+           EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  61  EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+
+
+>WP_000231979.1 hypothetical protein [Acinetobacter baumannii]
+Length=142
+
+ Score = 202 bits (515),  Expect = 9e-066, Method: Compositional matrix adjust.
+ Identities = 97/100 (97%), Positives = 100/100 (100%), Gaps = 0/100 (0%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQTEAMSHAMHHSHHQHHIEQAQ+PDHHDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQTEAMSHAMHHSHHQHHIEQAQIPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  102
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRH+YFALQRLFLLPQGRAPPLFA
+Sbjct  103  EVLVRIQVRLVAYQQAFRHIYFALQRLFLLPQGRAPPLFA  142
+
+
+>WP_000231976.1 hypothetical protein [Acinetobacter baumannii]
+Length=142
+
+ Score = 202 bits (514),  Expect = 1e-065, Method: Compositional matrix adjust.
+ Identities = 98/100 (98%), Positives = 100/100 (100%), Gaps = 0/100 (0%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQ+EAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQSEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  102
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  103  EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  142
+
+
+>WP_072689890.1 DUF2946 domain-containing protein [Acinetobacter baumannii]
+Length=142
+
+ Score = 202 bits (513),  Expect = 2e-065, Method: Compositional matrix adjust.
+ Identities = 98/100 (98%), Positives = 100/100 (100%), Gaps = 0/100 (0%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQTEAMSHAMH+SHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQTEAMSHAMHYSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  102
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  103  EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  142
+
+
+>WP_000231986.1 hypothetical protein [Acinetobacter baumannii]
+Length=142
+
+ Score = 202 bits (513),  Expect = 2e-065, Method: Compositional matrix adjust.
+ Identities = 98/100 (98%), Positives = 100/100 (100%), Gaps = 0/100 (0%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQTEAMSHAMHHSHHQ+HIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQTEAMSHAMHHSHHQYHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  102
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  103  EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  142
+
+
+>WP_033853756.1 hypothetical protein [Acinetobacter baumannii]
+Length=142
+
+ Score = 202 bits (513),  Expect = 2e-065, Method: Compositional matrix adjust.
+ Identities = 98/100 (98%), Positives = 100/100 (100%), Gaps = 0/100 (0%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQTEA+SHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQTEAISHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  102
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  103  EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  142
+
+
+>WP_000231982.1 hypothetical protein [Acinetobacter baumannii]
+Length=142
+
+ Score = 202 bits (513),  Expect = 2e-065, Method: Compositional matrix adjust.
+ Identities = 98/100 (98%), Positives = 99/100 (99%), Gaps = 0/100 (0%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHD NHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDVNHQCQYCTVYANLVLPPEFGVK  102
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  103  EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  142
+
+
+>WP_032035036.1 hypothetical protein [Acinetobacter baumannii]
+Length=142
+
+ Score = 202 bits (513),  Expect = 2e-065, Method: Compositional matrix adjust.
+ Identities = 98/100 (98%), Positives = 100/100 (100%), Gaps = 0/100 (0%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGV+
+Sbjct  43   LLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVE  102
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  103  EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  142
+
+
+>WP_031964844.1 hypothetical protein [Acinetobacter baumannii]
+Length=142
+
+ Score = 201 bits (512),  Expect = 2e-065, Method: Compositional matrix adjust.
+ Identities = 97/100 (97%), Positives = 100/100 (100%), Gaps = 0/100 (0%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQTEAMSHAMHHSHHQ+HIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQTEAMSHAMHHSHHQYHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  102
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQ+RLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  103  EVLVRIQIRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  142
+
+
+>WP_000231985.1 MULTISPECIES: hypothetical protein [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=142
+
+ Score = 201 bits (512),  Expect = 2e-065, Method: Compositional matrix adjust.
+ Identities = 97/100 (97%), Positives = 100/100 (100%), Gaps = 0/100 (0%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQTEAMSHAMHHSHHQ+HIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFG+K
+Sbjct  43   LLKPKAQTEAMSHAMHHSHHQYHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGIK  102
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  103  EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  142
+
+
+>WP_016654437.1 hypothetical protein [Acinetobacter baumannii]
+Length=142
+
+ Score = 201 bits (512),  Expect = 3e-065, Method: Compositional matrix adjust.
+ Identities = 98/100 (98%), Positives = 99/100 (99%), Gaps = 0/100 (0%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  102
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRHVY ALQRLFLLPQGRAPPLFA
+Sbjct  103  EVLVRIQVRLVAYQQAFRHVYLALQRLFLLPQGRAPPLFA  142
+
+
+>WP_000231984.1 hypothetical protein [Acinetobacter baumannii]
+Length=142
+
+ Score = 201 bits (512),  Expect = 3e-065, Method: Compositional matrix adjust.
+ Identities = 98/100 (98%), Positives = 99/100 (99%), Gaps = 0/100 (0%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQTEAMSHAMHHSHHQ HIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQTEAMSHAMHHSHHQQHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  102
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  103  EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  142
+
+
+>WP_064191934.1 DUF2946 domain-containing protein [Acinetobacter baumannii]
+Length=142
+
+ Score = 201 bits (511),  Expect = 4e-065, Method: Compositional matrix adjust.
+ Identities = 98/100 (98%), Positives = 99/100 (99%), Gaps = 0/100 (0%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  102
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAF HVYFALQRLFLLPQGRAPPLFA
+Sbjct  103  EVLVRIQVRLVAYQQAFWHVYFALQRLFLLPQGRAPPLFA  142
+
+
+>WP_024435307.1 hypothetical protein [Acinetobacter baumannii]
+Length=142
+
+ Score = 201 bits (511),  Expect = 5e-065, Method: Compositional matrix adjust.
+ Identities = 97/100 (97%), Positives = 99/100 (99%), Gaps = 0/100 (0%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQTEAMSHAMHHSHHQ HIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFG+K
+Sbjct  43   LLKPKAQTEAMSHAMHHSHHQQHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGIK  102
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  103  EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  142
+
+
+>WP_032040574.1 hypothetical protein [Acinetobacter baumannii]
+Length=142
+
+ Score = 201 bits (511),  Expect = 5e-065, Method: Compositional matrix adjust.
+ Identities = 98/100 (98%), Positives = 99/100 (99%), Gaps = 0/100 (0%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQTEAMSHAMHHSHHQ HIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQTEAMSHAMHHSHHQQHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  102
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  103  EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  142
+
+
+>WP_032060375.1 hypothetical protein [Acinetobacter baumannii]
+Length=142
+
+ Score = 201 bits (510),  Expect = 5e-065, Method: Compositional matrix adjust.
+ Identities = 98/100 (98%), Positives = 99/100 (99%), Gaps = 0/100 (0%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQTEAMSHAMHHSHHQHHIE AQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQTEAMSHAMHHSHHQHHIEHAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  102
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  103  EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  142
+
+
+>WP_000231988.1 hypothetical protein [Acinetobacter baumannii]
+Length=142
+
+ Score = 201 bits (510),  Expect = 6e-065, Method: Compositional matrix adjust.
+ Identities = 98/100 (98%), Positives = 99/100 (99%), Gaps = 0/100 (0%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQTEAMSHAM HSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQTEAMSHAMLHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  102
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  103  EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  142
+
+
+>WP_000231983.1 hypothetical protein [Acinetobacter baumannii]
+Length=142
+
+ Score = 200 bits (509),  Expect = 8e-065, Method: Compositional matrix adjust.
+ Identities = 98/100 (98%), Positives = 99/100 (99%), Gaps = 0/100 (0%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQTEAMSHAMHHSHHQHHIEQAQVPD HDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDPHDHHDANHQCQYCTVYANLVLPPEFGVK  102
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  103  EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  142
+
+
+>WP_057065675.1 hypothetical protein [Acinetobacter baumannii]
+Length=142
+
+ Score = 200 bits (509),  Expect = 9e-065, Method: Compositional matrix adjust.
+ Identities = 98/100 (98%), Positives = 99/100 (99%), Gaps = 0/100 (0%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  102
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQV LVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  103  EVLVRIQVCLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  142
+
+
+>WP_031955711.1 hypothetical protein [Acinetobacter baumannii]
+Length=142
+
+ Score = 200 bits (508),  Expect = 1e-064, Method: Compositional matrix adjust.
+ Identities = 97/100 (97%), Positives = 99/100 (99%), Gaps = 0/100 (0%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQTEAMSHAMHHSHHQ HIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQTEAMSHAMHHSHHQQHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  102
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVR+QVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  103  EVLVRMQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  142
+
+
+>WP_024434874.1 hypothetical protein [Acinetobacter baumannii]
+Length=142
+
+ Score = 199 bits (507),  Expect = 2e-064, Method: Compositional matrix adjust.
+ Identities = 97/100 (97%), Positives = 98/100 (98%), Gaps = 0/100 (0%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQTEAMSHAMHHSHHQ HIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFG K
+Sbjct  43   LLKPKAQTEAMSHAMHHSHHQQHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGXK  102
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  103  EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  142
+
+
+>WP_032027101.1 hypothetical protein [Acinetobacter baumannii]
+Length=142
+
+ Score = 199 bits (507),  Expect = 2e-064, Method: Compositional matrix adjust.
+ Identities = 97/100 (97%), Positives = 99/100 (99%), Gaps = 0/100 (0%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQTEAMSHAMHHSHH +HIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQTEAMSHAMHHSHHHYHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  102
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  103  EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  142
+
+
+>WP_085838804.1 DUF2946 domain-containing protein [Acinetobacter baumannii]
+Length=143
+
+ Score = 199 bits (506),  Expect = 3e-064, Method: Compositional matrix adjust.
+ Identities = 99/101 (98%), Positives = 100/101 (99%), Gaps = 1/101 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGV-  59
+            +LKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGV 
+Sbjct  43   LLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  102
+
+Query  60   KEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            KEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  103  KEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  143
+
+
+>WP_031968364.1 hypothetical protein [Acinetobacter baumannii]
+Length=142
+
+ Score = 199 bits (505),  Expect = 4e-064, Method: Compositional matrix adjust.
+ Identities = 97/100 (97%), Positives = 98/100 (98%), Gaps = 0/100 (0%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQTEAMSHAMHHSHHQ HIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQTEAMSHAMHHSHHQQHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  102
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAF HVYFALQRLFLLPQGRAPPLFA
+Sbjct  103  EVLVRIQVRLVAYQQAFLHVYFALQRLFLLPQGRAPPLFA  142
+
+
+>WP_070115209.1 DUF2946 domain-containing protein [Acinetobacter baumannii]
+Length=142
+
+ Score = 198 bits (504),  Expect = 5e-064, Method: Compositional matrix adjust.
+ Identities = 97/100 (97%), Positives = 98/100 (98%), Gaps = 0/100 (0%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  102
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVA QQAF HVYFALQRLFLLPQGRAPPLFA
+Sbjct  103  EVLVRIQVRLVASQQAFWHVYFALQRLFLLPQGRAPPLFA  142
+
+
+>WP_031967481.1 DUF2946 domain-containing protein [Acinetobacter baumannii]
+Length=142
+
+ Score = 192 bits (487),  Expect = 2e-061, Method: Compositional matrix adjust.
+ Identities = 94/100 (94%), Positives = 95/100 (95%), Gaps = 0/100 (0%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQTEAMSHAMHHSH QHHIEQAQ    HDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQTEAMSHAMHHSHPQHHIEQAQASGQHDHHDANHQCQYCTVYANLVLPPEFGVK  102
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  103  EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  142
+
+
+>WP_068933976.1 DUF2946 domain-containing protein [Acinetobacter seifertii]
+Length=141
+
+ Score = 185 bits (470),  Expect = 6e-059, Method: Compositional matrix adjust.
+ Identities = 91/100 (91%), Positives = 95/100 (95%), Gaps = 1/100 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQ E MSHAMH  HH+ HIEQAQ+P+HHDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQMETMSHAMH-MHHERHIEQAQLPEHHDHHDANHQCQYCTVYANLVLPPEFGVK  101
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  102  EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  141
+
+
+>WP_004705923.1 MULTISPECIES: DUF2946 domain-containing protein [Acinetobacter]
+Length=141
+
+ Score = 184 bits (467),  Expect = 2e-058, Method: Compositional matrix adjust.
+ Identities = 90/100 (90%), Positives = 94/100 (94%), Gaps = 1/100 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQ E MSH MH  HH+ HIEQAQ+P+HHDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQMETMSHTMH-MHHERHIEQAQLPEHHDHHDANHQCQYCTVYANLVLPPEFGVK  101
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  102  EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  141
+
+
+>WP_069121957.1 DUF2946 domain-containing protein [Acinetobacter pittii]
+Length=141
+
+ Score = 182 bits (462),  Expect = 1e-057, Method: Compositional matrix adjust.
+ Identities = 90/100 (90%), Positives = 93/100 (93%), Gaps = 1/100 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQ E MSHAMH SHH+H+IEQAQ    HDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQMETMSHAMH-SHHEHYIEQAQASGQHDHHDANHQCQYCTVYANLVLPPEFGVK  101
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  102  EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  141
+
+
+>WP_005804747.1 MULTISPECIES: DUF2946 domain-containing protein [Acinetobacter 
+calcoaceticus/baumannii complex]
+Length=141
+
+ Score = 181 bits (458),  Expect = 4e-057, Method: Compositional matrix adjust.
+ Identities = 89/100 (89%), Positives = 93/100 (93%), Gaps = 1/100 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQ E MSHAMH SHH+H +EQAQ  + HDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQMETMSHAMH-SHHEHPVEQAQASEQHDHHDANHQCQYCTVYANLVLPPEFGVK  101
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  102  EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  141
+
+
+>WP_063097943.1 DUF2946 domain-containing protein [Acinetobacter pittii]
+Length=141
+
+ Score = 181 bits (458),  Expect = 5e-057, Method: Compositional matrix adjust.
+ Identities = 90/100 (90%), Positives = 92/100 (92%), Gaps = 1/100 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQ E MSHAMH S H+HHIEQAQ    HDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQMETMSHAMH-SPHEHHIEQAQASGQHDHHDANHQCQYCTVYANLVLPPEFGVK  101
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  102  EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  141
+
+
+>WP_079878121.1 hypothetical protein [Acinetobacter baumannii]
+Length=86
+
+ Score = 176 bits (445),  Expect = 8e-056, Method: Compositional matrix adjust.
+ Identities = 86/86 (100%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  15  MHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQ  74
+           MHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQ
+Sbjct  1   MHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQ  60
+
+Query  75  QAFRHVYFALQRLFLLPQGRAPPLFA  100
+           QAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  61  QAFRHVYFALQRLFLLPQGRAPPLFA  86
+
+
+>WP_003655503.1 hypothetical protein [Acinetobacter calcoaceticus]
+Length=141
+
+ Score = 172 bits (437),  Expect = 6e-054, Method: Compositional matrix adjust.
+ Identities = 92/100 (92%), Positives = 95/100 (95%), Gaps = 1/100 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQTEAMSH MH  H  HHIEQAQVP+HHDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQTEAMSHTMHSHHE-HHIEQAQVPEHHDHHDANHQCQYCTVYANLVLPPEFGVK  101
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAF+HVYFALQRLFLLPQGRAPPLFA
+Sbjct  102  EVLVRIQVRLVAYQQAFKHVYFALQRLFLLPQGRAPPLFA  141
+
+
+>WP_042898449.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=141
+
+ Score = 172 bits (436),  Expect = 9e-054, Method: Compositional matrix adjust.
+ Identities = 92/100 (92%), Positives = 94/100 (94%), Gaps = 1/100 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQTEAMSH MH  H  HHIEQ QVP+HHDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQTEAMSHTMHSHHE-HHIEQTQVPEHHDHHDANHQCQYCTVYANLVLPPEFGVK  101
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  102  EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  141
+
+
+>WP_017391508.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=141
+
+ Score = 172 bits (436),  Expect = 1e-053, Method: Compositional matrix adjust.
+ Identities = 91/100 (91%), Positives = 95/100 (95%), Gaps = 1/100 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQTEAMSH MH  H  HHIEQAQVP+HHDHHDANHQCQYCTVYANLVLPPEFG+K
+Sbjct  43   LLKPKAQTEAMSHTMHSHHE-HHIEQAQVPEHHDHHDANHQCQYCTVYANLVLPPEFGIK  101
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAF+HVYFALQRLFLLPQGRAPPLFA
+Sbjct  102  EVLVRIQVRLVAYQQAFKHVYFALQRLFLLPQGRAPPLFA  141
+
+
+>WP_039252946.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=142
+
+ Score = 172 bits (435),  Expect = 1e-053, Method: Compositional matrix adjust.
+ Identities = 96/100 (96%), Positives = 99/100 (99%), Gaps = 0/100 (0%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQTE MSHAMHHSHH+HHIEQAQVP+HHDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQTETMSHAMHHSHHEHHIEQAQVPEHHDHHDANHQCQYCTVYANLVLPPEFGVK  102
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  103  EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  142
+
+
+>WP_005049024.1 hypothetical protein [Acinetobacter calcoaceticus]
+Length=141
+
+ Score = 171 bits (433),  Expect = 3e-053, Method: Compositional matrix adjust.
+ Identities = 91/100 (91%), Positives = 95/100 (95%), Gaps = 1/100 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQTEAMSH MH  H  HHIEQAQVP+HH+HHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQTEAMSHTMHSHHE-HHIEQAQVPEHHNHHDANHQCQYCTVYANLVLPPEFGVK  101
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAF+HVYFALQRLFLLPQGRAPPLFA
+Sbjct  102  EVLVRIQVRLVAYQQAFKHVYFALQRLFLLPQGRAPPLFA  141
+
+
+>WP_075383933.1 DUF2946 domain-containing protein [Acinetobacter pittii]
+Length=141
+
+ Score = 167 bits (423),  Expect = 9e-052, Method: Compositional matrix adjust.
+ Identities = 90/100 (90%), Positives = 93/100 (93%), Gaps = 1/100 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQTEAMSHAMH  H  HH+EQAQ  + HDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQTEAMSHAMHSHHE-HHVEQAQASEQHDHHDANHQCQYCTVYANLVLPPEFGVK  101
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  102  EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  141
+
+
+>WP_071224738.1 DUF2946 domain-containing protein [Acinetobacter nosocomialis]
+Length=142
+
+ Score = 167 bits (422),  Expect = 1e-051, Method: Compositional matrix adjust.
+ Identities = 94/100 (94%), Positives = 96/100 (96%), Gaps = 0/100 (0%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQ E MSHAMHHSHH HHI QAQVP+HHDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQMETMSHAMHHSHHDHHIGQAQVPEHHDHHDANHQCQYCTVYANLVLPPEFGVK  102
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  103  EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  142
+
+
+>WP_002054220.1 MULTISPECIES: hypothetical protein [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=142
+
+ Score = 167 bits (422),  Expect = 1e-051, Method: Compositional matrix adjust.
+ Identities = 94/100 (94%), Positives = 96/100 (96%), Gaps = 0/100 (0%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQ E MSHAMHHSHH HHI QAQVP+HHDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQMETMSHAMHHSHHDHHIGQAQVPEHHDHHDANHQCQYCTVYANLVLPPEFGVK  102
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  103  EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  142
+
+
+>WP_045437090.1 hypothetical protein [Acinetobacter calcoaceticus]
+Length=141
+
+ Score = 166 bits (419),  Expect = 4e-051, Method: Compositional matrix adjust.
+ Identities = 88/100 (88%), Positives = 90/100 (90%), Gaps = 1/100 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQTE MSH MH  H  HHIEQAQ    HDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQTEVMSHTMHSHHE-HHIEQAQTASQHDHHDANHQCQYCTVYANLVLPPEFGVK  101
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRH+YFALQRLFLLPQGRAPPLFA
+Sbjct  102  EVLVRIQVRLVAYQQAFRHIYFALQRLFLLPQGRAPPLFA  141
+
+
+>WP_045124781.1 hypothetical protein [Acinetobacter nosocomialis]
+Length=142
+
+ Score = 166 bits (419),  Expect = 5e-051, Method: Compositional matrix adjust.
+ Identities = 93/100 (93%), Positives = 95/100 (95%), Gaps = 0/100 (0%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQ E MSHAMHHSHH HHI QAQVP+HHDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQMETMSHAMHHSHHDHHIGQAQVPEHHDHHDANHQCQYCTVYANLVLPPEFGVK  102
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRHVYF LQRLFLLPQGRAPPLFA
+Sbjct  103  EVLVRIQVRLVAYQQAFRHVYFVLQRLFLLPQGRAPPLFA  142
+
+
+>WP_064784398.1 DUF2946 domain-containing protein [Acinetobacter calcoaceticus]
+Length=141
+
+ Score = 165 bits (418),  Expect = 6e-051, Method: Compositional matrix adjust.
+ Identities = 90/100 (90%), Positives = 91/100 (91%), Gaps = 1/100 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQ E MSHAMH  H  HHIEQAQV   HDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQMETMSHAMHSHHE-HHIEQAQVSGQHDHHDANHQCQYCTVYANLVLPPEFGVK  101
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  102  EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  141
+
+
+>WP_016139562.1 DUF2946 domain-containing protein [Acinetobacter calcoaceticus]
+Length=141
+
+ Score = 165 bits (417),  Expect = 8e-051, Method: Compositional matrix adjust.
+ Identities = 88/100 (88%), Positives = 90/100 (90%), Gaps = 1/100 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQ E MSH +H  H  HHIEQAQ   HHDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQMETMSHTIHMHHD-HHIEQAQASGHHDHHDANHQCQYCTVYANLVLPPEFGVK  101
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  102  EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  141
+
+
+>WP_000231978.1 DUF2946 domain-containing protein [Acinetobacter baumannii]
+Length=142
+
+ Score = 164 bits (416),  Expect = 1e-050, Method: Compositional matrix adjust.
+ Identities = 95/100 (95%), Positives = 96/100 (96%), Gaps = 0/100 (0%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQTEAMSHAMHHSHHQHHIEQAQ    HDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQTEAMSHAMHHSHHQHHIEQAQASGQHDHHDANHQCQYCTVYANLVLPPEFGVK  102
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  103  EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  142
+
+
+>WP_086394857.1 DUF2946 domain-containing protein [Acinetobacter pittii]
+Length=141
+
+ Score = 164 bits (415),  Expect = 2e-050, Method: Compositional matrix adjust.
+ Identities = 89/100 (89%), Positives = 91/100 (91%), Gaps = 1/100 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQ E MSHAMH  H  HHIEQAQ  + HDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQMETMSHAMHSHHE-HHIEQAQASEQHDHHDANHQCQYCTVYANLVLPPEFGVK  101
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  102  EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  141
+
+
+>WP_000231977.1 DUF2946 domain-containing protein [Acinetobacter baumannii]
+Length=142
+
+ Score = 164 bits (415),  Expect = 2e-050, Method: Compositional matrix adjust.
+ Identities = 94/100 (94%), Positives = 96/100 (96%), Gaps = 0/100 (0%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQTEAMSHAMHHSHHQHHIEQAQ    HDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQTEAMSHAMHHSHHQHHIEQAQASGQHDHHDANHQCQYCTVYANLVLPPEFGVK  102
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRH+YFALQRLFLLPQGRAPPLFA
+Sbjct  103  EVLVRIQVRLVAYQQAFRHIYFALQRLFLLPQGRAPPLFA  142
+
+
+>WP_016142490.1 DUF2946 domain-containing protein [Acinetobacter pittii]
+Length=141
+
+ Score = 164 bits (415),  Expect = 2e-050, Method: Compositional matrix adjust.
+ Identities = 88/100 (88%), Positives = 89/100 (89%), Gaps = 1/100 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQTE MSH MH  H  HHIEQ Q    HDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQTEIMSHTMHSHHE-HHIEQVQTSGQHDHHDANHQCQYCTVYANLVLPPEFGVK  101
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  102  EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  141
+
+
+>WP_005309169.1 MULTISPECIES: DUF2946 domain-containing protein [Acinetobacter]
+Length=141
+
+ Score = 163 bits (413),  Expect = 3e-050, Method: Compositional matrix adjust.
+ Identities = 88/100 (88%), Positives = 89/100 (89%), Gaps = 1/100 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQ E MSH MH  H  HHIEQAQ    HDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQMETMSHTMHSHHE-HHIEQAQASGQHDHHDANHQCQYCTVYANLVLPPEFGVK  101
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  102  EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  141
+
+
+>WP_002114087.1 MULTISPECIES: DUF2946 domain-containing protein [Acinetobacter]
+ YP_004997358.1 hypothetical protein BDGL_003090 [Acinetobacter pittii PHEA-2]
+Length=141
+
+ Score = 163 bits (413),  Expect = 3e-050, Method: Compositional matrix adjust.
+ Identities = 89/100 (89%), Positives = 90/100 (90%), Gaps = 1/100 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQ E MSHAMH  H  HHIEQAQ    HDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQMETMSHAMHSHHE-HHIEQAQASGQHDHHDANHQCQYCTVYANLVLPPEFGVK  101
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  102  EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  141
+
+
+>WP_057073923.1 DUF2946 domain-containing protein [Acinetobacter pittii]
+Length=141
+
+ Score = 163 bits (413),  Expect = 3e-050, Method: Compositional matrix adjust.
+ Identities = 89/100 (89%), Positives = 90/100 (90%), Gaps = 1/100 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQ E MSHAMH  H  HHIEQAQ    HDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQMETMSHAMHSHHE-HHIEQAQASGQHDHHDANHQCQYCTVYANLVLPPEFGVK  101
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  102  EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  141
+
+
+>WP_022574388.1 hypothetical protein [Acinetobacter nosocomialis]
+Length=142
+
+ Score = 163 bits (412),  Expect = 4e-050, Method: Compositional matrix adjust.
+ Identities = 92/100 (92%), Positives = 95/100 (95%), Gaps = 0/100 (0%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQ E MSHAMHHSHH HHI QA+V +HHDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQMETMSHAMHHSHHDHHIGQAKVAEHHDHHDANHQCQYCTVYANLVLPPEFGVK  102
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  103  EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  142
+
+
+>WP_069035867.1 DUF2946 domain-containing protein [Acinetobacter pittii]
+Length=141
+
+ Score = 163 bits (412),  Expect = 4e-050, Method: Compositional matrix adjust.
+ Identities = 88/100 (88%), Positives = 90/100 (90%), Gaps = 1/100 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQ E MSHAMH  H  HHIEQAQ    HDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQMETMSHAMHSHHE-HHIEQAQASGQHDHHDANHQCQYCTVYANLVLPPEFGVK  101
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRH+YFALQRLFLLPQGRAPPLFA
+Sbjct  102  EVLVRIQVRLVAYQQAFRHIYFALQRLFLLPQGRAPPLFA  141
+
+
+>WP_013199173.1 hypothetical protein [Acinetobacter oleivorans]
+Length=141
+
+ Score = 163 bits (412),  Expect = 5e-050, Method: Compositional matrix adjust.
+ Identities = 88/100 (88%), Positives = 89/100 (89%), Gaps = 1/100 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQ E MSH MH  H  HHIEQAQ    HDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQMETMSHTMHSHHE-HHIEQAQASAQHDHHDANHQCQYCTVYANLVLPPEFGVK  101
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  102  EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  141
+
+
+>WP_062848997.1 hypothetical protein [Acinetobacter lactucae]
+Length=141
+
+ Score = 163 bits (412),  Expect = 5e-050, Method: Compositional matrix adjust.
+ Identities = 88/100 (88%), Positives = 90/100 (90%), Gaps = 1/100 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQ E MSHAMH  H  HHIEQAQ    HDHHDANHQCQYCTVYANLVLPPEFG+K
+Sbjct  43   LLKPKAQMETMSHAMHSHHE-HHIEQAQASGKHDHHDANHQCQYCTVYANLVLPPEFGIK  101
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  102  EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  141
+
+
+>WP_069030755.1 DUF2946 domain-containing protein [Acinetobacter pittii]
+Length=141
+
+ Score = 162 bits (409),  Expect = 1e-049, Method: Compositional matrix adjust.
+ Identities = 88/100 (88%), Positives = 90/100 (90%), Gaps = 1/100 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQ E MSHAMH  H  HHIEQAQ    H+HHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQMETMSHAMHSHHE-HHIEQAQASGQHNHHDANHQCQYCTVYANLVLPPEFGVK  101
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  102  EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  141
+
+
+>WP_061875246.1 DUF2946 domain-containing protein [Acinetobacter dijkshoorniae]
+Length=141
+
+ Score = 162 bits (409),  Expect = 1e-049, Method: Compositional matrix adjust.
+ Identities = 87/100 (87%), Positives = 89/100 (89%), Gaps = 1/100 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQ E MSHAMH  H  HHIEQAQ    HDHHDANHQCQYCTVYANLVLPPEFG+K
+Sbjct  43   LLKPKAQMETMSHAMHSHHE-HHIEQAQASGQHDHHDANHQCQYCTVYANLVLPPEFGIK  101
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQ FRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  102  EVLVRIQVRLVAYQQTFRHVYFALQRLFLLPQGRAPPLFA  141
+
+
+>WP_016144060.1 hypothetical protein [Acinetobacter pittii]
+Length=141
+
+ Score = 162 bits (409),  Expect = 1e-049, Method: Compositional matrix adjust.
+ Identities = 87/100 (87%), Positives = 89/100 (89%), Gaps = 1/100 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQ E MSHAMH  H  HHIEQAQ    HDHHDANHQCQYCTVYANLVLPPEFG+K
+Sbjct  43   LLKPKAQMETMSHAMHSHHE-HHIEQAQASGKHDHHDANHQCQYCTVYANLVLPPEFGIK  101
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQ FRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  102  EVLVRIQVRLVAYQQTFRHVYFALQRLFLLPQGRAPPLFA  141
+
+
+>WP_039766344.1 DUF2946 domain-containing protein [Acinetobacter pittii]
+Length=141
+
+ Score = 161 bits (408),  Expect = 2e-049, Method: Compositional matrix adjust.
+ Identities = 87/100 (87%), Positives = 89/100 (89%), Gaps = 1/100 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQ E MSHAMH  H  HHIEQAQ    HDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQMETMSHAMHSHHE-HHIEQAQASGQHDHHDANHQCQYCTVYANLVLPPEFGVK  101
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRH+YF LQRLFLLPQGRAPPLFA
+Sbjct  102  EVLVRIQVRLVAYQQAFRHIYFVLQRLFLLPQGRAPPLFA  141
+
+
+>WP_086260871.1 DUF2946 domain-containing protein [Acinetobacter pittii]
+Length=141
+
+ Score = 160 bits (406),  Expect = 4e-049, Method: Compositional matrix adjust.
+ Identities = 87/100 (87%), Positives = 89/100 (89%), Gaps = 1/100 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQ E MSHAMH  H  HHIEQAQ    HDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQMETMSHAMHSHHE-HHIEQAQGSGQHDHHDANHQCQYCTVYANLVLPPEFGVK  101
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRH+YF LQRLFLLPQGRAPPLFA
+Sbjct  102  EVLVRIQVRLVAYQQAFRHIYFVLQRLFLLPQGRAPPLFA  141
+
+
+>WP_044102552.1 hypothetical protein [Acinetobacter pittii]
+Length=144
+
+ Score = 160 bits (405),  Expect = 5e-049, Method: Compositional matrix adjust.
+ Identities = 88/102 (86%), Positives = 89/102 (87%), Gaps = 2/102 (2%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHH--IEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFG  58
+            +LKPKAQ E MSHAMH  H  H   IEQAQ    HDHHDANHQCQYCTVYANLVLPPEFG
+Sbjct  43   LLKPKAQMETMSHAMHSHHEHHEHHIEQAQASGQHDHHDANHQCQYCTVYANLVLPPEFG  102
+
+Query  59   VKEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            VKEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  103  VKEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  144
+
+
+>WP_057106020.1 hypothetical protein [Acinetobacter pittii]
+Length=141
+
+ Score = 160 bits (404),  Expect = 7e-049, Method: Compositional matrix adjust.
+ Identities = 86/99 (87%), Positives = 88/99 (89%), Gaps = 1/99 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQ E MSHAMH  H  HHIEQAQ    HDHHDANHQCQYCTVYANLVLPPEFG+K
+Sbjct  43   LLKPKAQMETMSHAMHSHHE-HHIEQAQASGKHDHHDANHQCQYCTVYANLVLPPEFGIK  101
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLF  99
+            EVLVRIQVRLVAYQQ FRHVYFALQRLFLLPQGRAPPLF
+Sbjct  102  EVLVRIQVRLVAYQQTFRHVYFALQRLFLLPQGRAPPLF  140
+
+
+>WP_070469461.1 DUF2946 domain-containing protein [Acinetobacter baumannii]
+Length=142
+
+ Score = 159 bits (402),  Expect = 2e-048, Method: Compositional matrix adjust.
+ Identities = 96/100 (96%), Positives = 99/100 (99%), Gaps = 0/100 (0%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQTEAMSHAMHHSHHQ+HIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFG+K
+Sbjct  43   LLKPKAQTEAMSHAMHHSHHQYHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGIK  102
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQ RLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  103  EVLVRIQARLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  142
+
+
+>WP_017399716.1 DUF2946 domain-containing protein [Acinetobacter pittii]
+Length=141
+
+ Score = 159 bits (401),  Expect = 2e-048, Method: Compositional matrix adjust.
+ Identities = 88/100 (88%), Positives = 90/100 (90%), Gaps = 1/100 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQ E MSH+MH  H  HHIEQAQ    HDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQMETMSHSMHSHHE-HHIEQAQASGQHDHHDANHQCQYCTVYANLVLPPEFGVK  101
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  102  EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  141
+
+
+>WP_070419658.1 DUF2946 domain-containing protein [Acinetobacter baumannii]
+Length=142
+
+ Score = 158 bits (400),  Expect = 4e-048, Method: Compositional matrix adjust.
+ Identities = 96/100 (96%), Positives = 99/100 (99%), Gaps = 0/100 (0%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQTEAMSHAMHHSHHQ+HIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFG+K
+Sbjct  43   LLKPKAQTEAMSHAMHHSHHQYHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGIK  102
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLV IQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA
+Sbjct  103  EVLVLIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  142
+
+
+>WP_005072040.1 MULTISPECIES: DUF2946 domain-containing protein [Acinetobacter 
+calcoaceticus/baumannii complex]
+Length=141
+
+ Score = 157 bits (398),  Expect = 7e-048, Method: Compositional matrix adjust.
+ Identities = 87/100 (87%), Positives = 89/100 (89%), Gaps = 1/100 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQ E MSH+MH  H  HHIEQAQ    HDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQMETMSHSMHSHHE-HHIEQAQASGQHDHHDANHQCQYCTVYANLVLPPEFGVK  101
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLF 
+Sbjct  102  EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFT  141
+
+
+>WP_032070742.1 MULTISPECIES: DUF2946 domain-containing protein [Acinetobacter 
+calcoaceticus/baumannii complex]
+Length=141
+
+ Score = 157 bits (397),  Expect = 8e-048, Method: Compositional matrix adjust.
+ Identities = 87/100 (87%), Positives = 89/100 (89%), Gaps = 1/100 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKPKAQ E MSH+MH  H  HHIEQAQ    HDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  43   LLKPKAQMETMSHSMHSHHE-HHIEQAQASGQHDHHDANHQCQYCTVYANLVLPPEFGVK  101
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLF 
+Sbjct  102  EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFT  141
+
+
+>WP_079265484.1 hypothetical protein, partial [Acinetobacter baumannii]
+Length=75
+
+ Score = 153 bits (387),  Expect = 4e-047, Method: Compositional matrix adjust.
+ Identities = 75/75 (100%), Positives = 75/75 (100%), Gaps = 0/75 (0%)
+
+Query  1   MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+           MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK
+Sbjct  1   MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+
+Query  61  EVLVRIQVRLVAYQQ  75
+           EVLVRIQVRLVAYQQ
+Sbjct  61  EVLVRIQVRLVAYQQ  75
+
+
+>WP_005155270.1 MULTISPECIES: DUF2946 domain-containing protein [Acinetobacter]
+Length=136
+
+ Score = 154 bits (388),  Expect = 2e-046, Method: Compositional matrix adjust.
+ Identities = 78/99 (79%), Positives = 86/99 (87%), Gaps = 3/99 (3%)
+
+Query  3    KPKAQTEAMSHAMHHSHHQHHIEQAQ-VPDHHDHHDANHQCQYCTVYANLVLPPEFGVKE  61
+            K KA+ +++SH MHH  H H +EQ Q +   HDHHD NHQCQYCTVYANLVLPPEFGVKE
+Sbjct  40   KLKAEQQSVSHNMHH--HSHQLEQHQSLMSKHDHHDPNHQCQYCTVYANLVLPPEFGVKE  97
+
+Query  62   VLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            VLVRIQ+RLVAYQQAF+HVYFALQRLFLLPQGRAPPLFA
+Sbjct  98   VLVRIQIRLVAYQQAFKHVYFALQRLFLLPQGRAPPLFA  136
+
+
+>WP_004680035.1 MULTISPECIES: DUF2946 domain-containing protein [Acinetobacter]
+Length=136
+
+ Score = 153 bits (387),  Expect = 3e-046, Method: Compositional matrix adjust.
+ Identities = 77/99 (78%), Positives = 86/99 (87%), Gaps = 3/99 (3%)
+
+Query  3    KPKAQTEAMSHAMHHSHHQHHIEQAQ-VPDHHDHHDANHQCQYCTVYANLVLPPEFGVKE  61
+            K KA+ +++SH MHH  H H +EQ Q +   HDHHD NHQCQYCTVYANLVLPPEFGVKE
+Sbjct  40   KLKAEQQSVSHNMHH--HSHQLEQHQSLMSKHDHHDPNHQCQYCTVYANLVLPPEFGVKE  97
+
+Query  62   VLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            VLVRIQ+RLVAYQQAF+H+YFALQRLFLLPQGRAPPLFA
+Sbjct  98   VLVRIQIRLVAYQQAFKHIYFALQRLFLLPQGRAPPLFA  136
+
+
+>WP_005154486.1 MULTISPECIES: DUF2946 domain-containing protein [Acinetobacter]
+Length=145
+
+ Score = 153 bits (387),  Expect = 3e-046, Method: Compositional matrix adjust.
+ Identities = 80/102 (78%), Positives = 87/102 (85%), Gaps = 3/102 (3%)
+
+Query  1    MLKPKAQTEAMSHAMHHS-HHQHHIEQAQVP-DHHDHHDANHQCQYCTVYANLVLPPEFG  58
+            +L P+A+T A SH+ H S HH H +EQ QV    HDHHD NHQCQYCTVYANLVLPPE G
+Sbjct  45   LLLPQAET-AHSHSAHRSQHHSHQLEQTQVSMPQHDHHDLNHQCQYCTVYANLVLPPELG  103
+
+Query  59   VKEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            VKEVLVRIQ+RLVAYQQAF+HVYFALQRLFLLPQGRAPPLFA
+Sbjct  104  VKEVLVRIQIRLVAYQQAFKHVYFALQRLFLLPQGRAPPLFA  145
+
+
+>WP_005240374.1 MULTISPECIES: DUF2946 domain-containing protein [Acinetobacter]
+Length=145
+
+ Score = 151 bits (382),  Expect = 2e-045, Method: Compositional matrix adjust.
+ Identities = 79/102 (77%), Positives = 86/102 (84%), Gaps = 3/102 (3%)
+
+Query  1    MLKPKAQTEAMSHAMHHS-HHQHHIEQAQVPD-HHDHHDANHQCQYCTVYANLVLPPEFG  58
+            +L PK Q  + SH+ H S HH   +EQAQV    HDHHD NHQCQYCTVYANLVLPPEFG
+Sbjct  45   LLLPKLQA-SQSHSAHASQHHVAQLEQAQVSRPQHDHHDPNHQCQYCTVYANLVLPPEFG  103
+
+Query  59   VKEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            VKEVLVRIQ+RLVAYQQAF+H+YFALQRLFLLPQGRAPPLFA
+Sbjct  104  VKEVLVRIQIRLVAYQQAFKHIYFALQRLFLLPQGRAPPLFA  145
+
+
+>WP_047433151.1 DUF2946 domain-containing protein [Acinetobacter sp. neg1]
+Length=143
+
+ Score = 151 bits (382),  Expect = 2e-045, Method: Compositional matrix adjust.
+ Identities = 79/101 (78%), Positives = 86/101 (85%), Gaps = 3/101 (3%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPD-HHDHHDANHQCQYCTVYANLVLPPEFGV  59
+            +L PK Q+   SH+  H H +H +E AQV   HHDHHD NHQCQYCTVYANLVLPPEFGV
+Sbjct  45   LLLPKLQS-TQSHSAQHPH-EHQLEHAQVSMLHHDHHDPNHQCQYCTVYANLVLPPEFGV  102
+
+Query  60   KEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            KEVLVRIQ+RLVAYQQAF+HVYFALQRLFLLPQGRAPPLFA
+Sbjct  103  KEVLVRIQIRLVAYQQAFKHVYFALQRLFLLPQGRAPPLFA  143
+
+
+>WP_004665175.1 MULTISPECIES: DUF2946 domain-containing protein [Acinetobacter]
+Length=136
+
+ Score = 151 bits (381),  Expect = 2e-045, Method: Compositional matrix adjust.
+ Identities = 77/99 (78%), Positives = 86/99 (87%), Gaps = 3/99 (3%)
+
+Query  3    KPKAQTEAMSHAMHHSHHQHHIEQAQ-VPDHHDHHDANHQCQYCTVYANLVLPPEFGVKE  61
+            K KA+ +++SH MHH  H H +EQ Q +   HDHHD NHQCQYCTV+ANLVLPPEFGVKE
+Sbjct  40   KLKAEQQSVSHNMHH--HSHQLEQHQSLMSKHDHHDPNHQCQYCTVHANLVLPPEFGVKE  97
+
+Query  62   VLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            VLVRIQ+RLVAYQQAF+HVYFALQRLFLLPQGRAPPLFA
+Sbjct  98   VLVRIQIRLVAYQQAFKHVYFALQRLFLLPQGRAPPLFA  136
+
+
+>WP_005092481.1 hypothetical protein [Acinetobacter haemolyticus]
+Length=145
+
+ Score = 150 bits (380),  Expect = 4e-045, Method: Compositional matrix adjust.
+ Identities = 76/101 (75%), Positives = 80/101 (79%), Gaps = 1/101 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVP-DHHDHHDANHQCQYCTVYANLVLPPEFGV  59
+            +L PK  T    HA H SHH H  +Q Q     HDHHD NHQCQYCTVYANL+LPPE GV
+Sbjct  45   LLLPKVITAHNQHAQHSSHHGHQFDQTQASVSQHDHHDPNHQCQYCTVYANLILPPELGV  104
+
+Query  60   KEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            KEVLVRIQVRLVAYQQAF+HVYFALQRLFLLPQGRAPPL A
+Sbjct  105  KEVLVRIQVRLVAYQQAFKHVYFALQRLFLLPQGRAPPLSA  145
+
+
+>WP_005186677.1 DUF2946 domain-containing protein [Acinetobacter sp. ANC 4105]
+Length=145
+
+ Score = 150 bits (379),  Expect = 6e-045, Method: Compositional matrix adjust.
+ Identities = 75/101 (74%), Positives = 82/101 (81%), Gaps = 1/101 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVP-DHHDHHDANHQCQYCTVYANLVLPPEFGV  59
+            +L P+A+T     A+   HH H +E AQV    HDHHD NHQCQYCTVYANLVLPPE GV
+Sbjct  45   LLLPQAETAQSHSALSQHHHSHQLEHAQVSMPQHDHHDPNHQCQYCTVYANLVLPPELGV  104
+
+Query  60   KEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            KEVLVRIQ+RLVAYQQAF+HVYFALQRLFLLPQGRAPP FA
+Sbjct  105  KEVLVRIQIRLVAYQQAFKHVYFALQRLFLLPQGRAPPFFA  145
+
+
+>WP_004637503.1 hypothetical protein [Acinetobacter haemolyticus]
+Length=145
+
+ Score = 150 bits (379),  Expect = 6e-045, Method: Compositional matrix adjust.
+ Identities = 75/101 (74%), Positives = 80/101 (79%), Gaps = 1/101 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVP-DHHDHHDANHQCQYCTVYANLVLPPEFGV  59
+            +L PK  T    HA H SHH H  +Q Q     HDHHD NHQCQYCTVYANL+LPPE GV
+Sbjct  45   LLLPKVITAHNQHAQHSSHHGHQFDQTQASVSQHDHHDPNHQCQYCTVYANLILPPELGV  104
+
+Query  60   KEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            KEVLVRIQ+RLVAYQQAF+HVYFALQRLFLLPQGRAPPL A
+Sbjct  105  KEVLVRIQIRLVAYQQAFKHVYFALQRLFLLPQGRAPPLSA  145
+
+
+>WP_038345792.1 DUF2946 domain-containing protein [Acinetobacter sp. A47]
+Length=145
+
+ Score = 149 bits (377),  Expect = 1e-044, Method: Compositional matrix adjust.
+ Identities = 79/103 (77%), Positives = 87/103 (84%), Gaps = 5/103 (5%)
+
+Query  1    MLKPKAQTEAMSHAMHHSH-HQHHIE--QAQVPDHHDHHDANHQCQYCTVYANLVLPPEF  57
+            +L PK Q+   SH+ H+S  H H +E  QAQ+P H DHHD NHQCQYCTVYANLVLPPE 
+Sbjct  45   LLLPKVQS-MQSHSAHNSQPHSHQLEHAQAQMPKH-DHHDPNHQCQYCTVYANLVLPPEL  102
+
+Query  58   GVKEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            GVKEVLVRIQ+RLVAYQQAF+HVYFALQRLFLLPQGRAPPLFA
+Sbjct  103  GVKEVLVRIQIRLVAYQQAFKHVYFALQRLFLLPQGRAPPLFA  145
+
+
+>WP_004656476.1 MULTISPECIES: DUF2946 domain-containing protein [Acinetobacter]
+Length=145
+
+ Score = 149 bits (376),  Expect = 2e-044, Method: Compositional matrix adjust.
+ Identities = 78/102 (76%), Positives = 86/102 (84%), Gaps = 3/102 (3%)
+
+Query  1    MLKPKAQTEAMSHAMHHS-HHQHHIEQAQVP-DHHDHHDANHQCQYCTVYANLVLPPEFG  58
+            +L PK Q  + SH++H S HH+H +E  QV    HDHHD NHQCQYCTVYANLVLPPE G
+Sbjct  45   LLLPKLQA-SHSHSVHASQHHEHQLEHVQVSMPQHDHHDPNHQCQYCTVYANLVLPPELG  103
+
+Query  59   VKEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            VKEVLVRIQ+RLVAYQQAF+HVYFALQRLFLLPQGRAPPLFA
+Sbjct  104  VKEVLVRIQIRLVAYQQAFKHVYFALQRLFLLPQGRAPPLFA  145
+
+
+>WP_008942435.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=145
+
+ Score = 148 bits (374),  Expect = 3e-044, Method: Compositional matrix adjust.
+ Identities = 73/101 (72%), Positives = 79/101 (78%), Gaps = 1/101 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVP-DHHDHHDANHQCQYCTVYANLVLPPEFGV  59
+            +L PK  T    H  H SHH H  +Q Q     HDHHD NHQCQYCTVYANL+LPPE G+
+Sbjct  45   LLLPKVITAHNQHTQHSSHHGHQFDQTQASVSQHDHHDPNHQCQYCTVYANLILPPELGI  104
+
+Query  60   KEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            KEVLVRIQ+RLVAYQQAF+HVYFALQRLFLLPQGRAPPL A
+Sbjct  105  KEVLVRIQIRLVAYQQAFKHVYFALQRLFLLPQGRAPPLSA  145
+
+
+>WP_070076721.1 DUF2946 domain-containing protein [Acinetobacter proteolyticus]
+Length=145
+
+ Score = 148 bits (373),  Expect = 5e-044, Method: Compositional matrix adjust.
+ Identities = 78/102 (76%), Positives = 85/102 (83%), Gaps = 3/102 (3%)
+
+Query  1    MLKPKAQTEAMSHAMHHS-HHQHHIEQAQVP-DHHDHHDANHQCQYCTVYANLVLPPEFG  58
+            +L PK Q    SH++H S HH+H +E  QV    HDHHD NHQCQYCTVYANLVLPPE G
+Sbjct  45   LLLPKLQA-LHSHSVHASQHHEHQLEHVQVSMPQHDHHDPNHQCQYCTVYANLVLPPELG  103
+
+Query  59   VKEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            VKEVLVRIQ+RLVAYQQAF+HVYFALQRLFLLPQGRAPPLFA
+Sbjct  104  VKEVLVRIQIRLVAYQQAFKHVYFALQRLFLLPQGRAPPLFA  145
+
+
+>WP_005085667.1 hypothetical protein [Acinetobacter haemolyticus]
+Length=145
+
+ Score = 147 bits (371),  Expect = 8e-044, Method: Compositional matrix adjust.
+ Identities = 74/101 (73%), Positives = 79/101 (78%), Gaps = 1/101 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVP-DHHDHHDANHQCQYCTVYANLVLPPEFGV  59
+            +L PK  T    HA H SH  H  +Q Q     HDHHD NHQCQYCTVYANL+LPPE GV
+Sbjct  45   LLLPKVITAHNQHAQHSSHLGHQFDQTQASVSQHDHHDPNHQCQYCTVYANLILPPELGV  104
+
+Query  60   KEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            KEVLVRIQ+RLVAYQQAF+HVYFALQRLFLLPQGRAPPL A
+Sbjct  105  KEVLVRIQIRLVAYQQAFKHVYFALQRLFLLPQGRAPPLSA  145
+
+
+>WP_033133975.1 DUF2946 domain-containing protein [Acinetobacter sp. MN12]
+Length=145
+
+ Score = 147 bits (370),  Expect = 1e-043, Method: Compositional matrix adjust.
+ Identities = 77/102 (75%), Positives = 85/102 (83%), Gaps = 3/102 (3%)
+
+Query  1    MLKPKAQTEAMSHAMHHS-HHQHHIEQAQVP-DHHDHHDANHQCQYCTVYANLVLPPEFG  58
+            +L PK Q  + SH++H S  H+H +E  QV    HDHHD NHQCQYCTVYANLVLPPE G
+Sbjct  45   LLLPKLQA-SHSHSVHASLQHEHQLEHVQVSMPEHDHHDPNHQCQYCTVYANLVLPPELG  103
+
+Query  59   VKEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            VKEVLVRIQ+RLVAYQQAF+HVYFALQRLFLLPQGRAPPLFA
+Sbjct  104  VKEVLVRIQIRLVAYQQAFKHVYFALQRLFLLPQGRAPPLFA  145
+
+
+>WP_016164815.1 DUF2946 domain-containing protein [Acinetobacter sp. CIP 110321]
+Length=145
+
+ Score = 147 bits (370),  Expect = 2e-043, Method: Compositional matrix adjust.
+ Identities = 77/102 (75%), Positives = 85/102 (83%), Gaps = 3/102 (3%)
+
+Query  1    MLKPKAQTEAMSHAMHHS-HHQHHIEQAQVP-DHHDHHDANHQCQYCTVYANLVLPPEFG  58
+            +L PK Q  + SH++H S  H+H +E  QV    HDHHD NHQCQYCTVYANLVLPPE G
+Sbjct  45   LLLPKLQA-SHSHSVHASLRHEHQLEHVQVSIPQHDHHDPNHQCQYCTVYANLVLPPELG  103
+
+Query  59   VKEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            VKEVLVRIQ+RLVAYQQAF+HVYFALQRLFLLPQGRAPPLFA
+Sbjct  104  VKEVLVRIQIRLVAYQQAFKHVYFALQRLFLLPQGRAPPLFA  145
+
+
+>WP_004798069.1 hypothetical protein [Acinetobacter sp. CIP 102637]
+Length=137
+
+ Score = 145 bits (367),  Expect = 3e-043, Method: Compositional matrix adjust.
+ Identities = 76/102 (75%), Positives = 81/102 (79%), Gaps = 2/102 (2%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQA--QVPDHHDHHDANHQCQYCTVYANLVLPPEFG  58
+            +L P+ Q E      H  HH H +EQA       HDHHD NHQCQYCTVYANLVLPPEFG
+Sbjct  36   LLLPQVQAEQSQSQHHAHHHSHQLEQAPASTTSSHDHHDPNHQCQYCTVYANLVLPPEFG  95
+
+Query  59   VKEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            VKEVLVRIQ+RLVAYQQAF+HVYFALQRLFLLPQGRAPPLFA
+Sbjct  96   VKEVLVRIQIRLVAYQQAFKHVYFALQRLFLLPQGRAPPLFA  137
+
+
+>WP_005319691.1 DUF2946 domain-containing protein [Acinetobacter sp. ANC 3880]
+Length=145
+
+ Score = 145 bits (367),  Expect = 4e-043, Method: Compositional matrix adjust.
+ Identities = 77/102 (75%), Positives = 84/102 (82%), Gaps = 3/102 (3%)
+
+Query  1    MLKPKAQTEAMSHAMHHS-HHQHHIEQAQVP-DHHDHHDANHQCQYCTVYANLVLPPEFG  58
+            +L PK Q  + SH+ H S  H+H +E  QV    HDHHD NHQCQYCTVYANLVLPPE G
+Sbjct  45   LLLPKLQA-SHSHSGHASLQHEHQLEHVQVSMPQHDHHDPNHQCQYCTVYANLVLPPELG  103
+
+Query  59   VKEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            VKEVLVRIQ+RLVAYQQAF+HVYFALQRLFLLPQGRAPPLFA
+Sbjct  104  VKEVLVRIQIRLVAYQQAFKHVYFALQRLFLLPQGRAPPLFA  145
+
+
+>WP_079865530.1 hypothetical protein, partial [Acinetobacter baumannii]
+Length=69
+
+ Score = 139 bits (351),  Expect = 1e-041, Method: Compositional matrix adjust.
+ Identities = 67/69 (97%), Positives = 69/69 (100%), Gaps = 0/69 (0%)
+
+Query  15  MHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQ  74
+           MHHSHHQ+HIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFG+KEVLVRIQVRLVAYQ
+Sbjct  1   MHHSHHQYHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGIKEVLVRIQVRLVAYQ  60
+
+Query  75  QAFRHVYFA  83
+           QAFRHVYFA
+Sbjct  61  QAFRHVYFA  69
+
+
+>WP_005209958.1 hypothetical protein [Acinetobacter sp. NIPH 1867]
+Length=145
+
+ Score = 141 bits (356),  Expect = 2e-041, Method: Compositional matrix adjust.
+ Identities = 75/101 (74%), Positives = 81/101 (80%), Gaps = 1/101 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVP-DHHDHHDANHQCQYCTVYANLVLPPEFGV  59
+            +L P+A+T     A    HH H +E AQV    HDHHD NHQCQYCTVYANLVLPPE GV
+Sbjct  45   LLLPQAETAQSHSAHSKHHHSHQLEHAQVSMPQHDHHDPNHQCQYCTVYANLVLPPELGV  104
+
+Query  60   KEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            KEVLVRIQ+RLVAYQQAF+HVYFALQRLFLLPQGRAPP FA
+Sbjct  105  KEVLVRIQIRLVAYQQAFKHVYFALQRLFLLPQGRAPPFFA  145
+
+
+>WP_034595322.1 DUF2946 domain-containing protein [Acinetobacter sp. CIP-A165]
+Length=145
+
+ Score = 140 bits (352),  Expect = 7e-041, Method: Compositional matrix adjust.
+ Identities = 74/102 (73%), Positives = 82/102 (80%), Gaps = 3/102 (3%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQ-HHIEQAQVP-DHHDHHDANHQCQYCTVYANLVLPPEFG  58
+            +L PK Q   +S A+H SHH  H +E  QV    HDHHD NHQCQYCTVYANL+LPPE G
+Sbjct  45   LLLPKIQV-LLSQAVHSSHHHPHQLEHTQVSMPQHDHHDPNHQCQYCTVYANLILPPELG  103
+
+Query  59   VKEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            +KEVLVRIQ+RLVAYQ AFRHVYFALQ+LFLLPQGRAPP FA
+Sbjct  104  IKEVLVRIQIRLVAYQHAFRHVYFALQQLFLLPQGRAPPHFA  145
+
+
+>WP_005278050.1 hypothetical protein [Acinetobacter sp. NIPH 1859]
+Length=145
+
+ Score = 139 bits (350),  Expect = 1e-040, Method: Compositional matrix adjust.
+ Identities = 75/101 (74%), Positives = 79/101 (78%), Gaps = 1/101 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVP-DHHDHHDANHQCQYCTVYANLVLPPEFGV  59
+            +L PK Q      A    HH   +E AQV    HDHHD NHQCQYCTVYANLVLPPE GV
+Sbjct  45   LLLPKLQASHSHSAHASQHHVAQLEHAQVSMPQHDHHDPNHQCQYCTVYANLVLPPELGV  104
+
+Query  60   KEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            KEVLVRIQ+RLVAYQQAF+HVYFALQRLFLLPQGRAPPLFA
+Sbjct  105  KEVLVRIQIRLVAYQQAFKHVYFALQRLFLLPQGRAPPLFA  145
+
+
+>WP_018678442.1 hypothetical protein [Acinetobacter tjernbergiae]
+Length=145
+
+ Score = 139 bits (349),  Expect = 2e-040, Method: Compositional matrix adjust.
+ Identities = 75/101 (74%), Positives = 80/101 (79%), Gaps = 1/101 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVP-DHHDHHDANHQCQYCTVYANLVLPPEFGV  59
+            +L PK +   +    H  HH H +EQAQV    HDHHD NHQCQYCTVYANLVLPPE GV
+Sbjct  45   LLLPKLKAVQVHAQHHMHHHAHQLEQAQVSMPQHDHHDPNHQCQYCTVYANLVLPPELGV  104
+
+Query  60   KEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+             EVLVRIQVRLVAYQQAF+HVYFALQRLFLLPQGRAPPL A
+Sbjct  105  NEVLVRIQVRLVAYQQAFKHVYFALQRLFLLPQGRAPPLCA  145
+
+
+>WP_034594816.1 DUF2946 domain-containing protein [Acinetobacter sp. NIPH 298]
+Length=145
+
+ Score = 138 bits (347),  Expect = 4e-040, Method: Compositional matrix adjust.
+ Identities = 73/102 (72%), Positives = 81/102 (79%), Gaps = 3/102 (3%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQ-HHIEQAQVP-DHHDHHDANHQCQYCTVYANLVLPPEFG  58
+            +L PK Q  + S A+H SHH  H +E  QV    HDHHD NHQCQYCTVYANL+LPPE G
+Sbjct  45   LLLPKIQVLS-SQAVHSSHHHPHQLEHTQVSMPQHDHHDPNHQCQYCTVYANLILPPELG  103
+
+Query  59   VKEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            +KEVLVRIQ+RLVAYQ AFRHVYFALQ+LFLLPQGRAPP F 
+Sbjct  104  IKEVLVRIQIRLVAYQHAFRHVYFALQQLFLLPQGRAPPHFT  145
+
+
+>WP_004941507.1 DUF2946 domain-containing protein [Acinetobacter soli]
+Length=143
+
+ Score = 137 bits (344),  Expect = 1e-039, Method: Compositional matrix adjust.
+ Identities = 67/93 (72%), Positives = 77/93 (83%), Gaps = 1/93 (1%)
+
+Query  9    EAMSHAMHHSHHQ-HHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQ  67
+            +AMSHA  H  H    +E+AQ    HDHHD NHQCQYCTVY +L+LPPE  VKE+LVRIQ
+Sbjct  51   KAMSHADSHMQHMPRMLEKAQSAPAHDHHDVNHQCQYCTVYGHLILPPELDVKEILVRIQ  110
+
+Query  68   VRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            VRL+A+QQAFRHVY+ALQRLFLLPQGRAPP+FA
+Sbjct  111  VRLLAFQQAFRHVYYALQRLFLLPQGRAPPVFA  143
+
+
+>WP_048763953.1 MULTISPECIES: DUF2946 domain-containing protein [Acinetobacter]
+Length=143
+
+ Score = 136 bits (343),  Expect = 1e-039, Method: Compositional matrix adjust.
+ Identities = 67/93 (72%), Positives = 77/93 (83%), Gaps = 1/93 (1%)
+
+Query  9    EAMSHAMHHSHHQ-HHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQ  67
+            +AMSHA  H  H    +E+AQ    HDHHD NHQCQYCTVY +L+LPPE  VKE+LVRIQ
+Sbjct  51   KAMSHADSHMQHMPSMLEKAQSAPTHDHHDLNHQCQYCTVYGHLILPPELDVKEILVRIQ  110
+
+Query  68   VRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            VRL+A+QQAFRHVY+ALQRLFLLPQGRAPP+FA
+Sbjct  111  VRLLAFQQAFRHVYYALQRLFLLPQGRAPPVFA  143
+
+
+>WP_076033608.1 DUF2946 domain-containing protein [Acinetobacter soli]
+Length=143
+
+ Score = 136 bits (343),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 67/93 (72%), Positives = 77/93 (83%), Gaps = 1/93 (1%)
+
+Query  9    EAMSHAMHHSHHQ-HHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQ  67
+            +AMSHA  H  H    +E+AQ    HDHHD NHQCQYCTVY +L+LPPE  VKE+LVRIQ
+Sbjct  51   KAMSHADSHMQHMPSMLEKAQSAPAHDHHDLNHQCQYCTVYGHLILPPELDVKEILVRIQ  110
+
+Query  68   VRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            VRL+A+QQAFRHVY+ALQRLFLLPQGRAPP+FA
+Sbjct  111  VRLLAFQQAFRHVYYALQRLFLLPQGRAPPVFA  143
+
+
+>WP_029952578.1 hypothetical protein [Acinetobacter soli]
+Length=143
+
+ Score = 136 bits (342),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 66/93 (71%), Positives = 77/93 (83%), Gaps = 1/93 (1%)
+
+Query  9    EAMSHAMHHSHHQ-HHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQ  67
+            +AMSHA  H  H    +E+AQ    HDHHD NHQCQYCTVY +L+LPPE  VKE+LVRIQ
+Sbjct  51   KAMSHADSHMQHMPRMLEKAQSAPAHDHHDLNHQCQYCTVYGHLILPPELDVKEILVRIQ  110
+
+Query  68   VRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            VRL+A+QQAFRH+Y+ALQRLFLLPQGRAPP+FA
+Sbjct  111  VRLLAFQQAFRHIYYALQRLFLLPQGRAPPVFA  143
+
+
+>WP_005403959.1 hypothetical protein [Acinetobacter junii]
+Length=145
+
+ Score = 135 bits (340),  Expect = 5e-039, Method: Compositional matrix adjust.
+ Identities = 70/101 (69%), Positives = 79/101 (78%), Gaps = 1/101 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVP-DHHDHHDANHQCQYCTVYANLVLPPEFGV  59
+            +L P+ Q E      H  HH H +EQA +    HDHHD NHQCQYCTVYANLVLPP+ GV
+Sbjct  45   LLLPQVQAEHSQSQHHAHHHSHQLEQASLSTSSHDHHDPNHQCQYCTVYANLVLPPDVGV  104
+
+Query  60   KEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            KE+LVR+QVRLVA+QQ F HVYFALQRLFLLPQGRAPP+FA
+Sbjct  105  KEILVRVQVRLVAFQQTFHHVYFALQRLFLLPQGRAPPVFA  145
+
+
+>WP_005055585.1 hypothetical protein [Acinetobacter beijerinckii]
+Length=145
+
+ Score = 135 bits (339),  Expect = 6e-039, Method: Compositional matrix adjust.
+ Identities = 73/97 (75%), Positives = 78/97 (80%), Gaps = 1/97 (1%)
+
+Query  5    KAQTEAMSHAMHHSHHQHHIEQAQVP-DHHDHHDANHQCQYCTVYANLVLPPEFGVKEVL  63
+            K  T+A S A    HH H  EQ QV    HDHHD NHQCQYCTVYANLVLPP+ GVKEVL
+Sbjct  49   KISTDAQSSAHSSHHHSHQFEQDQVSMPKHDHHDPNHQCQYCTVYANLVLPPDLGVKEVL  108
+
+Query  64   VRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            VRIQ+RL+AYQ AF+HVYFALQRLFLLPQGRAPPLFA
+Sbjct  109  VRIQIRLIAYQYAFKHVYFALQRLFLLPQGRAPPLFA  145
+
+
+>WP_016542603.1 hypothetical protein [Acinetobacter gyllenbergii]
+Length=145
+
+ Score = 134 bits (338),  Expect = 9e-039, Method: Compositional matrix adjust.
+ Identities = 72/101 (71%), Positives = 77/101 (76%), Gaps = 1/101 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVP-DHHDHHDANHQCQYCTVYANLVLPPEFGV  59
+            +L PK Q      A     H H +E  QV    HDHHD NHQCQYCTVYANLVLPPE GV
+Sbjct  45   LLLPKLQASHSHSAHASQQHAHQLEHTQVSMPQHDHHDPNHQCQYCTVYANLVLPPELGV  104
+
+Query  60   KEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            KEVLVR+Q+RLVAYQ AF+HVYFALQRLFLLPQGRAPPLFA
+Sbjct  105  KEVLVRVQIRLVAYQHAFKHVYFALQRLFLLPQGRAPPLFA  145
+
+
+>WP_034709792.1 MULTISPECIES: DUF2946 domain-containing protein [Acinetobacter]
+Length=153
+
+ Score = 135 bits (339),  Expect = 9e-039, Method: Compositional matrix adjust.
+ Identities = 64/93 (69%), Positives = 77/93 (83%), Gaps = 1/93 (1%)
+
+Query  9    EAMSHAMHHSHHQ-HHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQ  67
+            +AMSHA  H  H  + +E+A+    HDHHD NHQCQYCTVY +L+LPPE  V+E+LVRIQ
+Sbjct  61   KAMSHADSHMQHMPNMLEKAKSASSHDHHDLNHQCQYCTVYGHLILPPELDVQEILVRIQ  120
+
+Query  68   VRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            VRL+A+QQAFRHVY+ALQRLFLLPQGRAPP+F 
+Sbjct  121  VRLLAFQQAFRHVYYALQRLFLLPQGRAPPVFT  153
+
+
+>WP_004905505.1 hypothetical protein [Acinetobacter junii]
+Length=145
+
+ Score = 134 bits (338),  Expect = 1e-038, Method: Compositional matrix adjust.
+ Identities = 70/101 (69%), Positives = 78/101 (77%), Gaps = 1/101 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVP-DHHDHHDANHQCQYCTVYANLVLPPEFGV  59
+            +L P+ Q E      H  HH H +EQA      HDHHD NHQCQYCTVYANLVLPP+ GV
+Sbjct  45   LLLPQVQAEQSQSQHHAHHHSHQLEQAPASASSHDHHDTNHQCQYCTVYANLVLPPDVGV  104
+
+Query  60   KEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            KE+LVR+QVRLVA+QQ F HVYFALQRLFLLPQGRAPP+FA
+Sbjct  105  KEILVRVQVRLVAFQQTFHHVYFALQRLFLLPQGRAPPVFA  145
+
+
+>WP_004944206.1 DUF2946 domain-containing protein [Acinetobacter soli]
+Length=143
+
+ Score = 134 bits (338),  Expect = 1e-038, Method: Compositional matrix adjust.
+ Identities = 66/93 (71%), Positives = 76/93 (82%), Gaps = 1/93 (1%)
+
+Query  9    EAMSHAMHHSHHQ-HHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQ  67
+            +AMSH   H  H    +E+AQ    HDHHD NHQCQYCTVY +L+LPPE  VKE+LVRIQ
+Sbjct  51   KAMSHEDSHMQHMPSMLEKAQSAPAHDHHDLNHQCQYCTVYGHLILPPELDVKEILVRIQ  110
+
+Query  68   VRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            VRL+A+QQAFRHVY+ALQRLFLLPQGRAPP+FA
+Sbjct  111  VRLLAFQQAFRHVYYALQRLFLLPQGRAPPVFA  143
+
+
+>WP_042892177.1 hypothetical protein [Acinetobacter junii]
+Length=145
+
+ Score = 134 bits (337),  Expect = 1e-038, Method: Compositional matrix adjust.
+ Identities = 70/101 (69%), Positives = 79/101 (78%), Gaps = 1/101 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVP-DHHDHHDANHQCQYCTVYANLVLPPEFGV  59
+            +L P+ Q E      H  HH H +EQA +    HDHHD NHQCQYCTVYANLVLPP+ GV
+Sbjct  45   LLLPQVQAEHSQSQHHAHHHSHQLEQAPLSTSSHDHHDPNHQCQYCTVYANLVLPPDVGV  104
+
+Query  60   KEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            KE+LVR+QVRLVA+QQ F HVYFALQRLFLLPQGRAPP+FA
+Sbjct  105  KEILVRVQVRLVAFQQTFHHVYFALQRLFLLPQGRAPPVFA  145
+
+
+>WP_005060787.1 hypothetical protein [Acinetobacter beijerinckii]
+Length=145
+
+ Score = 134 bits (337),  Expect = 1e-038, Method: Compositional matrix adjust.
+ Identities = 72/97 (74%), Positives = 78/97 (80%), Gaps = 1/97 (1%)
+
+Query  5    KAQTEAMSHAMHHSHHQHHIEQAQVP-DHHDHHDANHQCQYCTVYANLVLPPEFGVKEVL  63
+            K  T+A S A    HH H  EQ QV    HDHHD NHQCQYCTVYANLVLPP+ G+KEVL
+Sbjct  49   KISTDAQSSAHSSHHHSHQFEQDQVSMPKHDHHDPNHQCQYCTVYANLVLPPDLGIKEVL  108
+
+Query  64   VRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            VRIQ+RL+AYQ AF+HVYFALQRLFLLPQGRAPPLFA
+Sbjct  109  VRIQIRLIAYQHAFKHVYFALQRLFLLPQGRAPPLFA  145
+
+
+>WP_049173877.1 DUF2946 domain-containing protein [Acinetobacter ursingii]
+Length=146
+
+ Score = 134 bits (336),  Expect = 2e-038, Method: Compositional matrix adjust.
+ Identities = 65/87 (75%), Positives = 69/87 (79%), Gaps = 1/87 (1%)
+
+Query  14   AMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAY  73
+            AM H HH        V   HDHHD NHQCQYCTVY NLVLPPE  VKEVLVRIQ+RL+AY
+Sbjct  61   AMQHMHHDMSASSKPV-QGHDHHDLNHQCQYCTVYGNLVLPPELEVKEVLVRIQIRLLAY  119
+
+Query  74   QQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            QQ FRH+YFALQRLFLLPQGRAPP+FA
+Sbjct  120  QQTFRHIYFALQRLFLLPQGRAPPVFA  146
+
+
+>WP_039048136.1 hypothetical protein [Acinetobacter junii]
+Length=145
+
+ Score = 134 bits (336),  Expect = 2e-038, Method: Compositional matrix adjust.
+ Identities = 70/101 (69%), Positives = 78/101 (77%), Gaps = 1/101 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVP-DHHDHHDANHQCQYCTVYANLVLPPEFGV  59
+            +L P+ Q E      H  HH H +EQA      HDHHD NHQCQYCTVYANLVLPP+ GV
+Sbjct  45   LLLPQVQAEQSQSQHHAHHHSHQLEQAPASTSSHDHHDPNHQCQYCTVYANLVLPPDVGV  104
+
+Query  60   KEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            KE+LVR+QVRLVA+QQ F HVYFALQRLFLLPQGRAPP+FA
+Sbjct  105  KEILVRVQVRLVAFQQTFHHVYFALQRLFLLPQGRAPPVFA  145
+
+
+>WP_004956544.1 hypothetical protein [Acinetobacter junii]
+Length=145
+
+ Score = 134 bits (336),  Expect = 2e-038, Method: Compositional matrix adjust.
+ Identities = 70/101 (69%), Positives = 78/101 (77%), Gaps = 1/101 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVP-DHHDHHDANHQCQYCTVYANLVLPPEFGV  59
+            +L P+ Q E      H  HH H +EQA      HDHHD NHQCQYCTVYANLVLPP+ GV
+Sbjct  45   LLLPQVQAEQSQSQHHVHHHSHQLEQAPASTSSHDHHDPNHQCQYCTVYANLVLPPDVGV  104
+
+Query  60   KEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            KE+LVR+QVRLVA+QQ F HVYFALQRLFLLPQGRAPP+FA
+Sbjct  105  KEILVRVQVRLVAFQQTFHHVYFALQRLFLLPQGRAPPVFA  145
+
+
+>WP_004967052.1 hypothetical protein [Acinetobacter junii]
+Length=145
+
+ Score = 134 bits (336),  Expect = 2e-038, Method: Compositional matrix adjust.
+ Identities = 70/101 (69%), Positives = 78/101 (77%), Gaps = 1/101 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVP-DHHDHHDANHQCQYCTVYANLVLPPEFGV  59
+            +L P+ Q E      H  HH H +EQA      HDHHD NHQCQYCTVYANLVLPP+ GV
+Sbjct  45   LLLPQVQAEQSQSQHHAHHHSHQLEQAPASASSHDHHDPNHQCQYCTVYANLVLPPDVGV  104
+
+Query  60   KEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            KE+LVR+QVRLVA+QQ F HVYFALQRLFLLPQGRAPP+FA
+Sbjct  105  KEILVRVQVRLVAFQQTFHHVYFALQRLFLLPQGRAPPVFA  145
+
+
+>WP_004865690.1 DUF2946 domain-containing protein [Acinetobacter gerneri]
+Length=140
+
+ Score = 133 bits (334),  Expect = 3e-038, Method: Compositional matrix adjust.
+ Identities = 64/92 (70%), Positives = 73/92 (79%), Gaps = 3/92 (3%)
+
+Query  12   SHAMHH---SHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQV  68
+            +H  HH   S   H I   Q+   HDHHDANHQCQYCTVY NL+LPPE GVKEVLVRIQV
+Sbjct  49   THVHHHNTSSFGYHFINHDQMSSDHDHHDANHQCQYCTVYGNLILPPELGVKEVLVRIQV  108
+
+Query  69   RLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            RL+A+ ++F+HVYFALQRLFL+PQGRAPP FA
+Sbjct  109  RLLAFAESFKHVYFALQRLFLIPQGRAPPFFA  140
+
+
+>WP_004985570.1 DUF2946 domain-containing protein [Acinetobacter ursingii]
+Length=146
+
+ Score = 132 bits (333),  Expect = 5e-038, Method: Compositional matrix adjust.
+ Identities = 65/87 (75%), Positives = 69/87 (79%), Gaps = 1/87 (1%)
+
+Query  14   AMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAY  73
+            AM H HH        V   HDHHD NHQCQYCTVY NLVLPPE  VKEVLVRIQ+RL+AY
+Sbjct  61   AMQHMHHDMSAPSKPV-QGHDHHDLNHQCQYCTVYGNLVLPPELEVKEVLVRIQIRLLAY  119
+
+Query  74   QQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            QQ FRH+YFALQRLFLLPQGRAPP+FA
+Sbjct  120  QQTFRHIYFALQRLFLLPQGRAPPVFA  146
+
+
+>WP_009510458.1 hypothetical protein [Acinetobacter sp. WC-323]
+Length=145
+
+ Score = 132 bits (333),  Expect = 5e-038, Method: Compositional matrix adjust.
+ Identities = 78/101 (77%), Positives = 84/101 (83%), Gaps = 1/101 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVP-DHHDHHDANHQCQYCTVYANLVLPPEFGV  59
+            +L PKAQ+     A     H+H +EQAQ P  HHDHHD NHQCQYCTVYANLVLPPE GV
+Sbjct  45   LLLPKAQSTQSHSAHSSHSHEHQLEQAQAPLPHHDHHDPNHQCQYCTVYANLVLPPELGV  104
+
+Query  60   KEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            KEVLVRIQ+RLVAYQQAF+HVYFALQRLFLLPQGRAPPLFA
+Sbjct  105  KEVLVRIQIRLVAYQQAFKHVYFALQRLFLLPQGRAPPLFA  145
+
+
+>WP_044435798.1 DUF2946 domain-containing protein [Acinetobacter ursingii]
+Length=146
+
+ Score = 132 bits (333),  Expect = 5e-038, Method: Compositional matrix adjust.
+ Identities = 64/87 (74%), Positives = 70/87 (80%), Gaps = 1/87 (1%)
+
+Query  14   AMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAY  73
+            AM H HH      ++    HDHHD NHQCQYCTVY NLVLPPE  VKEVLVRIQ+RL+AY
+Sbjct  61   AMQHMHHDMS-ATSKPTQGHDHHDLNHQCQYCTVYGNLVLPPELEVKEVLVRIQIRLLAY  119
+
+Query  74   QQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            QQ FRH+YFALQRLFLLPQGRAPP+FA
+Sbjct  120  QQTFRHIYFALQRLFLLPQGRAPPVFA  146
+
+
+>WP_004995416.1 MULTISPECIES: DUF2946 domain-containing protein [Acinetobacter]
+Length=146
+
+ Score = 132 bits (333),  Expect = 5e-038, Method: Compositional matrix adjust.
+ Identities = 65/87 (75%), Positives = 69/87 (79%), Gaps = 1/87 (1%)
+
+Query  14   AMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAY  73
+            AM H HH        V   HDHHD NHQCQYCTVY NLVLPPE  VKEVLVRIQ+RL+AY
+Sbjct  61   AMQHMHHDMSAPSKPV-QGHDHHDLNHQCQYCTVYGNLVLPPELEVKEVLVRIQIRLLAY  119
+
+Query  74   QQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            QQ FRH+YFALQRLFLLPQGRAPP+FA
+Sbjct  120  QQTFRHIYFALQRLFLLPQGRAPPVFA  146
+
+
+>WP_005001716.1 DUF2946 domain-containing protein [Acinetobacter ursingii]
+Length=146
+
+ Score = 132 bits (332),  Expect = 7e-038, Method: Compositional matrix adjust.
+ Identities = 64/87 (74%), Positives = 70/87 (80%), Gaps = 1/87 (1%)
+
+Query  14   AMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAY  73
+            AM H HH      ++    HDHHD NHQCQYCTVY NLVLPPE  VKEVLVRIQ+RL+AY
+Sbjct  61   AMQHMHHDMS-ATSRPTQGHDHHDLNHQCQYCTVYGNLVLPPELEVKEVLVRIQIRLLAY  119
+
+Query  74   QQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            QQ FRH+YFALQRLFLLPQGRAPP+FA
+Sbjct  120  QQTFRHIYFALQRLFLLPQGRAPPVFA  146
+
+
+>WP_004773211.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=143
+
+ Score = 132 bits (331),  Expect = 1e-037, Method: Compositional matrix adjust.
+ Identities = 79/101 (78%), Positives = 86/101 (85%), Gaps = 3/101 (3%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVP-DHHDHHDANHQCQYCTVYANLVLPPEFGV  59
+            +L PK Q+   SH+  H H +H +E AQV   HHDHHD NHQCQYCTVYANLVLPPEFGV
+Sbjct  45   LLLPKLQS-TQSHSAQHPH-EHQLEHAQVSMPHHDHHDPNHQCQYCTVYANLVLPPEFGV  102
+
+Query  60   KEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            KEVLVRIQ+RLVAYQQAF+HVYFALQRLFLLPQGRAPPLFA
+Sbjct  103  KEVLVRIQIRLVAYQQAFKHVYFALQRLFLLPQGRAPPLFA  143
+
+
+>WP_004674062.1 hypothetical protein [Acinetobacter parvus]
+Length=136
+
+ Score = 131 bits (329),  Expect = 1e-037, Method: Compositional matrix adjust.
+ Identities = 77/99 (78%), Positives = 86/99 (87%), Gaps = 3/99 (3%)
+
+Query  3    KPKAQTEAMSHAMHHSHHQHHIEQAQ-VPDHHDHHDANHQCQYCTVYANLVLPPEFGVKE  61
+            K KA+ +++SH MHH  H H +EQ Q +   HDHHD NHQCQYCTVYANLVLPPEFGVKE
+Sbjct  40   KLKAEQQSVSHNMHH--HAHQLEQHQSLMSKHDHHDPNHQCQYCTVYANLVLPPEFGVKE  97
+
+Query  62   VLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            VLVR+QVRLVAYQQAF+H+YFALQRLFLLPQGRAPPLFA
+Sbjct  98   VLVRVQVRLVAYQQAFKHIYFALQRLFLLPQGRAPPLFA  136
+
+
+>WP_086204414.1 DUF2946 domain-containing protein [Acinetobacter sp. ANC 4999]
+Length=147
+
+ Score = 131 bits (330),  Expect = 2e-037, Method: Compositional matrix adjust.
+ Identities = 62/97 (64%), Positives = 76/97 (78%), Gaps = 3/97 (3%)
+
+Query  7    QTEAMSHAMHHSHHQHHIEQ---AQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVL  63
+            +++  SH +H SH QH  ++    ++   HDHHD NHQCQYCTVY NLVLPP+  +K VL
+Sbjct  51   KSQHASHHVHRSHEQHSAQKRALTEISSGHDHHDPNHQCQYCTVYGNLVLPPDLDIKPVL  110
+
+Query  64   VRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+             RIQVRL+A+Q+AFRHVYF LQRLFL+PQGRAPPLFA
+Sbjct  111  DRIQVRLIAFQKAFRHVYFVLQRLFLIPQGRAPPLFA  147
+
+
+>WP_005281194.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=145
+
+ Score = 131 bits (329),  Expect = 2e-037, Method: Compositional matrix adjust.
+ Identities = 77/101 (76%), Positives = 83/101 (82%), Gaps = 1/101 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVP-DHHDHHDANHQCQYCTVYANLVLPPEFGV  59
+            +L PK Q+     A     H+H +EQAQ P  HHDHHD NHQCQYCTVYANLVLPPE GV
+Sbjct  45   LLLPKVQSTQSHSAHSSHSHEHQLEQAQAPLPHHDHHDPNHQCQYCTVYANLVLPPELGV  104
+
+Query  60   KEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            KEVLVRIQ+RLVAYQQAF+HVYFALQRLFLLPQGRAPPLFA
+Sbjct  105  KEVLVRIQIRLVAYQQAFKHVYFALQRLFLLPQGRAPPLFA  145
+
+
+>WP_032871014.1 hypothetical protein [Acinetobacter baumannii]
+Length=145
+
+ Score = 130 bits (327),  Expect = 5e-037, Method: Compositional matrix adjust.
+ Identities = 77/101 (76%), Positives = 83/101 (82%), Gaps = 1/101 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVP-DHHDHHDANHQCQYCTVYANLVLPPEFGV  59
+            +L PK Q+     A     H+H +EQAQ P  HHDHHD NHQCQYCTVYANLVLPPE GV
+Sbjct  45   LLLPKVQSTQNHSAHSSHSHEHQLEQAQAPLPHHDHHDPNHQCQYCTVYANLVLPPELGV  104
+
+Query  60   KEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            KEVLVRIQ+RLVAYQQAF+HVYFALQRLFLLPQGRAPPLFA
+Sbjct  105  KEVLVRIQIRLVAYQQAFKHVYFALQRLFLLPQGRAPPLFA  145
+
+
+>WP_004814280.1 hypothetical protein [Acinetobacter schindleri]
+Length=139
+
+ Score = 130 bits (326),  Expect = 6e-037, Method: Compositional matrix adjust.
+ Identities = 60/79 (76%), Positives = 67/79 (85%), Gaps = 0/79 (0%)
+
+Query  22   HHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQQAFRHVY  81
+            + IE A V   HDHHDANHQCQYCTVY NLVLPPE  +KEVL RIQVRL+A++QAF HV+
+Sbjct  61   YSIETASVDAGHDHHDANHQCQYCTVYGNLVLPPELDLKEVLDRIQVRLIAFKQAFSHVW  120
+
+Query  82   FALQRLFLLPQGRAPPLFA  100
+            F LQ+LFLLPQGRAPPLFA
+Sbjct  121  FVLQQLFLLPQGRAPPLFA  139
+
+
+>WP_004895276.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=139
+
+ Score = 128 bits (321),  Expect = 4e-036, Method: Compositional matrix adjust.
+ Identities = 59/77 (77%), Positives = 66/77 (86%), Gaps = 0/77 (0%)
+
+Query  24   IEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQQAFRHVYFA  83
+            I+ A V   HDHHDANHQCQYCTVY NLVLPPE  +KEVL RIQVRL+A++QAF HV+F 
+Sbjct  63   IQTASVEGAHDHHDANHQCQYCTVYGNLVLPPELDLKEVLDRIQVRLIAFKQAFSHVWFV  122
+
+Query  84   LQRLFLLPQGRAPPLFA  100
+            LQ+LFLLPQGRAPPLFA
+Sbjct  123  LQQLFLLPQGRAPPLFA  139
+
+
+>WP_076754608.1 DUF2946 domain-containing protein [Acinetobacter schindleri]
+Length=139
+
+ Score = 127 bits (319),  Expect = 6e-036, Method: Compositional matrix adjust.
+ Identities = 59/77 (77%), Positives = 66/77 (86%), Gaps = 0/77 (0%)
+
+Query  24   IEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQQAFRHVYFA  83
+            I+ A V   HDHHDANHQCQYCTVY NLVLPPE  +KEVL RIQVRL+A++QAF HV+F 
+Sbjct  63   IQTASVDAGHDHHDANHQCQYCTVYGNLVLPPELDLKEVLDRIQVRLIAFKQAFSHVWFV  122
+
+Query  84   LQRLFLLPQGRAPPLFA  100
+            LQ+LFLLPQGRAPPLFA
+Sbjct  123  LQQLFLLPQGRAPPLFA  139
+
+
+>WP_005228397.1 hypothetical protein [Acinetobacter sp. NIPH 1847]
+Length=145
+
+ Score = 127 bits (319),  Expect = 7e-036, Method: Compositional matrix adjust.
+ Identities = 75/101 (74%), Positives = 81/101 (80%), Gaps = 1/101 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVP-DHHDHHDANHQCQYCTVYANLVLPPEFGV  59
+            +L PK Q+     A     H H +EQAQ    HHDHHD NHQCQYCTVYANLVLPPE GV
+Sbjct  45   LLLPKVQSTQSHSAHSSHSHDHQLEQAQASLPHHDHHDPNHQCQYCTVYANLVLPPELGV  104
+
+Query  60   KEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            KEVLVRIQ+RLVAYQQAF+HVYFALQRLFLLPQGRAPPLF+
+Sbjct  105  KEVLVRIQIRLVAYQQAFKHVYFALQRLFLLPQGRAPPLFS  145
+
+
+>WP_016658991.1 hypothetical protein [Acinetobacter indicus]
+Length=140
+
+ Score = 127 bits (318),  Expect = 1e-035, Method: Compositional matrix adjust.
+ Identities = 64/100 (64%), Positives = 77/100 (77%), Gaps = 4/100 (4%)
+
+Query  5    KAQTEAMSHAMH-HSHHQHHIEQAQ---VPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +A    + H+ H H+H +H   Q Q     D H+HHDANHQCQYCTVY NLVLPPE  VK
+Sbjct  41   RALLLPVDHSAHGHAHSEHLYSQHQPVISDDGHNHHDANHQCQYCTVYGNLVLPPELSVK  100
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVL RIQVR +A+++AF+HV+FALQRLFL+PQGRAPPLFA
+Sbjct  101  EVLDRIQVRFIAFEKAFQHVWFALQRLFLIPQGRAPPLFA  140
+
+
+>WP_005181463.1 hypothetical protein [Acinetobacter sp. CIP 53.82]
+Length=140
+
+ Score = 126 bits (317),  Expect = 1e-035, Method: Compositional matrix adjust.
+ Identities = 61/87 (70%), Positives = 71/87 (82%), Gaps = 3/87 (3%)
+
+Query  17   HSHHQHHIEQAQ---VPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAY  73
+            H+H +H   Q Q     D H+HHDANHQCQYCTVY NLVLPPE  VKEVL RIQVR +A+
+Sbjct  54   HAHSEHLYSQHQPVISDDGHNHHDANHQCQYCTVYGNLVLPPELSVKEVLDRIQVRFIAF  113
+
+Query  74   QQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            ++AF+HV+FALQRLFL+PQGRAPPLFA
+Sbjct  114  EKAFQHVWFALQRLFLIPQGRAPPLFA  140
+
+
+>WP_048880981.1 DUF2946 domain-containing protein [Acinetobacter sp. VT 511]
+Length=139
+
+ Score = 126 bits (317),  Expect = 1e-035, Method: Compositional matrix adjust.
+ Identities = 59/77 (77%), Positives = 66/77 (86%), Gaps = 0/77 (0%)
+
+Query  24   IEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQQAFRHVYFA  83
+            I+ A V   HDHHDANHQCQYCTVY NLVLPPE  +KEVL RIQVRL+A++QAF HV+F 
+Sbjct  63   IQTASVEVVHDHHDANHQCQYCTVYGNLVLPPELDLKEVLDRIQVRLIAFKQAFSHVWFV  122
+
+Query  84   LQRLFLLPQGRAPPLFA  100
+            LQ+LFLLPQGRAPPLFA
+Sbjct  123  LQQLFLLPQGRAPPLFA  139
+
+
+>WP_010325663.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=145
+
+ Score = 126 bits (317),  Expect = 2e-035, Method: Compositional matrix adjust.
+ Identities = 62/92 (67%), Positives = 73/92 (79%), Gaps = 4/92 (4%)
+
+Query  12   SHAMHHSHHQHHI----EQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQ  67
+            SHA  HS HQH +    E +  P  H+HHDA+HQCQYCTVY NLVLPP+  +K VL RIQ
+Sbjct  53   SHAEKHSTHQHEMQAQHELSSQPAEHNHHDASHQCQYCTVYGNLVLPPDLELKAVLDRIQ  112
+
+Query  68   VRLVAYQQAFRHVYFALQRLFLLPQGRAPPLF  99
+            VRL+A+Q+AF HV+FALQ+LFLLPQGRAPPLF
+Sbjct  113  VRLIAFQKAFAHVWFALQQLFLLPQGRAPPLF  144
+
+
+>WP_004984066.1 hypothetical protein [Acinetobacter johnsonii]
+Length=145
+
+ Score = 126 bits (316),  Expect = 2e-035, Method: Compositional matrix adjust.
+ Identities = 65/103 (63%), Positives = 77/103 (75%), Gaps = 6/103 (6%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHI----EQAQVPDHHDHHDANHQCQYCTVYANLVLPPE  56
+            +LKP  Q    SHA  HS H H +    E +  P  H+HHDA+HQCQYCTVY NLVLPP+
+Sbjct  44   LLKPVEQLS--SHAEKHSTHHHEMQAQHELSSQPAEHNHHDASHQCQYCTVYGNLVLPPD  101
+
+Query  57   FGVKEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLF  99
+              +K VL RIQVRL+A+Q+AF HV+FALQ+LFLLPQGRAPPLF
+Sbjct  102  LELKAVLDRIQVRLIAFQKAFAHVWFALQQLFLLPQGRAPPLF  144
+
+
+>WP_005405866.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=138
+
+ Score = 125 bits (315),  Expect = 2e-035, Method: Compositional matrix adjust.
+ Identities = 62/97 (64%), Positives = 77/97 (79%), Gaps = 6/97 (6%)
+
+Query  4    PKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVL  63
+            P A+  A+S++     HQH++++    +HH HHDANHQCQYCTVY NLVLPPE  +KEVL
+Sbjct  48   PHAEHSAVSYS-----HQHNLQKDSASEHH-HHDANHQCQYCTVYGNLVLPPELDIKEVL  101
+
+Query  64   VRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+             RIQVRL+A+Q+ F HV+FALQRLFLLPQGRAPP+ A
+Sbjct  102  NRIQVRLLAFQKTFSHVWFALQRLFLLPQGRAPPISA  138
+
+
+>WP_005017249.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=138
+
+ Score = 125 bits (314),  Expect = 3e-035, Method: Compositional matrix adjust.
+ Identities = 62/97 (64%), Positives = 76/97 (78%), Gaps = 6/97 (6%)
+
+Query  4    PKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVL  63
+            P A+  A SH+     HQH++++    +HH HHDANHQCQYCTVY+NLVLPPE  +KEVL
+Sbjct  48   PHAEHSAASHS-----HQHNLQKDSASEHH-HHDANHQCQYCTVYSNLVLPPELDIKEVL  101
+
+Query  64   VRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+             RIQVRL+A+Q+ F HV+F LQRLFLLPQGRAPP+ A
+Sbjct  102  DRIQVRLLAFQKTFSHVWFVLQRLFLLPQGRAPPISA  138
+
+
+>WP_034671147.1 hypothetical protein [Acinetobacter sp. 1461402]
+Length=140
+
+ Score = 125 bits (314),  Expect = 4e-035, Method: Compositional matrix adjust.
+ Identities = 62/97 (64%), Positives = 75/97 (77%), Gaps = 6/97 (6%)
+
+Query  4    PKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVL  63
+            P A+  A SH+     HQH++++    +HH HHDANHQCQYCTVY NLVLPPE  +KEVL
+Sbjct  50   PHAEHSAASHS-----HQHNLQKDSASEHH-HHDANHQCQYCTVYGNLVLPPELDIKEVL  103
+
+Query  64   VRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+             RIQVRL+A+Q+ F HV+F LQRLFLLPQGRAPP+ A
+Sbjct  104  DRIQVRLLAFQKTFSHVWFVLQRLFLLPQGRAPPISA  140
+
+
+>WP_010700342.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=140
+
+ Score = 125 bits (314),  Expect = 4e-035, Method: Compositional matrix adjust.
+ Identities = 62/97 (64%), Positives = 75/97 (77%), Gaps = 6/97 (6%)
+
+Query  4    PKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVL  63
+            P A+  A SH+     HQH++++    +HH HHDANHQCQYCTVY NLVLPPE  +KEVL
+Sbjct  50   PHAEHSAASHS-----HQHNLQKDSASEHH-HHDANHQCQYCTVYGNLVLPPELDIKEVL  103
+
+Query  64   VRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+             RIQVRL+A+Q+ F HV+F LQRLFLLPQGRAPP+ A
+Sbjct  104  DRIQVRLLAFQKTFSHVWFVLQRLFLLPQGRAPPISA  140
+
+
+>WP_086189450.1 DUF2946 domain-containing protein [Acinetobacter sp. ANC 3832]
+Length=149
+
+ Score = 125 bits (314),  Expect = 5e-035, Method: Compositional matrix adjust.
+ Identities = 58/82 (71%), Positives = 65/82 (79%), Gaps = 0/82 (0%)
+
+Query  19   HHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQQAFR  78
+            H    I   Q    HDHHD NHQCQYCTVY NLVLPPE  VKEVL +IQVRL+A+Q+AFR
+Sbjct  68   HTSQKIALTQTHSGHDHHDLNHQCQYCTVYGNLVLPPELEVKEVLDKIQVRLIAFQKAFR  127
+
+Query  79   HVYFALQRLFLLPQGRAPPLFA  100
+            HVYF LQRL+L+PQGRAPP+FA
+Sbjct  128  HVYFVLQRLYLIPQGRAPPIFA  149
+
+
+>WP_058868690.1 hypothetical protein [Acinetobacter johnsonii]
+Length=145
+
+ Score = 125 bits (313),  Expect = 6e-035, Method: Compositional matrix adjust.
+ Identities = 65/104 (63%), Positives = 77/104 (74%), Gaps = 6/104 (6%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHI----EQAQVPDHHDHHDANHQCQYCTVYANLVLPPE  56
+            +LKP       SHA  HS H H +    E +  P  H+HHDA+HQCQYCTVY NLVLPP+
+Sbjct  44   LLKPVEHLS--SHAEKHSTHHHEMQAQHELSSQPAEHNHHDASHQCQYCTVYGNLVLPPD  101
+
+Query  57   FGVKEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+              +K VL RIQVRL+A+Q+AF HV+FALQ+LFLLPQGRAPPLFA
+Sbjct  102  LELKAVLDRIQVRLIAFQKAFAHVWFALQQLFLLPQGRAPPLFA  145
+
+
+>WP_067731744.1 DUF2946 domain-containing protein [Acinetobacter sp. NCu2D-2]
+Length=139
+
+ Score = 124 bits (312),  Expect = 7e-035, Method: Compositional matrix adjust.
+ Identities = 56/78 (72%), Positives = 66/78 (85%), Gaps = 0/78 (0%)
+
+Query  23   HIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQQAFRHVYF  82
+            HI+       HDHHDANHQCQYCTVY NLVLPPE  VKE+L RIQVRL+A+++AF+HV+F
+Sbjct  62   HIQTHSTDTGHDHHDANHQCQYCTVYGNLVLPPELSVKEILDRIQVRLIAFEKAFQHVWF  121
+
+Query  83   ALQRLFLLPQGRAPPLFA  100
+             LQ+LFL+PQGRAPPLFA
+Sbjct  122  VLQQLFLIPQGRAPPLFA  139
+
+
+>WP_081374984.1 MULTISPECIES: DUF2946 domain-containing protein [Acinetobacter]
+Length=138
+
+ Score = 124 bits (311),  Expect = 9e-035, Method: Compositional matrix adjust.
+ Identities = 62/97 (64%), Positives = 77/97 (79%), Gaps = 6/97 (6%)
+
+Query  4    PKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVL  63
+            P A+  A+S++     HQH++++    +HH HHDANHQCQYCTVY NLVLPPE  +KEVL
+Sbjct  48   PHAEHSAVSYS-----HQHNLQKDSAYEHH-HHDANHQCQYCTVYGNLVLPPELDIKEVL  101
+
+Query  64   VRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+             RIQVRL+A+Q+ F HV+FALQRLFLLPQGRAPP+ A
+Sbjct  102  DRIQVRLLAFQKTFSHVWFALQRLFLLPQGRAPPISA  138
+
+
+>WP_035268230.1 DUF2946 domain-containing protein [Acinetobacter sp. Ver3]
+Length=156
+
+ Score = 124 bits (312),  Expect = 1e-034, Method: Compositional matrix adjust.
+ Identities = 57/92 (62%), Positives = 73/92 (79%), Gaps = 3/92 (3%)
+
+Query  10   AMSHAMHHSHH-QHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQV  68
+            + SHA+H  H  + ++E +     HDHHD NHQCQYCTV+ NL+LPPE  VKEV VR+ +
+Sbjct  67   STSHALHEHHEFKRYVESSH--SGHDHHDPNHQCQYCTVFGNLILPPELNVKEVFVRLNI  124
+
+Query  69   RLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            RL+A+Q+AF+H+YF LQRLFLLPQGRAPPLF+
+Sbjct  125  RLIAFQKAFKHIYFDLQRLFLLPQGRAPPLFS  156
+
+
+>WP_068910214.1 DUF2946 domain-containing protein [Acinetobacter sp. WCHA34]
+Length=149
+
+ Score = 124 bits (312),  Expect = 1e-034, Method: Compositional matrix adjust.
+ Identities = 63/95 (66%), Positives = 71/95 (75%), Gaps = 0/95 (0%)
+
+Query  6    AQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVR  65
+            AQ  A   A  HS  Q H  + Q    H HHDA+HQCQYCTVY NLVLPPE  VK+VL R
+Sbjct  55   AQHSAHDSASRHSALQQHQAEQQDSHAHGHHDASHQCQYCTVYGNLVLPPELEVKQVLDR  114
+
+Query  66   IQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            IQ+RLVA+QQAF +V+F LQRLFL+PQGRAPPLFA
+Sbjct  115  IQIRLVAFQQAFSYVWFVLQRLFLMPQGRAPPLFA  149
+
+
+>WP_004830853.1 MULTISPECIES: DUF2946 domain-containing protein [Acinetobacter]
+Length=145
+
+ Score = 124 bits (311),  Expect = 1e-034, Method: Compositional matrix adjust.
+ Identities = 57/82 (70%), Positives = 67/82 (82%), Gaps = 2/82 (2%)
+
+Query  19   HHQHHIEQAQ--VPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQQA  76
+            HH  H++Q Q      HDHHD NHQCQYC VY NLV+PPE GVKE+LVRIQ+RL+AY +A
+Sbjct  61   HHYLHLDQTQQATSSGHDHHDMNHQCQYCVVYGNLVMPPEIGVKEILVRIQIRLLAYVEA  120
+
+Query  77   FRHVYFALQRLFLLPQGRAPPL  98
+            F+HVYF LQRLFL+PQGRAPP+
+Sbjct  121  FQHVYFELQRLFLIPQGRAPPI  142
+
+
+>WP_005401880.1 hypothetical protein [Acinetobacter johnsonii]
+Length=145
+
+ Score = 124 bits (311),  Expect = 1e-034, Method: Compositional matrix adjust.
+ Identities = 64/103 (62%), Positives = 76/103 (74%), Gaps = 6/103 (6%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHI----EQAQVPDHHDHHDANHQCQYCTVYANLVLPPE  56
+            +LKP       SHA  HS H H +    E +  P  H+HHDA+HQCQYCTVY NLVLPP+
+Sbjct  44   LLKPVEHLS--SHAEKHSTHHHEMQAQHELSSQPTEHNHHDASHQCQYCTVYGNLVLPPD  101
+
+Query  57   FGVKEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLF  99
+              +K VL RIQVRL+A+Q+AF HV+FALQ+LFLLPQGRAPPLF
+Sbjct  102  LELKAVLDRIQVRLIAFQKAFAHVWFALQQLFLLPQGRAPPLF  144
+
+
+>WP_062031778.1 hypothetical protein [Acinetobacter sp. BMW17]
+Length=145
+
+ Score = 124 bits (310),  Expect = 2e-034, Method: Compositional matrix adjust.
+ Identities = 64/103 (62%), Positives = 76/103 (74%), Gaps = 6/103 (6%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHI----EQAQVPDHHDHHDANHQCQYCTVYANLVLPPE  56
+            +LKP       SHA  HS H H +    E +  P  H+HHDA+HQCQYCTVY NLVLPP+
+Sbjct  44   LLKPVEHLS--SHAEKHSTHHHEMQAQHELSSQPAEHNHHDASHQCQYCTVYGNLVLPPD  101
+
+Query  57   FGVKEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLF  99
+              +K VL RIQVRL+A+Q+AF HV+FALQ+LFLLPQGRAPPLF
+Sbjct  102  LELKAVLDRIQVRLIAFQKAFTHVWFALQQLFLLPQGRAPPLF  144
+
+
+>WP_056518379.1 hypothetical protein [Acinetobacter sp. Root1280]
+Length=155
+
+ Score = 124 bits (311),  Expect = 2e-034, Method: Compositional matrix adjust.
+ Identities = 64/92 (70%), Positives = 72/92 (78%), Gaps = 3/92 (3%)
+
+Query  9    EAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQV  68
+            EA SH    +H +H + +   P  H HHDA HQCQYCTVY NLVLPPE  +KE+L RIQV
+Sbjct  67   EAASHDHLLAHAEHAVPEQ--PSSH-HHDAGHQCQYCTVYGNLVLPPELEIKEILDRIQV  123
+
+Query  69   RLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            RLVA+Q+AFRHVYF LQRLFLLPQGRAPPLFA
+Sbjct  124  RLVAFQKAFRHVYFVLQRLFLLPQGRAPPLFA  155
+
+
+>WP_071320829.1 DUF2946 domain-containing protein [Acinetobacter sp. LCT-H3]
+Length=139
+
+ Score = 124 bits (310),  Expect = 2e-034, Method: Compositional matrix adjust.
+ Identities = 56/68 (82%), Positives = 62/68 (91%), Gaps = 0/68 (0%)
+
+Query  33   HDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQ  92
+            HDHHDANHQCQYCTVY NLVLPPE  +KEVL RIQVRL+A++QAF HV+F LQ+LFLLPQ
+Sbjct  72   HDHHDANHQCQYCTVYGNLVLPPELDLKEVLDRIQVRLIAFKQAFSHVWFVLQQLFLLPQ  131
+
+Query  93   GRAPPLFA  100
+            GRAPPLFA
+Sbjct  132  GRAPPLFA  139
+
+
+>WP_009585349.1 MULTISPECIES: DUF2946 domain-containing protein [Acinetobacter]
+Length=145
+
+ Score = 124 bits (310),  Expect = 2e-034, Method: Compositional matrix adjust.
+ Identities = 57/82 (70%), Positives = 67/82 (82%), Gaps = 2/82 (2%)
+
+Query  19   HHQHHIEQAQ--VPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQQA  76
+            HH  H++Q Q      HDHHD NHQCQYC VY NLV+PPE GVKE+LVRIQ+RL+AY +A
+Sbjct  61   HHYLHLDQTQQATSSGHDHHDMNHQCQYCVVYGNLVMPPEIGVKEILVRIQIRLLAYVEA  120
+
+Query  77   FRHVYFALQRLFLLPQGRAPPL  98
+            F+HVYF LQRLFL+PQGRAPP+
+Sbjct  121  FQHVYFELQRLFLIPQGRAPPI  142
+
+
+>WP_068975663.1 DUF2946 domain-containing protein [Acinetobacter sp. WCHA60]
+Length=170
+
+ Score = 124 bits (312),  Expect = 2e-034, Method: Compositional matrix adjust.
+ Identities = 61/83 (73%), Positives = 66/83 (80%), Gaps = 3/83 (4%)
+
+Query  18   SHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQQAF  77
+            +H  HH+E +       HHDA HQCQYCTVY NLVLPPE  VKEVL RIQVRL A+Q+AF
+Sbjct  91   AHADHHVETS---TSSHHHDAGHQCQYCTVYGNLVLPPELEVKEVLDRIQVRLFAFQKAF  147
+
+Query  78   RHVYFALQRLFLLPQGRAPPLFA  100
+            RHVYF LQRLFLLPQGRAPPLFA
+Sbjct  148  RHVYFVLQRLFLLPQGRAPPLFA  170
+
+
+>WP_078389804.1 DUF2946 domain-containing protein [Acinetobacter sp. MF4640]
+Length=145
+
+ Score = 123 bits (309),  Expect = 2e-034, Method: Compositional matrix adjust.
+ Identities = 64/103 (62%), Positives = 76/103 (74%), Gaps = 6/103 (6%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHI----EQAQVPDHHDHHDANHQCQYCTVYANLVLPPE  56
+            +LKP       SHA  HS H H +    E +  P  H+HHDA+HQCQYCTVY NLVLPP+
+Sbjct  44   LLKPVEHLS--SHAEKHSTHHHEMQAQHELSSQPAEHNHHDASHQCQYCTVYGNLVLPPD  101
+
+Query  57   FGVKEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLF  99
+              +K VL RIQVRL+A+Q+AF HV+FALQ+LFLLPQGRAPPLF
+Sbjct  102  LELKAVLDRIQVRLIAFQKAFAHVWFALQQLFLLPQGRAPPLF  144
+
+
+>WP_067671379.1 DUF2946 domain-containing protein [Acinetobacter sp. ANC 4149]
+Length=145
+
+ Score = 123 bits (309),  Expect = 2e-034, Method: Compositional matrix adjust.
+ Identities = 62/104 (60%), Positives = 72/104 (69%), Gaps = 6/104 (6%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHH----QHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPE  56
+            +L P     + +     SHH     HH+E  + P H   HDA HQCQYCT+Y NLVLPPE
+Sbjct  44   LLAPSGDHSSAASGHQSSHHAHLSGHHVEINENPAHD--HDAGHQCQYCTIYGNLVLPPE  101
+
+Query  57   FGVKEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+              +KEVL RIQ+RL A+QQAF HV+FALQRLFLLPQGRAPPL A
+Sbjct  102  LDIKEVLDRIQIRLAAFQQAFTHVWFALQRLFLLPQGRAPPLLA  145
+
+
+>WP_064096964.1 DUF2946 domain-containing protein [Acinetobacter sp. SFD]
+Length=139
+
+ Score = 123 bits (308),  Expect = 3e-034, Method: Compositional matrix adjust.
+ Identities = 61/103 (59%), Positives = 75/103 (73%), Gaps = 11/103 (11%)
+
+Query  9    EAMSHAM------HHSHH-----QHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEF  57
+            E ++HA+       HSHH     QH +    +P     HDA+HQCQYCTVY NL+LPPE 
+Sbjct  37   ETITHALLDKSSVDHSHHAEQHAQHSVTAQHIPADVHEHDASHQCQYCTVYGNLILPPEL  96
+
+Query  58   GVKEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+             +KEVL RIQVRL+A+++ F+HV+FALQRLFLLPQGRAPPLFA
+Sbjct  97   DIKEVLDRIQVRLLAFEKTFKHVWFALQRLFLLPQGRAPPLFA  139
+
+
+>WP_004684453.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=139
+
+ Score = 123 bits (308),  Expect = 3e-034, Method: Compositional matrix adjust.
+ Identities = 63/99 (64%), Positives = 74/99 (75%), Gaps = 4/99 (4%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +LKP       SHA  HS HQH +        H+HHDA+HQCQYCTVY NLVLPP+  +K
+Sbjct  44   LLKPVEHLS--SHAEKHSTHQHELSSQHA--EHNHHDASHQCQYCTVYGNLVLPPDLELK  99
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLF  99
+             VL RIQVRL+A+Q+AF HV+FALQ+LFLLPQGRAPPLF
+Sbjct  100  AVLDRIQVRLIAFQKAFAHVWFALQQLFLLPQGRAPPLF  138
+
+
+>WP_081407353.1 DUF2946 domain-containing protein [Acinetobacter sp. ETR1]
+Length=145
+
+ Score = 122 bits (307),  Expect = 5e-034, Method: Compositional matrix adjust.
+ Identities = 58/82 (71%), Positives = 67/82 (82%), Gaps = 2/82 (2%)
+
+Query  19   HHQHHIEQAQ--VPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQQA  76
+            HH  H++QAQ      HDHHD NHQCQYC VY NLV+PPE GVKE+LVRIQVRL+AY + 
+Sbjct  61   HHYLHLDQAQQASSSSHDHHDINHQCQYCVVYGNLVMPPEIGVKEILVRIQVRLMAYVEN  120
+
+Query  77   FRHVYFALQRLFLLPQGRAPPL  98
+            F+HVYF LQRLFL+PQGRAPP+
+Sbjct  121  FQHVYFQLQRLFLIPQGRAPPV  142
+
+
+>WP_004720578.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=145
+
+ Score = 122 bits (307),  Expect = 5e-034, Method: Compositional matrix adjust.
+ Identities = 58/82 (71%), Positives = 67/82 (82%), Gaps = 2/82 (2%)
+
+Query  19   HHQHHIEQAQ--VPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQQA  76
+            HH  H++QAQ      HDHHD NHQCQYC VY NLV+PPE GVKE+LVRIQVRL+AY + 
+Sbjct  61   HHYLHLDQAQQASSSSHDHHDINHQCQYCVVYGNLVMPPEIGVKEILVRIQVRLMAYVEN  120
+
+Query  77   FRHVYFALQRLFLLPQGRAPPL  98
+            F+HVYF LQRLFL+PQGRAPP+
+Sbjct  121  FQHVYFQLQRLFLIPQGRAPPV  142
+
+
+>WP_058968558.1 DUF2946 domain-containing protein [Acinetobacter bereziniae]
+Length=154
+
+ Score = 123 bits (308),  Expect = 5e-034, Method: Compositional matrix adjust.
+ Identities = 61/92 (66%), Positives = 70/92 (76%), Gaps = 4/92 (4%)
+
+Query  9    EAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQV  68
+            EA  H    +HH+  +++        HHDA HQCQYCTVY NLVLPPE  VKE+L RIQV
+Sbjct  67   EASGHQHLITHHESTVQE----QTSHHHDAGHQCQYCTVYGNLVLPPELEVKEILDRIQV  122
+
+Query  69   RLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            RLVA+Q+AFRHVYF LQRLFLLPQGRAPP+FA
+Sbjct  123  RLVAFQKAFRHVYFVLQRLFLLPQGRAPPVFA  154
+
+
+>WP_086205416.1 DUF2946 domain-containing protein [Acinetobacter sp. ANC 4648]
+Length=147
+
+ Score = 122 bits (306),  Expect = 6e-034, Method: Compositional matrix adjust.
+ Identities = 54/71 (76%), Positives = 61/71 (86%), Gaps = 0/71 (0%)
+
+Query  30   PDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQQAFRHVYFALQRLFL  89
+            P  HDHHD NHQCQYCTVY NLVLPP+  +K VL RIQVRL+A+Q+AFRHVYF LQRL+L
+Sbjct  77   PSGHDHHDLNHQCQYCTVYGNLVLPPDLEIKVVLDRIQVRLIAFQKAFRHVYFVLQRLYL  136
+
+Query  90   LPQGRAPPLFA  100
+            +PQGRAPPLF 
+Sbjct  137  IPQGRAPPLFT  147
+
+
+>WP_070155527.1 DUF2946 domain-containing protein [Acinetobacter towneri]
+Length=140
+
+ Score = 122 bits (306),  Expect = 7e-034, Method: Compositional matrix adjust.
+ Identities = 61/100 (61%), Positives = 74/100 (74%), Gaps = 0/100 (0%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +L P     A+ H +H SH     +Q    + H HHDA+HQCQYCTVY NLVLPPE  +K
+Sbjct  41   LLLPHKTMAAVDHDVHSSHLHADQQQVTTQNEHHHHDASHQCQYCTVYGNLVLPPELELK  100
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVL RIQVRL+A+Q+ F+HV+FALQ+LFLLPQGRAPP FA
+Sbjct  101  EVLDRIQVRLLAFQKRFQHVWFALQQLFLLPQGRAPPHFA  140
+
+
+>WP_086188026.1 DUF2946 domain-containing protein [Acinetobacter sp. ANC 4470]
+Length=144
+
+ Score = 122 bits (306),  Expect = 7e-034, Method: Compositional matrix adjust.
+ Identities = 65/97 (67%), Positives = 71/97 (73%), Gaps = 6/97 (6%)
+
+Query  10   AMSHAMHH--SHHQHH----IEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVL  63
+              SH  HH  S+H H+      Q    D   HHDANHQCQYCTVY NLVLPPE  VKEVL
+Sbjct  48   TTSHQSHHISSNHAHNPVDQDSQLHSQDAGHHHDANHQCQYCTVYGNLVLPPELNVKEVL  107
+
+Query  64   VRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            VRIQ+RLVA+Q+AF HVYF LQRL+LLPQGRAPP FA
+Sbjct  108  VRIQIRLVAFQKAFLHVYFVLQRLYLLPQGRAPPRFA  144
+
+
+>WP_039623758.1 hypothetical protein [Acinetobacter harbinensis]
+Length=144
+
+ Score = 122 bits (306),  Expect = 8e-034, Method: Compositional matrix adjust.
+ Identities = 62/101 (61%), Positives = 73/101 (72%), Gaps = 3/101 (3%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHH--QHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFG  58
+            +  P AQ  + +   HH+ H  QHH   A+  D H HHDA HQCQYCTVY NLVLPP+  
+Sbjct  44   LFTPFAQVSSAASTSHHAGHAPQHHQPLAKRSDSH-HHDATHQCQYCTVYGNLVLPPDLH  102
+
+Query  59   VKEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLF  99
+            +KEVL RIQVRL+A+QQ F HV+F LQRL+LLPQGRAPP F
+Sbjct  103  IKEVLDRIQVRLLAFQQTFGHVWFVLQRLYLLPQGRAPPFF  143
+
+
+>WP_019837183.1 hypothetical protein [Acinetobacter sp. MDS7A]
+Length=143
+
+ Score = 122 bits (305),  Expect = 9e-034, Method: Compositional matrix adjust.
+ Identities = 62/100 (62%), Positives = 76/100 (76%), Gaps = 1/100 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +L P     A+ H +H SH Q   +Q  + + H HHDA+HQCQYCTVY NLVLPPE  +K
+Sbjct  45   LLLPHKTMAAVDHDVHSSHLQTD-QQDTIQNEHHHHDASHQCQYCTVYGNLVLPPELELK  103
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EVL RIQVRL+A+Q+ F+HV+FALQ+LFLLPQGRAPP FA
+Sbjct  104  EVLDRIQVRLLAFQKRFQHVWFALQQLFLLPQGRAPPHFA  143
+
+
+>WP_004831949.1 MULTISPECIES: DUF2946 domain-containing protein [Acinetobacter]
+Length=154
+
+ Score = 122 bits (306),  Expect = 1e-033, Method: Compositional matrix adjust.
+ Identities = 62/87 (71%), Positives = 66/87 (76%), Gaps = 0/87 (0%)
+
+Query  14   AMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAY  73
+            A  H H   H E A       HHDA HQCQYCTVY NLVLPPE  VKE+L RIQVRLVA+
+Sbjct  68   ASGHQHLMAHHEPAVQEQTSHHHDAGHQCQYCTVYGNLVLPPELEVKEILDRIQVRLVAF  127
+
+Query  74   QQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            Q+AFRHVYF LQRLFLLPQGRAPP+FA
+Sbjct  128  QKAFRHVYFVLQRLFLLPQGRAPPVFA  154
+
+
+>WP_005094527.1 hypothetical protein [Acinetobacter lwoffii]
+Length=137
+
+ Score = 121 bits (304),  Expect = 1e-033, Method: Compositional matrix adjust.
+ Identities = 56/86 (65%), Positives = 68/86 (79%), Gaps = 0/86 (0%)
+
+Query  13   HAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVA  72
+            H  H++   HH +       HDHHDANHQCQYCTVYANLVLPP+  +K+VL RIQVRL+A
+Sbjct  50   HTQHNASEHHHFKVQSGHIQHDHHDANHQCQYCTVYANLVLPPDLDIKQVLDRIQVRLIA  109
+
+Query  73   YQQAFRHVYFALQRLFLLPQGRAPPL  98
+            YQ+ F+HV+F LQ+LFL+PQGRAPPL
+Sbjct  110  YQKTFKHVWFVLQQLFLIPQGRAPPL  135
+
+
+>WP_009586629.1 MULTISPECIES: DUF2946 domain-containing protein [Acinetobacter]
+Length=154
+
+ Score = 122 bits (305),  Expect = 1e-033, Method: Compositional matrix adjust.
+ Identities = 62/87 (71%), Positives = 66/87 (76%), Gaps = 0/87 (0%)
+
+Query  14   AMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAY  73
+            A  H H   H E A       HHDA HQCQYCTVY NLVLPPE  VKE+L RIQVRLVA+
+Sbjct  68   ASGHQHLMAHHEPAVQEQTSHHHDAGHQCQYCTVYGNLVLPPELEVKEILDRIQVRLVAF  127
+
+Query  74   QQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            Q+AFRHVYF LQRLFLLPQGRAPP+FA
+Sbjct  128  QKAFRHVYFVLQRLFLLPQGRAPPVFA  154
+
+
+>WP_081106325.1 DUF2946 domain-containing protein [Acinetobacter venetianus]
+Length=145
+
+ Score = 121 bits (304),  Expect = 1e-033, Method: Compositional matrix adjust.
+ Identities = 74/101 (73%), Positives = 79/101 (78%), Gaps = 1/101 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVP-DHHDHHDANHQCQYCTVYANLVLPPEFGV  59
+            +L PK Q E      H  HH H +EQ  V    HDHHD +HQCQYCTVYANL+LPPE GV
+Sbjct  45   LLLPKVQAEQSQSQHHAHHHSHQLEQTSVSTSSHDHHDPSHQCQYCTVYANLILPPELGV  104
+
+Query  60   KEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            KEVLVRIQVRLVAYQQAFRHV+F LQRLFLLPQGRAPPLFA
+Sbjct  105  KEVLVRIQVRLVAYQQAFRHVFFLLQRLFLLPQGRAPPLFA  145
+
+
+>WP_064101731.1 DUF2946 domain-containing protein [Acinetobacter sp. SFA]
+Length=139
+
+ Score = 121 bits (303),  Expect = 1e-033, Method: Compositional matrix adjust.
+ Identities = 60/103 (58%), Positives = 74/103 (72%), Gaps = 11/103 (11%)
+
+Query  9    EAMSHAM------HHSHH-----QHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEF  57
+            E ++HA+       HSHH     QH +    +P     HDA+HQCQYCTVY NL+LPPE 
+Sbjct  37   ETITHALLDKSSVDHSHHAEQHAQHSVTAQHIPADVHEHDASHQCQYCTVYGNLILPPEL  96
+
+Query  58   GVKEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+             +KEVL RIQVRL+A+++ F+HV+FALQRLFLLPQGRAPPL A
+Sbjct  97   DIKEVLDRIQVRLLAFEKTFKHVWFALQRLFLLPQGRAPPLLA  139
+
+
+>WP_034618192.1 hypothetical protein [Acinetobacter sp. ETR1]
+Length=155
+
+ Score = 122 bits (305),  Expect = 1e-033, Method: Compositional matrix adjust.
+ Identities = 58/71 (82%), Positives = 62/71 (87%), Gaps = 1/71 (1%)
+
+Query  30   PDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQQAFRHVYFALQRLFL  89
+            P  H HHDA HQCQYCTVY NLVLPPE  +KE+L RIQVRLVA+Q+AFRHVYF LQRLFL
+Sbjct  86   PSSH-HHDAGHQCQYCTVYGNLVLPPELEIKEILDRIQVRLVAFQKAFRHVYFVLQRLFL  144
+
+Query  90   LPQGRAPPLFA  100
+            LPQGRAPPLFA
+Sbjct  145  LPQGRAPPLFA  155
+
+
+>WP_005173863.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=137
+
+ Score = 121 bits (303),  Expect = 2e-033, Method: Compositional matrix adjust.
+ Identities = 56/86 (65%), Positives = 67/86 (78%), Gaps = 0/86 (0%)
+
+Query  13   HAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVA  72
+            H  H +   HH +       HDHHDANHQCQYCTVYANLVLPP+  +K+VL RIQVRL+A
+Sbjct  50   HTQHSASEHHHFKVQSGHIQHDHHDANHQCQYCTVYANLVLPPDLDIKQVLDRIQVRLIA  109
+
+Query  73   YQQAFRHVYFALQRLFLLPQGRAPPL  98
+            YQ+ F+HV+F LQ+LFL+PQGRAPPL
+Sbjct  110  YQKTFKHVWFVLQQLFLIPQGRAPPL  135
+
+
+>WP_004823725.1 DUF2946 domain-containing protein [Acinetobacter guillouiae]
+Length=155
+
+ Score = 121 bits (304),  Expect = 2e-033, Method: Compositional matrix adjust.
+ Identities = 58/71 (82%), Positives = 62/71 (87%), Gaps = 1/71 (1%)
+
+Query  30   PDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQQAFRHVYFALQRLFL  89
+            P  H HHDA HQCQYCTVY NLVLPPE  +KE+L RIQVRLVA+Q+AFRHVYF LQRLFL
+Sbjct  86   PSSH-HHDAGHQCQYCTVYGNLVLPPELEIKEILDRIQVRLVAFQKAFRHVYFVLQRLFL  144
+
+Query  90   LPQGRAPPLFA  100
+            LPQGRAPPLFA
+Sbjct  145  LPQGRAPPLFA  155
+
+
+>WP_004723399.1 DUF2946 domain-containing protein [Acinetobacter guillouiae]
+Length=155
+
+ Score = 121 bits (304),  Expect = 2e-033, Method: Compositional matrix adjust.
+ Identities = 58/71 (82%), Positives = 62/71 (87%), Gaps = 1/71 (1%)
+
+Query  30   PDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQQAFRHVYFALQRLFL  89
+            P  H HHDA HQCQYCTVY NLVLPPE  +KE+L RIQVRLVA+Q+AFRHVYF LQRLFL
+Sbjct  86   PSSH-HHDAGHQCQYCTVYGNLVLPPELEIKEILDRIQVRLVAFQKAFRHVYFVLQRLFL  144
+
+Query  90   LPQGRAPPLFA  100
+            LPQGRAPPLFA
+Sbjct  145  LPQGRAPPLFA  155
+
+
+>WP_086196622.1 DUF2946 domain-containing protein [Acinetobacter sp. ANC 4218]
+Length=140
+
+ Score = 121 bits (303),  Expect = 2e-033, Method: Compositional matrix adjust.
+ Identities = 55/71 (77%), Positives = 61/71 (86%), Gaps = 0/71 (0%)
+
+Query  30   PDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQQAFRHVYFALQRLFL  89
+            P  H HHDA+HQCQYCTVY NLVLPPE  VKEVL RIQVRL+A+Q+ F HV+F LQRLFL
+Sbjct  70   PVEHGHHDADHQCQYCTVYGNLVLPPELEVKEVLDRIQVRLLAFQKTFSHVWFVLQRLFL  129
+
+Query  90   LPQGRAPPLFA  100
+            LPQGRAPP+FA
+Sbjct  130  LPQGRAPPIFA  140
+
+
+>WP_010116792.1 hypothetical protein [Acinetobacter sp. P8-3-8]
+Length=144
+
+ Score = 120 bits (302),  Expect = 2e-033, Method: Compositional matrix adjust.
+ Identities = 61/83 (73%), Positives = 66/83 (80%), Gaps = 3/83 (4%)
+
+Query  18   SHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQQAF  77
+            SH  H ++ A  P HH  HDA+HQCQYCTVY NLVLPPE  VK VL RIQVRL+A+Q  F
+Sbjct  65   SHDVHSVQTAS-PSHH--HDASHQCQYCTVYGNLVLPPELEVKAVLDRIQVRLIAFQDTF  121
+
+Query  78   RHVYFALQRLFLLPQGRAPPLFA  100
+             HVYFALQRLFLLPQGRAPPLFA
+Sbjct  122  WHVYFALQRLFLLPQGRAPPLFA  144
+
+
+>WP_004780731.1 DUF2946 domain-containing protein [Acinetobacter sp. NIPH 899]
+Length=136
+
+ Score = 120 bits (302),  Expect = 2e-033, Method: Compositional matrix adjust.
+ Identities = 61/92 (66%), Positives = 73/92 (79%), Gaps = 2/92 (2%)
+
+Query  11   MSHAMHHSHHQHHIEQAQVP-DHHDH-HDANHQCQYCTVYANLVLPPEFGVKEVLVRIQV  68
+            +S  +H  H  HH++Q  +  D   H HDA+HQCQYCTVY NLVLPPE  VKEVL RIQV
+Sbjct  45   VSSHVHSEHPTHHLDQHPISSDSMAHEHDASHQCQYCTVYGNLVLPPELEVKEVLDRIQV  104
+
+Query  69   RLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            RL+A++QAF+HV+F LQRLFL+PQGRAPPLFA
+Sbjct  105  RLLAFEQAFKHVWFILQRLFLIPQGRAPPLFA  136
+
+
+>WP_005233427.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=136
+
+ Score = 120 bits (301),  Expect = 3e-033, Method: Compositional matrix adjust.
+ Identities = 61/92 (66%), Positives = 73/92 (79%), Gaps = 2/92 (2%)
+
+Query  11   MSHAMHHSHHQHHIEQAQVP-DHHDH-HDANHQCQYCTVYANLVLPPEFGVKEVLVRIQV  68
+            +S  +H  H  HH++Q  +  D   H HDA+HQCQYCTVY NLVLPPE  VKEVL RIQV
+Sbjct  45   VSSHVHSEHPAHHLDQHPISSDSMAHEHDASHQCQYCTVYGNLVLPPELEVKEVLDRIQV  104
+
+Query  69   RLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            RL+A++QAF+HV+F LQRLFL+PQGRAPPLFA
+Sbjct  105  RLLAFEQAFKHVWFILQRLFLIPQGRAPPLFA  136
+
+
+>WP_067725935.1 DUF2946 domain-containing protein [Acinetobacter sp. SFC]
+Length=141
+
+ Score = 120 bits (301),  Expect = 3e-033, Method: Compositional matrix adjust.
+ Identities = 59/87 (68%), Positives = 65/87 (75%), Gaps = 4/87 (5%)
+
+Query  18   SHHQHHIEQAQVPDHHDH----HDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAY  73
+            S H HH  +     H  H    HDANH+CQYCTVY NLVLPPE  VKEVL RIQVRL+A+
+Sbjct  55   SEHSHHSVKQDTQLHEQHAGHDHDANHKCQYCTVYGNLVLPPELEVKEVLDRIQVRLIAF  114
+
+Query  74   QQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            Q+ F HV+F LQRLFLLPQGRAPPLFA
+Sbjct  115  QKTFSHVWFVLQRLFLLPQGRAPPLFA  141
+
+
+>WP_053579004.1 hypothetical protein [Acinetobacter sp. TTH0-4]
+Length=141
+
+ Score = 120 bits (300),  Expect = 4e-033, Method: Compositional matrix adjust.
+ Identities = 53/70 (76%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  31   DHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQQAFRHVYFALQRLFLL  90
+            D   HHDANHQCQYCTVY NLVLPPE  +KEVLVRIQ+RL+A+Q+ F HV+F LQRL+LL
+Sbjct  72   DAGHHHDANHQCQYCTVYGNLVLPPELNIKEVLVRIQIRLLAFQKTFSHVWFVLQRLYLL  131
+
+Query  91   PQGRAPPLFA  100
+            PQGRAPP+FA
+Sbjct  132  PQGRAPPIFA  141
+
+
+>WP_086213987.1 DUF2946 domain-containing protein [Acinetobacter sp. ANC 3813]
+Length=144
+
+ Score = 120 bits (300),  Expect = 5e-033, Method: Compositional matrix adjust.
+ Identities = 56/66 (85%), Positives = 60/66 (91%), Gaps = 0/66 (0%)
+
+Query  35   HHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGR  94
+            HHDANH CQYCTVY NLVLPPE  +KEVL RIQ+RLVA+QQAF HV+FALQRLFLLPQGR
+Sbjct  79   HHDANHHCQYCTVYGNLVLPPELDIKEVLDRIQIRLVAFQQAFAHVWFALQRLFLLPQGR  138
+
+Query  95   APPLFA  100
+            APPLFA
+Sbjct  139  APPLFA  144
+
+
+>WP_034582548.1 hypothetical protein [Acinetobacter sp. HR7]
+Length=138
+
+ Score = 119 bits (299),  Expect = 8e-033, Method: Compositional matrix adjust.
+ Identities = 58/89 (65%), Positives = 69/89 (78%), Gaps = 1/89 (1%)
+
+Query  13   HAMHHSHHQHHIEQAQVPDHHDH-HDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLV  71
+            H+ HHS H    +     D  +H HDA+HQCQYCTVY NLVLPPE  VKEVL RIQVRL+
+Sbjct  50   HSEHHSRHSAEPQHVMSSDPAEHEHDASHQCQYCTVYGNLVLPPELDVKEVLDRIQVRLI  109
+
+Query  72   AYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            A+++A+ HV+F LQ+LFLLPQGRAPPLFA
+Sbjct  110  AFKRAYSHVWFVLQQLFLLPQGRAPPLFA  138
+
+
+>WP_034171544.1 hypothetical protein [Acinetobacter sp. YZS-X1-1]
+Length=136
+
+ Score = 119 bits (298),  Expect = 8e-033, Method: Compositional matrix adjust.
+ Identities = 60/92 (65%), Positives = 73/92 (79%), Gaps = 2/92 (2%)
+
+Query  11   MSHAMHHSHHQHHIEQAQVP-DHHDH-HDANHQCQYCTVYANLVLPPEFGVKEVLVRIQV  68
+            +S  +H  H  HH++Q  +  D   H HDA+HQCQYCTVY N+VLPPE  VKEVL RIQV
+Sbjct  45   VSSHVHSEHPAHHLDQHPISSDSMAHEHDASHQCQYCTVYGNMVLPPELEVKEVLDRIQV  104
+
+Query  69   RLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            RL+A++QAF+HV+F LQRLFL+PQGRAPPLFA
+Sbjct  105  RLLAFEQAFKHVWFILQRLFLIPQGRAPPLFA  136
+
+
+>WP_005012039.1 hypothetical protein [Acinetobacter bouvetii]
+Length=146
+
+ Score = 119 bits (299),  Expect = 9e-033, Method: Compositional matrix adjust.
+ Identities = 58/78 (74%), Positives = 63/78 (81%), Gaps = 2/78 (3%)
+
+Query  23   HIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQQAFRHVYF  82
+            H E +Q   H   HDA HQCQYCTVY NLVLPPE  +KEVL RIQ+RL A+QQAF HV+F
+Sbjct  71   HAEISQSAGHD--HDAGHQCQYCTVYGNLVLPPELDIKEVLDRIQIRLAAFQQAFAHVWF  128
+
+Query  83   ALQRLFLLPQGRAPPLFA  100
+            ALQRLFLLPQGRAPPLFA
+Sbjct  129  ALQRLFLLPQGRAPPLFA  146
+
+
+>WP_061393542.1 hypothetical protein [Acinetobacter venetianus]
+Length=145
+
+ Score = 119 bits (299),  Expect = 9e-033, Method: Compositional matrix adjust.
+ Identities = 73/101 (72%), Positives = 78/101 (77%), Gaps = 1/101 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVP-DHHDHHDANHQCQYCTVYANLVLPPEFGV  59
+            +L PK QT       H  HH H +EQ       HDHHD +HQCQYCTVYANL+LPPE GV
+Sbjct  45   LLLPKVQTAQSQSQHHAHHHSHQLEQTSASTSSHDHHDPSHQCQYCTVYANLILPPELGV  104
+
+Query  60   KEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            KEVLVRIQVRLVAYQQAFRHV+F LQRLFLLPQGRAPPLFA
+Sbjct  105  KEVLVRIQVRLVAYQQAFRHVFFLLQRLFLLPQGRAPPLFA  145
+
+
+>WP_086181310.1 DUF2946 domain-containing protein [Acinetobacter sp. ANC 4558]
+Length=141
+
+ Score = 119 bits (298),  Expect = 9e-033, Method: Compositional matrix adjust.
+ Identities = 53/77 (69%), Positives = 65/77 (84%), Gaps = 1/77 (1%)
+
+Query  25   EQAQVPDHHDH-HDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQQAFRHVYFA  83
+            ++ ++  + DH HDANHQCQYCTVY NLVLPPE  +KEVL RIQ+RL+A+Q+ F HV+F 
+Sbjct  65   DEKKLSTYSDHEHDANHQCQYCTVYGNLVLPPELEIKEVLDRIQIRLIAFQRTFSHVWFV  124
+
+Query  84   LQRLFLLPQGRAPPLFA  100
+            LQRLFL+PQGRAPPLFA
+Sbjct  125  LQRLFLIPQGRAPPLFA  141
+
+
+>WP_004881962.1 hypothetical protein [Acinetobacter venetianus]
+Length=145
+
+ Score = 119 bits (298),  Expect = 1e-032, Method: Compositional matrix adjust.
+ Identities = 73/101 (72%), Positives = 78/101 (77%), Gaps = 1/101 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDH-HDHHDANHQCQYCTVYANLVLPPEFGV  59
+            +L PK Q E      H  HH H +EQ       HDHHD +HQCQYCTVYANL+LPPE GV
+Sbjct  45   LLLPKVQAEQSQSQHHAHHHSHQLEQTSASTSAHDHHDPSHQCQYCTVYANLILPPELGV  104
+
+Query  60   KEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            KEVLVRIQVRLVAYQQAFRHV+F LQRLFLLPQGRAPPLFA
+Sbjct  105  KEVLVRIQVRLVAYQQAFRHVFFLLQRLFLLPQGRAPPLFA  145
+
+
+>WP_086210793.1 DUF2946 domain-containing protein [Acinetobacter sp. ANC 4204]
+Length=145
+
+ Score = 119 bits (298),  Expect = 1e-032, Method: Compositional matrix adjust.
+ Identities = 64/104 (62%), Positives = 75/104 (72%), Gaps = 6/104 (6%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHI----EQAQVPDHHDHHDANHQCQYCTVYANLVLPPE  56
+            +LKP       SHA  HS H H +    E +     H+HHDA+HQCQYCTVY NLVLPP+
+Sbjct  44   LLKPVEHLS--SHAEKHSTHHHDMQTQHELSSQHAEHNHHDASHQCQYCTVYGNLVLPPD  101
+
+Query  57   FGVKEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+              +K VL RIQVRLVA+Q+AF HV+FALQ+LFLLPQGRAPPLF 
+Sbjct  102  LELKSVLDRIQVRLVAFQKAFVHVWFALQQLFLLPQGRAPPLFV  145
+
+
+>WP_023012642.1 hypothetical protein [Acinetobacter sp. COS3]
+Length=145
+
+ Score = 119 bits (298),  Expect = 1e-032, Method: Compositional matrix adjust.
+ Identities = 73/101 (72%), Positives = 78/101 (77%), Gaps = 1/101 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDH-HDHHDANHQCQYCTVYANLVLPPEFGV  59
+            +L PK QT       H  HH H +EQ       HDHHD +HQCQYCTVYANL+LPPE GV
+Sbjct  45   LLLPKVQTAQSQSQHHAHHHSHQLEQTSASTSAHDHHDPSHQCQYCTVYANLILPPELGV  104
+
+Query  60   KEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            KEVLVRIQVRLVAYQQAFRHV+F LQRLFLLPQGRAPPLFA
+Sbjct  105  KEVLVRIQVRLVAYQQAFRHVFFLLQRLFLLPQGRAPPLFA  145
+
+
+>WP_065994474.1 DUF2946 domain-containing protein [Acinetobacter sp. WCHA30]
+Length=146
+
+ Score = 119 bits (297),  Expect = 1e-032, Method: Compositional matrix adjust.
+ Identities = 56/83 (67%), Positives = 62/83 (75%), Gaps = 0/83 (0%)
+
+Query  18   SHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQQAF  77
+             H  H +   Q    HDHHD NHQCQYCTVY NLVLPPE  VK+VL RIQVRL+A+QQ F
+Sbjct  64   EHALHEMNAQQTSLGHDHHDPNHQCQYCTVYGNLVLPPELEVKQVLDRIQVRLIAFQQTF  123
+
+Query  78   RHVYFALQRLFLLPQGRAPPLFA  100
+             HV+F LQRLFL+PQGRAPPL  
+Sbjct  124  HHVWFVLQRLFLIPQGRAPPLLT  146
+
+
+>WP_061518688.1 hypothetical protein [Acinetobacter venetianus]
+Length=145
+
+ Score = 119 bits (297),  Expect = 2e-032, Method: Compositional matrix adjust.
+ Identities = 73/101 (72%), Positives = 77/101 (76%), Gaps = 1/101 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVP-DHHDHHDANHQCQYCTVYANLVLPPEFGV  59
+            +L PK Q E      H  HH H  EQ       HDHHD +HQCQYCTVYANL+LPPE GV
+Sbjct  45   LLLPKVQAEQSQSQHHAHHHSHQFEQVSASTSSHDHHDPSHQCQYCTVYANLILPPELGV  104
+
+Query  60   KEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            KEVLVRIQVRLVAYQQAFRHV+F LQRLFLLPQGRAPPLFA
+Sbjct  105  KEVLVRIQVRLVAYQQAFRHVFFLLQRLFLLPQGRAPPLFA  145
+
+
+>WP_078191458.1 MULTISPECIES: DUF2946 domain-containing protein [Acinetobacter]
+Length=142
+
+ Score = 118 bits (296),  Expect = 2e-032, Method: Compositional matrix adjust.
+ Identities = 59/78 (76%), Positives = 67/78 (86%), Gaps = 2/78 (3%)
+
+Query  24   IEQAQVPDHHDH-HDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQQAFRHVYF  82
+            +EQ QV DH  H HDA+HQCQYCTVY NLVLPPE  VKEVL RIQVRL+A+Q+AF+HV+F
+Sbjct  66   VEQVQV-DHTAHEHDASHQCQYCTVYGNLVLPPELDVKEVLDRIQVRLIAFQKAFKHVWF  124
+
+Query  83   ALQRLFLLPQGRAPPLFA  100
+             LQ+LFLLPQGRAPPL A
+Sbjct  125  VLQQLFLLPQGRAPPLAA  142
+
+
+>WP_068885789.1 DUF2946 domain-containing protein [Acinetobacter celticus]
+Length=146
+
+ Score = 118 bits (296),  Expect = 2e-032, Method: Compositional matrix adjust.
+ Identities = 53/65 (82%), Positives = 58/65 (89%), Gaps = 0/65 (0%)
+
+Query  36   HDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRA  95
+            HDANH CQYCTVY NLVLPPE  VKEVL RIQ+RL+A+QQ F H++FALQRLFLLPQGRA
+Sbjct  82   HDANHHCQYCTVYGNLVLPPELDVKEVLDRIQIRLIAFQQTFSHIWFALQRLFLLPQGRA  141
+
+Query  96   PPLFA  100
+            PPLFA
+Sbjct  142  PPLFA  146
+
+
+>WP_007478624.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=145
+
+ Score = 118 bits (296),  Expect = 3e-032, Method: Compositional matrix adjust.
+ Identities = 73/101 (72%), Positives = 77/101 (76%), Gaps = 1/101 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDH-HDHHDANHQCQYCTVYANLVLPPEFGV  59
+            +L PK Q E      H  HH H  EQ       HDHHD +HQCQYCTVYANL+LPPE GV
+Sbjct  45   LLLPKVQAEQSQSQHHAHHHSHQFEQVSASTSAHDHHDPSHQCQYCTVYANLILPPELGV  104
+
+Query  60   KEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            KEVLVRIQVRLVAYQQAFRHV+F LQRLFLLPQGRAPPLFA
+Sbjct  105  KEVLVRIQVRLVAYQQAFRHVFFLLQRLFLLPQGRAPPLFA  145
+
+
+>WP_016165586.1 hypothetical protein [Acinetobacter tandoii]
+Length=142
+
+ Score = 118 bits (295),  Expect = 3e-032, Method: Compositional matrix adjust.
+ Identities = 59/100 (59%), Positives = 71/100 (71%), Gaps = 0/100 (0%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVK  60
+            +L P     A+  ++ H  H H   Q Q    HDHHD +HQCQYCTVY NLVLPPE  VK
+Sbjct  43   LLLPSQAAHAVQTSVVHDQHSHMHMQHQEQPAHDHHDVHHQCQYCTVYGNLVLPPELDVK  102
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+             +L RIQVRL+A+Q+AF HV+F LQ+LFL+PQGRAPPL A
+Sbjct  103  PILDRIQVRLIAFQKAFAHVWFVLQQLFLIPQGRAPPLLA  142
+
+
+>WP_067762717.1 DUF2946 domain-containing protein [Acinetobacter gandensis]
+Length=138
+
+ Score = 118 bits (295),  Expect = 3e-032, Method: Compositional matrix adjust.
+ Identities = 59/90 (66%), Positives = 72/90 (80%), Gaps = 2/90 (2%)
+
+Query  13   HAMHHSH-HQHHIEQAQVPDHHDH-HDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRL  70
+            H+ H +H H  HI  AQ   +H H HDA+HQCQYCTVY NLVLPPE  V+E+L RIQVRL
+Sbjct  49   HSEHSAHGHHDHISVAQTQFNHSHEHDASHQCQYCTVYGNLVLPPELDVQEILDRIQVRL  108
+
+Query  71   VAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            +A+Q+AF+HV+F LQ+LFL+PQGRAPPL A
+Sbjct  109  IAFQKAFKHVWFVLQQLFLIPQGRAPPLAA  138
+
+
+>WP_067655001.1 DUF2946 domain-containing protein [Acinetobacter sp. TGL-Y2]
+Length=167
+
+ Score = 119 bits (297),  Expect = 3e-032, Method: Compositional matrix adjust.
+ Identities = 58/97 (60%), Positives = 73/97 (75%), Gaps = 12/97 (12%)
+
+Query  5    KAQTEAMSHAMHHSH-HQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVL  63
+            + Q ++ +H++H++H H  H           HHD NHQCQYCTV+ +LVLPPE  VKEVL
+Sbjct  72   QTQNQSSAHSIHNTHAHDSH-----------HHDMNHQCQYCTVFGHLVLPPELHVKEVL  120
+
+Query  64   VRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            +RIQVRL+ YQ+AF+HVYF LQRL+LLPQGRAPPLF 
+Sbjct  121  IRIQVRLITYQKAFKHVYFVLQRLYLLPQGRAPPLFT  157
+
+
+>WP_019385261.1 hypothetical protein [Acinetobacter venetianus]
+Length=145
+
+ Score = 118 bits (295),  Expect = 3e-032, Method: Compositional matrix adjust.
+ Identities = 73/101 (72%), Positives = 77/101 (76%), Gaps = 1/101 (1%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDH-HDHHDANHQCQYCTVYANLVLPPEFGV  59
+            +L PK Q E      H  HH H  EQ       HDHHD +HQCQYCTVYANL+LPPE GV
+Sbjct  45   LLLPKVQAEQSQSQHHAHHHSHQFEQVSASTSAHDHHDPSHQCQYCTVYANLILPPELGV  104
+
+Query  60   KEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            KEVLVRIQVRLVAYQQAFRHV+F LQRLFLLPQGRAPPLFA
+Sbjct  105  KEVLVRIQVRLVAYQQAFRHVFFLLQRLFLLPQGRAPPLFA  145
+
+
+>WP_004732588.1 hypothetical protein [Acinetobacter lwoffii]
+Length=136
+
+ Score = 117 bits (294),  Expect = 4e-032, Method: Compositional matrix adjust.
+ Identities = 57/89 (64%), Positives = 71/89 (80%), Gaps = 5/89 (6%)
+
+Query  12   SHAMHHSHHQHHIEQAQVPDH--HDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVR  69
+            +HA + +    H+ Q+   DH  HDHHDANHQCQYCTVYANLVLPP+  +K+VL RI VR
+Sbjct  49   AHAQYSAGEHSHLVQS---DHLQHDHHDANHQCQYCTVYANLVLPPDLDIKQVLDRIHVR  105
+
+Query  70   LVAYQQAFRHVYFALQRLFLLPQGRAPPL  98
+            L+AYQ+ F+HV+F LQ+LFL+PQGRAPPL
+Sbjct  106  LIAYQKTFKHVWFVLQQLFLIPQGRAPPL  134
+
+
+>WP_086164838.1 DUF2946 domain-containing protein [Acinetobacter sp. ANC 4654]
+Length=144
+
+ Score = 117 bits (294),  Expect = 4e-032, Method: Compositional matrix adjust.
+ Identities = 56/70 (80%), Positives = 60/70 (86%), Gaps = 0/70 (0%)
+
+Query  31   DHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQQAFRHVYFALQRLFLL  90
+            D   HHDANHQCQYCTVY NLVLPPE  VKEVL RIQ+RLVA+Q+AF HVYF LQRL+LL
+Sbjct  75   DAGHHHDANHQCQYCTVYGNLVLPPELNVKEVLDRIQIRLVAFQKAFLHVYFVLQRLYLL  134
+
+Query  91   PQGRAPPLFA  100
+            PQGRAPP FA
+Sbjct  135  PQGRAPPHFA  144
+
+
+>WP_086184125.1 DUF2946 domain-containing protein [Acinetobacter sp. ANC 4973]
+Length=141
+
+ Score = 117 bits (294),  Expect = 5e-032, Method: Compositional matrix adjust.
+ Identities = 56/70 (80%), Positives = 60/70 (86%), Gaps = 0/70 (0%)
+
+Query  31   DHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQQAFRHVYFALQRLFLL  90
+            D   HHDANHQCQYCTVY NLVLPPE  VKEVL RIQ+RLVA+Q+AF HVYF LQRL+LL
+Sbjct  72   DAGHHHDANHQCQYCTVYGNLVLPPELNVKEVLDRIQIRLVAFQKAFLHVYFVLQRLYLL  131
+
+Query  91   PQGRAPPLFA  100
+            PQGRAPP FA
+Sbjct  132  PQGRAPPHFA  141
+
+
+>WP_086193889.1 DUF2946 domain-containing protein [Acinetobacter sp. ANC 4655]
+Length=141
+
+ Score = 117 bits (293),  Expect = 6e-032, Method: Compositional matrix adjust.
+ Identities = 57/87 (66%), Positives = 65/87 (75%), Gaps = 4/87 (5%)
+
+Query  18   SHHQHHIEQAQVPDHHDH----HDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAY  73
+            S H HH  +     H  H    HDA+H+CQYCTVY NLVLPPE  VKEVL RIQ+RL+A+
+Sbjct  55   SEHSHHSVKQDTQLHEQHAGHDHDASHKCQYCTVYGNLVLPPELEVKEVLDRIQIRLLAF  114
+
+Query  74   QQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            Q+ F HV+F LQRLFLLPQGRAPPLFA
+Sbjct  115  QKTFSHVWFVLQRLFLLPQGRAPPLFA  141
+
+
+>WP_074947532.1 DUF2946 domain-containing protein [Acinetobacter bohemicus]
+Length=144
+
+ Score = 117 bits (293),  Expect = 6e-032, Method: Compositional matrix adjust.
+ Identities = 56/70 (80%), Positives = 60/70 (86%), Gaps = 0/70 (0%)
+
+Query  31   DHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQQAFRHVYFALQRLFLL  90
+            D   HHDANHQCQYCTVY NLVLPPE  VKEVL RIQ+RLVA+Q+AF HVYF LQRL+LL
+Sbjct  75   DAGHHHDANHQCQYCTVYGNLVLPPELNVKEVLDRIQIRLVAFQKAFLHVYFVLQRLYLL  134
+
+Query  91   PQGRAPPLFA  100
+            PQGRAPP FA
+Sbjct  135  PQGRAPPHFA  144
+
+
+>WP_004649549.1 hypothetical protein [Acinetobacter bohemicus]
+Length=144
+
+ Score = 117 bits (293),  Expect = 7e-032, Method: Compositional matrix adjust.
+ Identities = 55/66 (83%), Positives = 59/66 (89%), Gaps = 0/66 (0%)
+
+Query  35   HHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGR  94
+            HHDANHQCQYCTVY NLVLPPE  VKEVL RIQ+RLVA+Q+AF HVYF LQRL+LLPQGR
+Sbjct  79   HHDANHQCQYCTVYGNLVLPPELNVKEVLDRIQIRLVAFQKAFLHVYFVLQRLYLLPQGR  138
+
+Query  95   APPLFA  100
+            APP FA
+Sbjct  139  APPHFA  144
+
+
+>WP_054580523.1 hypothetical protein [Acinetobacter equi]
+Length=141
+
+ Score = 116 bits (291),  Expect = 1e-031, Method: Compositional matrix adjust.
+ Identities = 51/70 (73%), Positives = 60/70 (86%), Gaps = 0/70 (0%)
+
+Query  31   DHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQQAFRHVYFALQRLFLL  90
+            + H  HDANHQCQYCTVY NLVLPP+  +KEVL RIQ+RLVA+Q+ F H++F LQRLFL+
+Sbjct  72   NGHAEHDANHQCQYCTVYGNLVLPPDLELKEVLDRIQIRLVAFQKTFSHIWFVLQRLFLI  131
+
+Query  91   PQGRAPPLFA  100
+            PQGRAPPLFA
+Sbjct  132  PQGRAPPLFA  141
+
+
+>WP_005245288.1 hypothetical protein [Acinetobacter sp. CIP 51.11]
+Length=136
+
+ Score = 116 bits (290),  Expect = 1e-031, Method: Compositional matrix adjust.
+ Identities = 56/89 (63%), Positives = 70/89 (79%), Gaps = 5/89 (6%)
+
+Query  12   SHAMHHSHHQHHIEQAQVPDH--HDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVR  69
+            +HA H +    H+ Q+   DH  HDHHDANHQCQYC VYANLVLPP+  +K+VL RI +R
+Sbjct  49   AHAQHSAGEHTHLVQS---DHLQHDHHDANHQCQYCKVYANLVLPPDLDIKQVLDRIHIR  105
+
+Query  70   LVAYQQAFRHVYFALQRLFLLPQGRAPPL  98
+            L+AYQ+ F+HV+F LQ+LFL+PQGRAPPL
+Sbjct  106  LIAYQKTFKHVWFVLQQLFLMPQGRAPPL  134
+
+
+>WP_067864548.1 DUF2946 domain-containing protein [Acinetobacter sp. SFB]
+Length=141
+
+ Score = 115 bits (288),  Expect = 4e-031, Method: Compositional matrix adjust.
+ Identities = 54/68 (79%), Positives = 60/68 (88%), Gaps = 1/68 (1%)
+
+Query  33   HDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQ  92
+            HDH DA+HQCQYCTVY NLVLPPE  VKEVL RIQ+RL+A+Q+ F HV+F LQRLFLLPQ
+Sbjct  75   HDH-DASHQCQYCTVYGNLVLPPELDVKEVLDRIQIRLLAFQKTFSHVWFVLQRLFLLPQ  133
+
+Query  93   GRAPPLFA  100
+            GRAPPLFA
+Sbjct  134  GRAPPLFA  141
+
+
+>WP_086178648.1 DUF2946 domain-containing protein [Acinetobacter sp. ANC 5054]
+Length=142
+
+ Score = 114 bits (286),  Expect = 7e-031, Method: Compositional matrix adjust.
+ Identities = 58/77 (75%), Positives = 65/77 (84%), Gaps = 2/77 (3%)
+
+Query  25   EQAQVPDHHDH-HDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQQAFRHVYFA  83
+            EQ QV DH  H HDA+HQCQYCTVY NLVLPPE  VK VL RIQ+RL+A+QQAF+HV+F 
+Sbjct  67   EQVQV-DHTAHEHDASHQCQYCTVYGNLVLPPELEVKAVLDRIQIRLMAFQQAFKHVWFV  125
+
+Query  84   LQRLFLLPQGRAPPLFA  100
+            LQ+LFLLPQGRAPPL A
+Sbjct  126  LQQLFLLPQGRAPPLAA  142
+
+
+>WP_004281013.1 hypothetical protein [Acinetobacter lwoffii]
+Length=136
+
+ Score = 114 bits (285),  Expect = 8e-031, Method: Compositional matrix adjust.
+ Identities = 56/89 (63%), Positives = 70/89 (79%), Gaps = 5/89 (6%)
+
+Query  12   SHAMHHSHHQHHIEQAQVPDH--HDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVR  69
+            +HA H +    H+ Q+   DH  HDHHDANHQCQYC V+ANLVLPP+  +K+VL RI VR
+Sbjct  49   AHAQHSAGEHSHLVQS---DHLQHDHHDANHQCQYCKVHANLVLPPDLDIKQVLDRIHVR  105
+
+Query  70   LVAYQQAFRHVYFALQRLFLLPQGRAPPL  98
+            L+AYQ+ F+HV+F LQ+LFL+PQGRAPPL
+Sbjct  106  LIAYQKTFKHVWFVLQQLFLIPQGRAPPL  134
+
+
+>WP_085945808.1 DUF2946 domain-containing protein [Acinetobacter gerneri]
+Length=164
+
+ Score = 114 bits (286),  Expect = 1e-030, Method: Compositional matrix adjust.
+ Identities = 51/77 (66%), Positives = 65/77 (84%), Gaps = 0/77 (0%)
+
+Query  24   IEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQQAFRHVYFA  83
+            ++ AQ  + + HH+  H CQYCTVY +L++PPE  VKEVLVRIQVRL+A+Q+AF+HVYF 
+Sbjct  88   LQVAQNTEQNHHHELGHACQYCTVYGHLIMPPELEVKEVLVRIQVRLLAFQKAFKHVYFV  147
+
+Query  84   LQRLFLLPQGRAPPLFA  100
+            LQRLFL+PQGRAPP+FA
+Sbjct  148  LQRLFLIPQGRAPPIFA  164
+
+
+>WP_086322716.1 DUF2946 domain-containing protein [Acinetobacter sp. WCHA60]
+Length=161
+
+ Score = 114 bits (286),  Expect = 1e-030, Method: Compositional matrix adjust.
+ Identities = 55/87 (63%), Positives = 67/87 (77%), Gaps = 1/87 (1%)
+
+Query  12   SHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLV  71
+            S  +HH  H    EQ     H +HHD NHQCQYC VY NLV+PPE GV+E+LVRIQV+L+
+Sbjct  73   SSFIHHYLHADQDEQHSTTGH-NHHDMNHQCQYCVVYGNLVMPPEVGVQEILVRIQVKLM  131
+
+Query  72   AYQQAFRHVYFALQRLFLLPQGRAPPL  98
+            A+ +AF+HVYF LQRLFL+PQGRAPP+
+Sbjct  132  AFVEAFQHVYFLLQRLFLIPQGRAPPM  158
+
+
+>WP_004644876.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=136
+
+ Score = 114 bits (284),  Expect = 1e-030, Method: Compositional matrix adjust.
+ Identities = 56/89 (63%), Positives = 70/89 (79%), Gaps = 5/89 (6%)
+
+Query  12   SHAMHHSHHQHHIEQAQVPDH--HDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVR  69
+            +HA H +    H+ Q+   DH  HDHHDANHQCQYC V+ANLVLPP+  +K+VL RI VR
+Sbjct  49   AHAQHSAGEHSHLIQS---DHLQHDHHDANHQCQYCKVHANLVLPPDLDIKQVLDRIHVR  105
+
+Query  70   LVAYQQAFRHVYFALQRLFLLPQGRAPPL  98
+            L+AYQ+ F+HV+F LQ+LFL+PQGRAPPL
+Sbjct  106  LIAYQKTFKHVWFVLQQLFLIPQGRAPPL  134
+
+
+>WP_004858197.1 DUF2946 domain-containing protein [Acinetobacter gerneri]
+Length=168
+
+ Score = 114 bits (286),  Expect = 1e-030, Method: Compositional matrix adjust.
+ Identities = 51/77 (66%), Positives = 65/77 (84%), Gaps = 0/77 (0%)
+
+Query  24   IEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQQAFRHVYFA  83
+            ++ AQ  + + HH+  H CQYCTVY +L++PPE  VKEVLVRIQVRL+A+Q+AF+HVYF 
+Sbjct  92   LQVAQNTEQNHHHELGHACQYCTVYGHLIMPPELEVKEVLVRIQVRLLAFQKAFKHVYFV  151
+
+Query  84   LQRLFLLPQGRAPPLFA  100
+            LQRLFL+PQGRAPP+FA
+Sbjct  152  LQRLFLIPQGRAPPIFA  168
+
+
+>WP_086200303.1 DUF2946 domain-containing protein [Acinetobacter sp. ANC 4169]
+Length=144
+
+ Score = 113 bits (283),  Expect = 2e-030, Method: Compositional matrix adjust.
+ Identities = 51/64 (80%), Positives = 57/64 (89%), Gaps = 0/64 (0%)
+
+Query  37   DANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAP  96
+            DANHQCQYCTVY NLVLPPE  +KEVL RIQVRL+A+Q+ F HV+F LQRLFL+PQGRAP
+Sbjct  81   DANHQCQYCTVYGNLVLPPELELKEVLDRIQVRLLAFQKTFGHVWFVLQRLFLIPQGRAP  140
+
+Query  97   PLFA  100
+            PLFA
+Sbjct  141  PLFA  144
+
+
+>WP_005108420.1 hypothetical protein [Acinetobacter lwoffii]
+Length=136
+
+ Score = 113 bits (282),  Expect = 3e-030, Method: Compositional matrix adjust.
+ Identities = 56/89 (63%), Positives = 69/89 (78%), Gaps = 5/89 (6%)
+
+Query  12   SHAMHHSHHQHHIEQAQVPDH--HDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVR  69
+            +HA H      H+ Q+   DH  HDHHDANHQCQYC V+ANLVLPP+  +K+VL RI VR
+Sbjct  49   AHAQHSVGEHSHLIQS---DHLQHDHHDANHQCQYCKVHANLVLPPDLDIKQVLDRIHVR  105
+
+Query  70   LVAYQQAFRHVYFALQRLFLLPQGRAPPL  98
+            L+AYQ+ F+HV+F LQ+LFL+PQGRAPPL
+Sbjct  106  LIAYQKTFKHVWFVLQQLFLIPQGRAPPL  134
+
+
+>WP_086207349.1 DUF2946 domain-containing protein [Acinetobacter sp. ANC 4648]
+Length=149
+
+ Score = 113 bits (282),  Expect = 4e-030, Method: Compositional matrix adjust.
+ Identities = 56/91 (62%), Positives = 67/91 (74%), Gaps = 2/91 (2%)
+
+Query  11   MSHAMHHSHHQHHIEQAQVPDHHD--HHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQV  68
+            +S   HH  +  HI    V    D  HH+ NHQCQYC VY +LVLPPE GVKE+L+RIQ+
+Sbjct  57   ISSFTHHYLNLDHIHDDVVVKSDDSHHHEMNHQCQYCVVYGHLVLPPELGVKEILLRIQI  116
+
+Query  69   RLVAYQQAFRHVYFALQRLFLLPQGRAPPLF  99
+            RLVA+ Q F+HVYF LQRLFL+PQGRAPP+F
+Sbjct  117  RLVAFVQNFKHVYFNLQRLFLIPQGRAPPVF  147
+
+
+>WP_081407214.1 DUF2946 domain-containing protein [Acinetobacter rudis]
+Length=161
+
+ Score = 113 bits (282),  Expect = 5e-030, Method: Compositional matrix adjust.
+ Identities = 49/65 (75%), Positives = 57/65 (88%), Gaps = 0/65 (0%)
+
+Query  33   HDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQ  92
+            H+HHD  HQCQYCT+Y NL LPPE  +KEVLVRIQVRL+AY ++F+HVYF LQRL+LLPQ
+Sbjct  89   HNHHDLTHQCQYCTIYGNLHLPPELDLKEVLVRIQVRLLAYSESFKHVYFELQRLYLLPQ  148
+
+Query  93   GRAPP  97
+            GRAPP
+Sbjct  149  GRAPP  153
+
+
+>WP_067557979.1 DUF2946 domain-containing protein [Acinetobacter larvae]
+Length=156
+
+ Score = 112 bits (280),  Expect = 1e-029, Method: Compositional matrix adjust.
+ Identities = 56/78 (72%), Positives = 62/78 (79%), Gaps = 2/78 (3%)
+
+Query  25   EQAQVPDHHDHH-DANHQCQYCTVYANLVLPPEFG-VKEVLVRIQVRLVAYQQAFRHVYF  82
+            E A   DH  HH D NHQCQYCTVY NLVLPPE   +K +L RI VRL+A+Q AFRH+YF
+Sbjct  79   ENAHSTDHQGHHHDLNHQCQYCTVYGNLVLPPELDQIKVILDRIIVRLLAFQHAFRHIYF  138
+
+Query  83   ALQRLFLLPQGRAPPLFA  100
+            ALQRLFL+PQGRAPPLFA
+Sbjct  139  ALQRLFLIPQGRAPPLFA  156
+
+
+>WP_068908220.1 DUF2946 domain-containing protein [Acinetobacter sp. WCHA34]
+Length=151
+
+ Score = 111 bits (277),  Expect = 2e-029, Method: Compositional matrix adjust.
+ Identities = 52/87 (60%), Positives = 70/87 (80%), Gaps = 1/87 (1%)
+
+Query  12   SHAMHHSHHQHHIEQAQVPDHH-DHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRL  70
+            SHA H  +H + ++  ++  H  DH++ NHQCQYCTVY +LV+PP FGV EV  R+QVRL
+Sbjct  61   SHAEHRDYHLNFLDGYKLYHHDADHNEHNHQCQYCTVYGDLVMPPVFGVAEVFDRVQVRL  120
+
+Query  71   VAYQQAFRHVYFALQRLFLLPQGRAPP  97
+            +A++QAF+HVYFALQ+L+L+PQGRAPP
+Sbjct  121  IAFEQAFKHVYFALQKLYLMPQGRAPP  147
+
+
+>WP_016654751.1 DUF2946 domain-containing protein [Acinetobacter rudis]
+Length=149
+
+ Score = 111 bits (277),  Expect = 2e-029, Method: Compositional matrix adjust.
+ Identities = 49/67 (73%), Positives = 57/67 (85%), Gaps = 0/67 (0%)
+
+Query  33   HDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQ  92
+            HDHHD +HQCQYCTVY NLVLPPE  +  V+ RIQ+RL++ Q+A RHVYF LQRLFL+PQ
+Sbjct  82   HDHHDPSHQCQYCTVYGNLVLPPEVDLNVVIDRIQIRLISLQKALRHVYFELQRLFLIPQ  141
+
+Query  93   GRAPPLF  99
+            GRAPPLF
+Sbjct  142  GRAPPLF  148
+
+
+>WP_081409210.1 DUF2946 domain-containing protein [Acinetobacter qingfengensis]
+Length=149
+
+ Score = 108 bits (269),  Expect = 3e-028, Method: Compositional matrix adjust.
+ Identities = 52/84 (62%), Positives = 62/84 (74%), Gaps = 1/84 (1%)
+
+Query  14   AMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAY  73
+            + H  HH   I  AQ    H+HH   HQCQYCTVYA+LVLPPE G+KEVL RIQ+RL+ +
+Sbjct  62   SAHEHHHAQSITDAQ-SSTHEHHSLGHQCQYCTVYAHLVLPPELGIKEVLERIQIRLLFF  120
+
+Query  74   QQAFRHVYFALQRLFLLPQGRAPP  97
+            ++   +VYF LQRLFLLPQGRAPP
+Sbjct  121  KRQLNYVYFVLQRLFLLPQGRAPP  144
+
+
+>WP_026438527.1 hypothetical protein [Acinetobacter towneri]
+Length=144
+
+ Score = 107 bits (266),  Expect = 9e-028, Method: Compositional matrix adjust.
+ Identities = 50/64 (78%), Positives = 58/64 (91%), Gaps = 0/64 (0%)
+
+Query  37   DANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAP  96
+            DA+HQCQYCTVY NLVLPPE  +KEVL RIQVRL+A+Q+ F+HV+FALQ+LFLLPQGRAP
+Sbjct  81   DASHQCQYCTVYGNLVLPPELELKEVLDRIQVRLLAFQKRFQHVWFALQQLFLLPQGRAP  140
+
+Query  97   PLFA  100
+            P FA
+Sbjct  141  PHFA  144
+
+
+>WP_039622218.1 hypothetical protein [Acinetobacter harbinensis]
+Length=144
+
+ Score = 106 bits (264),  Expect = 2e-027, Method: Compositional matrix adjust.
+ Identities = 52/100 (52%), Positives = 65/100 (65%), Gaps = 2/100 (2%)
+
+Query  1    MLKPKAQTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDA--NHQCQYCTVYANLVLPPEFG  58
+            ++ P +QT       H S       Q     +H H D   NHQCQYCTVY +LV+PP+FG
+Sbjct  43   LIAPSSQTVNSVALKHESTEHLDFLQDYFSYNHHHTDDGYNHQCQYCTVYGDLVMPPDFG  102
+
+Query  59   VKEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPL  98
+            ++EV  RIQVRL A+ + F+HVYF LQRLFL+PQGRAPP 
+Sbjct  103  IQEVFDRIQVRLFAFVKTFKHVYFELQRLFLIPQGRAPPF  142
+
+
+>WP_000242853.1 MULTISPECIES: DUF2946 domain-containing protein [Acinetobacter]
+Length=155
+
+ Score = 105 bits (262),  Expect = 5e-027, Method: Compositional matrix adjust.
+ Identities = 52/92 (57%), Positives = 69/92 (75%), Gaps = 10/92 (11%)
+
+Query  7    QTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRI  66
+             TE ++HA        H+EQ     HH  HDANHQCQYC VYA++V  P+ GVKEV+VRI
+Sbjct  70   DTEKLNHA--------HLEQKTSSSHH--HDANHQCQYCVVYAHVVPLPDMGVKEVVVRI  119
+
+Query  67   QVRLVAYQQAFRHVYFALQRLFLLPQGRAPPL  98
+            QVRL+A+++AF H++F L++LFL+PQGRAPP+
+Sbjct  120  QVRLLAFKEAFFHIFFLLKQLFLIPQGRAPPV  151
+
+
+>WP_086176455.1 DUF2946 domain-containing protein [Acinetobacter sp. ANC 3903]
+Length=141
+
+ Score = 103 bits (258),  Expect = 1e-026, Method: Compositional matrix adjust.
+ Identities = 48/60 (80%), Positives = 53/60 (88%), Gaps = 0/60 (0%)
+
+Query  41   QCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            QCQYCTVY NLVLPPE  VKEVL RIQVRL+A+Q+ F HV+F LQRLFL+PQGRAPPLFA
+Sbjct  82   QCQYCTVYGNLVLPPELEVKEVLDRIQVRLLAFQKTFGHVWFVLQRLFLIPQGRAPPLFA  141
+
+
+>WP_078192109.1 DUF2946 domain-containing protein [Acinetobacter sp. ANC 5600]
+Length=155
+
+ Score = 104 bits (259),  Expect = 1e-026, Method: Compositional matrix adjust.
+ Identities = 51/91 (56%), Positives = 70/91 (77%), Gaps = 10/91 (11%)
+
+Query  8    TEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQ  67
+            TE ++HA        H++Q  +  HH  HDANHQCQYC VYA++V  P+ GVKEV+VRIQ
+Sbjct  71   TEKLNHA--------HLKQKTLSSHH--HDANHQCQYCVVYAHVVPLPDMGVKEVVVRIQ  120
+
+Query  68   VRLVAYQQAFRHVYFALQRLFLLPQGRAPPL  98
+            VRL+A+++AF H++F L++LFL+PQGRAPP+
+Sbjct  121  VRLLAFKEAFFHIFFLLKQLFLIPQGRAPPV  151
+
+
+>WP_086195134.1 DUF2946 domain-containing protein [Acinetobacter sp. ANC 4218]
+Length=135
+
+ Score = 103 bits (257),  Expect = 1e-026, Method: Compositional matrix adjust.
+ Identities = 50/71 (70%), Positives = 57/71 (80%), Gaps = 1/71 (1%)
+
+Query  29   VPDH-HDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQQAFRHVYFALQRL  87
+            +P H  DHH  NHQCQYCTVY +LVLP + G+ EVL RIQVRL  YQ  FRHVYF+LQ+L
+Sbjct  63   IPQHSQDHHQHNHQCQYCTVYGDLVLPFKLGIDEVLDRIQVRLNFYQSFFRHVYFSLQKL  122
+
+Query  88   FLLPQGRAPPL  98
+            +LLPQGRAPPL
+Sbjct  123  YLLPQGRAPPL  133
+
+
+>WP_086194842.1 DUF2946 domain-containing protein [Acinetobacter sp. ANC 4655]
+Length=136
+
+ Score = 103 bits (256),  Expect = 2e-026, Method: Compositional matrix adjust.
+ Identities = 53/85 (62%), Positives = 65/85 (76%), Gaps = 2/85 (2%)
+
+Query  16   HHSHHQHH-IEQAQVPDH-HDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAY  73
+            HH+H  +H + Q  +  H HDH+  NHQCQYCTVY +LVLP + G+ EVL RIQVRL  Y
+Sbjct  50   HHAHSVYHELLQDLILQHSHDHNQHNHQCQYCTVYGDLVLPFKLGIDEVLNRIQVRLNFY  109
+
+Query  74   QQAFRHVYFALQRLFLLPQGRAPPL  98
+            Q  F+HVYF+LQ+L+LLPQGRAPPL
+Sbjct  110  QTVFQHVYFSLQKLYLLPQGRAPPL  134
+
+
+>WP_086197096.1 DUF2946 domain-containing protein [Acinetobacter sp. ANC 4218]
+Length=136
+
+ Score = 103 bits (256),  Expect = 2e-026, Method: Compositional matrix adjust.
+ Identities = 48/66 (73%), Positives = 55/66 (83%), Gaps = 0/66 (0%)
+
+Query  33   HDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQ  92
+            HDH+  NHQCQYCTVY +LVLP + G+ EVL RIQVRL  YQ  FRHVYF+LQ+L+LLPQ
+Sbjct  69   HDHNQHNHQCQYCTVYGDLVLPFKLGIDEVLDRIQVRLNFYQPVFRHVYFSLQKLYLLPQ  128
+
+Query  93   GRAPPL  98
+            GRAPPL
+Sbjct  129  GRAPPL  134
+
+
+>WP_081402496.1 DUF2946 domain-containing protein [Acinetobacter towneri]
+Length=136
+
+ Score = 102 bits (255),  Expect = 2e-026, Method: Compositional matrix adjust.
+ Identities = 49/71 (69%), Positives = 57/71 (80%), Gaps = 1/71 (1%)
+
+Query  29   VPDH-HDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQQAFRHVYFALQRL  87
+            +P H HDH+  NHQCQYCTVY +LVLP + G+ EVL RIQVRL  YQ  FRHVYF+LQ+L
+Sbjct  64   IPQHSHDHNKHNHQCQYCTVYGDLVLPFKLGIDEVLDRIQVRLNFYQSFFRHVYFSLQKL  123
+
+Query  88   FLLPQGRAPPL  98
+            + LPQGRAPPL
+Sbjct  124  YFLPQGRAPPL  134
+
+
+>WP_081401333.1 DUF2946 domain-containing protein [Acinetobacter tandoii]
+Length=136
+
+ Score = 102 bits (255),  Expect = 3e-026, Method: Compositional matrix adjust.
+ Identities = 47/66 (71%), Positives = 55/66 (83%), Gaps = 0/66 (0%)
+
+Query  33   HDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQ  92
+            HDH++ NHQCQYC VY +LVLP + G+ EVL RIQVRL  YQ  FRHVYF+LQ+L+LLPQ
+Sbjct  69   HDHNEHNHQCQYCKVYGDLVLPFKLGIDEVLDRIQVRLNFYQTVFRHVYFSLQKLYLLPQ  128
+
+Query  93   GRAPPL  98
+            GRAPPL
+Sbjct  129  GRAPPL  134
+
+
+>WP_004827113.1 MULTISPECIES: DUF2946 domain-containing protein [Acinetobacter]
+Length=155
+
+ Score = 102 bits (255),  Expect = 5e-026, Method: Compositional matrix adjust.
+ Identities = 51/91 (56%), Positives = 67/91 (74%), Gaps = 10/91 (11%)
+
+Query  8    TEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQ  67
+            TE ++HA        H+EQ     HH  HDANHQCQYC VYA++V  P+  VKE+LVR+Q
+Sbjct  71   TEKLNHA--------HLEQKTSSSHH--HDANHQCQYCVVYAHVVPLPDIRVKEILVRVQ  120
+
+Query  68   VRLVAYQQAFRHVYFALQRLFLLPQGRAPPL  98
+            VRL+A+++AF H++F L +LFL+PQGRAPPL
+Sbjct  121  VRLLAFKEAFFHIFFILNQLFLIPQGRAPPL  151
+
+
+>WP_029574393.1 DUF2946 domain-containing protein [Acinetobacter sp. P8-3-8]
+Length=155
+
+ Score = 102 bits (255),  Expect = 6e-026, Method: Compositional matrix adjust.
+ Identities = 44/66 (67%), Positives = 55/66 (83%), Gaps = 0/66 (0%)
+
+Query  35   HHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGR  94
+            HHD NHQC YCT Y +L++PPE GV+E LVRIQVRL+ + + F+H+YF LQRL+L+PQGR
+Sbjct  90   HHDPNHQCPYCTFYGHLIMPPELGVQEALVRIQVRLLTFVENFQHIYFQLQRLYLIPQGR  149
+
+Query  95   APPLFA  100
+            APP FA
+Sbjct  150  APPSFA  155
+
+
+>WP_002009562.1 DUF2946 domain-containing protein [Acinetobacter baumannii]
+Length=155
+
+ Score = 102 bits (254),  Expect = 7e-026, Method: Compositional matrix adjust.
+ Identities = 51/92 (55%), Positives = 68/92 (74%), Gaps = 10/92 (11%)
+
+Query  7    QTEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRI  66
+             TE ++HA        H+EQ     HH  HDANHQCQYC VYA++V  P+ GVKEV+V I
+Sbjct  70   DTEKLNHA--------HLEQKTSSSHH--HDANHQCQYCVVYAHVVPLPDMGVKEVVVII  119
+
+Query  67   QVRLVAYQQAFRHVYFALQRLFLLPQGRAPPL  98
+            QVRL+A+++AF H++F L++LFL+PQGRAPP+
+Sbjct  120  QVRLLAFKEAFFHIFFLLKQLFLIPQGRAPPV  151
+
+
+>WP_078193302.1 DUF2946 domain-containing protein [Acinetobacter sp. ANC 5600]
+Length=137
+
+ Score = 101 bits (252),  Expect = 8e-026, Method: Compositional matrix adjust.
+ Identities = 49/89 (55%), Positives = 63/89 (71%), Gaps = 8/89 (9%)
+
+Query  9    EAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQV  68
+            E  +  +HH  H H        +H DH+  NHQCQYCTVY ++VLP +F + E++ +IQV
+Sbjct  54   ETYNELVHHLTHDH--------NHDDHNGHNHQCQYCTVYGDVVLPFDFEIVEIIDKIQV  105
+
+Query  69   RLVAYQQAFRHVYFALQRLFLLPQGRAPP  97
+            RL  Y+ AFRHVYF+LQRL+LLPQGRAPP
+Sbjct  106  RLSFYKDAFRHVYFSLQRLYLLPQGRAPP  134
+
+
+>WP_086209445.1 DUF2946 domain-containing protein [Acinetobacter sp. ANC 4204]
+Length=155
+
+ Score = 102 bits (253),  Expect = 1e-025, Method: Compositional matrix adjust.
+ Identities = 50/91 (55%), Positives = 69/91 (76%), Gaps = 10/91 (11%)
+
+Query  8    TEAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQ  67
+            TE ++HA        +++Q     HH  HDANHQCQYC VYA++V  P+ GVKEV+VRIQ
+Sbjct  71   TEKLNHA--------YLKQKSSSSHH--HDANHQCQYCVVYAHVVPLPDMGVKEVVVRIQ  120
+
+Query  68   VRLVAYQQAFRHVYFALQRLFLLPQGRAPPL  98
+            VRL+A+++AF H++F L++LFL+PQGRAPP+
+Sbjct  121  VRLLAFKEAFFHIFFLLKQLFLIPQGRAPPV  151
+
+
+>WP_058952317.1 DUF2946 domain-containing protein [Acinetobacter johnsonii]
+Length=155
+
+ Score = 101 bits (252),  Expect = 1e-025, Method: Compositional matrix adjust.
+ Identities = 48/90 (53%), Positives = 65/90 (72%), Gaps = 0/90 (0%)
+
+Query  9    EAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQV  68
+            + +  A H     +H    Q      HHDANHQCQYC VYA++V  P+ GVKEV+VRIQV
+Sbjct  62   QELGLANHDIEKLNHANLEQKTSSSHHHDANHQCQYCVVYAHVVPLPDMGVKEVVVRIQV  121
+
+Query  69   RLVAYQQAFRHVYFALQRLFLLPQGRAPPL  98
+            RL+A+++AF H++F L++LFL+PQGRAPP+
+Sbjct  122  RLLAFKEAFFHIFFLLKQLFLIPQGRAPPV  151
+
+
+>WP_074947815.1 DUF2946 domain-containing protein [Acinetobacter bohemicus]
+Length=136
+
+ Score = 100 bits (250),  Expect = 1e-025, Method: Compositional matrix adjust.
+ Identities = 52/85 (61%), Positives = 64/85 (75%), Gaps = 2/85 (2%)
+
+Query  16   HHSHHQHH-IEQAQVPDH-HDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAY  73
+            HH+H  +H + Q  +  H HDH+  NHQCQYCTVY +LVLP + G+ EVL RIQVRL  Y
+Sbjct  50   HHTHSVYHELLQDLILQHSHDHNQHNHQCQYCTVYGDLVLPFKLGIDEVLNRIQVRLNFY  109
+
+Query  74   QQAFRHVYFALQRLFLLPQGRAPPL  98
+               F+HVYF+LQ+L+LLPQGRAPPL
+Sbjct  110  PTVFQHVYFSLQKLYLLPQGRAPPL  134
+
+
+>WP_067665599.1 DUF2946 domain-containing protein [Acinetobacter sp. ANC 4149]
+Length=155
+
+ Score = 101 bits (251),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 48/90 (53%), Positives = 65/90 (72%), Gaps = 0/90 (0%)
+
+Query  9    EAMSHAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQV  68
+            + +  A H +   +H    Q      HHDANHQCQYC VYA++V  P  GVKEV+VRIQV
+Sbjct  62   QELGLANHDTEKLNHAYLKQKASSSHHHDANHQCQYCVVYAHVVPLPGMGVKEVVVRIQV  121
+
+Query  69   RLVAYQQAFRHVYFALQRLFLLPQGRAPPL  98
+            RL+A+++AF H++F L++LFL+PQGRAPP+
+Sbjct  122  RLLAFKEAFFHIFFLLKQLFLIPQGRAPPV  151
+
+
+>WP_004753569.1 DUF2946 domain-containing protein [Acinetobacter sp. ANC 3789]
+Length=132
+
+ Score = 99.8 bits (247),  Expect = 4e-025, Method: Compositional matrix adjust.
+ Identities = 48/86 (56%), Positives = 60/86 (70%), Gaps = 1/86 (1%)
+
+Query  15   MHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQ  74
+            M H    H    A V D H  HD NH+C YC VY ++V   +  +KEV  R+QVRL+A+Q
+Sbjct  48   MSHMQGMHMSSHASVHDKH-QHDPNHECLYCKVYGHMVAFLDLEIKEVFERLQVRLIAFQ  106
+
+Query  75   QAFRHVYFALQRLFLLPQGRAPPLFA  100
+            +AF+H+YF LQRLFL+PQGRAPPLFA
+Sbjct  107  KAFKHIYFVLQRLFLIPQGRAPPLFA  132
+
+
+>WP_023273118.1 DUF2946 domain-containing protein [Acinetobacter nectaris]
+Length=138
+
+ Score = 98.6 bits (244),  Expect = 1e-024, Method: Compositional matrix adjust.
+ Identities = 48/95 (51%), Positives = 68/95 (72%), Gaps = 5/95 (5%)
+
+Query  7    QTEAMS-HAMHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVR  65
+            Q++ MS H MH S   H +E  Q    + HHDA+HQC +CTVY +++   + G+ EV  R
+Sbjct  48   QSDNMSDHHMHMSTSMHMVETHQ----NSHHDASHQCPFCTVYNHIIPFVDLGIDEVFDR  103
+
+Query  66   IQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            +++RL+A+ +AF+H+YF LQRLFL+PQGRAPPLF 
+Sbjct  104  LKIRLLAFARAFQHIYFVLQRLFLIPQGRAPPLFT  138
+
+
+>WP_086194907.1 DUF2946 domain-containing protein [Acinetobacter sp. ANC 4218]
+Length=154
+
+ Score = 99.0 bits (245),  Expect = 1e-024, Method: Compositional matrix adjust.
+ Identities = 46/76 (61%), Positives = 60/76 (79%), Gaps = 2/76 (3%)
+
+Query  23   HIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQQAFRHVYF  82
+            H+EQ     HH  HD NHQCQYC VYA++V  P+ GVKEVLVRIQVR +A+++A+ H++F
+Sbjct  77   HLEQKTSYSHH--HDTNHQCQYCVVYAHVVPLPDIGVKEVLVRIQVRFLAFKEAYFHIFF  134
+
+Query  83   ALQRLFLLPQGRAPPL  98
+             L++LFL+PQGRAPP 
+Sbjct  135  LLKQLFLIPQGRAPPF  150
+
+
+>WP_004903545.1 DUF2946 domain-containing protein [Acinetobacter brisouii]
+Length=134
+
+ Score = 97.8 bits (242),  Expect = 3e-024, Method: Compositional matrix adjust.
+ Identities = 50/91 (55%), Positives = 62/91 (68%), Gaps = 2/91 (2%)
+
+Query  11   MSHA-MHHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVR  69
+            MS A M H    H      V D H  HD NH+C YC VY ++V   +  +KEV  R+QVR
+Sbjct  45   MSMADMSHMQGMHMSSHVSVHDKH-QHDPNHECLYCKVYGHVVAFLDLEIKEVFERLQVR  103
+
+Query  70   LVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            L+A+Q+AF+H+YF LQRLFL+PQGRAPPLFA
+Sbjct  104  LIAFQKAFKHIYFVLQRLFLIPQGRAPPLFA  134
+
+
+>WP_080755340.1 hypothetical protein [Acinetobacter junii]
+Length=143
+
+ Score = 97.4 bits (241),  Expect = 4e-024, Method: Compositional matrix adjust.
+ Identities = 46/87 (53%), Positives = 57/87 (66%), Gaps = 2/87 (2%)
+
+Query  14   AMHHSHHQHHIEQAQVPDHHD--HHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLV  71
+             +H  HH  H++Q Q   H D  HHD NHQC +C  Y +LV PP  G+KEV VR+QVR +
+Sbjct  49   VLHTDHHSLHLDQPQADSHSDQHHHDLNHQCPFCFFYGHLVAPPTLGIKEVFVRVQVRYL  108
+
+Query  72   AYQQAFRHVYFALQRLFLLPQGRAPPL  98
+               Q F   +F+LQRLFL+PQGRAPP 
+Sbjct  109  HLYQVFIGFFFSLQRLFLIPQGRAPPF  135
+
+
+>WP_004912628.1 DUF2946 domain-containing protein [Acinetobacter junii]
+Length=143
+
+ Score = 97.4 bits (241),  Expect = 4e-024, Method: Compositional matrix adjust.
+ Identities = 46/86 (53%), Positives = 57/86 (66%), Gaps = 2/86 (2%)
+
+Query  14   AMHHSHHQHHIEQAQVPDHHD--HHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLV  71
+             +H  HH  H++Q Q   H D  HHD NHQC +C  Y +LV PP  G+KEV VR+QVR +
+Sbjct  49   VLHTDHHSLHLDQPQADSHSDQIHHDLNHQCPFCFFYGHLVAPPTLGIKEVFVRVQVRYL  108
+
+Query  72   AYQQAFRHVYFALQRLFLLPQGRAPP  97
+               Q F   +F+LQRLFL+PQGRAPP
+Sbjct  109  HLYQVFIGFFFSLQRLFLIPQGRAPP  134
+
+
+>WP_004956199.1 DUF2946 domain-containing protein [Acinetobacter junii]
+Length=143
+
+ Score = 97.4 bits (241),  Expect = 5e-024, Method: Compositional matrix adjust.
+ Identities = 46/86 (53%), Positives = 57/86 (66%), Gaps = 2/86 (2%)
+
+Query  14   AMHHSHHQHHIEQAQVPDHHD--HHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLV  71
+             +H  HH  H++Q Q   H D  HHD NHQC +C  Y +LV PP  G+KEV VR+QVR +
+Sbjct  49   VLHTDHHSLHLDQPQADSHSDQHHHDLNHQCPFCFFYGHLVAPPTLGIKEVFVRVQVRYL  108
+
+Query  72   AYQQAFRHVYFALQRLFLLPQGRAPP  97
+               Q F   +F+LQRLFL+PQGRAPP
+Sbjct  109  HLYQVFIGFFFSLQRLFLIPQGRAPP  134
+
+
+>WP_045793975.1 DUF2946 domain-containing protein [Acinetobacter brisouii]
+Length=134
+
+ Score = 97.1 bits (240),  Expect = 5e-024, Method: Compositional matrix adjust.
+ Identities = 47/84 (56%), Positives = 60/84 (71%), Gaps = 1/84 (1%)
+
+Query  18   SHHQHHIEQAQVPDHHDH-HDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQQA  76
+            SH Q     + V  H  H HD NH+C YC VY ++V   +  +KEV  R+QVRL+A+Q+A
+Sbjct  51   SHMQDMHMSSHVSAHDKHQHDQNHECLYCKVYGHVVAFLDLEIKEVFERLQVRLIAFQKA  110
+
+Query  77   FRHVYFALQRLFLLPQGRAPPLFA  100
+            F+H+YF LQRLFL+PQGRAPPLFA
+Sbjct  111  FKHIYFVLQRLFLIPQGRAPPLFA  134
+
+
+>WP_081378483.1 hypothetical protein [Acinetobacter junii]
+Length=143
+
+ Score = 97.1 bits (240),  Expect = 6e-024, Method: Compositional matrix adjust.
+ Identities = 46/86 (53%), Positives = 57/86 (66%), Gaps = 2/86 (2%)
+
+Query  14   AMHHSHHQHHIEQAQVPDHHD--HHDANHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLV  71
+             +H  HH  H++Q Q   H D  HHD NHQC +C  Y +LV PP  G+KEV VR+QVR +
+Sbjct  49   VLHTDHHSLHLDQPQANSHSDQHHHDLNHQCPFCFFYGHLVAPPTLGIKEVFVRVQVRYL  108
+
+Query  72   AYQQAFRHVYFALQRLFLLPQGRAPP  97
+               Q F   +F+LQRLFL+PQGRAPP
+Sbjct  109  HLYQVFIGFFFSLQRLFLIPQGRAPP  134
+
+
+>WP_042069139.1 hypothetical protein [Acinetobacter tandoii]
+Length=127
+
+ Score = 96.3 bits (238),  Expect = 8e-024, Method: Compositional matrix adjust.
+ Identities = 50/98 (51%), Positives = 67/98 (68%), Gaps = 4/98 (4%)
+
+Query  6    AQTEAMSHAMHHSHHQ--HHIEQAQV-PDHHDHHDANHQCQYCTVYANLVLPPEFGVKEV  62
+             QT+A     HH+H +  H ++  Q  P  H HH  +H C +CTVY +LV     G++EV
+Sbjct  31   VQTKATQQTSHHAHAESMHDLQNMQNQPSQHQHH-LDHHCIFCTVYGHLVAHLNLGIQEV  89
+
+Query  63   LVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+              R+QVR++A+Q+AF+HV+F LQRLFL PQGRAPPLFA
+Sbjct  90   FTRMQVRMLAFQKAFKHVFFVLQRLFLTPQGRAPPLFA  127
+
+
+>WP_031959690.1 MULTISPECIES: DUF2946 domain-containing protein [Acinetobacter 
+calcoaceticus/baumannii complex]
+Length=148
+
+ Score = 96.3 bits (238),  Expect = 1e-023, Method: Compositional matrix adjust.
+ Identities = 46/92 (50%), Positives = 64/92 (70%), Gaps = 1/92 (1%)
+
+Query  8    TEAMSHAM-HHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRI  66
+            T    H+M HH  H  H   + +   H HHDA HQCQYC VY+++V  P+  +K++L+RI
+Sbjct  57   TSQQPHSMSHHMQHAAHASSSDITASHHHHDAGHQCQYCVVYSHVVPLPDIDLKQILIRI  116
+
+Query  67   QVRLVAYQQAFRHVYFALQRLFLLPQGRAPPL  98
+            QVR +A+ + + HV+F LQ+LFL+PQGRAPPL
+Sbjct  117  QVRFLAFIENYFHVFFQLQQLFLIPQGRAPPL  148
+
+
+>WP_086399735.1 DUF2946 domain-containing protein [Acinetobacter pittii]
+Length=148
+
+ Score = 95.9 bits (237),  Expect = 2e-023, Method: Compositional matrix adjust.
+ Identities = 45/92 (49%), Positives = 64/92 (70%), Gaps = 1/92 (1%)
+
+Query  8    TEAMSHAM-HHSHHQHHIEQAQVPDHHDHHDANHQCQYCTVYANLVLPPEFGVKEVLVRI  66
+            T    H+M HH  H  H   + +   H HHDA HQCQYC VY+++V  P+  +K++L+RI
+Sbjct  57   TSQQPHSMSHHMQHAAHASSSDITASHHHHDAGHQCQYCVVYSHVVPLPDIDLKQILIRI  116
+
+Query  67   QVRLVAYQQAFRHVYFALQRLFLLPQGRAPPL  98
+            QVR +A+ + + H++F LQ+LFL+PQGRAPPL
+Sbjct  117  QVRFLAFIENYFHIFFQLQQLFLIPQGRAPPL  148
+
+
+>WP_035268903.1 hypothetical protein [Acinetobacter sp. Ver3]
+Length=138
+
+ Score = 95.5 bits (236),  Expect = 2e-023, Method: Compositional matrix adjust.
+ Identities = 42/60 (70%), Positives = 52/60 (87%), Gaps = 0/60 (0%)
+
+Query  39   NHQCQYCTVYANLVLPPEFGVKEVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPL  98
+            NHQCQYC VY ++VLP +F + E++ RIQVRL +YQ AFRHVYF+L+RL+LLPQGRAPPL
+Sbjct  77   NHQCQYCKVYGDVVLPFDFNLHEIIDRIQVRLTSYQDAFRHVYFSLKRLYLLPQGRAPPL  136
+
+
+>WP_031975204.1 MULTISPECIES: DUF2946 domain-containing protein [Acinetobacter 
+calcoaceticus/baumannii complex]
+Length=136
+
+ Score = 95.5 bits (236),  Expect = 2e-023, Method: Compositional matrix adjust.
+ Identities = 49/100 (49%), Positives = 65/100 (65%), Gaps = 7/100 (7%)
+
+Query  8    TEAMSHAMHH------SHHQHHIEQAQVPDHHDH-HDANHQCQYCTVYANLVLPPEFGVK  60
+            T A  H  HH       HH  H +Q    +   H HD  H+C +CTV+ANL    +F +K
+Sbjct  37   TAAQQHNSHHLSDHSDRHHMMHEDQKIYKEQSAHQHDIGHECPFCTVFANLTTGLDFSLK  96
+
+Query  61   EVLVRIQVRLVAYQQAFRHVYFALQRLFLLPQGRAPPLFA  100
+            EV  R+ VR++A+++ F+H+YFALQRL+LLPQGRAPPLFA
+Sbjct  97   EVFDRLYVRMLAFERNFQHIYFALQRLYLLPQGRAPPLFA  136
+
+
+
+Lambda      K        H
+   0.328    0.136    0.438 
+
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+
+Effective search space used: 770107776960
+
+
+  Database: NCBI Protein Reference Sequences
+    Posted date:  May 29, 2017 12:00 AM
+  Number of letters in database: 31,412,196,622
+  Number of sequences in database:  82,027,677
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40

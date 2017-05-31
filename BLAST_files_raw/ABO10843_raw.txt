@@ -1,0 +1,69 @@
+BLASTP 2.6.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: NCBI Protein Reference Sequences
+           82,027,677 sequences; 31,412,196,622 total letters
+
+
+
+Query= embl-cds:ABO10843 putative Zinc-binding protein OS=Acinetobacter
+baumannii (strain ATCC 17978 / CIP 53.77 / LMG 1025 / NCDC KC755 /
+5377) GN=A1S_0384 SV=1 UP=UP000006737:Chromosome
+
+Length=32
+
+RID: JVHFF93F014
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+WP_068430720.1  carbonic anhydrase [Rhodococcus kyotonensis]          32.0    7.3  
+
+
+>WP_068430720.1 carbonic anhydrase [Rhodococcus kyotonensis]
+Length=749
+
+ Score = 32.0 bits (71),  Expect = 7.3, Method: Composition-based stats.
+ Identities = 14/25 (56%), Positives = 17/25 (68%), Gaps = 0/25 (0%)
+
+Query  5    EQNGRNSLPSQTLGSPQRGQGNVRG  29
+            E+NG  SL + T G P+RG G VRG
+Sbjct  493  EENGSASLAAATEGPPKRGLGAVRG  517
+
+
+
+Lambda      K        H
+   0.306    0.125    0.343 
+
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+
+Effective search space used: 770950072075
+
+
+  Database: NCBI Protein Reference Sequences
+    Posted date:  May 29, 2017 12:00 AM
+  Number of letters in database: 31,412,196,622
+  Number of sequences in database:  82,027,677
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40

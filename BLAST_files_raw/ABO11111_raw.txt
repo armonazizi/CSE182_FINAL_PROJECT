@@ -1,0 +1,69 @@
+BLASTP 2.6.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: NCBI Protein Reference Sequences
+           82,027,677 sequences; 31,412,196,622 total letters
+
+
+
+Query= embl-cds:ABO11111 phage integrase family protein OS=Acinetobacter
+baumannii (strain ATCC 17978 / CIP 53.77 / LMG 1025 / NCDC KC755 /
+5377) GN=A1S_0662 SV=1 UP=UP000006737:Chromosome
+
+Length=38
+
+RID: JUUM88MY015
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+WP_079495600.1  hypothetical protein [Maledivibacter halophilus]      32.0    9.1  
+
+
+>WP_079495600.1 hypothetical protein [Maledivibacter halophilus]
+Length=250
+
+ Score = 32.0 bits (71),  Expect = 9.1, Method: Composition-based stats.
+ Identities = 10/16 (63%), Positives = 13/16 (81%), Gaps = 0/16 (0%)
+
+Query  4    TAFHPLLWNRPQRFAE  19
+            T FHPL+W+RP+ F E
+Sbjct  226  TGFHPLMWSRPEDFRE  241
+
+
+
+Lambda      K        H
+   0.330    0.140    0.462 
+
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+
+Effective search space used: 791124476948
+
+
+  Database: NCBI Protein Reference Sequences
+    Posted date:  May 29, 2017 12:00 AM
+  Number of letters in database: 31,412,196,622
+  Number of sequences in database:  82,027,677
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40

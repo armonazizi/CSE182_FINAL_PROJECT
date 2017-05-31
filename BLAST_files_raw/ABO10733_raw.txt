@@ -1,0 +1,3321 @@
+BLASTP 2.6.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: NCBI Protein Reference Sequences
+           82,027,677 sequences; 31,412,196,622 total letters
+
+
+
+Query= embl-cds:ABO10733 argininosuccinate lyase OS=Acinetobacter baumannii
+(strain ATCC 17978 / CIP 53.77 / LMG 1025 / NCDC KC755 / 5377)
+GN=A1S_0258 SV=1 UP=UP000006737:Chromosome
+
+Length=37
+
+RID: JUEBHHSW014
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+WP_032064931.1  argininosuccinate lyase [Acinetobacter baumannii]     77.4    2e-016
+WP_079695529.1  argininosuccinate lyase [Acinetobacter baumannii]     77.4    3e-016
+WP_042790420.1  argininosuccinate lyase [Acinetobacter baumannii]     77.0    9e-016
+WP_030425109.1  argininosuccinate lyase [Acinetobacter baumannii]     76.6    1e-015
+WP_031968083.1  argininosuccinate lyase [Acinetobacter baumannii]     77.0    1e-015
+WP_031952716.1  argininosuccinate lyase [Acinetobacter baumannii]     77.0    1e-015
+WP_032008284.1  argininosuccinate lyase [Acinetobacter baumannii]     77.0    1e-015
+WP_032034520.1  argininosuccinate lyase [Acinetobacter baumannii]     77.0    1e-015
+WP_000213738.1  argininosuccinate lyase [Acinetobacter baumannii]     77.0    1e-015
+WP_000213740.1  MULTISPECIES: argininosuccinate lyase [Acinetobac...  77.0    1e-015
+WP_031976300.1  argininosuccinate lyase [Acinetobacter baumannii]     77.0    1e-015
+WP_032011632.1  argininosuccinate lyase [Acinetobacter sp. 1179249]   77.0    1e-015
+WP_057078040.1  argininosuccinate lyase [Acinetobacter baumannii]     77.0    1e-015
+WP_056484307.1  argininosuccinate lyase [Acinetobacter sp. Leaf130]   77.0    1e-015
+WP_032010055.1  argininosuccinate lyase [Acinetobacter baumannii]     77.0    1e-015
+WP_003654474.1  argininosuccinate lyase [Acinetobacter calcoaceti...  77.0    1e-015
+WP_031959066.1  argininosuccinate lyase [Acinetobacter baumannii]     77.0    1e-015
+WP_017390008.1  argininosuccinate lyase [Acinetobacter calcoaceti...  77.0    1e-015
+WP_000213739.1  argininosuccinate lyase [Acinetobacter baumannii]     77.0    1e-015
+WP_000213742.1  argininosuccinate lyase [Acinetobacter baumannii]     77.0    1e-015
+WP_065709503.1  argininosuccinate lyase [Acinetobacter baumannii]     77.0    1e-015
+WP_038405423.1  argininosuccinate lyase [Acinetobacter baumannii]     77.0    1e-015
+WP_031994485.1  argininosuccinate lyase [Acinetobacter baumannii]     77.0    1e-015
+WP_033846935.1  MULTISPECIES: argininosuccinate lyase [Acinetobac...  77.0    1e-015
+WP_021510869.1  MULTISPECIES: argininosuccinate lyase [Acinetobac...  77.0    1e-015
+WP_057050510.1  argininosuccinate lyase [Acinetobacter baumannii]     76.6    1e-015
+WP_006581161.1  MULTISPECIES: argininosuccinate lyase [Acinetobac...  76.6    1e-015
+WP_002053189.1  MULTISPECIES: argininosuccinate lyase [Acinetobac...  76.6    1e-015
+WP_071243519.1  argininosuccinate lyase [Acinetobacter baumannii]     76.6    1e-015
+WP_062936991.1  argininosuccinate lyase [Acinetobacter baumannii]     76.6    1e-015
+WP_031992183.1  argininosuccinate lyase [Acinetobacter baumannii]     76.6    1e-015
+WP_032067202.1  argininosuccinate lyase [Acinetobacter baumannii]     76.6    1e-015
+WP_017393531.1  argininosuccinate lyase [Acinetobacter nosocomialis]  76.6    1e-015
+WP_086261416.1  argininosuccinate lyase [Acinetobacter baumannii]     76.6    1e-015
+WP_032043487.1  argininosuccinate lyase [Acinetobacter baumannii]     76.6    1e-015
+WP_031954139.1  argininosuccinate lyase [Acinetobacter baumannii]     75.9    3e-015
+WP_000213741.1  argininosuccinate lyase [Acinetobacter baumannii]     75.5    4e-015
+WP_026057471.1  MULTISPECIES: argininosuccinate lyase [Acinetobac...  74.7    6e-015
+WP_032882572.1  argininosuccinate lyase [Acinetobacter sp. CIP 11...  74.7    7e-015
+WP_032862710.1  argininosuccinate lyase [Acinetobacter sp. NIPH 2...  74.7    7e-015
+WP_016540824.1  argininosuccinate lyase [Acinetobacter gyllenbergii]  74.7    7e-015
+WP_078197337.1  argininosuccinate lyase [Acinetobacter baumannii]     74.7    7e-015
+WP_065344212.1  argininosuccinate lyase [Acinetobacter gyllenbergii]  74.7    7e-015
+WP_034590825.1  argininosuccinate lyase [Acinetobacter sp. NIPH 542]  74.7    7e-015
+WP_032859170.1  argininosuccinate lyase [Acinetobacter sp. ANC 3880]  74.7    7e-015
+WP_032055606.1  argininosuccinate lyase [Acinetobacter baumannii]     74.7    7e-015
+WP_064785114.1  argininosuccinate lyase [Acinetobacter calcoaceti...  74.7    7e-015
+WP_032878335.1  argininosuccinate lyase [Acinetobacter sp. ANC 3929]  74.7    7e-015
+WP_019768063.1  MULTISPECIES: argininosuccinate lyase [Acinetobac...  74.7    7e-015
+WP_035360762.1  argininosuccinate lyase [Acinetobacter calcoaceti...  74.7    7e-015
+WP_042783294.1  argininosuccinate lyase [Acinetobacter sp. 1564232]   74.7    7e-015
+WP_032012552.1  argininosuccinate lyase [Acinetobacter sp. 1245249]   74.7    7e-015
+WP_017387747.1  argininosuccinate lyase [Acinetobacter calcoaceti...  74.7    7e-015
+WP_045126202.1  argininosuccinate lyase [Acinetobacter calcoaceti...  74.7    7e-015
+WP_035366301.1  argininosuccinate lyase [Acinetobacter calcoaceti...  74.7    7e-015
+WP_025470396.1  argininosuccinate lyase [Acinetobacter pittii]        74.7    7e-015
+WP_061874310.1  argininosuccinate lyase [Acinetobacter dijkshoorn...  74.7    7e-015
+WP_034596480.1  argininosuccinate lyase [Acinetobacter sp. NIPH 817]  74.7    7e-015
+WP_016806015.1  MULTISPECIES: argininosuccinate lyase [Acinetobac...  74.7    7e-015
+WP_068929723.1  argininosuccinate lyase [Acinetobacter pittii]        74.7    8e-015
+WP_068561990.1  argininosuccinate lyase [Acinetobacter pittii]        74.7    8e-015
+WP_068529277.1  argininosuccinate lyase [Acinetobacter pittii]        74.7    8e-015
+WP_042894371.1  MULTISPECIES: argininosuccinate lyase [Acinetobac...  74.7    8e-015
+WP_002121138.1  MULTISPECIES: argininosuccinate lyase [Acinetobac...  74.7    8e-015
+WP_046812217.1  argininosuccinate lyase [Acinetobacter pittii]        74.7    8e-015
+WP_009392307.1  argininosuccinate lyase [Acinetobacter sp. WC-141]    74.7    8e-015
+WP_077164319.1  argininosuccinate lyase [Acinetobacter genomosp. ...  74.7    8e-015
+WP_057090103.1  argininosuccinate lyase [Acinetobacter pittii]        74.7    8e-015
+WP_031973033.1  argininosuccinate lyase [Acinetobacter baumannii]     74.3    1e-014
+WP_031956198.1  argininosuccinate lyase [Acinetobacter baumannii]     74.3    1e-014
+WP_031969967.1  argininosuccinate lyase [Acinetobacter baumannii]     74.3    1e-014
+WP_031984023.1  argininosuccinate lyase [Acinetobacter baumannii]     74.3    1e-014
+WP_032812552.1  MULTISPECIES: argininosuccinate lyase [Acinetobac...  73.6    2e-014
+WP_032883118.1  argininosuccinate lyase [Acinetobacter sp. NIPH 3...  73.6    2e-014
+WP_032864564.1  argininosuccinate lyase [Acinetobacter sp. ANC 4105]  73.6    2e-014
+WP_061517888.1  argininosuccinate lyase [Acinetobacter venetianus]    73.6    2e-014
+WP_032879959.1  argininosuccinate lyase [Acinetobacter sp. NIPH 1...  73.6    2e-014
+WP_032871205.1  argininosuccinate lyase [Acinetobacter baumannii]     73.6    2e-014
+WP_009508382.1  MULTISPECIES: argininosuccinate lyase [Acinetobac...  73.6    2e-014
+WP_061397004.1  argininosuccinate lyase [Acinetobacter haemolyticus]  73.6    2e-014
+WP_017196643.1  argininosuccinate lyase [Acinetobacter venetianus]    73.6    2e-014
+WP_007480183.1  MULTISPECIES: argininosuccinate lyase [Acinetobac...  73.6    2e-014
+WP_032810861.1  MULTISPECIES: argininosuccinate lyase [Acinetobac...  73.6    2e-014
+WP_062847100.1  argininosuccinate lyase [Acinetobacter sp. NRRL B...  73.2    2e-014
+WP_033133924.1  argininosuccinate lyase [Acinetobacter sp. MN12]      73.2    2e-014
+WP_010589809.1  MULTISPECIES: argininosuccinate lyase [Acinetobac...  73.2    2e-014
+WP_032864870.1  argininosuccinate lyase [Acinetobacter sp. CIP 56.2]  73.2    2e-014
+WP_032857396.1  argininosuccinate lyase [Acinetobacter sp. NIPH 1...  73.2    2e-014
+WP_061523851.1  argininosuccinate lyase [Acinetobacter venetianus]    73.2    2e-014
+WP_010589461.1  MULTISPECIES: argininosuccinate lyase [Acinetobac...  73.2    2e-014
+WP_032879558.1  argininosuccinate lyase [Acinetobacter sp. NIPH 1...  73.2    2e-014
+WP_032865802.1  argininosuccinate lyase [Acinetobacter gyllenbergii]  73.2    2e-014
+WP_034426774.1  argininosuccinate lyase [Acinetobacter sp. CIP 10...  73.2    2e-014
+WP_034428043.1  argininosuccinate lyase [Acinetobacter sp. CIP 10...  73.2    2e-014
+WP_032862408.1  argininosuccinate lyase [Acinetobacter sp. NIPH 2...  73.2    2e-014
+WP_005403541.1  argininosuccinate lyase [Acinetobacter junii]         73.2    2e-014
+WP_038342634.1  argininosuccinate lyase [Acinetobacter sp. A47]       73.2    2e-014
+WP_032863770.1  argininosuccinate lyase [Acinetobacter sp. NIPH 2...  73.2    2e-014
+WP_005060963.1  argininosuccinate lyase [Acinetobacter beijerinckii]  73.2    2e-014
+WP_034432690.1  argininosuccinate lyase [Acinetobacter sp. CIP 10...  73.2    2e-014
+WP_004957372.1  argininosuccinate lyase [Acinetobacter junii]         73.2    2e-014
+WP_017395050.1  argininosuccinate lyase [Acinetobacter haemolyticus]  73.2    2e-014
+WP_034602814.1  MULTISPECIES: argininosuccinate lyase [Acinetobac...  73.2    2e-014
+WP_019457019.1  MULTISPECIES: argininosuccinate lyase [Acinetobac...  73.2    2e-014
+WP_077169907.1  argininosuccinate lyase [Acinetobacter genomosp. ...  73.2    2e-014
+WP_005218660.1  argininosuccinate lyase [Acinetobacter sp. ANC 3862]  73.2    3e-014
+WP_034431167.1  argininosuccinate lyase [Acinetobacter sp. CIP 10...  73.2    3e-014
+WP_004659386.1  argininosuccinate lyase [Acinetobacter sp. NIPH 236]  73.2    3e-014
+WP_039254198.1  argininosuccinate lyase [Acinetobacter baumannii]     72.8    3e-014
+WP_004932317.1  MULTISPECIES: argininosuccinate lyase [Acinetobac...  72.4    5e-014
+WP_035374873.1  argininosuccinate lyase [Acinetobacter haemolyticus]  72.0    6e-014
+WP_004637617.1  MULTISPECIES: argininosuccinate lyase [Acinetobac...  72.0    6e-014
+WP_005050866.1  argininosuccinate lyase [Acinetobacter beijerinckii]  72.0    7e-014
+WP_018679160.1  argininosuccinate lyase [Acinetobacter tjernbergiae]  72.0    7e-014
+WP_031947168.1  argininosuccinate lyase [Acinetobacter baumannii]     72.0    7e-014
+WP_004995322.1  MULTISPECIES: argininosuccinate lyase [Acinetobac...  71.6    9e-014
+WP_010588797.1  argininosuccinate lyase [Acinetobacter ursingii]      71.6    1e-013
+WP_044437068.1  argininosuccinate lyase [Acinetobacter ursingii]      71.6    1e-013
+WP_005001833.1  argininosuccinate lyase [Acinetobacter ursingii]      71.6    1e-013
+WP_011182010.1  MULTISPECIES: argininosuccinate lyase [Acinetobac...  71.2    1e-013
+WP_034594833.1  MULTISPECIES: argininosuccinate lyase [Acinetobac...  71.2    1e-013
+WP_004944094.1  argininosuccinate lyase [Acinetobacter soli]          70.9    2e-013
+WP_025095812.1  argininosuccinate lyase [Acinetobacter soli]          70.1    3e-013
+WP_061517373.1  argininosuccinate lyase [Acinetobacter venetianus]    69.7    4e-013
+WP_035327657.1  argininosuccinate lyase [Acinetobacter parvus]        69.7    4e-013
+WP_023273543.1  argininosuccinate lyase [Acinetobacter nectaris]      69.3    5e-013
+WP_081403412.1  argininosuccinate lyase [Acinetobacter equi]          67.0    4e-012
+WP_086177111.1  argininosuccinate lyase [Acinetobacter sp. ANC 5054]  67.0    4e-012
+WP_067558103.1  argininosuccinate lyase [Acinetobacter larvae]        65.5    1e-011
+WP_086200486.1  argininosuccinate lyase [Acinetobacter sp. ANC 4169]  65.5    1e-011
+WP_053579351.1  argininosuccinate lyase [Acinetobacter sp. TTH0-4]    65.1    2e-011
+WP_086184367.1  argininosuccinate lyase [Acinetobacter sp. ANC 4973]  65.1    2e-011
+WP_086165254.1  argininosuccinate lyase [Acinetobacter sp. ANC 4654]  65.1    2e-011
+WP_074946663.1  argininosuccinate lyase [Acinetobacter bohemicus]     65.1    2e-011
+WP_034697112.1  argininosuccinate lyase [Acinetobacter bohemicus]     65.1    2e-011
+WP_086174613.1  argininosuccinate lyase [Acinetobacter sp. ANC 3903]  65.1    2e-011
+WP_067725621.1  argininosuccinate lyase [Acinetobacter sp. SFC]       65.1    2e-011
+WP_035325418.1  MULTISPECIES: argininosuccinate lyase [Acinetobac...  65.1    2e-011
+WP_078190667.1  argininosuccinate lyase [Acinetobacter sp. ANC 4945]  65.1    2e-011
+WP_039890361.1  argininosuccinate lyase [Acinetobacter johnsonii]     65.1    2e-011
+WP_005245809.1  argininosuccinate lyase [Acinetobacter sp. CIP 51...  65.1    2e-011
+WP_004729279.1  MULTISPECIES: argininosuccinate lyase [Acinetobac...  65.1    2e-011
+WP_035330557.1  MULTISPECIES: argininosuccinate lyase [Acinetobac...  65.1    2e-011
+WP_004647304.1  MULTISPECIES: argininosuccinate lyase [Acinetobac...  65.1    2e-011
+WP_081313218.1  MULTISPECIES: argininosuccinate lyase [Acinetobac...  65.1    2e-011
+WP_086214369.1  argininosuccinate lyase [Acinetobacter sp. ANC 3813]  64.7    2e-011
+WP_086044918.1  argininosuccinate lyase [Acinetobacter lwoffii]       64.7    2e-011
+WP_074383920.1  argininosuccinate lyase [Acinetobacter lwoffii]       64.7    2e-011
+WP_044113067.1  argininosuccinate lyase [Acinetobacter idrijaensis]   64.7    2e-011
+WP_005105422.1  MULTISPECIES: argininosuccinate lyase [Acinetobac...  64.7    2e-011
+WP_010700193.1  MULTISPECIES: argininosuccinate lyase [Acinetobac...  64.7    2e-011
+WP_005404528.1  MULTISPECIES: argininosuccinate lyase [Acinetobac...  64.7    2e-011
+WP_035372882.1  argininosuccinate lyase [Acinetobacter gerneri]       64.7    2e-011
+WP_067761403.1  argininosuccinate lyase [Acinetobacter gandensis]     64.7    2e-011
+WP_005405904.1  MULTISPECIES: argininosuccinate lyase [Acinetobac...  64.7    2e-011
+WP_034171584.1  argininosuccinate lyase [Acinetobacter sp. YZS-X1-1]  64.7    2e-011
+WP_005022994.1  argininosuccinate lyase [Acinetobacter radioresis...  64.7    2e-011
+WP_078193307.1  argininosuccinate lyase [Acinetobacter sp. ANC 5600]  64.7    2e-011
+WP_004781638.1  MULTISPECIES: argininosuccinate lyase [Acinetobac...  64.7    2e-011
+WP_005232561.1  argininosuccinate lyase [Acinetobacter sp. NIPH 2...  64.7    2e-011
+WP_005173078.1  argininosuccinate lyase [Acinetobacter sp. NIPH 713]  64.7    2e-011
+WP_086196465.1  argininosuccinate lyase [Acinetobacter sp. ANC 4218]  64.7    2e-011
+WP_005095232.1  argininosuccinate lyase [Acinetobacter lwoffii]       64.7    2e-011
+WP_071852117.1  argininosuccinate lyase [Acinetobacter sp. AR2-3]     64.7    2e-011
+WP_064094992.1  MULTISPECIES: argininosuccinate lyase [Acinetobac...  64.7    2e-011
+WP_016168463.1  argininosuccinate lyase [Acinetobacter tandoii]       64.7    3e-011
+WP_086182886.1  argininosuccinate lyase [Acinetobacter sp. ANC 4558]  64.7    3e-011
+WP_034588042.1  argininosuccinate lyase [Acinetobacter sp. HR7]       64.3    4e-011
+WP_067869554.1  argininosuccinate lyase [Acinetobacter sp. SFB]       64.3    4e-011
+WP_045796519.1  argininosuccinate lyase [Acinetobacter indicus]       63.9    4e-011
+WP_005181626.1  MULTISPECIES: argininosuccinate lyase [Acinetobac...  63.9    4e-011
+WP_016659689.1  argininosuccinate lyase [Acinetobacter indicus]       63.9    4e-011
+WP_035267605.1  argininosuccinate lyase [Acinetobacter sp. Ver3]      63.5    5e-011
+WP_086186833.1  argininosuccinate lyase [Acinetobacter sp. ANC 4470]  63.5    5e-011
+WP_016657971.1  argininosuccinate lyase [Acinetobacter rudis]         62.8    1e-010
+WP_018573003.1  argininosuccinate lyase [Acinetobacter bouvetii]      62.8    1e-010
+WP_067728008.1  argininosuccinate lyase [Acinetobacter sp. NCu2D-2]   62.8    1e-010
+WP_034708113.1  MULTISPECIES: argininosuccinate lyase [Acinetobac...  62.8    1e-010
+WP_086322738.1  argininosuccinate lyase [Acinetobacter sp. WCHA60]    62.4    1e-010
+WP_086191796.1  argininosuccinate lyase [Acinetobacter sp. ANC 3832]  62.4    1e-010
+WP_081406749.1  argininosuccinate lyase [Acinetobacter sp. ANC 4149]  62.4    2e-010
+WP_075041183.1  MULTISPECIES: argininosuccinate lyase [Acinetobac...  61.6    3e-010
+WP_034680194.1  MULTISPECIES: argininosuccinate lyase [Acinetobac...  61.6    3e-010
+WP_086207077.1  argininosuccinate lyase [Acinetobacter sp. ANC 4648]  60.8    5e-010
+WP_004975740.1  argininosuccinate lyase [Acinetobacter towneri]       60.8    5e-010
+WP_078055382.1  argininosuccinate lyase [Acinetobacter celticus]      60.8    6e-010
+WP_019838119.1  MULTISPECIES: argininosuccinate lyase [Acinetobac...  60.5    6e-010
+WP_086202544.1  argininosuccinate lyase [Acinetobacter sp. ANC 4999]  60.5    7e-010
+WP_081406145.1  argininosuccinate lyase [Acinetobacter sp. WCHA30]    60.5    7e-010
+WP_034599412.1  argininosuccinate lyase [Acinetobacter sp. P8-3-8]    60.5    7e-010
+WP_067655196.1  argininosuccinate lyase [Acinetobacter sp. TGL-Y2]    60.5    8e-010
+WP_039620111.1  argininosuccinate lyase [Acinetobacter harbinensis]   60.5    8e-010
+WP_004813602.1  MULTISPECIES: argininosuccinate lyase [Acinetobac...  60.1    1e-009
+XP_003087943.1  hypothetical protein CRE_20658 [Caenorhabditis re...  60.1    1e-009
+WP_071320872.1  argininosuccinate lyase [Acinetobacter sp. LCT-H3]    60.1    1e-009
+WP_004890604.1  MULTISPECIES: argininosuccinate lyase [Acinetobac...  60.1    1e-009
+WP_056517342.1  argininosuccinate lyase [Acinetobacter sp. Root1280]  59.7    1e-009
+WP_034617663.1  MULTISPECIES: argininosuccinate lyase [Acinetobac...  59.7    1e-009
+XP_005971637.1  PREDICTED: argininosuccinate lyase, chloroplastic...  59.7    1e-009
+WP_032035296.1  argininosuccinate lyase [Acinetobacter sp. 742879]    59.3    2e-009
+WP_070069410.1  argininosuccinate lyase [Acinetobacter qingfengen...  58.9    2e-009
+WP_076878728.1  argininosuccinate lyase [Alkanindiges sp. H1]         58.5    3e-009
+WP_068911113.1  argininosuccinate lyase [Acinetobacter sp. WCHA34]    58.2    5e-009
+WP_034425599.1  argininosuccinate lyase [Acinetobacter sp. ANC 3789]  57.4    1e-008
+WP_081407025.1  argininosuccinate lyase [Acinetobacter brisouii]      57.0    1e-008
+WP_035365511.1  argininosuccinate lyase [Acinetobacter brisouii]      57.0    1e-008
+WP_082987647.1  argininosuccinate lyase [Moraxella atlantae]          53.9    1e-007
+WP_083101632.1  argininosuccinate lyase [Moraxella atlantae]          53.9    1e-007
+WP_079352050.1  argininosuccinate lyase [Moraxella atlantae]          53.9    1e-007
+WP_084494799.1  argininosuccinate lyase [Alkanindiges illinoisensis]  53.1    3e-007
+WP_019727035.1  MULTISPECIES: argininosuccinate lyase [Pseudomonas]   52.8    3e-007
+WP_061196693.1  argininosuccinate lyase [Pseudomonas aeruginosa]      52.8    3e-007
+WP_034039133.1  argininosuccinate lyase [Pseudomonas aeruginosa]      52.8    3e-007
+WP_016562475.1  MULTISPECIES: argininosuccinate lyase [Pseudomonas]   52.8    3e-007
+WP_003099239.1  argininosuccinate lyase [Pseudomonas aeruginosa]      52.8    3e-007
+WP_057379543.1  argininosuccinate lyase [Pseudomonas aeruginosa]      52.8    3e-007
+WP_049305449.1  argininosuccinate lyase [Pseudomonas aeruginosa]      52.8    3e-007
+WP_043096320.1  argininosuccinate lyase [Pseudomonas aeruginosa]      52.8    3e-007
+WP_034039696.1  argininosuccinate lyase [Pseudomonas aeruginosa]      52.8    3e-007
+WP_003161177.1  MULTISPECIES: argininosuccinate lyase [Pseudomonas]   52.8    3e-007
+WP_058159289.1  argininosuccinate lyase [Pseudomonas aeruginosa]      52.8    3e-007
+WP_034059538.1  argininosuccinate lyase [Pseudomonas aeruginosa]      52.8    3e-007
+WP_034001653.1  argininosuccinate lyase [Pseudomonas aeruginosa]      52.8    3e-007
+WP_033950097.1  argininosuccinate lyase [Pseudomonas aeruginosa]      52.8    3e-007
+WP_023110529.1  argininosuccinate lyase [Pseudomonas aeruginosa]      52.8    3e-007
+WP_023111991.1  argininosuccinate lyase [Pseudomonas aeruginosa]      52.8    3e-007
+WP_023097075.1  argininosuccinate lyase [Pseudomonas aeruginosa]      52.8    3e-007
+WP_017148674.1  MULTISPECIES: argininosuccinate lyase [Pseudomonas]   52.8    3e-007
+WP_061193340.1  argininosuccinate lyase [Pseudomonas aeruginosa]      52.8    4e-007
+WP_049291225.1  argininosuccinate lyase [Pseudomonas aeruginosa]      52.8    4e-007
+WP_070742921.1  MULTISPECIES: argininosuccinate lyase [Pseudomonas]   52.8    4e-007
+WP_061200793.1  argininosuccinate lyase [Pseudomonas aeruginosa]      52.8    4e-007
+WP_060774312.1  argininosuccinate lyase [Pseudomonas aeruginosa]      52.8    4e-007
+WP_058200838.1  argininosuccinate lyase [Pseudomonas aeruginosa]      52.8    4e-007
+WP_058354769.1  argininosuccinate lyase [Pseudomonas aeruginosa]      52.8    4e-007
+WP_058178825.1  argininosuccinate lyase [Pseudomonas aeruginosa]      52.8    4e-007
+WP_034076454.1  argininosuccinate lyase [Pseudomonas aeruginosa]      52.8    4e-007
+WP_031671481.1  argininosuccinate lyase [Pseudomonas aeruginosa]      52.8    4e-007
+WP_023119896.1  argininosuccinate lyase [Pseudomonas aeruginosa]      52.8    4e-007
+WP_023096311.1  argininosuccinate lyase [Pseudomonas aeruginosa]      52.8    4e-007
+WP_017001304.1  argininosuccinate lyase [Pseudomonas aeruginosa]      52.8    4e-007
+WP_003114030.1  MULTISPECIES: argininosuccinate lyase [Pseudomonas]   52.8    4e-007
+WP_034024768.1  argininosuccinate lyase [Pseudomonas aeruginosa]      52.8    4e-007
+WP_003096405.1  MULTISPECIES: argininosuccinate lyase [Pseudomonas]   52.8    4e-007
+WP_061197359.1  argininosuccinate lyase [Pseudomonas aeruginosa]      52.8    4e-007
+WP_061193954.1  argininosuccinate lyase [Pseudomonas aeruginosa]      52.8    4e-007
+WP_058140471.1  argininosuccinate lyase [Pseudomonas aeruginosa]      52.8    4e-007
+WP_057382445.1  argininosuccinate lyase [Pseudomonas aeruginosa]      52.8    4e-007
+WP_034020769.1  argininosuccinate lyase [Pseudomonas aeruginosa]      52.8    4e-007
+WP_033985191.1  argininosuccinate lyase [Pseudomonas aeruginosa]      52.8    4e-007
+WP_024917687.1  argininosuccinate lyase [Pseudomonas aeruginosa]      52.8    4e-007
+WP_025324620.1  argininosuccinate lyase [Pseudomonas aeruginosa]      52.8    4e-007
+WP_023089734.1  MULTISPECIES: argininosuccinate lyase [Pseudomonas]   52.8    4e-007
+WP_033936718.1  argininosuccinate lyase [Pseudomonas aeruginosa]      52.8    4e-007
+WP_042180541.1  argininosuccinate lyase [Pseudomonas aeruginosa]      52.8    4e-007
+WP_070581901.1  argininosuccinate lyase [Pseudomonas sp. HMSC11A05]   52.8    4e-007
+WP_059297870.1  argininosuccinate lyase [Pseudomonas aeruginosa]      52.8    4e-007
+WP_050153251.1  argininosuccinate lyase [Pseudomonas aeruginosa]      52.8    4e-007
+WP_010793654.1  MULTISPECIES: argininosuccinate lyase [Pseudomonas]   52.8    4e-007
+WP_079755949.1  argininosuccinate lyase [Pseudomonas aeruginosa]      52.8    4e-007
+WP_031806087.1  MULTISPECIES: argininosuccinate lyase [Pseudomonas]   52.8    4e-007
+WP_034018466.1  argininosuccinate lyase [Pseudomonas aeruginosa]      52.8    4e-007
+WP_031685128.1  argininosuccinate lyase [Pseudomonas aeruginosa]      52.8    4e-007
+WP_023103594.1  argininosuccinate lyase [Pseudomonas aeruginosa]      52.8    4e-007
+WP_003118048.1  MULTISPECIES: argininosuccinate lyase [Pseudomonas]   52.8    4e-007
+WP_033891673.1  argininosuccinate lyase [Pseudomonas aeruginosa]      52.8    4e-007
+WP_012614673.1  argininosuccinate lyase [Pseudomonas aeruginosa]      52.8    4e-007
+WP_023120966.1  argininosuccinate lyase [Pseudomonas aeruginosa]      52.8    4e-007
+WP_073671971.1  argininosuccinate lyase [Pseudomonas aeruginosa]      52.8    4e-007
+WP_038411637.1  argininosuccinate lyase [Pseudomonas cremoricolor...  52.4    5e-007
+WP_028695615.1  argininosuccinate lyase [Pseudomonas cremoricolor...  52.4    6e-007
+WP_065253854.1  argininosuccinate lyase [Moraxella osloensis]         52.4    6e-007
+WP_070301153.1  argininosuccinate lyase [Janthinobacterium sp. HH...  52.4    6e-007
+WP_062333468.1  argininosuccinate lyase [Moraxella osloensis]         52.0    7e-007
+WP_013260188.1  argininosuccinate lyase [gamma proteobacterium HdN1]  52.0    7e-007
+WP_078318346.1  argininosuccinate lyase [Moraxella porci]             52.0    7e-007
+WP_078117814.1  argininosuccinate lyase [Chromatiaceae bacterium ...  51.6    9e-007
+WP_033997550.1  argininosuccinate lyase [Pseudomonas aeruginosa]      51.6    1e-006
+WP_011369532.1  argininosuccinate lyase [Thiomicrospira crunogena]    51.6    1e-006
+WP_031639627.1  argininosuccinate lyase [Pseudomonas aeruginosa]      51.6    1e-006
+WP_077144869.1  argininosuccinate lyase [Pseudomonas aeruginosa]      51.6    1e-006
+WP_073655459.1  argininosuccinate lyase [Pseudomonas aeruginosa]      51.6    1e-006
+WP_073648913.1  argininosuccinate lyase [Pseudomonas aeruginosa]      51.6    1e-006
+WP_070336352.1  argininosuccinate lyase [Pseudomonas aeruginosa]      51.6    1e-006
+WP_061191120.1  argininosuccinate lyase [Pseudomonas aeruginosa]      51.6    1e-006
+WP_049296394.1  argininosuccinate lyase [Pseudomonas aeruginosa]      51.6    1e-006
+WP_034048409.1  argininosuccinate lyase [Pseudomonas aeruginosa]      51.6    1e-006
+WP_034025728.1  argininosuccinate lyase [Pseudomonas aeruginosa]      51.6    1e-006
+WP_033953682.1  argininosuccinate lyase [Pseudomonas aeruginosa]      51.6    1e-006
+WP_003136115.1  MULTISPECIES: argininosuccinate lyase [Pseudomonas]   51.6    1e-006
+WP_003141964.1  MULTISPECIES: argininosuccinate lyase [Pseudomonas]   51.6    1e-006
+WP_031628702.1  argininosuccinate lyase [Pseudomonas aeruginosa]      51.6    1e-006
+WP_023121184.1  MULTISPECIES: argininosuccinate lyase [Pseudomonas]   51.6    1e-006
+WP_023098230.1  MULTISPECIES: argininosuccinate lyase [Pseudomonas]   51.6    1e-006
+WP_015503832.1  argininosuccinate lyase [Pseudomonas aeruginosa]      51.6    1e-006
+WP_070332142.1  argininosuccinate lyase [Pseudomonas aeruginosa]      51.6    1e-006
+WP_058162666.1  argininosuccinate lyase [Pseudomonas aeruginosa]      51.6    1e-006
+WP_043103462.1  argininosuccinate lyase [Pseudomonas aeruginosa]      51.6    1e-006
+WP_043083307.1  argininosuccinate lyase [Pseudomonas aeruginosa]      51.6    1e-006
+WP_034082817.1  argininosuccinate lyase [Pseudomonas aeruginosa]      51.6    1e-006
+WP_033941982.1  argininosuccinate lyase [Pseudomonas aeruginosa]      51.6    1e-006
+WP_058017755.1  argininosuccinate lyase [Pseudomonas aeruginosa]      51.2    1e-006
+WP_031630557.1  MULTISPECIES: argininosuccinate lyase [Pseudomonas]   51.2    1e-006
+WP_023092750.1  MULTISPECIES: argininosuccinate lyase [Pseudomonas]   51.2    1e-006
+WP_053814772.1  argininosuccinate lyase [Pseudomonas aeruginosa]      51.2    1e-006
+WP_074222768.1  argininosuccinate lyase [Pseudomonas aeruginosa]      51.2    1e-006
+WP_034036640.1  argininosuccinate lyase [Pseudomonas aeruginosa]      51.2    1e-006
+WP_031642987.1  argininosuccinate lyase [Pseudomonas aeruginosa]      51.2    1e-006
+WP_058198543.1  argininosuccinate lyase [Pseudomonas aeruginosa]      51.2    1e-006
+WP_019372287.1  argininosuccinate lyase [Pseudomonas aeruginosa]      51.2    1e-006
+WP_012077871.1  argininosuccinate lyase [Pseudomonas aeruginosa]      51.2    1e-006
+WP_057384657.1  argininosuccinate lyase [Pseudomonas aeruginosa]      51.2    1e-006
+WP_007154310.1  argininosuccinate lyase [Marinobacter algicola]       51.2    1e-006
+WP_049722812.1  argininosuccinate lyase [Gilvimarinus polysacchar...  51.2    1e-006
+WP_007021405.1  argininosuccinate lyase [Neptuniibacter caesarien...  50.8    2e-006
+WP_046859990.1  argininosuccinate lyase [Sedimenticola thiotaurini]   50.8    2e-006
+WP_078033749.1  argininosuccinate lyase [Massilia sp. KIM]            50.8    2e-006
+WP_027865573.1  argininosuccinate lyase [Massilia alkalitolerans]     50.8    2e-006
+WP_047010659.1  argininosuccinate lyase [Spongiibacter sp. IMCC21...  50.8    2e-006
+WP_058772280.1  argininosuccinate lyase [Pseudomonas psychrotoler...  50.4    2e-006
+WP_058760338.1  argininosuccinate lyase [Pseudomonas psychrotoler...  50.4    2e-006
+WP_058777399.1  argininosuccinate lyase [Pseudomonas psychrotoler...  50.4    2e-006
+WP_019341262.1  argininosuccinate lyase [Pseudomonas stutzeri]        50.4    3e-006
+WP_065264388.1  argininosuccinate lyase [Moraxella osloensis]         50.4    3e-006
+WP_058778913.1  argininosuccinate lyase [Pseudomonas psychrotoler...  50.4    3e-006
+WP_076774746.1  argininosuccinate lyase [Enhydrobacter sp. H5]        50.1    3e-006
+WP_019896565.1  argininosuccinate lyase [Methylotenera mobilis]       50.1    3e-006
+WP_072455006.1  argininosuccinate lyase [Janthinobacterium lividum]   50.1    3e-006
+WP_035822262.1  argininosuccinate lyase [Janthinobacterium sp. RA13]  50.1    3e-006
+WP_034746418.1  argininosuccinate lyase [Janthinobacterium lividum]   50.1    3e-006
+WP_060392089.1  argininosuccinate lyase [Pseudomonas monteilii]       50.1    3e-006
+WP_077408564.1  argininosuccinate lyase [Janthinobacterium sp. LM6]   50.1    3e-006
+WP_010401443.1  argininosuccinate lyase [Janthinobacterium lividum]   50.1    3e-006
+WP_046684286.1  MULTISPECIES: argininosuccinate lyase [Janthinoba...  50.1    3e-006
+WP_036301617.1  argininosuccinate lyase [Methylotenera sp. L2L1]      50.1    3e-006
+WP_086143694.1  argininosuccinate lyase [Janthinobacterium sp. GW...  50.1    3e-006
+WP_071075446.1  argininosuccinate lyase [Janthinobacterium lividum]   50.1    3e-006
+WP_015475019.1  argininosuccinate lyase [Pseudomonas sp. ATCC 13867]  50.1    3e-006
+WP_071321958.1  argininosuccinate lyase [Janthinobacterium sp. 1_...  50.1    4e-006
+WP_082260961.1  argininosuccinate lyase [Janthinobacterium lividum]   50.1    4e-006
+WP_042164489.1  argininosuccinate lyase [Pseudomonas aeruginosa]      50.1    4e-006
+WP_057388071.1  MULTISPECIES: argininosuccinate lyase [Pseudomonas]   50.1    4e-006
+WP_033976978.1  argininosuccinate lyase [Pseudomonas aeruginosa]      50.1    4e-006
+WP_033970687.1  argininosuccinate lyase [Pseudomonas aeruginosa]      50.1    4e-006
+WP_023114974.1  argininosuccinate lyase [Pseudomonas aeruginosa]      50.1    4e-006
+WP_003123707.1  MULTISPECIES: argininosuccinate lyase [Pseudomonas]   50.1    4e-006
+WP_023090958.1  argininosuccinate lyase [Pseudomonas aeruginosa]      50.1    4e-006
+WP_078254578.1  argininosuccinate lyase [Moraxella pluranimalium]     50.1    4e-006
+WP_042853947.1  argininosuccinate lyase [Pseudomonas aeruginosa]      50.1    4e-006
+WP_078476704.1  argininosuccinate lyase [Solemya pervernicosa gil...  50.1    4e-006
+WP_069559534.1  MULTISPECIES: argininosuccinate lyase [Pseudomonas]   50.1    4e-006
+WP_061902653.1  argininosuccinate lyase [Pseudomonas alcaligenes]     49.7    4e-006
+WP_074966997.1  argininosuccinate lyase [Pseudomonas otitidis]        49.7    4e-006
+WP_044400833.1  argininosuccinate lyase [Pseudomonas sp. FeS53a]      49.7    4e-006
+WP_008252683.1  argininosuccinate lyase [gamma proteobacterium BD...  49.7    4e-006
+WP_076423804.1  argininosuccinate lyase [Pseudomonas alcaligenes]     49.7    4e-006
+WP_076582245.1  argininosuccinate lyase [Pseudomonas alcaligenes]     49.7    4e-006
+WP_014420355.1  MULTISPECIES: argininosuccinate lyase [Marinobacter]  49.7    4e-006
+WP_086134685.1  argininosuccinate lyase [Methylocaldum sp. SAD2]      49.7    4e-006
+WP_081518734.1  argininosuccinate lyase [Pseudomonas sp. T]           49.7    4e-006
+WP_043248425.1  argininosuccinate lyase [Pseudomonas knackmussii]     49.7    4e-006
+WP_028241449.1  argininosuccinate lyase [Pseudomonas azotifigens]     49.7    5e-006
+WP_021700046.1  argininosuccinate lyase [Pseudomonas alcaligenes]     49.7    5e-006
+WP_025041649.1  argininosuccinate lyase [Nitrosospira briensis]       49.7    5e-006
+WP_045213228.1  argininosuccinate lyase [Pseudomonas sp. 21]          49.7    5e-006
+WP_012777537.1  argininosuccinate lyase [Methylotenera mobilis]       49.7    5e-006
+WP_026913114.1  argininosuccinate lyase [Perlucidibaca piscinae]      49.7    5e-006
+WP_067290909.1  argininosuccinate lyase [Marinobacterium profundum]   49.7    5e-006
+WP_078456129.1  argininosuccinate lyase [Solemya velum gill symbi...  49.7    5e-006
+WP_078459899.1  argininosuccinate lyase [Solemya velum gill symbi...  49.7    5e-006
+WP_043116265.1  argininosuccinate lyase [Solemya velum gill symbi...  49.7    5e-006
+WP_078458779.1  argininosuccinate lyase [Solemya velum gill symbi...  49.7    5e-006
+WP_017125487.1  argininosuccinate lyase [Pseudomonas gingeri]         49.7    5e-006
+WP_023444618.1  argininosuccinate lyase [Pseudomonas chloritidism...  49.7    6e-006
+WP_044315190.1  argininosuccinate lyase [Pseudomonas stutzeri]        49.3    6e-006
+WP_073262892.1  argininosuccinate lyase [Pseudomonas punonensis]      49.3    6e-006
+WP_046618336.1  argininosuccinate lyase [Pseudomonas stutzeri]        49.3    6e-006
+WP_041015172.1  argininosuccinate lyase [Pseudomonas xanthomarina]    49.3    6e-006
+WP_014821752.1  argininosuccinate lyase [Pseudomonas stutzeri]        49.3    6e-006
+WP_023011763.1  argininosuccinate lyase [Marinobacter sp. EN3]        49.3    6e-006
+WP_023008375.1  argininosuccinate lyase [Marinobacter sp. EVN1]       49.3    6e-006
+WP_029654399.1  argininosuccinate lyase [Marinobacter daepoensis]     49.3    6e-006
+WP_061337897.1  argininosuccinate lyase [Pseudomonas balearica]       49.3    6e-006
+WP_075928560.1  argininosuccinate lyase [Pseudomonas sp. PA1(2017)]   49.3    6e-006
+WP_061339716.1  argininosuccinate lyase [Pseudomonas balearica]       49.3    6e-006
+WP_070256108.1  argininosuccinate lyase [Janthinobacterium lividum]   49.3    6e-006
+WP_043218234.1  argininosuccinate lyase [Pseudomonas balearica]       49.3    7e-006
+WP_070281606.1  argininosuccinate lyase [Janthinobacterium sp. MP...  49.3    7e-006
+WP_075935652.1  argininosuccinate lyase [Pseudomonas sp. PA27(2017)]  49.3    7e-006
+WP_058487755.1  argininosuccinate lyase [Pseudomonas sp. EGD-AKN5]    49.3    7e-006
+WP_085581152.1  MULTISPECIES: argininosuccinate lyase [Pseudomonas]   49.3    7e-006
+WP_016772597.1  MULTISPECIES: argininosuccinate lyase [Pseudomonas]   49.3    7e-006
+WP_074978056.1  argininosuccinate lyase [Pseudomonas citronellolis]   49.3    7e-006
+WP_043269672.1  MULTISPECIES: argininosuccinate lyase [Pseudomonas]   49.3    7e-006
+WP_007941585.1  argininosuccinate lyase [Pseudomonas sp. GM18]        49.3    7e-006
+WP_058072618.1  argininosuccinate lyase [Pseudomonas citronellolis]   49.3    7e-006
+WP_043316358.1  argininosuccinate lyase [Pseudomonas sp. PI1]         49.3    7e-006
+WP_070886193.1  argininosuccinate lyase [Pseudomonas argentinensis]   49.3    7e-006
+WP_053148539.1  argininosuccinate lyase [Pseudomonas sp. Pf153]       49.3    7e-006
+WP_019580504.1  MULTISPECIES: argininosuccinate lyase [Pseudomonas]   49.3    7e-006
+WP_034780351.1  argininosuccinate lyase [Janthinobacterium lividum]   49.3    7e-006
+WP_073470961.1  argininosuccinate lyase [Pseudomonas moraviensis]     49.3    7e-006
+WP_061560466.1  argininosuccinate lyase [Pseudomonas citronellolis]   49.3    7e-006
+WP_071264666.1  argininosuccinate lyase [Marinobacter sp. AC-23]      49.3    7e-006
+WP_084313826.1  argininosuccinate lyase [Pseudomonas jinjuensis]      49.3    7e-006
+WP_056844765.1  argininosuccinate lyase [Pseudomonas sp. Leaf129]     49.3    7e-006
+WP_026144866.1  argininosuccinate lyase [Pseudomonas fuscovaginae]    49.3    7e-006
+WP_054059356.1  argininosuccinate lyase [Pseudomonas fuscovaginae]    49.3    7e-006
+WP_043192234.1  argininosuccinate lyase [Pseudomonas rhizosphaerae]   49.3    7e-006
+WP_058091954.1  argininosuccinate lyase [Marinobacter sp. LQ44]       49.3    7e-006
+WP_049860319.1  argininosuccinate lyase [Pseudomonas sp. RIT-PI-a]    49.3    8e-006
+WP_007040959.1  argininosuccinate lyase [Thiorhodococcus drewsii]     48.9    8e-006
+WP_065258135.1  argininosuccinate lyase [Pseudomonas fluorescens]     48.9    8e-006
+WP_068825112.1  argininosuccinate lyase [Pseudomonas sp. BMS12]       48.9    8e-006
+WP_061332520.1  MULTISPECIES: argininosuccinate lyase [Marinobacter]  48.9    8e-006
+WP_042561708.1  argininosuccinate lyase [Pseudomonas fluorescens]     48.9    8e-006
+WP_077044752.1  argininosuccinate lyase [Pseudomonas sp. KK4]         48.9    8e-006
+WP_039757402.1  MULTISPECIES: argininosuccinate lyase [Pseudomonas]   48.9    8e-006
+WP_009615040.1  argininosuccinate lyase [Pseudomonas sp. M1]          48.9    8e-006
+WP_044387950.1  argininosuccinate lyase [Marinobacter excellens]      48.9    9e-006
+WP_065616347.1  argininosuccinate lyase [Pseudomonas moraviensis]     48.9    9e-006
+WP_042607108.1  MULTISPECIES: argininosuccinate lyase [Pseudomonas]   48.9    9e-006
+WP_017939727.1  argininosuccinate lyase [Pseudomonas thermotolerans]  48.9    9e-006
+WP_064379888.1  MULTISPECIES: argininosuccinate lyase [Pseudomonas]   48.9    9e-006
+WP_027896532.1  argininosuccinate lyase [Pseudomonas thermotolerans]  48.9    9e-006
+WP_085731435.1  MULTISPECIES: argininosuccinate lyase [Pseudomonas]   48.9    9e-006
+WP_009878286.1  argininosuccinate lyase [Pseudomonas aeruginosa]      48.9    9e-006
+WP_040260552.1  argininosuccinate lyase [Pseudomonas sp. CB1]         48.9    9e-006
+WP_050411510.1  argininosuccinate lyase [Massilia sp. NR 4-1]         48.9    9e-006
+WP_022963534.1  argininosuccinate lyase [Pseudomonas pelagia]         48.9    9e-006
+WP_077730751.1  argininosuccinate lyase [Methylocaldum sp. 14B]       48.9    9e-006
+WP_044499002.1  argininosuccinate lyase [Pseudomonas saudimassili...  48.9    9e-006
+WP_029533380.1  argininosuccinate lyase [Pseudomonas fuscovaginae]    48.9    9e-006
+WP_059422081.1  argininosuccinate lyase [Sulfuricella sp. T08]        48.9    9e-006
+WP_057956331.1  argininosuccinate lyase [endosymbiont of Ridgeia ...  48.9    9e-006
+WP_036212884.1  argininosuccinate lyase [Massilia sp. LC238]          48.9    9e-006
+WP_056791653.1  argininosuccinate lyase [Pseudomonas sp. Leaf434]     48.9    1e-005
+WP_003283434.1  argininosuccinate lyase [Pseudomonas stutzeri]        48.9    1e-005
+WP_010445620.1  argininosuccinate lyase [Pseudomonas fuscovaginae]    48.9    1e-005
+WP_058063646.1  argininosuccinate lyase [Pseudomonas sp. TTU2014-...  48.9    1e-005
+WP_018927540.1  MULTISPECIES: argininosuccinate lyase [Pseudomonas]   48.9    1e-005
+WP_028942403.1  argininosuccinate lyase [Pseudomonas vranovensis]     48.9    1e-005
+WP_046162932.1  argininosuccinate lyase [Pseudomonas sp. 10B238]      48.5    1e-005
+WP_045430891.1  MULTISPECIES: argininosuccinate lyase [Pseudomonas]   48.5    1e-005
+WP_033937925.1  argininosuccinate lyase [Pseudomonas aeruginosa]      48.5    1e-005
+WP_059230489.1  argininosuccinate lyase [Pseudomonas sp. EpS/L25]     48.5    1e-005
+WP_027980732.1  argininosuccinate lyase [gamma proteobacterium L18]   48.5    1e-005
+WP_016975867.1  argininosuccinate lyase [Pseudomonas fluorescens]     48.5    1e-005
+WP_069374254.1  argininosuccinate lyase [Herbaspirillum seropedicae]  48.5    1e-005
+WP_013234891.1  argininosuccinate lyase [Herbaspirillum seropedicae]  48.5    1e-005
+WP_068988786.1  argininosuccinate lyase [Candidatus Thiodiazotrop...  48.5    1e-005
+WP_007224125.1  argininosuccinate lyase [marine gamma proteobacte...  48.5    1e-005
+WP_021443296.1  argininosuccinate lyase [Pseudomonas sp. EGD-AK9]     48.5    1e-005
+WP_060478664.1  argininosuccinate lyase [Pseudomonas monteilii]       48.5    1e-005
+WP_041773855.1  argininosuccinate lyase [Psychrobacter sp. PRwf-1]    48.5    1e-005
+WP_074754605.1  argininosuccinate lyase [Pseudomonas abietaniphila]   48.5    1e-005
+WP_069516472.1  argininosuccinate lyase [Pseudomonas sp. 21C1]        48.5    1e-005
+WP_058604679.1  argininosuccinate lyase [Pseudomonas parafulva]       48.5    1e-005
+WP_038998089.1  argininosuccinate lyase [Pseudomonas putida]          48.5    1e-005
+WP_061237335.1  argininosuccinate lyase [Pseudomonas composti]        48.5    1e-005
+WP_023535813.1  argininosuccinate lyase [Pseudomonas putida]          48.5    1e-005
+WP_010221133.1  MULTISPECIES: argininosuccinate lyase [Pseudomonas]   48.5    1e-005
+WP_045201000.1  argininosuccinate lyase [Pseudomonas sp. 2(2015)]     48.1    1e-005
+WP_027914172.1  MULTISPECIES: argininosuccinate lyase [Pseudomonas]   48.1    1e-005
+WP_039806477.1  argininosuccinate lyase [Azotobacter chroococcum]     48.1    1e-005
+WP_024667307.1  argininosuccinate lyase [Pseudomonas syringae]        48.1    1e-005
+WP_007247214.1  argininosuccinate lyase [Pseudomonas syringae gro...  48.1    1e-005
+WP_034147679.1  argininosuccinate lyase [Pseudomonas fluorescens]     48.1    2e-005
+WP_067387586.1  argininosuccinate lyase [Marinobacterium sp. ST58...  48.1    2e-005
+WP_065086194.1  argininosuccinate lyase [Pseudomonas sp. AU12215]     48.1    2e-005
+WP_054910198.1  MULTISPECIES: argininosuccinate lyase [Pseudomonas]   48.1    2e-005
+WP_037014656.1  argininosuccinate lyase [Pseudomonas nitroreducens]   48.1    2e-005
+WP_004886897.1  MULTISPECIES: argininosuccinate lyase [Pseudomona...  48.1    2e-005
+WP_013146781.1  argininosuccinate lyase [Methylotenera versatilis]    48.1    2e-005
+WP_025996739.1  argininosuccinate lyase [Pseudomonas viridiflava]     48.1    2e-005
+WP_024766392.1  argininosuccinate lyase [Pseudomonas nitroreducens]   48.1    2e-005
+WP_058430756.1  argininosuccinate lyase [Pseudomonas marginalis]      48.1    2e-005
+WP_057410073.1  argininosuccinate lyase [Pseudomonas syringae gro...  48.1    2e-005
+WP_085758283.1  argininosuccinate lyase [Oceanicoccus sagamiensis]    48.1    2e-005
+WP_070224270.1  MULTISPECIES: argininosuccinate lyase [Janthinoba...  48.1    2e-005
+WP_076715125.1  argininosuccinate lyase [Motiliproteus sp. MSK22-1]   48.1    2e-005
+WP_078306369.1  argininosuccinate lyase [Moraxella lincolnii]         48.1    2e-005
+WP_047226124.1  argininosuccinate lyase [Pseudomonas brassicacearum]  48.1    2e-005
+WP_070288641.1  MULTISPECIES: argininosuccinate lyase [Janthinoba...  48.1    2e-005
+WP_054094432.1  argininosuccinate lyase [Pseudomonas stutzeri]        48.1    2e-005
+WP_008366717.1  argininosuccinate lyase [Pseudomonas sp. M47T1]       48.1    2e-005
+WP_076383077.1  argininosuccinate lyase [Pseudomonas sp. A214]        48.1    2e-005
+WP_086137135.1  argininosuccinate lyase [Janthinobacterium sp. GW...  48.1    2e-005
+WP_077682713.1  argininosuccinate lyase [Pseudomonas stutzeri]        48.1    2e-005
+WP_007018092.1  argininosuccinate lyase [Bermanella marisrubri]       48.1    2e-005
+WP_028968271.1  argininosuccinate lyase [Spongiibacter tropicus]      48.1    2e-005
+WP_065950401.1  argininosuccinate lyase [Pseudomonas sp. 37 R 15]     48.1    2e-005
+WP_060782059.1  argininosuccinate lyase [Pseudomonas agarici]         47.8    2e-005
+WP_017130279.1  argininosuccinate lyase [Pseudomonas agarici]         47.8    2e-005
+WP_039964247.1  argininosuccinate lyase [Pseudomonas pseudoalcali...  47.8    2e-005
+WP_083356153.1  argininosuccinate lyase [Pseudomonas antarctica]      47.8    2e-005
+WP_021207131.1  argininosuccinate lyase [Pseudomonas stutzeri]        47.8    2e-005
+WP_007161371.1  argininosuccinate lyase [Pseudomonas psychrotoler...  47.8    2e-005
+WP_027598170.1  MULTISPECIES: argininosuccinate lyase [Pseudomonas]   47.8    2e-005
+WP_044341121.1  argininosuccinate lyase [Pseudomonas oryzihabitans]   47.8    2e-005
+
+
+>WP_032064931.1 argininosuccinate lyase, partial [Acinetobacter baumannii]
+Length=238
+
+ Score = 77.4 bits (189),  Expect = 2e-016, Method: Compositional matrix adjust.
+ Identities = 36/37 (97%), Positives = 37/37 (100%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA
+Sbjct  202  LTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  238
+
+
+>WP_079695529.1 argininosuccinate lyase, partial [Acinetobacter baumannii]
+Length=266
+
+ Score = 77.4 bits (189),  Expect = 3e-016, Method: Compositional matrix adjust.
+ Identities = 36/37 (97%), Positives = 37/37 (100%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA
+Sbjct  230  LTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  266
+
+
+>WP_042790420.1 argininosuccinate lyase, partial [Acinetobacter baumannii]
+Length=352
+
+ Score = 77.0 bits (188),  Expect = 9e-016, Method: Compositional matrix adjust.
+ Identities = 36/37 (97%), Positives = 37/37 (100%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA
+Sbjct  316  LTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  352
+
+
+>WP_030425109.1 argininosuccinate lyase, partial [Acinetobacter baumannii]
+Length=379
+
+ Score = 76.6 bits (187),  Expect = 1e-015, Method: Compositional matrix adjust.
+ Identities = 36/37 (97%), Positives = 37/37 (100%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA
+Sbjct  343  LTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  379
+
+
+>WP_031968083.1 argininosuccinate lyase [Acinetobacter baumannii]
+Length=477
+
+ Score = 77.0 bits (188),  Expect = 1e-015, Method: Compositional matrix adjust.
+ Identities = 36/37 (97%), Positives = 37/37 (100%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  477
+
+
+>WP_031952716.1 argininosuccinate lyase [Acinetobacter baumannii]
+Length=477
+
+ Score = 77.0 bits (188),  Expect = 1e-015, Method: Compositional matrix adjust.
+ Identities = 36/37 (97%), Positives = 37/37 (100%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  477
+
+
+>WP_032008284.1 argininosuccinate lyase [Acinetobacter baumannii]
+Length=477
+
+ Score = 77.0 bits (188),  Expect = 1e-015, Method: Compositional matrix adjust.
+ Identities = 36/37 (97%), Positives = 37/37 (100%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  477
+
+
+>WP_032034520.1 argininosuccinate lyase [Acinetobacter baumannii]
+Length=477
+
+ Score = 77.0 bits (188),  Expect = 1e-015, Method: Compositional matrix adjust.
+ Identities = 36/37 (97%), Positives = 37/37 (100%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  477
+
+
+>WP_000213738.1 argininosuccinate lyase [Acinetobacter baumannii]
+Length=477
+
+ Score = 77.0 bits (188),  Expect = 1e-015, Method: Compositional matrix adjust.
+ Identities = 36/37 (97%), Positives = 37/37 (100%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  477
+
+
+>WP_000213740.1 MULTISPECIES: argininosuccinate lyase [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=477
+
+ Score = 77.0 bits (188),  Expect = 1e-015, Method: Compositional matrix adjust.
+ Identities = 36/37 (97%), Positives = 37/37 (100%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  477
+
+
+>WP_031976300.1 argininosuccinate lyase [Acinetobacter baumannii]
+Length=477
+
+ Score = 77.0 bits (188),  Expect = 1e-015, Method: Compositional matrix adjust.
+ Identities = 36/37 (97%), Positives = 37/37 (100%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  477
+
+
+>WP_032011632.1 argininosuccinate lyase [Acinetobacter sp. 1179249]
+Length=477
+
+ Score = 77.0 bits (188),  Expect = 1e-015, Method: Compositional matrix adjust.
+ Identities = 36/37 (97%), Positives = 37/37 (100%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  477
+
+
+>WP_057078040.1 argininosuccinate lyase [Acinetobacter baumannii]
+Length=477
+
+ Score = 77.0 bits (188),  Expect = 1e-015, Method: Compositional matrix adjust.
+ Identities = 36/37 (97%), Positives = 37/37 (100%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  477
+
+
+>WP_056484307.1 argininosuccinate lyase [Acinetobacter sp. Leaf130]
+Length=477
+
+ Score = 77.0 bits (188),  Expect = 1e-015, Method: Compositional matrix adjust.
+ Identities = 36/37 (97%), Positives = 37/37 (100%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  477
+
+
+>WP_032010055.1 argininosuccinate lyase [Acinetobacter baumannii]
+Length=477
+
+ Score = 77.0 bits (188),  Expect = 1e-015, Method: Compositional matrix adjust.
+ Identities = 36/37 (97%), Positives = 37/37 (100%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  477
+
+
+>WP_003654474.1 argininosuccinate lyase [Acinetobacter calcoaceticus]
+Length=477
+
+ Score = 77.0 bits (188),  Expect = 1e-015, Method: Compositional matrix adjust.
+ Identities = 36/37 (97%), Positives = 37/37 (100%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  477
+
+
+>WP_031959066.1 argininosuccinate lyase [Acinetobacter baumannii]
+Length=477
+
+ Score = 77.0 bits (188),  Expect = 1e-015, Method: Compositional matrix adjust.
+ Identities = 36/37 (97%), Positives = 37/37 (100%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  477
+
+
+>WP_017390008.1 argininosuccinate lyase [Acinetobacter calcoaceticus]
+Length=477
+
+ Score = 77.0 bits (188),  Expect = 1e-015, Method: Compositional matrix adjust.
+ Identities = 36/37 (97%), Positives = 37/37 (100%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  477
+
+
+>WP_000213739.1 argininosuccinate lyase [Acinetobacter baumannii]
+Length=477
+
+ Score = 77.0 bits (188),  Expect = 1e-015, Method: Compositional matrix adjust.
+ Identities = 36/37 (97%), Positives = 37/37 (100%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  477
+
+
+>WP_000213742.1 argininosuccinate lyase [Acinetobacter baumannii]
+Length=477
+
+ Score = 77.0 bits (188),  Expect = 1e-015, Method: Compositional matrix adjust.
+ Identities = 36/37 (97%), Positives = 37/37 (100%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  477
+
+
+>WP_065709503.1 argininosuccinate lyase [Acinetobacter baumannii]
+Length=477
+
+ Score = 77.0 bits (188),  Expect = 1e-015, Method: Compositional matrix adjust.
+ Identities = 36/37 (97%), Positives = 37/37 (100%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  477
+
+
+>WP_038405423.1 argininosuccinate lyase [Acinetobacter baumannii]
+Length=477
+
+ Score = 77.0 bits (188),  Expect = 1e-015, Method: Compositional matrix adjust.
+ Identities = 36/37 (97%), Positives = 37/37 (100%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  477
+
+
+>WP_031994485.1 argininosuccinate lyase [Acinetobacter baumannii]
+Length=477
+
+ Score = 77.0 bits (188),  Expect = 1e-015, Method: Compositional matrix adjust.
+ Identities = 36/37 (97%), Positives = 37/37 (100%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  477
+
+
+>WP_033846935.1 MULTISPECIES: argininosuccinate lyase [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=477
+
+ Score = 77.0 bits (188),  Expect = 1e-015, Method: Compositional matrix adjust.
+ Identities = 36/37 (97%), Positives = 37/37 (100%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  477
+
+
+>WP_021510869.1 MULTISPECIES: argininosuccinate lyase [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=477
+
+ Score = 77.0 bits (188),  Expect = 1e-015, Method: Compositional matrix adjust.
+ Identities = 36/37 (97%), Positives = 37/37 (100%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  477
+
+
+>WP_057050510.1 argininosuccinate lyase [Acinetobacter baumannii]
+Length=477
+
+ Score = 76.6 bits (187),  Expect = 1e-015, Method: Compositional matrix adjust.
+ Identities = 36/37 (97%), Positives = 37/37 (100%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  477
+
+
+>WP_006581161.1 MULTISPECIES: argininosuccinate lyase [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=477
+
+ Score = 76.6 bits (187),  Expect = 1e-015, Method: Compositional matrix adjust.
+ Identities = 36/37 (97%), Positives = 37/37 (100%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  477
+
+
+>WP_002053189.1 MULTISPECIES: argininosuccinate lyase [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=477
+
+ Score = 76.6 bits (187),  Expect = 1e-015, Method: Compositional matrix adjust.
+ Identities = 36/37 (97%), Positives = 37/37 (100%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  477
+
+
+>WP_071243519.1 argininosuccinate lyase [Acinetobacter baumannii]
+Length=477
+
+ Score = 76.6 bits (187),  Expect = 1e-015, Method: Compositional matrix adjust.
+ Identities = 36/37 (97%), Positives = 37/37 (100%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  477
+
+
+>WP_062936991.1 argininosuccinate lyase [Acinetobacter baumannii]
+Length=477
+
+ Score = 76.6 bits (187),  Expect = 1e-015, Method: Compositional matrix adjust.
+ Identities = 36/37 (97%), Positives = 37/37 (100%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  477
+
+
+>WP_031992183.1 argininosuccinate lyase [Acinetobacter baumannii]
+Length=477
+
+ Score = 76.6 bits (187),  Expect = 1e-015, Method: Compositional matrix adjust.
+ Identities = 36/37 (97%), Positives = 37/37 (100%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  477
+
+
+>WP_032067202.1 argininosuccinate lyase [Acinetobacter baumannii]
+Length=477
+
+ Score = 76.6 bits (187),  Expect = 1e-015, Method: Compositional matrix adjust.
+ Identities = 36/37 (97%), Positives = 37/37 (100%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  477
+
+
+>WP_017393531.1 argininosuccinate lyase [Acinetobacter nosocomialis]
+Length=477
+
+ Score = 76.6 bits (187),  Expect = 1e-015, Method: Compositional matrix adjust.
+ Identities = 36/37 (97%), Positives = 37/37 (100%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  477
+
+
+>WP_086261416.1 argininosuccinate lyase [Acinetobacter baumannii]
+Length=477
+
+ Score = 76.6 bits (187),  Expect = 1e-015, Method: Compositional matrix adjust.
+ Identities = 36/37 (97%), Positives = 37/37 (100%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  477
+
+
+>WP_032043487.1 argininosuccinate lyase [Acinetobacter baumannii]
+Length=477
+
+ Score = 76.6 bits (187),  Expect = 1e-015, Method: Compositional matrix adjust.
+ Identities = 36/37 (97%), Positives = 37/37 (100%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  477
+
+
+>WP_031954139.1 argininosuccinate lyase [Acinetobacter baumannii]
+Length=477
+
+ Score = 75.9 bits (185),  Expect = 3e-015, Method: Compositional matrix adjust.
+ Identities = 35/37 (95%), Positives = 37/37 (100%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAHKR+EQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHKRIEQLYA  477
+
+
+>WP_000213741.1 argininosuccinate lyase [Acinetobacter baumannii]
+Length=477
+
+ Score = 75.5 bits (184),  Expect = 4e-015, Method: Compositional matrix adjust.
+ Identities = 35/37 (95%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLY 
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYG  477
+
+
+>WP_026057471.1 MULTISPECIES: argininosuccinate lyase [Acinetobacter]
+Length=477
+
+ Score = 74.7 bits (182),  Expect = 6e-015, Method: Compositional matrix adjust.
+ Identities = 35/37 (95%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEQLYA  477
+
+
+>WP_032882572.1 argininosuccinate lyase [Acinetobacter sp. CIP 110321]
+Length=477
+
+ Score = 74.7 bits (182),  Expect = 7e-015, Method: Compositional matrix adjust.
+ Identities = 35/37 (95%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEQLYA  477
+
+
+>WP_032862710.1 argininosuccinate lyase [Acinetobacter sp. NIPH 2100]
+Length=477
+
+ Score = 74.7 bits (182),  Expect = 7e-015, Method: Compositional matrix adjust.
+ Identities = 35/37 (95%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEQLYA  477
+
+
+>WP_016540824.1 argininosuccinate lyase [Acinetobacter gyllenbergii]
+Length=477
+
+ Score = 74.7 bits (182),  Expect = 7e-015, Method: Compositional matrix adjust.
+ Identities = 35/37 (95%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEQLYA  477
+
+
+>WP_078197337.1 argininosuccinate lyase [Acinetobacter baumannii]
+Length=477
+
+ Score = 74.7 bits (182),  Expect = 7e-015, Method: Compositional matrix adjust.
+ Identities = 35/37 (95%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEQLYA  477
+
+
+>WP_065344212.1 argininosuccinate lyase [Acinetobacter gyllenbergii]
+Length=477
+
+ Score = 74.7 bits (182),  Expect = 7e-015, Method: Compositional matrix adjust.
+ Identities = 35/37 (95%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEQLYA  477
+
+
+>WP_034590825.1 argininosuccinate lyase [Acinetobacter sp. NIPH 542]
+Length=477
+
+ Score = 74.7 bits (182),  Expect = 7e-015, Method: Compositional matrix adjust.
+ Identities = 35/37 (95%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEQLYA  477
+
+
+>WP_032859170.1 argininosuccinate lyase [Acinetobacter sp. ANC 3880]
+Length=477
+
+ Score = 74.7 bits (182),  Expect = 7e-015, Method: Compositional matrix adjust.
+ Identities = 35/37 (95%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEQLYA  477
+
+
+>WP_032055606.1 argininosuccinate lyase [Acinetobacter baumannii]
+Length=477
+
+ Score = 74.7 bits (182),  Expect = 7e-015, Method: Compositional matrix adjust.
+ Identities = 35/37 (95%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEQLYA  477
+
+
+>WP_064785114.1 argininosuccinate lyase [Acinetobacter calcoaceticus]
+Length=477
+
+ Score = 74.7 bits (182),  Expect = 7e-015, Method: Compositional matrix adjust.
+ Identities = 35/37 (95%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEQLYA  477
+
+
+>WP_032878335.1 argininosuccinate lyase [Acinetobacter sp. ANC 3929]
+Length=477
+
+ Score = 74.7 bits (182),  Expect = 7e-015, Method: Compositional matrix adjust.
+ Identities = 35/37 (95%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEQLYA  477
+
+
+>WP_019768063.1 MULTISPECIES: argininosuccinate lyase [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=477
+
+ Score = 74.7 bits (182),  Expect = 7e-015, Method: Compositional matrix adjust.
+ Identities = 35/37 (95%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEQLYA  477
+
+
+>WP_035360762.1 argininosuccinate lyase [Acinetobacter calcoaceticus]
+Length=477
+
+ Score = 74.7 bits (182),  Expect = 7e-015, Method: Compositional matrix adjust.
+ Identities = 35/37 (95%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEQLYA  477
+
+
+>WP_042783294.1 argininosuccinate lyase [Acinetobacter sp. 1564232]
+Length=477
+
+ Score = 74.7 bits (182),  Expect = 7e-015, Method: Compositional matrix adjust.
+ Identities = 35/37 (95%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEQLYA  477
+
+
+>WP_032012552.1 argininosuccinate lyase [Acinetobacter sp. 1245249]
+Length=477
+
+ Score = 74.7 bits (182),  Expect = 7e-015, Method: Compositional matrix adjust.
+ Identities = 35/37 (95%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEQLYA  477
+
+
+>WP_017387747.1 argininosuccinate lyase [Acinetobacter calcoaceticus]
+Length=477
+
+ Score = 74.7 bits (182),  Expect = 7e-015, Method: Compositional matrix adjust.
+ Identities = 35/37 (95%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEQLYA  477
+
+
+>WP_045126202.1 argininosuccinate lyase [Acinetobacter calcoaceticus]
+Length=477
+
+ Score = 74.7 bits (182),  Expect = 7e-015, Method: Compositional matrix adjust.
+ Identities = 35/37 (95%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEQLYA  477
+
+
+>WP_035366301.1 argininosuccinate lyase [Acinetobacter calcoaceticus]
+Length=477
+
+ Score = 74.7 bits (182),  Expect = 7e-015, Method: Compositional matrix adjust.
+ Identities = 35/37 (95%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEQLYA  477
+
+
+>WP_025470396.1 argininosuccinate lyase [Acinetobacter pittii]
+Length=477
+
+ Score = 74.7 bits (182),  Expect = 7e-015, Method: Compositional matrix adjust.
+ Identities = 35/37 (95%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEQLYA  477
+
+
+>WP_061874310.1 argininosuccinate lyase [Acinetobacter dijkshoorniae]
+Length=477
+
+ Score = 74.7 bits (182),  Expect = 7e-015, Method: Compositional matrix adjust.
+ Identities = 35/37 (95%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEQLYA  477
+
+
+>WP_034596480.1 argininosuccinate lyase [Acinetobacter sp. NIPH 817]
+Length=477
+
+ Score = 74.7 bits (182),  Expect = 7e-015, Method: Compositional matrix adjust.
+ Identities = 35/37 (95%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEQLYA  477
+
+
+>WP_016806015.1 MULTISPECIES: argininosuccinate lyase [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=477
+
+ Score = 74.7 bits (182),  Expect = 7e-015, Method: Compositional matrix adjust.
+ Identities = 35/37 (95%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEQLYA  477
+
+
+>WP_068929723.1 argininosuccinate lyase [Acinetobacter pittii]
+Length=477
+
+ Score = 74.7 bits (182),  Expect = 8e-015, Method: Compositional matrix adjust.
+ Identities = 35/37 (95%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEQLYA  477
+
+
+>WP_068561990.1 argininosuccinate lyase [Acinetobacter pittii]
+Length=477
+
+ Score = 74.7 bits (182),  Expect = 8e-015, Method: Compositional matrix adjust.
+ Identities = 35/37 (95%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEQLYA  477
+
+
+>WP_068529277.1 argininosuccinate lyase [Acinetobacter pittii]
+Length=477
+
+ Score = 74.7 bits (182),  Expect = 8e-015, Method: Compositional matrix adjust.
+ Identities = 35/37 (95%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEQLYA  477
+
+
+>WP_042894371.1 MULTISPECIES: argininosuccinate lyase [Acinetobacter]
+Length=477
+
+ Score = 74.7 bits (182),  Expect = 8e-015, Method: Compositional matrix adjust.
+ Identities = 35/37 (95%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEQLYA  477
+
+
+>WP_002121138.1 MULTISPECIES: argininosuccinate lyase [Acinetobacter]
+ YP_004997438.1 argininosuccinate lyase [Acinetobacter pittii PHEA-2]
+Length=477
+
+ Score = 74.7 bits (182),  Expect = 8e-015, Method: Compositional matrix adjust.
+ Identities = 35/37 (95%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEQLYA  477
+
+
+>WP_046812217.1 argininosuccinate lyase [Acinetobacter pittii]
+Length=477
+
+ Score = 74.7 bits (182),  Expect = 8e-015, Method: Compositional matrix adjust.
+ Identities = 35/37 (95%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEQLYA  477
+
+
+>WP_009392307.1 argininosuccinate lyase [Acinetobacter sp. WC-141]
+Length=477
+
+ Score = 74.7 bits (182),  Expect = 8e-015, Method: Compositional matrix adjust.
+ Identities = 35/37 (95%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEQLYA  477
+
+
+>WP_077164319.1 argininosuccinate lyase [Acinetobacter genomosp. 33YU]
+Length=477
+
+ Score = 74.7 bits (182),  Expect = 8e-015, Method: Compositional matrix adjust.
+ Identities = 35/37 (95%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEQLYA  477
+
+
+>WP_057090103.1 argininosuccinate lyase [Acinetobacter pittii]
+Length=477
+
+ Score = 74.7 bits (182),  Expect = 8e-015, Method: Compositional matrix adjust.
+ Identities = 35/37 (95%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEQLYA  477
+
+
+>WP_031973033.1 argininosuccinate lyase [Acinetobacter baumannii]
+Length=477
+
+ Score = 74.3 bits (181),  Expect = 1e-014, Method: Compositional matrix adjust.
+ Identities = 35/37 (95%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIA AHKRLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIAHAHKRLEQLYA  477
+
+
+>WP_031956198.1 argininosuccinate lyase [Acinetobacter baumannii]
+Length=477
+
+ Score = 74.3 bits (181),  Expect = 1e-014, Method: Compositional matrix adjust.
+ Identities = 35/37 (95%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIA AHKRLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIAHAHKRLEQLYA  477
+
+
+>WP_031969967.1 argininosuccinate lyase [Acinetobacter baumannii]
+Length=477
+
+ Score = 74.3 bits (181),  Expect = 1e-014, Method: Compositional matrix adjust.
+ Identities = 35/37 (95%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIA AHKRLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIAHAHKRLEQLYA  477
+
+
+>WP_031984023.1 argininosuccinate lyase [Acinetobacter baumannii]
+Length=477
+
+ Score = 74.3 bits (181),  Expect = 1e-014, Method: Compositional matrix adjust.
+ Identities = 35/37 (95%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIA AHKRLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIAHAHKRLEQLYA  477
+
+
+>WP_032812552.1 MULTISPECIES: argininosuccinate lyase [Acinetobacter]
+Length=476
+
+ Score = 73.6 bits (179),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 34/36 (94%), Positives = 35/36 (97%), Gaps = 0/36 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLY  36
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLY
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHSRLEQLY  476
+
+
+>WP_032883118.1 argininosuccinate lyase [Acinetobacter sp. NIPH 3623]
+Length=476
+
+ Score = 73.6 bits (179),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 34/36 (94%), Positives = 35/36 (97%), Gaps = 0/36 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLY  36
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLY
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEQLY  476
+
+
+>WP_032864564.1 argininosuccinate lyase [Acinetobacter sp. ANC 4105]
+Length=476
+
+ Score = 73.6 bits (179),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 34/36 (94%), Positives = 35/36 (97%), Gaps = 0/36 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLY  36
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLY
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEQLY  476
+
+
+>WP_061517888.1 argininosuccinate lyase [Acinetobacter venetianus]
+Length=477
+
+ Score = 73.6 bits (179),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 34/37 (92%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGT+PKQVEAAIARAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTAPKQVEAAIARAHTRLEQLYA  477
+
+
+>WP_032879959.1 argininosuccinate lyase [Acinetobacter sp. NIPH 1847]
+Length=476
+
+ Score = 73.6 bits (179),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 34/36 (94%), Positives = 35/36 (97%), Gaps = 0/36 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLY  36
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLY
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEQLY  476
+
+
+>WP_032871205.1 argininosuccinate lyase [Acinetobacter baumannii]
+Length=476
+
+ Score = 73.6 bits (179),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 34/36 (94%), Positives = 35/36 (97%), Gaps = 0/36 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLY  36
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLY
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEQLY  476
+
+
+>WP_009508382.1 MULTISPECIES: argininosuccinate lyase [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=476
+
+ Score = 73.6 bits (179),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 34/36 (94%), Positives = 35/36 (97%), Gaps = 0/36 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLY  36
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLY
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEQLY  476
+
+
+>WP_061397004.1 argininosuccinate lyase [Acinetobacter haemolyticus]
+Length=477
+
+ Score = 73.6 bits (179),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 34/37 (92%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGT+PKQVEAAIARAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTAPKQVEAAIARAHTRLEQLYA  477
+
+
+>WP_017196643.1 argininosuccinate lyase [Acinetobacter venetianus]
+Length=477
+
+ Score = 73.6 bits (179),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 34/37 (92%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGT+PKQVEAAIARAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTAPKQVEAAIARAHTRLEQLYA  477
+
+
+>WP_007480183.1 MULTISPECIES: argininosuccinate lyase [Acinetobacter]
+Length=477
+
+ Score = 73.6 bits (179),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 34/37 (92%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGT+PKQVEAAIARAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTAPKQVEAAIARAHTRLEQLYA  477
+
+
+>WP_032810861.1 MULTISPECIES: argininosuccinate lyase [Acinetobacter]
+Length=476
+
+ Score = 73.6 bits (179),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 34/36 (94%), Positives = 35/36 (97%), Gaps = 0/36 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLY  36
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLY
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEQLY  476
+
+
+>WP_062847100.1 argininosuccinate lyase [Acinetobacter sp. NRRL B-65365]
+Length=476
+
+ Score = 73.2 bits (178),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 34/36 (94%), Positives = 35/36 (97%), Gaps = 0/36 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLY  36
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLY
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEQLY  476
+
+
+>WP_033133924.1 argininosuccinate lyase [Acinetobacter sp. MN12]
+Length=476
+
+ Score = 73.2 bits (178),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 34/36 (94%), Positives = 35/36 (97%), Gaps = 0/36 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLY  36
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLY
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEQLY  476
+
+
+>WP_010589809.1 MULTISPECIES: argininosuccinate lyase [Acinetobacter]
+Length=477
+
+ Score = 73.2 bits (178),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 34/36 (94%), Positives = 35/36 (97%), Gaps = 0/36 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLY  36
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLY
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEQLY  476
+
+
+>WP_032864870.1 argininosuccinate lyase [Acinetobacter sp. CIP 56.2]
+Length=476
+
+ Score = 73.2 bits (178),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 34/36 (94%), Positives = 35/36 (97%), Gaps = 0/36 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLY  36
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLY
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEQLY  476
+
+
+>WP_032857396.1 argininosuccinate lyase [Acinetobacter sp. NIPH 1867]
+Length=476
+
+ Score = 73.2 bits (178),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 34/36 (94%), Positives = 35/36 (97%), Gaps = 0/36 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLY  36
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLY
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEQLY  476
+
+
+>WP_061523851.1 argininosuccinate lyase [Acinetobacter venetianus]
+Length=477
+
+ Score = 73.2 bits (178),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 34/37 (92%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGT+PKQVEAAIARAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTAPKQVEAAIARAHTRLEQLYA  477
+
+
+>WP_010589461.1 MULTISPECIES: argininosuccinate lyase [Acinetobacter]
+Length=477
+
+ Score = 73.2 bits (178),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 34/37 (92%), Positives = 35/37 (95%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAI RAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAITRAHSRLEQLYA  477
+
+
+>WP_032879558.1 argininosuccinate lyase [Acinetobacter sp. NIPH 1859]
+Length=477
+
+ Score = 73.2 bits (178),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 34/36 (94%), Positives = 35/36 (97%), Gaps = 0/36 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLY  36
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLY
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEQLY  476
+
+
+>WP_032865802.1 argininosuccinate lyase [Acinetobacter gyllenbergii]
+Length=477
+
+ Score = 73.2 bits (178),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 34/36 (94%), Positives = 35/36 (97%), Gaps = 0/36 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLY  36
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLY
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEQLY  476
+
+
+>WP_034426774.1 argininosuccinate lyase [Acinetobacter sp. CIP 102082]
+Length=477
+
+ Score = 73.2 bits (178),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 34/37 (92%), Positives = 35/37 (95%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAI RAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAITRAHSRLEQLYA  477
+
+
+>WP_034428043.1 argininosuccinate lyase [Acinetobacter sp. CIP 102529]
+Length=477
+
+ Score = 73.2 bits (178),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 34/37 (92%), Positives = 35/37 (95%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAI RAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAITRAHSRLEQLYA  477
+
+
+>WP_032862408.1 argininosuccinate lyase [Acinetobacter sp. NIPH 2036]
+Length=477
+
+ Score = 73.2 bits (178),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 34/36 (94%), Positives = 35/36 (97%), Gaps = 0/36 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLY  36
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLY
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEQLY  476
+
+
+>WP_005403541.1 argininosuccinate lyase [Acinetobacter junii]
+Length=477
+
+ Score = 73.2 bits (178),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 34/37 (92%), Positives = 35/37 (95%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAI RAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIVRAHTRLEQLYA  477
+
+
+>WP_038342634.1 argininosuccinate lyase [Acinetobacter sp. A47]
+Length=476
+
+ Score = 73.2 bits (178),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 34/36 (94%), Positives = 35/36 (97%), Gaps = 0/36 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLY  36
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLY
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEQLY  476
+
+
+>WP_032863770.1 argininosuccinate lyase [Acinetobacter sp. NIPH 2168]
+Length=476
+
+ Score = 73.2 bits (178),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 34/36 (94%), Positives = 35/36 (97%), Gaps = 0/36 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLY  36
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLEQLY
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEQLY  476
+
+
+>WP_005060963.1 argininosuccinate lyase [Acinetobacter beijerinckii]
+Length=477
+
+ Score = 73.2 bits (178),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 34/37 (92%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGT+PKQVEAAIARAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTAPKQVEAAIARAHTRLEQLYA  477
+
+
+>WP_034432690.1 argininosuccinate lyase [Acinetobacter sp. CIP 102129]
+Length=477
+
+ Score = 73.2 bits (178),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 34/37 (92%), Positives = 35/37 (95%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAI RAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAITRAHTRLEQLYA  477
+
+
+>WP_004957372.1 argininosuccinate lyase [Acinetobacter junii]
+Length=477
+
+ Score = 73.2 bits (178),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 34/37 (92%), Positives = 35/37 (95%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAI RAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIVRAHTRLEQLYA  477
+
+
+>WP_017395050.1 argininosuccinate lyase [Acinetobacter haemolyticus]
+Length=477
+
+ Score = 73.2 bits (178),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 34/37 (92%), Positives = 35/37 (95%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAI RAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAITRAHTRLEQLYA  477
+
+
+>WP_034602814.1 MULTISPECIES: argininosuccinate lyase [Acinetobacter]
+Length=477
+
+ Score = 73.2 bits (178),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 34/37 (92%), Positives = 35/37 (95%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAI RAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAITRAHTRLEQLYA  477
+
+
+>WP_019457019.1 MULTISPECIES: argininosuccinate lyase [Acinetobacter]
+Length=477
+
+ Score = 73.2 bits (178),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 34/37 (92%), Positives = 35/37 (95%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAI RAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAITRAHTRLEQLYA  477
+
+
+>WP_077169907.1 argininosuccinate lyase [Acinetobacter genomosp. 33YU]
+Length=477
+
+ Score = 73.2 bits (178),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 34/37 (92%), Positives = 35/37 (95%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAI RAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAITRAHTRLEQLYA  477
+
+
+>WP_005218660.1 argininosuccinate lyase [Acinetobacter sp. ANC 3862]
+Length=477
+
+ Score = 73.2 bits (178),  Expect = 3e-014, Method: Compositional matrix adjust.
+ Identities = 34/37 (92%), Positives = 35/37 (95%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAI RAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAITRAHTRLEQLYA  477
+
+
+>WP_034431167.1 argininosuccinate lyase [Acinetobacter sp. CIP 102637]
+Length=477
+
+ Score = 73.2 bits (178),  Expect = 3e-014, Method: Compositional matrix adjust.
+ Identities = 34/37 (92%), Positives = 35/37 (95%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAI RAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAITRAHTRLEQLYA  477
+
+
+>WP_004659386.1 argininosuccinate lyase [Acinetobacter sp. NIPH 236]
+Length=477
+
+ Score = 73.2 bits (178),  Expect = 3e-014, Method: Compositional matrix adjust.
+ Identities = 34/37 (92%), Positives = 35/37 (95%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAI RAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAITRAHTRLEQLYA  477
+
+
+>WP_039254198.1 argininosuccinate lyase [Acinetobacter baumannii]
+Length=477
+
+ Score = 72.8 bits (177),  Expect = 3e-014, Method: Compositional matrix adjust.
+ Identities = 34/37 (92%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RLE+LYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHTRLEKLYA  477
+
+
+>WP_004932317.1 MULTISPECIES: argininosuccinate lyase [Acinetobacter]
+Length=477
+
+ Score = 72.4 bits (176),  Expect = 5e-014, Method: Compositional matrix adjust.
+ Identities = 34/37 (92%), Positives = 35/37 (95%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RL QLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHDRLAQLYA  477
+
+
+>WP_035374873.1 argininosuccinate lyase [Acinetobacter haemolyticus]
+Length=477
+
+ Score = 72.0 bits (175),  Expect = 6e-014, Method: Compositional matrix adjust.
+ Identities = 33/37 (89%), Positives = 35/37 (95%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSP+QVEAAI RAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPRQVEAAITRAHTRLEQLYA  477
+
+
+>WP_004637617.1 MULTISPECIES: argininosuccinate lyase [Acinetobacter]
+Length=477
+
+ Score = 72.0 bits (175),  Expect = 6e-014, Method: Compositional matrix adjust.
+ Identities = 33/37 (89%), Positives = 35/37 (95%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSP+QVEAAI RAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPRQVEAAITRAHTRLEQLYA  477
+
+
+>WP_005050866.1 argininosuccinate lyase [Acinetobacter beijerinckii]
+Length=477
+
+ Score = 72.0 bits (175),  Expect = 7e-014, Method: Compositional matrix adjust.
+ Identities = 33/37 (89%), Positives = 35/37 (95%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGT+PKQVEAAI RAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTAPKQVEAAIVRAHTRLEQLYA  477
+
+
+>WP_018679160.1 argininosuccinate lyase [Acinetobacter tjernbergiae]
+Length=476
+
+ Score = 72.0 bits (175),  Expect = 7e-014, Method: Compositional matrix adjust.
+ Identities = 33/36 (92%), Positives = 34/36 (94%), Gaps = 0/36 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLY  36
+            +TLEASVNARDHIGGTSPKQVEAAI RAH RLEQLY
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIVRAHTRLEQLY  476
+
+
+>WP_031947168.1 argininosuccinate lyase [Acinetobacter baumannii]
+Length=477
+
+ Score = 72.0 bits (175),  Expect = 7e-014, Method: Compositional matrix adjust.
+ Identities = 33/36 (92%), Positives = 34/36 (94%), Gaps = 0/36 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLY  36
+            +TLEASVNARDHIGGTSPKQVEAAI RAH RLEQLY
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAITRAHTRLEQLY  476
+
+
+>WP_004995322.1 MULTISPECIES: argininosuccinate lyase [Acinetobacter]
+Length=477
+
+ Score = 71.6 bits (174),  Expect = 9e-014, Method: Compositional matrix adjust.
+ Identities = 34/37 (92%), Positives = 35/37 (95%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQV AAIARA KRLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVTAAIARAEKRLEQLYA  477
+
+
+>WP_010588797.1 argininosuccinate lyase [Acinetobacter ursingii]
+Length=477
+
+ Score = 71.6 bits (174),  Expect = 1e-013, Method: Compositional matrix adjust.
+ Identities = 34/37 (92%), Positives = 35/37 (95%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQV AAIARA KRLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVTAAIARAEKRLEQLYA  477
+
+
+>WP_044437068.1 argininosuccinate lyase [Acinetobacter ursingii]
+Length=477
+
+ Score = 71.6 bits (174),  Expect = 1e-013, Method: Compositional matrix adjust.
+ Identities = 34/37 (92%), Positives = 35/37 (95%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQV AAIARA KRLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVTAAIARAEKRLEQLYA  477
+
+
+>WP_005001833.1 argininosuccinate lyase [Acinetobacter ursingii]
+Length=477
+
+ Score = 71.6 bits (174),  Expect = 1e-013, Method: Compositional matrix adjust.
+ Identities = 34/37 (92%), Positives = 35/37 (95%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQV AAIARA KRLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVTAAIARAEKRLEQLYA  477
+
+
+>WP_011182010.1 MULTISPECIES: argininosuccinate lyase [Acinetobacter]
+Length=477
+
+ Score = 71.2 bits (173),  Expect = 1e-013, Method: Compositional matrix adjust.
+ Identities = 33/37 (89%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARA+ RLE+LYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAYDRLEKLYA  477
+
+
+>WP_034594833.1 MULTISPECIES: argininosuccinate lyase [Acinetobacter]
+Length=477
+
+ Score = 71.2 bits (173),  Expect = 1e-013, Method: Compositional matrix adjust.
+ Identities = 33/37 (89%), Positives = 35/37 (95%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGTSPKQVEAAI RAH RLEQLYA
+Sbjct  441  LTLEASVNARNHIGGTSPKQVEAAIVRAHTRLEQLYA  477
+
+
+>WP_004944094.1 argininosuccinate lyase [Acinetobacter soli]
+Length=477
+
+ Score = 70.9 bits (172),  Expect = 2e-013, Method: Compositional matrix adjust.
+ Identities = 33/36 (92%), Positives = 34/36 (94%), Gaps = 0/36 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLY  36
+            +TLEASVNARDHIGGTSPKQVEAAIARAH RL QLY
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAHDRLAQLY  476
+
+
+>WP_025095812.1 argininosuccinate lyase [Acinetobacter soli]
+Length=477
+
+ Score = 70.1 bits (170),  Expect = 3e-013, Method: Compositional matrix adjust.
+ Identities = 33/37 (89%), Positives = 35/37 (95%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGTSPKQVEAAIARA+ RL QLYA
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAIARAYDRLAQLYA  477
+
+
+>WP_061517373.1 argininosuccinate lyase [Acinetobacter venetianus]
+Length=477
+
+ Score = 69.7 bits (169),  Expect = 4e-013, Method: Compositional matrix adjust.
+ Identities = 33/37 (89%), Positives = 35/37 (95%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGT+ KQVEAAIARAH RLEQLYA
+Sbjct  441  LTLEASVNARDHIGGTASKQVEAAIARAHTRLEQLYA  477
+
+
+>WP_035327657.1 argininosuccinate lyase [Acinetobacter parvus]
+Length=477
+
+ Score = 69.7 bits (169),  Expect = 4e-013, Method: Compositional matrix adjust.
+ Identities = 32/36 (89%), Positives = 34/36 (94%), Gaps = 0/36 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLY  36
+            +TLEASVNARDHIGGTSPKQVEAAI RA+ RLEQLY
+Sbjct  441  LTLEASVNARDHIGGTSPKQVEAAITRAYTRLEQLY  476
+
+
+>WP_023273543.1 argininosuccinate lyase [Acinetobacter nectaris]
+Length=478
+
+ Score = 69.3 bits (168),  Expect = 5e-013, Method: Compositional matrix adjust.
+ Identities = 32/37 (86%), Positives = 36/37 (97%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASV+ARDHIGGT+PKQVEAAIARAH RLE+LYA
+Sbjct  440  LTLEASVSARDHIGGTAPKQVEAAIARAHTRLEKLYA  476
+
+
+>WP_081403412.1 argininosuccinate lyase [Acinetobacter equi]
+Length=459
+
+ Score = 67.0 bits (162),  Expect = 4e-012, Method: Compositional matrix adjust.
+ Identities = 31/37 (84%), Positives = 35/37 (95%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QVEAAIARA+ RLEQLYA
+Sbjct  423  LTLEASVNARNHIGGTAPAQVEAAIARAYSRLEQLYA  459
+
+
+>WP_086177111.1 argininosuccinate lyase [Acinetobacter sp. ANC 5054]
+Length=459
+
+ Score = 67.0 bits (162),  Expect = 4e-012, Method: Compositional matrix adjust.
+ Identities = 31/37 (84%), Positives = 35/37 (95%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QVEAAIARAH RLE+LYA
+Sbjct  423  LTLEASVNARNHIGGTAPAQVEAAIARAHARLEKLYA  459
+
+
+>WP_067558103.1 argininosuccinate lyase [Acinetobacter larvae]
+Length=477
+
+ Score = 65.5 bits (158),  Expect = 1e-011, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 35/37 (95%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASV ARDHIGGT+P+QV+AAIARA +RLEQLYA
+Sbjct  441  LTLEASVQARDHIGGTAPQQVQAAIARAEQRLEQLYA  477
+
+
+>WP_086200486.1 argininosuccinate lyase [Acinetobacter sp. ANC 4169]
+Length=459
+
+ Score = 65.5 bits (158),  Expect = 1e-011, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 35/37 (95%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QVEAAIARA+ RLE+LYA
+Sbjct  423  LTLEASVNARNHIGGTAPTQVEAAIARAYTRLEKLYA  459
+
+
+>WP_053579351.1 argininosuccinate lyase [Acinetobacter sp. TTH0-4]
+Length=476
+
+ Score = 65.1 bits (157),  Expect = 2e-011, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 35/37 (95%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QVEAAIARA+ RLE+LYA
+Sbjct  440  LTLEASVNARNHIGGTAPAQVEAAIARAYTRLEKLYA  476
+
+
+>WP_086184367.1 argininosuccinate lyase [Acinetobacter sp. ANC 4973]
+Length=476
+
+ Score = 65.1 bits (157),  Expect = 2e-011, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 35/37 (95%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QVEAAIARA+ RLE+LYA
+Sbjct  440  LTLEASVNARNHIGGTAPAQVEAAIARAYTRLEKLYA  476
+
+
+>WP_086165254.1 argininosuccinate lyase [Acinetobacter sp. ANC 4654]
+Length=476
+
+ Score = 65.1 bits (157),  Expect = 2e-011, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 35/37 (95%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QVEAAIARA+ RLE+LYA
+Sbjct  440  LTLEASVNARNHIGGTAPAQVEAAIARAYTRLEKLYA  476
+
+
+>WP_074946663.1 argininosuccinate lyase [Acinetobacter bohemicus]
+Length=476
+
+ Score = 65.1 bits (157),  Expect = 2e-011, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 35/37 (95%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QVEAAIARA+ RLE+LYA
+Sbjct  440  LTLEASVNARNHIGGTAPAQVEAAIARAYTRLEKLYA  476
+
+
+>WP_034697112.1 argininosuccinate lyase [Acinetobacter bohemicus]
+Length=476
+
+ Score = 65.1 bits (157),  Expect = 2e-011, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 35/37 (95%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QVEAAIARA+ RLE+LYA
+Sbjct  440  LTLEASVNARNHIGGTAPAQVEAAIARAYTRLEKLYA  476
+
+
+>WP_086174613.1 argininosuccinate lyase [Acinetobacter sp. ANC 3903]
+Length=459
+
+ Score = 65.1 bits (157),  Expect = 2e-011, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 35/37 (95%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QVEAAIARA+ RLE+LYA
+Sbjct  423  LTLEASVNARNHIGGTAPAQVEAAIARAYTRLEKLYA  459
+
+
+>WP_067725621.1 argininosuccinate lyase [Acinetobacter sp. SFC]
+Length=476
+
+ Score = 65.1 bits (157),  Expect = 2e-011, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 35/37 (95%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QVEAAIARA+ RLE+LYA
+Sbjct  440  LTLEASVNARNHIGGTAPAQVEAAIARAYTRLEKLYA  476
+
+
+>WP_035325418.1 MULTISPECIES: argininosuccinate lyase [Acinetobacter]
+Length=460
+
+ Score = 65.1 bits (157),  Expect = 2e-011, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 34/37 (92%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QVEAAI RAH RLE+LYA
+Sbjct  423  LTLEASVNARNHIGGTAPAQVEAAIERAHARLEKLYA  459
+
+
+>WP_078190667.1 argininosuccinate lyase [Acinetobacter sp. ANC 4945]
+Length=459
+
+ Score = 65.1 bits (157),  Expect = 2e-011, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 34/37 (92%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QVEAAI RAH RLE+LYA
+Sbjct  423  LTLEASVNARNHIGGTAPAQVEAAIERAHARLEKLYA  459
+
+
+>WP_039890361.1 argininosuccinate lyase [Acinetobacter johnsonii]
+Length=460
+
+ Score = 65.1 bits (157),  Expect = 2e-011, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 34/37 (92%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QVEAAI RAH RLE+LYA
+Sbjct  423  LTLEASVNARNHIGGTAPAQVEAAIERAHARLEKLYA  459
+
+
+>WP_005245809.1 argininosuccinate lyase [Acinetobacter sp. CIP 51.11]
+Length=459
+
+ Score = 65.1 bits (157),  Expect = 2e-011, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 34/37 (92%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QV+AAI RAH RLEQLYA
+Sbjct  423  LTLEASVNARNHIGGTAPAQVKAAIERAHARLEQLYA  459
+
+
+>WP_004729279.1 MULTISPECIES: argininosuccinate lyase [Acinetobacter]
+Length=459
+
+ Score = 65.1 bits (157),  Expect = 2e-011, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 34/37 (92%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QV+AAI RAH RLEQLYA
+Sbjct  423  LTLEASVNARNHIGGTAPAQVKAAIERAHARLEQLYA  459
+
+
+>WP_035330557.1 MULTISPECIES: argininosuccinate lyase [Acinetobacter]
+Length=460
+
+ Score = 65.1 bits (157),  Expect = 2e-011, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 34/37 (92%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QVEAAI RAH RLE+LYA
+Sbjct  423  LTLEASVNARNHIGGTAPAQVEAAIERAHARLEKLYA  459
+
+
+>WP_004647304.1 MULTISPECIES: argininosuccinate lyase [Acinetobacter]
+Length=459
+
+ Score = 65.1 bits (157),  Expect = 2e-011, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 34/37 (92%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QV+AAI RAH RLEQLYA
+Sbjct  423  LTLEASVNARNHIGGTAPAQVKAAIERAHARLEQLYA  459
+
+
+>WP_081313218.1 MULTISPECIES: argininosuccinate lyase [Acinetobacter]
+Length=460
+
+ Score = 65.1 bits (157),  Expect = 2e-011, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 34/37 (92%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QVEAAI RAH RLE+LYA
+Sbjct  423  LTLEASVNARNHIGGTAPAQVEAAIERAHARLEKLYA  459
+
+
+>WP_086214369.1 argininosuccinate lyase [Acinetobacter sp. ANC 3813]
+Length=459
+
+ Score = 64.7 bits (156),  Expect = 2e-011, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 34/37 (92%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QVEAAI RAH RLE+LYA
+Sbjct  423  LTLEASVNARNHIGGTAPAQVEAAIERAHARLEKLYA  459
+
+
+>WP_086044918.1 argininosuccinate lyase [Acinetobacter lwoffii]
+Length=459
+
+ Score = 64.7 bits (156),  Expect = 2e-011, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 34/37 (92%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QV+AAI RAH RLEQLYA
+Sbjct  423  LTLEASVNARNHIGGTAPAQVKAAIERAHARLEQLYA  459
+
+
+>WP_074383920.1 argininosuccinate lyase [Acinetobacter lwoffii]
+Length=459
+
+ Score = 64.7 bits (156),  Expect = 2e-011, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 34/37 (92%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QV+AAI RAH RLEQLYA
+Sbjct  423  LTLEASVNARNHIGGTAPAQVKAAIERAHARLEQLYA  459
+
+
+>WP_044113067.1 argininosuccinate lyase [Acinetobacter idrijaensis]
+Length=459
+
+ Score = 64.7 bits (156),  Expect = 2e-011, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 34/37 (92%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QV+AAI RAH RLEQLYA
+Sbjct  423  LTLEASVNARNHIGGTAPAQVKAAIERAHARLEQLYA  459
+
+
+>WP_005105422.1 MULTISPECIES: argininosuccinate lyase [Acinetobacter]
+Length=459
+
+ Score = 64.7 bits (156),  Expect = 2e-011, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 34/37 (92%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QV+AAI RAH RLEQLYA
+Sbjct  423  LTLEASVNARNHIGGTAPAQVKAAIERAHARLEQLYA  459
+
+
+>WP_010700193.1 MULTISPECIES: argininosuccinate lyase [Acinetobacter]
+ XP_007469969.1 PREDICTED: argininosuccinate lyase, chloroplastic-like [Lipotes 
+vexillifer]
+Length=477
+
+ Score = 64.7 bits (156),  Expect = 2e-011, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 34/37 (92%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QVEAAI RAH RLE+LYA
+Sbjct  441  LTLEASVNARNHIGGTAPAQVEAAIDRAHARLEKLYA  477
+
+
+>WP_005404528.1 MULTISPECIES: argininosuccinate lyase [Acinetobacter]
+Length=477
+
+ Score = 64.7 bits (156),  Expect = 2e-011, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 34/37 (92%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QVEAAI RAH RLE+LYA
+Sbjct  441  LTLEASVNARNHIGGTAPAQVEAAIDRAHARLEKLYA  477
+
+
+>WP_035372882.1 argininosuccinate lyase [Acinetobacter gerneri]
+Length=482
+
+ Score = 64.7 bits (156),  Expect = 2e-011, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 35/37 (95%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QVEAAIARA+ RLE+LYA
+Sbjct  446  LTLEASVNARNHIGGTAPAQVEAAIARAYARLEKLYA  482
+
+
+>WP_067761403.1 argininosuccinate lyase [Acinetobacter gandensis]
+Length=459
+
+ Score = 64.7 bits (156),  Expect = 2e-011, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 34/37 (92%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QVEAAI RAH RLE+LYA
+Sbjct  423  LTLEASVNARNHIGGTAPAQVEAAIERAHARLEKLYA  459
+
+
+>WP_005405904.1 MULTISPECIES: argininosuccinate lyase [Acinetobacter]
+Length=477
+
+ Score = 64.7 bits (156),  Expect = 2e-011, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 34/37 (92%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QVEAAI RAH RLE+LYA
+Sbjct  441  LTLEASVNARNHIGGTAPAQVEAAIDRAHARLEKLYA  477
+
+
+>WP_034171584.1 argininosuccinate lyase [Acinetobacter sp. YZS-X1-1]
+Length=459
+
+ Score = 64.7 bits (156),  Expect = 2e-011, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 34/37 (92%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QVEAAI RAH RLE+LYA
+Sbjct  423  LTLEASVNARNHIGGTAPAQVEAAIERAHARLEKLYA  459
+
+
+>WP_005022994.1 argininosuccinate lyase [Acinetobacter radioresistens]
+Length=459
+
+ Score = 64.7 bits (156),  Expect = 2e-011, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 34/37 (92%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QVEAAI RAH RLE+LYA
+Sbjct  423  LTLEASVNARNHIGGTAPAQVEAAIDRAHARLEKLYA  459
+
+
+>WP_078193307.1 argininosuccinate lyase [Acinetobacter sp. ANC 5600]
+Length=459
+
+ Score = 64.7 bits (156),  Expect = 2e-011, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 34/37 (92%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QVEAAI RAH RLE+LYA
+Sbjct  423  LTLEASVNARNHIGGTAPAQVEAAIERAHARLEKLYA  459
+
+
+>WP_004781638.1 MULTISPECIES: argininosuccinate lyase [Acinetobacter]
+Length=459
+
+ Score = 64.7 bits (156),  Expect = 2e-011, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 34/37 (92%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QVEAAI RAH RLE+LYA
+Sbjct  423  LTLEASVNARNHIGGTAPAQVEAAIERAHARLEKLYA  459
+
+
+>WP_005232561.1 argininosuccinate lyase [Acinetobacter sp. NIPH 2171]
+Length=459
+
+ Score = 64.7 bits (156),  Expect = 2e-011, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 34/37 (92%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QVEAAI RAH RLE+LYA
+Sbjct  423  LTLEASVNARNHIGGTAPAQVEAAIERAHARLEKLYA  459
+
+
+>WP_005173078.1 argininosuccinate lyase [Acinetobacter sp. NIPH 713]
+Length=459
+
+ Score = 64.7 bits (156),  Expect = 2e-011, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 34/37 (92%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QVEAAIARA+ RLE LYA
+Sbjct  423  LTLEASVNARNHIGGTAPAQVEAAIARAYTRLENLYA  459
+
+
+>WP_086196465.1 argininosuccinate lyase [Acinetobacter sp. ANC 4218]
+Length=459
+
+ Score = 64.7 bits (156),  Expect = 2e-011, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 35/37 (95%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QVEAAIARA+ RLE+LYA
+Sbjct  423  LTLEASVNARNHIGGTAPAQVEAAIARAYARLEKLYA  459
+
+
+>WP_005095232.1 argininosuccinate lyase [Acinetobacter lwoffii]
+Length=459
+
+ Score = 64.7 bits (156),  Expect = 2e-011, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 34/37 (92%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QVEAAIARA+ RLE LYA
+Sbjct  423  LTLEASVNARNHIGGTAPAQVEAAIARAYTRLENLYA  459
+
+
+>WP_071852117.1 argininosuccinate lyase [Acinetobacter sp. AR2-3]
+Length=459
+
+ Score = 64.7 bits (156),  Expect = 2e-011, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 34/37 (92%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QVEAAIARA+ RLE LYA
+Sbjct  423  LTLEASVNARNHIGGTAPAQVEAAIARAYTRLENLYA  459
+
+
+>WP_064094992.1 MULTISPECIES: argininosuccinate lyase [Acinetobacter]
+Length=459
+
+ Score = 64.7 bits (156),  Expect = 2e-011, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 34/37 (92%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QVEAAIARA+ RLE LYA
+Sbjct  423  LTLEASVNARNHIGGTAPAQVEAAIARAYTRLENLYA  459
+
+
+>WP_016168463.1 argininosuccinate lyase [Acinetobacter tandoii]
+Length=459
+
+ Score = 64.7 bits (156),  Expect = 3e-011, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 35/37 (95%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QVEAAIARA+ RLE+LYA
+Sbjct  423  LTLEASVNARNHIGGTAPAQVEAAIARAYVRLEKLYA  459
+
+
+>WP_086182886.1 argininosuccinate lyase [Acinetobacter sp. ANC 4558]
+Length=459
+
+ Score = 64.7 bits (156),  Expect = 3e-011, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 33/37 (89%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QVEAAI RAH RLE LYA
+Sbjct  423  LTLEASVNARNHIGGTAPAQVEAAIERAHTRLEHLYA  459
+
+
+>WP_034588042.1 argininosuccinate lyase [Acinetobacter sp. HR7]
+Length=476
+
+ Score = 64.3 bits (155),  Expect = 4e-011, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 34/37 (92%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGTSP QVEAAI RA+ RLE+LYA
+Sbjct  440  LTLEASVNARNHIGGTSPAQVEAAIQRAYARLEKLYA  476
+
+
+>WP_067869554.1 argininosuccinate lyase [Acinetobacter sp. SFB]
+Length=476
+
+ Score = 64.3 bits (155),  Expect = 4e-011, Method: Compositional matrix adjust.
+ Identities = 29/37 (78%), Positives = 35/37 (95%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QVEAAI+RA+ RLE+LYA
+Sbjct  440  LTLEASVNARNHIGGTAPAQVEAAISRAYTRLEKLYA  476
+
+
+>WP_045796519.1 argininosuccinate lyase [Acinetobacter indicus]
+Length=459
+
+ Score = 63.9 bits (154),  Expect = 4e-011, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 33/37 (89%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QV AAI RAH RLEQLYA
+Sbjct  423  LTLEASVNARNHIGGTAPAQVAAAIERAHARLEQLYA  459
+
+
+>WP_005181626.1 MULTISPECIES: argininosuccinate lyase [Acinetobacter]
+Length=459
+
+ Score = 63.9 bits (154),  Expect = 4e-011, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 33/37 (89%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QV AAI RAH RLEQLYA
+Sbjct  423  LTLEASVNARNHIGGTAPAQVAAAIERAHARLEQLYA  459
+
+
+>WP_016659689.1 argininosuccinate lyase [Acinetobacter indicus]
+Length=459
+
+ Score = 63.9 bits (154),  Expect = 4e-011, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 33/37 (89%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QV AAI RAH RLEQLYA
+Sbjct  423  LTLEASVNARNHIGGTAPAQVAAAIERAHARLEQLYA  459
+
+
+>WP_035267605.1 argininosuccinate lyase [Acinetobacter sp. Ver3]
+Length=459
+
+ Score = 63.5 bits (153),  Expect = 5e-011, Method: Compositional matrix adjust.
+ Identities = 30/37 (81%), Positives = 33/37 (89%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QVEAAI RAH RLE LYA
+Sbjct  423  LTLEASVNARNHIGGTAPAQVEAAIERAHARLEALYA  459
+
+
+>WP_086186833.1 argininosuccinate lyase [Acinetobacter sp. ANC 4470]
+Length=476
+
+ Score = 63.5 bits (153),  Expect = 5e-011, Method: Compositional matrix adjust.
+ Identities = 29/37 (78%), Positives = 34/37 (92%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QVEAAI RA+ RLE+LYA
+Sbjct  440  LTLEASVNARNHIGGTAPAQVEAAIVRAYTRLEKLYA  476
+
+
+>WP_016657971.1 argininosuccinate lyase [Acinetobacter rudis]
+Length=474
+
+ Score = 62.8 bits (151),  Expect = 1e-010, Method: Compositional matrix adjust.
+ Identities = 28/37 (76%), Positives = 35/37 (95%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASV+AR+H+GGT+P QV+AAI RAH+RLEQLYA
+Sbjct  438  LTLEASVSARNHLGGTAPAQVQAAIQRAHQRLEQLYA  474
+
+
+>WP_018573003.1 argininosuccinate lyase [Acinetobacter bouvetii]
+Length=459
+
+ Score = 62.8 bits (151),  Expect = 1e-010, Method: Compositional matrix adjust.
+ Identities = 29/37 (78%), Positives = 34/37 (92%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QVEAAI RA+ RLE+LYA
+Sbjct  423  LTLEASVNARNHIGGTAPAQVEAAIERAYARLEKLYA  459
+
+
+>WP_067728008.1 argininosuccinate lyase [Acinetobacter sp. NCu2D-2]
+Length=476
+
+ Score = 62.8 bits (151),  Expect = 1e-010, Method: Compositional matrix adjust.
+ Identities = 29/37 (78%), Positives = 34/37 (92%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QVEAAI RA+ RLE+LYA
+Sbjct  440  LTLEASVNARNHIGGTAPAQVEAAIQRAYARLEKLYA  476
+
+
+>WP_034708113.1 MULTISPECIES: argininosuccinate lyase [Acinetobacter]
+Length=459
+
+ Score = 62.8 bits (151),  Expect = 1e-010, Method: Compositional matrix adjust.
+ Identities = 29/37 (78%), Positives = 33/37 (89%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QV AAI RAH RLE+LYA
+Sbjct  423  LTLEASVNARNHIGGTAPAQVAAAIERAHTRLEKLYA  459
+
+
+>WP_086322738.1 argininosuccinate lyase [Acinetobacter sp. WCHA60]
+Length=459
+
+ Score = 62.4 bits (150),  Expect = 1e-010, Method: Compositional matrix adjust.
+ Identities = 29/37 (78%), Positives = 34/37 (92%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QVEAAI RA+ RLE+LYA
+Sbjct  423  LTLEASVNARNHIGGTAPAQVEAAIQRAYVRLEKLYA  459
+
+
+>WP_086191796.1 argininosuccinate lyase [Acinetobacter sp. ANC 3832]
+Length=459
+
+ Score = 62.4 bits (150),  Expect = 1e-010, Method: Compositional matrix adjust.
+ Identities = 29/37 (78%), Positives = 33/37 (89%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QV AAI RAH RLE+LYA
+Sbjct  423  LTLEASVNARNHIGGTAPAQVNAAIERAHLRLEKLYA  459
+
+
+>WP_081406749.1 argininosuccinate lyase [Acinetobacter sp. ANC 4149]
+Length=459
+
+ Score = 62.4 bits (150),  Expect = 2e-010, Method: Compositional matrix adjust.
+ Identities = 29/37 (78%), Positives = 33/37 (89%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QV AAI RAH RLE+LYA
+Sbjct  423  LTLEASVNARNHIGGTAPAQVAAAIERAHARLEKLYA  459
+
+
+>WP_075041183.1 MULTISPECIES: argininosuccinate lyase [Acinetobacter]
+Length=477
+
+ Score = 61.6 bits (148),  Expect = 3e-010, Method: Compositional matrix adjust.
+ Identities = 29/37 (78%), Positives = 33/37 (89%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QVEAAI RA  RLE+LYA
+Sbjct  441  LTLEASVNARNHIGGTAPAQVEAAIDRARARLEKLYA  477
+
+
+>WP_034680194.1 MULTISPECIES: argininosuccinate lyase [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=477
+
+ Score = 61.6 bits (148),  Expect = 3e-010, Method: Compositional matrix adjust.
+ Identities = 29/37 (78%), Positives = 33/37 (89%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QVEAAI RA  RLE+LYA
+Sbjct  441  LTLEASVNARNHIGGTAPAQVEAAIDRARARLEKLYA  477
+
+
+>WP_086207077.1 argininosuccinate lyase [Acinetobacter sp. ANC 4648]
+Length=459
+
+ Score = 60.8 bits (146),  Expect = 5e-010, Method: Compositional matrix adjust.
+ Identities = 28/37 (76%), Positives = 33/37 (89%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QV AAI RA+ RLE+LYA
+Sbjct  423  LTLEASVNARNHIGGTAPNQVAAAIERAYTRLEKLYA  459
+
+
+>WP_004975740.1 argininosuccinate lyase [Acinetobacter towneri]
+Length=459
+
+ Score = 60.8 bits (146),  Expect = 5e-010, Method: Compositional matrix adjust.
+ Identities = 29/37 (78%), Positives = 31/37 (84%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGT+P QV AAI RA  RL QLYA
+Sbjct  423  LTLEASVNARDHIGGTAPAQVAAAIERAQTRLAQLYA  459
+
+
+>WP_078055382.1 argininosuccinate lyase [Acinetobacter celticus]
+Length=459
+
+ Score = 60.8 bits (146),  Expect = 6e-010, Method: Compositional matrix adjust.
+ Identities = 28/37 (76%), Positives = 33/37 (89%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QV AAI RA+ RLE+LYA
+Sbjct  423  LTLEASVNARNHIGGTAPTQVAAAIERAYTRLEKLYA  459
+
+
+>WP_019838119.1 MULTISPECIES: argininosuccinate lyase [Acinetobacter]
+Length=459
+
+ Score = 60.5 bits (145),  Expect = 6e-010, Method: Compositional matrix adjust.
+ Identities = 29/37 (78%), Positives = 31/37 (84%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNARDHIGGT+P QV AAI RA  RL QLYA
+Sbjct  423  LTLEASVNARDHIGGTAPAQVAAAIERAQARLAQLYA  459
+
+
+>WP_086202544.1 argininosuccinate lyase [Acinetobacter sp. ANC 4999]
+Length=459
+
+ Score = 60.5 bits (145),  Expect = 7e-010, Method: Compositional matrix adjust.
+ Identities = 28/37 (76%), Positives = 33/37 (89%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QV AAI RA+ RLE+LYA
+Sbjct  423  LTLEASVNARNHIGGTAPNQVAAAIERAYVRLEKLYA  459
+
+
+>WP_081406145.1 argininosuccinate lyase [Acinetobacter sp. WCHA30]
+Length=459
+
+ Score = 60.5 bits (145),  Expect = 7e-010, Method: Compositional matrix adjust.
+ Identities = 28/37 (76%), Positives = 33/37 (89%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QV AAI RA+ RLE+LYA
+Sbjct  423  LTLEASVNARNHIGGTAPAQVAAAIERAYTRLEKLYA  459
+
+
+>WP_034599412.1 argininosuccinate lyase [Acinetobacter sp. P8-3-8]
+Length=459
+
+ Score = 60.5 bits (145),  Expect = 7e-010, Method: Compositional matrix adjust.
+ Identities = 28/37 (76%), Positives = 33/37 (89%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QV AAI RA+ RLE+LYA
+Sbjct  423  LTLEASVNARNHIGGTAPAQVAAAIERAYTRLEKLYA  459
+
+
+>WP_067655196.1 argininosuccinate lyase [Acinetobacter sp. TGL-Y2]
+Length=476
+
+ Score = 60.5 bits (145),  Expect = 8e-010, Method: Compositional matrix adjust.
+ Identities = 28/37 (76%), Positives = 33/37 (89%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QVEAAI  A+ RLE+LYA
+Sbjct  440  LTLEASVNARNHIGGTAPAQVEAAITCAYTRLEKLYA  476
+
+
+>WP_039620111.1 argininosuccinate lyase [Acinetobacter harbinensis]
+Length=476
+
+ Score = 60.5 bits (145),  Expect = 8e-010, Method: Compositional matrix adjust.
+ Identities = 28/37 (76%), Positives = 33/37 (89%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QV AAI RA+ RLE+LYA
+Sbjct  440  LTLEASVNARNHIGGTAPAQVMAAIERAYTRLEKLYA  476
+
+
+>WP_004813602.1 MULTISPECIES: argininosuccinate lyase [Acinetobacter]
+Length=459
+
+ Score = 60.1 bits (144),  Expect = 1e-009, Method: Compositional matrix adjust.
+ Identities = 28/37 (76%), Positives = 33/37 (89%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QV AAI RA+ RLE+LYA
+Sbjct  423  LTLEASVNARNHIGGTAPVQVAAAIERAYARLEKLYA  459
+
+
+>XP_003087943.1 hypothetical protein CRE_20658 [Caenorhabditis remanei]
+Length=467
+
+ Score = 60.1 bits (144),  Expect = 1e-009, Method: Compositional matrix adjust.
+ Identities = 28/37 (76%), Positives = 33/37 (89%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QV AAI RA+ RLE+LYA
+Sbjct  431  LTLEASVNARNHIGGTAPAQVAAAIERAYIRLEKLYA  467
+
+
+>WP_071320872.1 argininosuccinate lyase [Acinetobacter sp. LCT-H3]
+Length=459
+
+ Score = 60.1 bits (144),  Expect = 1e-009, Method: Compositional matrix adjust.
+ Identities = 28/37 (76%), Positives = 33/37 (89%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QV AAI RA+ RLE+LYA
+Sbjct  423  LTLEASVNARNHIGGTAPVQVAAAIERAYARLEKLYA  459
+
+
+>WP_004890604.1 MULTISPECIES: argininosuccinate lyase [Acinetobacter]
+Length=459
+
+ Score = 60.1 bits (144),  Expect = 1e-009, Method: Compositional matrix adjust.
+ Identities = 28/37 (76%), Positives = 33/37 (89%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QV AAI RA+ RLE+LYA
+Sbjct  423  LTLEASVNARNHIGGTAPVQVAAAIERAYARLEKLYA  459
+
+
+>WP_056517342.1 argininosuccinate lyase [Acinetobacter sp. Root1280]
+Length=459
+
+ Score = 59.7 bits (143),  Expect = 1e-009, Method: Compositional matrix adjust.
+ Identities = 28/37 (76%), Positives = 33/37 (89%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QV AAI RA+ RLE+LYA
+Sbjct  423  LTLEASVNARNHIGGTAPAQVAAAIERAYIRLEKLYA  459
+
+
+>WP_034617663.1 MULTISPECIES: argininosuccinate lyase [Acinetobacter]
+Length=459
+
+ Score = 59.7 bits (143),  Expect = 1e-009, Method: Compositional matrix adjust.
+ Identities = 28/37 (76%), Positives = 33/37 (89%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QV AAI RA+ RLE+LYA
+Sbjct  423  LTLEASVNARNHIGGTAPAQVAAAIERAYIRLEKLYA  459
+
+
+>XP_005971637.1 PREDICTED: argininosuccinate lyase, chloroplastic-like [Pantholops 
+hodgsonii]
+Length=476
+
+ Score = 59.7 bits (143),  Expect = 1e-009, Method: Compositional matrix adjust.
+ Identities = 28/37 (76%), Positives = 33/37 (89%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR+HIGGT+P QV AAI RA+ RLE+LYA
+Sbjct  440  LTLEASVNARNHIGGTAPAQVAAAIERAYIRLEKLYA  476
+
+
+>WP_032035296.1 argininosuccinate lyase [Acinetobacter sp. 742879]
+Length=476
+
+ Score = 59.3 bits (142),  Expect = 2e-009, Method: Compositional matrix adjust.
+ Identities = 27/35 (77%), Positives = 31/35 (89%), Gaps = 0/35 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQL  35
+            +TLEASVNARDHIGGT+P QVEAAI RA+ RL +L
+Sbjct  441  LTLEASVNARDHIGGTAPSQVEAAIERAYNRLSKL  475
+
+
+>WP_070069410.1 argininosuccinate lyase [Acinetobacter qingfengensis]
+Length=474
+
+ Score = 58.9 bits (141),  Expect = 2e-009, Method: Compositional matrix adjust.
+ Identities = 27/35 (77%), Positives = 33/35 (94%), Gaps = 0/35 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQL  35
+            +TLEASV+AR+HIGGT+P QVEAAIARA+ R+EQL
+Sbjct  440  LTLEASVSARNHIGGTAPAQVEAAIARAYTRIEQL  474
+
+
+>WP_076878728.1 argininosuccinate lyase [Alkanindiges sp. H1]
+Length=488
+
+ Score = 58.5 bits (140),  Expect = 3e-009, Method: Compositional matrix adjust.
+ Identities = 26/35 (74%), Positives = 32/35 (91%), Gaps = 0/35 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQL  35
+            +TLE SV+ARDHIGGT+P QV+AAI RAH+R+EQL
+Sbjct  454  LTLEGSVSARDHIGGTAPAQVKAAIERAHQRIEQL  488
+
+
+>WP_068911113.1 argininosuccinate lyase [Acinetobacter sp. WCHA34]
+Length=459
+
+ Score = 58.2 bits (139),  Expect = 5e-009, Method: Compositional matrix adjust.
+ Identities = 28/37 (76%), Positives = 31/37 (84%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASVNAR HIGGT+P QV AAI RA  RLE+LYA
+Sbjct  423  LTLEASVNARSHIGGTAPAQVAAAIERARLRLEKLYA  459
+
+
+>WP_034425599.1 argininosuccinate lyase [Acinetobacter sp. ANC 3789]
+Length=477
+
+ Score = 57.4 bits (137),  Expect = 1e-008, Method: Compositional matrix adjust.
+ Identities = 27/37 (73%), Positives = 33/37 (89%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASV+AR+HIGGT+P QV AAI RA+ RLE+LYA
+Sbjct  441  LTLEASVSARNHIGGTAPVQVAAAIERAYVRLEKLYA  477
+
+
+>WP_081407025.1 argininosuccinate lyase [Acinetobacter brisouii]
+Length=477
+
+ Score = 57.0 bits (136),  Expect = 1e-008, Method: Compositional matrix adjust.
+ Identities = 27/37 (73%), Positives = 32/37 (86%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASV+AR+HIGGT+P QV AAI RAH RL +LYA
+Sbjct  441  LTLEASVSARNHIGGTAPVQVAAAIERAHARLAKLYA  477
+
+
+>WP_035365511.1 argininosuccinate lyase [Acinetobacter brisouii]
+Length=477
+
+ Score = 57.0 bits (136),  Expect = 1e-008, Method: Compositional matrix adjust.
+ Identities = 27/37 (73%), Positives = 32/37 (86%), Gaps = 0/37 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQLYA  37
+            +TLEASV+AR+HIGGT+P QV AAI RAH RL +LYA
+Sbjct  441  LTLEASVSARNHIGGTAPVQVAAAIERAHARLAKLYA  477
+
+
+>WP_082987647.1 argininosuccinate lyase [Moraxella atlantae]
+Length=487
+
+ Score = 53.9 bits (128),  Expect = 1e-007, Method: Compositional matrix adjust.
+ Identities = 24/35 (69%), Positives = 30/35 (86%), Gaps = 0/35 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQL  35
+            +TLE S+NARDHIGGT+PKQV+AAIAR  +R+  L
+Sbjct  451  LTLEGSLNARDHIGGTAPKQVQAAIARGRERVAAL  485
+
+
+>WP_083101632.1 argininosuccinate lyase [Moraxella atlantae]
+Length=487
+
+ Score = 53.9 bits (128),  Expect = 1e-007, Method: Compositional matrix adjust.
+ Identities = 24/35 (69%), Positives = 30/35 (86%), Gaps = 0/35 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQL  35
+            +TLE S+NARDHIGGT+PKQV+AAIAR  +R+  L
+Sbjct  451  LTLEGSLNARDHIGGTAPKQVQAAIARGRERVAAL  485
+
+
+>WP_079352050.1 argininosuccinate lyase [Moraxella atlantae]
+Length=487
+
+ Score = 53.9 bits (128),  Expect = 1e-007, Method: Compositional matrix adjust.
+ Identities = 24/35 (69%), Positives = 30/35 (86%), Gaps = 0/35 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQL  35
+            +TLE S+NARDHIGGT+PKQV+AAIAR  +R+  L
+Sbjct  451  LTLEGSLNARDHIGGTAPKQVQAAIARGRERVAAL  485
+
+
+>WP_084494799.1 argininosuccinate lyase [Alkanindiges illinoisensis]
+Length=488
+
+ Score = 53.1 bits (126),  Expect = 3e-007, Method: Compositional matrix adjust.
+ Identities = 24/35 (69%), Positives = 30/35 (86%), Gaps = 0/35 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQL  35
+            +TLE SV+ARDHIGGT+P QV+AAI RA +R+ QL
+Sbjct  454  LTLEGSVSARDHIGGTAPAQVKAAIERAQQRIAQL  488
+
+
+>WP_019727035.1 MULTISPECIES: argininosuccinate lyase [Pseudomonas]
+Length=464
+
+ Score = 52.8 bits (125),  Expect = 3e-007, Method: Compositional matrix adjust.
+ Identities = 24/34 (71%), Positives = 27/34 (79%), Gaps = 0/34 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQ  34
+            +TLE SVNARDHIGGT+P QV AA+AR  K L Q
+Sbjct  430  LTLEGSVNARDHIGGTAPNQVRAAVARGRKLLAQ  463
+
+
+>WP_061196693.1 argininosuccinate lyase [Pseudomonas aeruginosa]
+Length=464
+
+ Score = 52.8 bits (125),  Expect = 3e-007, Method: Compositional matrix adjust.
+ Identities = 24/34 (71%), Positives = 27/34 (79%), Gaps = 0/34 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQ  34
+            +TLE SVNARDHIGGT+P QV AA+AR  K L Q
+Sbjct  430  LTLEGSVNARDHIGGTAPNQVRAAVARGRKLLAQ  463
+
+
+>WP_034039133.1 argininosuccinate lyase [Pseudomonas aeruginosa]
+Length=464
+
+ Score = 52.8 bits (125),  Expect = 3e-007, Method: Compositional matrix adjust.
+ Identities = 24/34 (71%), Positives = 27/34 (79%), Gaps = 0/34 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQ  34
+            +TLE SVNARDHIGGT+P QV AA+AR  K L Q
+Sbjct  430  LTLEGSVNARDHIGGTAPNQVRAAVARGRKLLAQ  463
+
+
+>WP_016562475.1 MULTISPECIES: argininosuccinate lyase [Pseudomonas]
+Length=464
+
+ Score = 52.8 bits (125),  Expect = 3e-007, Method: Compositional matrix adjust.
+ Identities = 24/34 (71%), Positives = 27/34 (79%), Gaps = 0/34 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQ  34
+            +TLE SVNARDHIGGT+P QV AA+AR  K L Q
+Sbjct  430  LTLEGSVNARDHIGGTAPNQVRAAVARGRKLLAQ  463
+
+
+>WP_003099239.1 argininosuccinate lyase [Pseudomonas aeruginosa]
+Length=464
+
+ Score = 52.8 bits (125),  Expect = 3e-007, Method: Compositional matrix adjust.
+ Identities = 24/34 (71%), Positives = 27/34 (79%), Gaps = 0/34 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQ  34
+            +TLE SVNARDHIGGT+P QV AA+AR  K L Q
+Sbjct  430  LTLEGSVNARDHIGGTAPNQVRAAVARGRKLLAQ  463
+
+
+>WP_057379543.1 argininosuccinate lyase [Pseudomonas aeruginosa]
+Length=464
+
+ Score = 52.8 bits (125),  Expect = 3e-007, Method: Compositional matrix adjust.
+ Identities = 24/34 (71%), Positives = 27/34 (79%), Gaps = 0/34 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQ  34
+            +TLE SVNARDHIGGT+P QV AA+AR  K L Q
+Sbjct  430  LTLEGSVNARDHIGGTAPNQVRAAVARGRKLLAQ  463
+
+
+>WP_049305449.1 argininosuccinate lyase [Pseudomonas aeruginosa]
+Length=464
+
+ Score = 52.8 bits (125),  Expect = 3e-007, Method: Compositional matrix adjust.
+ Identities = 24/34 (71%), Positives = 27/34 (79%), Gaps = 0/34 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQ  34
+            +TLE SVNARDHIGGT+P QV AA+AR  K L Q
+Sbjct  430  LTLEGSVNARDHIGGTAPNQVRAAVARGRKLLAQ  463
+
+
+>WP_043096320.1 argininosuccinate lyase [Pseudomonas aeruginosa]
+Length=464
+
+ Score = 52.8 bits (125),  Expect = 3e-007, Method: Compositional matrix adjust.
+ Identities = 24/34 (71%), Positives = 27/34 (79%), Gaps = 0/34 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQ  34
+            +TLE SVNARDHIGGT+P QV AA+AR  K L Q
+Sbjct  430  LTLEGSVNARDHIGGTAPNQVRAAVARGRKLLAQ  463
+
+
+>WP_034039696.1 argininosuccinate lyase [Pseudomonas aeruginosa]
+Length=464
+
+ Score = 52.8 bits (125),  Expect = 3e-007, Method: Compositional matrix adjust.
+ Identities = 24/34 (71%), Positives = 27/34 (79%), Gaps = 0/34 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQ  34
+            +TLE SVNARDHIGGT+P QV AA+AR  K L Q
+Sbjct  430  LTLEGSVNARDHIGGTAPNQVRAAVARGRKLLAQ  463
+
+
+>WP_003161177.1 MULTISPECIES: argininosuccinate lyase [Pseudomonas]
+Length=464
+
+ Score = 52.8 bits (125),  Expect = 3e-007, Method: Compositional matrix adjust.
+ Identities = 24/34 (71%), Positives = 27/34 (79%), Gaps = 0/34 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQ  34
+            +TLE SVNARDHIGGT+P QV AA+AR  K L Q
+Sbjct  430  LTLEGSVNARDHIGGTAPNQVRAAVARGRKLLAQ  463
+
+
+>WP_058159289.1 argininosuccinate lyase [Pseudomonas aeruginosa]
+Length=464
+
+ Score = 52.8 bits (125),  Expect = 3e-007, Method: Compositional matrix adjust.
+ Identities = 24/34 (71%), Positives = 27/34 (79%), Gaps = 0/34 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQ  34
+            +TLE SVNARDHIGGT+P QV AA+AR  K L Q
+Sbjct  430  LTLEGSVNARDHIGGTAPNQVRAAVARGRKLLAQ  463
+
+
+>WP_034059538.1 argininosuccinate lyase [Pseudomonas aeruginosa]
+Length=464
+
+ Score = 52.8 bits (125),  Expect = 3e-007, Method: Compositional matrix adjust.
+ Identities = 24/34 (71%), Positives = 27/34 (79%), Gaps = 0/34 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQ  34
+            +TLE SVNARDHIGGT+P QV AA+AR  K L Q
+Sbjct  430  LTLEGSVNARDHIGGTAPNQVRAAVARGRKLLAQ  463
+
+
+>WP_034001653.1 argininosuccinate lyase [Pseudomonas aeruginosa]
+Length=464
+
+ Score = 52.8 bits (125),  Expect = 3e-007, Method: Compositional matrix adjust.
+ Identities = 24/34 (71%), Positives = 27/34 (79%), Gaps = 0/34 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQ  34
+            +TLE SVNARDHIGGT+P QV AA+AR  K L Q
+Sbjct  430  LTLEGSVNARDHIGGTAPNQVRAAVARGRKLLAQ  463
+
+
+>WP_033950097.1 argininosuccinate lyase [Pseudomonas aeruginosa]
+Length=464
+
+ Score = 52.8 bits (125),  Expect = 3e-007, Method: Compositional matrix adjust.
+ Identities = 24/34 (71%), Positives = 27/34 (79%), Gaps = 0/34 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQ  34
+            +TLE SVNARDHIGGT+P QV AA+AR  K L Q
+Sbjct  430  LTLEGSVNARDHIGGTAPNQVRAAVARGRKLLAQ  463
+
+
+>WP_023110529.1 argininosuccinate lyase [Pseudomonas aeruginosa]
+Length=464
+
+ Score = 52.8 bits (125),  Expect = 3e-007, Method: Compositional matrix adjust.
+ Identities = 24/34 (71%), Positives = 27/34 (79%), Gaps = 0/34 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQ  34
+            +TLE SVNARDHIGGT+P QV AA+AR  K L Q
+Sbjct  430  LTLEGSVNARDHIGGTAPNQVRAAVARGRKLLAQ  463
+
+
+>WP_023111991.1 argininosuccinate lyase [Pseudomonas aeruginosa]
+Length=464
+
+ Score = 52.8 bits (125),  Expect = 3e-007, Method: Compositional matrix adjust.
+ Identities = 24/34 (71%), Positives = 27/34 (79%), Gaps = 0/34 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQ  34
+            +TLE SVNARDHIGGT+P QV AA+AR  K L Q
+Sbjct  430  LTLEGSVNARDHIGGTAPNQVRAAVARGRKLLAQ  463
+
+
+>WP_023097075.1 argininosuccinate lyase [Pseudomonas aeruginosa]
+Length=464
+
+ Score = 52.8 bits (125),  Expect = 3e-007, Method: Compositional matrix adjust.
+ Identities = 24/34 (71%), Positives = 27/34 (79%), Gaps = 0/34 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQ  34
+            +TLE SVNARDHIGGT+P QV AA+AR  K L Q
+Sbjct  430  LTLEGSVNARDHIGGTAPNQVRAAVARGRKLLAQ  463
+
+
+>WP_017148674.1 MULTISPECIES: argininosuccinate lyase [Pseudomonas]
+Length=464
+
+ Score = 52.8 bits (125),  Expect = 3e-007, Method: Compositional matrix adjust.
+ Identities = 24/34 (71%), Positives = 27/34 (79%), Gaps = 0/34 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQ  34
+            +TLE SVNARDHIGGT+P QV AA+AR  K L Q
+Sbjct  430  LTLEGSVNARDHIGGTAPNQVRAAVARGRKLLAQ  463
+
+
+>WP_061193340.1 argininosuccinate lyase [Pseudomonas aeruginosa]
+Length=464
+
+ Score = 52.8 bits (125),  Expect = 4e-007, Method: Compositional matrix adjust.
+ Identities = 24/34 (71%), Positives = 27/34 (79%), Gaps = 0/34 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQ  34
+            +TLE SVNARDHIGGT+P QV AA+AR  K L Q
+Sbjct  430  LTLEGSVNARDHIGGTAPNQVRAAVARGRKLLAQ  463
+
+
+>WP_049291225.1 argininosuccinate lyase [Pseudomonas aeruginosa]
+Length=464
+
+ Score = 52.8 bits (125),  Expect = 4e-007, Method: Compositional matrix adjust.
+ Identities = 24/34 (71%), Positives = 27/34 (79%), Gaps = 0/34 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQ  34
+            +TLE SVNARDHIGGT+P QV AA+AR  K L Q
+Sbjct  430  LTLEGSVNARDHIGGTAPNQVRAAVARGRKLLAQ  463
+
+
+>WP_070742921.1 MULTISPECIES: argininosuccinate lyase [Pseudomonas]
+Length=464
+
+ Score = 52.8 bits (125),  Expect = 4e-007, Method: Compositional matrix adjust.
+ Identities = 24/34 (71%), Positives = 27/34 (79%), Gaps = 0/34 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQ  34
+            +TLE SVNARDHIGGT+P QV AA+AR  K L Q
+Sbjct  430  LTLEGSVNARDHIGGTAPNQVRAAVARGRKLLAQ  463
+
+
+>WP_061200793.1 argininosuccinate lyase [Pseudomonas aeruginosa]
+Length=464
+
+ Score = 52.8 bits (125),  Expect = 4e-007, Method: Compositional matrix adjust.
+ Identities = 24/34 (71%), Positives = 27/34 (79%), Gaps = 0/34 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQ  34
+            +TLE SVNARDHIGGT+P QV AA+AR  K L Q
+Sbjct  430  LTLEGSVNARDHIGGTAPNQVRAAVARGRKLLAQ  463
+
+
+>WP_060774312.1 argininosuccinate lyase [Pseudomonas aeruginosa]
+Length=464
+
+ Score = 52.8 bits (125),  Expect = 4e-007, Method: Compositional matrix adjust.
+ Identities = 24/34 (71%), Positives = 27/34 (79%), Gaps = 0/34 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQ  34
+            +TLE SVNARDHIGGT+P QV AA+AR  K L Q
+Sbjct  430  LTLEGSVNARDHIGGTAPNQVRAAVARGRKLLAQ  463
+
+
+>WP_058200838.1 argininosuccinate lyase [Pseudomonas aeruginosa]
+Length=464
+
+ Score = 52.8 bits (125),  Expect = 4e-007, Method: Compositional matrix adjust.
+ Identities = 24/34 (71%), Positives = 27/34 (79%), Gaps = 0/34 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQ  34
+            +TLE SVNARDHIGGT+P QV AA+AR  K L Q
+Sbjct  430  LTLEGSVNARDHIGGTAPNQVRAAVARGRKLLAQ  463
+
+
+>WP_058354769.1 argininosuccinate lyase [Pseudomonas aeruginosa]
+Length=464
+
+ Score = 52.8 bits (125),  Expect = 4e-007, Method: Compositional matrix adjust.
+ Identities = 24/34 (71%), Positives = 27/34 (79%), Gaps = 0/34 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQ  34
+            +TLE SVNARDHIGGT+P QV AA+AR  K L Q
+Sbjct  430  LTLEGSVNARDHIGGTAPNQVRAAVARGRKLLAQ  463
+
+
+>WP_058178825.1 argininosuccinate lyase [Pseudomonas aeruginosa]
+Length=464
+
+ Score = 52.8 bits (125),  Expect = 4e-007, Method: Compositional matrix adjust.
+ Identities = 24/34 (71%), Positives = 27/34 (79%), Gaps = 0/34 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQ  34
+            +TLE SVNARDHIGGT+P QV AA+AR  K L Q
+Sbjct  430  LTLEGSVNARDHIGGTAPNQVRAAVARGRKLLAQ  463
+
+
+>WP_034076454.1 argininosuccinate lyase [Pseudomonas aeruginosa]
+Length=464
+
+ Score = 52.8 bits (125),  Expect = 4e-007, Method: Compositional matrix adjust.
+ Identities = 24/34 (71%), Positives = 27/34 (79%), Gaps = 0/34 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQ  34
+            +TLE SVNARDHIGGT+P QV AA+AR  K L Q
+Sbjct  430  LTLEGSVNARDHIGGTAPNQVRAAVARGRKLLAQ  463
+
+
+>WP_031671481.1 argininosuccinate lyase [Pseudomonas aeruginosa]
+Length=464
+
+ Score = 52.8 bits (125),  Expect = 4e-007, Method: Compositional matrix adjust.
+ Identities = 24/34 (71%), Positives = 27/34 (79%), Gaps = 0/34 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQ  34
+            +TLE SVNARDHIGGT+P QV AA+AR  K L Q
+Sbjct  430  LTLEGSVNARDHIGGTAPNQVRAAVARGRKLLAQ  463
+
+
+>WP_023119896.1 argininosuccinate lyase [Pseudomonas aeruginosa]
+Length=464
+
+ Score = 52.8 bits (125),  Expect = 4e-007, Method: Compositional matrix adjust.
+ Identities = 24/34 (71%), Positives = 27/34 (79%), Gaps = 0/34 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQ  34
+            +TLE SVNARDHIGGT+P QV AA+AR  K L Q
+Sbjct  430  LTLEGSVNARDHIGGTAPNQVRAAVARGRKLLAQ  463
+
+
+>WP_023096311.1 argininosuccinate lyase [Pseudomonas aeruginosa]
+Length=464
+
+ Score = 52.8 bits (125),  Expect = 4e-007, Method: Compositional matrix adjust.
+ Identities = 24/34 (71%), Positives = 27/34 (79%), Gaps = 0/34 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQ  34
+            +TLE SVNARDHIGGT+P QV AA+AR  K L Q
+Sbjct  430  LTLEGSVNARDHIGGTAPNQVRAAVARGRKLLAQ  463
+
+
+>WP_017001304.1 argininosuccinate lyase [Pseudomonas aeruginosa]
+Length=464
+
+ Score = 52.8 bits (125),  Expect = 4e-007, Method: Compositional matrix adjust.
+ Identities = 24/34 (71%), Positives = 27/34 (79%), Gaps = 0/34 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQ  34
+            +TLE SVNARDHIGGT+P QV AA+AR  K L Q
+Sbjct  430  LTLEGSVNARDHIGGTAPNQVRAAVARGRKLLAQ  463
+
+
+>WP_003114030.1 MULTISPECIES: argininosuccinate lyase [Pseudomonas]
+ NP_253950.1 argininosuccinate lyase [Pseudomonas aeruginosa PAO1]
+Length=464
+
+ Score = 52.8 bits (125),  Expect = 4e-007, Method: Compositional matrix adjust.
+ Identities = 24/34 (71%), Positives = 27/34 (79%), Gaps = 0/34 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQ  34
+            +TLE SVNARDHIGGT+P QV AA+AR  K L Q
+Sbjct  430  LTLEGSVNARDHIGGTAPNQVRAAVARGRKLLAQ  463
+
+
+>WP_034024768.1 argininosuccinate lyase [Pseudomonas aeruginosa]
+Length=464
+
+ Score = 52.8 bits (125),  Expect = 4e-007, Method: Compositional matrix adjust.
+ Identities = 24/34 (71%), Positives = 27/34 (79%), Gaps = 0/34 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQ  34
+            +TLE SVNARDHIGGT+P QV AA+AR  K L Q
+Sbjct  430  LTLEGSVNARDHIGGTAPNQVRAAVARGRKLLAQ  463
+
+
+>WP_003096405.1 MULTISPECIES: argininosuccinate lyase [Pseudomonas]
+Length=464
+
+ Score = 52.8 bits (125),  Expect = 4e-007, Method: Compositional matrix adjust.
+ Identities = 24/34 (71%), Positives = 27/34 (79%), Gaps = 0/34 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQ  34
+            +TLE SVNARDHIGGT+P QV AA+AR  K L Q
+Sbjct  430  LTLEGSVNARDHIGGTAPNQVRAAVARGRKLLAQ  463
+
+
+>WP_061197359.1 argininosuccinate lyase [Pseudomonas aeruginosa]
+Length=464
+
+ Score = 52.8 bits (125),  Expect = 4e-007, Method: Compositional matrix adjust.
+ Identities = 24/34 (71%), Positives = 27/34 (79%), Gaps = 0/34 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQ  34
+            +TLE SVNARDHIGGT+P QV AA+AR  K L Q
+Sbjct  430  LTLEGSVNARDHIGGTAPNQVRAAVARGRKLLAQ  463
+
+
+>WP_061193954.1 argininosuccinate lyase [Pseudomonas aeruginosa]
+Length=464
+
+ Score = 52.8 bits (125),  Expect = 4e-007, Method: Compositional matrix adjust.
+ Identities = 24/34 (71%), Positives = 27/34 (79%), Gaps = 0/34 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQ  34
+            +TLE SVNARDHIGGT+P QV AA+AR  K L Q
+Sbjct  430  LTLEGSVNARDHIGGTAPNQVRAAVARGRKLLAQ  463
+
+
+>WP_058140471.1 argininosuccinate lyase [Pseudomonas aeruginosa]
+Length=464
+
+ Score = 52.8 bits (125),  Expect = 4e-007, Method: Compositional matrix adjust.
+ Identities = 24/34 (71%), Positives = 27/34 (79%), Gaps = 0/34 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQ  34
+            +TLE SVNARDHIGGT+P QV AA+AR  K L Q
+Sbjct  430  LTLEGSVNARDHIGGTAPNQVRAAVARGRKLLAQ  463
+
+
+>WP_057382445.1 argininosuccinate lyase [Pseudomonas aeruginosa]
+Length=464
+
+ Score = 52.8 bits (125),  Expect = 4e-007, Method: Compositional matrix adjust.
+ Identities = 24/34 (71%), Positives = 27/34 (79%), Gaps = 0/34 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQ  34
+            +TLE SVNARDHIGGT+P QV AA+AR  K L Q
+Sbjct  430  LTLEGSVNARDHIGGTAPNQVRAAVARGRKLLAQ  463
+
+
+>WP_034020769.1 argininosuccinate lyase [Pseudomonas aeruginosa]
+Length=464
+
+ Score = 52.8 bits (125),  Expect = 4e-007, Method: Compositional matrix adjust.
+ Identities = 24/34 (71%), Positives = 27/34 (79%), Gaps = 0/34 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQ  34
+            +TLE SVNARDHIGGT+P QV AA+AR  K L Q
+Sbjct  430  LTLEGSVNARDHIGGTAPNQVRAAVARGRKLLAQ  463
+
+
+>WP_033985191.1 argininosuccinate lyase [Pseudomonas aeruginosa]
+Length=464
+
+ Score = 52.8 bits (125),  Expect = 4e-007, Method: Compositional matrix adjust.
+ Identities = 24/34 (71%), Positives = 27/34 (79%), Gaps = 0/34 (0%)
+
+Query  1    MTLEASVNARDHIGGTSPKQVEAAIARAHKRLEQ  34
+            +TLE SVNARDHIGGT+P QV AA+AR  K L Q
+Sbjct  430  LTLEGSVNARDHIGGTAPNQVRAAVARGRKLLAQ  463
+
+
+
+Lambda      K        H
+   0.314    0.124    0.333 
+
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+
+Effective search space used: 793257196550
+
+
+  Database: NCBI Protein Reference Sequences
+    Posted date:  May 29, 2017 12:00 AM
+  Number of letters in database: 31,412,196,622
+  Number of sequences in database:  82,027,677
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40

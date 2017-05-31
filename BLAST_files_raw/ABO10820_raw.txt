@@ -1,0 +1,4315 @@
+BLASTP 2.6.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: NCBI Protein Reference Sequences
+           82,027,677 sequences; 31,412,196,622 total letters
+
+
+
+Query= embl-cds:ABO10820 30S ribosomal protein S15 OS=Acinetobacter
+baumannii (strain ATCC 17978 / CIP 53.77 / LMG 1025 / NCDC KC755 /
+5377) GN=A1S_0360 SV=1 UP=UP000006737:Chromosome
+
+Length=89
+
+RID: JV7A0P6P014
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+WP_001229357.1  MULTISPECIES: 30S ribosomal protein S15 [Acinetob...  181     3e-058
+WP_032022792.1  30S ribosomal protein S15 [Acinetobacter baumannii]   179     2e-057
+WP_032047913.1  30S ribosomal protein S15 [Acinetobacter sp. 1566...  179     4e-057
+WP_002114951.1  MULTISPECIES: 30S ribosomal protein S15 [Acinetob...  178     5e-057
+WP_004876536.1  MULTISPECIES: 30S ribosomal protein S15 [Acinetob...  176     2e-056
+WP_042894554.1  MULTISPECIES: 30S ribosomal protein S15 [Acinetob...  175     7e-056
+WP_086182014.1  30S ribosomal protein S15 [Acinetobacter sp. ANC ...  175     1e-055
+WP_004637724.1  MULTISPECIES: 30S ribosomal protein S15 [Acinetob...  174     1e-055
+WP_004749819.1  MULTISPECIES: 30S ribosomal protein S15 [Acinetob...  174     2e-055
+WP_004774141.1  MULTISPECIES: 30S ribosomal protein S15 [Acinetob...  173     4e-055
+WP_004278577.1  MULTISPECIES: 30S ribosomal protein S15 [Acinetob...  173     4e-055
+WP_005051078.1  30S ribosomal protein S15 [Acinetobacter beijerin...  173     4e-055
+WP_004656162.1  MULTISPECIES: 30S ribosomal protein S15 [Acinetob...  173     6e-055
+WP_004916774.1  30S ribosomal protein S15 [Acinetobacter junii]       172     2e-054
+WP_005154935.1  MULTISPECIES: 30S ribosomal protein S15 [Acinetob...  172     2e-054
+WP_070070545.1  30S ribosomal protein S15 [Acinetobacter qingfeng...  171     4e-054
+WP_004668422.1  MULTISPECIES: 30S ribosomal protein S15 [Acinetob...  169     1e-053
+WP_004920392.1  MULTISPECIES: 30S ribosomal protein S15 [Acinetob...  169     2e-053
+WP_067761248.1  MULTISPECIES: 30S ribosomal protein S15 [Acinetob...  169     3e-053
+WP_005007057.1  MULTISPECIES: 30S ribosomal protein S15 [Acinetob...  168     4e-053
+WP_004975922.1  MULTISPECIES: 30S ribosomal protein S15 [Acinetob...  168     4e-053
+WP_004869779.1  30S ribosomal protein S15 [Acinetobacter gerneri]     168     4e-053
+WP_004991585.1  MULTISPECIES: 30S ribosomal protein S15 [Acinetob...  168     5e-053
+WP_067661804.1  30S ribosomal protein S15 [Acinetobacter sp. TGL-Y2]  168     6e-053
+WP_067722305.1  MULTISPECIES: 30S ribosomal protein S15 [Acinetob...  167     1e-052
+WP_067669627.1  30S ribosomal protein S15 [Acinetobacter sp. ANC ...  167     2e-052
+WP_065994019.1  30S ribosomal protein S15 [Acinetobacter sp. WCHA30]  167     2e-052
+WP_023273031.1  30S ribosomal protein S15 [Acinetobacter nectaris]    167     2e-052
+WP_053578909.1  30S ribosomal protein S15 [Acinetobacter sp. TTH0-4]  166     2e-052
+WP_004692669.1  MULTISPECIES: 30S ribosomal protein S15 [Acinetob...  166     3e-052
+WP_004725514.1  MULTISPECIES: 30S ribosomal protein S15 [Acinetob...  166     4e-052
+WP_068885591.1  30S ribosomal protein S15 [Acinetobacter celticus]    166     5e-052
+WP_026472384.1  30S ribosomal protein S15 [Alkanindiges illinoise...  165     6e-052
+WP_039620832.1  30S ribosomal protein S15 [Acinetobacter harbinen...  165     6e-052
+WP_076876879.1  30S ribosomal protein S15 [Alkanindiges sp. H1]       165     8e-052
+WP_035264047.1  30S ribosomal protein S15 [Acinetobacter sp. Ver3]    165     1e-051
+WP_086202386.1  30S ribosomal protein S15 [Acinetobacter sp. ANC ...  164     2e-051
+WP_086189684.1  30S ribosomal protein S15 [Acinetobacter sp. ANC ...  164     2e-051
+WP_010111798.1  30S ribosomal protein S15 [Acinetobacter sp. P8-3-8]  164     2e-051
+WP_005016930.1  MULTISPECIES: 30S ribosomal protein S15 [Acinetob...  164     3e-051
+WP_066804187.1  30S ribosomal protein S15 [Moraxella oblonga]         153     5e-047
+WP_066885188.1  30S ribosomal protein S15 [Moraxella nonliquefaci...  150     4e-046
+WP_062498827.1  30S ribosomal protein S15 [Moraxella lacunata]        150     7e-046
+WP_079325859.1  30S ribosomal protein S15 [Moraxella equi]            150     8e-046
+WP_078275781.1  30S ribosomal protein S15 [Moraxella caviae]          150     8e-046
+WP_049237758.1  MULTISPECIES: 30S ribosomal protein S15 [Moraxella]   150     9e-046
+WP_065255111.1  30S ribosomal protein S15 [Moraxella lacunata]        150     9e-046
+WP_029102604.1  30S ribosomal protein S15 [Moraxella caprae]          149     2e-045
+WP_036331213.1  MULTISPECIES: 30S ribosomal protein S15 [Moraxella]   149     2e-045
+WP_078317272.1  30S ribosomal protein S15 [Moraxella porci]           149     2e-045
+WP_036367197.1  MULTISPECIES: 30S ribosomal protein S15 [Moraxella]   148     5e-045
+WP_076555843.1  30S ribosomal protein S15 [Moraxella cuniculi]        148     5e-045
+WP_078274359.1  30S ribosomal protein S15 [Moraxella bovis]           147     7e-045
+WP_064611025.1  30S ribosomal protein S15 [Moraxella catarrhalis]     147     7e-045
+WP_078254066.1  30S ribosomal protein S15 [Moraxella pluranimalium]   147     1e-044
+WP_082741445.1  30S ribosomal protein S15 [Moraxella osloensis]       146     2e-044
+WP_086183912.1  30S ribosomal protein S15 [Acinetobacter sp. ANC ...  146     3e-044
+WP_086165136.1  30S ribosomal protein S15 [Acinetobacter sp. ANC ...  145     4e-044
+WP_082168269.1  MULTISPECIES: 30S ribosomal protein S15 [Proteoba...  145     7e-044
+WP_004649994.1  30S ribosomal protein S15 [Acinetobacter bohemicus]   144     1e-043
+WP_067551708.1  30S ribosomal protein S15 [Acinetobacter larvae]      144     2e-043
+WP_067234473.1  30S ribosomal protein S15 [Moraxella atlantae]        143     3e-043
+WP_067058444.1  30S ribosomal protein S15 [Moraxella atlantae]        143     4e-043
+WP_079690572.1  30S ribosomal protein S15 [Psychrobacter sp. DAB_...  143     5e-043
+WP_078307781.1  30S ribosomal protein S15 [Moraxella lincolnii]       142     7e-043
+WP_022955533.1  30S ribosomal protein S15 [Perlucidibaca piscinae]    142     1e-042
+WP_062534470.1  30S ribosomal protein S15 [Psychrobacter urativor...  142     1e-042
+WP_085330930.1  30S ribosomal protein S15 [Colwellia sediminilito...  142     1e-042
+WP_085302467.1  30S ribosomal protein S15 [Colwellia polaris]         142     1e-042
+WP_077284924.1  30S ribosomal protein S15 [Colwellia aestuarii]       142     1e-042
+WP_081180863.1  30S ribosomal protein S15 [Colwellia sp. PAMC 21821]  142     1e-042
+WP_045443035.1  MULTISPECIES: 30S ribosomal protein S15 [Psychrob...  141     2e-042
+WP_011512454.1  MULTISPECIES: 30S ribosomal protein S15 [Psychrob...  141     3e-042
+WP_065392421.1  MULTISPECIES: 30S ribosomal protein S15 [Gammapro...  141     3e-042
+WP_009501257.1  30S ribosomal protein S15 [Moraxella macacae]         141     3e-042
+WP_025652581.1  MULTISPECIES: 30S ribosomal protein S15 [Psychrob...  140     3e-042
+WP_077448297.1  30S ribosomal protein S15 [Psychrobacter sp. CIP ...  140     4e-042
+WP_075101373.1  30S ribosomal protein S15 [Psychrobacter sp. Rd 2...  140     4e-042
+WP_081153084.1  30S ribosomal protein S15 [Colwellia sp. NB097-1]     140     5e-042
+WP_024952154.1  MULTISPECIES: 30S ribosomal protein S15 [Cobetia]     140     5e-042
+WP_068407892.1  30S ribosomal protein S15 [Psychrobacter sp. SHUES1]  140     6e-042
+WP_016657682.1  30S ribosomal protein S15 [Acinetobacter rudis]       140     6e-042
+WP_019520204.1  30S ribosomal protein S15 [Moraxella boevrei]         140     7e-042
+WP_058023603.1  MULTISPECIES: 30S ribosomal protein S15 [Psychrob...  140     8e-042
+WP_085285070.1  30S ribosomal protein S15 [Colwellia chukchiensis]    140     8e-042
+WP_068857430.1  30S ribosomal protein S15 [Perlucidibaca sp. BK296]   139     1e-041
+WP_007394560.1  30S ribosomal protein S15 [Psychrobacter sp. 1501...  139     1e-041
+WP_054553172.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudoal...  139     1e-041
+WP_011279386.1  30S ribosomal protein S15 [Psychrobacter arcticus]    139     1e-041
+WP_075560513.1  30S ribosomal protein S15 [Salinicola sp. MH3R3-1]    139     2e-041
+WP_010197757.1  30S ribosomal protein S15 [Psychrobacter sp. PAMC...  139     2e-041
+WP_076418899.1  MULTISPECIES: 30S ribosomal protein S15 [Colwellia]   139     2e-041
+WP_063355435.1  30S ribosomal protein S15 [Pseudoalteromonas lute...  139     3e-041
+WP_010385052.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudoal...  138     3e-041
+WP_075103320.1  30S ribosomal protein S15 [Psychrobacter sp. Cmf ...  138     3e-041
+WP_051397416.1  MULTISPECIES: 30S ribosomal protein S15 [Psychrob...  138     5e-041
+WP_085297030.1  30S ribosomal protein S15 [Colwellia mytili]          138     5e-041
+WP_068033696.1  MULTISPECIES: 30S ribosomal protein S15 [Psychrob...  138     5e-041
+WP_036969894.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudoal...  138     6e-041
+WP_036975065.1  30S ribosomal protein S15 [Pseudoalteromonas lute...  137     6e-041
+WP_067868145.1  30S ribosomal protein S15 [Neptuniibacter marinus]    137     6e-041
+WP_011532144.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  137     7e-041
+WP_068828248.1  30S ribosomal protein S15 [Pseudomonas sp. BMS12]     137     7e-041
+WP_049723468.1  30S ribosomal protein S15 [Gilvimarinus polysacch...  137     1e-040
+WP_019673212.1  30S ribosomal protein S15 [Psychrobacter lutiphocae]  137     1e-040
+WP_003240577.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  137     1e-040
+WP_085757094.1  30S ribosomal protein S15 [Oceanicoccus sagamiensis]  137     1e-040
+WP_074860168.1  30S ribosomal protein S15 [Pseudomonas oleovorans]    137     1e-040
+WP_070984030.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudoal...  137     2e-040
+WP_027874146.1  30S ribosomal protein S15 [Spongiibacter marinus]     137     2e-040
+WP_027858312.1  30S ribosomal protein S15 [Marinobacterium jannas...  137     2e-040
+WP_075568554.1  30S ribosomal protein S15 [Salinicola socius]         136     2e-040
+WP_029613930.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  136     2e-040
+WP_003249971.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  136     2e-040
+WP_022958514.1  30S ribosomal protein S15 [Spongiibacter tropicus]    136     2e-040
+WP_038662983.1  30S ribosomal protein S15 [Pseudomonas stutzeri]      136     2e-040
+WP_068452738.1  MULTISPECIES: 30S ribosomal protein S15 [Oleiphilus]  136     2e-040
+WP_033077637.1  30S ribosomal protein S15 [Thalassotalea sp. ND16A]   136     2e-040
+WP_019342083.1  30S ribosomal protein S15 [Pseudomonas stutzeri]      136     2e-040
+WP_004424394.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  136     2e-040
+WP_036996916.1  30S ribosomal protein S15 [Pseudomonas sp. P482]      136     3e-040
+WP_028944521.1  30S ribosomal protein S15 [Pseudomonas vranovensis]   136     3e-040
+WP_026958556.1  MULTISPECIES: 30S ribosomal protein S15 [Aliagari...  136     3e-040
+WP_068993606.1  30S ribosomal protein S15 [Kangiella sediminilito...  136     3e-040
+WP_075749474.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  136     3e-040
+WP_011327689.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudoal...  136     3e-040
+WP_044874075.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  136     3e-040
+WP_037443512.1  30S ribosomal protein S15 [Shewanella mangrovi]       136     3e-040
+WP_011043025.1  30S ribosomal protein S15 [Colwellia psychrerythr...  136     3e-040
+WP_061405706.1  30S ribosomal protein S15 [Pseudomonas putida]        136     3e-040
+WP_068810870.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudoho...  135     3e-040
+WP_085578459.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  135     3e-040
+WP_056834037.1  30S ribosomal protein S15 [Pseudomonas sp. Leaf127]   135     4e-040
+WP_003457281.1  30S ribosomal protein S15 [Pseudomonas pseudoalca...  135     4e-040
+WP_035476178.1  30S ribosomal protein S15 [Gammaproteobacteria ba...  135     4e-040
+WP_009404303.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  135     4e-040
+WP_046555795.1  30S ribosomal protein S15 [Arsukibacterium ikkense]   135     4e-040
+WP_041521676.1  30S ribosomal protein S15 [Gilvimarinus agarilyti...  135     4e-040
+WP_045429687.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  135     4e-040
+WP_016391796.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  135     4e-040
+WP_012274241.1  MULTISPECIES: 30S ribosomal protein S15 [Gammapro...  135     4e-040
+WP_044841531.1  30S ribosomal protein S15 [Thalassomonas viridans]    135     4e-040
+WP_003280896.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  135     5e-040
+WP_028858412.1  MULTISPECIES: 30S ribosomal protein S15 [Psychrob...  135     5e-040
+WP_068389597.1  30S ribosomal protein S15 [Ventosimonas gracilis]     135     6e-040
+WP_037026451.1  30S ribosomal protein S15 [Pseudomonas saudiphoca...  135     6e-040
+WP_036514252.1  30S ribosomal protein S15 [Nitrincola nitratiredu...  135     6e-040
+WP_037015114.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  135     6e-040
+WP_042554902.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  135     7e-040
+WP_065758270.1  30S ribosomal protein S15 [Pseudomonas sp. WCHP16]    135     7e-040
+WP_044413751.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  135     8e-040
+WP_070882080.1  30S ribosomal protein S15 [Pseudomonas punonensis]    135     9e-040
+WP_010487557.1  30S ribosomal protein S15 [Pseudomonas sp. S9]        135     9e-040
+WP_044835044.1  30S ribosomal protein S15 [Thalassomonas actiniarum]  134     1e-039
+WP_028695135.1  30S ribosomal protein S15 [Pseudomonas cremoricol...  134     1e-039
+WP_010222985.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  134     1e-039
+WP_010325155.1  30S ribosomal protein S15 [Marinobacterium stanieri]  134     1e-039
+WP_055010951.1  30S ribosomal protein S15 [Pseudomonas caricapapa...  134     1e-039
+WP_016494768.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  134     1e-039
+WP_046554052.1  30S ribosomal protein S15 [Arsukibacterium sp. MJ3]   134     1e-039
+WP_083726848.1  30S ribosomal protein S15 [Pseudomonas pachastrel...  134     1e-039
+WP_023629335.1  MULTISPECIES: 30S ribosomal protein S15 [Bacteria]    134     2e-039
+WP_016489163.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  134     2e-039
+WP_013792667.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  134     2e-039
+WP_074498437.1  30S ribosomal protein S15 [Thalassotalea sp. PP2-...  134     2e-039
+WP_029686335.1  30S ribosomal protein S15 [Tatumella saanichensis]    134     2e-039
+WP_008373827.1  30S ribosomal protein S15 [Pseudomonas sp. M47T1]     134     2e-039
+WP_071230933.1  30S ribosomal protein S15 [Salinicola sp. MIT1003]    134     2e-039
+WP_006793376.1  MULTISPECIES: 30S ribosomal protein S15 [Alteromo...  134     2e-039
+WP_027900329.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  134     2e-039
+WP_068545359.1  30S ribosomal protein S15 [Thalassotalea sp. LPB0...  134     2e-039
+WP_036993120.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  134     2e-039
+WP_019675832.1  30S ribosomal protein S15 [Rheinheimera perlucida]    134     2e-039
+WP_043308798.1  30S ribosomal protein S15 [Pseudomonas sp. ML96]      134     2e-039
+WP_028615142.1  30S ribosomal protein S15 [Pseudomonas pelagia]       134     2e-039
+WP_047590392.1  30S ribosomal protein S15 [Pseudomonas mendocina]     134     2e-039
+WP_025240600.1  30S ribosomal protein S15 [Pseudomonas stutzeri]      134     2e-039
+WP_011959458.1  30S ribosomal protein S15 [Psychrobacter sp. PRwf-1]  134     2e-039
+WP_004585888.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudoal...  134     2e-039
+WP_033094396.1  30S ribosomal protein S15 [Colwellia psychrerythr...  134     2e-039
+WP_022965136.1  30S ribosomal protein S15 [Pseudomonas caeni]         134     2e-039
+WP_060509346.1  30S ribosomal protein S15 [Pseudomonas sp. NBRC 1...  134     2e-039
+WP_010365898.1  30S ribosomal protein S15 [Pseudoalteromonas citrea]  134     2e-039
+WP_002555121.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  134     2e-039
+WP_010370825.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudoal...  134     2e-039
+WP_046820615.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  134     2e-039
+WP_021205845.1  30S ribosomal protein S15 [Pseudomonas stutzeri]      134     2e-039
+WP_003221553.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  134     3e-039
+WP_069897972.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  134     3e-039
+WP_022642180.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  134     3e-039
+WP_009042128.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  134     3e-039
+WP_058764308.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  134     3e-039
+WP_011914369.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  133     3e-039
+WP_003095184.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  133     3e-039
+WP_012702770.1  30S ribosomal protein S15 [Azotobacter vinelandii]    133     3e-039
+WP_067987434.1  30S ribosomal protein S15 [Neptuniibacter pecteni...  133     3e-039
+WP_027458246.1  30S ribosomal protein S15 [Dechloromonas agitata]     133     3e-039
+WP_016707659.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudoal...  133     3e-039
+WP_020305265.1  30S ribosomal protein S15 [Pseudomonas syringae]      133     4e-039
+WP_011469182.1  30S ribosomal protein S15 [Saccharophagus degradans]  133     4e-039
+WP_066316110.1  MULTISPECIES: 30S ribosomal protein S15 [Halomonas]   133     4e-039
+WP_017904137.1  30S ribosomal protein S15 [Pseudomonas fuscovaginae]  133     4e-039
+WP_021700421.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  133     4e-039
+WP_086434036.1  30S ribosomal protein S15 [Idiomarina planktonica]    133     4e-039
+WP_046561978.1  30S ribosomal protein S15 [Kangiella geojedonensis]   133     4e-039
+WP_009685353.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  133     4e-039
+WP_027965820.1  30S ribosomal protein S15 [Halomonas halocynthiae]    133     4e-039
+WP_028866424.1  30S ribosomal protein S15 [Psychromonas hadalis]      133     4e-039
+WP_043190760.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  133     5e-039
+WP_079204781.1  30S ribosomal protein S15 [Pseudomonas sp. CC6-YY...  133     5e-039
+WP_070376186.1  30S ribosomal protein S15 [Colwellia sp. PAMC 20917]  133     5e-039
+WP_028870486.1  30S ribosomal protein S15 [Psychromonas arctica]      133     5e-039
+WP_064121065.1  30S ribosomal protein S15 [Halotalea alkalilenta]     133     5e-039
+WP_045216763.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  133     5e-039
+WP_007021178.1  30S ribosomal protein S15 [Neptuniibacter caesari...  133     5e-039
+WP_027337656.1  30S ribosomal protein S15 [Halomonas sp. HL-48]       133     5e-039
+WP_016419040.1  30S ribosomal protein S15 [Halomonas anticariensis]   132     6e-039
+WP_074881307.1  30S ribosomal protein S15 [Pseudomonas argentinen...  132     6e-039
+WP_057181185.1  MULTISPECIES: 30S ribosomal protein S15 [Colwellia]   132     6e-039
+WP_028863706.1  30S ribosomal protein S15 [Psychromonas aquimarina]   132     6e-039
+WP_021217896.1  30S ribosomal protein S15 [Pseudomonas alcaligenes]   132     6e-039
+WP_014291939.1  30S ribosomal protein S15 [Oceanimonas sp. GK1]       132     7e-039
+WP_065259984.1  30S ribosomal protein S15 [Pseudomonas fluorescens]   132     7e-039
+WP_020407738.1  30S ribosomal protein S15 [Hahella ganghwensis]       132     7e-039
+WP_033955212.1  30S ribosomal protein S15 [Pseudomonas aeruginosa]    132     7e-039
+WP_039802075.1  30S ribosomal protein S15 [Azotobacter chroococcum]   132     7e-039
+WP_044619055.1  30S ribosomal protein S15 [Gynuella sunshinyii]       132     7e-039
+WP_019027814.1  30S ribosomal protein S15 [Colwellia piezophila]      132     8e-039
+WP_078745897.1  30S ribosomal protein S15 [Oceanospirillum multig...  132     8e-039
+WP_068478048.1  MULTISPECIES: 30S ribosomal protein S15 [Oleiphilus]  132     8e-039
+WP_066015146.1  30S ribosomal protein S15 [Endozoicomonas atrinae]    132     8e-039
+WP_024684882.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  132     8e-039
+WP_048308269.1  30S ribosomal protein S15 [Halomonas sp. PR-M31]      132     9e-039
+WP_027349602.1  30S ribosomal protein S15 [Halotalea alkalilenta]     132     9e-039
+WP_029095188.1  30S ribosomal protein S15 [Budvicia aquatica]         132     9e-039
+WP_048329795.1  30S ribosomal protein S15 [Pseudomonas stutzeri]      132     1e-038
+WP_042146076.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudoal...  132     1e-038
+WP_080048476.1  30S ribosomal protein S15 [Pseudomonas sp. S-6-2]     132     1e-038
+WP_076513482.1  30S ribosomal protein S15 [Oleibacter marinus]        132     1e-038
+WP_011059205.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  132     1e-038
+WP_003293213.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  132     1e-038
+WP_038086722.1  30S ribosomal protein S15 [Acidihalobacter prospe...  132     1e-038
+WP_053268197.1  30S ribosomal protein S15 [Pseudomonas chlororaphis]  132     1e-038
+WP_017937453.1  30S ribosomal protein S15 [Pseudomonas thermotole...  132     1e-038
+WP_017446286.1  30S ribosomal protein S15 [Gayadomonas joobiniege]    132     1e-038
+WP_009838828.1  30S ribosomal protein S15 [Pseudoalteromonas tuni...  132     1e-038
+WP_014996168.1  MULTISPECIES: 30S ribosomal protein S15 [Alcanivo...  132     1e-038
+WP_017431312.1  30S ribosomal protein S15 [Halomonas jeotgali]        132     1e-038
+WP_018623365.1  30S ribosomal protein S15 [Kangiella aquimarina]      132     1e-038
+WP_027852957.1  30S ribosomal protein S15 [Marinobacterium litorale]  132     1e-038
+WP_007645205.1  MULTISPECIES: 30S ribosomal protein S15 [Cellvibrio]  132     1e-038
+WP_010447232.1  30S ribosomal protein S15 [Pseudomonas fuscovaginae]  132     1e-038
+WP_007111823.1  MULTISPECIES: 30S ribosomal protein S15 [Halomonas]   132     1e-038
+WP_040989123.1  30S ribosomal protein S15 [Vibrio renipiscarius]      132     1e-038
+WP_039592311.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  132     1e-038
+WP_016915928.1  MULTISPECIES: 30S ribosomal protein S15 [Halomonas]   132     2e-038
+WP_026111212.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudoal...  132     2e-038
+WP_039699458.1  30S ribosomal protein S15 [Pseudomonas aeruginosa]    131     2e-038
+WP_007226045.1  30S ribosomal protein S15 [marine gamma proteobac...  131     2e-038
+WP_009877136.1  30S ribosomal protein S15 [Pseudomonas aeruginosa]    131     2e-038
+WP_076835789.1  30S ribosomal protein S15 [Acidihalobacter ferroo...  131     2e-038
+WP_007162645.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  131     2e-038
+WP_024610129.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudoal...  131     2e-038
+WP_015465634.1  30S ribosomal protein S15 [Psychromonas sp. CNPT3]    131     2e-038
+WP_072822974.1  30S ribosomal protein S15 [Halomonas ilicicola]       131     2e-038
+WP_032834718.1  30S ribosomal protein S15 [Pseudomonas sp. GM50]      131     2e-038
+WP_075879531.1  30S ribosomal protein S15 [Halomonas sp. Marseill...  131     2e-038
+WP_007231523.1  MULTISPECIES: 30S ribosomal protein S15 [unclassi...  131     2e-038
+WP_043512930.1  MULTISPECIES: 30S ribosomal protein S15 [Halomonas]   131     2e-038
+WP_085698397.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  131     2e-038
+WP_050658528.1  30S ribosomal protein S15 [Gallaecimonas pentarom...  131     2e-038
+WP_047779836.1  30S ribosomal protein S15 [Pragia fontium]            131     2e-038
+WP_011332409.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  131     2e-038
+WP_023533188.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  131     2e-038
+WP_085068276.1  30S ribosomal protein S15 [Pantoea alhagi]            131     2e-038
+WP_039181357.1  30S ribosomal protein S15 [Halomonas hydrothermalis]  131     2e-038
+WP_070072750.1  30S ribosomal protein S15 [Acidihalobacter prospe...  131     2e-038
+WP_010547977.1  30S ribosomal protein S15 [gamma proteobacterium ...  131     2e-038
+WP_027669738.1  30S ribosomal protein S15 [Rheinheimera baltica]      131     2e-038
+WP_026199417.1  30S ribosomal protein S15 [Lamprocystis purpurea]     131     2e-038
+WP_036183480.1  30S ribosomal protein S15 [Marinobacterium sp. AK27]  131     3e-038
+WP_084934273.1  30S ribosomal protein S15 [Pantoea rwandensis]        131     3e-038
+WP_055438271.1  30S ribosomal protein S15 [Idiomarina woesei]         131     3e-038
+WP_074397689.1  30S ribosomal protein S15 [Halomonas sp. HL-93]       131     3e-038
+WP_027312069.1  30S ribosomal protein S15 [Balneatrix alpica]         131     3e-038
+WP_068228924.1  30S ribosomal protein S15 [Rheinheimera sp. EpRS3]    131     3e-038
+WP_008223878.1  30S ribosomal protein S15 [Rheinheimera nanhaiensis]  131     3e-038
+WP_053101374.1  30S ribosomal protein S15 [Oblitimonas alkaliphila]   131     3e-038
+WP_038628742.1  MULTISPECIES: 30S ribosomal protein S15 [Pantoea]     130     3e-038
+WP_009723734.1  MULTISPECIES: 30S ribosomal protein S15 [Halomonas]   130     3e-038
+WP_071873025.1  30S ribosomal protein S15 [Pseudomonas hussainii]     130     3e-038
+WP_004728948.1  MULTISPECIES: 30S ribosomal protein S15 [Vibrio]      130     3e-038
+WP_008250520.1  30S ribosomal protein S15 [Zhongshania aliphatici...  130     3e-038
+WP_018917553.1  30S ribosomal protein S15 [Halomonas zhanjiangensis]  130     3e-038
+WP_064679783.1  30S ribosomal protein S15 [Pseudomonas sp. A3(2016)]  130     3e-038
+WP_070078227.1  30S ribosomal protein S15 [Acidihalobacter prospe...  130     3e-038
+WP_071473214.1  30S ribosomal protein S15 [Oceanisphaera psychrot...  130     4e-038
+WP_040259364.1  30S ribosomal protein S15 [Pseudomonas sp. CB1]       130     4e-038
+WP_015478926.1  30S ribosomal protein S15 [Pseudomonas sp. ATCC 1...  130     4e-038
+WP_070050208.1  30S ribosomal protein S15 [Rheinheimera salexigens]   130     4e-038
+WP_025563525.1  30S ribosomal protein S15 [Psychromonas sp. SP041]    130     4e-038
+WP_000055655.1  MULTISPECIES: 30S ribosomal protein S15 [Vibrio]      130     4e-038
+WP_017518939.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  130     4e-038
+WP_027962549.1  30S ribosomal protein S15 [Halomonas halodenitrif...  130     4e-038
+WP_034826514.1  MULTISPECIES: 30S ribosomal protein S15 [Enteroba...  130     4e-038
+WP_016853973.1  MULTISPECIES: 30S ribosomal protein S15 [Halomonas]   130     4e-038
+WP_047277520.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  130     4e-038
+WP_039915285.1  30S ribosomal protein S15 [Cellvibrio mixtus]         130     4e-038
+WP_085728116.1  30S ribosomal protein S15 [Pseudomonas sp. R37(20...  130     4e-038
+WP_008484467.1  30S ribosomal protein S15 [Gallaecimonas xiamenen...  130     5e-038
+WP_065594289.1  MULTISPECIES: 30S ribosomal protein S15 [Aliivibrio]  130     5e-038
+WP_006955194.1  MULTISPECIES: 30S ribosomal protein S15 [Idiomarina]  130     5e-038
+WP_018692923.1  30S ribosomal protein S15 [Algicola sagamiensis]      130     5e-038
+WP_028623136.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  130     5e-038
+WP_043530872.1  30S ribosomal protein S15 [Halomonas xinjiangensis]   130     5e-038
+WP_016771751.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  130     5e-038
+WP_078320581.1  30S ribosomal protein S15 [Oceanospirillum linum]     130     5e-038
+WP_019935556.1  30S ribosomal protein S15 [Oceanimonas smirnovii]     130     5e-038
+WP_048383704.1  30S ribosomal protein S15 [Pseudomonas taetrolens]    130     5e-038
+WP_025164698.1  30S ribosomal protein S15 [Pseudomonas taeanensis]    130     5e-038
+WP_012800245.1  30S ribosomal protein S15 [Kangiella koreensis]       130     6e-038
+WP_055732429.1  30S ribosomal protein S15 [Agarivorans gilvus]        130     6e-038
+WP_026861865.1  30S ribosomal protein S15 [Idiomarina sediminum]      130     6e-038
+WP_023005012.1  30S ribosomal protein S15 [Halomonas sp. PBN3]        130     6e-038
+WP_049632519.1  30S ribosomal protein S15 [Cellvibrio sp. pealriver]  130     6e-038
+WP_028108592.1  30S ribosomal protein S15 [Ferrimonas futtsuensis]    130     6e-038
+WP_015046834.1  30S ribosomal protein S15 [Simiduia agarivorans]      130     6e-038
+WP_010625696.1  30S ribosomal protein S15 [Halomonas sp. KM-1]        130     7e-038
+WP_048362138.1  30S ribosomal protein S15 [Pseudomonas deceptione...  130     7e-038
+WP_028685206.1  30S ribosomal protein S15 [Phaseolibacter flectens]   130     7e-038
+WP_015093441.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  130     7e-038
+WP_000055654.1  MULTISPECIES: 30S ribosomal protein S15 [Vibrio]      130     7e-038
+WP_025903869.1  MULTISPECIES: 30S ribosomal protein S15 [Erwiniac...  130     7e-038
+WP_014896498.1  30S ribosomal protein S15 [Burkholderia cepacia]      130     8e-038
+WP_076542867.1  30S ribosomal protein S15 [Shewanella sp. UCD-KL21]   130     8e-038
+WP_046519467.1  30S ribosomal protein S15 [Rheinheimera mesophila]    130     8e-038
+WP_003439639.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  130     8e-038
+WP_004740633.1  MULTISPECIES: 30S ribosomal protein S15 [Vibrio]      130     8e-038
+WP_067288535.1  MULTISPECIES: 30S ribosomal protein S15 [Marinoba...  130     8e-038
+WP_039103748.1  30S ribosomal protein S15 [Frischella perrara]        130     8e-038
+WP_034773857.1  30S ribosomal protein S15 [Idiomarina salinarum]      130     9e-038
+WP_060837491.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  130     9e-038
+WP_036549456.1  30S ribosomal protein S15 [Nitrincola lacisaponen...  129     9e-038
+WP_005369538.1  MULTISPECIES: 30S ribosomal protein S15 [Photobac...  129     9e-038
+WP_009835750.1  MULTISPECIES: 30S ribosomal protein S15 [Marinomo...  129     1e-037
+WP_016783433.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  129     1e-037
+WP_010615981.1  MULTISPECIES: 30S ribosomal protein S15 [Pantoea]     129     1e-037
+WP_036162137.1  30S ribosomal protein S15 [Marinomonas ushuaiensis]   129     1e-037
+WP_009613036.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  129     1e-037
+WP_004734493.1  MULTISPECIES: 30S ribosomal protein S15 [Vibrio]      129     1e-037
+WP_018404129.1  30S ribosomal protein S15 [Marinobacter lipolyticus]  129     1e-037
+WP_034732577.1  30S ribosomal protein S15 [Idiomarina atlantica]      129     1e-037
+WP_032551549.1  MULTISPECIES: 30S ribosomal protein S15 [Vibrio]      129     1e-037
+WP_083333216.1  30S ribosomal protein S15 [Pseudomonas lundensis]     129     1e-037
+WP_017801424.1  30S ribosomal protein S15 [Erwinia toletana]          129     1e-037
+WP_048898018.1  MULTISPECIES: 30S ribosomal protein S15 [Photobac...  129     1e-037
+WP_004401958.1  30S ribosomal protein S15 [Vibrio nigripulchritudo]   129     1e-037
+WP_011769230.1  30S ribosomal protein S15 [Psychromonas ingrahamii]   129     1e-037
+WP_062061544.1  30S ribosomal protein S15 [Cellvibrio sp. OA-2007]    129     1e-037
+WP_027707259.1  30S ribosomal protein S15 [Zooshikella ganghwensis]   129     1e-037
+WP_015487826.1  30S ribosomal protein S15 [Thalassolituus oleivor...  129     1e-037
+WP_019691797.1  30S ribosomal protein S15 [Pseudomonas fluorescens]   129     1e-037
+WP_048366010.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  129     1e-037
+WP_008900377.1  MULTISPECIES: 30S ribosomal protein S15 [Rheinhei...  129     1e-037
+WP_043188860.1  MULTISPECIES: 30S ribosomal protein S15 [Burkhold...  129     1e-037
+WP_010436144.1  MULTISPECIES: 30S ribosomal protein S15 [Vibrio]      129     1e-037
+WP_014853911.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  129     1e-037
+WP_008489912.1  30S ribosomal protein S15 [Idiomarina xiamenensis]    129     1e-037
+WP_020332050.1  MULTISPECIES: 30S ribosomal protein S15 [Vibrio]      129     1e-037
+WP_045992264.1  30S ribosomal protein S15 [Halomonas sp. S2151]       129     1e-037
+WP_036620269.1  MULTISPECIES: 30S ribosomal protein S15 [Enteroba...  129     1e-037
+WP_014872614.1  MULTISPECIES: 30S ribosomal protein S15 [Marinoba...  129     1e-037
+WP_009100924.1  30S ribosomal protein S15 [Halomonas sp. GFAJ-1]      129     1e-037
+WP_012068748.1  MULTISPECIES: 30S ribosomal protein S15 [Marinomo...  129     2e-037
+WP_020412406.1  MULTISPECIES: 30S ribosomal protein S15 [Microbul...  129     2e-037
+WP_019612977.1  30S ribosomal protein S15 [Psychromonas ossibalae...  129     2e-037
+WP_045956323.1  30S ribosomal protein S15 [Vibrio galatheae]          129     2e-037
+WP_007175620.1  30S ribosomal protein S15 [Burkholderia sp. Ch1-1]    129     2e-037
+WP_076715387.1  30S ribosomal protein S15 [Motiliproteus sp. MSK2...  129     2e-037
+WP_039458488.1  30S ribosomal protein S15 [Photobacterium gaetbul...  129     2e-037
+WP_025819339.1  30S ribosomal protein S15 [Shewanella marina]         129     2e-037
+WP_069667171.1  30S ribosomal protein S15 [Vibrio europaeus]          129     2e-037
+WP_044456177.1  MULTISPECIES: 30S ribosomal protein S15 [Pandoraea]   129     2e-037
+WP_027950504.1  30S ribosomal protein S15 [Haliea salexigens]         129     2e-037
+WP_011508361.1  MULTISPECIES: 30S ribosomal protein S15 [Chromoha...  129     2e-037
+WP_011395187.1  30S ribosomal protein S15 [Hahella chejuensis]        129     2e-037
+WP_019825926.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  129     2e-037
+WP_069586032.1  30S ribosomal protein S15 [Burkholderia contaminans]  129     2e-037
+WP_005347484.1  30S ribosomal protein S15 [Aeromonas diversa]         129     2e-037
+WP_029891591.1  30S ribosomal protein S15 [Polycyclovorans algicola]  129     2e-037
+WP_068509647.1  MULTISPECIES: 30S ribosomal protein S15 [Oleiphilus]  129     2e-037
+WP_019019075.1  30S ribosomal protein S15 [Halomonas lutea]           129     2e-037
+WP_006646210.1  MULTISPECIES: 30S ribosomal protein S15 [Photobac...  129     2e-037
+WP_075183007.1  MULTISPECIES: 30S ribosomal protein S15 [Enteroba...  129     2e-037
+WP_012486120.1  30S ribosomal protein S15 [Cellvibrio japonicus]      129     2e-037
+WP_005338797.1  MULTISPECIES: 30S ribosomal protein S15 [Aeromonas]   129     2e-037
+WP_011487489.1  MULTISPECIES: 30S ribosomal protein S15 [Burkhold...  129     2e-037
+WP_062774204.1  30S ribosomal protein S15 [Kluyvera intermedia]       129     2e-037
+WP_074265315.1  30S ribosomal protein S15 [Paraburkholderia phena...  129     2e-037
+WP_060992441.1  30S ribosomal protein S15 [Aliivibrio wodanis]        129     2e-037
+WP_057785617.1  30S ribosomal protein S15 [Alishewanella sp. WH16-1]  129     2e-037
+WP_008608749.1  MULTISPECIES: 30S ribosomal protein S15 [Alishewa...  129     2e-037
+WP_017349634.1  30S ribosomal protein S15 [Pantoea sp. A4]            129     2e-037
+WP_007585509.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudoal...  129     2e-037
+WP_013333888.1  MULTISPECIES: 30S ribosomal protein S15 [Halomonas]   129     2e-037
+WP_062262936.1  30S ribosomal protein S15 [Endozoicomonas arenosc...  129     2e-037
+WP_038747271.1  MULTISPECIES: 30S ribosomal protein S15 [Burkhold...  129     3e-037
+WP_047012894.1  30S ribosomal protein S15 [Spongiibacter sp. IMCC...  129     3e-037
+WP_024461087.1  30S ribosomal protein S15 [Marinimicrobium sp. LS...  128     3e-037
+WP_002958490.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudoal...  128     3e-037
+WP_067032253.1  MULTISPECIES: 30S ribosomal protein S15 [Marinomo...  128     3e-037
+WP_048373279.1  30S ribosomal protein S15 [Pseudomonas helleri]       128     3e-037
+WP_063519235.1  MULTISPECIES: 30S ribosomal protein S15 [Alcanivo...  128     3e-037
+WP_028470589.1  30S ribosomal protein S15 [Neptunomonas japonica]     128     3e-037
+WP_028241604.1  30S ribosomal protein S15 [Pseudomonas azotifigens]   128     3e-037
+WP_073429571.1  MULTISPECIES: 30S ribosomal protein S15 [Burkhold...  128     3e-037
+WP_004185828.1  MULTISPECIES: 30S ribosomal protein S15 [Burkhold...  128     3e-037
+WP_012549409.1  MULTISPECIES: 30S ribosomal protein S15 [Aliivibrio]  128     3e-037
+WP_010559791.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudoal...  128     3e-037
+WP_067515379.1  30S ribosomal protein S15 [Endozoicomonas ascidii...  128     3e-037
+WP_038016938.1  MULTISPECIES: 30S ribosomal protein S15 [Erwiniac...  128     3e-037
+WP_003176135.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  128     3e-037
+WP_004394154.1  MULTISPECIES: 30S ribosomal protein S15 [Vibrio]      128     3e-037
+WP_007148581.1  MULTISPECIES: 30S ribosomal protein S15 [Alcanivo...  128     3e-037
+WP_028302939.1  30S ribosomal protein S15 [Oceanospirillum maris]     128     4e-037
+WP_004385056.1  MULTISPECIES: 30S ribosomal protein S15 [Enteroba...  128     4e-037
+WP_076786415.1  30S ribosomal protein S15 [Burkholderia sp. b13]      128     4e-037
+WP_055023715.1  MULTISPECIES: 30S ribosomal protein S15 [Shewanella]  128     4e-037
+WP_033749314.1  MULTISPECIES: 30S ribosomal protein S15 [Pantoea]     128     4e-037
+WP_042484382.1  30S ribosomal protein S15 [Vibrio diazotrophicus]     128     4e-037
+WP_045817417.1  30S ribosomal protein S15 [Teredinibacter sp. 116...  128     4e-037
+WP_045049021.1  30S ribosomal protein S15 [Rouxiella chamberiensis]   128     4e-037
+WP_074829470.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  128     4e-037
+WP_019623124.1  30S ribosomal protein S15 [Amphritea japonica]        128     4e-037
+WP_028995750.1  30S ribosomal protein S15 [Azonexus hydrophilus]      128     4e-037
+WP_018612847.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  128     4e-037
+WP_013346379.1  30S ribosomal protein S15 [Ferrimonas balearica]      128     4e-037
+WP_028226251.1  30S ribosomal protein S15 [Paraburkholderia ferra...  128     4e-037
+WP_003197723.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  128     4e-037
+WP_035339806.1  MULTISPECIES: 30S ribosomal protein S15 [Dickeya]     128     4e-037
+WP_042046764.1  30S ribosomal protein S15 [Aeromonas simiae]          128     4e-037
+WP_027276025.1  30S ribosomal protein S15 [Leminorella grimontii]     128     4e-037
+WP_026291973.1  30S ribosomal protein S15 [Marinobacterium rhizop...  128     4e-037
+WP_013507704.1  MULTISPECIES: 30S ribosomal protein S15 [Pantoea]     128     4e-037
+WP_008119265.1  30S ribosomal protein S15 [Herbaspirillum sp. YR522]  128     4e-037
+WP_004745010.1  30S ribosomal protein S15 [Vibrio tubiashii]          128     4e-037
+WP_004155132.1  MULTISPECIES: 30S ribosomal protein S15 [Erwinia]     128     4e-037
+WP_006048211.1  MULTISPECIES: 30S ribosomal protein S15 [Burkhold...  128     5e-037
+WP_058022690.1  30S ribosomal protein S15 [Pseudohongiella spirul...  128     5e-037
+WP_020582366.1  30S ribosomal protein S15 [Endozoicomonas elysicola]  128     5e-037
+WP_065634359.1  30S ribosomal protein S15 [Gilliamella apicola]       128     5e-037
+WP_035016123.1  30S ribosomal protein S15 [Catenovulum agarivorans]   128     5e-037
+WP_075651391.1  MULTISPECIES: 30S ribosomal protein S15 [Vibrio]      128     5e-037
+WP_017516000.1  MULTISPECIES: 30S ribosomal protein S15 [Cupriavi...  128     5e-037
+WP_045975369.1  30S ribosomal protein S15 [Vibrio neptunius]          128     5e-037
+WP_056782431.1  30S ribosomal protein S15 [Serratia sp. Leaf51]       128     5e-037
+WP_076795848.1  30S ribosomal protein S15 [Burkholderia sp. b14]      128     5e-037
+WP_005301136.1  MULTISPECIES: 30S ribosomal protein S15 [Photobac...  127     5e-037
+WP_038709569.1  30S ribosomal protein S15 [Burkholderia sp. lig30]    127     5e-037
+WP_085230123.1  30S ribosomal protein S15 [Paraburkholderia caryo...  127     5e-037
+WP_040183911.1  30S ribosomal protein S15 [Halomonas salina]          127     6e-037
+WP_085046540.1  30S ribosomal protein S15 [Cronobacter sakazakii]     127     6e-037
+WP_017054101.1  30S ribosomal protein S15 [Vibrio genomosp. F6]       127     6e-037
+WP_027697596.1  30S ribosomal protein S15 [Vibrio litoralis]          127     6e-037
+WP_008165873.1  30S ribosomal protein S15 [Pseudoalteromonas sp. ...  127     6e-037
+WP_074763524.1  30S ribosomal protein S15 [Paraburkholderia fungo...  127     6e-037
+WP_005456110.1  MULTISPECIES: 30S ribosomal protein S15 [Vibrio]      127     6e-037
+WP_034839286.1  30S ribosomal protein S15 [Endozoicomonas numazue...  127     6e-037
+WP_028299604.1  30S ribosomal protein S15 [Oceanospirillum beijer...  127     6e-037
+WP_054341067.1  30S ribosomal protein S15 [Neptunomonas antarctica]   127     6e-037
+WP_021323310.1  MULTISPECIES: 30S ribosomal protein S15 [Photorha...  127     6e-037
+WP_070972367.1  30S ribosomal protein S15 [Vibrio sonorensis]         127     6e-037
+WP_006957756.1  MULTISPECIES: 30S ribosomal protein S15 [Vibrio]      127     6e-037
+WP_013660162.1  30S ribosomal protein S15 [Marinomonas mediterranea]  127     6e-037
+WP_042078876.1  30S ribosomal protein S15 [Aeromonas sanarellii]      127     6e-037
+WP_024871139.1  30S ribosomal protein S15 [Tolumonas lignilytica]     127     7e-037
+WP_006230694.1  30S ribosomal protein S15 [Photobacterium profundum]  127     7e-037
+WP_065578587.1  30S ribosomal protein S15 [Gilliamella apicola]       127     7e-037
+WP_065567223.1  30S ribosomal protein S15 [Gilliamella apicola]       127     7e-037
+WP_035534390.1  30S ribosomal protein S15 [Paraburkholderia sacch...  127     7e-037
+WP_021819084.1  30S ribosomal protein S15 [Halomonas huangheensis]    127     7e-037
+WP_066059875.1  MULTISPECIES: 30S ribosomal protein S15 [Halioglo...  127     7e-037
+WP_006398792.1  MULTISPECIES: 30S ribosomal protein S15 [Burkhold...  127     7e-037
+WP_022985310.1  30S ribosomal protein S15 [Alcanivorax sp. P2S70]     127     7e-037
+WP_013435914.1  30S ribosomal protein S15 [Paraburkholderia rhizo...  127     7e-037
+WP_000059470.1  MULTISPECIES: 30S ribosomal protein S15 [Escheric...  127     7e-037
+WP_068714911.1  30S ribosomal protein S15 [Vibrio tritonius]          127     8e-037
+WP_007348601.1  30S ribosomal protein S15 [Marinobacter sp. ELB17]    127     8e-037
+WP_009150565.1  30S ribosomal protein S15 [Thiorhodovibrio sp. 970]   127     8e-037
+WP_010806083.1  MULTISPECIES: 30S ribosomal protein S15 [Pandoraea]   127     8e-037
+WP_020299907.1  MULTISPECIES: 30S ribosomal protein S15 [Pseudomo...  127     8e-037
+WP_068379227.1  30S ribosomal protein S15 [Paraglaciecola sp. S66]    127     8e-037
+WP_039397648.1  MULTISPECIES: 30S ribosomal protein S15 [Pandoraea]   127     8e-037
+WP_006709356.1  30S ribosomal protein S15 [Serratia symbiotica]       127     8e-037
+WP_036776507.1  30S ribosomal protein S15 [Photorhabdus luminescens]  127     8e-037
+WP_011217385.1  30S ribosomal protein S15 [Photobacterium profundum]  127     8e-037
+WP_026455738.1  30S ribosomal protein S15 [Aeromonas enteropeloge...  127     9e-037
+WP_006763831.1  MULTISPECIES: 30S ribosomal protein S15 [Burkhold...  127     9e-037
+WP_019530756.1  30S ribosomal protein S15 [Dasania marina]            127     9e-037
+WP_043749376.1  30S ribosomal protein S15 [Thiorhodococcus sp. AK35]  127     9e-037
+
+
+>WP_001229357.1 MULTISPECIES: 30S ribosomal protein S15 [Acinetobacter]
+Length=89
+
+ Score = 181 bits (460),  Expect = 3e-058, Method: Compositional matrix adjust.
+ Identities = 89/89 (100%), Positives = 89/89 (100%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV
+Sbjct  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYLNGKDHERYTALIGALGLRR
+Sbjct  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+
+
+>WP_032022792.1 30S ribosomal protein S15 [Acinetobacter baumannii]
+Length=89
+
+ Score = 179 bits (455),  Expect = 2e-057, Method: Compositional matrix adjust.
+ Identities = 88/89 (99%), Positives = 88/89 (99%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHS RGLIRMV
+Sbjct  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSSRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYLNGKDHERYTALIGALGLRR
+Sbjct  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+
+
+>WP_032047913.1 30S ribosomal protein S15 [Acinetobacter sp. 1566109]
+Length=89
+
+ Score = 179 bits (453),  Expect = 4e-057, Method: Compositional matrix adjust.
+ Identities = 88/89 (99%), Positives = 88/89 (99%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV
+Sbjct  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYLNGKDHERYTALI ALGLRR
+Sbjct  61  NQRRKLLDYLNGKDHERYTALIDALGLRR  89
+
+
+>WP_002114951.1 MULTISPECIES: 30S ribosomal protein S15 [Acinetobacter]
+ YP_004997538.1 30S ribosomal protein S15 [Acinetobacter pittii PHEA-2]
+Length=89
+
+ Score = 178 bits (452),  Expect = 5e-057, Method: Compositional matrix adjust.
+ Identities = 88/89 (99%), Positives = 88/89 (99%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV
+Sbjct  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYLNGKDH RYTALIGALGLRR
+Sbjct  61  NQRRKLLDYLNGKDHGRYTALIGALGLRR  89
+
+
+>WP_004876536.1 MULTISPECIES: 30S ribosomal protein S15 [Acinetobacter]
+Length=89
+
+ Score = 176 bits (447),  Expect = 2e-056, Method: Compositional matrix adjust.
+ Identities = 87/89 (98%), Positives = 87/89 (98%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV
+Sbjct  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYLNGKDH RY ALIGALGLRR
+Sbjct  61  NQRRKLLDYLNGKDHGRYVALIGALGLRR  89
+
+
+>WP_042894554.1 MULTISPECIES: 30S ribosomal protein S15 [Acinetobacter]
+Length=89
+
+ Score = 175 bits (444),  Expect = 7e-056, Method: Compositional matrix adjust.
+ Identities = 86/89 (97%), Positives = 87/89 (98%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALTNADRAEIIAKFARAENDTGSPEVQVALL+AQINDLQGHFKAHKHDHHSRRGLIRMV
+Sbjct  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLSAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYLNGKDH RY ALIGALGLRR
+Sbjct  61  NQRRKLLDYLNGKDHGRYVALIGALGLRR  89
+
+
+>WP_086182014.1 30S ribosomal protein S15 [Acinetobacter sp. ANC 4558]
+Length=89
+
+ Score = 175 bits (443),  Expect = 1e-055, Method: Compositional matrix adjust.
+ Identities = 86/89 (97%), Positives = 86/89 (97%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALTNADRAEIIAKFAR ENDTGSPEVQVALLTAQINDLQGHFK HKHDHHSRRGLIRMV
+Sbjct  1   MALTNADRAEIIAKFARVENDTGSPEVQVALLTAQINDLQGHFKEHKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYLNGKDH RYTALIGALGLRR
+Sbjct  61  NQRRKLLDYLNGKDHGRYTALIGALGLRR  89
+
+
+>WP_004637724.1 MULTISPECIES: 30S ribosomal protein S15 [Acinetobacter]
+Length=89
+
+ Score = 174 bits (442),  Expect = 1e-055, Method: Compositional matrix adjust.
+ Identities = 86/89 (97%), Positives = 86/89 (97%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFK HKHDHHSRRGLIRMV
+Sbjct  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKEHKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYLNGKDH RY ALIGALGLRR
+Sbjct  61  NQRRKLLDYLNGKDHGRYVALIGALGLRR  89
+
+
+>WP_004749819.1 MULTISPECIES: 30S ribosomal protein S15 [Acinetobacter]
+Length=89
+
+ Score = 174 bits (441),  Expect = 2e-055, Method: Compositional matrix adjust.
+ Identities = 85/89 (96%), Positives = 86/89 (97%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALTN DRAEI+AKFARAENDTGSPEVQVALLTAQINDLQGHFK HKHDHHSRRGLIRMV
+Sbjct  1   MALTNQDRAEIVAKFARAENDTGSPEVQVALLTAQINDLQGHFKEHKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYLNGKDH RYTALIGALGLRR
+Sbjct  61  NQRRKLLDYLNGKDHGRYTALIGALGLRR  89
+
+
+>WP_004774141.1 MULTISPECIES: 30S ribosomal protein S15 [Acinetobacter]
+Length=89
+
+ Score = 173 bits (439),  Expect = 4e-055, Method: Compositional matrix adjust.
+ Identities = 85/89 (96%), Positives = 86/89 (97%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALTNADRAEIIAKFARAENDTGSPEVQVALL+AQINDLQGHFK HKHDHHSRRGLIRMV
+Sbjct  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLSAQINDLQGHFKEHKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYLNGKDH RY ALIGALGLRR
+Sbjct  61  NQRRKLLDYLNGKDHGRYVALIGALGLRR  89
+
+
+>WP_004278577.1 MULTISPECIES: 30S ribosomal protein S15 [Acinetobacter]
+Length=89
+
+ Score = 173 bits (439),  Expect = 4e-055, Method: Compositional matrix adjust.
+ Identities = 85/89 (96%), Positives = 86/89 (97%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALTNADRAEI+AKFARAENDTGSPEVQVALLTAQINDLQGHFK HKHDHHSRRGLIRMV
+Sbjct  1   MALTNADRAEIMAKFARAENDTGSPEVQVALLTAQINDLQGHFKEHKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYLNGKDH RY ALIGALGLRR
+Sbjct  61  NQRRKLLDYLNGKDHGRYVALIGALGLRR  89
+
+
+>WP_005051078.1 30S ribosomal protein S15 [Acinetobacter beijerinckii]
+Length=89
+
+ Score = 173 bits (439),  Expect = 4e-055, Method: Compositional matrix adjust.
+ Identities = 85/89 (96%), Positives = 86/89 (97%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALTNADRAEIIAK+ARAENDTGSPEVQVALLTAQINDLQGHFK HKHDHHSRRGLIRMV
+Sbjct  1   MALTNADRAEIIAKYARAENDTGSPEVQVALLTAQINDLQGHFKEHKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYLNGKDH RY ALIGALGLRR
+Sbjct  61  NQRRKLLDYLNGKDHGRYVALIGALGLRR  89
+
+
+>WP_004656162.1 MULTISPECIES: 30S ribosomal protein S15 [Acinetobacter]
+Length=89
+
+ Score = 173 bits (438),  Expect = 6e-055, Method: Compositional matrix adjust.
+ Identities = 85/89 (96%), Positives = 85/89 (96%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALTN DRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFK HKHDHHSRRGLIRMV
+Sbjct  1   MALTNTDRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKEHKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYLNGKDH RY ALIGALGLRR
+Sbjct  61  NQRRKLLDYLNGKDHGRYVALIGALGLRR  89
+
+
+>WP_004916774.1 30S ribosomal protein S15 [Acinetobacter junii]
+Length=89
+
+ Score = 172 bits (435),  Expect = 2e-054, Method: Compositional matrix adjust.
+ Identities = 84/89 (94%), Positives = 85/89 (96%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALTN DRAEIIAKFARA+NDTGSPEVQVALLTAQINDLQGHFK HKHDHHSRRGLIRMV
+Sbjct  1   MALTNTDRAEIIAKFARAQNDTGSPEVQVALLTAQINDLQGHFKEHKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYLNGKDH RY ALIGALGLRR
+Sbjct  61  NQRRKLLDYLNGKDHGRYVALIGALGLRR  89
+
+
+>WP_005154935.1 MULTISPECIES: 30S ribosomal protein S15 [Acinetobacter]
+Length=89
+
+ Score = 172 bits (435),  Expect = 2e-054, Method: Compositional matrix adjust.
+ Identities = 84/89 (94%), Positives = 85/89 (96%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALTN DRAEIIAKFARAENDTGSPEVQVALL+AQINDLQGHFK HKHDHHSRRGLIRMV
+Sbjct  1   MALTNTDRAEIIAKFARAENDTGSPEVQVALLSAQINDLQGHFKEHKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYLNGKDH RY ALIGALGLRR
+Sbjct  61  NQRRKLLDYLNGKDHGRYVALIGALGLRR  89
+
+
+>WP_070070545.1 30S ribosomal protein S15 [Acinetobacter qingfengensis]
+Length=89
+
+ Score = 171 bits (432),  Expect = 4e-054, Method: Compositional matrix adjust.
+ Identities = 84/89 (94%), Positives = 84/89 (94%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALTN  RAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFK HKHDHHSRRGLIRMV
+Sbjct  1   MALTNEQRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKTHKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYLNGKDH RY ALIGALGLRR
+Sbjct  61  NQRRKLLDYLNGKDHGRYVALIGALGLRR  89
+
+
+>WP_004668422.1 MULTISPECIES: 30S ribosomal protein S15 [Acinetobacter]
+Length=89
+
+ Score = 169 bits (429),  Expect = 1e-053, Method: Compositional matrix adjust.
+ Identities = 83/89 (93%), Positives = 84/89 (94%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALTNADRAEIIAKFARAENDTGSPEVQVALL+AQINDLQ HFK HKHDHHSRRGLIRMV
+Sbjct  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLSAQINDLQSHFKEHKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYLNGKDH RY ALIG LGLRR
+Sbjct  61  NQRRKLLDYLNGKDHGRYVALIGELGLRR  89
+
+
+>WP_004920392.1 MULTISPECIES: 30S ribosomal protein S15 [Acinetobacter]
+Length=89
+
+ Score = 169 bits (428),  Expect = 2e-053, Method: Compositional matrix adjust.
+ Identities = 83/89 (93%), Positives = 84/89 (94%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALTNADRA IIAKFARAENDTGSPEVQVALLTAQINDLQGHFK HKHDHHSRRGLIRMV
+Sbjct  1   MALTNADRAAIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKEHKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYLNGKDH RY +LIG LGLRR
+Sbjct  61  NQRRKLLDYLNGKDHGRYVSLIGELGLRR  89
+
+
+>WP_067761248.1 MULTISPECIES: 30S ribosomal protein S15 [Acinetobacter]
+Length=89
+
+ Score = 169 bits (427),  Expect = 3e-053, Method: Compositional matrix adjust.
+ Identities = 83/89 (93%), Positives = 84/89 (94%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFK HKHDHHSRRGLIRMV
+Sbjct  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKEHKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALI ALGLRR
+Sbjct  61  NQRRKLLDYLKGKDATRYSALIAALGLRR  89
+
+
+>WP_005007057.1 MULTISPECIES: 30S ribosomal protein S15 [Acinetobacter]
+Length=89
+
+ Score = 168 bits (426),  Expect = 4e-053, Method: Compositional matrix adjust.
+ Identities = 82/89 (92%), Positives = 84/89 (94%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALTNADRAEI+AKFARAENDTGSPEVQVALLTAQINDLQGHFK HKHDHHSRRGLIRMV
+Sbjct  1   MALTNADRAEIVAKFARAENDTGSPEVQVALLTAQINDLQGHFKEHKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALI ALGLRR
+Sbjct  61  NQRRKLLDYLKGKDATRYSALIAALGLRR  89
+
+
+>WP_004975922.1 MULTISPECIES: 30S ribosomal protein S15 [Acinetobacter]
+Length=89
+
+ Score = 168 bits (426),  Expect = 4e-053, Method: Compositional matrix adjust.
+ Identities = 83/89 (93%), Positives = 84/89 (94%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFK HKHDHHSRRGLIRMV
+Sbjct  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKEHKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALI ALGLRR
+Sbjct  61  NQRRKLLDYLKGKDVTRYSALIAALGLRR  89
+
+
+>WP_004869779.1 30S ribosomal protein S15 [Acinetobacter gerneri]
+Length=89
+
+ Score = 168 bits (426),  Expect = 4e-053, Method: Compositional matrix adjust.
+ Identities = 83/89 (93%), Positives = 84/89 (94%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFK HKHDHHSRRGLIRMV
+Sbjct  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKEHKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ LIGALGLRR
+Sbjct  61  NQRRKLLDYLKGKDVSRYSDLIGALGLRR  89
+
+
+>WP_004991585.1 MULTISPECIES: 30S ribosomal protein S15 [Acinetobacter]
+Length=89
+
+ Score = 168 bits (426),  Expect = 5e-053, Method: Compositional matrix adjust.
+ Identities = 82/89 (92%), Positives = 83/89 (93%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALTN DRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFK HKHDHHSRRGLIRMV
+Sbjct  1   MALTNTDRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKEHKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYLNGKDH RY +LI  LGLRR
+Sbjct  61  NQRRKLLDYLNGKDHGRYVSLINELGLRR  89
+
+
+>WP_067661804.1 30S ribosomal protein S15 [Acinetobacter sp. TGL-Y2]
+Length=89
+
+ Score = 168 bits (425),  Expect = 6e-053, Method: Compositional matrix adjust.
+ Identities = 83/89 (93%), Positives = 83/89 (93%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFK HKHDHHSRRGLIRMV
+Sbjct  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKEHKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY ALI ALGLRR
+Sbjct  61  NQRRKLLDYLKGKDTTRYAALIAALGLRR  89
+
+
+>WP_067722305.1 MULTISPECIES: 30S ribosomal protein S15 [Acinetobacter]
+Length=89
+
+ Score = 167 bits (423),  Expect = 1e-052, Method: Compositional matrix adjust.
+ Identities = 81/89 (91%), Positives = 84/89 (94%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALTNADRAEI+AK+ARAENDTGSPEVQVALLTAQINDLQGHFK HKHDHHSRRGLIRMV
+Sbjct  1   MALTNADRAEIVAKYARAENDTGSPEVQVALLTAQINDLQGHFKEHKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALI ALGLRR
+Sbjct  61  NQRRKLLDYLKGKDTTRYSALIAALGLRR  89
+
+
+>WP_067669627.1 30S ribosomal protein S15 [Acinetobacter sp. ANC 4149]
+Length=89
+
+ Score = 167 bits (422),  Expect = 2e-052, Method: Compositional matrix adjust.
+ Identities = 82/89 (92%), Positives = 83/89 (93%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALTNADRAEIIAKFARAENDTGSPEVQVALLT QINDLQGHFK HKHDHHSRRGLIRMV
+Sbjct  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTGQINDLQGHFKEHKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALI ALGLRR
+Sbjct  61  NQRRKLLDYLKGKDATRYSALIAALGLRR  89
+
+
+>WP_065994019.1 30S ribosomal protein S15 [Acinetobacter sp. WCHA30]
+Length=89
+
+ Score = 167 bits (422),  Expect = 2e-052, Method: Compositional matrix adjust.
+ Identities = 82/89 (92%), Positives = 83/89 (93%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFK HKHDHHSRRGLIRMV
+Sbjct  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKEHKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ LI ALGLRR
+Sbjct  61  NQRRKLLDYLKGKDSTRYSDLIAALGLRR  89
+
+
+>WP_023273031.1 30S ribosomal protein S15 [Acinetobacter nectaris]
+Length=89
+
+ Score = 167 bits (422),  Expect = 2e-052, Method: Compositional matrix adjust.
+ Identities = 81/89 (91%), Positives = 83/89 (93%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALT  DRAEI+AKFARAENDTGSPEVQVALL+AQINDLQ HFKAHK DHHSRRGLIRMV
+Sbjct  1   MALTTQDRAEIVAKFARAENDTGSPEVQVALLSAQINDLQSHFKAHKQDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYLNGKDH RY ALIGALGLRR
+Sbjct  61  NQRRKLLDYLNGKDHGRYVALIGALGLRR  89
+
+
+>WP_053578909.1 30S ribosomal protein S15 [Acinetobacter sp. TTH0-4]
+Length=89
+
+ Score = 166 bits (421),  Expect = 2e-052, Method: Compositional matrix adjust.
+ Identities = 81/89 (91%), Positives = 83/89 (93%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALTN DRAEI+AKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV
+Sbjct  1   MALTNTDRAEIVAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RYT +I ALGLRR
+Sbjct  61  NQRRKLLDYLKGKDATRYTDVIAALGLRR  89
+
+
+>WP_004692669.1 MULTISPECIES: 30S ribosomal protein S15 [Acinetobacter]
+Length=89
+
+ Score = 166 bits (420),  Expect = 3e-052, Method: Compositional matrix adjust.
+ Identities = 82/89 (92%), Positives = 83/89 (93%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFK HKHDHHSRRGLIRMV
+Sbjct  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKEHKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ LI ALGLRR
+Sbjct  61  NQRRKLLDYLKGKDATRYSDLIAALGLRR  89
+
+
+>WP_004725514.1 MULTISPECIES: 30S ribosomal protein S15 [Acinetobacter]
+Length=89
+
+ Score = 166 bits (419),  Expect = 4e-052, Method: Compositional matrix adjust.
+ Identities = 81/89 (91%), Positives = 83/89 (93%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALTNADRAEI+AKFARAENDTGSPEVQVALLTAQINDLQGHFK HKHDHHSRRGLIRMV
+Sbjct  1   MALTNADRAEIVAKFARAENDTGSPEVQVALLTAQINDLQGHFKEHKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ LI ALGLRR
+Sbjct  61  NQRRKLLDYLKGKDATRYSDLIAALGLRR  89
+
+
+>WP_068885591.1 30S ribosomal protein S15 [Acinetobacter celticus]
+Length=89
+
+ Score = 166 bits (419),  Expect = 5e-052, Method: Compositional matrix adjust.
+ Identities = 81/89 (91%), Positives = 83/89 (93%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQIN+LQ HFK HKHDHHSRRGLIRMV
+Sbjct  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINELQSHFKEHKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALI ALGLRR
+Sbjct  61  NQRRKLLDYLKGKDATRYSALIAALGLRR  89
+
+
+>WP_026472384.1 30S ribosomal protein S15 [Alkanindiges illinoisensis]
+Length=89
+
+ Score = 165 bits (418),  Expect = 6e-052, Method: Compositional matrix adjust.
+ Identities = 81/89 (91%), Positives = 84/89 (94%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL NADRA+IIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIR V
+Sbjct  1   MALNNADRADIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRKV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD +RY +LIGALGLRR
+Sbjct  61  NQRRKLLDYLKGKDSDRYQSLIGALGLRR  89
+
+
+>WP_039620832.1 30S ribosomal protein S15 [Acinetobacter harbinensis]
+Length=89
+
+ Score = 165 bits (418),  Expect = 6e-052, Method: Compositional matrix adjust.
+ Identities = 80/89 (90%), Positives = 82/89 (92%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALTNADRAEIIAK+AR ENDTGSPEVQVALLTAQINDLQ HFK HKHDHHSRRGLIRMV
+Sbjct  1   MALTNADRAEIIAKYARVENDTGSPEVQVALLTAQINDLQSHFKEHKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALI ALGLRR
+Sbjct  61  NQRRKLLDYLKGKDSSRYSALIAALGLRR  89
+
+
+>WP_076876879.1 30S ribosomal protein S15 [Alkanindiges sp. H1]
+Length=89
+
+ Score = 165 bits (418),  Expect = 8e-052, Method: Compositional matrix adjust.
+ Identities = 81/89 (91%), Positives = 83/89 (93%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL N DRA+IIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIR V
+Sbjct  1   MALDNTDRADIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRKV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD ERY +LIGALGLRR
+Sbjct  61  NQRRKLLDYLKGKDSERYQSLIGALGLRR  89
+
+
+>WP_035264047.1 30S ribosomal protein S15 [Acinetobacter sp. Ver3]
+Length=89
+
+ Score = 165 bits (417),  Expect = 1e-051, Method: Compositional matrix adjust.
+ Identities = 81/89 (91%), Positives = 83/89 (93%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALTNADRAEIIAKFARAENDTGSPEVQVALL+AQINDLQGHFK HKHDHHSRRGLIRMV
+Sbjct  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLSAQINDLQGHFKEHKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ LI ALGLRR
+Sbjct  61  NQRRKLLDYLKGKDATRYSDLIAALGLRR  89
+
+
+>WP_086202386.1 30S ribosomal protein S15 [Acinetobacter sp. ANC 4999]
+Length=89
+
+ Score = 164 bits (415),  Expect = 2e-051, Method: Compositional matrix adjust.
+ Identities = 80/89 (90%), Positives = 82/89 (92%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALTNADRAEI+AKFAR ENDTGSPEVQVALLTAQINDLQ HFKAHKHDHHSRRGLIRMV
+Sbjct  1   MALTNADRAEIMAKFARVENDTGSPEVQVALLTAQINDLQSHFKAHKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RYT +I ALGLRR
+Sbjct  61  NQRRKLLDYLKGKDTTRYTDVIAALGLRR  89
+
+
+>WP_086189684.1 30S ribosomal protein S15 [Acinetobacter sp. ANC 3832]
+Length=89
+
+ Score = 164 bits (415),  Expect = 2e-051, Method: Compositional matrix adjust.
+ Identities = 81/89 (91%), Positives = 83/89 (93%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALTNADRAEIIAK+ARAENDTGSPEVQVALLTAQINDLQ HFKAHKHDHHSRRGLIRMV
+Sbjct  1   MALTNADRAEIIAKYARAENDTGSPEVQVALLTAQINDLQSHFKAHKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RYT +I ALGLRR
+Sbjct  61  NQRRKLLDYLKGKDATRYTDVIVALGLRR  89
+
+
+>WP_010111798.1 30S ribosomal protein S15 [Acinetobacter sp. P8-3-8]
+Length=89
+
+ Score = 164 bits (415),  Expect = 2e-051, Method: Compositional matrix adjust.
+ Identities = 80/89 (90%), Positives = 82/89 (92%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALTN DRAEI+AKFARAENDTGSPEVQVALLTAQINDLQGHFK HKHDHHSRRGLIRMV
+Sbjct  1   MALTNTDRAEIVAKFARAENDTGSPEVQVALLTAQINDLQGHFKEHKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ LI ALGLRR
+Sbjct  61  NQRRKLLDYLKGKDATRYSDLIAALGLRR  89
+
+
+>WP_005016930.1 MULTISPECIES: 30S ribosomal protein S15 [Acinetobacter]
+Length=89
+
+ Score = 164 bits (414),  Expect = 3e-051, Method: Compositional matrix adjust.
+ Identities = 80/89 (90%), Positives = 82/89 (92%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALTN DRAEI+AKFARAENDTGSPEVQVALLTAQINDLQ HFKAHKHDHHSRRGLIRMV
+Sbjct  1   MALTNQDRAEIVAKFARAENDTGSPEVQVALLTAQINDLQTHFKAHKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ LI ALGLRR
+Sbjct  61  NQRRKLLDYLKGKDTTRYSDLIAALGLRR  89
+
+
+>WP_066804187.1 30S ribosomal protein S15 [Moraxella oblonga]
+Length=88
+
+ Score = 153 bits (386),  Expect = 5e-047, Method: Compositional matrix adjust.
+ Identities = 75/87 (86%), Positives = 77/87 (89%), Gaps = 0/87 (0%)
+
+Query  3   LTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMVNQ  62
+           LTN DR EIIAKF R ENDTGSPEVQVALLTA+INDLQGHF  HKHDHHSRRGLIRMVNQ
+Sbjct  2   LTNKDREEIIAKFKRGENDTGSPEVQVALLTARINDLQGHFAEHKHDHHSRRGLIRMVNQ  61
+
+Query  63  RRKLLDYLNGKDHERYTALIGALGLRR  89
+           RRKLLDYL GKD +RYTALI  LGLRR
+Sbjct  62  RRKLLDYLKGKDLDRYTALIAELGLRR  88
+
+
+>WP_066885188.1 30S ribosomal protein S15 [Moraxella nonliquefaciens]
+Length=89
+
+ Score = 150 bits (380),  Expect = 4e-046, Method: Compositional matrix adjust.
+ Identities = 75/89 (84%), Positives = 77/89 (87%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M LTN  R +IIAKF R ENDTGSPEVQVALLTA+INDLQ HFKAHK DHHSRRGLIRMV
+Sbjct  1   MMLTNQQREDIIAKFKRGENDTGSPEVQVALLTARINDLQDHFKAHKADHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RYTALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDLNRYTALIGELGLRR  89
+
+
+>WP_062498827.1 30S ribosomal protein S15 [Moraxella lacunata]
+Length=88
+
+ Score = 150 bits (379),  Expect = 7e-046, Method: Compositional matrix adjust.
+ Identities = 75/87 (86%), Positives = 76/87 (87%), Gaps = 0/87 (0%)
+
+Query  3   LTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMVNQ  62
+           LTN  R EIIAKF R ENDTGSPEVQVALLTA+INDLQ HFKAHK DHHSRRGLIRMVNQ
+Sbjct  2   LTNQQREEIIAKFKRGENDTGSPEVQVALLTARINDLQDHFKAHKADHHSRRGLIRMVNQ  61
+
+Query  63  RRKLLDYLNGKDHERYTALIGALGLRR  89
+           RRKLLDYL GKD  RYTALIG LGLRR
+Sbjct  62  RRKLLDYLKGKDLNRYTALIGELGLRR  88
+
+
+>WP_079325859.1 30S ribosomal protein S15 [Moraxella equi]
+Length=88
+
+ Score = 150 bits (378),  Expect = 8e-046, Method: Compositional matrix adjust.
+ Identities = 74/87 (85%), Positives = 76/87 (87%), Gaps = 0/87 (0%)
+
+Query  3   LTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMVNQ  62
+           LTN  R EIIAKF R ENDTGSPEVQVALLTA+INDLQ HFKAHK DHHSRRGLIRMVNQ
+Sbjct  2   LTNQQREEIIAKFKRGENDTGSPEVQVALLTARINDLQDHFKAHKADHHSRRGLIRMVNQ  61
+
+Query  63  RRKLLDYLNGKDHERYTALIGALGLRR  89
+           RRKLLDYL GKD ERY+ALI  LGLRR
+Sbjct  62  RRKLLDYLKGKDTERYSALIAELGLRR  88
+
+
+>WP_078275781.1 30S ribosomal protein S15 [Moraxella caviae]
+Length=88
+
+ Score = 150 bits (378),  Expect = 8e-046, Method: Compositional matrix adjust.
+ Identities = 74/87 (85%), Positives = 77/87 (89%), Gaps = 0/87 (0%)
+
+Query  3   LTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMVNQ  62
+           LTN DR EIIAK+ R ENDTGSPEVQVALLTA+INDLQ HFKAHK DHHSRRGLIRMVNQ
+Sbjct  2   LTNKDREEIIAKYKRGENDTGSPEVQVALLTARINDLQDHFKAHKADHHSRRGLIRMVNQ  61
+
+Query  63  RRKLLDYLNGKDHERYTALIGALGLRR  89
+           RRKLLDYL GKD  RYT LIG+LGLRR
+Sbjct  62  RRKLLDYLKGKDLNRYTDLIGSLGLRR  88
+
+
+>WP_049237758.1 MULTISPECIES: 30S ribosomal protein S15 [Moraxella]
+Length=88
+
+ Score = 150 bits (378),  Expect = 9e-046, Method: Compositional matrix adjust.
+ Identities = 74/87 (85%), Positives = 77/87 (89%), Gaps = 0/87 (0%)
+
+Query  3   LTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMVNQ  62
+           LTN DR EIIAK+ R ENDTGSPEVQVALLTA+INDLQ HFKAHK DHHSRRGLIRMVNQ
+Sbjct  2   LTNKDREEIIAKYQRGENDTGSPEVQVALLTARINDLQDHFKAHKADHHSRRGLIRMVNQ  61
+
+Query  63  RRKLLDYLNGKDHERYTALIGALGLRR  89
+           RRKLLDYL GKD  RYT LIG+LGLRR
+Sbjct  62  RRKLLDYLKGKDLNRYTDLIGSLGLRR  88
+
+
+>WP_065255111.1 30S ribosomal protein S15 [Moraxella lacunata]
+Length=88
+
+ Score = 150 bits (378),  Expect = 9e-046, Method: Compositional matrix adjust.
+ Identities = 75/87 (86%), Positives = 76/87 (87%), Gaps = 0/87 (0%)
+
+Query  3   LTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMVNQ  62
+           LTN  R EIIAKF R ENDTGSPEVQVALLTA+INDLQ HFKAHK DHHSRRGLIRMVNQ
+Sbjct  2   LTNQQREEIIAKFKRGENDTGSPEVQVALLTARINDLQDHFKAHKADHHSRRGLIRMVNQ  61
+
+Query  63  RRKLLDYLNGKDHERYTALIGALGLRR  89
+           RRKLLDYL GKD  RYTALIG LGLRR
+Sbjct  62  RRKLLDYLKGKDAGRYTALIGELGLRR  88
+
+
+>WP_029102604.1 30S ribosomal protein S15 [Moraxella caprae]
+Length=88
+
+ Score = 149 bits (375),  Expect = 2e-045, Method: Compositional matrix adjust.
+ Identities = 74/87 (85%), Positives = 77/87 (89%), Gaps = 0/87 (0%)
+
+Query  3   LTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMVNQ  62
+           LTN  R +IIAKF R ENDTGSPEVQVALLTA+INDLQ HFKAHK DHHSRRGLIRMVNQ
+Sbjct  2   LTNQQRFDIIAKFKRGENDTGSPEVQVALLTARINDLQDHFKAHKADHHSRRGLIRMVNQ  61
+
+Query  63  RRKLLDYLNGKDHERYTALIGALGLRR  89
+           RRKLLDYL GKD +RYTALIG LGLRR
+Sbjct  62  RRKLLDYLKGKDLDRYTALIGELGLRR  88
+
+
+>WP_036331213.1 MULTISPECIES: 30S ribosomal protein S15 [Moraxella]
+Length=89
+
+ Score = 149 bits (375),  Expect = 2e-045, Method: Compositional matrix adjust.
+ Identities = 73/89 (82%), Positives = 77/89 (87%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M LTN DR  +IAK+ R ENDTGSPEVQVALLTA+INDLQ HFKAHK DHHSRRGLIRMV
+Sbjct  1   MMLTNKDREAVIAKYQRGENDTGSPEVQVALLTARINDLQDHFKAHKADHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RYT LIG+LGLRR
+Sbjct  61  NQRRKLLDYLKGKDLNRYTDLIGSLGLRR  89
+
+
+>WP_078317272.1 30S ribosomal protein S15 [Moraxella porci]
+Length=88
+
+ Score = 149 bits (375),  Expect = 2e-045, Method: Compositional matrix adjust.
+ Identities = 73/87 (84%), Positives = 77/87 (89%), Gaps = 0/87 (0%)
+
+Query  3   LTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMVNQ  62
+           LTN DR +IIAK+ RAENDTGSPEVQVALLTA+INDLQ HFK HK DHHSRRGLIRMVNQ
+Sbjct  2   LTNQDRIDIIAKYKRAENDTGSPEVQVALLTARINDLQDHFKTHKADHHSRRGLIRMVNQ  61
+
+Query  63  RRKLLDYLNGKDHERYTALIGALGLRR  89
+           RRKLLDYL GKD  RYT LIG+LGLRR
+Sbjct  62  RRKLLDYLKGKDLNRYTDLIGSLGLRR  88
+
+
+>WP_036367197.1 MULTISPECIES: 30S ribosomal protein S15 [Moraxella]
+Length=88
+
+ Score = 148 bits (373),  Expect = 5e-045, Method: Compositional matrix adjust.
+ Identities = 73/87 (84%), Positives = 77/87 (89%), Gaps = 0/87 (0%)
+
+Query  3   LTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMVNQ  62
+           LTN DR +IIAK+ RAENDTGSPEVQVALLTA+INDLQ HFKAHK DHHSRRGLIRMVNQ
+Sbjct  2   LTNQDRIDIIAKYKRAENDTGSPEVQVALLTARINDLQDHFKAHKADHHSRRGLIRMVNQ  61
+
+Query  63  RRKLLDYLNGKDHERYTALIGALGLRR  89
+           RRKLLDYL GKD  RYT LI +LGLRR
+Sbjct  62  RRKLLDYLKGKDLNRYTDLIASLGLRR  88
+
+
+>WP_076555843.1 30S ribosomal protein S15 [Moraxella cuniculi]
+Length=88
+
+ Score = 148 bits (373),  Expect = 5e-045, Method: Compositional matrix adjust.
+ Identities = 73/87 (84%), Positives = 76/87 (87%), Gaps = 0/87 (0%)
+
+Query  3   LTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMVNQ  62
+           LTN DR EIIAK+ R ENDTGSPEVQVALLTA+INDLQ HFKAHK DHHSRRGLIRMVNQ
+Sbjct  2   LTNKDREEIIAKYKRGENDTGSPEVQVALLTARINDLQDHFKAHKADHHSRRGLIRMVNQ  61
+
+Query  63  RRKLLDYLNGKDHERYTALIGALGLRR  89
+           RRKLLDYL GKD  RYT LI +LGLRR
+Sbjct  62  RRKLLDYLKGKDLNRYTDLIASLGLRR  88
+
+
+>WP_078274359.1 30S ribosomal protein S15 [Moraxella bovis]
+Length=88
+
+ Score = 147 bits (372),  Expect = 7e-045, Method: Compositional matrix adjust.
+ Identities = 73/87 (84%), Positives = 76/87 (87%), Gaps = 0/87 (0%)
+
+Query  3   LTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMVNQ  62
+           LTN  R +IIAKF R ENDTGSPEVQVALLTA+INDLQ HFKAHK DHHSRRGLIRMVNQ
+Sbjct  2   LTNQQRFDIIAKFKRGENDTGSPEVQVALLTARINDLQDHFKAHKADHHSRRGLIRMVNQ  61
+
+Query  63  RRKLLDYLNGKDHERYTALIGALGLRR  89
+           RRKLLDYL GKD ERY+ALI  LGLRR
+Sbjct  62  RRKLLDYLKGKDTERYSALIAELGLRR  88
+
+
+>WP_064611025.1 30S ribosomal protein S15 [Moraxella catarrhalis]
+Length=89
+
+ Score = 147 bits (372),  Expect = 7e-045, Method: Compositional matrix adjust.
+ Identities = 72/89 (81%), Positives = 76/89 (85%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M LTN DR  +IAK+ R ENDTGSPEVQVALLTA+INDLQ HFK HK DHHSRRGLIRMV
+Sbjct  1   MMLTNKDREAVIAKYQRGENDTGSPEVQVALLTARINDLQDHFKTHKADHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RYT LIG+LGLRR
+Sbjct  61  NQRRKLLDYLKGKDLNRYTDLIGSLGLRR  89
+
+
+>WP_078254066.1 30S ribosomal protein S15 [Moraxella pluranimalium]
+Length=88
+
+ Score = 147 bits (370),  Expect = 1e-044, Method: Compositional matrix adjust.
+ Identities = 72/87 (83%), Positives = 76/87 (87%), Gaps = 0/87 (0%)
+
+Query  3   LTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMVNQ  62
+           LTN DR +IIAK+ R ENDTGSPEVQVALLTA+INDLQ HFK HK DHHSRRGLIRMVNQ
+Sbjct  2   LTNQDRIDIIAKYKRGENDTGSPEVQVALLTARINDLQDHFKTHKADHHSRRGLIRMVNQ  61
+
+Query  63  RRKLLDYLNGKDHERYTALIGALGLRR  89
+           RRKLLDYL GKD  RYT LIG+LGLRR
+Sbjct  62  RRKLLDYLKGKDLNRYTDLIGSLGLRR  88
+
+
+>WP_082741445.1 30S ribosomal protein S15 [Moraxella osloensis]
+Length=88
+
+ Score = 146 bits (369),  Expect = 2e-044, Method: Compositional matrix adjust.
+ Identities = 72/87 (83%), Positives = 76/87 (87%), Gaps = 0/87 (0%)
+
+Query  3   LTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMVNQ  62
+           LTN DRA++IAKF RAENDTGSPEVQVALLTA+INDLQ HFKAHK DHHSRRGLIRMVN 
+Sbjct  2   LTNQDRADVIAKFQRAENDTGSPEVQVALLTARINDLQPHFKAHKADHHSRRGLIRMVNS  61
+
+Query  63  RRKLLDYLNGKDHERYTALIGALGLRR  89
+           RR LLDYL  KD +RYTALI  LGLRR
+Sbjct  62  RRTLLDYLKRKDADRYTALISELGLRR  88
+
+
+>WP_086183912.1 30S ribosomal protein S15 [Acinetobacter sp. ANC 4973]
+Length=89
+
+ Score = 146 bits (368),  Expect = 3e-044, Method: Compositional matrix adjust.
+ Identities = 82/89 (92%), Positives = 84/89 (94%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALTNADRAEI+AKFARAENDTGSPEVQVALLTAQINDLQGHFK HKHDHHSRRGLIRMV
+Sbjct  1   MALTNADRAEIVAKFARAENDTGSPEVQVALLTAQINDLQGHFKDHKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALI ALGLRR
+Sbjct  61  NQRRKLLDYLKGKDATRYSALIAALGLRR  89
+
+
+>WP_086165136.1 30S ribosomal protein S15 [Acinetobacter sp. ANC 4654]
+Length=89
+
+ Score = 145 bits (367),  Expect = 4e-044, Method: Compositional matrix adjust.
+ Identities = 82/89 (92%), Positives = 84/89 (94%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALTNADRAEI+AKFARAENDTGSPEVQVALLTAQINDLQGHFK HKHDHHSRRGLIRMV
+Sbjct  1   MALTNADRAEIVAKFARAENDTGSPEVQVALLTAQINDLQGHFKDHKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALI ALGLRR
+Sbjct  61  NQRRKLLDYLKGKDVTRYSALIAALGLRR  89
+
+
+>WP_082168269.1 MULTISPECIES: 30S ribosomal protein S15 [Proteobacteria]
+Length=88
+
+ Score = 145 bits (365),  Expect = 7e-044, Method: Compositional matrix adjust.
+ Identities = 71/87 (82%), Positives = 76/87 (87%), Gaps = 0/87 (0%)
+
+Query  3   LTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMVNQ  62
+           LTN DRA++IAKF R+ENDTGSPEVQVALLTA+INDLQ HFKAHK DHHSRRGLIRMVN 
+Sbjct  2   LTNQDRADVIAKFQRSENDTGSPEVQVALLTARINDLQPHFKAHKADHHSRRGLIRMVNS  61
+
+Query  63  RRKLLDYLNGKDHERYTALIGALGLRR  89
+           RR LLDYL  KD +RYTALI  LGLRR
+Sbjct  62  RRTLLDYLKRKDADRYTALINELGLRR  88
+
+
+>WP_004649994.1 30S ribosomal protein S15 [Acinetobacter bohemicus]
+Length=89
+
+ Score = 144 bits (364),  Expect = 1e-043, Method: Compositional matrix adjust.
+ Identities = 81/89 (91%), Positives = 84/89 (94%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALTNADRAEI+AKFARAENDTGSPEVQVALLTAQIN+LQGHFK HKHDHHSRRGLIRMV
+Sbjct  1   MALTNADRAEIVAKFARAENDTGSPEVQVALLTAQINELQGHFKDHKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALI ALGLRR
+Sbjct  61  NQRRKLLDYLKGKDATRYSALIAALGLRR  89
+
+
+>WP_067551708.1 30S ribosomal protein S15 [Acinetobacter larvae]
+Length=89
+
+ Score = 144 bits (362),  Expect = 2e-043, Method: Compositional matrix adjust.
+ Identities = 82/89 (92%), Positives = 82/89 (92%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQIN LQGHFK HKHDHHSRRGLIRMV
+Sbjct  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINSLQGHFKDHKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY ALI ALGLRR
+Sbjct  61  NQRRKLLDYLKGKDVSRYAALIAALGLRR  89
+
+
+>WP_067234473.1 30S ribosomal protein S15 [Moraxella atlantae]
+Length=88
+
+ Score = 143 bits (361),  Expect = 3e-043, Method: Compositional matrix adjust.
+ Identities = 70/87 (80%), Positives = 76/87 (87%), Gaps = 0/87 (0%)
+
+Query  3   LTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMVNQ  62
+           LTN DRA+IIAKF +++NDTGSPEVQ+ALLTA+INDLQ HFKAHK DHHSRRGLIRMVN 
+Sbjct  2   LTNQDRADIIAKFKQSDNDTGSPEVQIALLTARINDLQPHFKAHKGDHHSRRGLIRMVNS  61
+
+Query  63  RRKLLDYLNGKDHERYTALIGALGLRR  89
+           RRKLLDYL  KD  RYTALI  LGLRR
+Sbjct  62  RRKLLDYLKKKDANRYTALISELGLRR  88
+
+
+>WP_067058444.1 30S ribosomal protein S15 [Moraxella atlantae]
+Length=88
+
+ Score = 143 bits (361),  Expect = 4e-043, Method: Compositional matrix adjust.
+ Identities = 70/87 (80%), Positives = 76/87 (87%), Gaps = 0/87 (0%)
+
+Query  3   LTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMVNQ  62
+           LTN DRA+IIAKF +++NDTGSPEVQ+ALLTA+INDLQ HFKAHK DHHSRRGLIRMVN 
+Sbjct  2   LTNQDRADIIAKFKQSDNDTGSPEVQIALLTARINDLQPHFKAHKGDHHSRRGLIRMVNS  61
+
+Query  63  RRKLLDYLNGKDHERYTALIGALGLRR  89
+           RRKLLDYL  KD  RYTALI  LGLRR
+Sbjct  62  RRKLLDYLKKKDANRYTALINELGLRR  88
+
+
+>WP_079690572.1 30S ribosomal protein S15 [Psychrobacter sp. DAB_AL43B]
+Length=88
+
+ Score = 143 bits (360),  Expect = 5e-043, Method: Compositional matrix adjust.
+ Identities = 70/87 (80%), Positives = 75/87 (86%), Gaps = 0/87 (0%)
+
+Query  3   LTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMVNQ  62
+           LTNADR +IIA++ R ENDTGSPEVQVALL+A+INDLQ HFKAHK DHHSRRGLIRMVN 
+Sbjct  2   LTNADREQIIAQYQRGENDTGSPEVQVALLSARINDLQNHFKAHKADHHSRRGLIRMVNT  61
+
+Query  63  RRKLLDYLNGKDHERYTALIGALGLRR  89
+           RRKLLDYL GKD  RYT LI  LGLRR
+Sbjct  62  RRKLLDYLKGKDLGRYTTLISQLGLRR  88
+
+
+>WP_078307781.1 30S ribosomal protein S15 [Moraxella lincolnii]
+Length=89
+
+ Score = 142 bits (359),  Expect = 7e-043, Method: Compositional matrix adjust.
+ Identities = 69/89 (78%), Positives = 75/89 (84%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M LTN DR +IIA++ R ENDTGSPEVQVALL+A+INDLQ HFK HK DHHSRRGLIRMV
+Sbjct  1   MMLTNTDRQQIIAQYQRGENDTGSPEVQVALLSARINDLQDHFKEHKADHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL  KD +RY  LIG LGLRR
+Sbjct  61  NQRRKLLDYLKRKDADRYATLIGQLGLRR  89
+
+
+>WP_022955533.1 30S ribosomal protein S15 [Perlucidibaca piscinae]
+Length=89
+
+ Score = 142 bits (358),  Expect = 1e-042, Method: Compositional matrix adjust.
+ Identities = 70/89 (79%), Positives = 75/89 (84%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALT  D+A I+AKFAR+  DTGSPEVQVALL+AQI+DLQ HFK HKHDHHSRRGLIRMV
+Sbjct  1   MALTVQDKAAIVAKFARSAGDTGSPEVQVALLSAQIDDLQPHFKEHKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRR LLDYL  KD  RYTALI  LGLRR
+Sbjct  61  NQRRTLLDYLKRKDVSRYTALIQTLGLRR  89
+
+
+>WP_062534470.1 30S ribosomal protein S15 [Psychrobacter urativorans]
+Length=88
+
+ Score = 142 bits (358),  Expect = 1e-042, Method: Compositional matrix adjust.
+ Identities = 69/87 (79%), Positives = 75/87 (86%), Gaps = 0/87 (0%)
+
+Query  3   LTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMVNQ  62
+           LTN+DR +IIA++ R ENDTGSPEVQVALL+A+INDLQ HFKAHK DHHSRRGLIRMVN 
+Sbjct  2   LTNSDREQIIAQYQRGENDTGSPEVQVALLSARINDLQNHFKAHKADHHSRRGLIRMVNT  61
+
+Query  63  RRKLLDYLNGKDHERYTALIGALGLRR  89
+           RRKLLDYL GKD  RYT LI  LGLRR
+Sbjct  62  RRKLLDYLKGKDLGRYTTLISQLGLRR  88
+
+
+>WP_085330930.1 30S ribosomal protein S15 [Colwellia sediminilitoris]
+Length=89
+
+ Score = 142 bits (358),  Expect = 1e-042, Method: Compositional matrix adjust.
+ Identities = 68/89 (76%), Positives = 78/89 (88%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L  A++A I+A++A+AE DTGSPEVQVALLT QIN LQGHFK H HDHHSRRGL+RMV
+Sbjct  1   MSLNAAEKAAIVAEYAQAEGDTGSPEVQVALLTVQINHLQGHFKQHIHDHHSRRGLLRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           +QRRKLLDYL GK+ ERYTALIG LGLRR
+Sbjct  61  SQRRKLLDYLKGKNVERYTALIGKLGLRR  89
+
+
+>WP_085302467.1 30S ribosomal protein S15 [Colwellia polaris]
+Length=89
+
+ Score = 142 bits (358),  Expect = 1e-042, Method: Compositional matrix adjust.
+ Identities = 68/89 (76%), Positives = 78/89 (88%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L  A++A I+A++A+AE DTGSPEVQVALLT QIN LQGHFK H HDHHSRRGL+RMV
+Sbjct  1   MSLNAAEKAAIVAEYAQAEGDTGSPEVQVALLTTQINHLQGHFKQHIHDHHSRRGLLRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           +QRRKLLDYL GK+ ERYTALIG LGLRR
+Sbjct  61  SQRRKLLDYLKGKNVERYTALIGKLGLRR  89
+
+
+>WP_077284924.1 30S ribosomal protein S15 [Colwellia aestuarii]
+Length=89
+
+ Score = 142 bits (358),  Expect = 1e-042, Method: Compositional matrix adjust.
+ Identities = 68/89 (76%), Positives = 78/89 (88%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L  A++A I+A++A+AE DTGSPEVQVALLT QIN LQGHFK H HDHHSRRGL+RMV
+Sbjct  1   MSLNAAEKAAIVAEYAQAEGDTGSPEVQVALLTTQINHLQGHFKEHIHDHHSRRGLLRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           +QRRKLLDYL GK+ ERYTALIG LGLRR
+Sbjct  61  SQRRKLLDYLKGKNVERYTALIGKLGLRR  89
+
+
+>WP_081180863.1 30S ribosomal protein S15 [Colwellia sp. PAMC 21821]
+Length=89
+
+ Score = 142 bits (357),  Expect = 1e-042, Method: Compositional matrix adjust.
+ Identities = 68/89 (76%), Positives = 78/89 (88%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L  A++A I+A++A+AE DTGSPEVQVALLT QIN LQGHFK H HDHHSRRGL+RMV
+Sbjct  1   MSLNAAEKAAIVAEYAQAEGDTGSPEVQVALLTVQINHLQGHFKEHIHDHHSRRGLLRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           +QRRKLLDYL GK+ ERYTALIG LGLRR
+Sbjct  61  SQRRKLLDYLKGKNVERYTALIGKLGLRR  89
+
+
+>WP_045443035.1 MULTISPECIES: 30S ribosomal protein S15 [Psychrobacter]
+Length=88
+
+ Score = 141 bits (356),  Expect = 2e-042, Method: Compositional matrix adjust.
+ Identities = 69/87 (79%), Positives = 74/87 (85%), Gaps = 0/87 (0%)
+
+Query  3   LTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMVNQ  62
+           LTN DR +IIA++ R ENDTGSPEVQVALL+A+INDLQ HFKAHK DHHSRRGLIRMVN 
+Sbjct  2   LTNTDREQIIAQYQRGENDTGSPEVQVALLSARINDLQNHFKAHKADHHSRRGLIRMVNT  61
+
+Query  63  RRKLLDYLNGKDHERYTALIGALGLRR  89
+           RRKLLDYL GKD  RYT LI  LGLRR
+Sbjct  62  RRKLLDYLKGKDLGRYTTLISQLGLRR  88
+
+
+>WP_011512454.1 MULTISPECIES: 30S ribosomal protein S15 [Psychrobacter]
+Length=88
+
+ Score = 141 bits (355),  Expect = 3e-042, Method: Compositional matrix adjust.
+ Identities = 69/87 (79%), Positives = 75/87 (86%), Gaps = 0/87 (0%)
+
+Query  3   LTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMVNQ  62
+           LTNADR +IIA++ R E+DTGSPEVQVALL+A+INDLQ HFKAHK DHHSRRGLIRMVN 
+Sbjct  2   LTNADREQIIAQYQRGESDTGSPEVQVALLSARINDLQNHFKAHKADHHSRRGLIRMVNT  61
+
+Query  63  RRKLLDYLNGKDHERYTALIGALGLRR  89
+           RRKLLDYL GKD  RYT LI  LGLRR
+Sbjct  62  RRKLLDYLKGKDLGRYTTLISQLGLRR  88
+
+
+>WP_065392421.1 MULTISPECIES: 30S ribosomal protein S15 [Gammaproteobacteria]
+Length=89
+
+ Score = 141 bits (355),  Expect = 3e-042, Method: Compositional matrix adjust.
+ Identities = 69/89 (78%), Positives = 76/89 (85%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALT   +AEI+++F R ENDTGSPEVQVALL+A I+ LQGHFKA+K DHHSRRGLIRMV
+Sbjct  1   MALTAEKKAEIVSEFGRGENDTGSPEVQVALLSANIDGLQGHFKANKQDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL  KD ERYTALI  LGLRR
+Sbjct  61  NQRRKLLDYLKRKDFERYTALIQRLGLRR  89
+
+
+>WP_009501257.1 30S ribosomal protein S15 [Moraxella macacae]
+Length=88
+
+ Score = 141 bits (355),  Expect = 3e-042, Method: Compositional matrix adjust.
+ Identities = 69/87 (79%), Positives = 73/87 (84%), Gaps = 0/87 (0%)
+
+Query  3   LTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMVNQ  62
+           LTN  RAEIIAKF ++ENDTGSPEVQVALLTA+INDLQ HFK HK DHHSRRGLIRMVN 
+Sbjct  2   LTNEQRAEIIAKFKQSENDTGSPEVQVALLTARINDLQSHFKEHKADHHSRRGLIRMVNS  61
+
+Query  63  RRKLLDYLNGKDHERYTALIGALGLRR  89
+           RR LLDYL  KD ERY+ LI  LGLRR
+Sbjct  62  RRSLLDYLKRKDVERYSKLINELGLRR  88
+
+
+>WP_025652581.1 MULTISPECIES: 30S ribosomal protein S15 [Psychrobacter]
+Length=88
+
+ Score = 140 bits (354),  Expect = 3e-042, Method: Compositional matrix adjust.
+ Identities = 68/87 (78%), Positives = 74/87 (85%), Gaps = 0/87 (0%)
+
+Query  3   LTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMVNQ  62
+           LTN DR +II+++ R ENDTGSPEVQVALL+A+INDLQ HFKAHK DHHSRRGLIRMVN 
+Sbjct  2   LTNTDREQIISQYQRGENDTGSPEVQVALLSARINDLQNHFKAHKADHHSRRGLIRMVNT  61
+
+Query  63  RRKLLDYLNGKDHERYTALIGALGLRR  89
+           RRKLLDYL GKD  RYT LI  LGLRR
+Sbjct  62  RRKLLDYLKGKDLGRYTTLISQLGLRR  88
+
+
+>WP_077448297.1 30S ribosomal protein S15 [Psychrobacter sp. CIP 110853]
+Length=88
+
+ Score = 140 bits (354),  Expect = 4e-042, Method: Compositional matrix adjust.
+ Identities = 68/87 (78%), Positives = 74/87 (85%), Gaps = 0/87 (0%)
+
+Query  3   LTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMVNQ  62
+           LTN DR +IIA++ RA  DTGSPEVQ+ALLTA+INDLQGHFK HK DHHSRRGLIRMVNQ
+Sbjct  2   LTNTDRQQIIAQYQRAPGDTGSPEVQIALLTARINDLQGHFKEHKGDHHSRRGLIRMVNQ  61
+
+Query  63  RRKLLDYLNGKDHERYTALIGALGLRR  89
+           RRKLLDYL GKD  RY +LI  LGLRR
+Sbjct  62  RRKLLDYLKGKDLARYASLISELGLRR  88
+
+
+>WP_075101373.1 30S ribosomal protein S15 [Psychrobacter sp. Rd 27.2]
+Length=88
+
+ Score = 140 bits (354),  Expect = 4e-042, Method: Compositional matrix adjust.
+ Identities = 68/87 (78%), Positives = 74/87 (85%), Gaps = 0/87 (0%)
+
+Query  3   LTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMVNQ  62
+           LTN DR +IIA++ R+ENDTGSPEVQVALL+A+INDLQ HFK HK DHHSRRGLIRMVN 
+Sbjct  2   LTNTDREQIIAQYQRSENDTGSPEVQVALLSARINDLQNHFKEHKADHHSRRGLIRMVNT  61
+
+Query  63  RRKLLDYLNGKDHERYTALIGALGLRR  89
+           RRKLLDYL GKD  RYT LI  LGLRR
+Sbjct  62  RRKLLDYLKGKDLGRYTTLISQLGLRR  88
+
+
+>WP_081153084.1 30S ribosomal protein S15 [Colwellia sp. NB097-1]
+Length=89
+
+ Score = 140 bits (353),  Expect = 5e-042, Method: Compositional matrix adjust.
+ Identities = 67/89 (75%), Positives = 77/89 (87%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L   ++A I+A++A+AE DTGSPEVQVALLT QIN LQGHFK H HDHHSRRGL+RMV
+Sbjct  1   MSLNATEKAAIVAEYAQAEGDTGSPEVQVALLTVQINHLQGHFKEHIHDHHSRRGLLRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           +QRRKLLDYL GK+ ERYTALIG LGLRR
+Sbjct  61  SQRRKLLDYLKGKNVERYTALIGKLGLRR  89
+
+
+>WP_024952154.1 MULTISPECIES: 30S ribosomal protein S15 [Cobetia]
+Length=89
+
+ Score = 140 bits (353),  Expect = 5e-042, Method: Compositional matrix adjust.
+ Identities = 69/89 (78%), Positives = 75/89 (84%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALT   +AEI+ +F R ENDTGSPEVQVALL+A I+ LQGHFKA+K DHHSRRGLIRMV
+Sbjct  1   MALTAEKKAEIVTEFGRGENDTGSPEVQVALLSANIDGLQGHFKANKQDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL  KD ERYTALI  LGLRR
+Sbjct  61  NQRRKLLDYLKRKDFERYTALIQRLGLRR  89
+
+
+>WP_068407892.1 30S ribosomal protein S15 [Psychrobacter sp. SHUES1]
+Length=88
+
+ Score = 140 bits (353),  Expect = 6e-042, Method: Compositional matrix adjust.
+ Identities = 68/87 (78%), Positives = 74/87 (85%), Gaps = 0/87 (0%)
+
+Query  3   LTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMVNQ  62
+           LTN+DR +IIA++ R ENDTGSPEVQVALL+A+INDLQ HFK HK DHHSRRGLIRMVN 
+Sbjct  2   LTNSDREQIIAQYQRGENDTGSPEVQVALLSARINDLQNHFKEHKADHHSRRGLIRMVNT  61
+
+Query  63  RRKLLDYLNGKDHERYTALIGALGLRR  89
+           RRKLLDYL GKD  RYT LI  LGLRR
+Sbjct  62  RRKLLDYLKGKDLGRYTTLISQLGLRR  88
+
+
+>WP_016657682.1 30S ribosomal protein S15 [Acinetobacter rudis]
+Length=89
+
+ Score = 140 bits (353),  Expect = 6e-042, Method: Compositional matrix adjust.
+ Identities = 80/89 (90%), Positives = 81/89 (91%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALTN DRAEI+AKFARAENDTGSPEVQVALLTAQIN LQGHFK HKHDHHSRRGLIRMV
+Sbjct  1   MALTNTDRAEIVAKFARAENDTGSPEVQVALLTAQINGLQGHFKDHKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RYT LI ALGLRR
+Sbjct  61  NQRRKLLDYLKGKDTTRYTDLIAALGLRR  89
+
+
+>WP_019520204.1 30S ribosomal protein S15 [Moraxella boevrei]
+Length=88
+
+ Score = 140 bits (352),  Expect = 7e-042, Method: Compositional matrix adjust.
+ Identities = 69/87 (79%), Positives = 74/87 (85%), Gaps = 0/87 (0%)
+
+Query  3   LTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMVNQ  62
+           LTN  RAEIIAKF ++ENDTGSPEVQVALLTA+INDLQ HFKAHK DHHSRRGLIRMVN 
+Sbjct  2   LTNEQRAEIIAKFKQSENDTGSPEVQVALLTARINDLQPHFKAHKADHHSRRGLIRMVNS  61
+
+Query  63  RRKLLDYLNGKDHERYTALIGALGLRR  89
+           RR LLDYL  KD +RY+ LI  LGLRR
+Sbjct  62  RRSLLDYLKRKDLDRYSKLINELGLRR  88
+
+
+>WP_058023603.1 MULTISPECIES: 30S ribosomal protein S15 [Psychrobacter]
+Length=88
+
+ Score = 140 bits (352),  Expect = 8e-042, Method: Compositional matrix adjust.
+ Identities = 68/87 (78%), Positives = 73/87 (84%), Gaps = 0/87 (0%)
+
+Query  3   LTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMVNQ  62
+           LTN DR +IIA++ R ENDTGSPEVQVALL+A+INDLQ HFK HK DHHSRRGLIRMVN 
+Sbjct  2   LTNTDREQIIAQYQRGENDTGSPEVQVALLSARINDLQNHFKEHKADHHSRRGLIRMVNT  61
+
+Query  63  RRKLLDYLNGKDHERYTALIGALGLRR  89
+           RRKLLDYL GKD  RYT LI  LGLRR
+Sbjct  62  RRKLLDYLKGKDLGRYTTLISQLGLRR  88
+
+
+>WP_085285070.1 30S ribosomal protein S15 [Colwellia chukchiensis]
+Length=89
+
+ Score = 140 bits (352),  Expect = 8e-042, Method: Compositional matrix adjust.
+ Identities = 66/89 (74%), Positives = 78/89 (88%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L  A++A I+A++A++E DTGSPEVQVALL+ QIN LQGHFK H HDHHSRRGL+RMV
+Sbjct  1   MSLNAAEKAAIVAEYAQSEGDTGSPEVQVALLSTQINHLQGHFKEHIHDHHSRRGLLRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           +QRRKLLDYL GK+ ERYTALIG LGLRR
+Sbjct  61  SQRRKLLDYLKGKNVERYTALIGKLGLRR  89
+
+
+>WP_068857430.1 30S ribosomal protein S15 [Perlucidibaca sp. BK296]
+Length=89
+
+ Score = 139 bits (351),  Expect = 1e-041, Method: Compositional matrix adjust.
+ Identities = 69/89 (78%), Positives = 75/89 (84%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALT  D+A I+AKFAR+  DTGS EVQVALL+A I+DLQGHFKAHKHDHHSRRGLIRMV
+Sbjct  1   MALTVQDKAAIVAKFARSAGDTGSCEVQVALLSANIDDLQGHFKAHKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRR LLDYL  KD  RY+ALI  LGLRR
+Sbjct  61  NQRRTLLDYLKRKDSTRYSALIQELGLRR  89
+
+
+>WP_007394560.1 30S ribosomal protein S15 [Psychrobacter sp. 1501(2011)]
+Length=88
+
+ Score = 139 bits (351),  Expect = 1e-041, Method: Compositional matrix adjust.
+ Identities = 67/87 (77%), Positives = 74/87 (85%), Gaps = 0/87 (0%)
+
+Query  3   LTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMVNQ  62
+           LTN DR +IIA++ RA  DTGSPEVQ+ALL+A+INDLQGHFK HK DHHSRRGLIRMVNQ
+Sbjct  2   LTNTDRQQIIAQYQRAPGDTGSPEVQIALLSARINDLQGHFKEHKGDHHSRRGLIRMVNQ  61
+
+Query  63  RRKLLDYLNGKDHERYTALIGALGLRR  89
+           RRKLLDYL GKD  RY +LI  LGLRR
+Sbjct  62  RRKLLDYLKGKDLARYASLISELGLRR  88
+
+
+>WP_054553172.1 MULTISPECIES: 30S ribosomal protein S15 [Pseudoalteromonas]
+Length=89
+
+ Score = 139 bits (351),  Expect = 1e-041, Method: Compositional matrix adjust.
+ Identities = 68/89 (76%), Positives = 75/89 (84%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L+N ++ EIIAKFARAE DTGSPEVQVALLT  IN LQGHF +HKHD HSRRGL+R V
+Sbjct  1   MSLSNQEKVEIIAKFARAEGDTGSPEVQVALLTFDINKLQGHFASHKHDFHSRRGLLRKV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           +QRRKLLDYL GKD  RYTALI  LGLRR
+Sbjct  61  SQRRKLLDYLKGKDIARYTALIQELGLRR  89
+
+
+>WP_011279386.1 30S ribosomal protein S15 [Psychrobacter arcticus]
+Length=88
+
+ Score = 139 bits (350),  Expect = 1e-041, Method: Compositional matrix adjust.
+ Identities = 68/87 (78%), Positives = 74/87 (85%), Gaps = 0/87 (0%)
+
+Query  3   LTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMVNQ  62
+           LTNADR +IIA++ R E+DTGSPEVQVALL+A+INDLQ HFKAHK DHHSRRGLIRMVN 
+Sbjct  2   LTNADREQIIAQYQRGESDTGSPEVQVALLSARINDLQNHFKAHKADHHSRRGLIRMVNT  61
+
+Query  63  RRKLLDYLNGKDHERYTALIGALGLRR  89
+           RRKLLDYL  KD  RYT LI  LGLRR
+Sbjct  62  RRKLLDYLKSKDLGRYTTLISQLGLRR  88
+
+
+>WP_075560513.1 30S ribosomal protein S15 [Salinicola sp. MH3R3-1]
+Length=89
+
+ Score = 139 bits (349),  Expect = 2e-041, Method: Compositional matrix adjust.
+ Identities = 67/89 (75%), Positives = 74/89 (83%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALT   +AEI+ +F + E+DTGSPEVQVALL+A I+ LQGHFK HK DHHSRRGLIRMV
+Sbjct  1   MALTAEKKAEIVKEFGQGESDTGSPEVQVALLSANIDGLQGHFKDHKQDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD ERY ALI  LGLRR
+Sbjct  61  NQRRKLLDYLKGKDFERYQALIKKLGLRR  89
+
+
+>WP_010197757.1 30S ribosomal protein S15 [Psychrobacter sp. PAMC 21119]
+Length=88
+
+ Score = 139 bits (349),  Expect = 2e-041, Method: Compositional matrix adjust.
+ Identities = 67/87 (77%), Positives = 74/87 (85%), Gaps = 0/87 (0%)
+
+Query  3   LTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMVNQ  62
+           LTN DR +II+++ R ENDTGSPEVQVALL+A+INDLQ HFKAHK D+HSRRGLIRMVN 
+Sbjct  2   LTNTDREQIISQYQRGENDTGSPEVQVALLSARINDLQNHFKAHKADNHSRRGLIRMVNT  61
+
+Query  63  RRKLLDYLNGKDHERYTALIGALGLRR  89
+           RRKLLDYL GKD  RYT LI  LGLRR
+Sbjct  62  RRKLLDYLKGKDLGRYTTLISQLGLRR  88
+
+
+>WP_076418899.1 MULTISPECIES: 30S ribosomal protein S15 [Colwellia]
+Length=89
+
+ Score = 139 bits (349),  Expect = 2e-041, Method: Compositional matrix adjust.
+ Identities = 66/89 (74%), Positives = 76/89 (85%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L   ++A I+A++A+ E DTGSPEVQVALLT QIN LQGHFK H HDHHSRRGL+RMV
+Sbjct  1   MSLNATEKAAIVAEYAQKEGDTGSPEVQVALLTTQINHLQGHFKEHIHDHHSRRGLLRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           +QRRKLLDYL GK+ ERYTALIG LGLRR
+Sbjct  61  SQRRKLLDYLKGKNVERYTALIGKLGLRR  89
+
+
+>WP_063355435.1 30S ribosomal protein S15 [Pseudoalteromonas luteoviolacea]
+Length=89
+
+ Score = 139 bits (349),  Expect = 3e-041, Method: Compositional matrix adjust.
+ Identities = 67/89 (75%), Positives = 75/89 (84%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L+N ++AEI+AKFAR E DTGSPEVQVALLTA IN LQGHF  HKHD HSRRGL+R V
+Sbjct  1   MSLSNKEKAEIVAKFARVEGDTGSPEVQVALLTADINKLQGHFADHKHDFHSRRGLLRKV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           +QRRKLLDYL GK+ ERY ALI  LGLRR
+Sbjct  61  SQRRKLLDYLKGKNVERYAALIKELGLRR  89
+
+
+>WP_010385052.1 MULTISPECIES: 30S ribosomal protein S15 [Pseudoalteromonas]
+Length=89
+
+ Score = 138 bits (348),  Expect = 3e-041, Method: Compositional matrix adjust.
+ Identities = 67/89 (75%), Positives = 75/89 (84%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L+N ++AEI+AKFARAE DTGSPEVQVALLTA IN LQGHF  HKHD HSRRGL+R V
+Sbjct  1   MSLSNQEKAEIVAKFARAEGDTGSPEVQVALLTADINKLQGHFANHKHDFHSRRGLLRKV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           +QRR LLDYL GK  ERY+ALI  LGLRR
+Sbjct  61  SQRRNLLDYLKGKSVERYSALIKELGLRR  89
+
+
+>WP_075103320.1 30S ribosomal protein S15 [Psychrobacter sp. Cmf 22.2]
+Length=88
+
+ Score = 138 bits (348),  Expect = 3e-041, Method: Compositional matrix adjust.
+ Identities = 66/87 (76%), Positives = 74/87 (85%), Gaps = 0/87 (0%)
+
+Query  3   LTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMVNQ  62
+           LTN DR +IIA++ R+ENDTGSPEVQ+ALL+A+INDLQ HFK HK DHHSRRGLIRMVN 
+Sbjct  2   LTNTDREQIIAQYQRSENDTGSPEVQIALLSARINDLQNHFKEHKADHHSRRGLIRMVNT  61
+
+Query  63  RRKLLDYLNGKDHERYTALIGALGLRR  89
+           RRKLLDYL GKD  RYT +I  LGLRR
+Sbjct  62  RRKLLDYLKGKDLGRYTTVIKQLGLRR  88
+
+
+>WP_051397416.1 MULTISPECIES: 30S ribosomal protein S15 [Psychrobacter]
+Length=88
+
+ Score = 138 bits (347),  Expect = 5e-041, Method: Compositional matrix adjust.
+ Identities = 67/87 (77%), Positives = 73/87 (84%), Gaps = 0/87 (0%)
+
+Query  3   LTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMVNQ  62
+           LTN DR +IIA++ R ENDTGSPEVQVALL+A+INDLQ HFK HK DHHSRRGLIRMVN 
+Sbjct  2   LTNTDREQIIAQYQRGENDTGSPEVQVALLSARINDLQNHFKEHKGDHHSRRGLIRMVNT  61
+
+Query  63  RRKLLDYLNGKDHERYTALIGALGLRR  89
+           RRKLLDYL GKD  RY+ LI  LGLRR
+Sbjct  62  RRKLLDYLKGKDLGRYSTLINQLGLRR  88
+
+
+>WP_085297030.1 30S ribosomal protein S15 [Colwellia mytili]
+Length=89
+
+ Score = 138 bits (347),  Expect = 5e-041, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 76/89 (85%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L   ++A I+A++A+ E DTGSPEVQVALLT QIN LQGHFK H HDHHSRRGL+RMV
+Sbjct  1   MSLNAVEKAAIVAEYAQKEGDTGSPEVQVALLTTQINHLQGHFKEHIHDHHSRRGLLRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           +QRRKLLDYL GK+ ERYT+LIG LGLRR
+Sbjct  61  SQRRKLLDYLKGKNVERYTSLIGKLGLRR  89
+
+
+>WP_068033696.1 MULTISPECIES: 30S ribosomal protein S15 [Psychrobacter]
+Length=88
+
+ Score = 138 bits (347),  Expect = 5e-041, Method: Compositional matrix adjust.
+ Identities = 67/87 (77%), Positives = 73/87 (84%), Gaps = 0/87 (0%)
+
+Query  3   LTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMVNQ  62
+           LTN DR +IIA++ R ENDTGSPEVQVALL+A+INDLQ HFK HK DHHSRRGLIRMVN 
+Sbjct  2   LTNTDREQIIAQYQRGENDTGSPEVQVALLSARINDLQNHFKEHKGDHHSRRGLIRMVNT  61
+
+Query  63  RRKLLDYLNGKDHERYTALIGALGLRR  89
+           RRKLLDYL GKD  RYT +I  LGLRR
+Sbjct  62  RRKLLDYLKGKDLGRYTTVIKQLGLRR  88
+
+
+>WP_036969894.1 MULTISPECIES: 30S ribosomal protein S15 [Pseudoalteromonas]
+Length=89
+
+ Score = 138 bits (347),  Expect = 6e-041, Method: Compositional matrix adjust.
+ Identities = 68/89 (76%), Positives = 74/89 (83%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L+N ++ EIIAKFARAE DTGSPEVQVALLT  IN LQGHF  HKHD HSRRGL+R V
+Sbjct  1   MSLSNQEKVEIIAKFARAEGDTGSPEVQVALLTFDINKLQGHFADHKHDFHSRRGLLRKV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           +QRRKLLDYL GKD  RYTALI  LGLRR
+Sbjct  61  SQRRKLLDYLKGKDIARYTALIQELGLRR  89
+
+
+>WP_036975065.1 30S ribosomal protein S15 [Pseudoalteromonas luteoviolacea]
+Length=89
+
+ Score = 137 bits (346),  Expect = 6e-041, Method: Compositional matrix adjust.
+ Identities = 67/89 (75%), Positives = 75/89 (84%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L+N ++AEI+AKFARAE DTGSPEVQVALLTA IN LQGHF  HKHD HSRRGL+R V
+Sbjct  1   MSLSNKEKAEIVAKFARAEGDTGSPEVQVALLTADINKLQGHFADHKHDFHSRRGLLRKV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           +QRR LLDYL GK+ ERY ALI  LGLRR
+Sbjct  61  SQRRNLLDYLKGKNVERYAALIKELGLRR  89
+
+
+>WP_067868145.1 30S ribosomal protein S15 [Neptuniibacter marinus]
+Length=89
+
+ Score = 137 bits (346),  Expect = 6e-041, Method: Compositional matrix adjust.
+ Identities = 69/89 (78%), Positives = 74/89 (83%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALT  ++A I+A FARAE DTGSPEVQVALLTA I  LQGHFK +KHDHHSRRGLIRMV
+Sbjct  1   MALTAENKAAIVADFARAEGDTGSPEVQVALLTANIEGLQGHFKVNKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD +RY  LI  LGLRR
+Sbjct  61  NQRRKLLDYLKGKDADRYLDLIKRLGLRR  89
+
+
+>WP_011532144.1 MULTISPECIES: 30S ribosomal protein S15 [Pseudomonas]
+Length=89
+
+ Score = 137 bits (346),  Expect = 7e-041, Method: Compositional matrix adjust.
+ Identities = 66/89 (74%), Positives = 77/89 (87%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+A++ +A  DTGSPEVQVALLTA IN LQGHFKA++ DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAQIVAEYQQAAGDTGSPEVQVALLTANINKLQGHFKANEKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDTTRYSALIGRLGLRR  89
+
+
+>WP_068828248.1 30S ribosomal protein S15 [Pseudomonas sp. BMS12]
+Length=89
+
+ Score = 137 bits (346),  Expect = 7e-041, Method: Compositional matrix adjust.
+ Identities = 66/89 (74%), Positives = 76/89 (85%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I++ + +AE DTGSPEVQVALLTA IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAQIVSDYKQAEGDTGSPEVQVALLTANINKLQGHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDASRYSALIGRLGLRR  89
+
+
+>WP_049723468.1 30S ribosomal protein S15 [Gilvimarinus polysaccharolyticus]
+Length=89
+
+ Score = 137 bits (345),  Expect = 1e-040, Method: Compositional matrix adjust.
+ Identities = 67/89 (75%), Positives = 73/89 (82%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+ AD+AEI+ ++ +AE DTGSPEVQVALLT  IN LQGHF  HK DHHSRRGLIRMV
+Sbjct  1   MALSAADKAEIVKEYQQAEGDTGSPEVQVALLTHNINKLQGHFAGHKQDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY ALI  LGLRR
+Sbjct  61  NQRRKLLDYLKGKDLSRYAALIQKLGLRR  89
+
+
+>WP_019673212.1 30S ribosomal protein S15 [Psychrobacter lutiphocae]
+Length=88
+
+ Score = 137 bits (344),  Expect = 1e-040, Method: Compositional matrix adjust.
+ Identities = 66/87 (76%), Positives = 73/87 (84%), Gaps = 0/87 (0%)
+
+Query  3   LTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMVNQ  62
+           LT  DR +I+A++ RA  DTGSPEVQVALLTA+INDLQGHFK HK DHHSRRGLIRMVNQ
+Sbjct  2   LTKTDREQIVAQYQRAPGDTGSPEVQVALLTARINDLQGHFKTHKADHHSRRGLIRMVNQ  61
+
+Query  63  RRKLLDYLNGKDHERYTALIGALGLRR  89
+           RRKLLDYL  KD +RY +LI  LGLRR
+Sbjct  62  RRKLLDYLKRKDLDRYISLISELGLRR  88
+
+
+>WP_003240577.1 MULTISPECIES: 30S ribosomal protein S15 [Pseudomonas]
+Length=89
+
+ Score = 137 bits (344),  Expect = 1e-040, Method: Compositional matrix adjust.
+ Identities = 66/89 (74%), Positives = 76/89 (85%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+ ++ +AE DTGSPEVQVALLTA IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAQIVNEYKQAEGDTGSPEVQVALLTANINKLQGHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDTTRYSALIGRLGLRR  89
+
+
+>WP_085757094.1 30S ribosomal protein S15 [Oceanicoccus sagamiensis]
+Length=89
+
+ Score = 137 bits (344),  Expect = 1e-040, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 75/89 (84%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+ A+++E++ ++  AE DTGSPEVQVALLTA I  LQGHF  HKHDHHSRRGLIRMV
+Sbjct  1   MALSAAEKSEVVKEYQTAEGDTGSPEVQVALLTANIEKLQGHFGDHKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GK+ ERYT+LI  LGLRR
+Sbjct  61  NQRRKLLDYLKGKNTERYTSLIKRLGLRR  89
+
+
+>WP_074860168.1 30S ribosomal protein S15 [Pseudomonas oleovorans]
+Length=89
+
+ Score = 137 bits (344),  Expect = 1e-040, Method: Compositional matrix adjust.
+ Identities = 66/89 (74%), Positives = 75/89 (84%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+  + +AE DTGSPEVQVALLTA IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAQIVNDYKQAEGDTGSPEVQVALLTANINKLQGHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDSSRYSALIGRLGLRR  89
+
+
+>WP_070984030.1 MULTISPECIES: 30S ribosomal protein S15 [Pseudoalteromonas]
+Length=89
+
+ Score = 137 bits (344),  Expect = 2e-040, Method: Compositional matrix adjust.
+ Identities = 66/89 (74%), Positives = 75/89 (84%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L+N ++AEI+AKFARAE DTGSPEVQVALLTA IN LQGHF  HKHD HSRRGL+R V
+Sbjct  1   MSLSNQEKAEIVAKFARAEGDTGSPEVQVALLTADINKLQGHFANHKHDFHSRRGLLRKV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           +QRR LLDYL GK  +RY+ALI  LGLRR
+Sbjct  61  SQRRNLLDYLKGKSVDRYSALIKELGLRR  89
+
+
+>WP_027874146.1 30S ribosomal protein S15 [Spongiibacter marinus]
+Length=89
+
+ Score = 137 bits (344),  Expect = 2e-040, Method: Compositional matrix adjust.
+ Identities = 64/89 (72%), Positives = 74/89 (83%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+ A++AE++ ++  AE DTGSPEVQVALLT  IN LQGHF+ HK DHHSRRGLIRMV
+Sbjct  1   MALSAAEKAEVVKQYQTAEGDTGSPEVQVALLTVNINKLQGHFEGHKKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL  KD ERY+ LI +LGLRR
+Sbjct  61  NQRRKLLDYLKRKDQERYSKLIKSLGLRR  89
+
+
+>WP_027858312.1 30S ribosomal protein S15 [Marinobacterium jannaschii]
+Length=89
+
+ Score = 137 bits (344),  Expect = 2e-040, Method: Compositional matrix adjust.
+ Identities = 68/89 (76%), Positives = 73/89 (82%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+   +AEI+  FAR E DTGSPEVQVALLTA I  LQGHFKA+KHDHHSRRGLIRMV
+Sbjct  1   MALSAEKKAEIVKDFARGEGDTGSPEVQVALLTANIEGLQGHFKANKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD +RY  LI  LGLRR
+Sbjct  61  NQRRKLLDYLKGKDADRYLDLIKRLGLRR  89
+
+
+>WP_075568554.1 30S ribosomal protein S15 [Salinicola socius]
+Length=89
+
+ Score = 136 bits (343),  Expect = 2e-040, Method: Compositional matrix adjust.
+ Identities = 66/89 (74%), Positives = 73/89 (82%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALT   +AEI+ +F + E+DTGSPEVQVALL+A I+ LQ HFK HK DHHSRRGLIRMV
+Sbjct  1   MALTAEKKAEIVKEFGQGESDTGSPEVQVALLSANIDGLQSHFKDHKQDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD ERY ALI  LGLRR
+Sbjct  61  NQRRKLLDYLKGKDFERYQALIKKLGLRR  89
+
+
+>WP_029613930.1 MULTISPECIES: 30S ribosomal protein S15 [Pseudomonas]
+Length=89
+
+ Score = 136 bits (343),  Expect = 2e-040, Method: Compositional matrix adjust.
+ Identities = 66/89 (74%), Positives = 76/89 (85%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+A + +A  DTGSPEVQVALLTA IN LQGHFKA++ DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAQIVADYQQAAGDTGSPEVQVALLTANINKLQGHFKANEKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDTTRYSALIGRLGLRR  89
+
+
+>WP_003249971.1 MULTISPECIES: 30S ribosomal protein S15 [Pseudomonas]
+Length=89
+
+ Score = 136 bits (343),  Expect = 2e-040, Method: Compositional matrix adjust.
+ Identities = 66/89 (74%), Positives = 76/89 (85%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+A++ +A  DTGSPEVQVALLTA IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAQIVAEYQQAAGDTGSPEVQVALLTANINKLQGHFKANDKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDTTRYSALIGRLGLRR  89
+
+
+>WP_022958514.1 30S ribosomal protein S15 [Spongiibacter tropicus]
+Length=89
+
+ Score = 136 bits (343),  Expect = 2e-040, Method: Compositional matrix adjust.
+ Identities = 64/89 (72%), Positives = 74/89 (83%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+ A++AE++ ++  AE DTGSPEVQVALLT  IN LQGHF+ HK DHHSRRGLIRMV
+Sbjct  1   MALSAAEKAEVVKEYQTAEGDTGSPEVQVALLTVNINKLQGHFEGHKKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL  KD ERY+ LI +LGLRR
+Sbjct  61  NQRRKLLDYLKRKDQERYSKLIKSLGLRR  89
+
+
+>WP_038662983.1 30S ribosomal protein S15 [Pseudomonas stutzeri]
+Length=89
+
+ Score = 136 bits (343),  Expect = 2e-040, Method: Compositional matrix adjust.
+ Identities = 66/89 (74%), Positives = 76/89 (85%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+ ++ +AE DTGSPEVQVALLTA IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAQIVDEYKQAEGDTGSPEVQVALLTANINKLQGHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDTTRYSALIGRLGLRR  89
+
+
+>WP_068452738.1 MULTISPECIES: 30S ribosomal protein S15 [Oleiphilus]
+Length=89
+
+ Score = 136 bits (343),  Expect = 2e-040, Method: Compositional matrix adjust.
+ Identities = 66/89 (74%), Positives = 76/89 (85%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+ A++AEI+  + +AE DTGSPEVQVALLT  IN LQGHFK++K DHHSRRGLIRMV
+Sbjct  1   MALSAAEKAEILKDYQQAEGDTGSPEVQVALLTHNINKLQGHFKSNKQDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD +RY +LIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDADRYLSLIGRLGLRR  89
+
+
+>WP_033077637.1 30S ribosomal protein S15 [Thalassotalea sp. ND16A]
+Length=89
+
+ Score = 136 bits (343),  Expect = 2e-040, Method: Compositional matrix adjust.
+ Identities = 63/89 (71%), Positives = 77/89 (87%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L+  ++A I+A++A++E DTGSPEVQVALLT QIN LQGHFK H HDHHSRRGL+RMV
+Sbjct  1   MSLSATEKAAIVAEYAQSEGDTGSPEVQVALLTTQINHLQGHFKEHIHDHHSRRGLLRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           +QRRKLLDYL G++  RYT+LIG LGLRR
+Sbjct  61  SQRRKLLDYLKGRNVTRYTSLIGKLGLRR  89
+
+
+>WP_019342083.1 30S ribosomal protein S15 [Pseudomonas stutzeri]
+Length=89
+
+ Score = 136 bits (343),  Expect = 2e-040, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 75/89 (84%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+ ++ +AE DTGSPEVQVALLTA IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAQIVGEYKQAEGDTGSPEVQVALLTANINKLQGHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ LIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDTTRYSTLIGRLGLRR  89
+
+
+>WP_004424394.1 MULTISPECIES: 30S ribosomal protein S15 [Pseudomonas]
+Length=89
+
+ Score = 136 bits (342),  Expect = 2e-040, Method: Compositional matrix adjust.
+ Identities = 66/89 (74%), Positives = 75/89 (84%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+  + +AE DTGSPEVQVALLTA IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAQIVNDYKQAEGDTGSPEVQVALLTANINKLQGHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDTSRYSALIGRLGLRR  89
+
+
+>WP_036996916.1 30S ribosomal protein S15 [Pseudomonas sp. P482]
+Length=89
+
+ Score = 136 bits (342),  Expect = 3e-040, Method: Compositional matrix adjust.
+ Identities = 66/89 (74%), Positives = 76/89 (85%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+A++ +A  DTGSPEVQVALLTA IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAKIVAEYQQAAGDTGSPEVQVALLTANINKLQGHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDTTRYSALIGRLGLRR  89
+
+
+>WP_028944521.1 30S ribosomal protein S15 [Pseudomonas vranovensis]
+Length=89
+
+ Score = 136 bits (342),  Expect = 3e-040, Method: Compositional matrix adjust.
+ Identities = 66/89 (74%), Positives = 75/89 (84%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+ +F +A  DTGSPEVQVALLTA IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAKIVGEFQQAAGDTGSPEVQVALLTANINKLQGHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDTTRYSALIGRLGLRR  89
+
+
+>WP_026958556.1 MULTISPECIES: 30S ribosomal protein S15 [Aliagarivorans]
+Length=89
+
+ Score = 136 bits (342),  Expect = 3e-040, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 75/89 (84%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L+ A++A I+A++AR E DTGSPEVQVALLTAQIN LQGHFK H HDHHSRRGL+RMV
+Sbjct  1   MSLSAAEKASIVAEYARVEGDTGSPEVQVALLTAQINHLQGHFKKHIHDHHSRRGLLRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           +QRRK+LDYL  KD E Y ALI  LGLRR
+Sbjct  61  SQRRKMLDYLKRKDVEAYQALIAKLGLRR  89
+
+
+>WP_068993606.1 30S ribosomal protein S15 [Kangiella sediminilitoris]
+Length=89
+
+ Score = 136 bits (342),  Expect = 3e-040, Method: Compositional matrix adjust.
+ Identities = 66/89 (74%), Positives = 74/89 (83%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L+   +AEI+ + AR E DTGSPEVQVALLTAQIN LQGHFKAHKHDHHSRRGL+RMV
+Sbjct  1   MSLSAEQKAEIVKEHARVEGDTGSPEVQVALLTAQINHLQGHFKAHKHDHHSRRGLLRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           +QRRKLLDYL  KD  RY+ LI  LGLRR
+Sbjct  61  SQRRKLLDYLKRKDQARYSDLIKKLGLRR  89
+
+
+>WP_075749474.1 MULTISPECIES: 30S ribosomal protein S15 [Pseudomonas]
+Length=89
+
+ Score = 136 bits (342),  Expect = 3e-040, Method: Compositional matrix adjust.
+ Identities = 66/89 (74%), Positives = 75/89 (84%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+  + +AE DTGSPEVQVALLTA IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAQIVNDYKQAEGDTGSPEVQVALLTANINKLQGHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDASRYSALIGRLGLRR  89
+
+
+>WP_011327689.1 MULTISPECIES: 30S ribosomal protein S15 [Pseudoalteromonas]
+Length=89
+
+ Score = 136 bits (342),  Expect = 3e-040, Method: Compositional matrix adjust.
+ Identities = 67/89 (75%), Positives = 74/89 (83%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L+N ++ +IIAKFARAE DTGSPEVQVALLT  IN LQGHF  HKHD HSRRGL+R V
+Sbjct  1   MSLSNQEKIDIIAKFARAEGDTGSPEVQVALLTFDINKLQGHFADHKHDFHSRRGLLRKV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           +QRRKLLDYL GKD  RYTALI  LGLRR
+Sbjct  61  SQRRKLLDYLKGKDITRYTALIKELGLRR  89
+
+
+>WP_044874075.1 MULTISPECIES: 30S ribosomal protein S15 [Pseudomonas]
+Length=89
+
+ Score = 136 bits (342),  Expect = 3e-040, Method: Compositional matrix adjust.
+ Identities = 66/89 (74%), Positives = 76/89 (85%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+ A++A+I+ ++ +AE DTGSPEVQVALLTA IN LQ HFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVAEKAQIVNEYKQAEGDTGSPEVQVALLTANINKLQDHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDTSRYSALIGRLGLRR  89
+
+
+>WP_037443512.1 30S ribosomal protein S15 [Shewanella mangrovi]
+Length=89
+
+ Score = 136 bits (342),  Expect = 3e-040, Method: Compositional matrix adjust.
+ Identities = 66/89 (74%), Positives = 74/89 (83%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L+   +AEI+AKF R ENDTGSPEVQVALLTAQIN LQGHFK HK DHHSRRGL+RMV
+Sbjct  1   MSLSTEQKAEILAKFGRGENDTGSPEVQVALLTAQINHLQGHFKEHKKDHHSRRGLLRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           + RRKLL YL+ KD+ RY ALI  LGLRR
+Sbjct  61  SARRKLLAYLSKKDNARYVALIQELGLRR  89
+
+
+>WP_011043025.1 30S ribosomal protein S15 [Colwellia psychrerythraea]
+Length=89
+
+ Score = 136 bits (342),  Expect = 3e-040, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 76/89 (85%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L   ++A I+A++A++E DTGSPEVQVALLT QIN LQGHFKAH HDHHSRRGL+RMV
+Sbjct  1   MSLNATEKAAIVAEYAQSEGDTGSPEVQVALLTTQINHLQGHFKAHIHDHHSRRGLLRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+            QRRKLLDYL GK+ +RY ALIG LGLRR
+Sbjct  61  AQRRKLLDYLKGKNVDRYGALIGKLGLRR  89
+
+
+>WP_061405706.1 30S ribosomal protein S15 [Pseudomonas putida]
+ NP_746818.3 30S ribosomal subunit protein S15 [Pseudomonas putida KT2440]
+Length=107
+
+ Score = 136 bits (343),  Expect = 3e-040, Method: Compositional matrix adjust.
+ Identities = 66/89 (74%), Positives = 76/89 (85%), Gaps = 0/89 (0%)
+
+Query  1    MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+            MAL+  ++A+I+A++ +A  DTGSPEVQVALLTA IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  19   MALSVEEKAQIVAEYQQAAGDTGSPEVQVALLTANINKLQGHFKANDKDHHSRRGLIRMV  78
+
+Query  61   NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+            NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  79   NQRRKLLDYLKGKDTTRYSALIGRLGLRR  107
+
+
+>WP_068810870.1 MULTISPECIES: 30S ribosomal protein S15 [Pseudohongiella]
+Length=89
+
+ Score = 135 bits (341),  Expect = 3e-040, Method: Compositional matrix adjust.
+ Identities = 66/89 (74%), Positives = 72/89 (81%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALT   +AE++ +F R +NDTGSPEVQVALLT  IN LQGHF+ HKHDHHSRRGLIRMV
+Sbjct  1   MALTTEKKAELVKEFGRGDNDTGSPEVQVALLTENINLLQGHFREHKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           N RRKLLDYL  KD ERY ALI  LGLRR
+Sbjct  61  NSRRKLLDYLKKKDVERYAALIKRLGLRR  89
+
+
+>WP_085578459.1 MULTISPECIES: 30S ribosomal protein S15 [Pseudomonas]
+Length=89
+
+ Score = 135 bits (341),  Expect = 3e-040, Method: Compositional matrix adjust.
+ Identities = 66/89 (74%), Positives = 75/89 (84%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+ A++A+I+  + +A  DTGSPEVQVALLTA IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSAAEKAQIVTDYQQAVGDTGSPEVQVALLTANINKLQGHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDLSRYSALIGRLGLRR  89
+
+
+>WP_056834037.1 30S ribosomal protein S15 [Pseudomonas sp. Leaf127]
+Length=89
+
+ Score = 135 bits (341),  Expect = 4e-040, Method: Compositional matrix adjust.
+ Identities = 66/89 (74%), Positives = 74/89 (83%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  D+A+I+  + +A  DTGSPEVQVALLTA IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVEDKAQIVTDYQQAPGDTGSPEVQVALLTANINKLQGHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDVSRYSALIGRLGLRR  89
+
+
+>WP_003457281.1 30S ribosomal protein S15 [Pseudomonas pseudoalcaligenes]
+Length=89
+
+ Score = 135 bits (341),  Expect = 4e-040, Method: Compositional matrix adjust.
+ Identities = 66/89 (74%), Positives = 76/89 (85%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+ A++A+I+ ++ +AE DTGSPEVQVALLTA IN LQ HFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVAEKAQIVNEYKQAEGDTGSPEVQVALLTANINKLQDHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDASRYSALIGRLGLRR  89
+
+
+>WP_035476178.1 30S ribosomal protein S15 [Gammaproteobacteria bacterium MFB021]
+Length=89
+
+ Score = 135 bits (341),  Expect = 4e-040, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 73/89 (82%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALT   +AEI+ +F + ENDTGSPEVQVALL+A I+ LQ HFK HK DHHSRRGLIRMV
+Sbjct  1   MALTAEKKAEIVKEFGQGENDTGSPEVQVALLSANIDGLQSHFKDHKQDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD +RY +LI  LGLRR
+Sbjct  61  NQRRKLLDYLKGKDFDRYQSLIKKLGLRR  89
+
+
+>WP_009404303.1 MULTISPECIES: 30S ribosomal protein S15 [Pseudomonas]
+Length=89
+
+ Score = 135 bits (341),  Expect = 4e-040, Method: Compositional matrix adjust.
+ Identities = 66/89 (74%), Positives = 75/89 (84%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+A + +A  DTGSPEVQVALLTA IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAQIVADYQQAAGDTGSPEVQVALLTANINKLQGHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDTTRYSALIGRLGLRR  89
+
+
+>WP_046555795.1 30S ribosomal protein S15 [Arsukibacterium ikkense]
+Length=89
+
+ Score = 135 bits (341),  Expect = 4e-040, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 73/89 (82%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L+ AD+A+I+A +A  E DTGSPEVQVALLTA I  LQGHF  HKHD HSRRGL+RMV
+Sbjct  1   MSLSAADKAKIVADYAVKEGDTGSPEVQVALLTASITHLQGHFAQHKHDFHSRRGLLRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           +QRRKLLDYL GKD  RYT LIG LGLRR
+Sbjct  61  SQRRKLLDYLKGKDQSRYTTLIGRLGLRR  89
+
+
+>WP_041521676.1 30S ribosomal protein S15 [Gilvimarinus agarilyticus]
+Length=89
+
+ Score = 135 bits (341),  Expect = 4e-040, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 73/89 (82%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+ A+++EI+ ++ +AE DTGSPEVQVALLT  IN LQGHF  HK DHHSRRGLIRMV
+Sbjct  1   MALSAAEKSEIVKEYQQAEGDTGSPEVQVALLTHNINKLQGHFAGHKQDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY ALI  LGLRR
+Sbjct  61  NQRRKLLDYLKGKDXSRYAALIQKLGLRR  89
+
+
+>WP_045429687.1 MULTISPECIES: 30S ribosomal protein S15 [Pseudomonas]
+Length=89
+
+ Score = 135 bits (341),  Expect = 4e-040, Method: Compositional matrix adjust.
+ Identities = 64/89 (72%), Positives = 75/89 (84%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I++++ +AE DTGSPEVQVALLT  IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAQIVSEYQQAEGDTGSPEVQVALLTTNINKLQGHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ LIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDTTRYSTLIGRLGLRR  89
+
+
+>WP_016391796.1 MULTISPECIES: 30S ribosomal protein S15 [Pseudomonas]
+Length=89
+
+ Score = 135 bits (341),  Expect = 4e-040, Method: Compositional matrix adjust.
+ Identities = 66/89 (74%), Positives = 75/89 (84%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+A + +A  DTGSPEVQVALLTA IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAQIVADYQQAAGDTGSPEVQVALLTANINKLQGHFKANDKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDTTRYSALIGRLGLRR  89
+
+
+>WP_012274241.1 MULTISPECIES: 30S ribosomal protein S15 [Gammaproteobacteria]
+Length=89
+
+ Score = 135 bits (341),  Expect = 4e-040, Method: Compositional matrix adjust.
+ Identities = 66/89 (74%), Positives = 74/89 (83%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+  F +A  DTGSPEVQVALLTA IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAQIVTDFQQAAGDTGSPEVQVALLTANINKLQGHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDTTRYSALIGRLGLRR  89
+
+
+>WP_044841531.1 30S ribosomal protein S15 [Thalassomonas viridans]
+Length=89
+
+ Score = 135 bits (341),  Expect = 4e-040, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 74/89 (83%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L    +A I+A++A+ E DTGSPEVQVALLT QIN LQGHFK H HDHHSRRGL+RMV
+Sbjct  1   MSLNAEQKAAIVAEYAQKEGDTGSPEVQVALLTTQINHLQGHFKEHIHDHHSRRGLLRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           +QRRKLLDYL GK  +RYTALIG LGLRR
+Sbjct  61  SQRRKLLDYLKGKSVDRYTALIGKLGLRR  89
+
+
+>WP_003280896.1 MULTISPECIES: 30S ribosomal protein S15 [Pseudomonas]
+Length=89
+
+ Score = 135 bits (341),  Expect = 5e-040, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 75/89 (84%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+ ++ +AE DTGSPEVQVALLTA IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAQIVNEYKQAEGDTGSPEVQVALLTANINKLQGHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ LIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDTTRYSTLIGRLGLRR  89
+
+
+>WP_028858412.1 MULTISPECIES: 30S ribosomal protein S15 [Psychrobacter]
+Length=88
+
+ Score = 135 bits (340),  Expect = 5e-040, Method: Compositional matrix adjust.
+ Identities = 66/87 (76%), Positives = 72/87 (83%), Gaps = 0/87 (0%)
+
+Query  3   LTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMVNQ  62
+           LT  DR +IIA++ RA  DTGSPEVQ+ALL+A+INDLQ HFK HK DHHSRRGLIRMVNQ
+Sbjct  2   LTKTDREQIIAQYQRAPGDTGSPEVQIALLSARINDLQDHFKEHKGDHHSRRGLIRMVNQ  61
+
+Query  63  RRKLLDYLNGKDHERYTALIGALGLRR  89
+           RRKLLDYL GKD  RY ALI  LGLRR
+Sbjct  62  RRKLLDYLKGKDLARYAALISELGLRR  88
+
+
+>WP_068389597.1 30S ribosomal protein S15 [Ventosimonas gracilis]
+Length=89
+
+ Score = 135 bits (340),  Expect = 6e-040, Method: Compositional matrix adjust.
+ Identities = 66/89 (74%), Positives = 76/89 (85%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A I+A++ +AENDTGSPEVQVALLT  IN LQ HFKA+K DHHSRRGLIRMV
+Sbjct  1   MALSVIEKAAILAEYRQAENDTGSPEVQVALLTYNINKLQEHFKANKKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY++LIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDTARYSSLIGRLGLRR  89
+
+
+>WP_037026451.1 30S ribosomal protein S15 [Pseudomonas saudiphocaensis]
+Length=89
+
+ Score = 135 bits (340),  Expect = 6e-040, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 75/89 (84%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+ ++ +AE DTGSPEVQVALLTA IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAQIVNEYKQAEGDTGSPEVQVALLTANINKLQGHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ LIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDATRYSTLIGRLGLRR  89
+
+
+>WP_036514252.1 30S ribosomal protein S15 [Nitrincola nitratireducens]
+Length=89
+
+ Score = 135 bits (340),  Expect = 6e-040, Method: Compositional matrix adjust.
+ Identities = 67/89 (75%), Positives = 73/89 (82%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+   +AEI+A +ARAE DTGSPEVQVALLTA I  LQGHFK +K DHHSRRGLIRMV
+Sbjct  1   MALSVEKKAEIVASYARAEGDTGSPEVQVALLTANIEGLQGHFKTNKQDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL  KD +RY  LIG LGLRR
+Sbjct  61  NQRRKLLDYLKRKDVDRYLKLIGRLGLRR  89
+
+
+>WP_037015114.1 MULTISPECIES: 30S ribosomal protein S15 [Pseudomonas]
+Length=89
+
+ Score = 135 bits (340),  Expect = 6e-040, Method: Compositional matrix adjust.
+ Identities = 66/89 (74%), Positives = 74/89 (83%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  D+A+I+  + +A  DTGSPEVQVALLTA IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVEDKAQIVTDYQQAVGDTGSPEVQVALLTANINKLQGHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDVSRYSALIGRLGLRR  89
+
+
+>WP_042554902.1 MULTISPECIES: 30S ribosomal protein S15 [Pseudomonas]
+Length=89
+
+ Score = 135 bits (339),  Expect = 7e-040, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 75/89 (84%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+  + +AE DTGSPEVQVALL+A IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAQIVNDYKQAEGDTGSPEVQVALLSANINKLQGHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDTSRYSALIGRLGLRR  89
+
+
+>WP_065758270.1 30S ribosomal protein S15 [Pseudomonas sp. WCHP16]
+Length=89
+
+ Score = 135 bits (339),  Expect = 7e-040, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 75/89 (84%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+ ++ +A  DTGSPEVQVALLTA IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAQIVGEYQQAAGDTGSPEVQVALLTANINKLQGHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDATRYSALIGRLGLRR  89
+
+
+>WP_044413751.1 MULTISPECIES: 30S ribosomal protein S15 [Pseudomonas]
+Length=89
+
+ Score = 135 bits (339),  Expect = 8e-040, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 76/89 (85%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+ A++A+I+ ++ +AE DTGSPEVQ+ALLTA IN LQ HFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVAEKAQIVNEYKQAEGDTGSPEVQIALLTANINKLQDHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDTTRYSALIGRLGLRR  89
+
+
+>WP_070882080.1 30S ribosomal protein S15 [Pseudomonas punonensis]
+Length=89
+
+ Score = 135 bits (339),  Expect = 9e-040, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 75/89 (84%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+  + +AE DTGSPEVQVALL+A IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAQIVNDYKQAEGDTGSPEVQVALLSANINKLQGHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDASRYSALIGRLGLRR  89
+
+
+>WP_010487557.1 30S ribosomal protein S15 [Pseudomonas sp. S9]
+Length=89
+
+ Score = 135 bits (339),  Expect = 9e-040, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 75/89 (84%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+  + +AE DTGSPEVQVALL+A IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAQIVNDYKQAETDTGSPEVQVALLSANINKLQGHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDVSRYSALIGRLGLRR  89
+
+
+>WP_044835044.1 30S ribosomal protein S15 [Thalassomonas actiniarum]
+Length=89
+
+ Score = 134 bits (338),  Expect = 1e-039, Method: Compositional matrix adjust.
+ Identities = 64/89 (72%), Positives = 74/89 (83%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L    +A I+A++A+ E DTGSPEVQVALLT QIN LQGHFK H HDHHSRRGL+RMV
+Sbjct  1   MSLNAEQKAAIVAEYAQKEGDTGSPEVQVALLTTQINHLQGHFKEHIHDHHSRRGLLRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           +QRRKLLDYL GK  +RYT+LIG LGLRR
+Sbjct  61  SQRRKLLDYLKGKSVDRYTSLIGKLGLRR  89
+
+
+>WP_028695135.1 30S ribosomal protein S15 [Pseudomonas cremoricolorata]
+Length=89
+
+ Score = 134 bits (338),  Expect = 1e-039, Method: Compositional matrix adjust.
+ Identities = 66/89 (74%), Positives = 74/89 (83%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+   +A+I+A + +A  DTGSPEVQVALLTA IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVEQKAQIVADYQQAAGDTGSPEVQVALLTANINKLQGHFKANDKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDATRYSALIGRLGLRR  89
+
+
+>WP_010222985.1 MULTISPECIES: 30S ribosomal protein S15 [Pseudomonas]
+Length=89
+
+ Score = 134 bits (338),  Expect = 1e-039, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 75/89 (84%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+ ++ +A  DTGSPEVQVALLTA IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAKIVGEYQQAAGDTGSPEVQVALLTANINKLQGHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDTTRYSALIGRLGLRR  89
+
+
+>WP_010325155.1 30S ribosomal protein S15 [Marinobacterium stanieri]
+Length=89
+
+ Score = 134 bits (338),  Expect = 1e-039, Method: Compositional matrix adjust.
+ Identities = 66/89 (74%), Positives = 72/89 (81%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+N  +A I+A+F R   DTGS EVQVALLTA I  LQGHFK+HK DHHSRRGLIRMV
+Sbjct  1   MALSNEQKAAIVAEFGRGAGDTGSTEVQVALLTANIEGLQGHFKSHKQDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD +RY  LIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDADRYLDLIGRLGLRR  89
+
+
+>WP_055010951.1 30S ribosomal protein S15 [Pseudomonas caricapapayae]
+Length=89
+
+ Score = 134 bits (338),  Expect = 1e-039, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 74/89 (83%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+  + +A  DTGSPEVQVALLTA IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSGEEKAQIVTDYQQAVGDTGSPEVQVALLTANINKLQGHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDVSRYSALIGRLGLRR  89
+
+
+>WP_016494768.1 MULTISPECIES: 30S ribosomal protein S15 [Pseudomonas]
+Length=89
+
+ Score = 134 bits (338),  Expect = 1e-039, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 75/89 (84%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+ ++ +AE DTGSPEVQVALLTA IN LQ HFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVTEKAQIVNEYKQAEGDTGSPEVQVALLTANINKLQDHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDTSRYSALIGRLGLRR  89
+
+
+>WP_046554052.1 30S ribosomal protein S15 [Arsukibacterium sp. MJ3]
+Length=89
+
+ Score = 134 bits (338),  Expect = 1e-039, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 72/89 (81%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L  AD+A+I+A +A  E DTGSPEVQVALLTA I  LQGHF  HKHD HSRRGL+RMV
+Sbjct  1   MSLNAADKAKIVADYAVKEGDTGSPEVQVALLTASITHLQGHFAEHKHDFHSRRGLLRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           +QRRKLLDYL GKD  RYT LIG LGLRR
+Sbjct  61  SQRRKLLDYLKGKDQSRYTTLIGRLGLRR  89
+
+
+>WP_083726848.1 30S ribosomal protein S15 [Pseudomonas pachastrellae]
+Length=89
+
+ Score = 134 bits (337),  Expect = 1e-039, Method: Compositional matrix adjust.
+ Identities = 64/89 (72%), Positives = 74/89 (83%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L+  ++A I+A++ R E DTGSPEVQVALLTA IN LQGHFK +K DHHSRRGLIRMV
+Sbjct  1   MSLSVEEKAAIVAEYKRGEGDTGSPEVQVALLTANINKLQGHFKDNKKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL  KD  RY+ALI +LGLRR
+Sbjct  61  NQRRKLLDYLKSKDLSRYSALISSLGLRR  89
+
+
+>WP_023629335.1 MULTISPECIES: 30S ribosomal protein S15 [Bacteria]
+Length=89
+
+ Score = 134 bits (337),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 75/89 (84%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+A + +A  DTGSPEVQVALLT  IN LQGHFKA++ DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAQIVADYQQAAGDTGSPEVQVALLTFNINKLQGHFKANEKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDTTRYSALIGRLGLRR  89
+
+
+>WP_016489163.1 MULTISPECIES: 30S ribosomal protein S15 [Pseudomonas]
+Length=89
+
+ Score = 134 bits (337),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 74/89 (83%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+  + +A  DTGSPEVQVALLTA IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAQIVTDYQQAAGDTGSPEVQVALLTANINKLQGHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDTTRYSALIGRLGLRR  89
+
+
+>WP_013792667.1 MULTISPECIES: 30S ribosomal protein S15 [Pseudomonas]
+Length=89
+
+ Score = 134 bits (337),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 64/89 (72%), Positives = 75/89 (84%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+  + ++E DTGSPEVQVALL+A IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAQIVNDYKQSEGDTGSPEVQVALLSANINKLQGHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDTSRYSALIGRLGLRR  89
+
+
+>WP_074498437.1 30S ribosomal protein S15 [Thalassotalea sp. PP2-459]
+Length=89
+
+ Score = 134 bits (337),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 64/89 (72%), Positives = 74/89 (83%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L+   +A I+A++A  E DTGSPEVQVALLT QIN LQGHFK H HDHHSRRGL+RMV
+Sbjct  1   MSLSVEQKAAIVAEYATKEGDTGSPEVQVALLTTQINHLQGHFKEHIHDHHSRRGLLRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           +QRRKLLDYL GK+ ERY+ALI  LGLRR
+Sbjct  61  SQRRKLLDYLKGKNVERYSALIAKLGLRR  89
+
+
+>WP_029686335.1 30S ribosomal protein S15 [Tatumella saanichensis]
+Length=89
+
+ Score = 134 bits (337),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 64/89 (72%), Positives = 75/89 (84%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L+   +AEI+AK+ R  ND+GS EVQVALLTAQI+ LQGHF  HK DHHSRRGL+RMV
+Sbjct  1   MSLSVEAKAEIVAKYGRGTNDSGSTEVQVALLTAQISHLQGHFSEHKKDHHSRRGLLRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           +QRRKLLDYL  KD ERYT+LIG+LGLRR
+Sbjct  61  SQRRKLLDYLKRKDVERYTSLIGSLGLRR  89
+
+
+>WP_008373827.1 30S ribosomal protein S15 [Pseudomonas sp. M47T1]
+Length=89
+
+ Score = 134 bits (337),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 66/89 (74%), Positives = 73/89 (82%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL   ++A+I+ +F +A  DTGSPEVQVALLTA IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALNVEEKAKIVGEFQQAAGDTGSPEVQVALLTANINKLQGHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDTTRYAALIGRLGLRR  89
+
+
+>WP_071230933.1 30S ribosomal protein S15 [Salinicola sp. MIT1003]
+Length=89
+
+ Score = 134 bits (337),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 64/89 (72%), Positives = 73/89 (82%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALT   +AEI+ +F + E+DTGSPEVQVALL+A I+ LQ HFK HK DHHSRRGLIRMV
+Sbjct  1   MALTAEKKAEIVKEFGQGESDTGSPEVQVALLSANIDGLQSHFKDHKQDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD +RY +LI  LGLRR
+Sbjct  61  NQRRKLLDYLKGKDFDRYQSLIKKLGLRR  89
+
+
+>WP_006793376.1 MULTISPECIES: 30S ribosomal protein S15 [Alteromonadales]
+Length=89
+
+ Score = 134 bits (337),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 66/89 (74%), Positives = 73/89 (82%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L+N ++ +IIAKFARAE DTGSPEVQVALLT  IN LQGHF  HKHD HSRRGL+R V
+Sbjct  1   MSLSNQEKIDIIAKFARAEGDTGSPEVQVALLTFDINKLQGHFADHKHDFHSRRGLLRKV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           + RRKLLDYL GKD  RYTALI  LGLRR
+Sbjct  61  STRRKLLDYLKGKDISRYTALIKELGLRR  89
+
+
+>WP_027900329.1 MULTISPECIES: 30S ribosomal protein S15 [Pseudomonas]
+Length=89
+
+ Score = 134 bits (337),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 74/89 (83%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+  + +A  DTGSPEVQVALLTA IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAQIVTDYQQAAGDTGSPEVQVALLTANINKLQGHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDVSRYSALIGRLGLRR  89
+
+
+>WP_068545359.1 30S ribosomal protein S15 [Thalassotalea sp. LPB0090]
+Length=89
+
+ Score = 134 bits (337),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 63/89 (71%), Positives = 76/89 (85%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L+ A++A I+A++A++E DTGSPEVQVALLT QIN LQGHFK H HDHHSRRGL+RMV
+Sbjct  1   MSLSVAEKAAIVAEYAQSEGDTGSPEVQVALLTTQINHLQGHFKEHIHDHHSRRGLLRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           +QRRKLLDYL  K+ ERYT +I  LGLRR
+Sbjct  61  SQRRKLLDYLKRKNVERYTTVIAKLGLRR  89
+
+
+>WP_036993120.1 MULTISPECIES: 30S ribosomal protein S15 [Pseudomonas]
+Length=89
+
+ Score = 134 bits (337),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 64/89 (72%), Positives = 75/89 (84%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A I++++AR E DTGSPEVQVALLTA IN LQGHFK +K DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAAIVSEYARGEGDTGSPEVQVALLTANINKLQGHFKDNKKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL  KD  RY++LI +LGLRR
+Sbjct  61  NQRRKLLDYLKSKDLGRYSSLISSLGLRR  89
+
+
+>WP_019675832.1 30S ribosomal protein S15 [Rheinheimera perlucida]
+Length=89
+
+ Score = 134 bits (337),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 64/89 (72%), Positives = 73/89 (82%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L+ AD+A+I+A +A  E DTGSPEVQVALLTA I+ LQGHF  HKHD HSRRGL+RMV
+Sbjct  1   MSLSAADKAKIVADYAVKEGDTGSPEVQVALLTASISHLQGHFAEHKHDFHSRRGLLRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           +QRRKLLDYL GKD  RY  LIG LGLRR
+Sbjct  61  SQRRKLLDYLKGKDQSRYATLIGRLGLRR  89
+
+
+>WP_043308798.1 30S ribosomal protein S15 [Pseudomonas sp. ML96]
+Length=89
+
+ Score = 134 bits (337),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 74/89 (83%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+  + +AE DTGSPEVQVALLTA IN LQ HFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAQIVTDYKQAEGDTGSPEVQVALLTANINKLQDHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDTSRYSALIGRLGLRR  89
+
+
+>WP_028615142.1 30S ribosomal protein S15 [Pseudomonas pelagia]
+Length=89
+
+ Score = 134 bits (337),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 64/89 (72%), Positives = 73/89 (82%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A I+ ++AR E DTGSPEVQVALLTA IN LQGHFK +K DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAAIVTEYARGEGDTGSPEVQVALLTANINKLQGHFKENKKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL  KD  RY +LI +LGLRR
+Sbjct  61  NQRRKLLDYLKSKDIPRYASLISSLGLRR  89
+
+
+>WP_047590392.1 30S ribosomal protein S15 [Pseudomonas mendocina]
+Length=89
+
+ Score = 134 bits (337),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 74/89 (83%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+  + +AE DTGSPEVQVALLTA IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAQIVNDYKQAEGDTGSPEVQVALLTANINKLQGHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL  KD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKAKDTSRYSALIGRLGLRR  89
+
+
+>WP_025240600.1 30S ribosomal protein S15 [Pseudomonas stutzeri]
+Length=89
+
+ Score = 134 bits (337),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 64/89 (72%), Positives = 74/89 (83%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++ +I+ ++ +AE DTGSPEVQVALLTA IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVEEKVQIVNEYKQAEGDTGSPEVQVALLTANINKLQGHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ LIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDTTRYSTLIGRLGLRR  89
+
+
+>WP_011959458.1 30S ribosomal protein S15 [Psychrobacter sp. PRwf-1]
+Length=88
+
+ Score = 134 bits (336),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 64/87 (74%), Positives = 72/87 (83%), Gaps = 0/87 (0%)
+
+Query  3   LTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMVNQ  62
+           LTN DR ++IA++ RA  DTGSPEVQ+ALL+A+INDLQ HFK HK DHHSRRGLIRMVNQ
+Sbjct  2   LTNTDRQQVIAQYQRAPGDTGSPEVQIALLSARINDLQAHFKEHKGDHHSRRGLIRMVNQ  61
+
+Query  63  RRKLLDYLNGKDHERYTALIGALGLRR  89
+           RRKLLDYL  KD  RY +LI  LGLRR
+Sbjct  62  RRKLLDYLKRKDLTRYASLISELGLRR  88
+
+
+>WP_004585888.1 MULTISPECIES: 30S ribosomal protein S15 [Pseudoalteromonas]
+Length=89
+
+ Score = 134 bits (336),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 66/89 (74%), Positives = 73/89 (82%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L+N ++ +IIAKFARAE DTGSPEVQVALLT  IN LQGHF  HKHD HSRRGL+R V
+Sbjct  1   MSLSNQEKIDIIAKFARAEGDTGSPEVQVALLTFDINKLQGHFADHKHDFHSRRGLLRKV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           + RRKLLDYL GKD  RYTALI  LGLRR
+Sbjct  61  STRRKLLDYLKGKDISRYTALIQELGLRR  89
+
+
+>WP_033094396.1 30S ribosomal protein S15 [Colwellia psychrerythraea]
+Length=89
+
+ Score = 134 bits (336),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 64/89 (72%), Positives = 75/89 (84%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L   ++A I+A++A++E DTGSPEVQVALLT QIN LQGHFK H HDHHSRRGL+RMV
+Sbjct  1   MSLNATEKAAIVAEYAQSEGDTGSPEVQVALLTTQINHLQGHFKEHIHDHHSRRGLLRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+            QRRKLLDYL GK+ +RY ALIG LGLRR
+Sbjct  61  AQRRKLLDYLKGKNVDRYGALIGKLGLRR  89
+
+
+>WP_022965136.1 30S ribosomal protein S15 [Pseudomonas caeni]
+Length=89
+
+ Score = 134 bits (336),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 66/89 (74%), Positives = 73/89 (82%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  D+A+I+  + +AE DTGSPEVQVALLT  IN LQGHFK +K DHHSRRGLIRMV
+Sbjct  1   MALSVEDKAQIVNDYKQAEGDTGSPEVQVALLTFNINKLQGHFKDNKKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RYT LIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDLGRYTTLIGRLGLRR  89
+
+
+>WP_060509346.1 30S ribosomal protein S15 [Pseudomonas sp. NBRC 111124]
+Length=89
+
+ Score = 134 bits (336),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 66/89 (74%), Positives = 74/89 (83%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL  A++A+I+A + +A  DTGSPEVQVALLTA IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALDVAEKAQIVADYQQAAGDTGSPEVQVALLTANINKLQGHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALI  LGLRR
+Sbjct  61  NQRRKLLDYLKGKDTTRYSALIARLGLRR  89
+
+
+>WP_010365898.1 30S ribosomal protein S15 [Pseudoalteromonas citrea]
+Length=89
+
+ Score = 134 bits (336),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 64/89 (72%), Positives = 73/89 (82%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L+  ++ EI+AKFAR E DTGSPEVQVALLT  IN LQGHF  HKHD HSRRGL+R V
+Sbjct  1   MSLSTQEKVEIVAKFARVEGDTGSPEVQVALLTFDINKLQGHFADHKHDFHSRRGLLRKV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           +QRRKLLDYL GK+ ERY+ALI  LGLRR
+Sbjct  61  SQRRKLLDYLKGKNVERYSALIKELGLRR  89
+
+
+>WP_002555121.1 MULTISPECIES: 30S ribosomal protein S15 [Pseudomonas]
+ NP_794241.1 30S ribosomal protein S15 [[Pseudomonas syringae] pv. tomato 
+str. DC3000]
+ YP_237245.1 30S ribosomal protein S15 [Pseudomonas syringae pv. syringae 
+B728a]
+Length=89
+
+ Score = 134 bits (336),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 74/89 (83%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+  + +A  DTGSPEVQVALLTA IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAQIVTDYQQAVGDTGSPEVQVALLTANINKLQGHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDVSRYSALIGRLGLRR  89
+
+
+>WP_010370825.1 MULTISPECIES: 30S ribosomal protein S15 [Pseudoalteromonas]
+Length=89
+
+ Score = 134 bits (336),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 73/89 (82%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L+N ++AEI+AKFARAE DTGSPEVQVALLTA IN LQGHF  HK D HSRRGL+R V
+Sbjct  1   MSLSNQEKAEIVAKFARAEGDTGSPEVQVALLTADINKLQGHFANHKQDFHSRRGLLRKV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           +QRR LLDYL GK  +RY ALI  LGLRR
+Sbjct  61  SQRRNLLDYLKGKSVDRYAALIKELGLRR  89
+
+
+>WP_046820615.1 MULTISPECIES: 30S ribosomal protein S15 [Pseudomonas]
+Length=89
+
+ Score = 134 bits (336),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 66/89 (74%), Positives = 74/89 (83%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL   ++A+I+A + +A  DTGSPEVQVALLTA IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALDVQEKAQIVADYQQAVGDTGSPEVQVALLTANINKLQGHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDVSRYSALIGRLGLRR  89
+
+
+>WP_021205845.1 30S ribosomal protein S15 [Pseudomonas stutzeri]
+Length=89
+
+ Score = 134 bits (336),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 64/89 (72%), Positives = 74/89 (83%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+ ++ + E DTGSPEVQVALLTA IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAQIVDEYKQGEGDTGSPEVQVALLTANINKLQGHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ LIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDTTRYSTLIGRLGLRR  89
+
+
+>WP_003221553.1 MULTISPECIES: 30S ribosomal protein S15 [Pseudomonas]
+Length=89
+
+ Score = 134 bits (336),  Expect = 3e-039, Method: Compositional matrix adjust.
+ Identities = 66/89 (74%), Positives = 74/89 (83%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL   ++A+I+A + +A  DTGSPEVQVALLTA IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALDVQEKAQIVADYQQAVGDTGSPEVQVALLTANINKLQGHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDLSRYSALIGRLGLRR  89
+
+
+>WP_069897972.1 MULTISPECIES: 30S ribosomal protein S15 [Pseudomonas]
+Length=89
+
+ Score = 134 bits (336),  Expect = 3e-039, Method: Compositional matrix adjust.
+ Identities = 64/89 (72%), Positives = 74/89 (83%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+  + +A  DTGSPEVQVALL+A IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSAVEKAQIVTDYQQAAGDTGSPEVQVALLSANINKLQGHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDVSRYSALIGRLGLRR  89
+
+
+>WP_022642180.1 MULTISPECIES: 30S ribosomal protein S15 [Pseudomonas]
+Length=89
+
+ Score = 134 bits (336),  Expect = 3e-039, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 74/89 (83%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+A + +A  DTGSPEVQVALLTA IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAQIVADYQQAVGDTGSPEVQVALLTANINKLQGHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ LIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDLSRYSTLIGRLGLRR  89
+
+
+>WP_009042128.1 MULTISPECIES: 30S ribosomal protein S15 [Pseudomonas]
+Length=89
+
+ Score = 134 bits (336),  Expect = 3e-039, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 74/89 (83%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+  + +A  DTGSPEVQVALLTA IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAQIVTDYQQAVGDTGSPEVQVALLTANINKLQGHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDLSRYSALIGRLGLRR  89
+
+
+>WP_058764308.1 MULTISPECIES: 30S ribosomal protein S15 [Pseudomonas]
+Length=89
+
+ Score = 134 bits (336),  Expect = 3e-039, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 74/89 (83%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  D+A+I+ +F RAE DTGSPEVQVALL+A I+ LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVEDKAQIVNEFKRAEGDTGSPEVQVALLSANIDKLQGHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL  KD  RY+ALI  LGLRR
+Sbjct  61  NQRRKLLDYLKSKDTTRYSALIARLGLRR  89
+
+
+>WP_011914369.1 MULTISPECIES: 30S ribosomal protein S15 [Pseudomonas]
+Length=89
+
+ Score = 133 bits (335),  Expect = 3e-039, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 75/89 (84%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+ ++ +AE DTGSPEVQVALLTA IN LQ HFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAQIVNEYKQAEGDTGSPEVQVALLTANINKLQDHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDTTRYSALIGRLGLRR  89
+
+
+>WP_003095184.1 MULTISPECIES: 30S ribosomal protein S15 [Pseudomonas]
+ NP_253429.1 30S ribosomal protein S15 [Pseudomonas aeruginosa PAO1]
+Length=89
+
+ Score = 133 bits (335),  Expect = 3e-039, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 75/89 (84%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+ ++ +AE DTGSPEVQVALL+A IN LQ HFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAQIVNEYKQAEGDTGSPEVQVALLSANINKLQDHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RYTALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDVSRYTALIGRLGLRR  89
+
+
+>WP_012702770.1 30S ribosomal protein S15 [Azotobacter vinelandii]
+Length=89
+
+ Score = 133 bits (335),  Expect = 3e-039, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 74/89 (83%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALT  ++A+I+ ++ +AE DTGSPEVQVALLTA IN LQ HFKA+  DHHSRRGLIRMV
+Sbjct  1   MALTVEEKAQIVNEYKQAEGDTGSPEVQVALLTANINKLQDHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ LIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDTTRYSTLIGRLGLRR  89
+
+
+>WP_067987434.1 30S ribosomal protein S15 [Neptuniibacter pectenicola]
+Length=89
+
+ Score = 133 bits (335),  Expect = 3e-039, Method: Compositional matrix adjust.
+ Identities = 67/89 (75%), Positives = 71/89 (80%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALT   +A I+  FARAE DTGSPEVQVALLTA I  LQ HFK +KHDHHSRRGLIRMV
+Sbjct  1   MALTAEKKAAIVTDFARAEGDTGSPEVQVALLTANIEGLQDHFKVNKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD +RY  LI  LGLRR
+Sbjct  61  NQRRKLLDYLKGKDADRYLELIKRLGLRR  89
+
+
+>WP_027458246.1 30S ribosomal protein S15 [Dechloromonas agitata]
+Length=89
+
+ Score = 133 bits (335),  Expect = 3e-039, Method: Compositional matrix adjust.
+ Identities = 62/89 (70%), Positives = 76/89 (85%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MA+T A++A I+A+FA+++ DTGSPEVQ+ALLTA+INDLQ HFK H  DHHSRRGL+R+V
+Sbjct  1   MAMTTANKANIVAEFAQSKGDTGSPEVQIALLTARINDLQPHFKEHTKDHHSRRGLLRLV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           +QRRKLLDYL GKD ERY  LI  LGLR+
+Sbjct  61  SQRRKLLDYLKGKDIERYRTLITKLGLRK  89
+
+
+>WP_016707659.1 MULTISPECIES: 30S ribosomal protein S15 [Pseudoalteromonas]
+Length=89
+
+ Score = 133 bits (335),  Expect = 3e-039, Method: Compositional matrix adjust.
+ Identities = 66/89 (74%), Positives = 73/89 (82%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L+N ++ +IIAKFARAE DTGSPEVQVALLT  IN LQGHF  HKHD HSRRGL+R V
+Sbjct  1   MSLSNQEKIDIIAKFARAEGDTGSPEVQVALLTFDINKLQGHFADHKHDFHSRRGLLRKV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           + RRKLLDYL GKD  RYTALI  LGLRR
+Sbjct  61  STRRKLLDYLKGKDIARYTALIQELGLRR  89
+
+
+>WP_020305265.1 30S ribosomal protein S15 [Pseudomonas syringae]
+Length=89
+
+ Score = 133 bits (335),  Expect = 4e-039, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 74/89 (83%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+  + +A  DTGSPEVQVALLTA IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSFEEKAQIVTDYQQAVGDTGSPEVQVALLTANINKLQGHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDVSRYSALIGRLGLRR  89
+
+
+>WP_011469182.1 30S ribosomal protein S15 [Saccharophagus degradans]
+Length=89
+
+ Score = 133 bits (335),  Expect = 4e-039, Method: Compositional matrix adjust.
+ Identities = 64/89 (72%), Positives = 73/89 (82%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+ A+++ I+ ++  AE DTGSPEVQVALLTA IN LQGHF  HK DHHSRRGLIRMV
+Sbjct  1   MALSAAEKSAIVKEYQTAETDTGSPEVQVALLTANINKLQGHFSDHKQDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GK+ ERY +LI  LGLRR
+Sbjct  61  NQRRKLLDYLKGKNVERYASLIQRLGLRR  89
+
+
+>WP_066316110.1 MULTISPECIES: 30S ribosomal protein S15 [Halomonas]
+Length=89
+
+ Score = 133 bits (335),  Expect = 4e-039, Method: Compositional matrix adjust.
+ Identities = 64/89 (72%), Positives = 73/89 (82%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALT   +AEI+ ++ R ENDTGSPEVQVALL+A IN LQ HFK +K DHHSRRGLIRMV
+Sbjct  1   MALTAEKKAEIVNEYGRGENDTGSPEVQVALLSANINGLQDHFKTNKQDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL  KD ERY +LI +LG+RR
+Sbjct  61  NQRRKLLDYLKRKDFERYQSLIQSLGIRR  89
+
+
+>WP_017904137.1 30S ribosomal protein S15 [Pseudomonas fuscovaginae]
+Length=89
+
+ Score = 133 bits (335),  Expect = 4e-039, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 74/89 (83%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+A + +A  DTGSPEVQVALLTA IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAQIVADYQQAVGDTGSPEVQVALLTANINKLQGHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ LIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDVTRYSTLIGRLGLRR  89
+
+
+>WP_021700421.1 MULTISPECIES: 30S ribosomal protein S15 [Pseudomonas]
+Length=89
+
+ Score = 133 bits (335),  Expect = 4e-039, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 74/89 (83%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+  + +AE DTGSPEVQVALLTA IN LQ HFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAQIVNDYKQAEGDTGSPEVQVALLTANINKLQDHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDTSRYSALIGRLGLRR  89
+
+
+>WP_086434036.1 30S ribosomal protein S15 [Idiomarina planktonica]
+Length=89
+
+ Score = 133 bits (335),  Expect = 4e-039, Method: Compositional matrix adjust.
+ Identities = 63/89 (71%), Positives = 75/89 (84%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+LT   +AEI+ K+ + ENDTGSPEVQVALLTA IN+LQGHFKAH  DHHSRRGL+RMV
+Sbjct  1   MSLTAEVKAEIVKKYGQGENDTGSPEVQVALLTANINELQGHFKAHAKDHHSRRGLLRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           +QRRKLLDYL  K+++RY  LI +LGLRR
+Sbjct  61  SQRRKLLDYLKRKNNQRYATLIDSLGLRR  89
+
+
+>WP_046561978.1 30S ribosomal protein S15 [Kangiella geojedonensis]
+Length=89
+
+ Score = 133 bits (334),  Expect = 4e-039, Method: Compositional matrix adjust.
+ Identities = 64/89 (72%), Positives = 73/89 (82%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L+   +AEI+ +  R E DTGSPEVQVALL+AQIN LQ HFKAHKHDHHSRRGL+RMV
+Sbjct  1   MSLSAEKKAEIVQEHGRGEGDTGSPEVQVALLSAQINHLQDHFKAHKHDHHSRRGLLRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           +QRRKLLDYL  KDH RY+ LI  LGLRR
+Sbjct  61  SQRRKLLDYLKRKDHSRYSDLIKKLGLRR  89
+
+
+>WP_009685353.1 MULTISPECIES: 30S ribosomal protein S15 [Pseudomonas]
+Length=89
+
+ Score = 133 bits (334),  Expect = 4e-039, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 75/89 (84%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+A++ +A  DTGSPEVQVALLT  IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAKIVAEYQQAAGDTGSPEVQVALLTHNINKLQGHFKANDKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDTTRYSALIGRLGLRR  89
+
+
+>WP_027965820.1 30S ribosomal protein S15 [Halomonas halocynthiae]
+Length=89
+
+ Score = 133 bits (334),  Expect = 4e-039, Method: Compositional matrix adjust.
+ Identities = 64/89 (72%), Positives = 74/89 (83%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALT   ++EI+++F R +NDTGSPEVQVALL+A I+ LQ HFK +KHDHHSRRGLIRMV
+Sbjct  1   MALTAEQKSEIVSEFGRGDNDTGSPEVQVALLSANIDGLQSHFKTNKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL  KD ERY +LI  LGLRR
+Sbjct  61  NQRRKLLDYLRRKDLERYQSLIKRLGLRR  89
+
+
+>WP_028866424.1 30S ribosomal protein S15 [Psychromonas hadalis]
+Length=89
+
+ Score = 133 bits (334),  Expect = 4e-039, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 72/89 (81%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L+   +AEI+AKF RAE DTGSPEVQVAL T QIN LQGHFK H HDHHSRRGL+RMV
+Sbjct  1   MSLSAQQKAEIVAKFGRAEGDTGSPEVQVALYTVQINHLQGHFKEHIHDHHSRRGLLRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           +QRRKLLDYL  K+   YTALI  LGLRR
+Sbjct  61  SQRRKLLDYLKRKNIPAYTALIAELGLRR  89
+
+
+>WP_043190760.1 MULTISPECIES: 30S ribosomal protein S15 [Pseudomonas]
+Length=89
+
+ Score = 133 bits (334),  Expect = 5e-039, Method: Compositional matrix adjust.
+ Identities = 66/89 (74%), Positives = 74/89 (83%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  D+A+I+A + +A  DTGSPEVQVALLT  IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVEDKAQIVADYQQAVGDTGSPEVQVALLTHNINKLQGHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDVTRYSALIGRLGLRR  89
+
+
+>WP_079204781.1 30S ribosomal protein S15 [Pseudomonas sp. CC6-YY-74]
+Length=89
+
+ Score = 133 bits (334),  Expect = 5e-039, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 73/89 (82%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  D+A+I+  + +AE DTGSPEVQVALLT  IN LQGHFK +  DHHSRRGLIRMV
+Sbjct  1   MALSVEDKAQIVNDYKQAEGDTGSPEVQVALLTFNINKLQGHFKINGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDVSRYSALIGRLGLRR  89
+
+
+>WP_070376186.1 30S ribosomal protein S15 [Colwellia sp. PAMC 20917]
+Length=89
+
+ Score = 133 bits (334),  Expect = 5e-039, Method: Compositional matrix adjust.
+ Identities = 63/89 (71%), Positives = 73/89 (82%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L   ++A I+A++A+ E DTGSPEVQVALLT QIN LQGHFK H HDHHSRRGL+RMV
+Sbjct  1   MSLNATEKAAIVAEYAQKEGDTGSPEVQVALLTTQINHLQGHFKEHIHDHHSRRGLLRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+            QRRKLLDYL GK+ ERYT +I  LGLRR
+Sbjct  61  AQRRKLLDYLKGKNVERYTTVIAKLGLRR  89
+
+
+>WP_028870486.1 30S ribosomal protein S15 [Psychromonas arctica]
+Length=89
+
+ Score = 133 bits (334),  Expect = 5e-039, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 72/89 (81%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L+   +AEI+AKF RAE DTGSPEVQVAL T QIN LQGHFK H HDHHSRRGL+RMV
+Sbjct  1   MSLSAEQKAEIVAKFGRAEGDTGSPEVQVALYTVQINHLQGHFKEHIHDHHSRRGLLRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           +QRRKLLDYL  K+   YTALI  LGLRR
+Sbjct  61  SQRRKLLDYLKRKNVAAYTALIAELGLRR  89
+
+
+>WP_064121065.1 30S ribosomal protein S15 [Halotalea alkalilenta]
+Length=89
+
+ Score = 133 bits (334),  Expect = 5e-039, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 72/89 (81%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALT   +AEI+ +F  +ENDTGSPEVQVALLTA I  LQ HFK++K DHHSRRGLIRMV
+Sbjct  1   MALTAERKAEIVKEFGASENDTGSPEVQVALLTANIEGLQDHFKSNKQDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GK  ERY +LI  LGLRR
+Sbjct  61  NQRRKLLDYLKGKSFERYQSLIQRLGLRR  89
+
+
+>WP_045216763.1 MULTISPECIES: 30S ribosomal protein S15 [Pseudomonas]
+Length=89
+
+ Score = 133 bits (334),  Expect = 5e-039, Method: Compositional matrix adjust.
+ Identities = 64/89 (72%), Positives = 75/89 (84%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+ ++ +AE DTGSPEVQVALL+A IN LQ HFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVQEKAQIVNEYKQAEGDTGSPEVQVALLSANINKLQDHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDTSRYSALIGRLGLRR  89
+
+
+>WP_007021178.1 30S ribosomal protein S15 [Neptuniibacter caesariensis]
+Length=89
+
+ Score = 133 bits (334),  Expect = 5e-039, Method: Compositional matrix adjust.
+ Identities = 66/89 (74%), Positives = 72/89 (81%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALT   +A I+A +AR E DTGSPEVQVALL+A I  LQ HFKA+KHDHHSRRGLIRMV
+Sbjct  1   MALTAEKKAAIVADYARGEGDTGSPEVQVALLSANIEGLQSHFKANKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD +RY  LI  LGLRR
+Sbjct  61  NQRRKLLDYLKGKDADRYLELIKRLGLRR  89
+
+
+>WP_027337656.1 30S ribosomal protein S15 [Halomonas sp. HL-48]
+Length=89
+
+ Score = 133 bits (334),  Expect = 5e-039, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 72/89 (81%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALT   +AEI+ ++ R ENDTGSPEVQVALL+A IN LQ HFK +K DHHSRRGLIRMV
+Sbjct  1   MALTAEKKAEIVNEYGRGENDTGSPEVQVALLSANINGLQDHFKTNKQDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL  KD ERY +LI  LGLRR
+Sbjct  61  NQRRKLLDYLKRKDFERYQSLIQRLGLRR  89
+
+
+>WP_016419040.1 30S ribosomal protein S15 [Halomonas anticariensis]
+Length=89
+
+ Score = 132 bits (333),  Expect = 6e-039, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 72/89 (81%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALT   +AEI+ +F R ENDTGSPEVQVALL+A I+ LQ HFK +K DHHSRRGLIRMV
+Sbjct  1   MALTAEKKAEIVKEFGRGENDTGSPEVQVALLSANIDGLQDHFKTNKQDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL  KD ERY +LI  LGLRR
+Sbjct  61  NQRRKLLDYLKRKDFERYQSLIQRLGLRR  89
+
+
+>WP_074881307.1 30S ribosomal protein S15 [Pseudomonas argentinensis]
+Length=89
+
+ Score = 132 bits (333),  Expect = 6e-039, Method: Compositional matrix adjust.
+ Identities = 64/89 (72%), Positives = 74/89 (83%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+  + +AE DTGSPEVQVALL+A IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAQIVNDYKQAEGDTGSPEVQVALLSANINKLQGHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL  KD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKSKDTSRYSALIGRLGLRR  89
+
+
+>WP_057181185.1 MULTISPECIES: 30S ribosomal protein S15 [Colwellia]
+Length=89
+
+ Score = 132 bits (333),  Expect = 6e-039, Method: Compositional matrix adjust.
+ Identities = 63/89 (71%), Positives = 74/89 (83%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L  + +A I+A++A++E DTGSPEVQVALLT QIN LQGHFK H HDHHSRRGL+RMV
+Sbjct  1   MSLNASQKAAIVAEYAQSEGDTGSPEVQVALLTTQINHLQGHFKEHIHDHHSRRGLLRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+            QRRKLLDYL G++ ERY  LIG LGLRR
+Sbjct  61  AQRRKLLDYLKGRNVERYGTLIGKLGLRR  89
+
+
+>WP_028863706.1 30S ribosomal protein S15 [Psychromonas aquimarina]
+Length=89
+
+ Score = 132 bits (333),  Expect = 6e-039, Method: Compositional matrix adjust.
+ Identities = 64/89 (72%), Positives = 72/89 (81%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L+   +AEI+AKF R+E DTGSPEVQVAL T QIN LQGHFK H HDHHSRRGL+RMV
+Sbjct  1   MSLSAQQKAEIVAKFGRSETDTGSPEVQVALYTVQINHLQGHFKEHIHDHHSRRGLLRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           +QRRKLLDYL  K+   YTALI  LGLRR
+Sbjct  61  SQRRKLLDYLKRKNVAAYTALISELGLRR  89
+
+
+>WP_021217896.1 30S ribosomal protein S15 [Pseudomonas alcaligenes]
+Length=89
+
+ Score = 132 bits (333),  Expect = 6e-039, Method: Compositional matrix adjust.
+ Identities = 64/89 (72%), Positives = 74/89 (83%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+ ++ +AE DTGSPEVQVALLTA IN LQ HFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVTEKAQIVNEYKQAEGDTGSPEVQVALLTANINKLQDHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ LIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDTTRYSTLIGRLGLRR  89
+
+
+>WP_014291939.1 30S ribosomal protein S15 [Oceanimonas sp. GK1]
+Length=89
+
+ Score = 132 bits (333),  Expect = 7e-039, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 73/89 (82%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L    +A+I+A+FAR E DTGSPEVQVALL+AQIN LQGHFK H HDHHSRRGL+RMV
+Sbjct  1   MSLNAETKAQIVAEFARGEGDTGSPEVQVALLSAQINHLQGHFKQHIHDHHSRRGLLRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           +QRR LLDYL  KD ERY ALI  LGLRR
+Sbjct  61  SQRRSLLDYLKRKDVERYRALIEKLGLRR  89
+
+
+>WP_065259984.1 30S ribosomal protein S15 [Pseudomonas fluorescens]
+Length=89
+
+ Score = 132 bits (333),  Expect = 7e-039, Method: Compositional matrix adjust.
+ Identities = 66/89 (74%), Positives = 73/89 (82%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL   ++A+I+A F +A  DTGSPEVQVALLTA IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALDVQEKAQIVADFQQAVGDTGSPEVQVALLTANINKLQGHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALI  LGLRR
+Sbjct  61  NQRRKLLDYLKGKDLSRYSALIARLGLRR  89
+
+
+>WP_020407738.1 30S ribosomal protein S15 [Hahella ganghwensis]
+Length=89
+
+ Score = 132 bits (333),  Expect = 7e-039, Method: Compositional matrix adjust.
+ Identities = 64/89 (72%), Positives = 73/89 (82%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++AEI+ +F   E DTGSPEVQVALLT  IN LQGHF+++KHDHHSRRGLIRMV
+Sbjct  1   MALSAVEKAEILKEFQTKEGDTGSPEVQVALLTHNINKLQGHFQSNKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD +RY  LI  LGLRR
+Sbjct  61  NQRRKLLDYLKGKDADRYVNLIQKLGLRR  89
+
+
+>WP_033955212.1 30S ribosomal protein S15 [Pseudomonas aeruginosa]
+Length=89
+
+ Score = 132 bits (333),  Expect = 7e-039, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 74/89 (83%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+ ++ +AE DTGSPEVQVALL A IN LQ HFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAQIVNEYKQAEGDTGSPEVQVALLAANINKLQDHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RYTALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDVSRYTALIGRLGLRR  89
+
+
+>WP_039802075.1 30S ribosomal protein S15 [Azotobacter chroococcum]
+Length=89
+
+ Score = 132 bits (333),  Expect = 7e-039, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 74/89 (83%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALT  ++A+I+ ++ +AE DTGSPEVQVALLT  IN LQ HFKA+  DHHSRRGLIRMV
+Sbjct  1   MALTVEEKAQIVNEYKQAEGDTGSPEVQVALLTFNINKLQDHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDTTRYSALIGRLGLRR  89
+
+
+>WP_044619055.1 30S ribosomal protein S15 [Gynuella sunshinyii]
+Length=89
+
+ Score = 132 bits (333),  Expect = 7e-039, Method: Compositional matrix adjust.
+ Identities = 64/89 (72%), Positives = 73/89 (82%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+   +AEI+ ++ +AE DTGSPEVQVALL+A I+ LQ HFKAH  DHHSRRGLIRMV
+Sbjct  1   MALSPEKKAEIVKEYQQAEGDTGSPEVQVALLSANIDALQSHFKAHNKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GK  +RYT LIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKSLDRYTTLIGRLGLRR  89
+
+
+>WP_019027814.1 30S ribosomal protein S15 [Colwellia piezophila]
+Length=89
+
+ Score = 132 bits (333),  Expect = 8e-039, Method: Compositional matrix adjust.
+ Identities = 64/89 (72%), Positives = 74/89 (83%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L   ++A I+A++A++E DTGSPEVQVALLTAQIN LQGHFKAH HDHHSRRGL+RMV
+Sbjct  1   MSLNATEKAAIVAEYAQSEGDTGSPEVQVALLTAQINHLQGHFKAHIHDHHSRRGLLRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+            QRRKLLDYL  K+ ERYT  I  LGLRR
+Sbjct  61  AQRRKLLDYLKRKNVERYTTAIAKLGLRR  89
+
+
+>WP_078745897.1 30S ribosomal protein S15 [Oceanospirillum multiglobuliferum]
+Length=89
+
+ Score = 132 bits (333),  Expect = 8e-039, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 72/89 (81%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+ A++A I+  + R E DTGSPEVQVALLT  IN LQ HFK+HKHDHHSRRGLIRMV
+Sbjct  1   MALSAAEKAAIVKDYQRGEGDTGSPEVQVALLTLNINGLQDHFKSHKHDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ LI  LGLRR
+Sbjct  61  NQRRKLLDYLKGKDVTRYSDLIKRLGLRR  89
+
+
+>WP_068478048.1 MULTISPECIES: 30S ribosomal protein S15 [Oleiphilus]
+Length=89
+
+ Score = 132 bits (332),  Expect = 8e-039, Method: Compositional matrix adjust.
+ Identities = 64/89 (72%), Positives = 74/89 (83%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+ A++A I+  + ++E DTGSPEVQVALLT  IN LQGHFK +K DHHSRRGLIRMV
+Sbjct  1   MALSAAEKAAILKDYQQSEGDTGSPEVQVALLTHNINKLQGHFKGNKQDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD +RY +LIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDADRYLSLIGRLGLRR  89
+
+
+>WP_066015146.1 30S ribosomal protein S15 [Endozoicomonas atrinae]
+Length=89
+
+ Score = 132 bits (332),  Expect = 8e-039, Method: Compositional matrix adjust.
+ Identities = 68/89 (76%), Positives = 72/89 (81%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALT   +AEI+A FARAE DTGSPEVQVALLTA I  LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALTAEQKAEILANFARAEGDTGSPEVQVALLTANIEGLQGHFKANHKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRR LLDYL  KD ERY +LI  LGLRR
+Sbjct  61  NQRRNLLDYLKRKDVERYRSLIQRLGLRR  89
+
+
+>WP_024684882.1 MULTISPECIES: 30S ribosomal protein S15 [Pseudomonas]
+Length=89
+
+ Score = 132 bits (332),  Expect = 8e-039, Method: Compositional matrix adjust.
+ Identities = 64/89 (72%), Positives = 73/89 (82%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+  + +A  DTGSPEVQVALLTA IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAQIVTDYQQAVGDTGSPEVQVALLTANINKLQGHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ LIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDVSRYSTLIGRLGLRR  89
+
+
+>WP_048308269.1 30S ribosomal protein S15 [Halomonas sp. PR-M31]
+Length=89
+
+ Score = 132 bits (332),  Expect = 9e-039, Method: Compositional matrix adjust.
+ Identities = 64/89 (72%), Positives = 73/89 (82%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALT   +AEI+ ++ R ENDTGSPEVQVALL+A I+ LQ HFK++K DHHSRRGLIRMV
+Sbjct  1   MALTTEKKAEIVNEYGRGENDTGSPEVQVALLSANIDGLQSHFKSNKQDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL  KD ERY +LI  LGLRR
+Sbjct  61  NQRRKLLDYLKRKDLERYQSLIQRLGLRR  89
+
+
+>WP_027349602.1 30S ribosomal protein S15 [Halotalea alkalilenta]
+Length=89
+
+ Score = 132 bits (332),  Expect = 9e-039, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 71/89 (80%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALT   +AEI+ +F  +ENDTGSPEVQVALLTA I  LQ HFK +K DHHSRRGLIRMV
+Sbjct  1   MALTAERKAEIVKEFGASENDTGSPEVQVALLTANIEGLQDHFKTNKQDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GK  ERY +LI  LGLRR
+Sbjct  61  NQRRKLLDYLKGKSFERYQSLIQRLGLRR  89
+
+
+>WP_029095188.1 30S ribosomal protein S15 [Budvicia aquatica]
+Length=89
+
+ Score = 132 bits (332),  Expect = 9e-039, Method: Compositional matrix adjust.
+ Identities = 63/89 (71%), Positives = 73/89 (82%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L    +A+I+A++ R END+GSPEVQVALLTAQIN LQGHF  HK DHHSRRGL+RMV
+Sbjct  1   MSLNVETKAKIVAEYGRCENDSGSPEVQVALLTAQINHLQGHFSEHKKDHHSRRGLLRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           +QRRKLLDYL  KD  RYT LI +LGLRR
+Sbjct  61  SQRRKLLDYLKRKDVARYTQLIASLGLRR  89
+
+
+>WP_048329795.1 30S ribosomal protein S15 [Pseudomonas stutzeri]
+Length=89
+
+ Score = 132 bits (332),  Expect = 1e-038, Method: Compositional matrix adjust.
+ Identities = 64/89 (72%), Positives = 74/89 (83%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+ ++ +AE DTGSPEVQVALLTA IN LQ HFK +  DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAQIVNEYKQAEGDTGSPEVQVALLTANINKLQDHFKVNGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDTTRYSALIGRLGLRR  89
+
+
+>WP_042146076.1 MULTISPECIES: 30S ribosomal protein S15 [Pseudoalteromonas]
+Length=89
+
+ Score = 132 bits (332),  Expect = 1e-038, Method: Compositional matrix adjust.
+ Identities = 64/89 (72%), Positives = 72/89 (81%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L+  + AEI+AKFARAE DTGSPEVQ+ALLT  IN LQGHFK+H HD HSRRGL+R V
+Sbjct  1   MSLSTQETAEIVAKFARAEGDTGSPEVQIALLTFDINKLQGHFKSHIHDFHSRRGLLRKV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           +QRRKLLDYL GK  E Y ALI  LGLRR
+Sbjct  61  SQRRKLLDYLKGKKVESYKALIQELGLRR  89
+
+
+>WP_080048476.1 30S ribosomal protein S15 [Pseudomonas sp. S-6-2]
+Length=89
+
+ Score = 132 bits (332),  Expect = 1e-038, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 72/89 (81%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  D+A I+A++ R E DTGSPEVQVALLTA IN LQGHFK +  DHHSRRGLIRMV
+Sbjct  1   MALSVEDKAAIVAEYKRGEGDTGSPEVQVALLTANINKLQGHFKENGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL  KD  RY+ LIG LGLRR
+Sbjct  61  NQRRKLLDYLKSKDVARYSDLIGRLGLRR  89
+
+
+>WP_076513482.1 30S ribosomal protein S15 [Oleibacter marinus]
+Length=89
+
+ Score = 132 bits (332),  Expect = 1e-038, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 71/89 (80%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+   +AEI+ +F  AE DTGSPEVQVALLT  IN LQGHFK++K DHHSRRGLIRMV
+Sbjct  1   MALSAEKKAEIVKEFQTAEGDTGSPEVQVALLTYNINGLQGHFKSNKKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY  LI  LGLRR
+Sbjct  61  NQRRKLLDYLKGKDANRYLELIKKLGLRR  89
+
+
+>WP_011059205.1 MULTISPECIES: 30S ribosomal protein S15 [Pseudomonas]
+Length=89
+
+ Score = 132 bits (332),  Expect = 1e-038, Method: Compositional matrix adjust.
+ Identities = 64/89 (72%), Positives = 73/89 (82%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+  + +A  DTGSPEVQVALLTA IN LQGHFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAQIVTDYQQAVGDTGSPEVQVALLTANINKLQGHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ LIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDLSRYSTLIGRLGLRR  89
+
+
+>WP_003293213.1 MULTISPECIES: 30S ribosomal protein S15 [Pseudomonas stutzeri 
+group]
+Length=89
+
+ Score = 132 bits (332),  Expect = 1e-038, Method: Compositional matrix adjust.
+ Identities = 64/89 (72%), Positives = 74/89 (83%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+ ++ +AE DTGSPEVQVALLTA IN LQ HFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAQIVNEYKQAEGDTGSPEVQVALLTANINKLQDHFKANGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ LIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDTTRYSTLIGRLGLRR  89
+
+
+>WP_038086722.1 30S ribosomal protein S15 [Acidihalobacter prosperus]
+Length=89
+
+ Score = 132 bits (332),  Expect = 1e-038, Method: Compositional matrix adjust.
+ Identities = 61/89 (69%), Positives = 74/89 (83%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+LT  D+A I+ KF RA++DTGSPEVQVALL+A+I+ L  HF  HKHDHHSRRGL+++V
+Sbjct  1   MSLTTEDKANIVGKFQRADSDTGSPEVQVALLSARISYLTEHFNTHKHDHHSRRGLLKLV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD +RY +LI  LGLRR
+Sbjct  61  NQRRKLLDYLRGKDQQRYQSLISELGLRR  89
+
+
+>WP_053268197.1 30S ribosomal protein S15 [Pseudomonas chlororaphis]
+Length=89
+
+ Score = 132 bits (332),  Expect = 1e-038, Method: Compositional matrix adjust.
+ Identities = 64/89 (72%), Positives = 73/89 (82%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+  + +A  DTGSPEVQVALLTA IN LQGHFK +  DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAQIVTDYQQAVGDTGSPEVQVALLTANINKLQGHFKVNGKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKGKDLSRYSALIGRLGLRR  89
+
+
+>WP_017937453.1 30S ribosomal protein S15 [Pseudomonas thermotolerans]
+Length=89
+
+ Score = 132 bits (332),  Expect = 1e-038, Method: Compositional matrix adjust.
+ Identities = 62/89 (70%), Positives = 75/89 (84%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+  ++A+I+ ++ ++ENDTGSPEVQ+ALL+A IN LQ HFKA+  DHHSRRGLIRMV
+Sbjct  1   MALSVEEKAQIVNEYKQSENDTGSPEVQIALLSANINKLQEHFKANAKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL  KD  RY+ALIG LGLRR
+Sbjct  61  NQRRKLLDYLKSKDTTRYSALIGRLGLRR  89
+
+
+>WP_017446286.1 30S ribosomal protein S15 [Gayadomonas joobiniege]
+Length=89
+
+ Score = 132 bits (332),  Expect = 1e-038, Method: Compositional matrix adjust.
+ Identities = 64/89 (72%), Positives = 72/89 (81%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+LTNA++A+I+A +A  E DTGSPEVQVALLT +IN LQGHF  HK DHHSRRGLIRMV
+Sbjct  1   MSLTNAEKAQIVADYAVKEGDTGSPEVQVALLTHRINKLQGHFSDHKKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           N RR LLDYL  KD ERY +LI  LGLRR
+Sbjct  61  NSRRSLLDYLKRKDSERYASLISRLGLRR  89
+
+
+>WP_009838828.1 30S ribosomal protein S15 [Pseudoalteromonas tunicata]
+Length=89
+
+ Score = 132 bits (331),  Expect = 1e-038, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 72/89 (81%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L+   +AEI+AKFARAE DTGSPEVQVALLT  IN LQGHF  HKHD HSRRGL+R V
+Sbjct  1   MSLSTQQKAEILAKFARAEGDTGSPEVQVALLTFDINKLQGHFADHKHDFHSRRGLLRKV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           +QRRKLLDYL  KD  RYT+LI  LGLRR
+Sbjct  61  SQRRKLLDYLKRKDLARYTSLIAELGLRR  89
+
+
+>WP_014996168.1 MULTISPECIES: 30S ribosomal protein S15 [Alcanivorax]
+Length=89
+
+ Score = 132 bits (331),  Expect = 1e-038, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 70/89 (79%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MAL+   +AEI+ +F R E D+GSPEVQVALLT  IN LQGHFKAH  DHHSRRGLIRMV
+Sbjct  1   MALSVEKKAEILKEFGRKEGDSGSPEVQVALLTENINQLQGHFKAHNKDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL GKD  RY  LI  LGLRR
+Sbjct  61  NQRRKLLDYLAGKDRSRYLQLIERLGLRR  89
+
+
+>WP_017431312.1 30S ribosomal protein S15 [Halomonas jeotgali]
+Length=89
+
+ Score = 132 bits (331),  Expect = 1e-038, Method: Compositional matrix adjust.
+ Identities = 62/89 (70%), Positives = 72/89 (81%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           MALT   +AEI+ ++ R ENDTGSPEVQVALL+A IN LQ HFK++  DHHSRRGLIRMV
+Sbjct  1   MALTAEQKAEIVNEYGRGENDTGSPEVQVALLSANINGLQSHFKSNSQDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL  KD+ RY  +I +LGLRR
+Sbjct  61  NQRRKLLDYLKRKDYSRYQTIIQSLGLRR  89
+
+
+>WP_018623365.1 30S ribosomal protein S15 [Kangiella aquimarina]
+Length=89
+
+ Score = 132 bits (331),  Expect = 1e-038, Method: Compositional matrix adjust.
+ Identities = 64/89 (72%), Positives = 73/89 (82%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L+   +AEI+ + AR E DTGSPEVQVALLTAQIN LQ HFK HKHDHHSRRGL+RMV
+Sbjct  1   MSLSPEAKAEIVKEHARGEGDTGSPEVQVALLTAQINHLQDHFKVHKHDHHSRRGLLRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           +QRRKLLDYL  KD +RY+ LI  LGLRR
+Sbjct  61  SQRRKLLDYLKRKDQDRYSDLIKKLGLRR  89
+
+
+>WP_027852957.1 30S ribosomal protein S15 [Marinobacterium litorale]
+Length=89
+
+ Score = 132 bits (331),  Expect = 1e-038, Method: Compositional matrix adjust.
+ Identities = 64/89 (72%), Positives = 71/89 (80%), Gaps = 0/89 (0%)
+
+Query  1   MALTNADRAEIIAKFARAENDTGSPEVQVALLTAQINDLQGHFKAHKHDHHSRRGLIRMV  60
+           M+L+   +A+I+A F R E DTGSPEVQVALLTA I  LQ HFK+HK DHHSRRGLIRMV
+Sbjct  1   MSLSVEQKAQIVADFGRGEGDTGSPEVQVALLTANITGLQDHFKSHKQDHHSRRGLIRMV  60
+
+Query  61  NQRRKLLDYLNGKDHERYTALIGALGLRR  89
+           NQRRKLLDYL  KD +RY  LIG LGLRR
+Sbjct  61  NQRRKLLDYLKNKDADRYLELIGRLGLRR  89
+
+
+
+Lambda      K        H
+   0.322    0.135    0.386 
+
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+
+Effective search space used: 768225544058
+
+
+  Database: NCBI Protein Reference Sequences
+    Posted date:  May 29, 2017 12:00 AM
+  Number of letters in database: 31,412,196,622
+  Number of sequences in database:  82,027,677
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40

@@ -1,0 +1,3132 @@
+BLASTP 2.6.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: NCBI Protein Reference Sequences
+           82,027,677 sequences; 31,412,196,622 total letters
+
+
+
+Query= embl-cds:ABO10834 apolipoprotein N-acyltransferase copper
+homeostasis protein OS=Acinetobacter baumannii (strain ATCC 17978 /
+CIP 53.77 / LMG 1025 / NCDC KC755 / 5377) GN=A1S_0374 SV=1
+UP=UP000006737:Chromosome
+
+Length=79
+
+RID: JV9A16J3014
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+WP_045126416.1  apolipoprotein N-acyltransferase [Acinetobacter p...  50.1    2e-005
+WP_078220084.1  apolipoprotein N-acyltransferase [Acinetobacter p...  48.9    6e-005
+WP_086263155.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.9    6e-005
+WP_057077271.1  apolipoprotein N-acyltransferase [Acinetobacter p...  48.9    6e-005
+WP_030424380.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    6e-005
+WP_068565259.1  apolipoprotein N-acyltransferase [Acinetobacter p...  48.5    6e-005
+WP_065708573.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    6e-005
+WP_013199056.1  apolipoprotein N-acyltransferase [Acinetobacter o...  48.5    6e-005
+WP_038347359.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_001203085.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_032061220.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_032009824.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_032049917.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_031970525.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_031951905.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_001203092.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_086377412.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_086374521.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_086261886.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_001203096.1  MULTISPECIES: apolipoprotein N-acyltransferase [A...  48.5    7e-005
+WP_075400759.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_065725320.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_065184538.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_064479802.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_057065737.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_032030924.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_024436559.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_029423703.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_001203094.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_031995646.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_004842653.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_001203087.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_001203091.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_001203098.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_001203088.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_001203090.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_001203086.1  MULTISPECIES: apolipoprotein N-acyltransferase [A...  48.5    7e-005
+WP_039210072.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_033852798.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_032059234.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_021511369.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_017816644.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_004737954.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_001203089.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_002044881.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_001203093.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_074166866.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_072689178.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_031959620.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_001203100.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_001203102.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_001203095.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_077108837.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_032038500.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_045126220.1  apolipoprotein N-acyltransferase [Acinetobacter c...  48.5    7e-005
+WP_039099699.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_031953633.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_001203101.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_001203099.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_032006350.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_003654649.1  apolipoprotein N-acyltransferase [Acinetobacter c...  48.5    7e-005
+WP_017402573.1  MULTISPECIES: apolipoprotein N-acyltransferase [A...  48.5    7e-005
+WP_005045044.1  apolipoprotein N-acyltransferase [Acinetobacter c...  48.5    7e-005
+WP_004883491.1  MULTISPECIES: apolipoprotein N-acyltransferase [A...  48.5    7e-005
+WP_077162826.1  apolipoprotein N-acyltransferase [Acinetobacter g...  48.5    7e-005
+WP_072618184.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_049063865.1  apolipoprotein N-acyltransferase [Acinetobacter s...  48.5    7e-005
+WP_057054599.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_032047916.1  MULTISPECIES: apolipoprotein N-acyltransferase [A...  48.5    7e-005
+WP_031973608.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_038342770.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_002156963.1  MULTISPECIES: apolipoprotein N-acyltransferase [A...  48.5    7e-005
+WP_005129813.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_004748431.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    7e-005
+WP_004640917.1  apolipoprotein N-acyltransferase [Acinetobacter c...  48.5    7e-005
+WP_052784514.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    8e-005
+WP_063098024.1  apolipoprotein N-acyltransferase [Acinetobacter p...  48.5    8e-005
+WP_077169110.1  apolipoprotein N-acyltransferase [Acinetobacter g...  48.5    8e-005
+WP_057085533.1  apolipoprotein N-acyltransferase [Acinetobacter p...  48.5    8e-005
+WP_068935749.1  apolipoprotein N-acyltransferase [Acinetobacter s...  48.5    8e-005
+WP_005037117.1  apolipoprotein N-acyltransferase [Acinetobacter c...  48.5    8e-005
+WP_004698993.1  apolipoprotein N-acyltransferase [Acinetobacter s...  48.5    8e-005
+WP_080026225.1  apolipoprotein N-acyltransferase [Acinetobacter c...  48.5    8e-005
+WP_031973288.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.5    8e-005
+WP_017388464.1  apolipoprotein N-acyltransferase [Acinetobacter c...  48.5    8e-005
+WP_016139401.1  apolipoprotein N-acyltransferase [Acinetobacter c...  48.5    8e-005
+WP_009393011.1  apolipoprotein N-acyltransferase [Acinetobacter s...  48.5    8e-005
+WP_032035415.1  apolipoprotein N-acyltransferase [Acinetobacter s...  48.5    8e-005
+WP_022575829.1  apolipoprotein N-acyltransferase [Acinetobacter n...  48.5    8e-005
+WP_005301941.1  apolipoprotein N-acyltransferase [Acinetobacter s...  48.5    8e-005
+WP_004794940.1  apolipoprotein N-acyltransferase [Acinetobacter s...  48.5    8e-005
+WP_056483060.1  apolipoprotein N-acyltransferase [Acinetobacter s...  48.1    8e-005
+WP_045436906.1  apolipoprotein N-acyltransferase [Acinetobacter c...  48.1    8e-005
+WP_069036485.1  apolipoprotein N-acyltransferase [Acinetobacter p...  48.1    9e-005
+WP_046812033.1  apolipoprotein N-acyltransferase [Acinetobacter p...  48.1    9e-005
+WP_069141709.1  apolipoprotein N-acyltransferase [Acinetobacter p...  48.1    9e-005
+WP_068930422.1  apolipoprotein N-acyltransferase [Acinetobacter p...  48.1    9e-005
+WP_060465208.1  apolipoprotein N-acyltransferase [Acinetobacter s...  48.1    9e-005
+WP_019768049.1  MULTISPECIES: apolipoprotein N-acyltransferase [A...  48.1    9e-005
+WP_086264324.1  apolipoprotein N-acyltransferase [Acinetobacter p...  48.1    9e-005
+WP_062849602.1  apolipoprotein N-acyltransferase [Acinetobacter l...  48.1    9e-005
+WP_032062882.1  apolipoprotein N-acyltransferase [Acinetobacter s...  48.1    9e-005
+WP_014208253.1  MULTISPECIES: apolipoprotein N-acyltransferase [A...  48.1    9e-005
+WP_069120437.1  apolipoprotein N-acyltransferase [Acinetobacter p...  48.1    9e-005
+WP_069031516.1  apolipoprotein N-acyltransferase [Acinetobacter p...  48.1    9e-005
+WP_057075869.1  apolipoprotein N-acyltransferase [Acinetobacter p...  48.1    9e-005
+WP_031968644.1  apolipoprotein N-acyltransferase [Acinetobacter s...  48.1    9e-005
+WP_017385662.1  MULTISPECIES: apolipoprotein N-acyltransferase [A...  48.1    9e-005
+WP_086376316.1  apolipoprotein N-acyltransferase [Acinetobacter p...  48.1    9e-005
+WP_075383386.1  apolipoprotein N-acyltransferase [Acinetobacter p...  48.1    9e-005
+WP_065387951.1  apolipoprotein N-acyltransferase [Acinetobacter p...  48.1    9e-005
+WP_044101324.1  apolipoprotein N-acyltransferase [Acinetobacter p...  48.1    9e-005
+WP_002114914.1  MULTISPECIES: apolipoprotein N-acyltransferase [A...  48.1    9e-005
+WP_017481975.1  MULTISPECIES: apolipoprotein N-acyltransferase [A...  48.1    9e-005
+WP_017398751.1  apolipoprotein N-acyltransferase [Acinetobacter p...  48.1    9e-005
+WP_086400313.1  apolipoprotein N-acyltransferase [Acinetobacter p...  48.1    9e-005
+WP_031947233.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.1    9e-005
+WP_057070068.1  apolipoprotein N-acyltransferase [Acinetobacter p...  48.1    9e-005
+WP_057104859.1  apolipoprotein N-acyltransferase [Acinetobacter p...  48.1    9e-005
+WP_086393963.1  apolipoprotein N-acyltransferase [Acinetobacter p...  48.1    9e-005
+WP_068544625.1  apolipoprotein N-acyltransferase [Acinetobacter p...  48.1    9e-005
+WP_068612566.1  apolipoprotein N-acyltransferase [Acinetobacter p...  48.1    9e-005
+WP_032054301.1  apolipoprotein N-acyltransferase [Acinetobacter b...  48.1    9e-005
+WP_005079282.1  MULTISPECIES: apolipoprotein N-acyltransferase [A...  48.1    9e-005
+WP_081175418.1  apolipoprotein N-acyltransferase [Acinetobacter l...  48.1    9e-005
+WP_017391351.1  apolipoprotein N-acyltransferase [Acinetobacter c...  48.1    9e-005
+WP_016144200.1  apolipoprotein N-acyltransferase [Acinetobacter p...  48.1    9e-005
+WP_016142338.1  apolipoprotein N-acyltransferase [Acinetobacter p...  48.1    1e-004
+WP_033846395.1  MULTISPECIES: apolipoprotein N-acyltransferase [A...  48.1    1e-004
+WP_032009918.1  apolipoprotein N-acyltransferase [Acinetobacter s...  48.1    1e-004
+WP_005140117.1  apolipoprotein N-acyltransferase [Acinetobacter b...  47.8    1e-004
+WP_005065947.1  MULTISPECIES: apolipoprotein N-acyltransferase [A...  47.8    1e-004
+WP_019456906.1  apolipoprotein N-acyltransferase [Acinetobacter s...  47.4    2e-004
+WP_042894586.1  MULTISPECIES: apolipoprotein N-acyltransferase [A...  47.4    2e-004
+WP_001203083.1  apolipoprotein N-acyltransferase [Acinetobacter b...  47.4    2e-004
+WP_077164982.1  apolipoprotein N-acyltransferase [Acinetobacter g...  47.4    2e-004
+WP_061874197.1  apolipoprotein N-acyltransferase [Acinetobacter d...  47.0    2e-004
+WP_057061703.1  apolipoprotein N-acyltransferase [Acinetobacter p...  47.0    2e-004
+WP_039763446.1  apolipoprotein N-acyltransferase [Acinetobacter p...  47.0    3e-004
+WP_065709107.1  apolipoprotein N-acyltransferase [Acinetobacter b...  46.6    3e-004
+WP_049067977.1  apolipoprotein N-acyltransferase [Acinetobacter b...  46.6    3e-004
+WP_001203103.1  apolipoprotein N-acyltransferase [Acinetobacter b...  46.6    3e-004
+WP_065717831.1  apolipoprotein N-acyltransferase [Acinetobacter b...  46.6    4e-004
+WP_031996963.1  apolipoprotein N-acyltransferase [Acinetobacter b...  46.6    4e-004
+WP_005112343.1  apolipoprotein N-acyltransferase [Acinetobacter b...  46.6    4e-004
+WP_065718914.1  apolipoprotein N-acyltransferase [Acinetobacter b...  46.6    4e-004
+WP_039251172.1  apolipoprotein N-acyltransferase [Acinetobacter b...  46.6    4e-004
+WP_032027681.1  apolipoprotein N-acyltransferase [Acinetobacter b...  45.8    7e-004
+WP_031966339.1  apolipoprotein N-acyltransferase [Acinetobacter b...  45.8    7e-004
+WP_058967636.1  apolipoprotein N-acyltransferase [Acinetobacter b...  45.1    0.001 
+WP_004825301.1  apolipoprotein N-acyltransferase [Acinetobacter b...  45.1    0.001 
+WP_046760840.1  apolipoprotein N-acyltransferase [Acinetobacter s...  45.1    0.001 
+WP_042089065.1  apolipoprotein N-acyltransferase [Acinetobacter b...  45.1    0.001 
+WP_009587171.1  MULTISPECIES: apolipoprotein N-acyltransferase [A...  45.1    0.001 
+WP_006582256.1  MULTISPECIES: apolipoprotein N-acyltransferase [A...  44.7    0.002 
+WP_056517352.1  apolipoprotein N-acyltransferase [Acinetobacter s...  43.5    0.005 
+WP_034617830.1  apolipoprotein N-acyltransferase [Acinetobacter s...  43.1    0.005 
+WP_004816761.1  apolipoprotein N-acyltransferase [Acinetobacter g...  43.1    0.005 
+WP_004725558.1  apolipoprotein N-acyltransferase [Acinetobacter g...  43.1    0.005 
+WP_068975108.1  apolipoprotein N-acyltransferase [Acinetobacter s...  43.1    0.006 
+WP_086214299.1  apolipoprotein N-acyltransferase [Acinetobacter s...  41.6    0.019 
+WP_016659634.1  apolipoprotein N-acyltransferase [Acinetobacter i...  41.6    0.019 
+WP_075175499.1  apolipoprotein N-acyltransferase [Acinetobacter i...  41.6    0.020 
+WP_045795390.1  apolipoprotein N-acyltransferase [Acinetobacter i...  41.6    0.021 
+WP_075168309.1  apolipoprotein N-acyltransferase [Acinetobacter i...  41.6    0.022 
+WP_005181876.1  apolipoprotein N-acyltransferase [Acinetobacter s...  41.6    0.022 
+WP_075041117.1  apolipoprotein N-acyltransferase [Acinetobacter r...  41.2    0.029 
+WP_086174069.1  apolipoprotein N-acyltransferase [Acinetobacter s...  40.8    0.034 
+WP_086199469.1  apolipoprotein N-acyltransferase [Acinetobacter s...  40.8    0.035 
+WP_005278654.1  apolipoprotein N-acyltransferase [Acinetobacter s...  40.8    0.037 
+WP_005245859.1  apolipoprotein N-acyltransferase [Acinetobacter s...  40.4    0.047 
+WP_005108036.1  apolipoprotein N-acyltransferase [Acinetobacter l...  40.4    0.047 
+WP_005255385.1  MULTISPECIES: apolipoprotein N-acyltransferase [A...  40.4    0.049 
+WP_005226518.1  MULTISPECIES: apolipoprotein N-acyltransferase [A...  40.4    0.049 
+WP_062848119.1  apolipoprotein N-acyltransferase [Acinetobacter s...  40.4    0.049 
+WP_032870633.1  apolipoprotein N-acyltransferase [Acinetobacter b...  40.4    0.050 
+WP_032875354.1  apolipoprotein N-acyltransferase [Acinetobacter b...  40.4    0.050 
+WP_004774167.1  apolipoprotein N-acyltransferase [Acinetobacter s...  40.4    0.050 
+WP_005280790.1  apolipoprotein N-acyltransferase [Acinetobacter s...  40.4    0.051 
+WP_086044185.1  apolipoprotein N-acyltransferase [Acinetobacter l...  40.4    0.051 
+WP_047431366.1  apolipoprotein N-acyltransferase [Acinetobacter s...  40.4    0.051 
+WP_038344806.1  apolipoprotein N-acyltransferase [Acinetobacter s...  40.4    0.052 
+WP_026444090.1  apolipoprotein N-acyltransferase [Acinetobacter s...  40.4    0.052 
+WP_005102921.1  MULTISPECIES: apolipoprotein N-acyltransferase [A...  40.4    0.053 
+WP_005291505.1  apolipoprotein N-acyltransferase [Acinetobacter s...  40.4    0.054 
+WP_005154961.1  apolipoprotein N-acyltransferase [Acinetobacter s...  40.4    0.054 
+WP_034684933.1  apolipoprotein N-acyltransferase [Acinetobacter s...  40.4    0.056 
+WP_005023142.1  MULTISPECIES: apolipoprotein N-acyltransferase [A...  40.4    0.060 
+WP_005405713.1  apolipoprotein N-acyltransferase [Acinetobacter r...  40.4    0.060 
+WP_005016902.1  MULTISPECIES: apolipoprotein N-acyltransferase [A...  40.4    0.060 
+WP_005162805.1  apolipoprotein N-acyltransferase [Acinetobacter s...  40.0    0.065 
+WP_086177046.1  apolipoprotein N-acyltransferase [Acinetobacter s...  40.0    0.066 
+WP_044111786.1  apolipoprotein N-acyltransferase [Acinetobacter i...  40.0    0.067 
+WP_005261637.1  apolipoprotein N-acyltransferase [Acinetobacter s...  40.0    0.069 
+WP_005218534.1  apolipoprotein N-acyltransferase [Acinetobacter s...  40.0    0.069 
+WP_046739350.1  apolipoprotein N-acyltransferase [Acinetobacter s...  40.0    0.071 
+WP_004729360.1  apolipoprotein N-acyltransferase [Acinetobacter l...  40.0    0.072 
+WP_050042090.1  apolipoprotein N-acyltransferase [Acinetobacter p...  40.0    0.072 
+WP_005250507.1  apolipoprotein N-acyltransferase [Acinetobacter s...  40.0    0.072 
+WP_004659204.1  apolipoprotein N-acyltransferase [Acinetobacter s...  40.0    0.072 
+WP_085064957.1  apolipoprotein N-acyltransferase [Acinetobacter s...  40.0    0.073 
+WP_016653193.1  apolipoprotein N-acyltransferase [Acinetobacter s...  40.0    0.075 
+WP_005051112.1  apolipoprotein N-acyltransferase [Acinetobacter b...  40.0    0.080 
+WP_005061125.1  apolipoprotein N-acyltransferase [Acinetobacter b...  40.0    0.081 
+WP_067761206.1  apolipoprotein N-acyltransferase [Acinetobacter g...  39.7    0.084 
+WP_068909764.1  apolipoprotein N-acyltransferase [Acinetobacter s...  39.7    0.089 
+WP_061518529.1  apolipoprotein N-acyltransferase [Acinetobacter v...  39.7    0.11  
+WP_004876563.1  apolipoprotein N-acyltransferase [Acinetobacter v...  39.3    0.12  
+WP_061392101.1  apolipoprotein N-acyltransferase [Acinetobacter v...  39.3    0.13  
+WP_061397924.1  apolipoprotein N-acyltransferase [Acinetobacter h...  39.3    0.13  
+WP_019385789.1  apolipoprotein N-acyltransferase [Acinetobacter v...  39.3    0.13  
+WP_007480072.1  MULTISPECIES: apolipoprotein N-acyltransferase [A...  39.3    0.13  
+WP_061517281.1  apolipoprotein N-acyltransferase [Acinetobacter v...  39.3    0.13  
+WP_023013160.1  apolipoprotein N-acyltransferase [Acinetobacter s...  39.3    0.13  
+WP_075696836.1  apolipoprotein N-acyltransferase [Acinetobacter j...  39.3    0.14  
+WP_064102194.1  apolipoprotein N-acyltransferase [Acinetobacter s...  39.3    0.15  
+WP_064094930.1  apolipoprotein N-acyltransferase [Acinetobacter s...  38.9    0.16  
+WP_004920357.1  MULTISPECIES: apolipoprotein N-acyltransferase [A...  38.9    0.16  
+WP_004756242.1  MULTISPECIES: apolipoprotein N-acyltransferase [A...  38.9    0.16  
+WP_004680659.1  apolipoprotein N-acyltransferase [Acinetobacter p...  38.9    0.16  
+WP_004958685.1  apolipoprotein N-acyltransferase [Acinetobacter j...  38.9    0.16  
+WP_004674465.1  apolipoprotein N-acyltransferase [Acinetobacter p...  38.9    0.16  
+WP_004278565.1  MULTISPECIES: apolipoprotein N-acyltransferase [A...  38.9    0.17  
+WP_071850476.1  apolipoprotein N-acyltransferase [Acinetobacter s...  38.9    0.19  
+WP_067661780.1  apolipoprotein N-acyltransferase [Acinetobacter s...  38.9    0.20  
+WP_062035116.1  apolipoprotein N-acyltransferase [Acinetobacter s...  38.9    0.21  
+WP_005240005.1  MULTISPECIES: apolipoprotein N-acyltransferase [A...  38.9    0.21  
+WP_074383950.1  apolipoprotein N-acyltransferase [Acinetobacter l...  38.5    0.22  
+WP_005172948.1  apolipoprotein N-acyltransferase [Acinetobacter s...  38.5    0.22  
+WP_005095360.1  apolipoprotein N-acyltransferase [Acinetobacter l...  38.5    0.22  
+WP_086209659.1  apolipoprotein N-acyltransferase [Acinetobacter s...  38.5    0.25  
+WP_005007091.1  apolipoprotein N-acyltransferase [Acinetobacter b...  38.5    0.27  
+WP_086165125.1  apolipoprotein N-acyltransferase [Acinetobacter s...  38.1    0.33  
+WP_086195247.1  apolipoprotein N-acyltransferase [Acinetobacter s...  38.1    0.35  
+WP_004649981.1  apolipoprotein N-acyltransferase [Acinetobacter b...  38.1    0.35  
+WP_086183900.1  apolipoprotein N-acyltransferase [Acinetobacter s...  38.1    0.35  
+WP_074943782.1  apolipoprotein N-acyltransferase [Acinetobacter b...  38.1    0.35  
+WP_025095327.1  apolipoprotein N-acyltransferase [Acinetobacter s...  38.1    0.35  
+WP_055414941.1  apolipoprotein N-acyltransferase [Acinetobacter s...  38.1    0.36  
+WP_004943891.1  apolipoprotein N-acyltransferase [Acinetobacter s...  38.1    0.36  
+WP_086187279.1  apolipoprotein N-acyltransferase [Acinetobacter s...  38.1    0.36  
+WP_048763886.1  MULTISPECIES: apolipoprotein N-acyltransferase [A...  38.1    0.36  
+WP_061524196.1  apolipoprotein N-acyltransferase [Acinetobacter v...  38.1    0.38  
+WP_032046459.1  apolipoprotein N-acyltransferase [Acinetobacter b...  37.7    0.42  
+WP_057691772.1  apolipoprotein N-acyltransferase [Acinetobacter b...  37.7    0.43  
+WP_001203084.1  apolipoprotein N-acyltransferase [Acinetobacter b...  37.7    0.43  
+WP_067866187.1  apolipoprotein N-acyltransferase [Acinetobacter s...  37.7    0.44  
+WP_078388557.1  apolipoprotein N-acyltransferase [Acinetobacter s...  37.7    0.50  
+WP_004916744.1  apolipoprotein N-acyltransferase [Acinetobacter j...  37.7    0.53  
+WP_010325799.1  MULTISPECIES: apolipoprotein N-acyltransferase [A...  37.7    0.53  
+WP_067669654.1  apolipoprotein N-acyltransferase [Acinetobacter s...  37.4    0.55  
+WP_034705831.1  apolipoprotein N-acyltransferase [Acinetobacter b...  37.4    0.56  
+WP_005232470.1  MULTISPECIES: apolipoprotein N-acyltransferase [A...  37.4    0.56  
+WP_004692644.1  apolipoprotein N-acyltransferase [Acinetobacter j...  37.4    0.56  
+WP_058868824.1  apolipoprotein N-acyltransferase [Acinetobacter j...  37.4    0.57  
+WP_004978827.1  apolipoprotein N-acyltransferase [Acinetobacter j...  37.4    0.57  
+WP_049173924.1  apolipoprotein N-acyltransferase [Acinetobacter u...  37.4    0.64  
+WP_005403601.1  apolipoprotein N-acyltransferase [Acinetobacter j...  37.4    0.65  
+WP_004781741.1  apolipoprotein N-acyltransferase [Acinetobacter s...  37.4    0.65  
+WP_039047666.1  apolipoprotein N-acyltransferase [Acinetobacter j...  37.4    0.66  
+WP_004957572.1  apolipoprotein N-acyltransferase [Acinetobacter j...  37.4    0.66  
+WP_004932591.1  apolipoprotein N-acyltransferase [Acinetobacter s...  37.0    0.77  
+WP_010111818.1  apolipoprotein N-acyltransferase [Acinetobacter s...  37.0    0.80  
+WP_004762232.1  MULTISPECIES: apolipoprotein N-acyltransferase [A...  37.0    0.89  
+WP_067722251.1  apolipoprotein N-acyltransferase [Acinetobacter s...  37.0    0.94  
+WP_053578896.1  apolipoprotein N-acyltransferase [Acinetobacter s...  37.0    1.0   
+WP_016165044.1  apolipoprotein N-acyltransferase [Acinetobacter s...  36.6    1.1   
+WP_005200412.1  MULTISPECIES: apolipoprotein N-acyltransferase [A...  36.6    1.1   
+WP_004802395.1  apolipoprotein N-acyltransferase [Acinetobacter s...  36.6    1.1   
+WP_005194838.1  apolipoprotein N-acyltransferase [Acinetobacter s...  36.6    1.2   
+WP_068885579.1  apolipoprotein N-acyltransferase [Acinetobacter c...  36.6    1.2   
+WP_005192072.1  apolipoprotein N-acyltransferase [Acinetobacter s...  36.6    1.2   
+WP_065994034.1  apolipoprotein N-acyltransferase [Acinetobacter s...  36.6    1.2   
+WP_005210222.1  apolipoprotein N-acyltransferase [Acinetobacter s...  36.6    1.2   
+WP_086202375.1  apolipoprotein N-acyltransferase [Acinetobacter s...  36.6    1.2   
+WP_018677409.1  apolipoprotein N-acyltransferase [Acinetobacter t...  36.6    1.2   
+WP_004668434.1  apolipoprotein N-acyltransferase [Acinetobacter s...  36.6    1.2   
+WP_086193030.1  apolipoprotein N-acyltransferase [Acinetobacter s...  36.6    1.3   
+WP_078189782.1  apolipoprotein N-acyltransferase [Acinetobacter s...  36.6    1.4   
+WP_078192807.1  apolipoprotein N-acyltransferase [Acinetobacter s...  36.2    1.4   
+WP_065343659.1  apolipoprotein N-acyltransferase [Acinetobacter g...  36.2    1.7   
+WP_023270885.1  apolipoprotein N-acyltransferase [Acinetobacter g...  36.2    1.7   
+WP_016542368.1  apolipoprotein N-acyltransferase [Acinetobacter g...  36.2    1.7   
+WP_005001250.1  apolipoprotein N-acyltransferase [Acinetobacter u...  35.4    3.1   
+WP_004869746.1  apolipoprotein N-acyltransferase [Acinetobacter g...  35.4    3.1   
+WP_044434015.1  apolipoprotein N-acyltransferase [Acinetobacter u...  35.4    3.3   
+WP_004994167.1  MULTISPECIES: apolipoprotein N-acyltransferase [A...  35.4    3.3   
+WP_004991547.1  apolipoprotein N-acyltransferase [Acinetobacter u...  35.4    3.3   
+WP_016168361.1  apolipoprotein N-acyltransferase [Acinetobacter t...  35.0    4.0   
+XP_002023422.1  GL20201 [Drosophila persimilis]                       35.0    4.4   
+WP_060932664.1  beta-N-acetylhexosaminidase [Prevotella amnii]        35.0    4.8   
+WP_036854073.1  beta-N-acetylhexosaminidase [Prevotella amnii]        35.0    4.8   
+WP_008448794.1  beta-N-acetylhexosaminidase [Prevotella amnii]        35.0    4.8   
+WP_033133219.1  apolipoprotein N-acyltransferase [Acinetobacter s...  34.7    5.0   
+WP_019036568.1  beta-N-acetylhexosaminidase [Prevotella amnii]        34.7    5.1   
+WP_070076439.1  apolipoprotein N-acyltransferase [Acinetobacter p...  34.7    5.2   
+WP_004656131.1  apolipoprotein N-acyltransferase [Acinetobacter s...  34.7    5.2   
+WP_005315036.1  apolipoprotein N-acyltransferase [Acinetobacter s...  34.7    5.2   
+WP_035264071.1  apolipoprotein N-acyltransferase [Acinetobacter s...  34.7    5.5   
+WP_086205064.1  apolipoprotein N-acyltransferase [Acinetobacter s...  34.7    6.0   
+WP_061450120.1  beta-N-acetylhexosaminidase [Prevotella bivia]        34.7    6.3   
+WP_048739669.1  beta-N-acetylhexosaminidase [Prevotella bivia]        34.7    6.3   
+WP_036875423.1  beta-N-acetylhexosaminidase [Prevotella bivia]        34.7    6.3   
+WP_036866570.1  beta-N-acetylhexosaminidase [Prevotella bivia]        34.7    6.3   
+WP_036862008.1  beta-N-acetylhexosaminidase [Prevotella bivia]        34.7    6.3   
+WP_036886551.1  beta-N-acetylhexosaminidase [Prevotella bivia]        34.7    6.3   
+
+
+>WP_045126416.1 apolipoprotein N-acyltransferase [Acinetobacter pittii]
+Length=519
+
+ Score = 50.1 bits (118),  Expect = 2e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 31/53 (58%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   + +F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIAFFS------------GAVFSFSLAPY  41
+
+
+>WP_078220084.1 apolipoprotein N-acyltransferase [Acinetobacter pittii]
+Length=519
+
+ Score = 48.9 bits (115),  Expect = 6e-005, Method: Composition-based stats.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_086263155.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.9 bits (115),  Expect = 6e-005, Method: Composition-based stats.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_057077271.1 apolipoprotein N-acyltransferase [Acinetobacter pittii]
+Length=519
+
+ Score = 48.9 bits (115),  Expect = 6e-005, Method: Composition-based stats.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_030424380.1 apolipoprotein N-acyltransferase, partial [Acinetobacter baumannii]
+Length=308
+
+ Score = 48.5 bits (114),  Expect = 6e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_068565259.1 apolipoprotein N-acyltransferase [Acinetobacter pittii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 6e-005, Method: Composition-based stats.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_065708573.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 6e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIAVFS------------GAVFSFALAPY  41
+
+
+>WP_013199056.1 apolipoprotein N-acyltransferase [Acinetobacter oleivorans]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 6e-005, Method: Composition-based stats.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_038347359.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_001203085.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAMFSFALAPY  41
+
+
+>WP_032061220.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_032009824.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_032049917.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_031970525.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_031951905.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_001203092.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_086377412.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_086374521.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_086261886.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_001203096.1 MULTISPECIES: apolipoprotein N-acyltransferase [Acinetobacter 
+calcoaceticus/baumannii complex]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_075400759.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_065725320.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_065184538.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_064479802.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_057065737.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_032030924.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_024436559.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_029423703.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_001203094.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_031995646.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_004842653.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_001203087.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_001203091.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_001203098.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_001203088.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_001203090.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_001203086.1 MULTISPECIES: apolipoprotein N-acyltransferase [Acinetobacter 
+calcoaceticus/baumannii complex]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_039210072.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_033852798.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_032059234.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_021511369.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_017816644.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_004737954.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_001203089.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_002044881.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_001203093.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_074166866.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_072689178.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_031959620.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_001203100.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_001203102.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_001203095.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_077108837.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_032038500.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_045126220.1 apolipoprotein N-acyltransferase [Acinetobacter calcoaceticus]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_039099699.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_031953633.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_001203101.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_001203099.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_032006350.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_003654649.1 apolipoprotein N-acyltransferase [Acinetobacter calcoaceticus]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_017402573.1 MULTISPECIES: apolipoprotein N-acyltransferase [Acinetobacter]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_005045044.1 apolipoprotein N-acyltransferase [Acinetobacter calcoaceticus]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_004883491.1 MULTISPECIES: apolipoprotein N-acyltransferase [Acinetobacter 
+calcoaceticus/baumannii complex]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_077162826.1 apolipoprotein N-acyltransferase [Acinetobacter genomosp. 33YU]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_072618184.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_049063865.1 apolipoprotein N-acyltransferase [Acinetobacter seifertii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_057054599.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_032047916.1 MULTISPECIES: apolipoprotein N-acyltransferase [Acinetobacter 
+calcoaceticus/baumannii complex]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_031973608.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_038342770.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_002156963.1 MULTISPECIES: apolipoprotein N-acyltransferase [Acinetobacter 
+calcoaceticus/baumannii complex]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_005129813.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_004748431.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_004640917.1 apolipoprotein N-acyltransferase [Acinetobacter calcoaceticus]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 7e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_052784514.1 apolipoprotein N-acyltransferase, partial [Acinetobacter baumannii]
+Length=442
+
+ Score = 48.5 bits (114),  Expect = 8e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_063098024.1 apolipoprotein N-acyltransferase [Acinetobacter pittii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 8e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_077169110.1 apolipoprotein N-acyltransferase [Acinetobacter genomosp. 33YU]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 8e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_057085533.1 apolipoprotein N-acyltransferase [Acinetobacter pittii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 8e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_068935749.1 apolipoprotein N-acyltransferase [Acinetobacter seifertii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 8e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_005037117.1 apolipoprotein N-acyltransferase [Acinetobacter calcoaceticus]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 8e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_004698993.1 apolipoprotein N-acyltransferase [Acinetobacter seifertii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 8e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_080026225.1 apolipoprotein N-acyltransferase [Acinetobacter calcoaceticus]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 8e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_031973288.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 8e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_017388464.1 apolipoprotein N-acyltransferase [Acinetobacter calcoaceticus]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 8e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_016139401.1 apolipoprotein N-acyltransferase [Acinetobacter calcoaceticus]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 8e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_009393011.1 apolipoprotein N-acyltransferase [Acinetobacter sp. WC-141]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 8e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_032035415.1 apolipoprotein N-acyltransferase [Acinetobacter sp. 742879]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 8e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_022575829.1 apolipoprotein N-acyltransferase [Acinetobacter nosocomialis]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 8e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_005301941.1 apolipoprotein N-acyltransferase [Acinetobacter sp. NIPH 542]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 8e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_004794940.1 apolipoprotein N-acyltransferase [Acinetobacter sp. NIPH 817]
+Length=519
+
+ Score = 48.5 bits (114),  Expect = 8e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_056483060.1 apolipoprotein N-acyltransferase [Acinetobacter sp. Leaf130]
+Length=519
+
+ Score = 48.1 bits (113),  Expect = 8e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_045436906.1 apolipoprotein N-acyltransferase [Acinetobacter calcoaceticus]
+Length=519
+
+ Score = 48.1 bits (113),  Expect = 8e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_069036485.1 apolipoprotein N-acyltransferase [Acinetobacter pittii]
+Length=519
+
+ Score = 48.1 bits (113),  Expect = 9e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_046812033.1 apolipoprotein N-acyltransferase [Acinetobacter pittii]
+Length=519
+
+ Score = 48.1 bits (113),  Expect = 9e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_069141709.1 apolipoprotein N-acyltransferase [Acinetobacter pittii]
+Length=519
+
+ Score = 48.1 bits (113),  Expect = 9e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_068930422.1 apolipoprotein N-acyltransferase [Acinetobacter pittii]
+Length=519
+
+ Score = 48.1 bits (113),  Expect = 9e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_060465208.1 apolipoprotein N-acyltransferase [Acinetobacter sp. LMB-5]
+Length=519
+
+ Score = 48.1 bits (113),  Expect = 9e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_019768049.1 MULTISPECIES: apolipoprotein N-acyltransferase [Acinetobacter 
+calcoaceticus/baumannii complex]
+Length=519
+
+ Score = 48.1 bits (113),  Expect = 9e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_086264324.1 apolipoprotein N-acyltransferase [Acinetobacter pittii]
+Length=519
+
+ Score = 48.1 bits (113),  Expect = 9e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_062849602.1 apolipoprotein N-acyltransferase [Acinetobacter lactucae]
+Length=519
+
+ Score = 48.1 bits (113),  Expect = 9e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_032062882.1 apolipoprotein N-acyltransferase [Acinetobacter sp. 809848]
+Length=519
+
+ Score = 48.1 bits (113),  Expect = 9e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_014208253.1 MULTISPECIES: apolipoprotein N-acyltransferase [Acinetobacter 
+calcoaceticus/baumannii complex]
+ YP_004997551.1 apolipoprotein N-acyltransferase [Acinetobacter pittii PHEA-2]
+Length=519
+
+ Score = 48.1 bits (113),  Expect = 9e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_069120437.1 apolipoprotein N-acyltransferase [Acinetobacter pittii]
+Length=519
+
+ Score = 48.1 bits (113),  Expect = 9e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_069031516.1 apolipoprotein N-acyltransferase [Acinetobacter pittii]
+Length=519
+
+ Score = 48.1 bits (113),  Expect = 9e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_057075869.1 apolipoprotein N-acyltransferase [Acinetobacter pittii]
+Length=519
+
+ Score = 48.1 bits (113),  Expect = 9e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_031968644.1 apolipoprotein N-acyltransferase [Acinetobacter sp. 225588]
+Length=519
+
+ Score = 48.1 bits (113),  Expect = 9e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_017385662.1 MULTISPECIES: apolipoprotein N-acyltransferase [Acinetobacter]
+Length=519
+
+ Score = 48.1 bits (113),  Expect = 9e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_086376316.1 apolipoprotein N-acyltransferase [Acinetobacter pittii]
+Length=519
+
+ Score = 48.1 bits (113),  Expect = 9e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_075383386.1 apolipoprotein N-acyltransferase [Acinetobacter pittii]
+Length=519
+
+ Score = 48.1 bits (113),  Expect = 9e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_065387951.1 apolipoprotein N-acyltransferase [Acinetobacter pittii]
+Length=519
+
+ Score = 48.1 bits (113),  Expect = 9e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_044101324.1 apolipoprotein N-acyltransferase [Acinetobacter pittii]
+Length=519
+
+ Score = 48.1 bits (113),  Expect = 9e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_002114914.1 MULTISPECIES: apolipoprotein N-acyltransferase [Acinetobacter 
+calcoaceticus/baumannii complex]
+Length=519
+
+ Score = 48.1 bits (113),  Expect = 9e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_017481975.1 MULTISPECIES: apolipoprotein N-acyltransferase [Acinetobacter 
+calcoaceticus/baumannii complex]
+Length=519
+
+ Score = 48.1 bits (113),  Expect = 9e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_017398751.1 apolipoprotein N-acyltransferase [Acinetobacter pittii]
+Length=519
+
+ Score = 48.1 bits (113),  Expect = 9e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_086400313.1 apolipoprotein N-acyltransferase [Acinetobacter pittii]
+Length=519
+
+ Score = 48.1 bits (113),  Expect = 9e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_031947233.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.1 bits (113),  Expect = 9e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_057070068.1 apolipoprotein N-acyltransferase [Acinetobacter pittii]
+Length=519
+
+ Score = 48.1 bits (113),  Expect = 9e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_057104859.1 apolipoprotein N-acyltransferase [Acinetobacter pittii]
+Length=519
+
+ Score = 48.1 bits (113),  Expect = 9e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_086393963.1 apolipoprotein N-acyltransferase [Acinetobacter pittii]
+Length=519
+
+ Score = 48.1 bits (113),  Expect = 9e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_068544625.1 apolipoprotein N-acyltransferase [Acinetobacter pittii]
+Length=519
+
+ Score = 48.1 bits (113),  Expect = 9e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_068612566.1 apolipoprotein N-acyltransferase [Acinetobacter pittii]
+Length=519
+
+ Score = 48.1 bits (113),  Expect = 9e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_032054301.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 48.1 bits (113),  Expect = 9e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_005079282.1 MULTISPECIES: apolipoprotein N-acyltransferase [Acinetobacter 
+calcoaceticus/baumannii complex]
+Length=519
+
+ Score = 48.1 bits (113),  Expect = 9e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_081175418.1 apolipoprotein N-acyltransferase [Acinetobacter lactucae]
+Length=519
+
+ Score = 48.1 bits (113),  Expect = 9e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_017391351.1 apolipoprotein N-acyltransferase [Acinetobacter calcoaceticus]
+Length=519
+
+ Score = 48.1 bits (113),  Expect = 9e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAIFSFSLAPY  41
+
+
+>WP_016144200.1 apolipoprotein N-acyltransferase [Acinetobacter pittii]
+Length=519
+
+ Score = 48.1 bits (113),  Expect = 9e-005, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_016142338.1 apolipoprotein N-acyltransferase [Acinetobacter pittii]
+Length=519
+
+ Score = 48.1 bits (113),  Expect = 1e-004, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_033846395.1 MULTISPECIES: apolipoprotein N-acyltransferase [Acinetobacter 
+calcoaceticus/baumannii complex]
+Length=519
+
+ Score = 48.1 bits (113),  Expect = 1e-004, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GALFSFALAPY  41
+
+
+>WP_032009918.1 apolipoprotein N-acyltransferase [Acinetobacter sp. 1179249]
+Length=519
+
+ Score = 48.1 bits (113),  Expect = 1e-004, Method: Compositional matrix adjust.
+ Identities = 28/53 (53%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIFPLLIALFS------------GALFSFALAPY  41
+
+
+>WP_005140117.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 47.8 bits (112),  Expect = 1e-004, Method: Compositional matrix adjust.
+ Identities = 27/53 (51%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEK+LDSSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKMLDSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_005065947.1 MULTISPECIES: apolipoprotein N-acyltransferase [Acinetobacter 
+calcoaceticus/baumannii complex]
+Length=519
+
+ Score = 47.8 bits (112),  Expect = 1e-004, Method: Compositional matrix adjust.
+ Identities = 22/22 (100%), Positives = 22/22 (100%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MRAYFEKLLDSSQQQKQLPLIF
+Sbjct  1   MRAYFEKLLDSSQQQKQLPLIF  22
+
+
+>WP_019456906.1 apolipoprotein N-acyltransferase [Acinetobacter sp. GG2]
+Length=519
+
+ Score = 47.4 bits (111),  Expect = 2e-004, Method: Compositional matrix adjust.
+ Identities = 27/53 (51%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLD+SQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDTSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_042894586.1 MULTISPECIES: apolipoprotein N-acyltransferase [Acinetobacter]
+Length=519
+
+ Score = 47.4 bits (111),  Expect = 2e-004, Method: Compositional matrix adjust.
+ Identities = 27/53 (51%), Positives = 29/53 (55%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQLP IF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQLPFIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_001203083.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 47.4 bits (111),  Expect = 2e-004, Method: Compositional matrix adjust.
+ Identities = 27/53 (51%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQ+QKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQKQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_077164982.1 apolipoprotein N-acyltransferase [Acinetobacter genomosp. 33YU]
+Length=519
+
+ Score = 47.4 bits (111),  Expect = 2e-004, Method: Compositional matrix adjust.
+ Identities = 27/53 (51%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSS+QQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSKQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_061874197.1 apolipoprotein N-acyltransferase [Acinetobacter dijkshoorniae]
+Length=519
+
+ Score = 47.0 bits (110),  Expect = 2e-004, Method: Compositional matrix adjust.
+ Identities = 27/53 (51%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQKQ+PLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKQVPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_057061703.1 apolipoprotein N-acyltransferase [Acinetobacter pittii]
+Length=519
+
+ Score = 47.0 bits (110),  Expect = 2e-004, Method: Compositional matrix adjust.
+ Identities = 27/53 (51%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQQQK+LPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQQQKRLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_039763446.1 apolipoprotein N-acyltransferase [Acinetobacter pittii]
+Length=519
+
+ Score = 47.0 bits (110),  Expect = 3e-004, Method: Compositional matrix adjust.
+ Identities = 27/53 (51%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDSSQ+QKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSSQKQKQLPLIFPLLIALFS------------GAVFSFSLAPY  41
+
+
+>WP_065709107.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 46.6 bits (109),  Expect = 3e-004, Method: Compositional matrix adjust.
+ Identities = 27/53 (51%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLL+SSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLNSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_049067977.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 46.6 bits (109),  Expect = 3e-004, Method: Compositional matrix adjust.
+ Identities = 27/53 (51%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLL+SSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLNSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_001203103.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 46.6 bits (109),  Expect = 3e-004, Method: Compositional matrix adjust.
+ Identities = 27/53 (51%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLL+SSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLNSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_065717831.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 46.6 bits (109),  Expect = 4e-004, Method: Compositional matrix adjust.
+ Identities = 27/53 (51%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLL+SSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLNSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_031996963.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 46.6 bits (109),  Expect = 4e-004, Method: Compositional matrix adjust.
+ Identities = 27/53 (51%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLL+SSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLNSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_005112343.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 46.6 bits (109),  Expect = 4e-004, Method: Compositional matrix adjust.
+ Identities = 27/53 (51%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLL+SSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLNSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_065718914.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 46.6 bits (109),  Expect = 4e-004, Method: Compositional matrix adjust.
+ Identities = 27/53 (51%), Positives = 30/53 (57%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLL+SSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLNSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_039251172.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 46.6 bits (109),  Expect = 4e-004, Method: Compositional matrix adjust.
+ Identities = 27/53 (51%), Positives = 29/53 (55%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLD SQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDPSQQQKQLPLIFPLLIALFS------------GAMFSFALAPY  41
+
+
+>WP_032027681.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 45.8 bits (107),  Expect = 7e-004, Method: Compositional matrix adjust.
+ Identities = 27/53 (51%), Positives = 29/53 (55%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDS QQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSLQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_031966339.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 45.8 bits (107),  Expect = 7e-004, Method: Compositional matrix adjust.
+ Identities = 27/53 (51%), Positives = 29/53 (55%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLLDS QQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLDSLQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_058967636.1 apolipoprotein N-acyltransferase [Acinetobacter bereziniae]
+Length=519
+
+ Score = 45.1 bits (105),  Expect = 0.001, Method: Composition-based stats.
+ Identities = 20/22 (91%), Positives = 22/22 (100%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MRAYF+KLL+SSQQQKQLPLIF
+Sbjct  1   MRAYFDKLLNSSQQQKQLPLIF  22
+
+
+>WP_004825301.1 apolipoprotein N-acyltransferase [Acinetobacter bereziniae]
+Length=519
+
+ Score = 45.1 bits (105),  Expect = 0.001, Method: Composition-based stats.
+ Identities = 20/22 (91%), Positives = 22/22 (100%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MRAYF+KLL+SSQQQKQLPLIF
+Sbjct  1   MRAYFDKLLNSSQQQKQLPLIF  22
+
+
+>WP_046760840.1 apolipoprotein N-acyltransferase [Acinetobacter sp. Ag2]
+Length=519
+
+ Score = 45.1 bits (105),  Expect = 0.001, Method: Composition-based stats.
+ Identities = 20/22 (91%), Positives = 22/22 (100%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MRAYF+KLL+SSQQQKQLPLIF
+Sbjct  1   MRAYFDKLLNSSQQQKQLPLIF  22
+
+
+>WP_042089065.1 apolipoprotein N-acyltransferase [Acinetobacter bereziniae]
+Length=519
+
+ Score = 45.1 bits (105),  Expect = 0.001, Method: Composition-based stats.
+ Identities = 20/22 (91%), Positives = 22/22 (100%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MRAYF+KLL+SSQQQKQLPLIF
+Sbjct  1   MRAYFDKLLNSSQQQKQLPLIF  22
+
+
+>WP_009587171.1 MULTISPECIES: apolipoprotein N-acyltransferase [Acinetobacter]
+Length=519
+
+ Score = 45.1 bits (105),  Expect = 0.001, Method: Composition-based stats.
+ Identities = 20/22 (91%), Positives = 22/22 (100%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MRAYF+KLL+SSQQQKQLPLIF
+Sbjct  1   MRAYFDKLLNSSQQQKQLPLIF  22
+
+
+>WP_006582256.1 MULTISPECIES: apolipoprotein N-acyltransferase [Acinetobacter 
+calcoaceticus/baumannii complex]
+Length=519
+
+ Score = 44.7 bits (104),  Expect = 0.002, Method: Compositional matrix adjust.
+ Identities = 27/53 (51%), Positives = 29/53 (55%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYFEKLL SSQQQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRAYFEKLLVSSQQQKQLPLIFPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_056517352.1 apolipoprotein N-acyltransferase [Acinetobacter sp. Root1280]
+Length=519
+
+ Score = 43.5 bits (101),  Expect = 0.005, Method: Composition-based stats.
+ Identities = 19/22 (86%), Positives = 21/22 (95%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MRAYF+KLL+SSQQQKQLP IF
+Sbjct  1   MRAYFDKLLNSSQQQKQLPFIF  22
+
+
+>WP_034617830.1 apolipoprotein N-acyltransferase [Acinetobacter sp. ETR1]
+Length=519
+
+ Score = 43.1 bits (100),  Expect = 0.005, Method: Compositional matrix adjust.
+ Identities = 19/22 (86%), Positives = 21/22 (95%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MRAYF+KLL+SSQQQKQLP IF
+Sbjct  1   MRAYFDKLLNSSQQQKQLPFIF  22
+
+
+>WP_004816761.1 apolipoprotein N-acyltransferase [Acinetobacter guillouiae]
+Length=519
+
+ Score = 43.1 bits (100),  Expect = 0.005, Method: Compositional matrix adjust.
+ Identities = 19/22 (86%), Positives = 21/22 (95%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MRAYF+KLL+SSQQQKQLP IF
+Sbjct  1   MRAYFDKLLNSSQQQKQLPFIF  22
+
+
+>WP_004725558.1 apolipoprotein N-acyltransferase [Acinetobacter guillouiae]
+Length=519
+
+ Score = 43.1 bits (100),  Expect = 0.005, Method: Compositional matrix adjust.
+ Identities = 19/22 (86%), Positives = 21/22 (95%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MRAYF+KLL+SSQQQKQLP IF
+Sbjct  1   MRAYFDKLLNSSQQQKQLPFIF  22
+
+
+>WP_068975108.1 apolipoprotein N-acyltransferase [Acinetobacter sp. WCHA60]
+Length=519
+
+ Score = 43.1 bits (100),  Expect = 0.006, Method: Compositional matrix adjust.
+ Identities = 19/22 (86%), Positives = 21/22 (95%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MRAYF+KLL+SSQQQKQLP IF
+Sbjct  1   MRAYFDKLLNSSQQQKQLPFIF  22
+
+
+>WP_086214299.1 apolipoprotein N-acyltransferase [Acinetobacter sp. ANC 3813]
+Length=519
+
+ Score = 41.6 bits (96),  Expect = 0.019, Method: Composition-based stats.
+ Identities = 23/53 (43%), Positives = 29/53 (55%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MR YF+KLL+S++QQKQLPLIF   +  F             G  + F L PY
+Sbjct  1   MRTYFDKLLNSAEQQKQLPLIFPLLIALFS------------GAIFSFALAPY  41
+
+
+>WP_016659634.1 apolipoprotein N-acyltransferase [Acinetobacter indicus]
+Length=519
+
+ Score = 41.6 bits (96),  Expect = 0.019, Method: Composition-based stats.
+ Identities = 25/53 (47%), Positives = 28/53 (53%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MR YF KLLDSSQQ KQLPL++             L   LI G  + F L PY
+Sbjct  1   MRTYFTKLLDSSQQHKQLPLVYP------------LLIALIAGAIFSFALAPY  41
+
+
+>WP_075175499.1 apolipoprotein N-acyltransferase [Acinetobacter indicus]
+Length=519
+
+ Score = 41.6 bits (96),  Expect = 0.020, Method: Compositional matrix adjust.
+ Identities = 24/53 (45%), Positives = 28/53 (53%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MR YF KLLDSSQQ KQLPL++   +             LI G  + F L PY
+Sbjct  1   MRTYFTKLLDSSQQHKQLPLVYPLLI------------ALIAGAIFSFALAPY  41
+
+
+>WP_045795390.1 apolipoprotein N-acyltransferase [Acinetobacter indicus]
+Length=519
+
+ Score = 41.6 bits (96),  Expect = 0.021, Method: Compositional matrix adjust.
+ Identities = 24/53 (45%), Positives = 28/53 (53%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MR YF KLLDSSQQ KQLPL++   +             LI G  + F L PY
+Sbjct  1   MRTYFTKLLDSSQQHKQLPLVYPLLI------------ALIAGAIFSFALAPY  41
+
+
+>WP_075168309.1 apolipoprotein N-acyltransferase [Acinetobacter indicus]
+Length=519
+
+ Score = 41.6 bits (96),  Expect = 0.022, Method: Compositional matrix adjust.
+ Identities = 24/53 (45%), Positives = 28/53 (53%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MR YF KLLDSSQQ KQLPL++   +             LI G  + F L PY
+Sbjct  1   MRTYFTKLLDSSQQHKQLPLVYPLLI------------ALIAGAIFSFALAPY  41
+
+
+>WP_005181876.1 apolipoprotein N-acyltransferase [Acinetobacter sp. CIP 53.82]
+Length=519
+
+ Score = 41.6 bits (96),  Expect = 0.022, Method: Compositional matrix adjust.
+ Identities = 24/53 (45%), Positives = 28/53 (53%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MR YF KLLDSSQQ KQLPL++   +             LI G  + F L PY
+Sbjct  1   MRTYFTKLLDSSQQHKQLPLVYPLLI------------ALIAGAIFSFALAPY  41
+
+
+>WP_075041117.1 apolipoprotein N-acyltransferase [Acinetobacter radioresistens]
+Length=519
+
+ Score = 41.2 bits (95),  Expect = 0.029, Method: Compositional matrix adjust.
+ Identities = 23/53 (43%), Positives = 29/53 (55%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYF+KLL +S+Q+KQLPLIF   +             L  G  + F L PY
+Sbjct  1   MRAYFDKLLSTSEQKKQLPLIFPLLI------------SLFAGAIFSFALAPY  41
+
+
+>WP_086174069.1 apolipoprotein N-acyltransferase [Acinetobacter sp. ANC 3903]
+Length=519
+
+ Score = 40.8 bits (94),  Expect = 0.034, Method: Composition-based stats.
+ Identities = 23/53 (43%), Positives = 28/53 (53%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MR YF+KLL+SSQQQKQLP I+   +  F             G  + F L PY
+Sbjct  1   MRTYFDKLLNSSQQQKQLPFIYPFLISLFS------------GAMFSFALAPY  41
+
+
+>WP_086199469.1 apolipoprotein N-acyltransferase [Acinetobacter sp. ANC 4169]
+Length=519
+
+ Score = 40.8 bits (94),  Expect = 0.035, Method: Composition-based stats.
+ Identities = 23/53 (43%), Positives = 28/53 (53%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MR YF+KLL+SSQQQKQLP I+   +  F             G  + F L PY
+Sbjct  1   MRTYFDKLLNSSQQQKQLPFIYPFLISLFS------------GAMFSFALAPY  41
+
+
+>WP_005278654.1 apolipoprotein N-acyltransferase [Acinetobacter sp. NIPH 1859]
+Length=519
+
+ Score = 40.8 bits (94),  Expect = 0.037, Method: Composition-based stats.
+ Identities = 18/22 (82%), Positives = 19/22 (86%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MR YFEKLL+SSQ QKQLP IF
+Sbjct  1   MRTYFEKLLNSSQTQKQLPFIF  22
+
+
+>WP_005245859.1 apolipoprotein N-acyltransferase [Acinetobacter sp. CIP 51.11]
+Length=519
+
+ Score = 40.4 bits (93),  Expect = 0.047, Method: Composition-based stats.
+ Identities = 18/22 (82%), Positives = 20/22 (91%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MRAYF+KLL SSQQQK LPLI+
+Sbjct  1   MRAYFDKLLSSSQQQKTLPLIY  22
+
+
+>WP_005108036.1 apolipoprotein N-acyltransferase [Acinetobacter lwoffii]
+Length=519
+
+ Score = 40.4 bits (93),  Expect = 0.047, Method: Composition-based stats.
+ Identities = 18/22 (82%), Positives = 20/22 (91%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MRAYF+KLL SSQQQK LPLI+
+Sbjct  1   MRAYFDKLLSSSQQQKTLPLIY  22
+
+
+>WP_005255385.1 MULTISPECIES: apolipoprotein N-acyltransferase [Acinetobacter]
+Length=519
+
+ Score = 40.4 bits (93),  Expect = 0.049, Method: Composition-based stats.
+ Identities = 18/22 (82%), Positives = 19/22 (86%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MR YFEKLL+SSQ QKQLP IF
+Sbjct  1   MRTYFEKLLNSSQPQKQLPFIF  22
+
+
+>WP_005226518.1 MULTISPECIES: apolipoprotein N-acyltransferase [Acinetobacter]
+Length=519
+
+ Score = 40.4 bits (93),  Expect = 0.049, Method: Composition-based stats.
+ Identities = 18/22 (82%), Positives = 19/22 (86%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MR YFEKLL+SSQ QKQLP IF
+Sbjct  1   MRTYFEKLLNSSQPQKQLPFIF  22
+
+
+>WP_062848119.1 apolipoprotein N-acyltransferase [Acinetobacter sp. NRRL B-65365]
+Length=519
+
+ Score = 40.4 bits (93),  Expect = 0.049, Method: Composition-based stats.
+ Identities = 18/22 (82%), Positives = 19/22 (86%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MR YFEKLL+SSQ QKQLP IF
+Sbjct  1   MRTYFEKLLNSSQPQKQLPFIF  22
+
+
+>WP_032870633.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 40.4 bits (93),  Expect = 0.050, Method: Composition-based stats.
+ Identities = 18/22 (82%), Positives = 19/22 (86%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MR YFEKLL+SSQ QKQLP IF
+Sbjct  1   MRTYFEKLLNSSQPQKQLPFIF  22
+
+
+>WP_032875354.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 40.4 bits (93),  Expect = 0.050, Method: Composition-based stats.
+ Identities = 18/22 (82%), Positives = 19/22 (86%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MR YFEKLL+SSQ QKQLP IF
+Sbjct  1   MRTYFEKLLNSSQPQKQLPFIF  22
+
+
+>WP_004774167.1 apolipoprotein N-acyltransferase [Acinetobacter sp. NIPH 758]
+Length=519
+
+ Score = 40.4 bits (93),  Expect = 0.050, Method: Composition-based stats.
+ Identities = 18/22 (82%), Positives = 19/22 (86%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MR YFEKLL+SSQ QKQLP IF
+Sbjct  1   MRTYFEKLLNSSQPQKQLPFIF  22
+
+
+>WP_005280790.1 apolipoprotein N-acyltransferase [Acinetobacter sp. NIPH 3623]
+Length=519
+
+ Score = 40.4 bits (93),  Expect = 0.051, Method: Composition-based stats.
+ Identities = 18/22 (82%), Positives = 19/22 (86%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MR YFEKLL+SSQ QKQLP IF
+Sbjct  1   MRTYFEKLLNSSQPQKQLPFIF  22
+
+
+>WP_086044185.1 apolipoprotein N-acyltransferase [Acinetobacter lwoffii]
+Length=519
+
+ Score = 40.4 bits (93),  Expect = 0.051, Method: Compositional matrix adjust.
+ Identities = 19/29 (66%), Positives = 22/29 (76%), Gaps = 0/29 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYF  29
+           MRAYF+KLL SSQQQK LPLI+   +  F
+Sbjct  1   MRAYFDKLLSSSQQQKTLPLIYPVLIALF  29
+
+
+>WP_047431366.1 apolipoprotein N-acyltransferase [Acinetobacter sp. neg1]
+Length=519
+
+ Score = 40.4 bits (93),  Expect = 0.051, Method: Composition-based stats.
+ Identities = 18/22 (82%), Positives = 19/22 (86%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MR YFEKLL+SSQ QKQLP IF
+Sbjct  1   MRTYFEKLLNSSQPQKQLPFIF  22
+
+
+>WP_038344806.1 apolipoprotein N-acyltransferase [Acinetobacter sp. A47]
+Length=519
+
+ Score = 40.4 bits (93),  Expect = 0.052, Method: Composition-based stats.
+ Identities = 18/22 (82%), Positives = 19/22 (86%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MR YFEKLL+SSQ QKQLP IF
+Sbjct  1   MRTYFEKLLNSSQPQKQLPFIF  22
+
+
+>WP_026444090.1 apolipoprotein N-acyltransferase [Acinetobacter sp. UNC436CL71CviS28]
+Length=519
+
+ Score = 40.4 bits (93),  Expect = 0.052, Method: Composition-based stats.
+ Identities = 24/53 (45%), Positives = 29/53 (55%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYF+KLL +S+Q+KQLPLIF             L   L  G  + F L PY
+Sbjct  1   MRAYFDKLLSTSEQKKQLPLIFP------------LLISLFAGAIFSFALAPY  41
+
+
+>WP_005102921.1 MULTISPECIES: apolipoprotein N-acyltransferase [Acinetobacter]
+Length=519
+
+ Score = 40.4 bits (93),  Expect = 0.053, Method: Compositional matrix adjust.
+ Identities = 19/29 (66%), Positives = 22/29 (76%), Gaps = 0/29 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYF  29
+           MRAYF+KLL SSQQQK LPLI+   +  F
+Sbjct  1   MRAYFDKLLSSSQQQKTLPLIYPVLIALF  29
+
+
+>WP_005291505.1 apolipoprotein N-acyltransferase [Acinetobacter sp. NIPH 2100]
+Length=519
+
+ Score = 40.4 bits (93),  Expect = 0.054, Method: Composition-based stats.
+ Identities = 18/22 (82%), Positives = 19/22 (86%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MR YFEKLL+SSQ QKQLP IF
+Sbjct  1   MRTYFEKLLNSSQPQKQLPFIF  22
+
+
+>WP_005154961.1 apolipoprotein N-acyltransferase [Acinetobacter sp. ANC 3929]
+Length=519
+
+ Score = 40.4 bits (93),  Expect = 0.054, Method: Composition-based stats.
+ Identities = 18/22 (82%), Positives = 19/22 (86%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MR YFEKLL+SSQ QKQLP IF
+Sbjct  1   MRTYFEKLLNSSQPQKQLPFIF  22
+
+
+>WP_034684933.1 apolipoprotein N-acyltransferase [Acinetobacter sp. 1294596]
+Length=519
+
+ Score = 40.4 bits (93),  Expect = 0.056, Method: Composition-based stats.
+ Identities = 24/53 (45%), Positives = 29/53 (55%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYF+KLL +S+Q+KQLPLIF             L   L  G  + F L PY
+Sbjct  1   MRAYFDKLLSTSEQKKQLPLIFP------------LLISLFAGAIFSFALAPY  41
+
+
+>WP_005023142.1 MULTISPECIES: apolipoprotein N-acyltransferase [Acinetobacter]
+Length=519
+
+ Score = 40.4 bits (93),  Expect = 0.060, Method: Composition-based stats.
+ Identities = 24/53 (45%), Positives = 29/53 (55%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYF+KLL +S+Q+KQLPLIF             L   L  G  + F L PY
+Sbjct  1   MRAYFDKLLSTSEQKKQLPLIFP------------LLISLFAGAIFSFALAPY  41
+
+
+>WP_005405713.1 apolipoprotein N-acyltransferase [Acinetobacter radioresistens]
+Length=519
+
+ Score = 40.4 bits (93),  Expect = 0.060, Method: Composition-based stats.
+ Identities = 24/53 (45%), Positives = 29/53 (55%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYF+KLL +S+Q+KQLPLIF             L   L  G  + F L PY
+Sbjct  1   MRAYFDKLLSTSEQKKQLPLIFP------------LLISLFAGAIFSFALAPY  41
+
+
+>WP_005016902.1 MULTISPECIES: apolipoprotein N-acyltransferase [Acinetobacter]
+Length=519
+
+ Score = 40.4 bits (93),  Expect = 0.060, Method: Composition-based stats.
+ Identities = 24/53 (45%), Positives = 29/53 (55%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYF+KLL +S+Q+KQLPLIF             L   L  G  + F L PY
+Sbjct  1   MRAYFDKLLSTSEQKKQLPLIFP------------LLISLFAGAIFSFALAPY  41
+
+
+>WP_005162805.1 apolipoprotein N-acyltransferase [Acinetobacter sp. NIPH 284]
+Length=519
+
+ Score = 40.0 bits (92),  Expect = 0.065, Method: Composition-based stats.
+ Identities = 18/22 (82%), Positives = 19/22 (86%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MRAYFEKLL +SQ QKQLP IF
+Sbjct  1   MRAYFEKLLKTSQPQKQLPFIF  22
+
+
+>WP_086177046.1 apolipoprotein N-acyltransferase [Acinetobacter sp. ANC 5054]
+Length=519
+
+ Score = 40.0 bits (92),  Expect = 0.066, Method: Compositional matrix adjust.
+ Identities = 17/22 (77%), Positives = 20/22 (91%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MR YF+KLL+SSQQQKQLP I+
+Sbjct  1   MRTYFDKLLNSSQQQKQLPFIY  22
+
+
+>WP_044111786.1 apolipoprotein N-acyltransferase [Acinetobacter idrijaensis]
+Length=519
+
+ Score = 40.0 bits (92),  Expect = 0.067, Method: Compositional matrix adjust.
+ Identities = 19/29 (66%), Positives = 22/29 (76%), Gaps = 0/29 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYF  29
+           MRAYF+KLL SSQQQK LPLI+   +  F
+Sbjct  1   MRAYFDKLLSSSQQQKPLPLIYPVLIALF  29
+
+
+>WP_005261637.1 apolipoprotein N-acyltransferase [Acinetobacter sp. CIP 101966]
+Length=519
+
+ Score = 40.0 bits (92),  Expect = 0.069, Method: Compositional matrix adjust.
+ Identities = 19/29 (66%), Positives = 22/29 (76%), Gaps = 0/29 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYF  29
+           MRAYF+KLL SSQQQK LPLI+   +  F
+Sbjct  1   MRAYFDKLLSSSQQQKPLPLIYPVLIALF  29
+
+
+>WP_005218534.1 apolipoprotein N-acyltransferase [Acinetobacter sp. ANC 3862]
+Length=519
+
+ Score = 40.0 bits (92),  Expect = 0.069, Method: Composition-based stats.
+ Identities = 18/22 (82%), Positives = 19/22 (86%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MRAYFEKLL +SQ QKQLP IF
+Sbjct  1   MRAYFEKLLKTSQPQKQLPFIF  22
+
+
+>WP_046739350.1 apolipoprotein N-acyltransferase [Acinetobacter sp. AG1]
+Length=519
+
+ Score = 40.0 bits (92),  Expect = 0.071, Method: Composition-based stats.
+ Identities = 18/22 (82%), Positives = 19/22 (86%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MRAYFEKLL +SQ QKQLP IF
+Sbjct  1   MRAYFEKLLKTSQPQKQLPFIF  22
+
+
+>WP_004729360.1 apolipoprotein N-acyltransferase [Acinetobacter lwoffii]
+Length=519
+
+ Score = 40.0 bits (92),  Expect = 0.072, Method: Compositional matrix adjust.
+ Identities = 19/29 (66%), Positives = 22/29 (76%), Gaps = 0/29 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYF  29
+           MRAYF+KLL SSQQQK LPLI+   +  F
+Sbjct  1   MRAYFDKLLSSSQQQKPLPLIYPVLIALF  29
+
+
+>WP_050042090.1 apolipoprotein N-acyltransferase [Acinetobacter parvus]
+Length=519
+
+ Score = 40.0 bits (92),  Expect = 0.072, Method: Composition-based stats.
+ Identities = 18/22 (82%), Positives = 19/22 (86%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MRAYFEKLL +SQ QKQLP IF
+Sbjct  1   MRAYFEKLLKTSQPQKQLPFIF  22
+
+
+>WP_005250507.1 apolipoprotein N-acyltransferase [Acinetobacter sp. CIP 102136]
+Length=519
+
+ Score = 40.0 bits (92),  Expect = 0.072, Method: Compositional matrix adjust.
+ Identities = 19/29 (66%), Positives = 22/29 (76%), Gaps = 0/29 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYF  29
+           MRAYF+KLL SSQQQK LPLI+   +  F
+Sbjct  1   MRAYFDKLLSSSQQQKPLPLIYPVLIALF  29
+
+
+>WP_004659204.1 apolipoprotein N-acyltransferase [Acinetobacter sp. NIPH 236]
+Length=519
+
+ Score = 40.0 bits (92),  Expect = 0.072, Method: Composition-based stats.
+ Identities = 18/22 (82%), Positives = 19/22 (86%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MRAYFEKLL +SQ QKQLP IF
+Sbjct  1   MRAYFEKLLKTSQPQKQLPFIF  22
+
+
+>WP_085064957.1 apolipoprotein N-acyltransferase [Acinetobacter sp. 51m]
+Length=519
+
+ Score = 40.0 bits (92),  Expect = 0.073, Method: Compositional matrix adjust.
+ Identities = 19/29 (66%), Positives = 22/29 (76%), Gaps = 0/29 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYF  29
+           MRAYF+KLL SSQQQK LPLI+   +  F
+Sbjct  1   MRAYFDKLLSSSQQQKPLPLIYPVLIALF  29
+
+
+>WP_016653193.1 apolipoprotein N-acyltransferase [Acinetobacter sp. NIPH 2036]
+Length=519
+
+ Score = 40.0 bits (92),  Expect = 0.075, Method: Composition-based stats.
+ Identities = 18/22 (82%), Positives = 19/22 (86%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MR YFEKLL+SSQ QKQLP IF
+Sbjct  1   MRTYFEKLLNSSQIQKQLPFIF  22
+
+
+>WP_005051112.1 apolipoprotein N-acyltransferase [Acinetobacter beijerinckii]
+Length=519
+
+ Score = 40.0 bits (92),  Expect = 0.080, Method: Composition-based stats.
+ Identities = 17/22 (77%), Positives = 19/22 (86%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MR YFEKLL++SQ QKQLP IF
+Sbjct  1   MRTYFEKLLNTSQSQKQLPFIF  22
+
+
+>WP_005061125.1 apolipoprotein N-acyltransferase [Acinetobacter beijerinckii]
+Length=519
+
+ Score = 40.0 bits (92),  Expect = 0.081, Method: Composition-based stats.
+ Identities = 17/22 (77%), Positives = 19/22 (86%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MR YFEKLL++SQ QKQLP IF
+Sbjct  1   MRTYFEKLLNTSQSQKQLPFIF  22
+
+
+>WP_067761206.1 apolipoprotein N-acyltransferase [Acinetobacter gandensis]
+Length=519
+
+ Score = 39.7 bits (91),  Expect = 0.084, Method: Composition-based stats.
+ Identities = 28/82 (34%), Positives = 40/82 (49%), Gaps = 10/82 (12%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQ---VPCSVLHWHLIIGGGWQFCLQPYSMRH  57
+           MR YF+KLL+SSQQ+KQLP+I+   +  F       S+  +H      W   L P  +  
+Sbjct  1   MRTYFDKLLNSSQQKKQLPIIYPLLISLFSGAIFSLSLAPYHY----WWLAILSPALLYA  56
+
+Query  58  CITAQPNKHLQLAGVMVLVYGL  79
+           C++ +  K     G   L YG 
+Sbjct  57  CLSKRTAKQSFFIG---LAYGF  75
+
+
+>WP_068909764.1 apolipoprotein N-acyltransferase [Acinetobacter sp. WCHA34]
+Length=519
+
+ Score = 39.7 bits (91),  Expect = 0.089, Method: Composition-based stats.
+ Identities = 24/53 (45%), Positives = 28/53 (53%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MR YF KLL SS+QQKQLPLI+             L   L+ G  + F L PY
+Sbjct  1   MRTYFNKLLTSSEQQKQLPLIYP------------LLISLLSGAVFSFALAPY  41
+
+
+>WP_061518529.1 apolipoprotein N-acyltransferase [Acinetobacter venetianus]
+Length=519
+
+ Score = 39.7 bits (91),  Expect = 0.11, Method: Composition-based stats.
+ Identities = 17/22 (77%), Positives = 19/22 (86%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MR+YFEKLL+ SQ QKQLP IF
+Sbjct  1   MRSYFEKLLNPSQSQKQLPFIF  22
+
+
+>WP_004876563.1 apolipoprotein N-acyltransferase [Acinetobacter venetianus]
+Length=519
+
+ Score = 39.3 bits (90),  Expect = 0.12, Method: Compositional matrix adjust.
+ Identities = 17/22 (77%), Positives = 19/22 (86%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MR+YFEKLL+ SQ QKQLP IF
+Sbjct  1   MRSYFEKLLNPSQSQKQLPFIF  22
+
+
+>WP_061392101.1 apolipoprotein N-acyltransferase [Acinetobacter venetianus]
+Length=519
+
+ Score = 39.3 bits (90),  Expect = 0.13, Method: Composition-based stats.
+ Identities = 17/22 (77%), Positives = 19/22 (86%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MR+YFEKLL+ SQ QKQLP IF
+Sbjct  1   MRSYFEKLLNPSQSQKQLPFIF  22
+
+
+>WP_061397924.1 apolipoprotein N-acyltransferase [Acinetobacter haemolyticus]
+Length=519
+
+ Score = 39.3 bits (90),  Expect = 0.13, Method: Composition-based stats.
+ Identities = 17/22 (77%), Positives = 19/22 (86%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MR+YFEKLL+ SQ QKQLP IF
+Sbjct  1   MRSYFEKLLNPSQSQKQLPFIF  22
+
+
+>WP_019385789.1 apolipoprotein N-acyltransferase [Acinetobacter venetianus]
+Length=519
+
+ Score = 39.3 bits (90),  Expect = 0.13, Method: Composition-based stats.
+ Identities = 17/22 (77%), Positives = 19/22 (86%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MR+YFEKLL+ SQ QKQLP IF
+Sbjct  1   MRSYFEKLLNPSQSQKQLPFIF  22
+
+
+>WP_007480072.1 MULTISPECIES: apolipoprotein N-acyltransferase [Acinetobacter]
+Length=519
+
+ Score = 39.3 bits (90),  Expect = 0.13, Method: Composition-based stats.
+ Identities = 17/22 (77%), Positives = 19/22 (86%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MR+YFEKLL+ SQ QKQLP IF
+Sbjct  1   MRSYFEKLLNPSQSQKQLPFIF  22
+
+
+>WP_061517281.1 apolipoprotein N-acyltransferase [Acinetobacter venetianus]
+Length=519
+
+ Score = 39.3 bits (90),  Expect = 0.13, Method: Composition-based stats.
+ Identities = 17/22 (77%), Positives = 19/22 (86%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MR+YFEKLL+ SQ QKQLP IF
+Sbjct  1   MRSYFEKLLNPSQSQKQLPFIF  22
+
+
+>WP_023013160.1 apolipoprotein N-acyltransferase [Acinetobacter sp. COS3]
+Length=519
+
+ Score = 39.3 bits (90),  Expect = 0.13, Method: Composition-based stats.
+ Identities = 17/22 (77%), Positives = 19/22 (86%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MR+YFEKLL+ SQ QKQLP IF
+Sbjct  1   MRSYFEKLLNPSQSQKQLPFIF  22
+
+
+>WP_075696836.1 apolipoprotein N-acyltransferase [Acinetobacter junii]
+Length=519
+
+ Score = 39.3 bits (90),  Expect = 0.14, Method: Composition-based stats.
+ Identities = 24/53 (45%), Positives = 27/53 (51%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MR+YFEKL + SQ QKQLP IF             L   LI G  + F L PY
+Sbjct  1   MRSYFEKLFNPSQTQKQLPFIFP------------LLIALISGAIFSFALAPY  41
+
+
+>WP_064102194.1 apolipoprotein N-acyltransferase [Acinetobacter sp. SFA]
+Length=519
+
+ Score = 39.3 bits (90),  Expect = 0.15, Method: Compositional matrix adjust.
+ Identities = 18/29 (62%), Positives = 22/29 (76%), Gaps = 0/29 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYF  29
+           MRAYF+KLL SSQ+QK LPLI+   +  F
+Sbjct  1   MRAYFDKLLSSSQRQKTLPLIYPVLIALF  29
+
+
+>WP_064094930.1 apolipoprotein N-acyltransferase [Acinetobacter sp. SFD]
+Length=519
+
+ Score = 38.9 bits (89),  Expect = 0.16, Method: Compositional matrix adjust.
+ Identities = 18/29 (62%), Positives = 22/29 (76%), Gaps = 0/29 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYF  29
+           MRAYF+KLL SSQ+QK LPLI+   +  F
+Sbjct  1   MRAYFDKLLSSSQRQKTLPLIYPVLIALF  29
+
+
+>WP_004920357.1 MULTISPECIES: apolipoprotein N-acyltransferase [Acinetobacter]
+Length=519
+
+ Score = 38.9 bits (89),  Expect = 0.16, Method: Compositional matrix adjust.
+ Identities = 17/22 (77%), Positives = 20/22 (91%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MRAYFE+LL +S+QQKQLP IF
+Sbjct  1   MRAYFEQLLGNSRQQKQLPFIF  22
+
+
+>WP_004756242.1 MULTISPECIES: apolipoprotein N-acyltransferase [Acinetobacter]
+Length=519
+
+ Score = 38.9 bits (89),  Expect = 0.16, Method: Composition-based stats.
+ Identities = 25/54 (46%), Positives = 30/54 (56%), Gaps = 12/54 (22%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPYS  54
+           MR+YFEKLL+SSQ QKQLP I         VP  +    LI G  +   L PY+
+Sbjct  1   MRSYFEKLLNSSQPQKQLPFI---------VPLLIA---LISGAIFSLALAPYN  42
+
+
+>WP_004680659.1 apolipoprotein N-acyltransferase [Acinetobacter parvus]
+Length=519
+
+ Score = 38.9 bits (89),  Expect = 0.16, Method: Composition-based stats.
+ Identities = 25/54 (46%), Positives = 30/54 (56%), Gaps = 12/54 (22%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPYS  54
+           MR+YFEKLL+SSQ QKQLP I         VP  +    LI G  +   L PY+
+Sbjct  1   MRSYFEKLLNSSQPQKQLPFI---------VPLLIA---LISGAIFSLALAPYN  42
+
+
+>WP_004958685.1 apolipoprotein N-acyltransferase [Acinetobacter junii]
+Length=519
+
+ Score = 38.9 bits (89),  Expect = 0.16, Method: Composition-based stats.
+ Identities = 24/53 (45%), Positives = 27/53 (51%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MR+YFEKL + SQ QKQLP IF             L   LI G  + F L PY
+Sbjct  1   MRSYFEKLFNPSQTQKQLPFIFP------------LLIALISGAIFSFSLAPY  41
+
+
+>WP_004674465.1 apolipoprotein N-acyltransferase [Acinetobacter parvus]
+Length=519
+
+ Score = 38.9 bits (89),  Expect = 0.16, Method: Composition-based stats.
+ Identities = 17/22 (77%), Positives = 19/22 (86%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MR+YFEKLL+ SQ QKQLP IF
+Sbjct  1   MRSYFEKLLNPSQPQKQLPFIF  22
+
+
+>WP_004278565.1 MULTISPECIES: apolipoprotein N-acyltransferase [Acinetobacter]
+Length=519
+
+ Score = 38.9 bits (89),  Expect = 0.17, Method: Compositional matrix adjust.
+ Identities = 18/29 (62%), Positives = 22/29 (76%), Gaps = 0/29 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYF  29
+           MRAYF+KLL S+QQQK LPLI+   +  F
+Sbjct  1   MRAYFDKLLSSNQQQKPLPLIYPVLIALF  29
+
+
+>WP_071850476.1 apolipoprotein N-acyltransferase [Acinetobacter sp. AR2-3]
+Length=519
+
+ Score = 38.9 bits (89),  Expect = 0.19, Method: Compositional matrix adjust.
+ Identities = 18/29 (62%), Positives = 22/29 (76%), Gaps = 0/29 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYF  29
+           MRAYF+KLL S+QQQK LPLI+   +  F
+Sbjct  1   MRAYFDKLLSSNQQQKPLPLIYPVLIALF  29
+
+
+>WP_067661780.1 apolipoprotein N-acyltransferase [Acinetobacter sp. TGL-Y2]
+Length=519
+
+ Score = 38.9 bits (89),  Expect = 0.20, Method: Compositional matrix adjust.
+ Identities = 20/43 (47%), Positives = 25/43 (58%), Gaps = 5/43 (12%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFH-----CSLLYFQVPCSVLHW  38
+           MRA+F+KL +SSQQQKQLP I+       S   F    +  HW
+Sbjct  1   MRAHFDKLFNSSQQQKQLPFIYPLMIALASGAIFSFALAPFHW  43
+
+
+>WP_062035116.1 apolipoprotein N-acyltransferase [Acinetobacter sp. BMW17]
+Length=519
+
+ Score = 38.9 bits (89),  Expect = 0.21, Method: Compositional matrix adjust.
+ Identities = 22/53 (42%), Positives = 27/53 (51%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYF+KLL  + QQKQLPLI+   +  F             G  + F L PY
+Sbjct  1   MRAYFDKLLTPNPQQKQLPLIYPLLIALFS------------GSAFSFALAPY  41
+
+
+>WP_005240005.1 MULTISPECIES: apolipoprotein N-acyltransferase [Acinetobacter]
+Length=519
+
+ Score = 38.9 bits (89),  Expect = 0.21, Method: Composition-based stats.
+ Identities = 17/22 (77%), Positives = 18/22 (82%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MR YFEKLL+SSQ Q QLP IF
+Sbjct  1   MRTYFEKLLNSSQTQTQLPFIF  22
+
+
+>WP_074383950.1 apolipoprotein N-acyltransferase [Acinetobacter lwoffii]
+Length=519
+
+ Score = 38.5 bits (88),  Expect = 0.22, Method: Composition-based stats.
+ Identities = 17/22 (77%), Positives = 19/22 (86%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MRAYF+KLL S QQQK LPLI+
+Sbjct  1   MRAYFDKLLSSDQQQKPLPLIY  22
+
+
+>WP_005172948.1 apolipoprotein N-acyltransferase [Acinetobacter sp. NIPH 713]
+Length=519
+
+ Score = 38.5 bits (88),  Expect = 0.22, Method: Composition-based stats.
+ Identities = 17/22 (77%), Positives = 19/22 (86%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MRAYF+KLL S QQQK LPLI+
+Sbjct  1   MRAYFDKLLSSDQQQKPLPLIY  22
+
+
+>WP_005095360.1 apolipoprotein N-acyltransferase [Acinetobacter lwoffii]
+Length=519
+
+ Score = 38.5 bits (88),  Expect = 0.22, Method: Composition-based stats.
+ Identities = 17/22 (77%), Positives = 19/22 (86%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MRAYF+KLL S QQQK LPLI+
+Sbjct  1   MRAYFDKLLSSDQQQKPLPLIY  22
+
+
+>WP_086209659.1 apolipoprotein N-acyltransferase [Acinetobacter sp. ANC 4204]
+Length=519
+
+ Score = 38.5 bits (88),  Expect = 0.25, Method: Composition-based stats.
+ Identities = 22/53 (42%), Positives = 27/53 (51%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYF+KLL  + QQKQLPLI+   +  F             G  + F L PY
+Sbjct  1   MRAYFDKLLTPTSQQKQLPLIYPLLIALFS------------GAIFSFALAPY  41
+
+
+>WP_005007091.1 apolipoprotein N-acyltransferase [Acinetobacter bouvetii]
+Length=519
+
+ Score = 38.5 bits (88),  Expect = 0.27, Method: Compositional matrix adjust.
+ Identities = 21/53 (40%), Positives = 28/53 (53%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MR YF+KLL+ ++QQKQLPLI+   +  F             G  + F L PY
+Sbjct  1   MRTYFDKLLNPAEQQKQLPLIYPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_086165125.1 apolipoprotein N-acyltransferase [Acinetobacter sp. ANC 4654]
+Length=519
+
+ Score = 38.1 bits (87),  Expect = 0.33, Method: Compositional matrix adjust.
+ Identities = 22/53 (42%), Positives = 26/53 (49%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MR YF KL +SSQQQKQLP I+   +             L  G  + F L PY
+Sbjct  1   MRTYFNKLFNSSQQQKQLPFIYPFLI------------SLFSGAMFSFALAPY  41
+
+
+>WP_086195247.1 apolipoprotein N-acyltransferase [Acinetobacter sp. ANC 4218]
+Length=519
+
+ Score = 38.1 bits (87),  Expect = 0.35, Method: Compositional matrix adjust.
+ Identities = 16/22 (73%), Positives = 19/22 (86%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MR YF+KLL+SSQQ KQLP I+
+Sbjct  1   MRTYFDKLLNSSQQHKQLPFIY  22
+
+
+>WP_004649981.1 apolipoprotein N-acyltransferase [Acinetobacter bohemicus]
+Length=519
+
+ Score = 38.1 bits (87),  Expect = 0.35, Method: Compositional matrix adjust.
+ Identities = 22/53 (42%), Positives = 26/53 (49%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MR YF KL +SSQQQKQLP I+   +             L  G  + F L PY
+Sbjct  1   MRTYFNKLFNSSQQQKQLPFIYPFLI------------SLFSGAMFSFALAPY  41
+
+
+>WP_086183900.1 apolipoprotein N-acyltransferase [Acinetobacter sp. ANC 4973]
+Length=519
+
+ Score = 38.1 bits (87),  Expect = 0.35, Method: Compositional matrix adjust.
+ Identities = 22/53 (42%), Positives = 26/53 (49%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MR YF KL +SSQQQKQLP I+   +             L  G  + F L PY
+Sbjct  1   MRTYFNKLFNSSQQQKQLPFIYPFLI------------SLFSGAMFSFALAPY  41
+
+
+>WP_074943782.1 apolipoprotein N-acyltransferase [Acinetobacter bohemicus]
+Length=519
+
+ Score = 38.1 bits (87),  Expect = 0.35, Method: Compositional matrix adjust.
+ Identities = 16/22 (73%), Positives = 18/22 (82%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MR YF KL +SSQQQKQLP I+
+Sbjct  1   MRTYFNKLFNSSQQQKQLPFIY  22
+
+
+>WP_025095327.1 apolipoprotein N-acyltransferase [Acinetobacter soli]
+Length=520
+
+ Score = 38.1 bits (87),  Expect = 0.35, Method: Compositional matrix adjust.
+ Identities = 17/22 (77%), Positives = 19/22 (86%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MRAYF +LL SS+QQKQLP IF
+Sbjct  1   MRAYFSQLLGSSRQQKQLPFIF  22
+
+
+>WP_055414941.1 apolipoprotein N-acyltransferase [Acinetobacter soli]
+Length=520
+
+ Score = 38.1 bits (87),  Expect = 0.36, Method: Compositional matrix adjust.
+ Identities = 17/22 (77%), Positives = 19/22 (86%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MRAYF +LL SS+QQKQLP IF
+Sbjct  1   MRAYFSQLLGSSRQQKQLPFIF  22
+
+
+>WP_004943891.1 apolipoprotein N-acyltransferase [Acinetobacter soli]
+Length=520
+
+ Score = 38.1 bits (87),  Expect = 0.36, Method: Compositional matrix adjust.
+ Identities = 17/22 (77%), Positives = 19/22 (86%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MRAYF +LL SS+QQKQLP IF
+Sbjct  1   MRAYFSQLLGSSRQQKQLPFIF  22
+
+
+>WP_086187279.1 apolipoprotein N-acyltransferase [Acinetobacter sp. ANC 4470]
+Length=519
+
+ Score = 38.1 bits (87),  Expect = 0.36, Method: Compositional matrix adjust.
+ Identities = 16/22 (73%), Positives = 18/22 (82%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MR YF KL +SSQQQKQLP I+
+Sbjct  1   MRTYFNKLFNSSQQQKQLPFIY  22
+
+
+>WP_048763886.1 MULTISPECIES: apolipoprotein N-acyltransferase [Acinetobacter]
+Length=520
+
+ Score = 38.1 bits (87),  Expect = 0.36, Method: Compositional matrix adjust.
+ Identities = 17/22 (77%), Positives = 19/22 (86%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MRAYF +LL SS+QQKQLP IF
+Sbjct  1   MRAYFSQLLGSSRQQKQLPFIF  22
+
+
+>WP_061524196.1 apolipoprotein N-acyltransferase [Acinetobacter venetianus]
+Length=519
+
+ Score = 38.1 bits (87),  Expect = 0.38, Method: Composition-based stats.
+ Identities = 16/22 (73%), Positives = 19/22 (86%), Gaps = 0/22 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIF  22
+           MR+YFE+LL+ SQ QKQLP IF
+Sbjct  1   MRSYFEELLNPSQSQKQLPFIF  22
+
+
+>WP_032046459.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 37.7 bits (86),  Expect = 0.42, Method: Composition-based stats.
+ Identities = 17/17 (100%), Positives = 17/17 (100%), Gaps = 0/17 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQ  17
+           MRAYFEKLLDSSQQQKQ
+Sbjct  1   MRAYFEKLLDSSQQQKQ  17
+
+
+>WP_057691772.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 37.7 bits (86),  Expect = 0.43, Method: Composition-based stats.
+ Identities = 17/17 (100%), Positives = 17/17 (100%), Gaps = 0/17 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQ  17
+           MRAYFEKLLDSSQQQKQ
+Sbjct  1   MRAYFEKLLDSSQQQKQ  17
+
+
+>WP_001203084.1 apolipoprotein N-acyltransferase [Acinetobacter baumannii]
+Length=519
+
+ Score = 37.7 bits (86),  Expect = 0.43, Method: Composition-based stats.
+ Identities = 17/17 (100%), Positives = 17/17 (100%), Gaps = 0/17 (0%)
+
+Query  1   MRAYFEKLLDSSQQQKQ  17
+           MRAYFEKLLDSSQQQKQ
+Sbjct  1   MRAYFEKLLDSSQQQKQ  17
+
+
+>WP_067866187.1 apolipoprotein N-acyltransferase [Acinetobacter sp. SFB]
+Length=519
+
+ Score = 37.7 bits (86),  Expect = 0.44, Method: Composition-based stats.
+ Identities = 21/53 (40%), Positives = 27/53 (51%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MR YF+KLL+SSQQ+ QLP I+   +  F             G  + F L PY
+Sbjct  1   MRTYFDKLLNSSQQKNQLPFIYPFLISLFS------------GAMFSFALAPY  41
+
+
+>WP_078388557.1 apolipoprotein N-acyltransferase [Acinetobacter sp. MF4640]
+Length=519
+
+ Score = 37.7 bits (86),  Expect = 0.50, Method: Compositional matrix adjust.
+ Identities = 22/53 (42%), Positives = 27/53 (51%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYF+KLL  + QQKQLPLI+   +  F             G  + F L PY
+Sbjct  1   MRAYFDKLLTPNPQQKQLPLIYPLLIALFS------------GAVFSFALAPY  41
+
+
+>WP_004916744.1 apolipoprotein N-acyltransferase [Acinetobacter junii]
+Length=519
+
+ Score = 37.7 bits (86),  Expect = 0.53, Method: Composition-based stats.
+ Identities = 23/53 (43%), Positives = 27/53 (51%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MR+YFEKL + SQ +KQLP IF             L   LI G  + F L PY
+Sbjct  1   MRSYFEKLFNPSQTRKQLPFIFP------------LLIALISGAIFSFALAPY  41
+
+
+>WP_010325799.1 MULTISPECIES: apolipoprotein N-acyltransferase [Acinetobacter]
+Length=519
+
+ Score = 37.7 bits (86),  Expect = 0.53, Method: Compositional matrix adjust.
+ Identities = 22/53 (42%), Positives = 27/53 (51%), Gaps = 12/53 (23%)
+
+Query  1   MRAYFEKLLDSSQQQKQLPLIFHCSLLYFQVPCSVLHWHLIIGGGWQFCLQPY  53
+           MRAYF+KLL  + QQKQLPLI+   +  F             G  + F L PY
+Sbjct  1   MRAYFDKLLTPNPQQKQLPLIYPLLIALFS------------GAVFSFALAPY  41
+
+
+
+Lambda      K        H
+   0.332    0.143    0.490 
+
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+
+Effective search space used: 792013570388
+
+
+  Database: NCBI Protein Reference Sequences
+    Posted date:  May 29, 2017 12:00 AM
+  Number of letters in database: 31,412,196,622
+  Number of sequences in database:  82,027,677
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40

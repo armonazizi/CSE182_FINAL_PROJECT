@@ -1,0 +1,190 @@
+BLASTP 2.6.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: NCBI Protein Reference Sequences
+           82,027,677 sequences; 31,412,196,622 total letters
+
+
+
+Query= embl-cds:ABO11118 protein tyrosine phosphatase OS=Acinetobacter
+baumannii (strain ATCC 17978 / CIP 53.77 / LMG 1025 / NCDC KC755 /
+5377) GN=A1S_0670 SV=1 UP=UP000006737:Chromosome
+
+Length=166
+
+RID: JUVDMBH2014
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+WP_032965471.1  hypothetical protein [Stenotrophomonas maltophilia]   48.1    3e-004
+XP_015585956.1  PREDICTED: Golgi-specific brefeldin A-resistance ...  37.7    5.2   
+WP_020564353.1  glutathione S-transferase [Methylosarcina fibrata]    37.0    5.5   
+WP_048892532.1  potassium transporter TrkA [Mycobacterium heckesh...  37.4    6.8   
+WP_052218109.1  hypothetical protein [Thermincola ferriacetica]       36.2    7.5   
+WP_030358048.1  MULTISPECIES: catalase [Streptomyces]                 37.0    8.3   
+XP_003372062.1  conserved hypothetical protein [Trichinella spira...  36.6    8.8   
+WP_069808592.1  ribosome maturation factor RimP [Chlorobaculum li...  36.2    8.9   
+XP_020674087.1  cytochrome P450 94B1-like [Dendrobium catenatum]      36.6    9.9   
+
+
+>WP_032965471.1 hypothetical protein [Stenotrophomonas maltophilia]
+Length=139
+
+ Score = 48.1 bits (113),  Expect = 3e-004, Method: Compositional matrix adjust.
+ Identities = 29/90 (32%), Positives = 43/90 (48%), Gaps = 0/90 (0%)
+
+Query  16   SAFDGGRVFKSPMRRDRLTRPHRTHFAGGVVADGDDEVHLRCVGRGVLVPALAAQILGRV  75
+            +A    RV  +P+ R+R+T PH T F    +A G D++HL C      +P LA Q     
+Sbjct  50   AALYCSRVGDTPVSRNRVTWPHWTRFTRCAIAHGHDQIHLWCFRTCECLPRLARQPGNVE  109
+
+Query  76   IHRLHLFDGEGIDLAGWVTAGAVGAEAPLP  105
+             +      G  ++ A  +TAG V A+   P
+Sbjct  110  ANLREHLQGHWMNYALGITAGTVSADTSAP  139
+
+
+>XP_015585956.1 PREDICTED: Golgi-specific brefeldin A-resistance guanine nucleotide 
+exchange factor 1 [Cephus cinctus]
+Length=1839
+
+ Score = 37.7 bits (86),  Expect = 5.2, Method: Composition-based stats.
+ Identities = 21/56 (38%), Positives = 25/56 (45%), Gaps = 1/56 (2%)
+
+Query  55    LRCVGRGVLVPALAAQILGRVIHRLHLFDGEGID-LAGWVTAGAVGAEAPLPHRVD  109
+             L C G G L+P  +   L  V  R  + D   I  +  WV A   G EAPLP   D
+Sbjct  1255  LECAGAGALLPKQSNSTLDEVPSRTSVLDPRPISPVPEWVLASPTGTEAPLPVTAD  1310
+
+
+>WP_020564353.1 glutathione S-transferase [Methylosarcina fibrata]
+Length=221
+
+ Score = 37.0 bits (84),  Expect = 5.5, Method: Compositional matrix adjust.
+ Identities = 17/38 (45%), Positives = 23/38 (61%), Gaps = 0/38 (0%)
+
+Query  10   PALLGVSAFDGGRVFKSPMRRDRLTRPHRTHFAGGVVA  47
+            PAL G+SA + GR+++S M       PH THF G V +
+Sbjct  81   PALFGLSAAEQGRIWRSIMECVSYWEPHMTHFVGTVFS  118
+
+
+>WP_048892532.1 potassium transporter TrkA [Mycobacterium heckeshornense]
+Length=574
+
+ Score = 37.4 bits (85),  Expect = 6.8, Method: Compositional matrix adjust.
+ Identities = 33/109 (30%), Positives = 50/109 (46%), Gaps = 16/109 (15%)
+
+Query  62   VLVPALAAQILGRVIHRLHLFDGEGIDLAGWVTAGAVGAEAPLPHRVDESFGHDAARRIA  121
+            ++ PA+    L    H +H F+  G+    W      GAE P    + E +G  A   + 
+Sbjct  101  LVAPAIVEACLA---HAVHPFEAAGVKFVVW------GAETPHDATLRELYGDLAPVAVI  151
+
+Query  122  GAED----EDVIDSFGHDVSLSGSGWGAM--AMDERSVASSMTWPAAFR  164
+            G E+    ++V+   G DVS+ G  W AM    DE + A S+T+P   R
+Sbjct  152  GGENSPNRDEVMVCPGRDVSVCGGDWAAMIGTADEMA-ARSITFPQPSR  199
+
+
+>WP_052218109.1 hypothetical protein [Thermincola ferriacetica]
+Length=148
+
+ Score = 36.2 bits (82),  Expect = 7.5, Method: Compositional matrix adjust.
+ Identities = 27/93 (29%), Positives = 37/93 (40%), Gaps = 13/93 (14%)
+
+Query  23   VFKSPMRRDRLTRPHRTHFAG---------GVVADGDDEV-HLRCVGRGVLVPALAAQIL  72
+            +F   M+  ++T      FA          GV AD    + HL   G G L   + A I+
+Sbjct  21   IFDITMKMLKITDRTFIDFAKVFVMFKPFKGVTADIVGTIGHL---GAGALFGVMLAYII  77
+
+Query  73   GRVIHRLHLFDGEGIDLAGWVTAGAVGAEAPLP  105
+                HR +LF G G     W+T   +G    LP
+Sbjct  78   MLTSHRFYLFKGTGFGFVIWITVNGIGTAINLP  110
+
+
+>WP_030358048.1 MULTISPECIES: catalase [Streptomyces]
+Length=481
+
+ Score = 37.0 bits (84),  Expect = 8.3, Method: Compositional matrix adjust.
+ Identities = 21/46 (46%), Positives = 26/46 (57%), Gaps = 6/46 (13%)
+
+Query  85   EGIDLAGWVTAGAVGAEAPLPHRVDESFGHDAARRIAGAEDEDVID  130
+            EG+D AGW TAG +  EA  PHR D+ FG       AG +   V+D
+Sbjct  392  EGMDPAGWRTAGEMVREAYKPHREDDDFGQ------AGTQVRQVLD  431
+
+
+>XP_003372062.1 conserved hypothetical protein [Trichinella spiralis]
+Length=350
+
+ Score = 36.6 bits (83),  Expect = 8.8, Method: Compositional matrix adjust.
+ Identities = 25/90 (28%), Positives = 40/90 (44%), Gaps = 12/90 (13%)
+
+Query  45   VVADGDDEVHLRCVGRGVLVPALAAQILGRVIHRLHLFDGEGIDLAGWVTAGAVGAEAPL  104
+            V+   + EV + CV       +L+  IL  V   L   D +G+ LAGW++   +G+E  L
+Sbjct  135  VLKLSNIEVSITCV-------SLSTVILASVQLCLQCHDDDGVLLAGWISIACIGSEVSL  187
+
+Query  105  -----PHRVDESFGHDAARRIAGAEDEDVI  129
+                  +R        +  RIA  E E ++
+Sbjct  188  IRFHHKYRNKHISIESSCWRIAMVEQEKLV  217
+
+
+>WP_069808592.1 ribosome maturation factor RimP [Chlorobaculum limnaeum]
+Length=173
+
+ Score = 36.2 bits (82),  Expect = 8.9, Method: Compositional matrix adjust.
+ Identities = 31/99 (31%), Positives = 49/99 (49%), Gaps = 9/99 (9%)
+
+Query  32   RLTRPHRTHFA----GGVVADGDDEVHLRC--VGRGVLVPALAAQILGRVIHRLHLFDGE  85
+            RL+R  R          ++ADGD ++ +    +G  ++V     + LGR+I R++  DGE
+Sbjct  56   RLSRAIRARLEACEENTMLADGDFDLMVSSPGIGEPIMVQRQYLRHLGRLI-RVNYLDGE  114
+
+Query  86   G--IDLAGWVTAGAVGAEAPLPHRVDESFGHDAARRIAG  122
+            G   ++ G +   AVGAE P P    E+      +R AG
+Sbjct  115  GQPKEITGRLLEAAVGAEEPEPSITIEAVREGRKKRTAG  153
+
+
+>XP_020674087.1 cytochrome P450 94B1-like [Dendrobium catenatum]
+Length=500
+
+ Score = 36.6 bits (83),  Expect = 9.9, Method: Compositional matrix adjust.
+ Identities = 29/96 (30%), Positives = 44/96 (46%), Gaps = 2/96 (2%)
+
+Query  31   DRLTRPH-RTHFAGGVVADGDDEVHLRCVGRGVLVPALAAQILGRVIHRLHLFDGEGIDL  89
+            + + RP   THF   +VADG   V L+ + RG+    +    LGR     HL   E +D+
+Sbjct  149  NHILRPEISTHFLPNLVADGRTVVDLQNLLRGLSFRVICRVFLGRP-STAHLQLAEALDV  207
+
+Query  90   AGWVTAGAVGAEAPLPHRVDESFGHDAARRIAGAED  125
+            A  ++AG   A      +   + G  + RR+  A D
+Sbjct  208  ASEISAGRGSAPLAFLWKAKRALGFGSERRLREAVD  243
+
+
+
+Lambda      K        H
+   0.322    0.138    0.430 
+
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+
+Effective search space used: 770733172693
+
+
+  Database: NCBI Protein Reference Sequences
+    Posted date:  May 29, 2017 12:00 AM
+  Number of letters in database: 31,412,196,622
+  Number of sequences in database:  82,027,677
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40

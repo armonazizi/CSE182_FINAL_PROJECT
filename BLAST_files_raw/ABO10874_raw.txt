@@ -1,0 +1,3702 @@
+BLASTP 2.6.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: NCBI Protein Reference Sequences
+           82,027,677 sequences; 31,412,196,622 total letters
+
+
+
+Query= embl-cds:ABO10874 hypothetical protein OS=Acinetobacter baumannii
+(strain ATCC 17978 / CIP 53.77 / LMG 1025 / NCDC KC755 / 5377)
+GN=A1S_0419 SV=1 UP=UP000006737:Chromosome
+
+Length=169
+
+RID: JVR6GUGP014
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+WP_000381943.1  hypothetical protein [Acinetobacter baumannii]        353     1e-123
+WP_001984507.1  MULTISPECIES: hypothetical protein [Acinetobacter...  352     1e-122
+WP_004710709.1  MULTISPECIES: hypothetical protein [Acinetobacter...  352     1e-122
+WP_024434319.1  hypothetical protein [Acinetobacter baumannii]        351     2e-122
+WP_042075231.1  hypothetical protein [Acinetobacter nosocomialis]     351     2e-122
+WP_006580475.1  MULTISPECIES: hypothetical protein [Acinetobacter...  350     4e-122
+WP_032016081.1  hypothetical protein [Acinetobacter baumannii]        349     1e-121
+WP_031957038.1  hypothetical protein [Acinetobacter baumannii]        349     1e-121
+WP_031992889.1  hypothetical protein [Acinetobacter baumannii]        349     1e-121
+WP_039112812.1  hypothetical protein [Acinetobacter baumannii]        348     2e-121
+WP_023188506.1  hypothetical protein [Acinetobacter nosocomialis]     348     4e-121
+WP_049064493.1  hypothetical protein [Acinetobacter seifertii]        347     6e-121
+WP_004698919.1  MULTISPECIES: hypothetical protein [Acinetobacter]    345     3e-120
+WP_077169088.1  hypothetical protein [Acinetobacter genomosp. 33YU]   344     1e-119
+WP_069141732.1  hypothetical protein [Acinetobacter pittii]           337     5e-117
+WP_061874225.1  hypothetical protein [Acinetobacter dijkshoorniae]    336     1e-116
+WP_032054333.1  hypothetical protein [Acinetobacter baumannii]        335     2e-116
+WP_068565208.1  hypothetical protein [Acinetobacter pittii]           335     2e-116
+WP_005066026.1  MULTISPECIES: hypothetical protein [Acinetobacter]    335     3e-116
+WP_032042095.1  MULTISPECIES: hypothetical protein [Acinetobacter...  335     4e-116
+WP_003654712.1  MULTISPECIES: hypothetical protein [Acinetobacter]    335     4e-116
+WP_016139366.1  hypothetical protein [Acinetobacter calcoaceticus]    335     4e-116
+WP_005302052.1  MULTISPECIES: hypothetical protein [Acinetobacter]    334     9e-116
+WP_016144240.1  MULTISPECIES: hypothetical protein [Acinetobacter]    333     2e-115
+WP_045126242.1  hypothetical protein [Acinetobacter calcoaceticus]    333     2e-115
+WP_069122096.1  hypothetical protein [Acinetobacter pittii]           333     3e-115
+WP_016142302.1  hypothetical protein [Acinetobacter pittii]           331     1e-114
+WP_004794858.1  hypothetical protein [Acinetobacter sp. NIPH 817]     330     3e-114
+WP_009393104.1  hypothetical protein [Acinetobacter sp. WC-141]       329     6e-114
+WP_046811456.1  hypothetical protein [Acinetobacter pittii]           328     3e-113
+WP_032064741.1  hypothetical protein [Acinetobacter baumannii]        326     3e-113
+WP_050675104.1  hypothetical protein [Acinetobacter sp. 1475718]      296     2e-101
+WP_002045593.1  hypothetical protein [Acinetobacter baumannii]        283     1e-096
+WP_075880234.1  hypothetical protein [Acinetobacter baumannii]        265     8e-089
+WP_034682737.1  MULTISPECIES: hypothetical protein [Acinetobacter]    244     3e-080
+WP_004932701.1  hypothetical protein [Acinetobacter soli]             244     3e-080
+WP_004920231.1  MULTISPECIES: hypothetical protein [Acinetobacter]    243     5e-080
+WP_005016754.1  MULTISPECIES: hypothetical protein [Acinetobacter]    242     2e-079
+WP_004943812.1  MULTISPECIES: hypothetical protein [Acinetobacter]    242     2e-079
+WP_005403619.1  hypothetical protein [Acinetobacter junii]            241     4e-079
+WP_004957691.1  hypothetical protein [Acinetobacter junii]            241     6e-079
+WP_004958798.1  hypothetical protein [Acinetobacter junii]            241     7e-079
+WP_032859189.1  MULTISPECIES: hypothetical protein [Acinetobacter]    241     7e-079
+WP_026057512.1  MULTISPECIES: hypothetical protein [Acinetobacter]    240     8e-079
+WP_038344871.1  hypothetical protein [Acinetobacter sp. A47]          240     1e-078
+WP_004800179.1  hypothetical protein [Acinetobacter sp. CIP 102637]   239     2e-078
+WP_005162685.1  hypothetical protein [Acinetobacter sp. NIPH 284]     239     2e-078
+WP_004916614.1  hypothetical protein [Acinetobacter junii]            239     3e-078
+WP_004656044.1  MULTISPECIES: hypothetical protein [Acinetobacter]    239     4e-078
+WP_005051240.1  hypothetical protein [Acinetobacter beijerinckii]     239     5e-078
+WP_061524234.1  hypothetical protein [Acinetobacter venetianus]       238     5e-078
+WP_004876663.1  hypothetical protein [Acinetobacter venetianus]       238     5e-078
+WP_005155099.1  hypothetical protein [Acinetobacter sp. ANC 3929]     238     7e-078
+WP_004659113.1  MULTISPECIES: hypothetical protein [Acinetobacter]    238     1e-077
+WP_007479098.1  MULTISPECIES: hypothetical protein [Acinetobacter]    237     2e-077
+WP_004762186.1  hypothetical protein [Acinetobacter sp. CIP 102129]   237     2e-077
+WP_004756193.1  MULTISPECIES: hypothetical protein [Acinetobacter]    236     3e-077
+WP_019385745.1  hypothetical protein [Acinetobacter venetianus]       236     3e-077
+WP_005192180.1  MULTISPECIES: hypothetical protein [Acinetobacter]    236     4e-077
+WP_005291593.1  hypothetical protein [Acinetobacter sp. NIPH 2100]    236     4e-077
+WP_005226601.1  MULTISPECIES: hypothetical protein [Acinetobacter]    236     4e-077
+WP_023013195.1  MULTISPECIES: hypothetical protein [Acinetobacter]    236     5e-077
+WP_047431271.1  hypothetical protein [Acinetobacter sp. neg1]         236     6e-077
+WP_061397890.1  hypothetical protein [Acinetobacter haemolyticus]     236     7e-077
+WP_018677358.1  hypothetical protein [Acinetobacter tjernbergiae]     235     8e-077
+WP_005278764.1  MULTISPECIES: hypothetical protein [Acinetobacter]    235     1e-076
+WP_004674547.1  hypothetical protein [Acinetobacter parvus]           235     1e-076
+WP_004774240.1  MULTISPECIES: hypothetical protein [Acinetobacter]    234     3e-076
+WP_005239912.1  MULTISPECIES: hypothetical protein [Acinetobacter]    234     3e-076
+WP_004991435.1  MULTISPECIES: hypothetical protein [Acinetobacter]    231     4e-075
+WP_004680572.1  hypothetical protein [Acinetobacter parvus]           230     1e-074
+WP_044433929.1  hypothetical protein [Acinetobacter ursingii]         228     6e-074
+WP_075316251.1  hypothetical protein [Acinetobacter haemolyticus]     223     4e-072
+WP_005083676.1  hypothetical protein [Acinetobacter haemolyticus]     221     2e-071
+WP_004637791.1  MULTISPECIES: hypothetical protein [Acinetobacter]    221     3e-071
+WP_026070348.1  hypothetical protein [Acinetobacter haemolyticus]     221     5e-071
+WP_005182052.1  hypothetical protein [Acinetobacter sp. CIP 53.82]    220     8e-071
+WP_016659592.1  hypothetical protein [Acinetobacter indicus]          219     1e-070
+WP_005088118.1  hypothetical protein [Acinetobacter haemolyticus]     219     2e-070
+WP_016168288.1  hypothetical protein [Acinetobacter tandoii]          219     3e-070
+WP_045795486.1  hypothetical protein [Acinetobacter indicus]          219     3e-070
+WP_019836005.1  hypothetical protein [Acinetobacter sp. MDS7A]        217     1e-069
+WP_086174005.1  hypothetical protein [Acinetobacter sp. ANC 3903]     216     2e-069
+WP_075174963.1  hypothetical protein [Acinetobacter indicus]          216     4e-069
+WP_086198429.1  hypothetical protein [Acinetobacter sp. ANC 4169]     216     5e-069
+WP_004976096.1  hypothetical protein [Acinetobacter towneri]          215     6e-069
+WP_039620934.1  hypothetical protein [Acinetobacter harbinensis]      215     8e-069
+WP_070155350.1  hypothetical protein [Acinetobacter towneri]          215     8e-069
+WP_086195309.1  hypothetical protein [Acinetobacter sp. ANC 4218]     214     1e-068
+WP_004668520.1  MULTISPECIES: hypothetical protein [Acinetobacter]    213     6e-068
+WP_067655634.1  hypothetical protein [Acinetobacter sp. TGL-Y2]       212     1e-067
+WP_086201950.1  hypothetical protein [Acinetobacter sp. ANC 4999]     211     2e-067
+WP_086207094.1  hypothetical protein [Acinetobacter sp. ANC 4648]     211     3e-067
+WP_067866306.1  hypothetical protein [Acinetobacter sp. SFB]          211     3e-067
+WP_067722120.1  hypothetical protein [Acinetobacter sp. SFC]          210     7e-067
+WP_086183845.1  hypothetical protein [Acinetobacter sp. ANC 4973]     210     8e-067
+WP_074943674.1  hypothetical protein [Acinetobacter bohemicus]        209     1e-066
+WP_086192973.1  hypothetical protein [Acinetobacter sp. ANC 4655]     210     1e-066
+WP_004649902.1  hypothetical protein [Acinetobacter bohemicus]        209     1e-066
+WP_086165066.1  hypothetical protein [Acinetobacter sp. ANC 4654]     208     4e-066
+WP_086189551.1  hypothetical protein [Acinetobacter sp. ANC 3832]     208     5e-066
+WP_078189720.1  MULTISPECIES: hypothetical protein [Acinetobacter]    206     3e-065
+WP_086187193.1  hypothetical protein [Acinetobacter sp. ANC 4470]     205     5e-065
+WP_068909224.1  hypothetical protein [Acinetobacter sp. WCHA34]       204     1e-064
+WP_086176977.1  hypothetical protein [Acinetobacter sp. ANC 5054]     202     6e-064
+WP_067763855.1  hypothetical protein [Acinetobacter gandensis]        202     7e-064
+WP_004647383.1  MULTISPECIES: hypothetical protein [Acinetobacter]    201     2e-063
+WP_004978936.1  hypothetical protein [Acinetobacter johnsonii]        201     2e-063
+WP_062035045.1  hypothetical protein [Acinetobacter sp. BMW17]        201     3e-063
+WP_034582815.1  hypothetical protein [Acinetobacter sp. HR7]          201     4e-063
+WP_044111836.1  MULTISPECIES: hypothetical protein [Acinetobacter]    200     5e-063
+WP_071852214.1  hypothetical protein [Acinetobacter sp. AR2-3]        200     6e-063
+WP_086209996.1  hypothetical protein [Acinetobacter sp. ANC 4204]     199     1e-062
+WP_004729459.1  MULTISPECIES: hypothetical protein [Acinetobacter]    199     1e-062
+WP_010325844.1  MULTISPECIES: hypothetical protein [Acinetobacter]    199     2e-062
+WP_004692537.1  hypothetical protein [Acinetobacter johnsonii]        199     2e-062
+WP_034702380.1  hypothetical protein [Acinetobacter baumannii]        197     8e-062
+WP_086044146.1  hypothetical protein [Acinetobacter lwoffii]          197     8e-062
+WP_005400864.1  MULTISPECIES: hypothetical protein [Acinetobacter]    197     9e-062
+WP_010114223.1  hypothetical protein [Acinetobacter sp. P8-3-8]       197     1e-061
+WP_004781850.1  hypothetical protein [Acinetobacter sp. NIPH 899]     197     1e-061
+WP_053578841.1  hypothetical protein [Acinetobacter sp. TTH0-4]       196     2e-061
+WP_058868872.1  hypothetical protein [Acinetobacter johnsonii]        196     2e-061
+WP_004718093.1  hypothetical protein [Acinetobacter guillouiae]       196     2e-061
+WP_005232350.1  MULTISPECIES: hypothetical protein [Acinetobacter]    196     3e-061
+WP_067666834.1  hypothetical protein [Acinetobacter sp. ANC 4149]     195     5e-061
+WP_034611630.1  hypothetical protein [Acinetobacter sp. ETR1]         195     5e-061
+WP_004826588.1  MULTISPECIES: hypothetical protein [Acinetobacter]    195     7e-061
+WP_068885532.1  hypothetical protein [Acinetobacter celticus]         195     7e-061
+WP_078389546.1  hypothetical protein [Acinetobacter sp. MF4640]       195     7e-061
+WP_086181994.1  hypothetical protein [Acinetobacter sp. ANC 4558]     194     1e-060
+WP_056516866.1  hypothetical protein [Acinetobacter sp. Root1280]     194     2e-060
+WP_005007228.1  hypothetical protein [Acinetobacter bouvetii]         194     2e-060
+WP_004818787.1  hypothetical protein [Acinetobacter guillouiae]       194     2e-060
+WP_064094872.1  hypothetical protein [Acinetobacter sp. SFD]          193     3e-060
+WP_064102227.1  hypothetical protein [Acinetobacter sp. SFA]          193     4e-060
+WP_054580984.1  hypothetical protein [Acinetobacter equi]             193     4e-060
+WP_067728238.1  hypothetical protein [Acinetobacter sp. NCu2D-2]      192     7e-060
+WP_005095471.1  hypothetical protein [Acinetobacter lwoffii]          192     9e-060
+WP_004813328.1  MULTISPECIES: hypothetical protein [Acinetobacter]    192     1e-059
+WP_004890345.1  MULTISPECIES: hypothetical protein [Acinetobacter]    191     2e-059
+WP_004754329.1  hypothetical protein [Acinetobacter sp. ANC 3789]     190     9e-059
+WP_005172846.1  hypothetical protein [Acinetobacter sp. NIPH 713]     189     1e-058
+WP_004899267.1  hypothetical protein [Acinetobacter brisouii]         189     1e-058
+WP_045792517.1  hypothetical protein [Acinetobacter brisouii]         187     9e-058
+WP_035264152.1  hypothetical protein [Acinetobacter sp. Ver3]         186     2e-057
+WP_065993405.1  hypothetical protein [Acinetobacter sp. WCHA30]       184     2e-056
+WP_086212939.1  hypothetical protein [Acinetobacter sp. ANC 3813]     182     5e-056
+WP_068973711.1  hypothetical protein [Acinetobacter sp. WCHA60]       178     3e-054
+WP_016657574.1  hypothetical protein [Acinetobacter rudis]            177     5e-054
+WP_020847051.1  hypothetical protein [Acinetobacter gerneri]          175     6e-053
+WP_040332104.1  hypothetical protein [Acinetobacter nectaris]         173     3e-052
+WP_067551803.1  hypothetical protein [Acinetobacter larvae]           173     4e-052
+WP_084494896.1  hypothetical protein [Alkanindiges illinoisensis]     154     2e-044
+WP_081409228.1  hypothetical protein [Acinetobacter qingfengensis]    152     5e-044
+WP_083698384.1  hypothetical protein [Alkanindiges sp. H1]            144     5e-041
+WP_062533469.1  hypothetical protein [Psychrobacter urativorans]      70.5    9e-012
+WP_062844228.1  hypothetical protein [Psychrobacter alimentarius]     70.1    1e-011
+WP_079692107.1  hypothetical protein [Psychrobacter sp. DAB_AL43B]    69.3    3e-011
+WP_068036484.1  MULTISPECIES: hypothetical protein [Psychrobacter]    68.6    4e-011
+WP_062331245.1  hypothetical protein [Moraxella osloensis]            67.8    6e-011
+WP_068407647.1  hypothetical protein [Psychrobacter sp. SHUES1]       67.4    1e-010
+WP_075101603.1  hypothetical protein [Psychrobacter sp. Rd 27.2]      66.2    2e-010
+WP_025647243.1  MULTISPECIES: hypothetical protein [Psychrobacter]    65.9    3e-010
+WP_010199842.1  hypothetical protein [Psychrobacter sp. PAMC 21119]   65.5    6e-010
+WP_011513900.1  hypothetical protein [Psychrobacter cryohalolentis]   65.5    6e-010
+WP_020443715.1  hypothetical protein [Psychrobacter sp. G]            65.1    7e-010
+WP_057759324.1  hypothetical protein [Psychrobacter sp. P11G3]        64.7    9e-010
+WP_055124340.1  hypothetical protein [Psychrobacter glacincola]       65.1    1e-009
+WP_060490803.1  hypothetical protein [Psychrobacter sp. P11F6]        64.3    1e-009
+WP_007114911.1  hypothetical protein [Enhydrobacter sp. H5]           63.5    2e-009
+WP_058369038.1  MULTISPECIES: hypothetical protein [Psychrobacter]    63.9    2e-009
+WP_021814853.1  hypothetical protein [Psychrobacter aquaticus]        63.5    3e-009
+WP_011280680.1  hypothetical protein [Psychrobacter arcticus]         63.5    3e-009
+WP_071001289.1  hypothetical protein [Psychrobacter sp. AntiMn-1]     63.2    3e-009
+WP_065264235.1  hypothetical protein [Moraxella osloensis]            62.8    4e-009
+WP_058023802.1  hypothetical protein [Psychrobacter piscatorii]       63.2    4e-009
+WP_025651389.1  MULTISPECIES: hypothetical protein [Psychrobacter]    62.8    5e-009
+WP_065252957.1  hypothetical protein [Moraxella osloensis]            62.4    6e-009
+WP_075107386.1  hypothetical protein [Psychrobacter sp. C 20.9]       61.6    2e-008
+WP_017413898.1  cysteine--tRNA ligase [Clostridium tunisiense]        37.7    4.3   
+WP_077154128.1  hypothetical protein [Bacteroides sp. Marseille-P...  37.4    6.1   
+WP_010252873.1  hypothetical protein [Myroides injenensis]            37.0    6.5   
+WP_071515743.1  cysteine--tRNA ligase [Geitlerinema sp. PCC 9228]     37.4    7.0   
+WP_006678898.1  hypothetical protein [Paenibacillus dendritiformis]   36.6    8.2   
+
+
+>WP_000381943.1 hypothetical protein [Acinetobacter baumannii]
+Length=169
+
+ Score = 353 bits (906),  Expect = 1e-123, Method: Compositional matrix adjust.
+ Identities = 169/169 (100%), Positives = 169/169 (100%), Gaps = 0/169 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG
+Sbjct  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG
+Sbjct  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPRQS  169
+            SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPRQS
+Sbjct  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPRQS  169
+
+
+>WP_001984507.1 MULTISPECIES: hypothetical protein [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=196
+
+ Score = 352 bits (902),  Expect = 1e-122, Method: Compositional matrix adjust.
+ Identities = 168/169 (99%), Positives = 169/169 (100%), Gaps = 0/169 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +DTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG
+Sbjct  28   VDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  87
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG
+Sbjct  88   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  147
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPRQS  169
+            SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPRQS
+Sbjct  148  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPRQS  196
+
+
+>WP_004710709.1 MULTISPECIES: hypothetical protein [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=196
+
+ Score = 352 bits (902),  Expect = 1e-122, Method: Compositional matrix adjust.
+ Identities = 168/169 (99%), Positives = 169/169 (100%), Gaps = 0/169 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +DTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG
+Sbjct  28   VDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  87
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG
+Sbjct  88   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  147
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPRQS  169
+            SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPRQS
+Sbjct  148  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPRQS  196
+
+
+>WP_024434319.1 hypothetical protein [Acinetobacter baumannii]
+Length=196
+
+ Score = 351 bits (901),  Expect = 2e-122, Method: Compositional matrix adjust.
+ Identities = 167/169 (99%), Positives = 169/169 (100%), Gaps = 0/169 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +DTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG
+Sbjct  28   VDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  87
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG
+Sbjct  88   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  147
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPRQS  169
+            SL+NVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPRQS
+Sbjct  148  SLMNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPRQS  196
+
+
+>WP_042075231.1 hypothetical protein [Acinetobacter nosocomialis]
+Length=196
+
+ Score = 351 bits (900),  Expect = 2e-122, Method: Compositional matrix adjust.
+ Identities = 167/169 (99%), Positives = 169/169 (100%), Gaps = 0/169 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +DTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG
+Sbjct  28   VDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  87
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIH+IHQFKANHRYMFKMYRDKSNRSG
+Sbjct  88   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHIIHQFKANHRYMFKMYRDKSNRSG  147
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPRQS  169
+            SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPRQS
+Sbjct  148  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPRQS  196
+
+
+>WP_006580475.1 MULTISPECIES: hypothetical protein [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=196
+
+ Score = 350 bits (898),  Expect = 4e-122, Method: Compositional matrix adjust.
+ Identities = 167/169 (99%), Positives = 168/169 (99%), Gaps = 0/169 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +DTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG
+Sbjct  28   VDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  87
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG
+Sbjct  88   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  147
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPRQS  169
+            SLLNVSVPDPLCVDLEQDGRVIRRFCRPFD TTGLGEFLEQKKLTPRQS
+Sbjct  148  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDATTGLGEFLEQKKLTPRQS  196
+
+
+>WP_032016081.1 hypothetical protein [Acinetobacter baumannii]
+Length=196
+
+ Score = 349 bits (895),  Expect = 1e-121, Method: Compositional matrix adjust.
+ Identities = 167/169 (99%), Positives = 168/169 (99%), Gaps = 0/169 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +DTV IKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG
+Sbjct  28   VDTVGIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  87
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG
+Sbjct  88   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  147
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPRQS  169
+            SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPRQS
+Sbjct  148  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPRQS  196
+
+
+>WP_031957038.1 hypothetical protein [Acinetobacter baumannii]
+Length=196
+
+ Score = 349 bits (895),  Expect = 1e-121, Method: Compositional matrix adjust.
+ Identities = 167/169 (99%), Positives = 168/169 (99%), Gaps = 0/169 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +DTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG
+Sbjct  28   VDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  87
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SVLSQSNSLYLSVPAKQYEVVIRYY ISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG
+Sbjct  88   SVLSQSNSLYLSVPAKQYEVVIRYYTISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  147
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPRQS  169
+            SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPRQS
+Sbjct  148  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPRQS  196
+
+
+>WP_031992889.1 hypothetical protein [Acinetobacter baumannii]
+Length=196
+
+ Score = 349 bits (895),  Expect = 1e-121, Method: Compositional matrix adjust.
+ Identities = 167/169 (99%), Positives = 168/169 (99%), Gaps = 0/169 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +DTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG
+Sbjct  28   VDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  87
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG
+Sbjct  88   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  147
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPRQS  169
+            SLLNVSVPDPLCVDLEQDGR IRRFCRPFDVTTGLGEFLEQKKLTPRQS
+Sbjct  148  SLLNVSVPDPLCVDLEQDGRGIRRFCRPFDVTTGLGEFLEQKKLTPRQS  196
+
+
+>WP_039112812.1 hypothetical protein [Acinetobacter baumannii]
+Length=196
+
+ Score = 348 bits (894),  Expect = 2e-121, Method: Compositional matrix adjust.
+ Identities = 167/169 (99%), Positives = 168/169 (99%), Gaps = 0/169 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +DTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG
+Sbjct  28   VDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  87
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SVLSQSNSLYLSVPAKQYEVVIRYYPISP RAETIHVIHQFKANHRYMFKMYRDKSNRSG
+Sbjct  88   SVLSQSNSLYLSVPAKQYEVVIRYYPISPVRAETIHVIHQFKANHRYMFKMYRDKSNRSG  147
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPRQS  169
+            SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPRQS
+Sbjct  148  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPRQS  196
+
+
+>WP_023188506.1 hypothetical protein [Acinetobacter nosocomialis]
+Length=196
+
+ Score = 348 bits (892),  Expect = 4e-121, Method: Compositional matrix adjust.
+ Identities = 166/169 (98%), Positives = 168/169 (99%), Gaps = 0/169 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +DTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG
+Sbjct  28   VDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  87
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETI+VIHQFKANHRYMFKMYRDKSNRSG
+Sbjct  88   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIYVIHQFKANHRYMFKMYRDKSNRSG  147
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPRQS  169
+            SLLNVSVPDPLCVDLEQDGRVIRRFCRPFD TTGLGEFLEQKKLTPRQS
+Sbjct  148  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDATTGLGEFLEQKKLTPRQS  196
+
+
+>WP_049064493.1 hypothetical protein [Acinetobacter seifertii]
+Length=196
+
+ Score = 347 bits (890),  Expect = 6e-121, Method: Compositional matrix adjust.
+ Identities = 165/169 (98%), Positives = 168/169 (99%), Gaps = 0/169 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +DTVRIKQA+ ENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG
+Sbjct  28   VDTVRIKQAKHENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  87
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            S+LSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG
+Sbjct  88   SLLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  147
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPRQS  169
+            SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPRQS
+Sbjct  148  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPRQS  196
+
+
+>WP_004698919.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=196
+
+ Score = 345 bits (886),  Expect = 3e-120, Method: Compositional matrix adjust.
+ Identities = 164/169 (97%), Positives = 168/169 (99%), Gaps = 0/169 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +DTVRIKQA+ ENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG
+Sbjct  28   VDTVRIKQAKHENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  87
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            S+LSQSNSLYLSVPAKQYEVVIR+YPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG
+Sbjct  88   SLLSQSNSLYLSVPAKQYEVVIRFYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  147
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPRQS  169
+            SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPRQS
+Sbjct  148  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPRQS  196
+
+
+>WP_077169088.1 hypothetical protein [Acinetobacter genomosp. 33YU]
+Length=196
+
+ Score = 344 bits (882),  Expect = 1e-119, Method: Compositional matrix adjust.
+ Identities = 163/169 (96%), Positives = 167/169 (99%), Gaps = 0/169 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +DTVRIKQA+ ENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG
+Sbjct  28   VDTVRIKQAKHENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  87
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            S+LSQ NSLYLSVPAKQYEVVIR+YPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG
+Sbjct  88   SLLSQGNSLYLSVPAKQYEVVIRFYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  147
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPRQS  169
+            SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPRQS
+Sbjct  148  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPRQS  196
+
+
+>WP_069141732.1 hypothetical protein [Acinetobacter pittii]
+Length=194
+
+ Score = 337 bits (865),  Expect = 5e-117, Method: Compositional matrix adjust.
+ Identities = 160/167 (96%), Positives = 163/167 (98%), Gaps = 0/167 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +DTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRL G
+Sbjct  28   VDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLQG  87
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SVLSQ+NSLYLSVPAKQYEVVIR+YPISPDRAET HVIHQF ANHRY FKMYRDKSNRSG
+Sbjct  88   SVLSQTNSLYLSVPAKQYEVVIRFYPISPDRAETFHVIHQFNANHRYTFKMYRDKSNRSG  147
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPR  167
+            SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPR
+Sbjct  148  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPR  194
+
+
+>WP_061874225.1 hypothetical protein [Acinetobacter dijkshoorniae]
+Length=194
+
+ Score = 336 bits (862),  Expect = 1e-116, Method: Compositional matrix adjust.
+ Identities = 159/167 (95%), Positives = 164/167 (98%), Gaps = 0/167 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +DTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRL G
+Sbjct  28   VDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLQG  87
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SVLS++NSLYLSVPAKQYEVVIR+YPISPDRAETIHVIHQF ANHRY FKMYRDK+NRSG
+Sbjct  88   SVLSETNSLYLSVPAKQYEVVIRFYPISPDRAETIHVIHQFNANHRYTFKMYRDKTNRSG  147
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPR  167
+            SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPR
+Sbjct  148  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPR  194
+
+
+>WP_032054333.1 hypothetical protein [Acinetobacter baumannii]
+Length=194
+
+ Score = 335 bits (860),  Expect = 2e-116, Method: Compositional matrix adjust.
+ Identities = 158/167 (95%), Positives = 163/167 (98%), Gaps = 0/167 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +DTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRL G
+Sbjct  28   VDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLQG  87
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SVLSQ+NSLYLSVPAKQYEVVIR+YPISPDRAETIHVIHQF ANHRY FKMYRDK+NRSG
+Sbjct  88   SVLSQTNSLYLSVPAKQYEVVIRFYPISPDRAETIHVIHQFNANHRYTFKMYRDKTNRSG  147
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPR  167
+            SLLNVSVPDPLCVDLEQDG V+RRFCRPFDVTTGLGEFLEQKKLTPR
+Sbjct  148  SLLNVSVPDPLCVDLEQDGHVVRRFCRPFDVTTGLGEFLEQKKLTPR  194
+
+
+>WP_068565208.1 hypothetical protein [Acinetobacter pittii]
+Length=194
+
+ Score = 335 bits (860),  Expect = 2e-116, Method: Compositional matrix adjust.
+ Identities = 159/167 (95%), Positives = 162/167 (97%), Gaps = 0/167 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +DTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVD QTRRISNQAIHQGIVRL G
+Sbjct  28   VDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDTQTRRISNQAIHQGIVRLQG  87
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SVLSQ+NSLYLSVPAKQYEVVIR+YPISPDRAET HVIHQF ANHRY FKMYRDKSNRSG
+Sbjct  88   SVLSQTNSLYLSVPAKQYEVVIRFYPISPDRAETFHVIHQFNANHRYTFKMYRDKSNRSG  147
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPR  167
+            SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPR
+Sbjct  148  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPR  194
+
+
+>WP_005066026.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+ YP_004997597.1 hypothetical protein BDGL_003329 [Acinetobacter pittii PHEA-2]
+Length=194
+
+ Score = 335 bits (859),  Expect = 3e-116, Method: Compositional matrix adjust.
+ Identities = 159/167 (95%), Positives = 162/167 (97%), Gaps = 0/167 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +DTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRL G
+Sbjct  28   VDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLQG  87
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SVLSQ+NSLYLSVPAKQYEVVIR+YPISPDRAET HVIHQF ANHRY FKMYRDKSNRSG
+Sbjct  88   SVLSQTNSLYLSVPAKQYEVVIRFYPISPDRAETFHVIHQFNANHRYTFKMYRDKSNRSG  147
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPR  167
+            SLLNVSVPDPLCVDLEQDG VIRRFCRPFDVTTGLGEFLEQKKLTPR
+Sbjct  148  SLLNVSVPDPLCVDLEQDGHVIRRFCRPFDVTTGLGEFLEQKKLTPR  194
+
+
+>WP_032042095.1 MULTISPECIES: hypothetical protein [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=194
+
+ Score = 335 bits (859),  Expect = 4e-116, Method: Compositional matrix adjust.
+ Identities = 159/167 (95%), Positives = 162/167 (97%), Gaps = 0/167 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +DTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRL G
+Sbjct  28   VDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLQG  87
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SVLSQ+NSLYLSVPAKQYEVVIR+YPISPDRAET HVIHQF ANHRY FKMYRDKSNRSG
+Sbjct  88   SVLSQTNSLYLSVPAKQYEVVIRFYPISPDRAETFHVIHQFNANHRYTFKMYRDKSNRSG  147
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPR  167
+            SLLNVSVPDPLCVDLEQDG VIRRFCRPFDVTTGLGEFLEQKKLTPR
+Sbjct  148  SLLNVSVPDPLCVDLEQDGHVIRRFCRPFDVTTGLGEFLEQKKLTPR  194
+
+
+>WP_003654712.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=196
+
+ Score = 335 bits (859),  Expect = 4e-116, Method: Compositional matrix adjust.
+ Identities = 159/169 (94%), Positives = 164/169 (97%), Gaps = 0/169 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +DTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRL+G
+Sbjct  28   VDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLHG  87
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SVL Q+NSLYLSVPAKQYEVVIR+YPISPDRAETIHVIHQF ANHRY FKMYRDK+NRSG
+Sbjct  88   SVLGQTNSLYLSVPAKQYEVVIRFYPISPDRAETIHVIHQFNANHRYTFKMYRDKTNRSG  147
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPRQS  169
+            SLLNVSVPDPLCVDLEQD RVIRRFCRPFDVTTGLGEFLEQKKLTPR S
+Sbjct  148  SLLNVSVPDPLCVDLEQDERVIRRFCRPFDVTTGLGEFLEQKKLTPRSS  196
+
+
+>WP_016139366.1 hypothetical protein [Acinetobacter calcoaceticus]
+Length=194
+
+ Score = 335 bits (858),  Expect = 4e-116, Method: Compositional matrix adjust.
+ Identities = 158/167 (95%), Positives = 164/167 (98%), Gaps = 0/167 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +DTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRL+G
+Sbjct  28   VDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLHG  87
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SVL Q+NSLYLSVPAKQYEVVIR+YPISPDRAETIHVIHQF ANHRY FKMYRDK+NRSG
+Sbjct  88   SVLGQTNSLYLSVPAKQYEVVIRFYPISPDRAETIHVIHQFNANHRYTFKMYRDKTNRSG  147
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPR  167
+            SLLNVSVPDPLCVDL+QDGRVIRRFCRPFDVTTGLGEFLEQKKLTPR
+Sbjct  148  SLLNVSVPDPLCVDLDQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPR  194
+
+
+>WP_005302052.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=194
+
+ Score = 334 bits (856),  Expect = 9e-116, Method: Compositional matrix adjust.
+ Identities = 158/167 (95%), Positives = 163/167 (98%), Gaps = 0/167 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +DTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRL+G
+Sbjct  28   VDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLHG  87
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SVL Q+NSLYLSVPAKQYEVVIR+YPISPDRAET HVIHQF ANHRY FKMYRDKSNRSG
+Sbjct  88   SVLGQTNSLYLSVPAKQYEVVIRFYPISPDRAETFHVIHQFNANHRYTFKMYRDKSNRSG  147
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPR  167
+            SLLNVSVPDPLCVDL+QDGRVIRRFCRPFDVTTGLGEFLEQKKLTPR
+Sbjct  148  SLLNVSVPDPLCVDLDQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPR  194
+
+
+>WP_016144240.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=196
+
+ Score = 333 bits (854),  Expect = 2e-115, Method: Compositional matrix adjust.
+ Identities = 158/168 (94%), Positives = 164/168 (98%), Gaps = 0/168 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +DTVRIKQAEQ++LGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRL G
+Sbjct  28   VDTVRIKQAEQDSLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLQG  87
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SVLSQSNSLYLSVPAKQYEVVIR+YPISPDRAETIHVIHQF ANHRY FKMYRDK+NRSG
+Sbjct  88   SVLSQSNSLYLSVPAKQYEVVIRFYPISPDRAETIHVIHQFNANHRYTFKMYRDKTNRSG  147
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPRQ  168
+            SLLNVSVPDPLCVDLEQD RVIRRFCRPFDVTTGLGEF+EQKKLTPRQ
+Sbjct  148  SLLNVSVPDPLCVDLEQDERVIRRFCRPFDVTTGLGEFVEQKKLTPRQ  195
+
+
+>WP_045126242.1 hypothetical protein [Acinetobacter calcoaceticus]
+Length=194
+
+ Score = 333 bits (854),  Expect = 2e-115, Method: Compositional matrix adjust.
+ Identities = 158/167 (95%), Positives = 163/167 (98%), Gaps = 0/167 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +DTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRL+G
+Sbjct  28   VDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLHG  87
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SVL Q+NSLYLSVPAKQYEVVIR+YPISPDRAETIHVIHQF ANHRY FKMYRDK+NRSG
+Sbjct  88   SVLGQTNSLYLSVPAKQYEVVIRFYPISPDRAETIHVIHQFNANHRYTFKMYRDKTNRSG  147
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPR  167
+            SLLNVSVPDPLCVDLEQD RVIRRFCRPFDVTTGLGEFLEQKKLTPR
+Sbjct  148  SLLNVSVPDPLCVDLEQDERVIRRFCRPFDVTTGLGEFLEQKKLTPR  194
+
+
+>WP_069122096.1 hypothetical protein [Acinetobacter pittii]
+Length=194
+
+ Score = 333 bits (853),  Expect = 3e-115, Method: Compositional matrix adjust.
+ Identities = 158/167 (95%), Positives = 161/167 (96%), Gaps = 0/167 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +DTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRL G
+Sbjct  28   VDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLQG  87
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SVLSQ+N LYLSVPAKQYEVVIR+YPISPDRAET HVIHQF ANHRY FKMYRDKSNRSG
+Sbjct  88   SVLSQTNRLYLSVPAKQYEVVIRFYPISPDRAETFHVIHQFNANHRYTFKMYRDKSNRSG  147
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPR  167
+            SLLNVSVPDPLCVDLEQDG VIRRFCRPFDVTTGLGEFLEQKKLTPR
+Sbjct  148  SLLNVSVPDPLCVDLEQDGHVIRRFCRPFDVTTGLGEFLEQKKLTPR  194
+
+
+>WP_016142302.1 hypothetical protein [Acinetobacter pittii]
+Length=194
+
+ Score = 331 bits (849),  Expect = 1e-114, Method: Compositional matrix adjust.
+ Identities = 156/167 (93%), Positives = 162/167 (97%), Gaps = 0/167 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +DTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRL G
+Sbjct  28   VDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLQG  87
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SVLS++NSLYLSVPAKQYEVVIR+YPISPDRAETIHVIHQF ANHRY FKMYRDK+NRSG
+Sbjct  88   SVLSETNSLYLSVPAKQYEVVIRFYPISPDRAETIHVIHQFNANHRYTFKMYRDKTNRSG  147
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPR  167
+            SLLNVSVPDPLCVDLEQD  V+RRFCRPFDVTTGLGEFLEQKKLTPR
+Sbjct  148  SLLNVSVPDPLCVDLEQDEHVVRRFCRPFDVTTGLGEFLEQKKLTPR  194
+
+
+>WP_004794858.1 hypothetical protein [Acinetobacter sp. NIPH 817]
+Length=194
+
+ Score = 330 bits (846),  Expect = 3e-114, Method: Compositional matrix adjust.
+ Identities = 156/167 (93%), Positives = 163/167 (98%), Gaps = 0/167 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +DTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRL+G
+Sbjct  28   VDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLHG  87
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SVL Q+NSLYLSVPAKQYEVVIR+YPISPDRAETIHVIHQF ANHRY FKMYRDK+NRSG
+Sbjct  88   SVLGQTNSLYLSVPAKQYEVVIRFYPISPDRAETIHVIHQFNANHRYTFKMYRDKTNRSG  147
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPR  167
+            SLLNVSVPDPLCVDLEQD RVIRRFCRPF+VTTGLGEF+EQKKLTPR
+Sbjct  148  SLLNVSVPDPLCVDLEQDERVIRRFCRPFNVTTGLGEFVEQKKLTPR  194
+
+
+>WP_009393104.1 hypothetical protein [Acinetobacter sp. WC-141]
+Length=194
+
+ Score = 329 bits (844),  Expect = 6e-114, Method: Compositional matrix adjust.
+ Identities = 156/167 (93%), Positives = 161/167 (96%), Gaps = 0/167 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +DTVRIKQAEQENLGQNA IYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRL+G
+Sbjct  28   VDTVRIKQAEQENLGQNAVIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLHG  87
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SVL Q+NSLYLSVPAKQYEVVIR+YPISPDRAET HVIHQF ANHRY FKMYRDKSNRSG
+Sbjct  88   SVLGQTNSLYLSVPAKQYEVVIRFYPISPDRAETFHVIHQFNANHRYTFKMYRDKSNRSG  147
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPR  167
+            SLLNVSVPDPLCVDL+QDGRVIRRFCRPFDVTTGLGEFLEQKKLT R
+Sbjct  148  SLLNVSVPDPLCVDLDQDGRVIRRFCRPFDVTTGLGEFLEQKKLTSR  194
+
+
+>WP_046811456.1 hypothetical protein [Acinetobacter pittii]
+Length=194
+
+ Score = 328 bits (840),  Expect = 3e-113, Method: Compositional matrix adjust.
+ Identities = 155/167 (93%), Positives = 161/167 (96%), Gaps = 0/167 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +DTVRIKQAEQENLGQNA IYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRL G
+Sbjct  28   VDTVRIKQAEQENLGQNATIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLQG  87
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SVLSQ+NSLYLSVPAKQYEVVIR+YPISPDRAETIHVIHQF ANHRY FKMYRDK+NRSG
+Sbjct  88   SVLSQTNSLYLSVPAKQYEVVIRFYPISPDRAETIHVIHQFNANHRYTFKMYRDKTNRSG  147
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPR  167
+            SLLNVSVPDPLCVDLEQD RVIRRFCRPF+V TGLGEF+EQKKLTPR
+Sbjct  148  SLLNVSVPDPLCVDLEQDERVIRRFCRPFNVITGLGEFVEQKKLTPR  194
+
+
+>WP_032064741.1 hypothetical protein, partial [Acinetobacter baumannii]
+Length=156
+
+ Score = 326 bits (836),  Expect = 3e-113, Method: Compositional matrix adjust.
+ Identities = 156/156 (100%), Positives = 156/156 (100%), Gaps = 0/156 (0%)
+
+Query  14   LGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNGSVLSQSNSLYLSV  73
+            LGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNGSVLSQSNSLYLSV
+Sbjct  1    LGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNGSVLSQSNSLYLSV  60
+
+Query  74   PAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSGSLLNVSVPDPLCV  133
+            PAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSGSLLNVSVPDPLCV
+Sbjct  61   PAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSGSLLNVSVPDPLCV  120
+
+Query  134  DLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPRQS  169
+            DLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPRQS
+Sbjct  121  DLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPRQS  156
+
+
+>WP_050675104.1 hypothetical protein [Acinetobacter sp. 1475718]
+Length=148
+
+ Score = 296 bits (758),  Expect = 2e-101, Method: Compositional matrix adjust.
+ Identities = 140/148 (95%), Positives = 143/148 (97%), Gaps = 0/148 (0%)
+
+Query  20   IYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNGSVLSQSNSLYLSVPAKQYE  79
+            +YCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRL GSVLSQ+NSLYLSVPAKQYE
+Sbjct  1    MYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLQGSVLSQTNSLYLSVPAKQYE  60
+
+Query  80   VVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSGSLLNVSVPDPLCVDLEQDG  139
+            VVIR+YPISPDRAET HVIHQF ANHRY FKMYRDKSNRSGSLLNVSVPDPLCVDLEQDG
+Sbjct  61   VVIRFYPISPDRAETFHVIHQFNANHRYTFKMYRDKSNRSGSLLNVSVPDPLCVDLEQDG  120
+
+Query  140  RVIRRFCRPFDVTTGLGEFLEQKKLTPR  167
+             VIRRFCRPFDVTTGLGEFLEQKKLTPR
+Sbjct  121  HVIRRFCRPFDVTTGLGEFLEQKKLTPR  148
+
+
+>WP_002045593.1 hypothetical protein, partial [Acinetobacter baumannii]
+Length=136
+
+ Score = 283 bits (725),  Expect = 1e-096, Method: Compositional matrix adjust.
+ Identities = 136/136 (100%), Positives = 136/136 (100%), Gaps = 0/136 (0%)
+
+Query  34   NDITVVDAQTRRISNQAIHQGIVRLNGSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAE  93
+            NDITVVDAQTRRISNQAIHQGIVRLNGSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAE
+Sbjct  1    NDITVVDAQTRRISNQAIHQGIVRLNGSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAE  60
+
+Query  94   TIHVIHQFKANHRYMFKMYRDKSNRSGSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTT  153
+            TIHVIHQFKANHRYMFKMYRDKSNRSGSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTT
+Sbjct  61   TIHVIHQFKANHRYMFKMYRDKSNRSGSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTT  120
+
+Query  154  GLGEFLEQKKLTPRQS  169
+            GLGEFLEQKKLTPRQS
+Sbjct  121  GLGEFLEQKKLTPRQS  136
+
+
+>WP_075880234.1 hypothetical protein, partial [Acinetobacter baumannii]
+Length=155
+
+ Score = 265 bits (676),  Expect = 8e-089, Method: Compositional matrix adjust.
+ Identities = 127/128 (99%), Positives = 128/128 (100%), Gaps = 0/128 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +DTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG
+Sbjct  28   VDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  87
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG
+Sbjct  88   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  147
+
+Query  121  SLLNVSVP  128
+            SLLNVSVP
+Sbjct  148  SLLNVSVP  155
+
+
+>WP_034682737.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=190
+
+ Score = 244 bits (623),  Expect = 3e-080, Method: Compositional matrix adjust.
+ Identities = 113/162 (70%), Positives = 136/162 (84%), Gaps = 0/162 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +DTVRIK AE+     NA IYCSG ++CEFER+NDI +VD  T R++++AI +GIVRL G
+Sbjct  28   VDTVRIKYAEKPESQTNALIYCSGTENCEFERINDIQIVDPLTHRVNSEAIREGIVRLQG  87
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            S LSQ N LYLSVPAKQYEVVIR+YPIS DRAE +HVIHQFKAN RY F M+RD+S+R+G
+Sbjct  88   SSLSQPNPLYLSVPAKQYEVVIRFYPISQDRAEKLHVIHQFKANQRYTFHMFRDRSSRTG  147
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            SLLNVS PDPLCVDL+Q+ R IRRFCRP++V TGLGEF+E+K
+Sbjct  148  SLLNVSAPDPLCVDLQQEKRTIRRFCRPYNVLTGLGEFVEKK  189
+
+
+>WP_004932701.1 hypothetical protein [Acinetobacter soli]
+Length=190
+
+ Score = 244 bits (622),  Expect = 3e-080, Method: Compositional matrix adjust.
+ Identities = 117/163 (72%), Positives = 133/163 (82%), Gaps = 2/163 (1%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +DT+RIKQAE   L  NA IYCSGA+ CEFERLN   +VDAQ  R+S QA+HQGIVRL G
+Sbjct  28   VDTLRIKQAE-SGLNSNATIYCSGAQLCEFERLNTTPIVDAQKHRVSEQALHQGIVRLEG  86
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS-  119
+            SV S  NS+YLSVP +QYE+VIR+YPIS DRAET HVIHQFKAN RY FKMYRD+S  S 
+Sbjct  87   SVFSPVNSMYLSVPPQQYELVIRFYPISRDRAETFHVIHQFKANQRYTFKMYRDRSKHSG  146
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLLNVS P+PLCV+LEQ+ R IRRFCRPFD  TGLGEF+EQ+
+Sbjct  147  GSLLNVSAPEPLCVELEQENRPIRRFCRPFDAITGLGEFIEQR  189
+
+
+>WP_004920231.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=190
+
+ Score = 243 bits (621),  Expect = 5e-080, Method: Compositional matrix adjust.
+ Identities = 112/163 (69%), Positives = 134/163 (82%), Gaps = 2/163 (1%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +DT+RIKQAE   L  NA IYC+GAK CEFER+N   +VD Q  R++ QA+HQG+VRL G
+Sbjct  28   VDTLRIKQAE-TGLSSNATIYCTGAKQCEFERINTTIIVDPQNHRVTEQALHQGLVRLQG  86
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS-  119
+            SV S +NS+YLSVPA+QYE+VIR+YPISPDRAET HVIH+FKAN RY FKMYRD+S  + 
+Sbjct  87   SVFSPANSMYLSVPAQQYELVIRFYPISPDRAETFHVIHRFKANQRYTFKMYRDRSKHTG  146
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLLNVS P+PLCV+LEQ+   IRRFCRPFD  TGLGEF+EQ+
+Sbjct  147  GSLLNVSAPEPLCVELEQESHPIRRFCRPFDAVTGLGEFIEQR  189
+
+
+>WP_005016754.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=190
+
+ Score = 242 bits (618),  Expect = 2e-079, Method: Compositional matrix adjust.
+ Identities = 112/162 (69%), Positives = 136/162 (84%), Gaps = 0/162 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +DTVRIK AE+     NA IYCSG ++CEFER++DI +VD  T R++++AI +GIVRL G
+Sbjct  28   VDTVRIKYAEKPESQTNALIYCSGTENCEFERISDIQIVDPLTHRVNSEAIREGIVRLQG  87
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            S LSQ N LYLSVPAKQYEVVIR+YPIS DRAE +HVIHQFKAN RY F M+RD+S+R+G
+Sbjct  88   SSLSQPNPLYLSVPAKQYEVVIRFYPISQDRAEKLHVIHQFKANQRYTFHMFRDRSSRTG  147
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            SLLNVS PDPLCVDL+Q+ R IRRFCRP++V TGLGEF+E+K
+Sbjct  148  SLLNVSAPDPLCVDLQQEKRTIRRFCRPYNVLTGLGEFVEKK  189
+
+
+>WP_004943812.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=190
+
+ Score = 242 bits (617),  Expect = 2e-079, Method: Compositional matrix adjust.
+ Identities = 116/163 (71%), Positives = 132/163 (81%), Gaps = 2/163 (1%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +DT+RIKQAE   L  NA IYCSGA+ CEFERLN   +VDAQ  R+S QA+HQGIVRL G
+Sbjct  28   VDTLRIKQAE-SGLNSNATIYCSGAQLCEFERLNTTPIVDAQKHRVSEQALHQGIVRLEG  86
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS-  119
+            SV S  NS+YLSVP +QYE+VIR+YPIS DRAET HVIHQFKAN RY FKMYRD+S  S 
+Sbjct  87   SVFSPVNSMYLSVPPQQYELVIRFYPISRDRAETFHVIHQFKANQRYTFKMYRDRSKHSG  146
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLLNVS P+PLCV+LEQ+   IRRFCRPFD  TGLGEF+EQ+
+Sbjct  147  GSLLNVSAPEPLCVELEQENHPIRRFCRPFDAITGLGEFIEQR  189
+
+
+>WP_005403619.1 hypothetical protein [Acinetobacter junii]
+Length=191
+
+ Score = 241 bits (615),  Expect = 4e-079, Method: Compositional matrix adjust.
+ Identities = 111/162 (69%), Positives = 134/162 (83%), Gaps = 0/162 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +D VRI Q   E+  +NA +YCSG  +CEFERL DI V+D ++RRIS+QA+ +GIVRL+G
+Sbjct  29   VDQVRIAQNALEDKAENATLYCSGVDNCEFERLGDIVVMDPKSRRISSQAMEKGIVRLHG  88
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+             V S+   +YLSVPAKQYEVVIRYYPISPDRAET HVIH FK+N RY FKMYRD+ ++SG
+Sbjct  89   PVFSRKQQVYLSVPAKQYEVVIRYYPISPDRAETFHVIHAFKSNQRYTFKMYRDRVHQSG  148
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            SLL VSVP+PLCVDL Q+ R IRRFCRPFDV+TGLGEF+E+K
+Sbjct  149  SLLKVSVPEPLCVDLLQEQRTIRRFCRPFDVSTGLGEFVEKK  190
+
+
+>WP_004957691.1 hypothetical protein [Acinetobacter junii]
+Length=191
+
+ Score = 241 bits (614),  Expect = 6e-079, Method: Compositional matrix adjust.
+ Identities = 110/162 (68%), Positives = 134/162 (83%), Gaps = 0/162 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +D VRI Q   E+  +NA +YCSG  +CEFERL D  V+D ++RRIS+QA+ +GIVRL+G
+Sbjct  29   VDQVRIAQNALEDKAENATLYCSGVDNCEFERLGDTVVMDPKSRRISSQAMEKGIVRLHG  88
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+             V S+   +YLSVPAKQYEVVIRYYPISPDRAET HVIH FK+N RY FKMYRD++++SG
+Sbjct  89   PVFSRKQQVYLSVPAKQYEVVIRYYPISPDRAETFHVIHAFKSNQRYTFKMYRDRAHQSG  148
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            SLL VSVP+PLCVDL Q+ R IRRFCRPFDV+TGLGEF+E+K
+Sbjct  149  SLLKVSVPEPLCVDLLQEQRTIRRFCRPFDVSTGLGEFVEKK  190
+
+
+>WP_004958798.1 hypothetical protein [Acinetobacter junii]
+Length=191
+
+ Score = 241 bits (614),  Expect = 7e-079, Method: Compositional matrix adjust.
+ Identities = 110/162 (68%), Positives = 134/162 (83%), Gaps = 0/162 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +D VRI Q   E+  +NA +YCSG  +CEFERL D  V+D ++RRIS+QA+ +GIVRL+G
+Sbjct  29   VDQVRIAQNALEDKAENATLYCSGVDNCEFERLGDTVVMDPKSRRISSQAMEKGIVRLHG  88
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+             V S+   +YLSVPAKQYEVVIRYYPISPDRAET HVIH FK+N RY FKMYRD++++SG
+Sbjct  89   PVFSRKQQVYLSVPAKQYEVVIRYYPISPDRAETFHVIHAFKSNQRYTFKMYRDRAHQSG  148
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            SLL VSVP+PLCVDL Q+ R IRRFCRPFDV+TGLGEF+E+K
+Sbjct  149  SLLKVSVPEPLCVDLLQEQRTIRRFCRPFDVSTGLGEFVEKK  190
+
+
+>WP_032859189.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=191
+
+ Score = 241 bits (614),  Expect = 7e-079, Method: Compositional matrix adjust.
+ Identities = 110/162 (68%), Positives = 133/162 (82%), Gaps = 0/162 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +D VRI Q   E+   N  +YCSG ++CEFER+ DI V+DA+T RIS QA+ +GIVRL+G
+Sbjct  29   VDQVRIAQNTLESKADNTTLYCSGVENCEFERIGDIAVIDAKTHRISQQAMERGIVRLHG  88
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SV S+   +YLSVPAKQYEVVIR+YPISPDR+ET HVIH FK + RY FKMYRD++ RSG
+Sbjct  89   SVFSRKQQVYLSVPAKQYEVVIRFYPISPDRSETFHVIHAFKPHVRYTFKMYRDRTRRSG  148
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            SLLNVSVPDPLCVDL+Q+   IRRFCRPFDV+TGLGEF+E+K
+Sbjct  149  SLLNVSVPDPLCVDLQQEQHTIRRFCRPFDVSTGLGEFVEKK  190
+
+
+>WP_026057512.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=191
+
+ Score = 240 bits (613),  Expect = 8e-079, Method: Compositional matrix adjust.
+ Identities = 110/162 (68%), Positives = 132/162 (81%), Gaps = 0/162 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +D VRI Q   E    N  +YCSG ++CEFER+ DI V+DA+T RIS QA+ +GIVRL+G
+Sbjct  29   VDQVRIAQNTLETKADNTTLYCSGVENCEFERIGDIAVIDAKTHRISQQAMERGIVRLHG  88
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SV S+   +YLSVPAKQYEVVIR+YPISPDR+ET HVIH FK + RY FKMYRD++ RSG
+Sbjct  89   SVFSRKQQVYLSVPAKQYEVVIRFYPISPDRSETFHVIHAFKPHVRYTFKMYRDRTRRSG  148
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            SLLNVSVPDPLCVDL+Q+   IRRFCRPFDV+TGLGEF+E+K
+Sbjct  149  SLLNVSVPDPLCVDLQQEQHTIRRFCRPFDVSTGLGEFVEKK  190
+
+
+>WP_038344871.1 hypothetical protein [Acinetobacter sp. A47]
+Length=191
+
+ Score = 240 bits (613),  Expect = 1e-078, Method: Compositional matrix adjust.
+ Identities = 110/162 (68%), Positives = 133/162 (82%), Gaps = 0/162 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +D VRI Q   E+   N  +YCSG +SCEFER+ +I V+DA+T RIS QA+ +GIVRL+G
+Sbjct  29   VDQVRIAQNTLESKADNTTLYCSGVESCEFERIGNIAVIDAKTHRISQQAMERGIVRLHG  88
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SV S+   +YLS+PAKQYEVVIR+YPISPDRAET HVIH FK + RY FKMYRD++ RSG
+Sbjct  89   SVFSRKQQVYLSLPAKQYEVVIRFYPISPDRAETFHVIHAFKPHVRYTFKMYRDRTRRSG  148
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            SLLNVSVPDPLCVDL+Q+   IRRFCRPFDV+TGLGEF+E+K
+Sbjct  149  SLLNVSVPDPLCVDLQQEQHTIRRFCRPFDVSTGLGEFVEKK  190
+
+
+>WP_004800179.1 hypothetical protein [Acinetobacter sp. CIP 102637]
+Length=191
+
+ Score = 239 bits (611),  Expect = 2e-078, Method: Compositional matrix adjust.
+ Identities = 107/162 (66%), Positives = 132/162 (81%), Gaps = 0/162 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +D VRI Q   EN   NA +YCSG ++CEFER+NDI V+DA++ RIS QA+  GI+RL+G
+Sbjct  29   VDQVRITQTTLENKVNNATLYCSGVENCEFERINDIVVMDAKSHRISRQAMEHGIIRLDG  88
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SV S+   +YLS+PAKQYEVVIR+YPISPDRAE  HVIH+FK + RY FKMYRD+  RSG
+Sbjct  89   SVFSRKQQIYLSIPAKQYEVVIRFYPISPDRAEMFHVIHEFKPHQRYTFKMYRDREKRSG  148
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            SLLNVS P+PLCVDL+Q+   IRRFCRP+DV+TGLGEF+E+K
+Sbjct  149  SLLNVSAPEPLCVDLQQEQHTIRRFCRPYDVSTGLGEFVEKK  190
+
+
+>WP_005162685.1 hypothetical protein [Acinetobacter sp. NIPH 284]
+Length=191
+
+ Score = 239 bits (611),  Expect = 2e-078, Method: Compositional matrix adjust.
+ Identities = 108/162 (67%), Positives = 134/162 (83%), Gaps = 0/162 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +D VRI Q    N  +NA +YCSG ++CEFER+NDI V+DA++ RIS QA+ QGIVRL+G
+Sbjct  29   VDQVRIAQNTVGNKAENATLYCSGVENCEFERINDIAVIDAKSHRISQQAMEQGIVRLHG  88
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SV S+   +YL+VPAKQYEVVIR+YPISPDRAET HVIH FK +  Y FKMYRD++ RSG
+Sbjct  89   SVFSRKQQIYLNVPAKQYEVVIRFYPISPDRAETFHVIHAFKPHQSYTFKMYRDRAYRSG  148
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            SLLNVS+P+PLCVDL+Q+   IRRFCRP+DV+TGLGEF+E+K
+Sbjct  149  SLLNVSIPEPLCVDLQQEQHTIRRFCRPYDVSTGLGEFVEKK  190
+
+
+>WP_004916614.1 hypothetical protein [Acinetobacter junii]
+Length=191
+
+ Score = 239 bits (609),  Expect = 3e-078, Method: Compositional matrix adjust.
+ Identities = 110/162 (68%), Positives = 133/162 (82%), Gaps = 0/162 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +D VRI Q   E+  +NA +YC+G  +CEFERL DI V+D ++RRIS QA+ +GIVRL+G
+Sbjct  29   VDQVRIAQNALEDKAENATLYCTGVDNCEFERLGDIVVMDPKSRRISLQAMEKGIVRLHG  88
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+             V S+   +YLSVPAKQYEVVIRYYPISPDRAET HVIH FK+N RY FKMYRD+ ++SG
+Sbjct  89   PVFSRKQQVYLSVPAKQYEVVIRYYPISPDRAETFHVIHAFKSNQRYTFKMYRDRVHQSG  148
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            SLL VSVP+PLCVDL Q+ R IRRFCRPFDV+TGLGEF+E+K
+Sbjct  149  SLLKVSVPEPLCVDLLQEQRTIRRFCRPFDVSTGLGEFVEKK  190
+
+
+>WP_004656044.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=191
+
+ Score = 239 bits (609),  Expect = 4e-078, Method: Compositional matrix adjust.
+ Identities = 109/162 (67%), Positives = 133/162 (82%), Gaps = 0/162 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +D VRI Q   E+   N  +YCSG ++CEFER+ DI V+DA+T RIS +A+ +GIVRL+G
+Sbjct  29   VDQVRIAQNTLESKADNTTLYCSGVENCEFERIGDIDVIDAKTHRISQKAMERGIVRLHG  88
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SV S+   +YLSVPAKQYEVVIR+YPISPDR+ET HVIH FK + RY FKMYRD++ RSG
+Sbjct  89   SVFSRKQQVYLSVPAKQYEVVIRFYPISPDRSETFHVIHAFKPHVRYTFKMYRDRTRRSG  148
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            SLLNVSVPDPLCVDL+Q+   IRRFCRPFDV+TGLGEF+E+K
+Sbjct  149  SLLNVSVPDPLCVDLQQEQHTIRRFCRPFDVSTGLGEFVEKK  190
+
+
+>WP_005051240.1 hypothetical protein [Acinetobacter beijerinckii]
+Length=191
+
+ Score = 239 bits (609),  Expect = 5e-078, Method: Compositional matrix adjust.
+ Identities = 108/162 (67%), Positives = 134/162 (83%), Gaps = 0/162 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +D VRI Q   E+  +N  +YCSG ++CEFER+ DI V+DA+T RIS QA+ +GIVRL+G
+Sbjct  29   VDQVRIAQNTLESKAENTTLYCSGVENCEFERIGDIAVIDAKTHRISQQAMERGIVRLHG  88
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SV ++   +YLSVPAKQYEVVIR+YPISPDRAET HVIH FK + RY FKM+RD++ RSG
+Sbjct  89   SVFTRKQQVYLSVPAKQYEVVIRFYPISPDRAETFHVIHAFKPHLRYTFKMFRDRTYRSG  148
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            SLLNVSVP+PLCVDL+Q+   IRRFCRPFDV+TGLGEF+E+K
+Sbjct  149  SLLNVSVPEPLCVDLQQEQHTIRRFCRPFDVSTGLGEFVEKK  190
+
+
+>WP_061524234.1 hypothetical protein [Acinetobacter venetianus]
+Length=191
+
+ Score = 238 bits (608),  Expect = 5e-078, Method: Compositional matrix adjust.
+ Identities = 108/162 (67%), Positives = 133/162 (82%), Gaps = 0/162 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +D VRI Q   E+   NA +YCSG  +CEFER+NDI V+DA++ R+S QAI +GIVRL+G
+Sbjct  29   VDQVRIAQNTLEDKANNATLYCSGVDNCEFERINDIGVIDAKSHRVSQQAIEKGIVRLHG  88
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            S+LS++  +YLSVPAKQYEVVIRYYPISPDRAET H+IH FK + RY FKMYRD++NR  
+Sbjct  89   SILSRNQQVYLSVPAKQYEVVIRYYPISPDRAETFHIIHAFKPHTRYTFKMYRDRANRVE  148
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            +LLN S PDPLCVDL Q+ R+IRRFCRP+DV TGLGEF+E+K
+Sbjct  149  NLLNASAPDPLCVDLLQEERMIRRFCRPYDVKTGLGEFVEKK  190
+
+
+>WP_004876663.1 hypothetical protein [Acinetobacter venetianus]
+Length=191
+
+ Score = 238 bits (608),  Expect = 5e-078, Method: Compositional matrix adjust.
+ Identities = 108/162 (67%), Positives = 133/162 (82%), Gaps = 0/162 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +D VRI Q   E+   NA +YCSG  +CEFER+NDI V+DA++ R+S QAI +GIVRL+G
+Sbjct  29   VDQVRIAQNTLEDKANNATLYCSGVDNCEFERINDIGVIDAKSHRVSQQAIEKGIVRLHG  88
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            S+LS++  +YLSVPAKQYEVVIRYYPISPDRAET H+IH FK + RY FKMYRD++NR  
+Sbjct  89   SILSRNQQVYLSVPAKQYEVVIRYYPISPDRAETFHIIHAFKPHTRYTFKMYRDRANRVE  148
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            +LLN S PDPLCVDL Q+ R+IRRFCRP+DV TGLGEF+E+K
+Sbjct  149  NLLNASAPDPLCVDLLQEERMIRRFCRPYDVKTGLGEFVEKK  190
+
+
+>WP_005155099.1 hypothetical protein [Acinetobacter sp. ANC 3929]
+Length=192
+
+ Score = 238 bits (607),  Expect = 7e-078, Method: Compositional matrix adjust.
+ Identities = 111/163 (68%), Positives = 134/163 (82%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +D VRI Q   E+   NA +YCSG ++CEFER+ DI V+DA+T RIS QA+ +GIVRL+G
+Sbjct  29   VDQVRIAQNTLESKADNATLYCSGVENCEFERIGDIAVIDAKTHRISQQAMQRGIVRLHG  88
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNR-S  119
+            SV S+   +YLS+PAKQYEVVIR+YPISPDRAET HVIH FK + RY FKMYRD++ R S
+Sbjct  89   SVFSRKQQVYLSMPAKQYEVVIRFYPISPDRAETFHVIHAFKPHVRYTFKMYRDRTRRSS  148
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLLNVSVPDPLCVDL+Q+   IRRFCRPFDV+TGLGEF+E+K
+Sbjct  149  GSLLNVSVPDPLCVDLQQEQHTIRRFCRPFDVSTGLGEFVEKK  191
+
+
+>WP_004659113.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=191
+
+ Score = 238 bits (606),  Expect = 1e-077, Method: Compositional matrix adjust.
+ Identities = 107/162 (66%), Positives = 134/162 (83%), Gaps = 0/162 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +D VRI Q    N  +NA +YCSG ++CEFER+NDI V+DA++ RIS QA+ +GIVRL+G
+Sbjct  29   VDQVRIAQNTVGNKAENATLYCSGVENCEFERINDIAVIDAKSHRISQQAMERGIVRLHG  88
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SV S+   +YL+VPAKQYEVVIR+YPISPDRAET HVIH FK +  Y FKMYRD++ RSG
+Sbjct  89   SVFSRKQQVYLNVPAKQYEVVIRFYPISPDRAETFHVIHAFKPHQSYTFKMYRDRAYRSG  148
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            SLLNVS+P+PLCVDL+Q+   IRRFCRP+DV+TGLGEF+E+K
+Sbjct  149  SLLNVSIPEPLCVDLQQEQHTIRRFCRPYDVSTGLGEFVEKK  190
+
+
+>WP_007479098.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=191
+
+ Score = 237 bits (604),  Expect = 2e-077, Method: Compositional matrix adjust.
+ Identities = 107/162 (66%), Positives = 133/162 (82%), Gaps = 0/162 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +D VRI Q   E+   NA +YCSG  +CEFER+NDI V+DA++ R+S QAI +GIVRL+G
+Sbjct  29   VDQVRIAQNTLEDKANNATLYCSGVDNCEFERINDIGVIDAKSHRVSQQAIEKGIVRLHG  88
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            S+LS++  +YLSVPAKQYEVVIR+YPISPDRAET H+IH FK + RY FKMYRD++NR  
+Sbjct  89   SILSRNQQVYLSVPAKQYEVVIRFYPISPDRAETFHIIHAFKPHTRYTFKMYRDRANRVE  148
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            +LLN S PDPLCVDL Q+ R+IRRFCRP+DV TGLGEF+E+K
+Sbjct  149  NLLNASAPDPLCVDLLQEERMIRRFCRPYDVKTGLGEFVEKK  190
+
+
+>WP_004762186.1 hypothetical protein [Acinetobacter sp. CIP 102129]
+Length=191
+
+ Score = 237 bits (604),  Expect = 2e-077, Method: Compositional matrix adjust.
+ Identities = 107/162 (66%), Positives = 131/162 (81%), Gaps = 0/162 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +D VRI Q   EN   NA +YCSG +SCEFER+NDI V+DA++ RIS QA+  GI+RL+G
+Sbjct  29   VDQVRIAQTTLENKVNNATLYCSGTESCEFERINDIVVMDAKSHRISRQAMEHGIIRLDG  88
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SV S+   +YLS+PAKQYEVVIR+YPIS DRAE  HVIH+FK + RY FKMYRD+  RSG
+Sbjct  89   SVFSRKQQVYLSIPAKQYEVVIRFYPISLDRAEIFHVIHEFKPHQRYTFKMYRDREKRSG  148
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            SLLNVS P+PLCVDL+Q+   IRRFCRP+DV+TGLGEF+E+K
+Sbjct  149  SLLNVSAPEPLCVDLQQEQHTIRRFCRPYDVSTGLGEFVEKK  190
+
+
+>WP_004756193.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=191
+
+ Score = 236 bits (603),  Expect = 3e-077, Method: Compositional matrix adjust.
+ Identities = 106/162 (65%), Positives = 131/162 (81%), Gaps = 0/162 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +D VRI Q   EN   NA +YCSG ++CEFER+NDI V+DA++ RIS QA+  GI+RL+G
+Sbjct  29   VDQVRITQTTLENKVNNATLYCSGVENCEFERINDIVVMDAKSHRISRQAMEHGIIRLDG  88
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SV S+   +YLS+PAKQYEVVIR+YPISPDRAE  HVIH+FK N  Y FKMYRD++ RSG
+Sbjct  89   SVFSRKQQVYLSIPAKQYEVVIRFYPISPDRAEIFHVIHEFKPNQSYTFKMYRDRAYRSG  148
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            SLLNVS P+PLCVDL+Q+   IRRFCRP+DV TG+GEF+E+K
+Sbjct  149  SLLNVSAPEPLCVDLQQEQHTIRRFCRPYDVVTGVGEFVEKK  190
+
+
+>WP_019385745.1 hypothetical protein [Acinetobacter venetianus]
+Length=191
+
+ Score = 236 bits (603),  Expect = 3e-077, Method: Compositional matrix adjust.
+ Identities = 106/162 (65%), Positives = 133/162 (82%), Gaps = 0/162 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +D VRI Q   E+   NA +YCSG  +CEFER+NDI V+DA++ R+S QAI +GI+RL+G
+Sbjct  29   VDQVRIAQNTLEDKANNATLYCSGVDNCEFERINDIGVIDAKSHRVSQQAIEKGIIRLHG  88
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            S+LS++  +YLSVPAKQYEVVIR+YPISPDRAET H+IH FK + RY FKMYRD++NR  
+Sbjct  89   SILSRNQQVYLSVPAKQYEVVIRFYPISPDRAETFHIIHAFKPHTRYTFKMYRDRANRVE  148
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            +LLN S PDPLCVDL Q+ R+IRRFCRP+DV TGLGEF+E+K
+Sbjct  149  NLLNASAPDPLCVDLLQEERMIRRFCRPYDVKTGLGEFVEKK  190
+
+
+>WP_005192180.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=192
+
+ Score = 236 bits (603),  Expect = 4e-077, Method: Compositional matrix adjust.
+ Identities = 110/163 (67%), Positives = 133/163 (82%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +D VRI Q   E+   N  +YCSG ++CEFER+ DI V+DA+T RIS QA+ +GIVRL+G
+Sbjct  29   VDQVRIAQNTLESKADNTTLYCSGVENCEFERIGDIAVIDAKTHRISQQAMERGIVRLHG  88
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNR-S  119
+            SV S+   +YLS+PAKQYEVVIR+YPISPDRAET HVIH FK + RY FKMYRD++ R S
+Sbjct  89   SVFSRKQQVYLSMPAKQYEVVIRFYPISPDRAETFHVIHAFKPHVRYTFKMYRDRTRRSS  148
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLLNVSVPDPLCVDL+Q+   IRRFCRPFDV+TGLGEF+E+K
+Sbjct  149  GSLLNVSVPDPLCVDLQQEQHTIRRFCRPFDVSTGLGEFVEKK  191
+
+
+>WP_005291593.1 hypothetical protein [Acinetobacter sp. NIPH 2100]
+Length=192
+
+ Score = 236 bits (603),  Expect = 4e-077, Method: Compositional matrix adjust.
+ Identities = 110/163 (67%), Positives = 133/163 (82%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +D VRI Q   E+   N  +YCSG ++CEFER+ DI V+DA+T RIS QA+ +GIVRL+G
+Sbjct  29   VDQVRIAQNTLESKADNTTLYCSGVENCEFERIGDIAVIDAKTHRISQQAMERGIVRLHG  88
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNR-S  119
+            SV S+   +YLS+PAKQYEVVIR+YPISPDRAET HVIH FK + RY FKMYRD++ R S
+Sbjct  89   SVFSRKQQVYLSMPAKQYEVVIRFYPISPDRAETFHVIHAFKPHVRYTFKMYRDRTRRAS  148
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLLNVSVPDPLCVDL+Q+   IRRFCRPFDV+TGLGEF+E+K
+Sbjct  149  GSLLNVSVPDPLCVDLQQEQHTIRRFCRPFDVSTGLGEFVEKK  191
+
+
+>WP_005226601.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=192
+
+ Score = 236 bits (602),  Expect = 4e-077, Method: Compositional matrix adjust.
+ Identities = 111/163 (68%), Positives = 134/163 (82%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +D VRI Q   E+   N  +YCSG ++CEFER+ DI V+DA+T RIS QA+ +GIVRL+G
+Sbjct  29   VDQVRIAQNMLESKADNTTLYCSGVENCEFERIGDIAVIDAKTHRISQQAMGRGIVRLHG  88
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNR-S  119
+            SV S+   +YLSVPAKQYEVVIR+YPISPDRAET HVIH FK + RY FKMYRD+++R S
+Sbjct  89   SVFSRKQQVYLSVPAKQYEVVIRFYPISPDRAETFHVIHAFKPHVRYTFKMYRDRTHRSS  148
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLLNVSVPDPLCVDL+Q+   IRRFCRPFDV+TGLGEF+E+K
+Sbjct  149  GSLLNVSVPDPLCVDLQQEQHTIRRFCRPFDVSTGLGEFVEKK  191
+
+
+>WP_023013195.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=191
+
+ Score = 236 bits (602),  Expect = 5e-077, Method: Compositional matrix adjust.
+ Identities = 107/162 (66%), Positives = 131/162 (81%), Gaps = 0/162 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +D VRI Q   E+   NA +YCSG  +CEFER+NDI V+DA++ R+S QAI +GIVRL+G
+Sbjct  29   VDQVRIAQNTLEDKANNATLYCSGVDNCEFERINDIGVIDAKSHRVSQQAIEKGIVRLHG  88
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            S+LS +  +YLSVPAKQYEVVIR+YPISPDRAET H+IH FK   RY FKMYRD++NR  
+Sbjct  89   SILSLNQQVYLSVPAKQYEVVIRFYPISPDRAETFHIIHAFKPRTRYTFKMYRDRANRVE  148
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            +LLN S PDPLCVDL Q+ R+IRRFCRP+DV TGLGEF+E+K
+Sbjct  149  NLLNASAPDPLCVDLLQEERMIRRFCRPYDVKTGLGEFVEKK  190
+
+
+>WP_047431271.1 hypothetical protein [Acinetobacter sp. neg1]
+Length=192
+
+ Score = 236 bits (601),  Expect = 6e-077, Method: Compositional matrix adjust.
+ Identities = 111/163 (68%), Positives = 133/163 (82%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +D VRI Q   E+   N  +YCSG +SCEFER+ DI V+DA+T RIS QA+ +GIVRL+G
+Sbjct  29   VDQVRIAQNMLESKADNTTLYCSGVESCEFERIGDIAVIDAKTHRISQQAMGRGIVRLHG  88
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNR-S  119
+            SV S+   +YLSVPAKQYEVVIR+YPISPDRAET HVIH FK + RY FKMYRD+++R S
+Sbjct  89   SVFSRKQQVYLSVPAKQYEVVIRFYPISPDRAETFHVIHAFKPHVRYTFKMYRDRTHRSS  148
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLL VSVPDPLCVDL+Q+   IRRFCRPFDV+TGLGEF+E+K
+Sbjct  149  GSLLKVSVPDPLCVDLQQEQHTIRRFCRPFDVSTGLGEFVEKK  191
+
+
+>WP_061397890.1 hypothetical protein [Acinetobacter haemolyticus]
+Length=191
+
+ Score = 236 bits (601),  Expect = 7e-077, Method: Compositional matrix adjust.
+ Identities = 107/162 (66%), Positives = 131/162 (81%), Gaps = 0/162 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +D VRI Q   E+   NA +YCSG  +CEFER+NDI V+DA++ R+S QAI +GIVRL+G
+Sbjct  29   VDQVRIAQNTLEDKANNATLYCSGVDNCEFERINDIGVIDAKSHRVSQQAIEKGIVRLHG  88
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            S+LS +  +YLSVPAKQYEVVIR+YPISPDRAET H+IH FK   RY FKMYRD++NR  
+Sbjct  89   SILSLNQQVYLSVPAKQYEVVIRFYPISPDRAETFHIIHAFKPRTRYTFKMYRDRANRVE  148
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            +LLN S PDPLCVDL Q+ R+IRRFCRP+DV TGLGEF+E+K
+Sbjct  149  NLLNASAPDPLCVDLLQEERMIRRFCRPYDVKTGLGEFVEKK  190
+
+
+>WP_018677358.1 hypothetical protein [Acinetobacter tjernbergiae]
+Length=191
+
+ Score = 235 bits (600),  Expect = 8e-077, Method: Compositional matrix adjust.
+ Identities = 107/162 (66%), Positives = 130/162 (80%), Gaps = 0/162 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +D VRI Q   EN   N  +YCSG ++CEFER+ D+ V+DA++ RIS QA+ +GIVRL G
+Sbjct  29   VDQVRIAQTTLENKADNVTLYCSGVENCEFERIGDLAVIDAKSHRISQQAMERGIVRLQG  88
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SV S+   +YL+VPAKQYEVVIR+YPISPDRAET HVIH FK +  Y FKMYRD++ RSG
+Sbjct  89   SVFSRKQQVYLNVPAKQYEVVIRFYPISPDRAETFHVIHAFKPHQSYTFKMYRDRAYRSG  148
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            SLLNVSVP+PLCVDL+Q    IRRFCRPFDV+TGLGEF+E+K
+Sbjct  149  SLLNVSVPEPLCVDLQQAQHTIRRFCRPFDVSTGLGEFIEKK  190
+
+
+>WP_005278764.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=191
+
+ Score = 235 bits (599),  Expect = 1e-076, Method: Compositional matrix adjust.
+ Identities = 108/162 (67%), Positives = 130/162 (80%), Gaps = 0/162 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +D VRI Q   E+   N  +YCSG ++CEFER+ DI V+DA+  RIS QA+ +GIVRL+G
+Sbjct  29   VDQVRIAQNTLESKADNTTLYCSGVENCEFERIGDIAVIDAKNHRISKQAMERGIVRLHG  88
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SV S+   +YLSVPAKQYEVVIR+YPISPDRAET HVIH FK +  Y FKMYRD++ RSG
+Sbjct  89   SVFSRKQQVYLSVPAKQYEVVIRFYPISPDRAETFHVIHAFKPHVNYTFKMYRDRTRRSG  148
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            SL+NVSVPDPLCVDL+Q    IRRFCRPFDV+TGLGEF+E+K
+Sbjct  149  SLINVSVPDPLCVDLQQGQHTIRRFCRPFDVSTGLGEFVEKK  190
+
+
+>WP_004674547.1 hypothetical protein [Acinetobacter parvus]
+Length=191
+
+ Score = 235 bits (599),  Expect = 1e-076, Method: Compositional matrix adjust.
+ Identities = 106/162 (65%), Positives = 131/162 (81%), Gaps = 0/162 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +D VRI Q   EN   NA +YCSG ++CEFER+NDI V+DA++ RIS QA+  GI+RL+G
+Sbjct  29   VDQVRITQTTLENKVNNATLYCSGVENCEFERINDIVVMDAKSHRISRQAMEHGIIRLDG  88
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SV S+   +YLS+PAKQYEVVIR+YPIS DRAE  HVIH+FK N  Y FKMYRD++ RSG
+Sbjct  89   SVFSRKQQVYLSIPAKQYEVVIRFYPISLDRAEMFHVIHEFKPNQSYTFKMYRDRAYRSG  148
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            SLLNVS P+PLCVDL+Q+   IRRFCRP+DV+TGLGEF+E+K
+Sbjct  149  SLLNVSAPEPLCVDLQQEQHTIRRFCRPYDVSTGLGEFVEKK  190
+
+
+>WP_004774240.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=192
+
+ Score = 234 bits (597),  Expect = 3e-076, Method: Compositional matrix adjust.
+ Identities = 110/163 (67%), Positives = 133/163 (82%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +D VRI Q   E+   N  +YCSG ++CEFER+ DI V+DA+T RIS QA+ +GIVRL+G
+Sbjct  29   VDQVRIAQNMLESKADNTTLYCSGVENCEFERIGDIAVIDAKTHRISQQAMGRGIVRLHG  88
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNR-S  119
+            SV S+   +YLSVPAKQYEVVIR+YPISPDRAET HVIH FK + RY FKMYRD+++R S
+Sbjct  89   SVFSRKQQVYLSVPAKQYEVVIRFYPISPDRAETFHVIHAFKPHVRYTFKMYRDRTHRSS  148
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLL VSVPDPLCVDL+Q+   IRRFCRPFDV+TGLGEF+E+K
+Sbjct  149  GSLLKVSVPDPLCVDLQQEQHTIRRFCRPFDVSTGLGEFVEKK  191
+
+
+>WP_005239912.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=191
+
+ Score = 234 bits (596),  Expect = 3e-076, Method: Compositional matrix adjust.
+ Identities = 107/162 (66%), Positives = 130/162 (80%), Gaps = 0/162 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +D VRI Q   E+   N  +YCSG ++CEFER+ DI V+DA+  RIS QA+ +GIVRL+G
+Sbjct  29   VDQVRIAQNTLESKADNTTLYCSGVENCEFERIGDIAVIDAKNHRISKQAMERGIVRLHG  88
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            S+ S+   +YLSVPAKQYEVVIR+YPISPDRAET HVIH FK +  Y FKMYRD++ RSG
+Sbjct  89   SLFSRKQQVYLSVPAKQYEVVIRFYPISPDRAETFHVIHAFKPHVNYTFKMYRDRTRRSG  148
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            SL+NVSVPDPLCVDL+Q    IRRFCRPFDV+TGLGEF+E+K
+Sbjct  149  SLINVSVPDPLCVDLQQGQHTIRRFCRPFDVSTGLGEFVEKK  190
+
+
+>WP_004991435.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=191
+
+ Score = 231 bits (589),  Expect = 4e-075, Method: Compositional matrix adjust.
+ Identities = 106/163 (65%), Positives = 129/163 (79%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +DT+RIKQA   N   NA+IYC+G K CEFERLN   ++DA + R+S++++ QGIVRL G
+Sbjct  28   VDTLRIKQAGIGNTRANASIYCAGVKHCEFERLNTTPIMDANSHRVSSESLEQGIVRLQG  87
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS-  119
+            SV S  N +YLSVPA QYE+VIR+YPISPDRAET HVIHQFK+N  Y FKMYRD+S  + 
+Sbjct  88   SVFSSHNVMYLSVPADQYELVIRFYPISPDRAETFHVIHQFKSNQHYTFKMYRDRSKHTG  147
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLLNVS P+PLCV +E+  R IRRFCRPF+  TGLGEF+EQK
+Sbjct  148  GSLLNVSAPEPLCVAMEEGQRTIRRFCRPFNAVTGLGEFVEQK  190
+
+
+>WP_004680572.1 hypothetical protein [Acinetobacter parvus]
+Length=191
+
+ Score = 230 bits (586),  Expect = 1e-074, Method: Compositional matrix adjust.
+ Identities = 104/162 (64%), Positives = 130/162 (80%), Gaps = 0/162 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +D VRI Q   E+   N  +YCSG ++CEFER+ DI V+DA++ RIS QA+ +GIVRL+G
+Sbjct  29   VDQVRIVQNTLESKADNTTLYCSGVENCEFERIGDIAVIDAKSHRISQQAMERGIVRLHG  88
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SV S+   +YLS+PAKQYEVVIR+YPIS DRAE  HVIH+FK N  Y FKMYRD++ RSG
+Sbjct  89   SVFSRKQQVYLSIPAKQYEVVIRFYPISLDRAEMFHVIHEFKPNQSYTFKMYRDRAYRSG  148
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            SLLNVS P+PLCVDL+Q+   IRRFCRP+DV+TGLGEF+E+K
+Sbjct  149  SLLNVSAPEPLCVDLQQEQHTIRRFCRPYDVSTGLGEFVEKK  190
+
+
+>WP_044433929.1 hypothetical protein [Acinetobacter ursingii]
+Length=191
+
+ Score = 228 bits (581),  Expect = 6e-074, Method: Compositional matrix adjust.
+ Identities = 105/163 (64%), Positives = 128/163 (79%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +DT+RIKQA   N   NA+IYC+G K CEFERLN   ++DA + R+S++++ QGIVRL G
+Sbjct  28   VDTLRIKQAGIGNTRANASIYCAGVKHCEFERLNTTPIMDANSHRVSSESLEQGIVRLQG  87
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS-  119
+            SV S  N +YLSVPA QYE+VIR+YPIS DRAET HVIHQFK+N  Y FKMYRD+S  + 
+Sbjct  88   SVFSSHNVMYLSVPADQYELVIRFYPISSDRAETFHVIHQFKSNQHYTFKMYRDRSKHTG  147
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLLNVS P+PLCV +E+  R IRRFCRPF+  TGLGEF+EQK
+Sbjct  148  GSLLNVSAPEPLCVAMEEGQRTIRRFCRPFNAVTGLGEFVEQK  190
+
+
+>WP_075316251.1 hypothetical protein [Acinetobacter haemolyticus]
+Length=191
+
+ Score = 223 bits (569),  Expect = 4e-072, Method: Compositional matrix adjust.
+ Identities = 103/162 (64%), Positives = 129/162 (80%), Gaps = 0/162 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +D VRI Q   E    NA ++CSG ++CEF R+ DI V++A + RIS QA+ +GIVRL G
+Sbjct  29   VDQVRIAQNTLEQKANNATLHCSGVENCEFARIGDIEVINATSHRISRQAMERGIVRLQG  88
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SV S+   +YLSVPAKQYE+VIR+YPIS DRAET HVIH+FK + RY FKMYRD++ RSG
+Sbjct  89   SVFSRKQQVYLSVPAKQYEIVIRFYPISLDRAETFHVIHEFKPSVRYTFKMYRDRTPRSG  148
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            SLLNVSVP+PLCVDL+Q+ R IRRFCR +DV+ GLGEF+E+K
+Sbjct  149  SLLNVSVPEPLCVDLQQEQRTIRRFCRSYDVSKGLGEFIEKK  190
+
+
+>WP_005083676.1 hypothetical protein [Acinetobacter haemolyticus]
+Length=191
+
+ Score = 221 bits (564),  Expect = 2e-071, Method: Compositional matrix adjust.
+ Identities = 101/162 (62%), Positives = 128/162 (79%), Gaps = 0/162 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +D VRI Q   E    NA ++CSG ++CEF R+NDI V++A + RIS QA+ +GIVRL G
+Sbjct  29   VDQVRIAQNTLEQKANNATLHCSGVENCEFARINDIEVINASSHRISRQAMERGIVRLQG  88
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SV S+   +YLSVPAK+YE+VIR+YPIS DRAET HVIH+FK   RY FKMYRD+++RSG
+Sbjct  89   SVFSRKQQVYLSVPAKEYEIVIRFYPISLDRAETFHVIHEFKPYLRYTFKMYRDRTSRSG  148
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            SLL VS PDPLCVDL+Q+ + IRRFCR +DV+ GLGEF+E+K
+Sbjct  149  SLLTVSAPDPLCVDLQQEQQTIRRFCRSYDVSKGLGEFIEKK  190
+
+
+>WP_004637791.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=191
+
+ Score = 221 bits (564),  Expect = 3e-071, Method: Compositional matrix adjust.
+ Identities = 101/162 (62%), Positives = 128/162 (79%), Gaps = 0/162 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +D VRI Q   E    NA ++CSG ++CEF R+NDI V++A + RIS QA+ +GIVRL G
+Sbjct  29   VDQVRIAQNTLEQKANNATLHCSGVENCEFARINDIEVINATSHRISRQAMERGIVRLQG  88
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SV S+   +YLSVPAK+YE+VIR+YPIS DRAET HVIH+FK   RY FKMYRD+++RSG
+Sbjct  89   SVFSRKQQVYLSVPAKEYEIVIRFYPISLDRAETFHVIHEFKPYLRYTFKMYRDRTSRSG  148
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            SLL VS PDPLCVDL+Q+ + IRRFCR +DV+ GLGEF+E+K
+Sbjct  149  SLLTVSAPDPLCVDLQQEQQTIRRFCRSYDVSKGLGEFIEKK  190
+
+
+>WP_026070348.1 hypothetical protein [Acinetobacter haemolyticus]
+Length=191
+
+ Score = 221 bits (562),  Expect = 5e-071, Method: Compositional matrix adjust.
+ Identities = 100/162 (62%), Positives = 128/162 (79%), Gaps = 0/162 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +D VRI Q   E    NA ++CSG ++CEF R+ND+ V++A + RIS QA+ +GIVRL G
+Sbjct  29   VDQVRIAQNTLEQKANNATLHCSGVENCEFARINDVEVINATSHRISRQAMERGIVRLQG  88
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SV S+   +YLSVPAK+YE+VIR+YPIS DRAET HVIH+FK   RY FKMYRD+++RSG
+Sbjct  89   SVFSRKQQVYLSVPAKEYEIVIRFYPISLDRAETFHVIHEFKPYLRYTFKMYRDRTSRSG  148
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            SLL VS PDPLCVDL+Q+ + IRRFCR +DV+ GLGEF+E+K
+Sbjct  149  SLLTVSAPDPLCVDLQQEQQTIRRFCRSYDVSKGLGEFIEKK  190
+
+
+>WP_005182052.1 hypothetical protein [Acinetobacter sp. CIP 53.82]
+Length=187
+
+ Score = 220 bits (561),  Expect = 8e-071, Method: Compositional matrix adjust.
+ Identities = 101/163 (62%), Positives = 127/163 (78%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQAEQENLGQ-NAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+             DT R+KQ ++    Q NA IYCSG + CEFERLN + ++DA+++R+S +AI QG+VRL 
+Sbjct  24   WDTARLKQVKETQASQSNARIYCSGTEHCEFERLNRVMIMDAESQRLSREAIKQGLVRLQ  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+               L Q N LYLSVPAKQ+EVVIR+YPIS D+AET+HVIHQFK    Y FKMYRD+S   
+Sbjct  84   ADSLRQPNPLYLSVPAKQHEVVIRFYPISRDQAETLHVIHQFKPRQTYTFKMYRDRSKHK  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLLNVS P+PLCVDL Q+ ++IRRFC+P++V  GLGEF+EQK
+Sbjct  144  GSLLNVSAPEPLCVDLLQNQKIIRRFCKPYNVLNGLGEFVEQK  186
+
+
+>WP_016659592.1 hypothetical protein [Acinetobacter indicus]
+Length=187
+
+ Score = 219 bits (559),  Expect = 1e-070, Method: Compositional matrix adjust.
+ Identities = 101/163 (62%), Positives = 127/163 (78%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQAEQENLGQ-NAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+             DT R+KQ ++    Q NA IYCSG + CEFERLN + ++DA+++R+S +AI QG+VRL 
+Sbjct  24   WDTARLKQVKETQASQSNARIYCSGTEHCEFERLNRVMIMDAESQRLSREAIKQGLVRLQ  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+               L Q N LYLSVPAKQ+EVVIR+YPIS D+AET+HVIHQFK    Y FKMYRD+S   
+Sbjct  84   ADSLRQPNPLYLSVPAKQHEVVIRFYPISRDQAETLHVIHQFKPRQTYTFKMYRDRSKHK  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLLNVS P+PLCVDL Q+ ++IRRFC+P++V  GLGEF+EQK
+Sbjct  144  GSLLNVSAPEPLCVDLLQNQKIIRRFCKPYNVLHGLGEFVEQK  186
+
+
+>WP_005088118.1 hypothetical protein [Acinetobacter haemolyticus]
+Length=191
+
+ Score = 219 bits (559),  Expect = 2e-070, Method: Compositional matrix adjust.
+ Identities = 100/162 (62%), Positives = 128/162 (79%), Gaps = 0/162 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +D VRI Q   E    NA ++CSG ++CEF R+ND+ V++A + RIS QA+ +GIVRL G
+Sbjct  29   VDQVRIAQNTLEQKVNNATLHCSGVENCEFARINDVEVINATSHRISRQAMERGIVRLQG  88
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SV S+   +YLSVPAK+YE+VIR+YPIS DRAET HVIH+FK   RY FKMYRD+++RSG
+Sbjct  89   SVFSRKQQVYLSVPAKEYEIVIRFYPISLDRAETFHVIHEFKPYLRYTFKMYRDRTSRSG  148
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            SLL VS PDPLCVDL+Q+ + IRRFCR +DV+ GLGEF+E+K
+Sbjct  149  SLLTVSAPDPLCVDLQQEQQTIRRFCRSYDVSKGLGEFIEKK  190
+
+
+>WP_016168288.1 hypothetical protein [Acinetobacter tandoii]
+Length=187
+
+ Score = 219 bits (557),  Expect = 3e-070, Method: Compositional matrix adjust.
+ Identities = 101/163 (62%), Positives = 127/163 (78%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQAE-QENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            +D+ RIKQ E  E+   NA IYCSG  +CEFERL +I +VD +T R++ +AI++G+VRL 
+Sbjct  24   VDSARIKQVEYTESPSSNALIYCSGTHNCEFERLGNIFIVDERTHRVNPEAINKGLVRLQ  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+               L+Q N+LYLS PAKQ E+VIR+YPISPDRAET+HVIH FKA   Y FKMYRD++ + 
+Sbjct  84   AKTLNQPNALYLSAPAKQQELVIRFYPISPDRAETLHVIHAFKAKQTYTFKMYRDRTRQH  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+             SLLN S PDPLCVDL+Q+ + IRRFCRP+D  TGLGEF+EQK
+Sbjct  144  VSLLNASAPDPLCVDLQQEQKTIRRFCRPYDPQTGLGEFVEQK  186
+
+
+>WP_045795486.1 hypothetical protein [Acinetobacter indicus]
+Length=187
+
+ Score = 219 bits (557),  Expect = 3e-070, Method: Compositional matrix adjust.
+ Identities = 101/163 (62%), Positives = 126/163 (77%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQAEQENLGQ-NAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+             DT R+KQ ++    Q NA IYCSG + CEFERLN + ++DA+ +R+S +AI QG+VRL 
+Sbjct  24   WDTARLKQVKETQASQSNARIYCSGTEHCEFERLNRVMIMDAERQRLSREAIKQGLVRLQ  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+               L Q N LYLSVPAKQ+EVVIR+YPIS D+AET+HVIHQFK    Y FKMYRD+S   
+Sbjct  84   ADSLRQPNPLYLSVPAKQHEVVIRFYPISRDQAETLHVIHQFKPRQTYTFKMYRDRSKHK  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLLNVS P+PLCVDL Q+ ++IRRFC+P++V  GLGEF+EQK
+Sbjct  144  GSLLNVSAPEPLCVDLLQNQKIIRRFCKPYNVLHGLGEFVEQK  186
+
+
+>WP_019836005.1 hypothetical protein [Acinetobacter sp. MDS7A]
+Length=187
+
+ Score = 217 bits (553),  Expect = 1e-069, Method: Compositional matrix adjust.
+ Identities = 99/163 (61%), Positives = 125/163 (77%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQA-EQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+             +T RIKQ  E E    NA IYC+G  +CEFERLN +T+VDA+  R++  AI +G+VRL 
+Sbjct  24   WNTARIKQVKETEQSKSNALIYCAGTDNCEFERLNTVTIVDAEKHRVTRAAIQEGLVRLQ  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+             S L++SN+LYLSVP KQ+E+VIR+YPIS DRAE +HVIH+F A  +Y F+MYRD+S   
+Sbjct  84   ESSLNKSNALYLSVPPKQHELVIRFYPISKDRAEKLHVIHKFNAKQKYTFRMYRDRSRSK  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLLNVS PDPLCVDL Q+   IRRFC+P++V  GLGEF+EQK
+Sbjct  144  GSLLNVSAPDPLCVDLVQNSTTIRRFCKPYNVLNGLGEFVEQK  186
+
+
+>WP_086174005.1 hypothetical protein [Acinetobacter sp. ANC 3903]
+Length=187
+
+ Score = 216 bits (551),  Expect = 2e-069, Method: Compositional matrix adjust.
+ Identities = 97/163 (60%), Positives = 127/163 (78%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQA-EQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            +DTVRIK   E E+   NA IYC+G  +CEFERL+ I ++DA  RR+++ A+  G++RL 
+Sbjct  24   IDTVRIKHVKETESTKTNALIYCAGTANCEFERLDKIQIIDAAQRRVNSAAVESGVLRLQ  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+             + LSQ N+LYLSVP  Q+E+VIR+YPIS DRAET+HV HQFK  H Y+FKMYRD++ + 
+Sbjct  84   ANSLSQPNALYLSVPPGQHELVIRFYPISKDRAETLHVFHQFKPKHHYIFKMYRDRNKQQ  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLLNVS P+PLCVDL Q+ + IRRFCRP++  TGLGEF+E+K
+Sbjct  144  GSLLNVSAPEPLCVDLIQEHKTIRRFCRPYNALTGLGEFVEKK  186
+
+
+>WP_075174963.1 hypothetical protein [Acinetobacter indicus]
+Length=187
+
+ Score = 216 bits (549),  Expect = 4e-069, Method: Compositional matrix adjust.
+ Identities = 100/163 (61%), Positives = 126/163 (77%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQAEQENLGQ-NAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+             DT R+KQ ++    Q NA IYCSG + CEFERLN + ++DA+++R+S +AI QG+VRL 
+Sbjct  24   WDTARLKQVKETQASQSNARIYCSGTEHCEFERLNRVMIMDAESQRLSREAIKQGLVRLQ  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+               L Q N LYLSV AKQ+EVVIR+YPIS D+AET+HVIHQFK    Y FKMYRD+S   
+Sbjct  84   ADSLRQPNPLYLSVLAKQHEVVIRFYPISRDQAETLHVIHQFKPRQTYTFKMYRDRSKHK  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLLNVS P+PLCVDL Q+ ++IRRFC+P++V  GLGEF+EQK
+Sbjct  144  GSLLNVSAPEPLCVDLLQNQKIIRRFCKPYNVLHGLGEFVEQK  186
+
+
+>WP_086198429.1 hypothetical protein [Acinetobacter sp. ANC 4169]
+Length=187
+
+ Score = 216 bits (549),  Expect = 5e-069, Method: Compositional matrix adjust.
+ Identities = 97/163 (60%), Positives = 127/163 (78%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQ-AEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            +DTVRIK   E E+   NA IYC+G  +CEFERL+ I ++DA  RR+++ A+  GI+RL 
+Sbjct  24   IDTVRIKHIKETESTKTNALIYCAGTANCEFERLDKIQIIDAAQRRVNSAAVESGILRLQ  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+             + L+Q N+LYLSVP  Q+E+VIR+YPIS DRAET+HV HQFK  H Y+FKMYRD++ + 
+Sbjct  84   ANSLNQPNALYLSVPPGQHELVIRFYPISKDRAETLHVFHQFKPKHHYIFKMYRDRNKQQ  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLLNVS P+PLCVDL Q+ + IRRFCRP++  TGLGEF+E+K
+Sbjct  144  GSLLNVSAPEPLCVDLIQEHKTIRRFCRPYNALTGLGEFVEKK  186
+
+
+>WP_004976096.1 hypothetical protein [Acinetobacter towneri]
+Length=187
+
+ Score = 215 bits (548),  Expect = 6e-069, Method: Compositional matrix adjust.
+ Identities = 98/163 (60%), Positives = 124/163 (76%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQA-EQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+             +T RIKQ  E E    NA IYC+G   CEFERLN +T+ DA+  R++  AI +G+VRL 
+Sbjct  24   WNTARIKQVKETEQSKSNALIYCAGTDDCEFERLNTVTIFDAEKHRVTRAAIQEGLVRLQ  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+             S L++SN+LYLSVP KQ+E+VIR+YPIS DRAE +HVIH+F A  +Y F+MYRD+S   
+Sbjct  84   ESSLNKSNALYLSVPPKQHELVIRFYPISKDRAEKLHVIHKFNARQKYTFRMYRDRSRTK  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLLNVS PDPLCVDL Q+ + IRRFC+P++V  GLGEF+EQK
+Sbjct  144  GSLLNVSAPDPLCVDLVQNNKTIRRFCKPYNVLNGLGEFVEQK  186
+
+
+>WP_039620934.1 hypothetical protein [Acinetobacter harbinensis]
+Length=194
+
+ Score = 215 bits (548),  Expect = 8e-069, Method: Compositional matrix adjust.
+ Identities = 100/165 (61%), Positives = 129/165 (78%), Gaps = 1/165 (1%)
+
+Query  1    MDTVRIKQAEQENLGQ-NAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            +DT RIKQ ++    Q +A I+CSG + CEFERL +I +VDAQ+RR+S+ AI Q IVRL+
+Sbjct  24   IDTARIKQMQKTVSSQSDAQIFCSGTEQCEFERLGEIPIVDAQSRRVSDVAIKQKIVRLH  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+               L+ +N L LSVPA Q+E+VIR+YPIS DRAET+HVIH+F A   Y FKMYRD+S + 
+Sbjct  84   SRSLNDANPLSLSVPAGQHELVIRFYPISKDRAETLHVIHKFNAQKNYTFKMYRDRSKQK  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKL  164
+            GSLL VS PDPLCVDL+Q+ + IRRFC+P++V  GLGEF+EQK+L
+Sbjct  144  GSLLTVSAPDPLCVDLQQEQKTIRRFCKPYNVLNGLGEFVEQKRL  188
+
+
+>WP_070155350.1 hypothetical protein [Acinetobacter towneri]
+Length=187
+
+ Score = 215 bits (547),  Expect = 8e-069, Method: Compositional matrix adjust.
+ Identities = 98/163 (60%), Positives = 125/163 (77%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQA-EQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+             +T RIKQ  E E    NA IYC+G  +CEFERLN +T+VDA+  R++  AI +G+VRL 
+Sbjct  24   WNTARIKQVKETEQSKSNALIYCAGTDNCEFERLNTVTIVDAEKHRVTRAAIQEGLVRLQ  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+             S L++SN+LYLSVP KQ+E+VIR+YPIS DRAE +HVIH+F A  +Y F+MYRD+S   
+Sbjct  84   ESSLNKSNALYLSVPPKQHELVIRFYPISKDRAEKLHVIHKFNAKQKYTFRMYRDRSRSK  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLL+VS PDPLCVDL Q+   IRRFC+P++V  GLGEF+EQK
+Sbjct  144  GSLLSVSAPDPLCVDLVQNSTTIRRFCKPYNVLNGLGEFVEQK  186
+
+
+>WP_086195309.1 hypothetical protein [Acinetobacter sp. ANC 4218]
+Length=187
+
+ Score = 214 bits (546),  Expect = 1e-068, Method: Compositional matrix adjust.
+ Identities = 96/163 (59%), Positives = 127/163 (78%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQA-EQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            +DTVRIK   E E+   NA IYC+G  +CEFERLN I ++DA  RR+++ A+  GI+RL 
+Sbjct  24   IDTVRIKHVKETESSKTNALIYCAGTANCEFERLNKIQIIDAAQRRVNSAAVESGILRLQ  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+             + LSQ N+LYLS+P  Q+E+VIR+YPIS DRAET+HV H+FK   RY+FKMYR+++ + 
+Sbjct  84   ANSLSQPNALYLSIPPGQHELVIRFYPISKDRAETLHVFHKFKPKQRYIFKMYRERNKQQ  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLLNVS P+PLCVDL Q+ + IRRFCRP++  TGLGEF+E+K
+Sbjct  144  GSLLNVSAPEPLCVDLLQEHKTIRRFCRPYNALTGLGEFVEKK  186
+
+
+>WP_004668520.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=191
+
+ Score = 213 bits (542),  Expect = 6e-068, Method: Compositional matrix adjust.
+ Identities = 99/162 (61%), Positives = 124/162 (77%), Gaps = 0/162 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +D VRI Q   E    NA +YCSG ++CEF R++D  V++A + RIS +A+ +GIVRL G
+Sbjct  29   VDQVRIAQNTLEQRANNATLYCSGVENCEFARIDDTEVINATSHRISREAMERGIVRLQG  88
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            SV S+   +YLSVPAK+YEVVIR+YPIS DRAET HVIH+FK    Y FKMYRD+ + SG
+Sbjct  89   SVFSRKQQVYLSVPAKEYEVVIRFYPISLDRAETFHVIHEFKPYLNYTFKMYRDRPSGSG  148
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            SLLNVS PDPLCVDL+Q+ R IRRFCR +DV  GLGEF+E++
+Sbjct  149  SLLNVSAPDPLCVDLQQEQRTIRRFCRSYDVRKGLGEFVERR  190
+
+
+>WP_067655634.1 hypothetical protein [Acinetobacter sp. TGL-Y2]
+Length=191
+
+ Score = 212 bits (540),  Expect = 1e-067, Method: Compositional matrix adjust.
+ Identities = 95/168 (57%), Positives = 123/168 (73%), Gaps = 1/168 (1%)
+
+Query  1    MDTVRIKQA-EQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            +DT R+K   E E    NA I+C G ++CEFERL  I +VDA   R+  QAI QGIVRL 
+Sbjct  24   LDTSRLKNVKETEQTKYNALIFCEGTENCEFERLGQIHIVDANNHRLEKQAIQQGIVRLQ  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+             + + + N++YLSVPA Q+E+V+R+YPIS D+AET+H+IH+FKAN RY  KMYR +    
+Sbjct  84   KASVKEPNAIYLSVPAAQHELVVRFYPISQDKAETLHLIHRFKANQRYQLKMYRKRGQNR  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPR  167
+            GSLL VS PDPLCVDL+Q+ + IRRFC+P++V  GLGEF+EQK   PR
+Sbjct  144  GSLLTVSAPDPLCVDLQQNSKTIRRFCKPYNVLNGLGEFVEQKNFKPR  191
+
+
+>WP_086201950.1 hypothetical protein [Acinetobacter sp. ANC 4999]
+Length=187
+
+ Score = 211 bits (538),  Expect = 2e-067, Method: Compositional matrix adjust.
+ Identities = 97/163 (60%), Positives = 124/163 (76%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQAEQENLGQ-NAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            +DT R+K  E+    + NA +YC G ++CEFERL+ I +VDAQ+ ++S +AI  G+VRL 
+Sbjct  24   IDTTRLKNVEETTATKSNALVYCIGTENCEFERLDTIQIVDAQSHKLSRKAIKHGLVRLQ  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+               L Q N+LYLSVP  Q+E+VIR+YPIS ++AE +HVIHQFK    Y FKMYRD+S R 
+Sbjct  84   TQSLQQPNALYLSVPEGQHELVIRFYPISSNQAERLHVIHQFKVKQNYSFKMYRDRSKRQ  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLLNVS PDPLCVDL Q+ +VIRRFCRP+DV TG+ EF+EQK
+Sbjct  144  GSLLNVSAPDPLCVDLLQEKKVIRRFCRPYDVVTGVSEFIEQK  186
+
+
+>WP_086207094.1 hypothetical protein [Acinetobacter sp. ANC 4648]
+Length=187
+
+ Score = 211 bits (537),  Expect = 3e-067, Method: Compositional matrix adjust.
+ Identities = 99/163 (61%), Positives = 124/163 (76%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQAEQENLGQ-NAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            +DT RIK  E+    + NA IYC G ++CEFERL++I +VDAQ  ++S +AI  G+VRL 
+Sbjct  24   IDTTRIKNVEETATTKSNALIYCIGTENCEFERLDNIQIVDAQNHKLSRRAIKHGLVRLQ  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+               L Q N+LYLSVP  Q+E+VIR+YPIS  +AE +HVIHQFKA   Y FKMYR++S R 
+Sbjct  84   TQSLQQPNALYLSVPEGQHELVIRFYPISNAQAERLHVIHQFKAKQNYSFKMYRERSKRQ  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLLNVS PDPLCVDL Q+ +VIRRFCRP+DV TG+ EF+EQK
+Sbjct  144  GSLLNVSAPDPLCVDLLQEKKVIRRFCRPYDVVTGVSEFVEQK  186
+
+
+>WP_067866306.1 hypothetical protein [Acinetobacter sp. SFB]
+Length=194
+
+ Score = 211 bits (537),  Expect = 3e-067, Method: Compositional matrix adjust.
+ Identities = 95/165 (58%), Positives = 124/165 (75%), Gaps = 1/165 (1%)
+
+Query  1    MDTVRIKQA-EQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            +DT RIK   E E+   NA I+CSG + CEFERL+ I +VDAQ+ R+S +AI +G+VRL 
+Sbjct  24   IDTARIKNVKETESTELNALIFCSGTEQCEFERLDQIHIVDAQSHRVSREAIQEGLVRLK  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+               L++SN L+LSVP  Q+E+VIR+YPIS DRAET+HV H F +   Y FKMYRD+ N  
+Sbjct  84   AKSLNESNPLFLSVPTGQHEIVIRFYPISKDRAETLHVFHNFTSQKTYTFKMYRDRINHK  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKL  164
+            G+LLN S PDPLCV+L+Q+ + IRRFC+P++V  GLGEF+EQK L
+Sbjct  144  GNLLNASAPDPLCVELQQEQKTIRRFCKPYNVLNGLGEFVEQKNL  188
+
+
+>WP_067722120.1 hypothetical protein [Acinetobacter sp. SFC]
+Length=194
+
+ Score = 210 bits (535),  Expect = 7e-067, Method: Compositional matrix adjust.
+ Identities = 93/165 (56%), Positives = 126/165 (76%), Gaps = 1/165 (1%)
+
+Query  1    MDTVRIKQA-EQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            +DTVR+K   E ++   NA I+C+G + CEFERL+ I +VDAQ+ R+S +AI QGIVRL 
+Sbjct  24   IDTVRVKHVKETQSTESNALIFCAGTEQCEFERLDQIHIVDAQSHRLSREAIQQGIVRLK  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+               L+++N L+LSVP  Q+E+VIR+YPIS DRAET+HV H F +   Y FKMYRD+++  
+Sbjct  84   AKSLNEANPLFLSVPTGQHELVIRFYPISKDRAETLHVFHNFNSQKHYTFKMYRDRTHHK  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKL  164
+            G+LLN S PDPLCV+L+Q+ + IRRFC+P++V  GLGEF+EQK L
+Sbjct  144  GNLLNASAPDPLCVELQQEQKTIRRFCKPYNVLNGLGEFVEQKNL  188
+
+
+>WP_086183845.1 hypothetical protein [Acinetobacter sp. ANC 4973]
+Length=187
+
+ Score = 210 bits (534),  Expect = 8e-067, Method: Compositional matrix adjust.
+ Identities = 93/153 (61%), Positives = 119/153 (78%), Gaps = 0/153 (0%)
+
+Query  10   EQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNGSVLSQSNSL  69
+            E E+   NA I+C+G + CEFER + + +VDAQ+ R+S +AI QGIVRL   +L++ NSL
+Sbjct  34   ETESTKLNALIFCAGTEQCEFERFDQMPIVDAQSHRVSREAIDQGIVRLQPKLLAEPNSL  93
+
+Query  70   YLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSGSLLNVSVPD  129
+            +LSVPA Q+EVVIR+YPIS DRAET+HV HQF A   Y FKMYRD++   GSLLNVS PD
+Sbjct  94   FLSVPAGQHEVVIRFYPISKDRAETLHVFHQFNAQKNYTFKMYRDRTRHQGSLLNVSAPD  153
+
+Query  130  PLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            PLCV+L+QD + IRRFC+P++   GLGEF+EQK
+Sbjct  154  PLCVELQQDQKTIRRFCKPYNALNGLGEFVEQK  186
+
+
+>WP_074943674.1 hypothetical protein [Acinetobacter bohemicus]
+Length=187
+
+ Score = 209 bits (533),  Expect = 1e-066, Method: Compositional matrix adjust.
+ Identities = 96/163 (59%), Positives = 122/163 (75%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQA-EQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            +D  RI    E E+   NA I+C+G + CEFER + + +VDAQ+ R+S +AI QGIVRL 
+Sbjct  24   LDKKRINNVKETESTKLNALIFCTGTEQCEFERFDQMPIVDAQSHRVSREAIDQGIVRLQ  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+               L++ NSL+LSVPA Q+EVVIR+YPIS DRAET+HV H+F A   Y FKMYRD++   
+Sbjct  84   AKSLAEPNSLFLSVPAGQHEVVIRFYPISKDRAETLHVFHKFNAQKHYTFKMYRDRTRHQ  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLLNVS PDPLCV L+QD + IRRFC+P++V  GLGEF+EQK
+Sbjct  144  GSLLNVSAPDPLCVALQQDQKTIRRFCKPYNVLNGLGEFVEQK  186
+
+
+>WP_086192973.1 hypothetical protein [Acinetobacter sp. ANC 4655]
+Length=194
+
+ Score = 210 bits (534),  Expect = 1e-066, Method: Compositional matrix adjust.
+ Identities = 93/165 (56%), Positives = 125/165 (76%), Gaps = 1/165 (1%)
+
+Query  1    MDTVRIKQA-EQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            +DTVR+K   E ++   NA I+C+G + CEFERL+ I +VDAQ+ R+S +AI QGIVRL 
+Sbjct  24   IDTVRVKHVKETQSTESNALIFCAGTEQCEFERLDQINIVDAQSHRLSREAIQQGIVRLK  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+               L+ +N L+LSVP  Q+E+VIR+YPIS DRAET+HV H F +   Y FKMYRD+++  
+Sbjct  84   AKSLNDANPLFLSVPTGQHELVIRFYPISKDRAETLHVFHNFNSQKNYTFKMYRDRTHHK  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKL  164
+            G+LLN S PDPLCV+L+Q+ + IRRFC+P++V  GLGEF+EQK L
+Sbjct  144  GNLLNASAPDPLCVELQQEQKTIRRFCKPYNVLNGLGEFVEQKNL  188
+
+
+>WP_004649902.1 hypothetical protein [Acinetobacter bohemicus]
+Length=187
+
+ Score = 209 bits (533),  Expect = 1e-066, Method: Compositional matrix adjust.
+ Identities = 96/163 (59%), Positives = 123/163 (75%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQA-EQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            +D  RI    E E+   NA I+C+G + CEFER + + +VDAQ+ R+S +AI QGIVRL 
+Sbjct  24   LDKKRINNVKETESTKLNALIFCTGTEQCEFERFDQMPIVDAQSHRVSREAIDQGIVRLQ  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+              +L++ NSL+LSVPA Q+EVVIR+YPIS DRAET+HV H+F A   Y FKMYRD++   
+Sbjct  84   PKLLAEPNSLFLSVPAGQHEVVIRFYPISKDRAETLHVFHKFNAQKHYTFKMYRDRTRHQ  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLLNVS PDPLCV L+QD + IRRFC+P++V  GLGEF+EQK
+Sbjct  144  GSLLNVSAPDPLCVALQQDQKTIRRFCKPYNVLNGLGEFVEQK  186
+
+
+>WP_086165066.1 hypothetical protein [Acinetobacter sp. ANC 4654]
+Length=187
+
+ Score = 208 bits (529),  Expect = 4e-066, Method: Compositional matrix adjust.
+ Identities = 95/163 (58%), Positives = 122/163 (75%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQA-EQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            +D  RI    E E+   NA I+C+G + CEFER + + +VDAQ+ R+S +AI QGIVRL 
+Sbjct  24   LDKKRINSVKETESTKLNALIFCTGTEQCEFERFDQMPIVDAQSHRVSREAIDQGIVRLQ  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+              +L++ NSL+LSVPA Q+EVVIR+YPIS DRAET+HV H+F A   Y FKMYRD++   
+Sbjct  84   PKLLAEPNSLFLSVPAGQHEVVIRFYPISKDRAETLHVFHKFNAQKHYTFKMYRDRTRHQ  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLLNVS PDPLCV L+QD + IRRFC+P++   GLGEF+EQK
+Sbjct  144  GSLLNVSAPDPLCVALQQDQKTIRRFCKPYNALNGLGEFVEQK  186
+
+
+>WP_086189551.1 hypothetical protein [Acinetobacter sp. ANC 3832]
+Length=189
+
+ Score = 208 bits (529),  Expect = 5e-066, Method: Compositional matrix adjust.
+ Identities = 96/163 (59%), Positives = 124/163 (76%), Gaps = 2/163 (1%)
+
+Query  1    MDTVRIKQAEQENLGQN-AAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            +D  RIK AE++   QN   IYCSGA++CEF+R+N+I +VD  + R++++AI +G V+L 
+Sbjct  27   VDASRIKDAEKKQFSQNNVQIYCSGAENCEFDRMNNIKIVDQNSHRVNSKAIKKGYVKLT  86
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+            G  L + N LYL++PA+QYE+VIR+YPIS   AE  HVIHQFK N RY FKMYR +S  S
+Sbjct  87   GDALDK-NGLYLTIPAQQYEMVIRFYPISQQHAEVFHVIHQFKPNQRYTFKMYRKRSQSS  145
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLLNVS P PLCVDL Q+ R IRRFCRP+DV TG+ E++EQK
+Sbjct  146  GSLLNVSAPTPLCVDLIQEKRTIRRFCRPYDVVTGVSEYVEQK  188
+
+
+>WP_078189720.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=187
+
+ Score = 206 bits (524),  Expect = 3e-065, Method: Compositional matrix adjust.
+ Identities = 96/163 (59%), Positives = 118/163 (72%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQA-EQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+             DT RIK   E E+   NA IYC+G   CEFER + I VVD   + +   AI  GIVRLN
+Sbjct  24   FDTARIKNVKETESTKNNALIYCAGTAHCEFERFDQIQVVDPNNQHVQRAAIKAGIVRLN  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+            G  LS+ N LYLSVP+ Q+EVVIRYYPIS ++AE +HVIH F++ H Y FKMYR++S   
+Sbjct  84   GRSLSEPNPLYLSVPSGQHEVVIRYYPISQEKAERLHVIHNFRSKHEYTFKMYRERSKNR  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLL+ S PDPLCVDL+Q  + IRRFCRP++V TGLGEF+E+K
+Sbjct  144  GSLLDKSAPDPLCVDLKQGAKTIRRFCRPYNVLTGLGEFVEKK  186
+
+
+>WP_086187193.1 hypothetical protein [Acinetobacter sp. ANC 4470]
+Length=187
+
+ Score = 205 bits (522),  Expect = 5e-065, Method: Compositional matrix adjust.
+ Identities = 92/163 (56%), Positives = 122/163 (75%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQA-EQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            +D +RI    E E+   NA I+C+G + CEFER + + +VDAQ+ R+S +AI Q IVRL 
+Sbjct  24   IDKIRINNVKETESTKSNALIFCAGTEQCEFERFDQMPIVDAQSHRVSREAIEQKIVRLQ  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+              +L++ NSL+LSVPA Q+E+VIR+YPIS DRAET+HV H+F A   Y FKMYRD++   
+Sbjct  84   TKLLAEPNSLFLSVPAGQHELVIRFYPISKDRAETLHVFHKFNAQKHYTFKMYRDRTRHQ  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLLNVS PDPLCV+L+QD + IRRFC+ ++   GLGEF+EQK
+Sbjct  144  GSLLNVSAPDPLCVELQQDQKTIRRFCKSYNALNGLGEFVEQK  186
+
+
+>WP_068909224.1 hypothetical protein [Acinetobacter sp. WCHA34]
+Length=187
+
+ Score = 204 bits (519),  Expect = 1e-064, Method: Compositional matrix adjust.
+ Identities = 93/163 (57%), Positives = 122/163 (75%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQA-EQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            MD  R+K A E  +  +NA IYC+G + CEFERL+ I +VDA  R++   A+H GI+RL 
+Sbjct  24   MDAARLKHASEGASAKRNALIYCAGTEDCEFERLDKIRIVDADNRQLDRSALHAGILRLQ  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+               + + N++YLSVP  Q+EVVIR+YPIS D+AE +HVIHQF A+ RY FKMYR++S + 
+Sbjct  84   AKSVREPNAVYLSVPPGQHEVVIRFYPISRDKAERLHVIHQFNAHQRYTFKMYRNRSKQQ  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLLNVS PDPLCVDL Q+ + IRRFC+P++V  GLGEF E+K
+Sbjct  144  GSLLNVSAPDPLCVDLMQEQKTIRRFCKPYNVLNGLGEFAEKK  186
+
+
+>WP_086176977.1 hypothetical protein [Acinetobacter sp. ANC 5054]
+Length=187
+
+ Score = 202 bits (515),  Expect = 6e-064, Method: Compositional matrix adjust.
+ Identities = 92/163 (56%), Positives = 122/163 (75%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQA-EQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            MDT RIK   E E+  +NA I+C+G   CEFERL+ + ++DA+  ++   AI  GIVRLN
+Sbjct  24   MDTKRIKNVKETESTKKNALIFCAGPAHCEFERLDQLMIIDAEHHKVQRAAIKAGIVRLN  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+            G  LS+ N +YLSVP+ Q+EVVIR+YPIS  ++E +HVIH FK+   Y FKM+RD+S + 
+Sbjct  84   GQSLSEPNPVYLSVPSGQHEVVIRFYPISTGKSERLHVIHNFKSKQEYSFKMFRDRSKQQ  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLL+ S PDPLCVDL+Q  + IRRFCRP++V TGLGEF+E+K
+Sbjct  144  GSLLDKSAPDPLCVDLKQGEKTIRRFCRPYNVLTGLGEFVEKK  186
+
+
+>WP_067763855.1 hypothetical protein [Acinetobacter gandensis]
+Length=187
+
+ Score = 202 bits (515),  Expect = 7e-064, Method: Compositional matrix adjust.
+ Identities = 95/163 (58%), Positives = 119/163 (73%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQA-EQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            +DT RIK   E E+   NA I C G  +CEFER + + VVD+    +   AI  GIVRLN
+Sbjct  24   IDTARIKNVKETESTKNNAVIRCVGRATCEFERFDKLMVVDSSNHHVQRAAIKAGIVRLN  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+            G  LS  N+LYLSVP  Q+EVVIR+YPIS D+AE++HVIH F+A  +Y FKM+RD+S + 
+Sbjct  84   GHSLSDPNALYLSVPPGQHEVVIRFYPISTDKAESLHVIHNFRAKQQYSFKMFRDRSKQK  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLL VS PDPLCVDL Q+ + IRRFCRP++V TGLGEF+E+K
+Sbjct  144  GSLLAVSAPDPLCVDLIQEKKTIRRFCRPYNVLTGLGEFVEKK  186
+
+
+>WP_004647383.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=187
+
+ Score = 201 bits (512),  Expect = 2e-063, Method: Compositional matrix adjust.
+ Identities = 88/163 (54%), Positives = 125/163 (77%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQAEQENLGQ-NAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            +DT+++K A++    + NA IYC+G   C+FER N   +V+A   RIS++A+ Q +VRL 
+Sbjct  24   IDTMKLKHAKENTESKSNALIYCTGTPDCQFERFNQTIIVNADNGRISDEALKQKLVRLQ  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+               L+Q+NS+YLSVPA Q+E+V+R+YPIS D+AET+HV H+F+AN+RY  KM+RD+S RS
+Sbjct  84   AKNLNQANSIYLSVPAGQHELVVRFYPISKDKAETLHVFHRFQANNRYSLKMFRDRSARS  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+             SLLN S PDPLCVDL Q+ + IRRFC+P++  TG+ EF+E+K
+Sbjct  144  SSLLNSSAPDPLCVDLVQEQKTIRRFCKPYNAVTGIAEFVEKK  186
+
+
+>WP_004978936.1 hypothetical protein [Acinetobacter johnsonii]
+Length=186
+
+ Score = 201 bits (512),  Expect = 2e-063, Method: Compositional matrix adjust.
+ Identities = 91/163 (56%), Positives = 124/163 (76%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQAEQENLGQN-AAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            M+T  IK+ +     +N A +YC+G  SCEFER N I +VDA+  R+S +AI + +VRL 
+Sbjct  23   MNTASIKRIQDTPASKNNAQLYCTGTVSCEFERWNQIKIVDAENHRVSREAIREKVVRLK  82
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+               L+++N+L+LSVPA Q+E+VIR+YP+S DRAET+HVIH+FK   RY F+M+R +S   
+Sbjct  83   RDDLNEANALFLSVPAGQHELVIRFYPVSVDRAETLHVIHRFKPAERYTFRMFRARSRHQ  142
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLLN+S PDPLCVDL+Q+ R IRRFC+P++V  GLGEF+EQK
+Sbjct  143  GSLLNMSAPDPLCVDLKQNQRTIRRFCKPYNVLNGLGEFVEQK  185
+
+
+>WP_062035045.1 hypothetical protein [Acinetobacter sp. BMW17]
+Length=186
+
+ Score = 201 bits (510),  Expect = 3e-063, Method: Compositional matrix adjust.
+ Identities = 91/163 (56%), Positives = 123/163 (75%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQAEQENLGQN-AAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            M+T  IK+ +     +N A +YC+G  SCEFER N I +VDA+  R+S +AI + +VRL 
+Sbjct  23   MNTTSIKRIQDTPASKNNAQLYCTGTVSCEFERWNQIKIVDAENHRVSREAIREKVVRLK  82
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+               L+++N+L+LSVPA Q+E+VIR+YP+S DRAET+HVIH+FK   RY F+M+R +S   
+Sbjct  83   RDDLNEANALFLSVPAGQHELVIRFYPVSVDRAETLHVIHRFKPAERYTFRMFRARSRHQ  142
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLLN+S PDPLCVDL+Q  R IRRFC+P++V  GLGEF+EQK
+Sbjct  143  GSLLNMSAPDPLCVDLKQSQRTIRRFCKPYNVLNGLGEFVEQK  185
+
+
+>WP_034582815.1 hypothetical protein [Acinetobacter sp. HR7]
+Length=187
+
+ Score = 201 bits (510),  Expect = 4e-063, Method: Compositional matrix adjust.
+ Identities = 88/163 (54%), Positives = 120/163 (74%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQ-AEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            +DT+++K+  E    G +A IYCSG + C FERL+D+T++DA  RRI + A+   +VRL 
+Sbjct  24   IDTMQLKRLTESAATGSDALIYCSGTQDCNFERLDDVTIMDAVNRRIDSHAMRLKLVRLQ  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+               L+  N +YLSVP  Q+E+V+R+YPISP++AE +HV  +FKA H+Y FKMYR +S R+
+Sbjct  84   SESLADPNPIYLSVPPGQHELVVRFYPISPEKAEVLHVFQEFKAQHKYTFKMYRQRSTRN  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+             SLL  S PDPLCVDL QD + IRRFCRP++V TG+ EF+EQK
+Sbjct  144  TSLLQASAPDPLCVDLMQDTKTIRRFCRPYNVETGIAEFVEQK  186
+
+
+>WP_044111836.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=187
+
+ Score = 200 bits (509),  Expect = 5e-063, Method: Compositional matrix adjust.
+ Identities = 87/163 (53%), Positives = 124/163 (76%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQAEQENLGQ-NAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            +DT+++K A++    + NA IYC+G   C+FER N   +V+A   RIS++A+ Q +VRL 
+Sbjct  24   IDTMKLKHAKENTESKSNALIYCTGTPDCQFERFNQTIIVNADNGRISDEALKQKLVRLK  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+               L+Q+N +YLSVPA Q+E+V+R+YPIS D+AET+HV H+F+AN+RY  KM+RD+S RS
+Sbjct  84   AKNLNQANPIYLSVPAGQHELVVRFYPISKDKAETLHVFHRFQANNRYSLKMFRDRSARS  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+             SLLN S PDPLCVDL Q+ + IRRFC+P++  TG+ EF+E+K
+Sbjct  144  SSLLNASAPDPLCVDLVQEQKTIRRFCKPYNAVTGIAEFVEKK  186
+
+
+>WP_071852214.1 hypothetical protein [Acinetobacter sp. AR2-3]
+Length=187
+
+ Score = 200 bits (509),  Expect = 6e-063, Method: Compositional matrix adjust.
+ Identities = 87/163 (53%), Positives = 124/163 (76%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQAEQENLGQ-NAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            +DT+++K A++    + NA IYC+G   C+FER N   +V+A   RIS++A+ Q +VRL 
+Sbjct  24   IDTMKLKHAKESTESKSNALIYCAGTPDCQFERFNQTIIVNADNGRISDEALKQKLVRLQ  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+               L+Q+N +YLSVPA Q+E+V+R+YPIS D+AET+HV H+F+AN+RY  KM+RD+S RS
+Sbjct  84   AKNLNQANPIYLSVPAGQHELVVRFYPISKDKAETLHVFHRFQANNRYSLKMFRDRSARS  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+             SLLN S PDPLCVDL Q+ + IRRFC+P++  TG+ EF+E+K
+Sbjct  144  SSLLNASAPDPLCVDLVQEQKTIRRFCKPYNAVTGIAEFVEKK  186
+
+
+>WP_086209996.1 hypothetical protein [Acinetobacter sp. ANC 4204]
+Length=186
+
+ Score = 199 bits (507),  Expect = 1e-062, Method: Compositional matrix adjust.
+ Identities = 93/163 (57%), Positives = 122/163 (75%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQAEQENLGQN-AAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            M+T  IK+  +    +N A IYC+G  +CEFERLN I +V+A   R+S  AI + IVRL 
+Sbjct  23   MNTASIKRIHETPASKNNAQIYCTGTVNCEFERLNKIKIVNADNHRVSRDAIREQIVRLK  82
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+               L+ +NSL+LSVPA Q+E+VIR+YP+S DRAET+HVIH+FK   RY F+M+R +S   
+Sbjct  83   RDDLNDANSLFLSVPAGQHELVIRFYPVSADRAETLHVIHRFKPAERYTFRMFRARSRHQ  142
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLLN+S PDPLCVDL+Q+ R IRRFC+P++V  GLGEF+EQK
+Sbjct  143  GSLLNMSAPDPLCVDLKQNQRTIRRFCKPYNVLNGLGEFVEQK  185
+
+
+>WP_004729459.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=187
+
+ Score = 199 bits (507),  Expect = 1e-062, Method: Compositional matrix adjust.
+ Identities = 87/163 (53%), Positives = 124/163 (76%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQAEQENLGQ-NAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            +DT+++K A++    + NA IYC+G   C+FER N   +V+A   RIS++A+ Q +VRL 
+Sbjct  24   IDTMKLKHAKENTESKSNALIYCTGTPDCQFERFNQTIIVNADNGRISDEALKQKLVRLQ  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+               L+Q+N +YLSVPA Q+E+V+R+YPIS D+AET+HV H+F+AN+RY  KM+RD+S RS
+Sbjct  84   AKNLNQANPIYLSVPAGQHELVVRFYPISKDKAETLHVFHRFQANNRYSLKMFRDRSARS  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+             SLLN S PDPLCVDL Q+ + IRRFC+P++  TG+ EF+E+K
+Sbjct  144  SSLLNSSAPDPLCVDLVQEQKTIRRFCKPYNAVTGIAEFVEKK  186
+
+
+>WP_010325844.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=186
+
+ Score = 199 bits (505),  Expect = 2e-062, Method: Compositional matrix adjust.
+ Identities = 90/163 (55%), Positives = 123/163 (75%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQAEQENLGQN-AAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            M+T  IK+ +     +N A +YC+G  +CEFER N I +VDA   R+S +AI + +VRL 
+Sbjct  23   MNTASIKRIQDTPASKNNAQLYCTGTVNCEFERWNQIKIVDADNHRVSREAIREKVVRLK  82
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+               L+++N+L+LSVPA Q+E+VIR+YP+S DRAET+HVIH+FK   RY F+M+R +S   
+Sbjct  83   RDDLNEANALFLSVPAGQHELVIRFYPVSVDRAETLHVIHRFKPAERYTFRMFRARSRHQ  142
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLLN+S PDPLCVDL+Q+ R IRRFC+P++V  GLGEF+EQK
+Sbjct  143  GSLLNMSAPDPLCVDLKQNQRTIRRFCKPYNVLNGLGEFVEQK  185
+
+
+>WP_004692537.1 hypothetical protein [Acinetobacter johnsonii]
+Length=186
+
+ Score = 199 bits (505),  Expect = 2e-062, Method: Compositional matrix adjust.
+ Identities = 90/163 (55%), Positives = 123/163 (75%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQAEQENLGQN-AAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            M+T  IK+ +     +N A +YC+G  +CEFER N I +VDA   R+S +AI + +VRL 
+Sbjct  23   MNTASIKRIQDTPASKNNAQLYCTGTVNCEFERWNQIKIVDADNHRVSREAIREKVVRLK  82
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+               L+++N+L+LSVPA Q+E+VIR+YP+S DRAET+HVIH+FK   RY F+M+R +S   
+Sbjct  83   RDDLNEANALFLSVPAGQHELVIRFYPVSVDRAETLHVIHRFKPAERYTFRMFRARSRHQ  142
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLLN+S PDPLCVDL+Q+ R IRRFC+P++V  GLGEF+EQK
+Sbjct  143  GSLLNMSAPDPLCVDLKQNQRTIRRFCKPYNVLNGLGEFVEQK  185
+
+
+>WP_034702380.1 hypothetical protein [Acinetobacter baumannii]
+Length=187
+
+ Score = 197 bits (501),  Expect = 8e-062, Method: Compositional matrix adjust.
+ Identities = 88/163 (54%), Positives = 121/163 (74%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQAEQENLGQ-NAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            +DT ++K A+++   + NA IYC+G   C+FERLN   +VD  T+RIS +A+ Q +VRL 
+Sbjct  24   IDTFKLKHAKEDAESKSNALIYCAGTPDCQFERLNRTMIVDESTKRISPEALDQRLVRLQ  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+               L Q N +YLSVP  Q+E+V+R+YPIS D+AET+H+  QFKAN RY  KM+RD++ RS
+Sbjct  84   AKNLKQDNPIYLSVPEGQHELVVRFYPISKDKAETLHLFQQFKANKRYTLKMFRDRNARS  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+             SLLN S PDPLCVDL Q+ +VIRRFC+P++V  G+ EF+E+K
+Sbjct  144  TSLLNASAPDPLCVDLLQEQKVIRRFCKPYNVINGIAEFVEKK  186
+
+
+>WP_086044146.1 hypothetical protein [Acinetobacter lwoffii]
+Length=187
+
+ Score = 197 bits (501),  Expect = 8e-062, Method: Compositional matrix adjust.
+ Identities = 86/163 (53%), Positives = 123/163 (75%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQAEQENLGQ-NAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            +DT+++K A++    + NA IYC+G   C+FER N   +V+A   RIS++A+ Q +VRL 
+Sbjct  24   IDTMKLKHAKENTESKSNALIYCTGTPDCQFERFNQTIIVNADNGRISDEALKQKLVRLQ  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+               L+Q+N +YLSVP  Q+E+V+R+YPIS D+AET+HV H+F+AN+RY  KM+RD+S RS
+Sbjct  84   AKNLNQANPIYLSVPVGQHELVVRFYPISKDKAETLHVFHRFQANNRYSLKMFRDRSARS  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+             SLLN S PDPLCVDL Q+ + IRRFC+P++  TG+ EF+E+K
+Sbjct  144  SSLLNSSAPDPLCVDLVQEQKTIRRFCKPYNAVTGIAEFVEKK  186
+
+
+>WP_005400864.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=186
+
+ Score = 197 bits (501),  Expect = 9e-062, Method: Compositional matrix adjust.
+ Identities = 89/163 (55%), Positives = 123/163 (75%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQAEQENLGQN-AAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            M+T  IK+ +     +N A +YC+G  +CEFER N I +V+A   R+S +AI + +VRL 
+Sbjct  23   MNTASIKRIQDTPASKNNAQLYCTGTVNCEFERWNQIKIVNADNHRVSREAIREKVVRLK  82
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+               L+++N+L+LSVPA Q+E+VIR+YP+S DRAET+HVIH+FK   RY F+M+R +S   
+Sbjct  83   RDDLNEANALFLSVPAGQHELVIRFYPVSVDRAETLHVIHRFKPAERYTFRMFRARSRHQ  142
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLLN+S PDPLCVDL+Q+ R IRRFC+P++V  GLGEF+EQK
+Sbjct  143  GSLLNMSAPDPLCVDLKQNQRTIRRFCKPYNVLNGLGEFVEQK  185
+
+
+>WP_010114223.1 hypothetical protein [Acinetobacter sp. P8-3-8]
+Length=189
+
+ Score = 197 bits (500),  Expect = 1e-061, Method: Compositional matrix adjust.
+ Identities = 90/163 (55%), Positives = 121/163 (74%), Gaps = 2/163 (1%)
+
+Query  1    MDTVRIKQAEQENLGQNA-AIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            +D +RIK+AE+++  QN  A+YCSGA+ CEF RLND+ +VD    R + +AI +G ++L 
+Sbjct  27   VDLMRIKKAEKQHHSQNTVAVYCSGAEHCEFARLNDLVIVDENVARANRKAIDKGYLKLT  86
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+            G  L Q N +YL++P +QYE+VIR+YPI+ + AE  HVIHQF+ N  Y FKMYR +S+ S
+Sbjct  87   GEPLDQ-NGVYLTIPPQQYEMVIRFYPITKEHAEVFHVIHQFEGNQTYTFKMYRQRSSNS  145
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLLNVS P PLCVD+ Q+ R IRRFCRP +  TG+ EF+EQK
+Sbjct  146  GSLLNVSAPTPLCVDMIQENRTIRRFCRPHNAVTGVSEFVEQK  188
+
+
+>WP_004781850.1 hypothetical protein [Acinetobacter sp. NIPH 899]
+Length=187
+
+ Score = 197 bits (500),  Expect = 1e-061, Method: Compositional matrix adjust.
+ Identities = 88/163 (54%), Positives = 121/163 (74%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQAEQENLGQ-NAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            +DT ++K A+++   + NA IYC+G   C+FERLN   +VD  T+RIS +A+ Q +VRL 
+Sbjct  24   IDTFKLKHAKEDAESKSNALIYCAGTPDCQFERLNRTMIVDESTKRISPEALDQRLVRLQ  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+               L Q N +YLSVP  Q+E+V+R+YPIS D+AET+H+  QFKAN RY  KM+RD++ RS
+Sbjct  84   AKNLKQDNPIYLSVPEGQHELVVRFYPISKDKAETLHLFQQFKANKRYTLKMFRDRNARS  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+             SLLN S PDPLCVDL Q+ +VIRRFC+P++V  G+ EF+E+K
+Sbjct  144  TSLLNSSAPDPLCVDLLQEQKVIRRFCKPYNVINGIAEFVEKK  186
+
+
+>WP_053578841.1 hypothetical protein [Acinetobacter sp. TTH0-4]
+Length=187
+
+ Score = 196 bits (499),  Expect = 2e-061, Method: Compositional matrix adjust.
+ Identities = 89/163 (55%), Positives = 121/163 (74%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQ-AEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            +DT+R+K   E E+   NA I+C+G + CEFER N   +VDA   R++++AI QGIVRL 
+Sbjct  24   IDTMRVKNVGETESSKLNALIFCAGTEQCEFERFNRTQIVDALNHRLNSEAIQQGIVRLQ  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+               L+  N L LSVPA Q+E+VIR+YP+SPDRAET+HV H F A   Y FKMYR++   +
+Sbjct  84   SKSLNDPNPLSLSVPAGQHELVIRFYPVSPDRAETLHVFHNFGAQKSYTFKMYRNRIKHA  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            G+LL+VS PDPLCV+L+Q+ + IRRFC+P++V  GLGEF+E+K
+Sbjct  144  GNLLDVSAPDPLCVELQQEQKTIRRFCKPYNVLNGLGEFVERK  186
+
+
+>WP_058868872.1 hypothetical protein [Acinetobacter johnsonii]
+Length=186
+
+ Score = 196 bits (499),  Expect = 2e-061, Method: Compositional matrix adjust.
+ Identities = 89/163 (55%), Positives = 121/163 (74%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQAEQENLGQN-AAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            M+T  IK+ +     +N A +YC+G  +CEFER N I +VD    R+S +AI + +VRL 
+Sbjct  23   MNTASIKRIQDTPASKNNAQLYCTGTVNCEFERWNQIKIVDVDNHRVSREAIREKVVRLK  82
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+               L+++N+L+LSVPA Q+E+VIR+YP+S DRAET+HVIH+FK   RY F+M+R +S   
+Sbjct  83   RDDLNEANALFLSVPAGQHELVIRFYPVSVDRAETLHVIHRFKPAERYTFRMFRARSRHQ  142
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLLN+S PDPLCVDL+Q  R IRRFC+P++V  GLGEF+EQK
+Sbjct  143  GSLLNMSAPDPLCVDLKQSQRTIRRFCKPYNVLNGLGEFVEQK  185
+
+
+>WP_004718093.1 hypothetical protein [Acinetobacter guillouiae]
+Length=189
+
+ Score = 196 bits (499),  Expect = 2e-061, Method: Compositional matrix adjust.
+ Identities = 90/163 (55%), Positives = 122/163 (75%), Gaps = 2/163 (1%)
+
+Query  1    MDTVRIKQAEQENLGQNA-AIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            +D +RIKQAE +++ QN+ ++YCSGA+ CEF RLND+ ++D + +R +  AI +G ++L 
+Sbjct  27   VDLMRIKQAENKHVSQNSVSVYCSGAEHCEFARLNDVIIMDERAQRANRSAIQKGYLKLT  86
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+            G  L Q N +YL++P +QYE+VIR+YPI+   AE  HVIH FKAN +Y FKMYR +S  S
+Sbjct  87   GEPLDQ-NGVYLTIPPQQYEMVIRFYPITKQHAEVFHVIHDFKANQKYTFKMYRLRSQGS  145
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLLNVS P PLCVD+ Q+ R IRRFCRP +  TG+ EF+EQK
+Sbjct  146  GSLLNVSSPTPLCVDMIQEKRTIRRFCRPHNAVTGVSEFVEQK  188
+
+
+>WP_005232350.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=187
+
+ Score = 196 bits (497),  Expect = 3e-061, Method: Compositional matrix adjust.
+ Identities = 87/163 (53%), Positives = 121/163 (74%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQAEQENLGQ-NAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            +DT ++K A+++   + NA IYC+G   C+FERL+   +VD  T+RIS +A+ Q +VRL 
+Sbjct  24   IDTFKLKHAKEDAESKSNALIYCAGTPDCQFERLDRTMIVDESTKRISPEALDQRLVRLQ  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+               L Q N +YLSVP  Q+E+V+R+YPIS D+AET+H+  QFKAN RY  KM+RD++ RS
+Sbjct  84   AKNLKQDNPIYLSVPEGQHELVVRFYPISKDKAETLHLFQQFKANKRYTLKMFRDRNARS  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+             SLLN S PDPLCVDL Q+ +VIRRFC+P++V  G+ EF+E+K
+Sbjct  144  TSLLNASAPDPLCVDLLQEQKVIRRFCKPYNVINGIAEFVEKK  186
+
+
+>WP_067666834.1 hypothetical protein [Acinetobacter sp. ANC 4149]
+Length=187
+
+ Score = 195 bits (496),  Expect = 5e-061, Method: Compositional matrix adjust.
+ Identities = 88/163 (54%), Positives = 119/163 (73%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQA-EQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            ++T ++K   E E+   NA IYC+G   CEFER + I ++DA  +R+   A+  GI+R+ 
+Sbjct  24   INTAQLKNVKETESTKNNALIYCAGTDDCEFERYDQIRILDAANQRLQKSAVKSGILRMR  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+               L   N+LYLSVPA Q+EVVIR+YPIS D+AE +HVIH+F A  RY FKMYR++  + 
+Sbjct  84   TKSLQDPNALYLSVPAGQHEVVIRFYPISKDKAEQLHVIHKFNAGQRYTFKMYRNRIKQQ  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLLNVS PDPLCVDL+Q+ + IRRFC+P++V  GLGEF+E+K
+Sbjct  144  GSLLNVSAPDPLCVDLKQEHKTIRRFCKPYNVLNGLGEFVEKK  186
+
+
+>WP_034611630.1 hypothetical protein [Acinetobacter sp. ETR1]
+Length=189
+
+ Score = 195 bits (496),  Expect = 5e-061, Method: Compositional matrix adjust.
+ Identities = 90/163 (55%), Positives = 121/163 (74%), Gaps = 2/163 (1%)
+
+Query  1    MDTVRIKQAEQENLGQNA-AIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            +D +RIKQAE + + QN+ ++YCSGA+ CEF RLND+ ++D + +R +  AI +G ++L 
+Sbjct  27   VDLMRIKQAENKYVSQNSVSVYCSGAEHCEFARLNDVIIMDERAQRANRSAIQKGYLKLT  86
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+            G  L Q N +YL++P +QYE+VIR+YPI+   AE  HVIH FKAN +Y FKMYR +S  S
+Sbjct  87   GEPLDQ-NGVYLTIPPQQYEMVIRFYPITKQHAEVFHVIHDFKANQKYTFKMYRLRSQGS  145
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLLNVS P PLCVD+ Q+ R IRRFCRP +  TG+ EF+EQK
+Sbjct  146  GSLLNVSSPTPLCVDMVQEKRTIRRFCRPHNAVTGVSEFVEQK  188
+
+
+>WP_004826588.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=189
+
+ Score = 195 bits (495),  Expect = 7e-061, Method: Compositional matrix adjust.
+ Identities = 89/163 (55%), Positives = 120/163 (74%), Gaps = 2/163 (1%)
+
+Query  1    MDTVRIKQAEQENLGQNA-AIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            +D VRIKQAE+  + QN  ++YCSGA+ CEF RLND+ ++   T+R + +AI +G ++L 
+Sbjct  27   VDLVRIKQAEKNQMSQNTVSVYCSGAEHCEFARLNDLIIMQENTQRANRKAIDKGYLKLT  86
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+            G  L Q   +YL++P +QYE+V+R+YPI+ D AE  HVIH FKAN +Y FKMYR +S  +
+Sbjct  87   GKPLDQI-GVYLTIPPQQYEMVVRFYPITKDHAEVFHVIHDFKANQKYTFKMYRQRSQGA  145
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLLNVS P PLCVD+ Q+ R IRRFCRP +  TG+ EF+EQK
+Sbjct  146  GSLLNVSSPTPLCVDMLQETRTIRRFCRPHNAVTGVSEFVEQK  188
+
+
+>WP_068885532.1 hypothetical protein [Acinetobacter celticus]
+Length=187
+
+ Score = 195 bits (495),  Expect = 7e-061, Method: Compositional matrix adjust.
+ Identities = 89/163 (55%), Positives = 121/163 (74%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQA-EQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            +D+  +K   E E   +NA IYC+G ++CEFER + I + +A++RR+   A+  GI+RL 
+Sbjct  24   IDSSHLKNVKETERTKKNALIYCAGTENCEFERFDKIRISNAESRRLEKVAVKSGILRLQ  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+               L   N +YLSVPA Q+EVVIR+YPIS D+AE ++VIH+F A+ RY FKMYR++S + 
+Sbjct  84   TQSLRNRNPIYLSVPAGQHEVVIRFYPISKDKAEELNVIHKFNASQRYTFKMYRNRSKQQ  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLLNVS PDPLCVDL Q+  +IRRFC+P++V TGLGEF E+K
+Sbjct  144  GSLLNVSAPDPLCVDLIQERTIIRRFCKPYNVLTGLGEFAEKK  186
+
+
+>WP_078389546.1 hypothetical protein [Acinetobacter sp. MF4640]
+Length=186
+
+ Score = 195 bits (495),  Expect = 7e-061, Method: Compositional matrix adjust.
+ Identities = 88/163 (54%), Positives = 121/163 (74%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQAEQENLGQN-AAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            M+T  IK+ +     +N   +YC+G  +CEFER N I +VD    R+S +AI + +VRL 
+Sbjct  23   MNTASIKRIQDTPASKNNVQLYCTGTVNCEFERWNQIQIVDVDNHRVSREAIREKVVRLK  82
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+               L+++N+L+LSVPA Q+E+VIR+YP+S DRAET+HVIH+FK   RY F+M+R +S   
+Sbjct  83   RDDLNEANALFLSVPAGQHELVIRFYPVSVDRAETLHVIHRFKPAERYTFRMFRARSRHQ  142
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLLN+S PDPLCVDL+Q+ R IRRFC+P++V  GLGEF+EQK
+Sbjct  143  GSLLNMSAPDPLCVDLKQNQRTIRRFCKPYNVLNGLGEFVEQK  185
+
+
+>WP_086181994.1 hypothetical protein [Acinetobacter sp. ANC 4558]
+Length=191
+
+ Score = 194 bits (493),  Expect = 1e-060, Method: Compositional matrix adjust.
+ Identities = 91/169 (54%), Positives = 125/169 (74%), Gaps = 2/169 (1%)
+
+Query  1    MDTVRIKQA-EQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+             DT RIK   E E+  QNA ++C+G ++CEFERL+ I +VD    +I ++AI QG+VRL 
+Sbjct  24   WDTARIKNVKETESTQQNALVFCTGTETCEFERLDLIKIVDENRHQIGHEAIEQGVVRLK  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+            G+ L++ N+LYLSV  +Q+E+VIR+YPIS +RAE + VIH+F+A   Y FKMYR++   +
+Sbjct  84   GTSLNKPNTLYLSVSPQQHEIVIRFYPISKERAEKLFVIHKFEAKRNYTFKMYRNRGVGT  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPRQ  168
+            GSLLNVS P+PLCVDL +  + IRRFC+P++V  GLGEF+E  KL  RQ
+Sbjct  144  GSLLNVSAPEPLCVDLIEGQKTIRRFCKPYNVLNGLGEFVEM-KLNKRQ  191
+
+
+>WP_056516866.1 hypothetical protein [Acinetobacter sp. Root1280]
+Length=189
+
+ Score = 194 bits (493),  Expect = 2e-060, Method: Compositional matrix adjust.
+ Identities = 89/163 (55%), Positives = 121/163 (74%), Gaps = 2/163 (1%)
+
+Query  1    MDTVRIKQAEQENLGQNA-AIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            +D +RIKQAE +++ QN+ ++YCSGA+ CEF RLND+ ++D + +R +  AI +G ++L 
+Sbjct  27   VDLMRIKQAENKHVSQNSVSVYCSGAEHCEFARLNDVIIMDERAQRANRSAIQKGYLKLT  86
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+            G  L Q N +YL++P +QYE+VIR+YPI+   AE  HVIH FK N +Y FKMYR +S  S
+Sbjct  87   GEPLDQ-NGVYLTIPPQQYEMVIRFYPITKQHAEVFHVIHDFKPNQKYTFKMYRLRSQGS  145
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLLNVS P PLCVD+ Q+ R IRRFCRP +  TG+ EF+EQK
+Sbjct  146  GSLLNVSSPTPLCVDMIQEKRTIRRFCRPHNAVTGVSEFVEQK  188
+
+
+>WP_005007228.1 hypothetical protein [Acinetobacter bouvetii]
+Length=187
+
+ Score = 194 bits (493),  Expect = 2e-060, Method: Compositional matrix adjust.
+ Identities = 88/163 (54%), Positives = 121/163 (74%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRI-KQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            +DT ++ K  E E    +A IYC+G + CEFER + I +++A+ +R+   AI  GI+R+ 
+Sbjct  24   IDTAQLNKVKETEGTKSHAQIYCAGTEDCEFERYDQIRILNAENQRLEKSAIKSGILRMR  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+               L   N+LYLSVPA Q+EVVIR+YPIS ++AE +HVIHQF  + RY+FKMYR++S + 
+Sbjct  84   AKSLQDPNALYLSVPAGQHEVVIRFYPISREKAEQLHVIHQFNPSQRYVFKMYRNRSKQR  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLLNVS PDPLCVDL Q+ + IRRFC+P++V  GLGEF+E+K
+Sbjct  144  GSLLNVSAPDPLCVDLMQEHKTIRRFCKPYNVLNGLGEFVEKK  186
+
+
+>WP_004818787.1 hypothetical protein [Acinetobacter guillouiae]
+Length=189
+
+ Score = 194 bits (492),  Expect = 2e-060, Method: Compositional matrix adjust.
+ Identities = 89/163 (55%), Positives = 121/163 (74%), Gaps = 2/163 (1%)
+
+Query  1    MDTVRIKQAEQENLGQNA-AIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            +D +RIKQAE +++ QN+ ++YCSGA+ CEF RLND+ ++D + +R +  AI +G ++L 
+Sbjct  27   VDLMRIKQAENKHVSQNSVSVYCSGAEHCEFARLNDVIIMDERAQRANRSAIQKGYLKLT  86
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+            G  L Q N +YL++P +QYE+VIR+YPI+   AE  HVIH FKAN +Y FKMYR +   S
+Sbjct  87   GEPLDQ-NGVYLTIPPQQYEMVIRFYPITKQHAEVFHVIHDFKANQKYTFKMYRLRLQGS  145
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLLNVS P PLCVD+ Q+ R IRRFCRP +  TG+ EF+EQK
+Sbjct  146  GSLLNVSSPTPLCVDMIQEKRTIRRFCRPHNAVTGVSEFVEQK  188
+
+
+>WP_064094872.1 hypothetical protein [Acinetobacter sp. SFD]
+Length=187
+
+ Score = 193 bits (491),  Expect = 3e-060, Method: Compositional matrix adjust.
+ Identities = 85/163 (52%), Positives = 119/163 (73%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQAEQENLGQN-AAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            +DT+++K A+     +N   IYC+G   C+FER N   +V A   RI  +A+ Q +VRL 
+Sbjct  24   IDTMKLKHAKASTESKNNVLIYCTGTPDCQFERFNQTIIVHADNGRIGAEALKQKLVRLQ  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+               L+Q+N +YLSVPA Q+E+V+R+YPIS D+AET+HV H+F+AN+RY  KM+RD+S RS
+Sbjct  84   AKNLNQANPVYLSVPAGQHELVVRFYPISKDKAETLHVFHRFQANNRYSLKMFRDRSARS  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+             SLLN S PDPLCVDL Q+ + IRRFC+P++  TG+ EF+E+K
+Sbjct  144  SSLLNASAPDPLCVDLVQEQKTIRRFCKPYNAVTGIAEFVEKK  186
+
+
+>WP_064102227.1 hypothetical protein [Acinetobacter sp. SFA]
+Length=187
+
+ Score = 193 bits (490),  Expect = 4e-060, Method: Compositional matrix adjust.
+ Identities = 85/163 (52%), Positives = 118/163 (72%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQAEQENLGQN-AAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            +DT+++K A+     +N   IYC+G   C+FER N   +V A   RI  +A+ Q +VRL 
+Sbjct  24   IDTMKLKHAKASTESKNNVLIYCTGTADCQFERFNQTIIVHADNGRIGAEALKQKLVRLQ  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+               L+Q+N +YLSVPA Q+E+V+R+YPIS D+AET+HV H+F AN+RY  KM+RD+S RS
+Sbjct  84   AKNLNQANPVYLSVPAGQHELVVRFYPISKDKAETLHVFHRFHANNRYSLKMFRDRSARS  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+             SLLN S PDPLCVDL Q+ + IRRFC+P++  TG+ EF+E+K
+Sbjct  144  SSLLNASAPDPLCVDLVQEQKTIRRFCKPYNAVTGIAEFVEKK  186
+
+
+>WP_054580984.1 hypothetical protein [Acinetobacter equi]
+Length=191
+
+ Score = 193 bits (490),  Expect = 4e-060, Method: Compositional matrix adjust.
+ Identities = 92/169 (54%), Positives = 124/169 (73%), Gaps = 2/169 (1%)
+
+Query  1    MDTVRIKQ-AEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+             DTVRIK   E E++ +NA ++C G + CEFERL+ I +VD    +IS++AI QG+VRL 
+Sbjct  24   WDTVRIKNIKETESMKKNALVFCEGTEVCEFERLDTINIVDENRYQISDEAIEQGLVRLK  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+            G+ L   N+LYLSV  +Q+EVVIR+YPIS ++AE + VIH+F+ N  Y FKMYR++   +
+Sbjct  84   GTSLKHPNALYLSVLPQQHEVVIRFYPISKNKAEKLVVIHRFEPNRNYTFKMYRNRGTGT  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPRQ  168
+            GSLLNVS P+PLCVDL +  + IRRFC+P++V  GLGEF E KK+  RQ
+Sbjct  144  GSLLNVSAPEPLCVDLIEGQKTIRRFCKPYNVLNGLGEFAE-KKVNKRQ  191
+
+
+>WP_067728238.1 hypothetical protein [Acinetobacter sp. NCu2D-2]
+Length=187
+
+ Score = 192 bits (489),  Expect = 7e-060, Method: Compositional matrix adjust.
+ Identities = 82/163 (50%), Positives = 123/163 (75%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQAEQENLGQ-NAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            +DT+++K+ ++    Q NA IYC+G + CEFERL+   ++DA++  ++ +A+ Q +VRLN
+Sbjct  24   IDTLQLKKIKETKETQSNALIYCAGTQDCEFERLDQTIIIDAKSGHLNKEAMKQNLVRLN  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+            G  LSQ N +YLS+P+ Q+E+V+R+YPIS D+AE +HV H F A  +Y  KMYR++S + 
+Sbjct  84   GQKLSQPNPIYLSIPSGQHELVVRFYPISKDKAEVLHVFHNFHAKRKYTLKMYRERSTKV  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+             SLLN SVPDPLCVDL ++ + IRRFC+P++V TG+ EF+E+K
+Sbjct  144  DSLLNASVPDPLCVDLMRESKTIRRFCKPYNVQTGIAEFVERK  186
+
+
+>WP_005095471.1 hypothetical protein [Acinetobacter lwoffii]
+Length=187
+
+ Score = 192 bits (488),  Expect = 9e-060, Method: Compositional matrix adjust.
+ Identities = 86/163 (53%), Positives = 117/163 (72%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQA-EQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            +DT+++K A E      NA IYC G   C+FERLN   +V+    R+SN+A  Q +VRL 
+Sbjct  24   IDTMKLKHAKENAESKNNALIYCKGTSDCQFERLNQTIIVNNDNGRLSNEARKQKLVRLQ  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+               L+Q+N +YLSVPA Q+E+V+R+YPIS D+AE +HV H+F+AN  Y  KM+RD+S RS
+Sbjct  84   AKNLNQANPIYLSVPAGQHELVVRFYPISKDKAEILHVFHRFQANKTYTLKMFRDRSARS  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+             SLLN S PDPLCVDL Q+ + IRRFC+P++V  G+ EF+E+K
+Sbjct  144  SSLLNASAPDPLCVDLLQEQKTIRRFCKPYNVVNGIAEFVEKK  186
+
+
+>WP_004813328.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=187
+
+ Score = 192 bits (487),  Expect = 1e-059, Method: Compositional matrix adjust.
+ Identities = 81/163 (50%), Positives = 119/163 (73%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQAEQENL-GQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            +DT+++K+     +   +A IYCSG   C FER++DI +++A+ R + ++A+   +VRL 
+Sbjct  24   IDTIQLKKLSDSAVNSSDALIYCSGTHDCNFERMDDIKIINAEKRHVESEALKLKLVRLQ  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+               L + N +YLSVPA Q+E+V+R+YPISPD+AE +HV   F+A H+Y FKMYR +S R+
+Sbjct  84   AKSLKEPNPVYLSVPAGQHELVVRFYPISPDKAEVLHVFQNFQAKHKYTFKMYRQRSTRN  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+             SLL  S PDPLCVDL Q+ ++IRRFC+P++V TG+ EF+EQK
+Sbjct  144  TSLLQASAPDPLCVDLLQNTKIIRRFCKPYNVETGIAEFVEQK  186
+
+
+>WP_004890345.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=187
+
+ Score = 191 bits (486),  Expect = 2e-059, Method: Compositional matrix adjust.
+ Identities = 81/163 (50%), Positives = 119/163 (73%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQAEQENL-GQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            +DT+++K+     +   +A IYCSG   C FER++DI +++A+ R + ++A+   +VRL 
+Sbjct  24   IDTIQLKKLTDSAVNSSDALIYCSGTHDCNFERMDDIKIINAEKRHVESEALKLKLVRLQ  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+               L + N +YLSVPA Q+E+V+R+YPISPD+AE +HV   F+A H+Y FKMYR +S R+
+Sbjct  84   AKSLKEPNPVYLSVPAGQHELVVRFYPISPDKAEVLHVFQNFQAKHKYTFKMYRQRSTRN  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+             SLL  S PDPLCVDL Q+ ++IRRFC+P++V TG+ EF+EQK
+Sbjct  144  TSLLQASAPDPLCVDLLQNTKIIRRFCKPYNVETGIAEFVEQK  186
+
+
+>WP_004754329.1 hypothetical protein [Acinetobacter sp. ANC 3789]
+Length=190
+
+ Score = 190 bits (482),  Expect = 9e-059, Method: Compositional matrix adjust.
+ Identities = 89/162 (55%), Positives = 117/162 (72%), Gaps = 0/162 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +DT+ IK    E    N  +YC+G  +CEFER + I +VD  T  ++ +AI +G VRLN 
+Sbjct  28   VDTMAIKFIAPEQRPANVKLYCTGTVNCEFERFDSIQIVDDTTHLVNYEAIKKGYVRLNS  87
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+                 +N+L+L+VP +Q+EVVIR+YPIS DRAE I VIH FK N  Y FKMYR+++ ++G
+Sbjct  88   KTTGYNNALFLTVPDRQHEVVIRFYPISMDRAERISVIHHFKPNTSYTFKMYRNRTKQAG  147
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            SLL+VS PDPLCV L QD R IRRFC+P++V TGLGEF+EQK
+Sbjct  148  SLLSVSAPDPLCVVLLQDQRPIRRFCKPYNVLTGLGEFVEQK  189
+
+
+>WP_005172846.1 hypothetical protein [Acinetobacter sp. NIPH 713]
+Length=187
+
+ Score = 189 bits (480),  Expect = 1e-058, Method: Compositional matrix adjust.
+ Identities = 85/163 (52%), Positives = 116/163 (71%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIKQA-EQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            +DT+++K A E      NA IYC G   C+FERLN   +V+    R+S+ A  Q +VRL 
+Sbjct  24   IDTMKLKHAKENAESKNNALIYCKGTSDCQFERLNQTIIVNNDNGRLSDAARKQKLVRLQ  83
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+               L+Q+N +YLSVPA Q+E+V+R+YPIS D+AE +HV H+F+AN  Y  KM+RD+S RS
+Sbjct  84   AKNLNQANPIYLSVPAGQHELVVRFYPISKDKAEILHVFHRFQANKTYTLKMFRDRSARS  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+             SLLN S PDPLCVDL Q+ + IRRFC+P++V  G+ EF+E+K
+Sbjct  144  SSLLNASAPDPLCVDLLQEQKTIRRFCKPYNVVNGIAEFVEKK  186
+
+
+>WP_004899267.1 hypothetical protein [Acinetobacter brisouii]
+Length=190
+
+ Score = 189 bits (480),  Expect = 1e-058, Method: Compositional matrix adjust.
+ Identities = 89/162 (55%), Positives = 116/162 (72%), Gaps = 0/162 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +DT+ IK    E    N  +YC+G  +CEFER + I +VD  T  ++ +AI +G VRLN 
+Sbjct  28   VDTMAIKFIAPEQRPANVKLYCTGTVNCEFERFDSIQIVDDTTHLVNYEAIKKGYVRLNT  87
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+                 +N+L+L+VP +Q+EVVIR+YPIS DRAE I VIH FK N  Y FKMYR+++ ++G
+Sbjct  88   KTTGYNNALFLTVPDRQHEVVIRFYPISMDRAERISVIHHFKPNTSYTFKMYRNRTKQAG  147
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            SLLNVS PDPLCV L QD   IRRFC+P++V TGLGEF+EQK
+Sbjct  148  SLLNVSAPDPLCVVLLQDQHPIRRFCKPYNVLTGLGEFVEQK  189
+
+
+>WP_045792517.1 hypothetical protein [Acinetobacter brisouii]
+Length=190
+
+ Score = 187 bits (475),  Expect = 9e-058, Method: Compositional matrix adjust.
+ Identities = 88/162 (54%), Positives = 116/162 (72%), Gaps = 0/162 (0%)
+
+Query  1    MDTVRIKQAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +DT+ IK    E    N  +YC+G  +CEFER + I +VD  T  ++ +AI +G VRLN 
+Sbjct  28   VDTMAIKFIAPEQRPANVKLYCTGTVNCEFERFDSIQIVDDNTHLVNYEAIKKGYVRLNT  87
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+                 +N+LYL+VP +Q+EVVIR+YPIS DRAE I VIH FK N  Y FKMYR+++ ++G
+Sbjct  88   KTTGYNNALYLTVPDRQHEVVIRFYPISMDRAERISVIHHFKPNTSYTFKMYRNRTKQAG  147
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            SLL+VS PDPLCV L QD   IRRFC+P++V TGLGEF+E+K
+Sbjct  148  SLLSVSAPDPLCVVLLQDQHPIRRFCKPYNVLTGLGEFVEKK  189
+
+
+>WP_035264152.1 hypothetical protein [Acinetobacter sp. Ver3]
+Length=192
+
+ Score = 186 bits (473),  Expect = 2e-057, Method: Compositional matrix adjust.
+ Identities = 88/168 (52%), Positives = 124/168 (74%), Gaps = 1/168 (1%)
+
+Query  1    MDTVRIKQAEQENLGQN-AAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            +D +++K+ ++    +N A IYCSG  +CEFER ++  +VDAQ+RR+  +AI QG+VRLN
+Sbjct  25   VDRLQLKKIKETPETRNHALIYCSGTLNCEFERFDEHPIVDAQSRRLDQRAIKQGMVRLN  84
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+               L    +LYLSVPA  +EVV+R+YPIS ++AETI+VIH+F+A   Y F M+RD+S+  
+Sbjct  85   ADSLKDPQALYLSVPAGLHEVVVRFYPISEEKAETINVIHRFEAKKDYRFVMFRDRSSGK  144
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQKKLTPR  167
+             SLL+ S P+PLCVDL Q+ + IRRFC+P++V  GLGEF+EQK L  R
+Sbjct  145  KSLLDASAPEPLCVDLLQEQQTIRRFCKPYNVLNGLGEFVEQKNLKTR  192
+
+
+>WP_065993405.1 hypothetical protein [Acinetobacter sp. WCHA30]
+Length=187
+
+ Score = 184 bits (466),  Expect = 2e-056, Method: Compositional matrix adjust.
+ Identities = 87/163 (53%), Positives = 115/163 (71%), Gaps = 3/163 (2%)
+
+Query  2    DTVRIKQAEQE--NLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            D  R+K+AE++  +   N  +YCSGA+ CEF RL +I ++D  T RI    + +G  +L 
+Sbjct  25   DFARVKKAEKKYHDPLNNVVVYCSGAERCEFSRLTNINLIDESTHRIYPDVLKKGYFKLA  84
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+                 ++ SLYL++PA QYE+VIR+YPIS   AE  HVIH+FKAN +Y FKMYR +S  +
+Sbjct  85   NHD-PKNQSLYLTIPASQYEMVIRFYPISQQHAEVFHVIHRFKANQQYTFKMYRKRSENA  143
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLLNVS P PLCVDL Q+ R IRRFCRP++V TGL E++EQK
+Sbjct  144  GSLLNVSAPSPLCVDLLQEKRTIRRFCRPYNVETGLSEYIEQK  186
+
+
+>WP_086212939.1 hypothetical protein [Acinetobacter sp. ANC 3813]
+Length=188
+
+ Score = 182 bits (463),  Expect = 5e-056, Method: Compositional matrix adjust.
+ Identities = 83/162 (51%), Positives = 117/162 (72%), Gaps = 2/162 (1%)
+
+Query  3    TVRIKQA-EQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN-G  60
+            TV++K   E  +   NA IYC+G + C FER + + ++D   +++   AI  G++RL  G
+Sbjct  26   TVQLKNVKETASSKNNAQIYCAGTEDCAFERYDQVRLLDLSKQQLDKSAIKSGLLRLKEG  85
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+              L  +N+LYLS PA Q+E+VIR+YPIS D+AE++HVIH+F A  RY FKMYR++S +  
+Sbjct  86   KTLKDANALYLSAPAGQHELVIRFYPISHDKAESLHVIHKFNAQQRYTFKMYRNRSKQQS  145
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            SLLNVS P+PLCVDL Q+ + IRRFC+P++V  GLGEF+E+K
+Sbjct  146  SLLNVSAPEPLCVDLVQEQKTIRRFCKPYNVLNGLGEFVEKK  187
+
+
+>WP_068973711.1 hypothetical protein [Acinetobacter sp. WCHA60]
+Length=190
+
+ Score = 178 bits (452),  Expect = 3e-054, Method: Compositional matrix adjust.
+ Identities = 84/164 (51%), Positives = 117/164 (71%), Gaps = 3/164 (2%)
+
+Query  1    MDTVRIKQAEQENLGQNA-AIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            +D VRI +A  ++   N   +YCSGA+ CEF RLND+ + +   +R + +AI++G ++L 
+Sbjct  27   IDKVRINKAGLKHQSLNTVTVYCSGAEHCEFARLNDLIITEEHGQRANRKAINKGYLKLT  86
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNR-  118
+            G  L + N +YL++P +QYE+VIR+YPI+   AE  HVIH FKAN +Y FKMYR ++ + 
+Sbjct  87   GEPLDR-NGVYLTIPPQQYEMVIRFYPITKQHAEVFHVIHDFKANQQYTFKMYRQRTRQG  145
+
+Query  119  SGSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            SGSLLNVS P PLCVD+ Q+ R IRRFCRP +  TG+ EF+EQK
+Sbjct  146  SGSLLNVSAPTPLCVDMIQEKRTIRRFCRPHNAVTGVSEFIEQK  189
+
+
+>WP_016657574.1 hypothetical protein [Acinetobacter rudis]
+Length=188
+
+ Score = 177 bits (450),  Expect = 5e-054, Method: Compositional matrix adjust.
+ Identities = 80/163 (49%), Positives = 116/163 (71%), Gaps = 2/163 (1%)
+
+Query  1    MDTVRIKQAEQENLGQN-AAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            +D + I+Q E+    +N  ++YC+GAKSCEF R++ I +V+ Q++R++  AI +G V L 
+Sbjct  26   LDRLMIQQVEKRPYAENNVSLYCAGAKSCEFSRVDQIEIVNDQSKRVNPDAIRKGYVHLT  85
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+            G    QSN LYL++P+KQ+EVV+R+YPIS   AE  H IHQFK N  Y+  MYR +  ++
+Sbjct  86   GEGRDQSN-LYLTIPSKQHEVVVRFYPISNKHAEVFHFIHQFKPNKSYLLTMYRKQGQKT  144
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLLNVS P PLCVD+ +  +++RRFCRP +  TG+ EF+E+K
+Sbjct  145  GSLLNVSAPAPLCVDVRETNKLVRRFCRPHNAVTGVSEFVEEK  187
+
+
+>WP_020847051.1 hypothetical protein [Acinetobacter gerneri]
+Length=188
+
+ Score = 175 bits (443),  Expect = 6e-053, Method: Compositional matrix adjust.
+ Identities = 85/163 (52%), Positives = 111/163 (68%), Gaps = 2/163 (1%)
+
+Query  1    MDTVRIKQAEQENLG-QNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            +D +RIKQAE++ +   N  IYCSGA+SCEFER +   +V+A T+R++  AI +G V L 
+Sbjct  26   VDRMRIKQAEKQPIAANNVKIYCSGAQSCEFERFDKQEIVNATTQRVNRDAIQKGYVHLV  85
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+             +   +   LYL+VP  Q E+V+R+YPIS   AE  H+IH FKA   Y  KMYR +    
+Sbjct  86   DNSF-KDKGLYLTVPPTQAELVVRFYPISNKHAEVFHLIHNFKAKQNYTLKMYRKRFTTP  144
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            GSLL+VS P PLCVDL Q  + IRRFCRP+DV TG+ EF+EQK
+Sbjct  145  GSLLSVSAPMPLCVDLLQAQKTIRRFCRPYDVLTGISEFVEQK  187
+
+
+>WP_040332104.1 hypothetical protein [Acinetobacter nectaris]
+Length=192
+
+ Score = 173 bits (438),  Expect = 3e-052, Method: Compositional matrix adjust.
+ Identities = 81/163 (50%), Positives = 116/163 (71%), Gaps = 1/163 (1%)
+
+Query  1    MDTVRIK-QAEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLN  59
+            ++TV I+ +A ++       + C G  +CEFER++++ VVD  T  I ++AI +G VRL 
+Sbjct  28   IETVNIRSKAPKQESASTVIVECEGTINCEFERVDNVMVVDESTHLIRSEAIEKGYVRLK  87
+
+Query  60   GSVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRS  119
+                  SN+++L++PA+Q+EVVIR+YPIS DRAE I+VI QFK N  Y F MYR++  RS
+Sbjct  88   DKSTFGSNAIFLALPAQQHEVVIRFYPISLDRAEKINVIQQFKPNKHYKFVMYRERVKRS  147
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+              LL+VSVPDPLCV L ++ + +RRFC+P++V  GLGEF+EQK
+Sbjct  148  NRLLSVSVPDPLCVQLLENDKAVRRFCKPYNVLNGLGEFIEQK  190
+
+
+>WP_067551803.1 hypothetical protein [Acinetobacter larvae]
+Length=190
+
+ Score = 173 bits (438),  Expect = 4e-052, Method: Compositional matrix adjust.
+ Identities = 80/162 (49%), Positives = 113/162 (70%), Gaps = 2/162 (1%)
+
+Query  2    DTVRIKQAEQENLGQN-AAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNG  60
+            +  RIK +EQ    +N   +YCSGA +CEF RL+ +++VD + +RI+  AI QG + L G
+Sbjct  29   EKARIKHSEQPAKTKNRVEVYCSGAVNCEFARLDKLSIVDEKNKRINPVAIKQGYIGLTG  88
+
+Query  61   SVLSQSNSLYLSVPAKQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSG  120
+            +     N+L+L + A+Q+E+ IR+YPISP  AET ++IH+F   HRY FK+YR +   +G
+Sbjct  89   AA-QDRNALFLKISAEQHELAIRFYPISPQYAETFYIIHRFTPKHRYTFKLYRQRIAGTG  147
+
+Query  121  SLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            SLLNVS P PLC+DL QD + IRRFCRP++  TG+ EF+E K
+Sbjct  148  SLLNVSAPTPLCIDLLQDQKTIRRFCRPYNSLTGVSEFVELK  189
+
+
+>WP_084494896.1 hypothetical protein [Alkanindiges illinoisensis]
+Length=212
+
+ Score = 154 bits (389),  Expect = 2e-044, Method: Compositional matrix adjust.
+ Identities = 68/147 (46%), Positives = 104/147 (71%), Gaps = 3/147 (2%)
+
+Query  19   AIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNGSVLS--QSNSLYLSVPAK  76
+             ++CSG   CEF +LN+I V++  TR+ ++ AIH  IVR   + L+  Q+N  ++++   
+Sbjct  63   GLHCSGGVGCEFAQLNNIVVINEATRQPTDAAIHASIVRFEDNSLTTGQANRYFIAMRPG  122
+
+Query  77   QYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKS-NRSGSLLNVSVPDPLCVDL  135
+            + E+ +R+YP++PDRAE   +IH F+A+  Y   M+R +S + + SLLN + PDPLCVDL
+Sbjct  123  RNEIKVRFYPVTPDRAENFALIHDFRADRNYRLNMFRQRSADAASSLLNAATPDPLCVDL  182
+
+Query  136  EQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+             ++ +V+RRFCRPFD TTG+GEFLEQ+
+Sbjct  183  LENDKVLRRFCRPFDPTTGMGEFLEQR  209
+
+
+>WP_081409228.1 hypothetical protein [Acinetobacter qingfengensis]
+Length=189
+
+ Score = 152 bits (384),  Expect = 5e-044, Method: Compositional matrix adjust.
+ Identities = 66/141 (47%), Positives = 99/141 (70%), Gaps = 0/141 (0%)
+
+Query  22   CSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNGSVLSQSNSLYLSVPAKQYEVV  81
+            C+ + +CEF R++D+ V++  T   +  AI +G++RL GS+ S+ +   LS+   ++EVV
+Sbjct  48   CASSIACEFARVDDVLVINENTHWPTKDAIERGLLRLEGSLFSRHHQYGLSLIPGEHEVV  107
+
+Query  82   IRYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSGSLLNVSVPDPLCVDLEQDGRV  141
+            +R+YP++ +R E+ H+IH+F A   Y   MYR K   + SLLNV++P PLCVDL Q+  V
+Sbjct  108  VRFYPVTNERMESFHLIHKFMAGQTYKLAMYRQKIQGNRSLLNVAIPGPLCVDLLQNDVV  167
+
+Query  142  IRRFCRPFDVTTGLGEFLEQK  162
+            +RRFCRPFD  TG+GEF+EQK
+Sbjct  168  LRRFCRPFDAMTGMGEFVEQK  188
+
+
+>WP_083698384.1 hypothetical protein [Alkanindiges sp. H1]
+Length=179
+
+ Score = 144 bits (364),  Expect = 5e-041, Method: Compositional matrix adjust.
+ Identities = 67/148 (45%), Positives = 99/148 (67%), Gaps = 4/148 (3%)
+
+Query  19   AIYCSGA-KSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNGSVLS--QSNSLYLSVPA  75
+             ++CSG    CEF +LN+I V+   TR+ + +AIH  +VR   + LS  Q    ++++  
+Sbjct  28   GLHCSGGIGGCEFAKLNNIVVIHEVTRQPTEEAIHASVVRFEDNSLSSPQGARYFITMRP  87
+
+Query  76   KQYEVVIRYYPISPDRAETIHVIHQFKANHRYMFKMYRDK-SNRSGSLLNVSVPDPLCVD  134
+               EV +R+YP++PDRAE   +IH F+A+  Y   M+R + ++ S SLL+ + PDPLCVD
+Sbjct  88   GHNEVKVRFYPVTPDRAENFALIHDFRADRTYRLNMFRQRNTDASASLLSAATPDPLCVD  147
+
+Query  135  LEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+            L ++ +V+RRFCRPFD  TGLGEFLEQ+
+Sbjct  148  LLENDKVLRRFCRPFDPATGLGEFLEQR  175
+
+
+>WP_062533469.1 hypothetical protein [Psychrobacter urativorans]
+Length=257
+
+ Score = 70.5 bits (171),  Expect = 9e-012, Method: Compositional matrix adjust.
+ Identities = 40/110 (36%), Positives = 62/110 (56%), Gaps = 3/110 (3%)
+
+Query  55   IVRLNGSVLSQSNSLYLSVPAKQYEVVIRYYPISP-DRAETIHVIHQFKANHRYMFKMYR  113
+            +V L+ S +    + Y  V   + EV I +YP +  D  E   +IH+F     Y  + YR
+Sbjct  132  VVPLSASGMKGLTNYYARVKPAKREVHINFYPENNVDYVERFALIHEFTQPGIYHLRAYR  191
+
+Query  114  DKSNR-SGSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+             KS + +GSLL+ + P+PLC+DL Q+  ++RRFC+  D     GEF+E +
+Sbjct  192  QKSPQATGSLLDTASPEPLCIDLLQNSSLVRRFCKQLDAKHQ-GEFVETR  240
+
+
+>WP_062844228.1 hypothetical protein [Psychrobacter alimentarius]
+Length=242
+
+ Score = 70.1 bits (170),  Expect = 1e-011, Method: Compositional matrix adjust.
+ Identities = 42/108 (39%), Positives = 60/108 (56%), Gaps = 3/108 (3%)
+
+Query  55   IVRLNGSVLSQSNSLYLSVPAKQYEVVIRYYPISPD-RAETIHVIHQFKANHRYMFKMYR  113
+            +V L+ S +    + Y  V   + EV + +YP + +   E   +IH F     Y  + Y+
+Sbjct  118  VVPLSASAMPGLTNYYARVMPAKREVHVNFYPENNEGYVERFAMIHDFVDTGTYKLRAYQ  177
+
+Query  114  DKSN-RSGSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLE  160
+             KS+  SGSLL  + P+PLCVDL QD +V RRFC+  D T   GEF+E
+Sbjct  178  KKSDTNSGSLLETASPEPLCVDLLQDNQVQRRFCKQLD-TEHQGEFVE  224
+
+
+>WP_079692107.1 hypothetical protein [Psychrobacter sp. DAB_AL43B]
+Length=249
+
+ Score = 69.3 bits (168),  Expect = 3e-011, Method: Compositional matrix adjust.
+ Identities = 46/119 (39%), Positives = 64/119 (54%), Gaps = 5/119 (4%)
+
+Query  55   IVRLNGSVLSQSNSLYLSVPAKQYEVVIRYYPISP-DRAETIHVIHQFKANHRYMFKMYR  113
+            IV L+ S +    + Y  V   + EV I +YP +     E   +IH F     Y  + Y+
+Sbjct  124  IVPLSASGMPGMTNYYARVQPAKREVHINFYPENNVGYVERFAMIHDFVNPGTYQLRAYQ  183
+
+Query  114  DKSNR-SGSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK--KLTPRQS  169
+             KS++ +GSLL+ + P+PLCVDL Q   V RRFC+    T   GEF+E +  K TP QS
+Sbjct  184  KKSSQNTGSLLDTASPEPLCVDLYQGNTVQRRFCKELG-TEHQGEFVETRMVKATPAQS  241
+
+
+>WP_068036484.1 MULTISPECIES: hypothetical protein [Psychrobacter]
+Length=236
+
+ Score = 68.6 bits (166),  Expect = 4e-011, Method: Compositional matrix adjust.
+ Identities = 40/108 (37%), Positives = 61/108 (56%), Gaps = 3/108 (3%)
+
+Query  55   IVRLNGSVLSQSNSLYLSVPAKQYEVVIRYYPISP-DRAETIHVIHQFKANHRYMFKMYR  113
+            IV L+ S +    + Y  V   + EV I +YP +     E   +IH+F     Y+ + YR
+Sbjct  116  IVPLSASGMPGMTNYYARVKPAKREVHINFYPENNIGYVERFAMIHEFVQPDTYLLRAYR  175
+
+Query  114  DKSNR-SGSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLE  160
+             KSN+ +GSLL+ + P+PLC+DL Q   + R+FC+  + T   GEF+E
+Sbjct  176  KKSNQDTGSLLDTASPNPLCIDLIQGDSIKRQFCKQMN-TESQGEFVE  222
+
+
+>WP_062331245.1 hypothetical protein [Moraxella osloensis]
+Length=212
+
+ Score = 67.8 bits (164),  Expect = 6e-011, Method: Compositional matrix adjust.
+ Identities = 46/150 (31%), Positives = 71/150 (47%), Gaps = 12/150 (8%)
+
+Query  9    AEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNGSVLS----  64
+            A Q      + + C+G  +CE  R+  + V++  T   S    +   V    +V      
+Sbjct  47   APQPIAAGKSTLKCTGVYACEINRIGTLAVINQSTHTPSATLGNHSQVASPVTVTPLMSK  106
+
+Query  65   -QSNSL---YL-SVPAKQYEVVIRYYPISPD--RAETIHVIHQFKANHRYMFKMYRDKSN  117
+             QS S    YL S P+ Q+ V  R+Y +  D   AE+   IH+F++  RY  K YR    
+Sbjct  107  PQSKSTMPNYLVSFPSGQHMVATRFY-LDEDLTTAESFSFIHRFESGKRYELKAYRQIQK  165
+
+Query  118  RSGSLLNVSVPDPLCVDLEQDGRVIRRFCR  147
+               SLL  S P PLC+DL ++ ++  R+C+
+Sbjct  166  TDYSLLAQSAPTPLCIDLYENAKLTNRWCK  195
+
+
+>WP_068407647.1 hypothetical protein [Psychrobacter sp. SHUES1]
+Length=252
+
+ Score = 67.4 bits (163),  Expect = 1e-010, Method: Compositional matrix adjust.
+ Identities = 54/187 (29%), Positives = 78/187 (42%), Gaps = 38/187 (20%)
+
+Query  20   IYCSGAKSCEFERLNDITVVDAQTR------------------RISNQAI----------  51
+            I C G   CE  R++   ++ ++T                   R  N+ +          
+Sbjct  54   IACVGTYHCEIARIDQTRIISSETHEPINPTMLVKTQEANGKSRAGNKQVSAPIAMDMTP  113
+
+Query  52   --HQG---IVRLNGSVLSQSNSLYLSVPAKQYEVVIRYYPISP-DRAETIHVIHQFKANH  105
+              H+    IV L+ S +    + Y  V   + EV I +YP +     E   +IH F    
+Sbjct  114  LSHKNAIKIVPLSASAMPGLTNYYTRVTPAKREVQINFYPENNLGYVERFAMIHDFMEEG  173
+
+Query  106  RYMFKMYRDKSN-RSGSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK--  162
+             Y  + Y+ KS   SGSLL  + P+PLCVDL Q   V RRFC+        GEF+E +  
+Sbjct  174  TYQLRAYQKKSGANSGSLLETASPEPLCVDLYQGNSVKRRFCKEMGAEH-QGEFVETRVV  232
+
+Query  163  KLTPRQS  169
+            K  P Q+
+Sbjct  233  KAAPAQT  239
+
+
+>WP_075101603.1 hypothetical protein [Psychrobacter sp. Rd 27.2]
+Length=222
+
+ Score = 66.2 bits (160),  Expect = 2e-010, Method: Compositional matrix adjust.
+ Identities = 39/110 (35%), Positives = 59/110 (54%), Gaps = 3/110 (3%)
+
+Query  55   IVRLNGSVLSQSNSLYLSVPAKQYEVVIRYYPIS-PDRAETIHVIHQFKANHRYMFKMYR  113
+            IV L+ S +    + Y  V   + E+ + +YP +     E   +IH F     Y  + Y+
+Sbjct  113  IVPLSASAMPGLTNYYARVMPAKREIHVNFYPENNVGYVERFAMIHDFTQAGTYQLRAYQ  172
+
+Query  114  DK-SNRSGSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLEQK  162
+             K SN+SGSLL  + P+PLC++L Q   V RRFC+  D +   GEF+E +
+Sbjct  173  KKPSNKSGSLLETASPEPLCIELLQGSTVQRRFCKQLD-SKHRGEFVETR  221
+
+
+>WP_025647243.1 MULTISPECIES: hypothetical protein [Psychrobacter]
+Length=220
+
+ Score = 65.9 bits (159),  Expect = 3e-010, Method: Compositional matrix adjust.
+ Identities = 48/161 (30%), Positives = 77/161 (48%), Gaps = 24/161 (15%)
+
+Query  20   IYCSGAKSCEFERLNDITVVDAQTRR------------------ISNQAIHQGIVRLNGS  61
+            I C G   CE  R++    +  +T +                  +  +A+   +V L+ S
+Sbjct  54   IACVGTYHCEITRIDQTPTIAEETHQPVDRNIVIVKPEKDKVPLVDTKAVK--LVPLSAS  111
+
+Query  62   VLSQSNSLYLSVPAKQYEVVIRYYPISP-DRAETIHVIHQFKANHRYMFKMYRDKSN-RS  119
+             +S   + Y  V   + EV + +YP +  +  E   VIH+F A   Y  + Y+ +S  + 
+Sbjct  112  GISGLTNYYARVTPIKREVQVNFYPENNLEYVERFTVIHEFVAG-TYQLRAYKVQSQQKD  170
+
+Query  120  GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLE  160
+             SLL  + P+PLC++L QDG + RRFC+  D T   GEF+E
+Sbjct  171  SSLLTSASPNPLCIELIQDGTIKRRFCKQVD-TERQGEFVE  210
+
+
+>WP_010199842.1 hypothetical protein [Psychrobacter sp. PAMC 21119]
+Length=238
+
+ Score = 65.5 bits (158),  Expect = 6e-010, Method: Compositional matrix adjust.
+ Identities = 42/121 (35%), Positives = 63/121 (52%), Gaps = 7/121 (6%)
+
+Query  55   IVRLNGSVLSQSNSLYLSVPAKQYEVVIRYYPISP-DRAETIHVIHQFKANHRYMFKMYR  113
+            IV L+ S +    + Y  V   + EV + +YP +     E   +IH F     Y    Y+
+Sbjct  117  IVPLSASGMPGLTNYYARVKPAKREVQVNFYPENNVGYVERFAIIHDFVEPGTYQLHAYQ  176
+
+Query  114  DKS-NRSGSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLE----QKKLTPRQ  168
+             KS + SGSLL+ + P+PLC++L QD  + RRFC+        GEF+E    +KK TP +
+Sbjct  177  KKSSDNSGSLLDTASPEPLCIELSQDSNLQRRFCKQLGAEHQ-GEFVETSIIEKKTTPLK  235
+
+Query  169  S  169
+            +
+Sbjct  236  A  236
+
+
+>WP_011513900.1 hypothetical protein [Psychrobacter cryohalolentis]
+Length=248
+
+ Score = 65.5 bits (158),  Expect = 6e-010, Method: Compositional matrix adjust.
+ Identities = 45/120 (38%), Positives = 62/120 (52%), Gaps = 5/120 (4%)
+
+Query  43   TRRISNQAIHQGIVRLNGSVLSQSNSLYLSVPAKQYEVVIRYYPISP-DRAETIHVIHQF  101
+            T  I N AI   IV L+ S +    + Y  V   + EV + +YP +     E   +IH F
+Sbjct  113  TPLIHNNAIK--IVPLSASAMPNLINYYARVKPAKREVHVNFYPENNLGYVERFAMIHDF  170
+
+Query  102  KANHRYMFKMYRDKSNRS-GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLE  160
+                 Y  + Y+ KS +S GSLL+ + P+PLCV+L Q   V RRFC+    T   GEF+E
+Sbjct  171  AGPGTYQLRAYQKKSGQSSGSLLDTASPEPLCVELYQGNTVQRRFCKQIG-TEHQGEFVE  229
+
+
+>WP_020443715.1 hypothetical protein [Psychrobacter sp. G]
+Length=248
+
+ Score = 65.1 bits (157),  Expect = 7e-010, Method: Compositional matrix adjust.
+ Identities = 45/120 (38%), Positives = 62/120 (52%), Gaps = 5/120 (4%)
+
+Query  43   TRRISNQAIHQGIVRLNGSVLSQSNSLYLSVPAKQYEVVIRYYPISP-DRAETIHVIHQF  101
+            T  I N AI   IV L+ S +    + Y  V   + EV + +YP +     E   +IH F
+Sbjct  113  TPLIHNNAIK--IVPLSASAMPNLINYYARVQPAKREVHVNFYPENNLGYVERFAMIHDF  170
+
+Query  102  KANHRYMFKMYRDKSNRS-GSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLE  160
+                 Y  + Y+ KS +S GSLL+ + P+PLCV+L Q   V RRFC+    T   GEF+E
+Sbjct  171  AGPGTYQLRAYQKKSGQSSGSLLDTASPEPLCVELYQGNTVQRRFCKQIG-TEHQGEFVE  229
+
+
+>WP_057759324.1 hypothetical protein [Psychrobacter sp. P11G3]
+Length=239
+
+ Score = 64.7 bits (156),  Expect = 9e-010, Method: Compositional matrix adjust.
+ Identities = 45/169 (27%), Positives = 72/169 (43%), Gaps = 29/169 (17%)
+
+Query  20   IYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNGSVLSQSN------------  67
+            I C G   CE  +++   ++   +   +N  I   + R  G   +  N            
+Sbjct  54   IACVGTYHCEIVQIDKTLIIAPNSHEPTNPQIMTALPRQEGIAKTSMNVDMTPLVNKNAI  113
+
+Query  68   --------------SLYLSVPAKQYEVVIRYYPISP-DRAETIHVIHQFKANHRYMFKMY  112
+                          + Y  V   ++EV + +YP +     E   +IH F     Y  + Y
+Sbjct  114  KVVPLAPSSMPGLTNYYARVMPAKHEVHVNFYPENNMGYVERFAMIHDFTEAGTYQLRAY  173
+
+Query  113  RDK-SNRSGSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLE  160
+            + K S +SGSLL+ + P+PLC++L Q  +V RRFC+  D     GEF+E
+Sbjct  174  QKKNSEKSGSLLDTASPEPLCIELLQGTKVQRRFCKQLDAEHQ-GEFVE  221
+
+
+>WP_055124340.1 hypothetical protein [Psychrobacter glacincola]
+Length=249
+
+ Score = 65.1 bits (157),  Expect = 1e-009, Method: Compositional matrix adjust.
+ Identities = 54/182 (30%), Positives = 72/182 (40%), Gaps = 40/182 (22%)
+
+Query  20   IYCSGAKSCEFERLNDITVVDAQTRRISNQA------------------------IHQGI  55
+            I C G   CE  R++   V+ A T    N A                        IH  I
+Sbjct  54   IACIGTYHCEIARIDKTRVIGADTHEPINPAMLVAMKDMSAKGRSHTSNKHAQTSIHANI  113
+
+Query  56   -------------VRLNGSVLSQSNSLYLSVPAKQYEVVIRYYPISP-DRAETIHVIHQF  101
+                         V L+ S +    + Y  V   + EV + +YP +     E   +IH F
+Sbjct  114  DMTPLAHKNEIKIVPLSASGMPGLTNYYARVKPAKREVQVNFYPENNLGYVERFTLIHDF  173
+
+Query  102  KANHRYMFKMYRDKSN-RSGSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLE  160
+                 Y  + Y+ KSN  SGSLL+ + P PLCVDL Q   V RRFC+        GEF+E
+Sbjct  174  IDADTYQLRAYQKKSNDNSGSLLDTASPQPLCVDLYQGNTVQRRFCKELSAEHQ-GEFVE  232
+
+Query  161  QK  162
+             +
+Sbjct  233  TR  234
+
+
+>WP_060490803.1 hypothetical protein [Psychrobacter sp. P11F6]
+Length=249
+
+ Score = 64.3 bits (155),  Expect = 1e-009, Method: Compositional matrix adjust.
+ Identities = 53/182 (29%), Positives = 73/182 (40%), Gaps = 40/182 (22%)
+
+Query  20   IYCSGAKSCEFERLNDITVVDAQTRRISNQAI----------------------------  51
+            I C G   CE  R++   V+ A T    N A+                            
+Sbjct  54   IACIGTYHCEIARIDKTRVIGADTHEPINPAMLVAMKDMSAKGKSHTSNKHAQTSMHANI  113
+
+Query  52   ------HQG---IVRLNGSVLSQSNSLYLSVPAKQYEVVIRYYPISP-DRAETIHVIHQF  101
+                  H+    IV L+ S +    + Y  V   + EV + +YP +     E   +IH F
+Sbjct  114  DMTPLAHKNEIKIVPLSASGMPGLTNYYARVKPAKREVQVNFYPENNLGYVERFTLIHDF  173
+
+Query  102  KANHRYMFKMYRDKSN-RSGSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLE  160
+                 Y  + Y+ KSN  SGSLL+ + P PLCVDL Q   V RRFC+        GEF+E
+Sbjct  174  IDADTYQLRAYQKKSNDNSGSLLDTASPQPLCVDLYQGNTVQRRFCKELSAEHQ-GEFVE  232
+
+Query  161  QK  162
+             +
+Sbjct  233  TR  234
+
+
+>WP_007114911.1 hypothetical protein [Enhydrobacter sp. H5]
+Length=214
+
+ Score = 63.5 bits (153),  Expect = 2e-009, Method: Compositional matrix adjust.
+ Identities = 40/151 (26%), Positives = 72/151 (48%), Gaps = 14/151 (9%)
+
+Query  9    AEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRR----ISNQAIHQGIVRLNGSVLS  64
+            A Q      + + C+G  +CE  R+  ++V++  T      + N +     V +   ++S
+Sbjct  49   APQPIAAGKSTLKCTGIYACEINRIGTLSVINQSTHTPSATLGNHSQETSPVTVT-PLMS  107
+
+Query  65   QSNS------LYLSVPAKQYEVVIRYYPISPD--RAETIHVIHQFKANHRYMFKMYRDKS  116
+            +  S        +S P+ Q+ V  R+Y +  D    E+   IH+F++  RY  K YR   
+Sbjct  108  KPQSKSTIPNYLVSFPSGQHVVATRFY-LDEDLTTVESFSFIHRFESGKRYELKAYRQIQ  166
+
+Query  117  NRSGSLLNVSVPDPLCVDLEQDGRVIRRFCR  147
+                SLL  S P PLC+DL ++ ++  ++C+
+Sbjct  167  KTDYSLLAQSAPTPLCIDLYENAKLTNQWCK  197
+
+
+>WP_058369038.1 MULTISPECIES: hypothetical protein [Psychrobacter]
+Length=241
+
+ Score = 63.9 bits (154),  Expect = 2e-009, Method: Compositional matrix adjust.
+ Identities = 49/179 (27%), Positives = 80/179 (45%), Gaps = 33/179 (18%)
+
+Query  12   ENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRR--------------------------  45
+            E +     I CSG   CE  +++  +V+   T +                          
+Sbjct  46   EPIAGEVNIACSGTYHCEIMQIDQTSVIAPDTHKPVDPKMLSVVNTDDEIVDRTKNVLFV  105
+
+Query  46   -ISNQAIHQ-GIVRLNGSVLSQSNSLYLSVPAKQYEVVIRYYPISP-DRAETIHVIHQFK  102
+             + NQ  H   +V L+ S ++   + Y  V   + EV I +YP +     E   +IH+F 
+Sbjct  106  PLKNQ--HSVKVVPLSESGIAGMTNYYARVKPAKREVHINFYPENNMGYVERFAMIHEFV  163
+
+Query  103  ANHRYMFKMYRDK-SNRSGSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLE  160
+                Y+ + YR K S  +GSLL+ + P+PLC+DL Q+  + R+FC+  +     GEF+E
+Sbjct  164  EPDTYLLRAYRKKPSQDTGSLLDTASPNPLCIDLIQNNSIKRQFCKQVN-NESQGEFVE  221
+
+
+>WP_021814853.1 hypothetical protein [Psychrobacter aquaticus]
+Length=242
+
+ Score = 63.5 bits (153),  Expect = 3e-009, Method: Compositional matrix adjust.
+ Identities = 39/108 (36%), Positives = 57/108 (53%), Gaps = 3/108 (3%)
+
+Query  55   IVRLNGSVLSQSNSLYLSVPAKQYEVVIRYYPISPDR-AETIHVIHQFKANHRYMFKMYR  113
+            IV L+ S +    + Y  V   + E+ + +YP +  R  E   +IH F     Y  + Y+
+Sbjct  118  IVPLSASAMPGLTNYYARVMPAKREIHVNFYPENNSRYIERFAMIHDFAEVGTYQLRAYQ  177
+
+Query  114  DKSNR-SGSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLE  160
+             KS+  SGSLL  + P+PLC++L Q  +V RRFC+        GEFLE
+Sbjct  178  KKSSENSGSLLENASPEPLCIELLQGNKVQRRFCKQLGAERQ-GEFLE  224
+
+
+>WP_011280680.1 hypothetical protein [Psychrobacter arcticus]
+Length=245
+
+ Score = 63.5 bits (153),  Expect = 3e-009, Method: Compositional matrix adjust.
+ Identities = 45/141 (32%), Positives = 68/141 (48%), Gaps = 5/141 (4%)
+
+Query  24   GAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNGSVLSQSNSLYLSVPAKQYEVVIR  83
+            G K     + + +T+    T  + N +I   IV L+ S +    + Y  V   + EV + 
+Sbjct  95   GKKIFTSSKHSKVTMTMDMTPLMHNNSIK--IVPLSASAMPMLTNYYARVKPAKREVHVN  152
+
+Query  84   YYPISP-DRAETIHVIHQFKANHRYMFKMYRDK-SNRSGSLLNVSVPDPLCVDLEQDGRV  141
+            +YP +     E   +IH F     Y  + Y++K   +SGSLL  + P+PLCV+L Q   V
+Sbjct  153  FYPENNVGYVERFAMIHDFSTPGTYQLRAYQNKPGQKSGSLLETASPEPLCVELYQGNTV  212
+
+Query  142  IRRFCRPFDVTTGLGEFLEQK  162
+             RRFC+    T   GEF E +
+Sbjct  213  QRRFCKQIG-TDYQGEFAETR  232
+
+
+>WP_071001289.1 hypothetical protein [Psychrobacter sp. AntiMn-1]
+Length=239
+
+ Score = 63.2 bits (152),  Expect = 3e-009, Method: Compositional matrix adjust.
+ Identities = 48/170 (28%), Positives = 76/170 (45%), Gaps = 31/170 (18%)
+
+Query  20   IYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNGSVLSQ----------SNSL  69
+            I C G   CE  +++   V+        N  I + +    G+   Q           NS+
+Sbjct  54   IACVGTYHCEIVQIDKTLVISPDNHEPVNPQIVEALPSYKGTATPQMSIEMTPLMSKNSI  113
+
+Query  70   YL-----------------SVPAKQYEVVIRYYPISP-DRAETIHVIHQFKANHRYMFKM  111
+             +                  +PAK+ EV + +YP +     E   +IH F     Y  + 
+Sbjct  114  KILPLAASGMPGLTNYYARVMPAKR-EVHVNFYPENNMGYVERFAMIHDFADAGTYKLRA  172
+
+Query  112  YRDKSN-RSGSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLE  160
+            Y+ KS+ +SGSLL+ + P+PLC+DL Q  +V RRFC+  + +   GEF+E
+Sbjct  173  YQKKSSEKSGSLLDTASPEPLCIDLLQGNKVQRRFCKQLE-SEHQGEFVE  221
+
+
+>WP_065264235.1 hypothetical protein [Moraxella osloensis]
+Length=212
+
+ Score = 62.8 bits (151),  Expect = 4e-009, Method: Compositional matrix adjust.
+ Identities = 44/150 (29%), Positives = 71/150 (47%), Gaps = 12/150 (8%)
+
+Query  9    AEQENLGQNAAIYCSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNGSVLS----  64
+            A Q      + + C+G  +CE  R+  ++V++  T   S    +   V    +V      
+Sbjct  47   APQPIAAGKSNLKCTGIYACEINRIGTLSVINQSTHTPSATLGNYSSVTSPVTVTPLISK  106
+
+Query  65   -QSNSL---YL-SVPAKQYEVVIRYYPISPD--RAETIHVIHQFKANHRYMFKMYRDKSN  117
+             QS S    YL S P+ Q+ V  R+Y +  D    E+   IH+F++  RY  K YR    
+Sbjct  107  PQSKSTIPNYLVSFPSGQHMVATRFY-LDEDLTTVESFSFIHRFESGKRYELKAYRQIQK  165
+
+Query  118  RSGSLLNVSVPDPLCVDLEQDGRVIRRFCR  147
+               SLL  S P PLC+DL ++ ++  ++C+
+Sbjct  166  TDYSLLAQSAPTPLCIDLYENAKLTNQWCK  195
+
+
+>WP_058023802.1 hypothetical protein [Psychrobacter piscatorii]
+Length=239
+
+ Score = 63.2 bits (152),  Expect = 4e-009, Method: Compositional matrix adjust.
+ Identities = 39/108 (36%), Positives = 57/108 (53%), Gaps = 3/108 (3%)
+
+Query  55   IVRLNGSVLSQSNSLYLSVPAKQYEVVIRYYPISP-DRAETIHVIHQFKANHRYMFKMYR  113
+            IV L  S +    + Y  V   + EV + +YP +     E   +IH F     Y  + Y+
+Sbjct  115  IVPLAASGMPGLTNYYARVMPAKREVHVNFYPENNMGYVERFAMIHDFADAGTYQLRAYQ  174
+
+Query  114  DK-SNRSGSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLE  160
+             K S +SGSLL+ + P+PLC+DL Q  +V RRFC+    +   GEF+E
+Sbjct  175  KKNSEKSGSLLDTASPEPLCIDLLQGNKVQRRFCKQLG-SEHQGEFVE  221
+
+
+>WP_025651389.1 MULTISPECIES: hypothetical protein [Psychrobacter]
+Length=238
+
+ Score = 62.8 bits (151),  Expect = 5e-009, Method: Compositional matrix adjust.
+ Identities = 40/117 (34%), Positives = 62/117 (53%), Gaps = 5/117 (4%)
+
+Query  46   ISNQAIHQGIVRLNGSVLSQSNSLYLSVPAKQYEVVIRYYPISP-DRAETIHVIHQFKAN  104
+            ++N A+   IV L+ S +    + Y  V   + EV + +YP +     E   +IH F   
+Sbjct  110  LNNNAVK--IVPLSKSGMPGLTNYYARVKPAKREVQVNFYPENNVGYVERFAIIHDFVEP  167
+
+Query  105  HRYMFKMYRDKS-NRSGSLLNVSVPDPLCVDLEQDGRVIRRFCRPFDVTTGLGEFLE  160
+              Y  + Y+ KS + SGSLL+ + P+PLC++L QD  + RRFC+        GEF+E
+Sbjct  168  GTYQLRAYQKKSSDNSGSLLDTASPEPLCIELSQDKSLQRRFCKQLGAEHQ-GEFVE  223
+
+
+>WP_065252957.1 hypothetical protein [Moraxella osloensis]
+Length=212
+
+ Score = 62.4 bits (150),  Expect = 6e-009, Method: Compositional matrix adjust.
+ Identities = 41/137 (30%), Positives = 68/137 (50%), Gaps = 12/137 (9%)
+
+Query  22   CSGAKSCEFERLNDITVVDAQTRRISNQAIHQGIVRLNGSVLS-----QSNSL---YL-S  72
+            C+G  +CE  R+  +++++  T   S    +   V    +V+      QS S    YL S
+Sbjct  60   CTGIYACEINRIGTLSIINQSTHAPSATLGNYSSVTSPVTVIPLMSKPQSKSTIPNYLVS  119
+
+Query  73   VPAKQYEVVIRYYPISPD--RAETIHVIHQFKANHRYMFKMYRDKSNRSGSLLNVSVPDP  130
+             P+ Q+ V  R+Y +  D    E+   IH+F++  RY  K YR       SLL  S P P
+Sbjct  120  FPSGQHMVSTRFY-LDEDLTTVESFSFIHRFESGKRYELKAYRQIQKTDYSLLAQSAPTP  178
+
+Query  131  LCVDLEQDGRVIRRFCR  147
+            LC+DL ++ ++  ++C+
+Sbjct  179  LCIDLYENAKLTNQWCK  195
+
+
+>WP_075107386.1 hypothetical protein [Psychrobacter sp. C 20.9]
+Length=239
+
+ Score = 61.6 bits (148),  Expect = 2e-008, Method: Compositional matrix adjust.
+ Identities = 35/90 (39%), Positives = 55/90 (61%), Gaps = 4/90 (4%)
+
+Query  73   VPAKQYEVVIRYYPISP-DRAETIHVIHQFKANHRYMFKMYRDKSN-RSGSLLNVSVPDP  130
+            +PAK+ EV + +YP +     E   +IH F     Y  + Y+ +S+ +SGSLL+ + P+P
+Sbjct  134  MPAKR-EVHVNFYPENNMGYVERFAMIHDFADAGTYELRAYQKRSSEKSGSLLDTASPEP  192
+
+Query  131  LCVDLEQDGRVIRRFCRPFDVTTGLGEFLE  160
+            LC+DL Q  +V RRFC+  + +   GEF+E
+Sbjct  193  LCIDLLQGNKVQRRFCKQLE-SEHQGEFVE  221
+
+
+>WP_017413898.1 cysteine--tRNA ligase [Clostridium tunisiense]
+Length=489
+
+ Score = 37.7 bits (86),  Expect = 4.3, Method: Compositional matrix adjust.
+ Identities = 29/105 (28%), Positives = 51/105 (49%), Gaps = 5/105 (5%)
+
+Query  14   LGQNAAIYCSGAKSCEFERLNDITVVDAQT-RRISNQAIHQGIVRLNGSVLSQS--NSLY  70
+            LG+   I+  G         N+I   +A T ++ SN  IH G+V++NG  +S+S  N + 
+Sbjct  218  LGETMDIHGGGKDLIFPHHENEIAQSEALTGKQFSNYWIHNGLVKINGQKMSKSLGNGIS  277
+
+Query  71   LSVPAKQYEV-VIRYYPISPDRAETIHVIHQ-FKANHRYMFKMYR  113
+            L      Y   VIR+  +       I++I   F+ N ++++  Y+
+Sbjct  278  LKELLDNYHSDVIRFTLLQNSYKSDINIIDGVFEENEKHIYNFYK  322
+
+
+>WP_077154128.1 hypothetical protein [Bacteroides sp. Marseille-P2653]
+Length=579
+
+ Score = 37.4 bits (85),  Expect = 6.1, Method: Compositional matrix adjust.
+ Identities = 19/54 (35%), Positives = 32/54 (59%), Gaps = 4/54 (7%)
+
+Query  92   AETIHVIHQFKANHRYMFKMYRDKSN--RSGSLLNVSVPDPLCVDLEQDGRVIR  143
+            +E++H++ +F A H+Y  K +RD++N  R G +L   V  P CV     GR+ +
+Sbjct  305  SESLHLLKKFLATHKY--KEFRDQANALRQGFILQSIVSTPNCVKCYNQGRLTK  356
+
+
+>WP_010252873.1 hypothetical protein [Myroides injenensis]
+Length=233
+
+ Score = 37.0 bits (84),  Expect = 6.5, Method: Compositional matrix adjust.
+ Identities = 22/78 (28%), Positives = 41/78 (53%), Gaps = 5/78 (6%)
+
+Query  59   NGSVLSQSNSLYLSVPAKQ-YEVVIRYYPISPDRAETIHVIHQF----KANHRYMFKMYR  113
+            NG + SQ   +   V + Q +E+ +R+ PIS D ++ I ++  F    +   ++ FK YR
+Sbjct  21   NGFISSQKGQILKKVTSNQLFEIQLRFQPISLDHSDEIQLVCYFTVLCEEVSKWRFKQYR  80
+
+Query  114  DKSNRSGSLLNVSVPDPL  131
+             K N + ++   ++ D L
+Sbjct  81   SKDNATPTIFFTNILDLL  98
+
+
+>WP_071515743.1 cysteine--tRNA ligase [Geitlerinema sp. PCC 9228]
+Length=487
+
+ Score = 37.4 bits (85),  Expect = 7.0, Method: Compositional matrix adjust.
+ Identities = 20/57 (35%), Positives = 32/57 (56%), Gaps = 1/57 (2%)
+
+Query  11   QENLGQNAAIYCSGAKSCEFERLNDIT-VVDAQTRRISNQAIHQGIVRLNGSVLSQS  66
+            +ENLG+ A I+C GA        N+I   V A  + ++   +H G+V +NG  +S+S
+Sbjct  219  RENLGETADIHCGGADLMFPHHENEIAQSVAANGKPLAKYWLHNGMVTVNGEKMSKS  275
+
+
+>WP_006678898.1 hypothetical protein [Paenibacillus dendritiformis]
+Length=203
+
+ Score = 36.6 bits (83),  Expect = 8.2, Method: Compositional matrix adjust.
+ Identities = 18/66 (27%), Positives = 34/66 (52%), Gaps = 2/66 (3%)
+
+Query  67   NSLYLSVPAKQYEVVI--RYYPISPDRAETIHVIHQFKANHRYMFKMYRDKSNRSGSLLN  124
+             S  ++ P  +YE VI    +P+ P+ A   H+I      H  +F + R++ +R+ +++ 
+Sbjct  100  GSFTVTTPQCRYETVIIEGLWPVGPEYALGRHIIRLMPLAHELVFNLLREREDRTEAIVR  159
+
+Query  125  VSVPDP  130
+            V   DP
+Sbjct  160  VINRDP  165
+
+
+
+Lambda      K        H
+   0.320    0.135    0.388 
+
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+
+Effective search space used: 785329695530
+
+
+  Database: NCBI Protein Reference Sequences
+    Posted date:  May 29, 2017 12:00 AM
+  Number of letters in database: 31,412,196,622
+  Number of sequences in database:  82,027,677
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40

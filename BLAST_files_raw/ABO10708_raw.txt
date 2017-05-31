@@ -1,0 +1,3546 @@
+BLASTP 2.6.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: NCBI Protein Reference Sequences
+           82,027,677 sequences; 31,412,196,622 total letters
+
+
+
+Query= embl-cds:ABO10708 type 4 fimbriae expression regulatory protein
+OS=Acinetobacter baumannii (strain ATCC 17978 / CIP 53.77 / LMG 1025
+/ NCDC KC755 / 5377) GN=A1S_0233 SV=1 UP=UP000006737:Chromosome
+
+Length=67
+
+RID: JUDWZ75G014
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+WP_073962136.1  sigma-54-dependent Fis family transcriptional reg...  105     4e-026
+WP_065712437.1  sigma-54-dependent Fis family transcriptional reg...  107     6e-026
+WP_019204960.1  sigma-54-dependent Fis family transcriptional reg...  105     1e-025
+WP_005194681.1  sigma-54-dependent Fis family transcriptional reg...  106     1e-025
+WP_050459974.1  sigma-54-dependent Fis family transcriptional reg...  106     1e-025
+WP_070148783.1  sigma-54-dependent Fis family transcriptional reg...  105     1e-025
+WP_057047380.1  DNA-binding response regulator [Acinetobacter bau...  105     1e-025
+WP_000840553.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_061392322.1  DNA-binding response regulator [Acinetobacter ven...  105     2e-025
+WP_000840541.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_007480198.1  MULTISPECIES: sigma-54-dependent Fis family trans...  105     2e-025
+WP_065184429.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_031997429.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_017816292.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_049594865.1  DNA-binding response regulator [Acinetobacter bau...  105     2e-025
+WP_031973038.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_031984679.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_061517387.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_004876348.1  MULTISPECIES: sigma-54-dependent Fis family trans...  105     2e-025
+WP_000840548.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_049068086.1  DNA-binding response regulator [Acinetobacter bau...  105     2e-025
+WP_032010074.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_032049431.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_000840544.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_000840543.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_042760317.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_031984931.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_071226006.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_046693170.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_000840559.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_005112458.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_075400780.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_074163742.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_079548001.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_031379397.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_032060430.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_024432424.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_021510860.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_000840563.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_032015320.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_045900575.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_024438497.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_017725205.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_002044796.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_000840557.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_086377948.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_086249919.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_065128031.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_065033574.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_058061476.1  DNA-binding response regulator [Acinetobacter bau...  105     2e-025
+WP_057053991.1  DNA-binding response regulator [Acinetobacter bau...  105     2e-025
+WP_049081597.1  DNA-binding response regulator [Acinetobacter bau...  105     2e-025
+WP_032014309.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_031959790.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_024432847.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_031966660.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_031987259.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_078202505.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_071710238.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_065725583.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_065709508.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_064973294.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_057052408.1  DNA-binding response regulator [Acinetobacter bau...  105     2e-025
+WP_005133355.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_004842749.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_000840550.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_077165242.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_068932667.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_031994477.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_031963979.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_039254235.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_031971123.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_000840556.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_000840554.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_064191954.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_031964799.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_032047206.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_000840549.1  MULTISPECIES: sigma-54-dependent Fis family trans...  105     2e-025
+WP_005129880.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_004737882.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_002131933.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_000840555.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_000840546.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_032067787.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_031968073.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_005135868.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_004699259.1  MULTISPECIES: sigma-54-dependent Fis family trans...  105     2e-025
+WP_057093973.1  DNA-binding response regulator [Acinetobacter bau...  105     2e-025
+WP_032043478.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_032022784.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_032027051.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_032019145.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_000840552.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_000840547.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_004743220.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_000840561.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_046127788.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_031952705.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_023897413.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_019457003.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_042053236.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_057065333.1  DNA-binding response regulator [Acinetobacter bau...  105     2e-025
+WP_000840562.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_002048902.1  MULTISPECIES: sigma-54-dependent Fis family trans...  105     2e-025
+WP_018679138.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_000840542.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_046738938.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_086263417.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_072689275.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_057693778.1  DNA-binding response regulator [Acinetobacter bau...  105     2e-025
+WP_031999567.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_000840560.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_077169915.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_006581174.1  MULTISPECIES: sigma-54-dependent Fis family trans...  105     2e-025
+WP_005218698.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_083009365.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_062936996.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_004710949.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_033853464.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_086266644.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_031982171.1  MULTISPECIES: sigma-54-dependent Fis family trans...  105     2e-025
+WP_005163161.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_004659424.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_004883635.1  MULTISPECIES: sigma-54-dependent Fis family trans...  105     2e-025
+WP_042076327.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_039249058.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_016803679.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_022575140.1  MULTISPECIES: sigma-54-dependent Fis family trans...  105     2e-025
+WP_032011637.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_017387759.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_033846927.1  MULTISPECIES: sigma-54-dependent Fis family trans...  105     2e-025
+WP_031956172.1  MULTISPECIES: sigma-54-dependent Fis family trans...  105     2e-025
+WP_080026168.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_004640656.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_086209773.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_068529324.1  sigma-54-dependent Fis family transcriptional reg...  105     2e-025
+WP_058868728.1  DNA-binding response regulator [Acinetobacter joh...  105     3e-025
+WP_056484275.1  DNA-binding response regulator [Acinetobacter sp....  105     3e-025
+WP_045437241.1  sigma-54-dependent Fis family transcriptional reg...  105     3e-025
+WP_045126194.1  sigma-54-dependent Fis family transcriptional reg...  105     3e-025
+WP_005037328.1  sigma-54-dependent Fis family transcriptional reg...  105     3e-025
+WP_033851242.1  sigma-54-dependent Fis family transcriptional reg...  105     3e-025
+WP_086265354.1  sigma-54-dependent Fis family transcriptional reg...  105     3e-025
+WP_057089980.1  DNA-binding response regulator [Acinetobacter pit...  105     3e-025
+WP_005804053.1  MULTISPECIES: sigma-54-dependent Fis family trans...  105     3e-025
+WP_017391151.1  sigma-54-dependent Fis family transcriptional reg...  105     3e-025
+WP_009392301.1  sigma-54-dependent Fis family transcriptional reg...  105     3e-025
+WP_057085007.1  DNA-binding response regulator [Acinetobacter pit...  105     3e-025
+WP_004978587.1  sigma-54-dependent Fis family transcriptional reg...  105     3e-025
+WP_032052767.1  sigma-54-dependent Fis family transcriptional reg...  105     3e-025
+WP_068564743.1  sigma-54-dependent Fis family transcriptional reg...  105     3e-025
+WP_003654434.1  sigma-54-dependent Fis family transcriptional reg...  105     3e-025
+WP_005400998.1  sigma-54-dependent Fis family transcriptional reg...  105     3e-025
+WP_078224279.1  sigma-54-dependent Fis family transcriptional reg...  105     3e-025
+WP_075384044.1  sigma-54-dependent Fis family transcriptional reg...  105     3e-025
+WP_017481910.1  MULTISPECIES: sigma-54-dependent Fis family trans...  105     3e-025
+WP_032006849.1  sigma-54-dependent Fis family transcriptional reg...  105     3e-025
+WP_078389589.1  sigma-54-dependent Fis family transcriptional reg...  105     3e-025
+WP_062033290.1  sigma-54-dependent Fis family transcriptional reg...  105     3e-025
+WP_004692839.1  sigma-54-dependent Fis family transcriptional reg...  105     3e-025
+WP_069036338.1  sigma-54-dependent Fis family transcriptional reg...  105     3e-025
+WP_002121217.1  MULTISPECIES: sigma-54-dependent Fis family trans...  105     3e-025
+WP_068929731.1  sigma-54-dependent Fis family transcriptional reg...  105     3e-025
+WP_068544557.1  sigma-54-dependent Fis family transcriptional reg...  105     3e-025
+WP_032005832.1  MULTISPECIES: sigma-54-dependent Fis family trans...  105     3e-025
+WP_086398701.1  sigma-54-dependent Fis family transcriptional reg...  105     3e-025
+WP_086313358.1  sigma-54-dependent Fis family transcriptional reg...  105     3e-025
+WP_063097969.1  sigma-54-dependent Fis family transcriptional reg...  105     3e-025
+WP_039763891.1  sigma-54-dependent Fis family transcriptional reg...  105     3e-025
+WP_032012536.1  MULTISPECIES: sigma-54-dependent Fis family trans...  105     3e-025
+WP_017385867.1  MULTISPECIES: sigma-54-dependent Fis family trans...  105     3e-025
+WP_005079471.1  MULTISPECIES: sigma-54-dependent Fis family trans...  105     3e-025
+WP_005065713.1  MULTISPECIES: sigma-54-dependent Fis family trans...  105     3e-025
+WP_032037722.1  sigma-54-dependent Fis family transcriptional reg...  105     3e-025
+WP_044100210.1  sigma-54-dependent Fis family transcriptional reg...  105     3e-025
+WP_005301635.1  sigma-54-dependent Fis family transcriptional reg...  105     3e-025
+WP_069030896.1  sigma-54-dependent Fis family transcriptional reg...  105     3e-025
+WP_004957331.1  sigma-54-dependent Fis family transcriptional reg...  105     4e-025
+WP_004958496.1  sigma-54-dependent Fis family transcriptional reg...  105     4e-025
+WP_016165207.1  sigma-54-dependent Fis family transcriptional reg...  105     4e-025
+WP_004802148.1  MULTISPECIES: sigma-54-dependent Fis family trans...  105     4e-025
+WP_038343472.1  sigma-54-dependent Fis family transcriptional reg...  105     4e-025
+WP_039046870.1  sigma-54-dependent Fis family transcriptional reg...  105     4e-025
+WP_061523863.1  sigma-54-dependent Fis family transcriptional reg...  105     4e-025
+WP_004917021.1  sigma-54-dependent Fis family transcriptional reg...  105     4e-025
+WP_005210046.1  MULTISPECIES: sigma-54-dependent Fis family trans...  105     4e-025
+WP_005191759.1  sigma-54-dependent Fis family transcriptional reg...  105     4e-025
+WP_005154723.1  sigma-54-dependent Fis family transcriptional reg...  105     4e-025
+WP_005291283.1  sigma-54-dependent Fis family transcriptional reg...  105     4e-025
+WP_004637594.1  sigma-54-dependent Fis family transcriptional reg...  104     4e-025
+WP_005083966.1  MULTISPECIES: sigma-54-dependent Fis family trans...  104     4e-025
+WP_054580489.1  sigma-54-dependent Fis family transcriptional reg...  104     4e-025
+WP_005087908.1  sigma-54-dependent Fis family transcriptional reg...  104     4e-025
+WP_075316336.1  sigma-54-dependent Fis family transcriptional reg...  104     4e-025
+WP_069578115.1  sigma-54-dependent Fis family transcriptional reg...  104     4e-025
+WP_065344205.1  sigma-54-dependent Fis family transcriptional reg...  104     4e-025
+WP_016540805.1  sigma-54-dependent Fis family transcriptional reg...  104     4e-025
+WP_005278361.1  sigma-54-dependent Fis family transcriptional reg...  104     4e-025
+WP_005240229.1  MULTISPECIES: sigma-54-dependent Fis family trans...  104     4e-025
+WP_070074440.1  sigma-54-dependent Fis family transcriptional reg...  104     4e-025
+WP_004773959.1  MULTISPECIES: sigma-54-dependent Fis family trans...  104     4e-025
+WP_004656362.1  sigma-54-dependent Fis family transcriptional reg...  104     4e-025
+WP_032881010.1  sigma-54-dependent Fis family transcriptional reg...  104     4e-025
+WP_034587574.1  sigma-54-dependent Fis family transcriptional reg...  104     4e-025
+WP_032876007.1  sigma-54-dependent Fis family transcriptional reg...  104     4e-025
+WP_005281043.1  sigma-54-dependent Fis family transcriptional reg...  104     4e-025
+WP_005226338.1  sigma-54-dependent Fis family transcriptional reg...  104     4e-025
+WP_005050831.1  sigma-54-dependent Fis family transcriptional reg...  104     4e-025
+WP_032871235.1  sigma-54-dependent Fis family transcriptional reg...  104     5e-025
+WP_068889323.1  sigma-54-dependent Fis family transcriptional reg...  104     5e-025
+WP_016139518.1  sigma-54-dependent Fis family transcriptional reg...  104     5e-025
+WP_004975695.1  sigma-54-dependent Fis family transcriptional reg...  104     5e-025
+WP_034703418.1  sigma-54-dependent Fis family transcriptional reg...  104     5e-025
+WP_034169779.1  sigma-54-dependent Fis family transcriptional reg...  104     5e-025
+WP_005233471.1  sigma-54-dependent Fis family transcriptional reg...  104     5e-025
+WP_067731356.1  sigma-54-dependent Fis family transcriptional reg...  104     5e-025
+WP_019838141.1  sigma-54-dependent Fis family transcriptional reg...  104     5e-025
+WP_016142452.1  sigma-54-dependent Fis family transcriptional reg...  104     5e-025
+WP_004787282.1  sigma-54-dependent Fis family transcriptional reg...  104     5e-025
+WP_032055627.1  sigma-54-dependent Fis family transcriptional reg...  104     5e-025
+WP_070154731.1  sigma-54-dependent Fis family transcriptional reg...  104     5e-025
+WP_016144104.1  sigma-54-dependent Fis family transcriptional reg...  104     5e-025
+WP_057105146.1  DNA-binding response regulator [Acinetobacter pit...  104     6e-025
+WP_062848690.1  sigma-54-dependent Fis family transcriptional reg...  104     6e-025
+WP_081175509.1  sigma-54-dependent Fis family transcriptional reg...  104     6e-025
+WP_061874318.1  sigma-54-dependent Fis family transcriptional reg...  104     6e-025
+WP_031947157.1  sigma-54-dependent Fis family transcriptional reg...  104     6e-025
+WP_086199584.1  sigma-54-dependent Fis family transcriptional reg...  104     6e-025
+WP_013199132.1  sigma-54-dependent Fis family transcriptional reg...  104     6e-025
+WP_086174192.1  sigma-54-dependent Fis family transcriptional reg...  104     7e-025
+WP_014208172.1  sigma-54-dependent Fis family transcriptional reg...  104     7e-025
+WP_005013400.1  sigma-54-dependent Fis family transcriptional reg...  104     7e-025
+WP_017400163.1  sigma-54-dependent Fis family transcriptional reg...  103     7e-025
+WP_039620726.1  sigma-54-dependent Fis family transcriptional reg...  103     8e-025
+WP_086187348.1  sigma-54-dependent Fis family transcriptional reg...  103     8e-025
+WP_086183960.1  sigma-54-dependent Fis family transcriptional reg...  103     8e-025
+WP_042894315.1  MULTISPECIES: sigma-54-dependent Fis family trans...  103     9e-025
+WP_086165191.1  sigma-54-dependent Fis family transcriptional reg...  103     9e-025
+WP_000840551.1  sigma-54-dependent Fis family transcriptional reg...  103     9e-025
+WP_004795164.1  sigma-54-dependent Fis family transcriptional reg...  103     9e-025
+WP_004650064.1  sigma-54-dependent Fis family transcriptional reg...  103     9e-025
+WP_074946980.1  sigma-54-dependent Fis family transcriptional reg...  103     9e-025
+WP_057076003.1  DNA-binding response regulator [Acinetobacter pit...  103     1e-024
+WP_000840558.1  sigma-54-dependent Fis family transcriptional reg...  103     1e-024
+WP_005060928.1  sigma-54-dependent Fis family transcriptional reg...  103     1e-024
+WP_067866030.1  sigma-54-dependent Fis family transcriptional reg...  103     1e-024
+WP_077108953.1  sigma-54-dependent Fis family transcriptional reg...  103     1e-024
+WP_086195176.1  sigma-54-dependent Fis family transcriptional reg...  103     1e-024
+WP_053578967.1  sigma-54-dependent Fis family transcriptional reg...  103     1e-024
+WP_016653273.1  sigma-54-dependent Fis family transcriptional reg...  103     2e-024
+WP_060466389.1  DNA-binding response regulator [Acinetobacter sp....  103     2e-024
+WP_010325695.1  MULTISPECIES: sigma-54-dependent Fis family trans...  103     2e-024
+WP_078220042.1  sigma-54-dependent Fis family transcriptional reg...  103     2e-024
+WP_026039946.1  chemotaxis protein CheY [Acinetobacter ursingii]      103     2e-024
+WP_049175808.1  DNA-binding response regulator [Acinetobacter urs...  103     2e-024
+WP_004920725.1  MULTISPECIES: sigma-54-dependent Fis family trans...  103     2e-024
+WP_004995357.1  MULTISPECIES: sigma-54-dependent Fis family trans...  103     2e-024
+WP_005001796.1  sigma-54-dependent Fis family transcriptional reg...  103     2e-024
+WP_057070653.1  DNA-binding response regulator [Acinetobacter pit...  103     2e-024
+WP_032021959.1  sigma-54-dependent Fis family transcriptional reg...  102     2e-024
+WP_004680769.1  MULTISPECIES: sigma-54-dependent Fis family trans...  102     2e-024
+WP_049590046.1  DNA-binding response regulator [Acinetobacter bau...  102     2e-024
+WP_004674272.1  MULTISPECIES: sigma-54-dependent Fis family trans...  102     3e-024
+WP_086214489.1  sigma-54-dependent Fis family transcriptional reg...  102     3e-024
+WP_004762374.1  sigma-54-dependent Fis family transcriptional reg...  102     3e-024
+WP_004800356.1  sigma-54-dependent Fis family transcriptional reg...  102     3e-024
+WP_004896393.1  sigma-54-dependent Fis family transcriptional reg...  102     3e-024
+WP_008306852.1  sigma-54-dependent Fis family transcriptional reg...  102     3e-024
+WP_004644917.1  MULTISPECIES: sigma-54-dependent Fis family trans...  102     3e-024
+WP_004810143.1  MULTISPECIES: sigma-54-dependent Fis family trans...  102     3e-024
+WP_074383666.1  sigma-54-dependent Fis family transcriptional reg...  102     3e-024
+WP_005094453.1  sigma-54-dependent Fis family transcriptional reg...  102     3e-024
+WP_064094661.1  MULTISPECIES: sigma-54-dependent Fis family trans...  102     3e-024
+WP_067672770.1  sigma-54-dependent Fis family transcriptional reg...  102     3e-024
+WP_005101489.1  sigma-54-dependent Fis family transcriptional reg...  102     3e-024
+WP_086044365.1  sigma-54-dependent Fis family transcriptional reg...  102     3e-024
+WP_004732493.1  sigma-54-dependent Fis family transcriptional reg...  102     3e-024
+WP_005108451.1  sigma-54-dependent Fis family transcriptional reg...  102     3e-024
+WP_004281057.1  sigma-54-dependent Fis family transcriptional reg...  102     3e-024
+WP_005248426.1  sigma-54-dependent Fis family transcriptional reg...  102     3e-024
+WP_005249687.1  sigma-54-dependent Fis family transcriptional reg...  102     3e-024
+WP_005263946.1  sigma-54-dependent Fis family transcriptional reg...  102     3e-024
+WP_085064326.1  sigma-54-dependent Fis family transcriptional reg...  102     3e-024
+WP_071851133.1  sigma-54-dependent Fis family transcriptional reg...  102     3e-024
+WP_086179810.1  sigma-54-dependent Fis family transcriptional reg...  102     4e-024
+WP_086193086.1  sigma-54-dependent Fis family transcriptional reg...  102     4e-024
+WP_067722436.1  sigma-54-dependent Fis family transcriptional reg...  102     4e-024
+WP_078192588.1  sigma-54-dependent Fis family transcriptional reg...  102     4e-024
+WP_078189451.1  sigma-54-dependent Fis family transcriptional reg...  102     5e-024
+WP_068908105.1  sigma-54-dependent Fis family transcriptional reg...  102     5e-024
+WP_005169020.1  sigma-54-dependent Fis family transcriptional reg...  101     7e-024
+WP_005017156.1  MULTISPECIES: sigma-54-dependent Fis family trans...  101     7e-024
+WP_044108980.1  sigma-54-dependent Fis family transcriptional reg...  101     7e-024
+WP_075041188.1  sigma-54-dependent Fis family transcriptional reg...  101     8e-024
+WP_016168487.1  sigma-54-dependent Fis family transcriptional reg...  101     8e-024
+WP_034683669.1  sigma-54-dependent Fis family transcriptional reg...  101     8e-024
+WP_005405846.1  sigma-54-dependent Fis family transcriptional reg...  101     8e-024
+WP_034675891.1  sigma-54-dependent Fis family transcriptional reg...  101     8e-024
+WP_005022966.1  MULTISPECIES: sigma-54-dependent Fis family trans...  101     8e-024
+WP_067763143.1  sigma-54-dependent Fis family transcriptional reg...  101     9e-024
+WP_075167827.1  sigma-54-dependent Fis family transcriptional reg...  100     2e-023
+WP_081407129.1  sigma-54-dependent Fis family transcriptional reg...  100     2e-023
+WP_005181573.1  MULTISPECIES: DNA-binding response regulator [Aci...  100     2e-023
+WP_086182852.1  sigma-54-dependent Fis family transcriptional reg...  100     2e-023
+WP_004749931.1  sigma-54-dependent Fis family transcriptional reg...  98.6    7e-023
+WP_055415457.1  DNA-binding response regulator [Acinetobacter soli]   97.4    2e-022
+WP_025096178.1  sigma-54-dependent Fis family transcriptional reg...  97.4    2e-022
+WP_004944134.1  sigma-54-dependent Fis family transcriptional reg...  97.4    2e-022
+WP_004932255.1  sigma-54-dependent Fis family transcriptional reg...  97.4    2e-022
+WP_048766005.1  MULTISPECIES: sigma-54-dependent Fis family trans...  97.4    2e-022
+WP_076033375.1  sigma-54-dependent Fis family transcriptional reg...  97.1    2e-022
+WP_045793265.1  sigma-54-dependent Fis family transcriptional reg...  97.1    3e-022
+WP_004902571.1  sigma-54-dependent Fis family transcriptional reg...  97.1    3e-022
+WP_085945833.1  sigma-54-dependent Fis family transcriptional reg...  94.0    4e-021
+WP_004868166.1  sigma-54-dependent Fis family transcriptional reg...  94.0    4e-021
+WP_058501757.1  DNA-binding response regulator [Legionella israel...  93.6    4e-021
+WP_018577036.1  sigma-54-dependent Fis family transcriptional reg...  91.7    2e-020
+WP_069003759.1  sigma-54-dependent Fis family transcriptional reg...  91.7    3e-020
+WP_061638070.1  sigma-54-dependent Fis family transcriptional reg...  91.3    3e-020
+WP_011946288.1  sigma-54-dependent Fis family transcriptional reg...  91.3    3e-020
+WP_061515129.1  sigma-54-dependent Fis family transcriptional reg...  91.3    3e-020
+WP_011213530.1  sigma-54-dependent Fis family transcriptional reg...  91.3    3e-020
+WP_061483195.1  sigma-54-dependent Fis family transcriptional reg...  91.3    3e-020
+WP_028379343.1  sigma-54-dependent Fis family transcriptional reg...  91.3    3e-020
+WP_062728598.1  sigma-54-dependent Fis family transcriptional reg...  91.3    3e-020
+WP_061784235.1  sigma-54-dependent Fis family transcriptional reg...  91.3    3e-020
+WP_027226200.1  sigma-54-dependent Fis family transcriptional reg...  91.3    3e-020
+WP_027224131.1  sigma-54-dependent Fis family transcriptional reg...  91.3    3e-020
+WP_027219553.1  sigma-54-dependent Fis family transcriptional reg...  91.3    3e-020
+WP_014841410.1  sigma-54-dependent Fis family transcriptional reg...  91.3    3e-020
+WP_061639647.1  sigma-54-dependent Fis family transcriptional reg...  91.3    3e-020
+WP_027266962.1  sigma-54-dependent Fis family transcriptional reg...  91.3    3e-020
+WP_010946908.1  sigma-54-dependent Fis family transcriptional reg...  91.3    3e-020
+WP_062727570.1  sigma-54-dependent Fis family transcriptional reg...  91.3    3e-020
+WP_027221416.1  sigma-54-dependent Fis family transcriptional reg...  91.3    3e-020
+WP_045095189.1  sigma-54-dependent Fis family transcriptional reg...  90.9    4e-020
+WP_028378489.1  sigma-54-dependent Fis family transcriptional reg...  90.9    4e-020
+WP_058481187.1  sigma-54-dependent Fis family transcriptional reg...  90.9    4e-020
+WP_058493709.1  DNA-binding response regulator [Legionella worsle...  90.9    4e-020
+WP_026471633.1  sigma-54-dependent Fis family transcriptional reg...  90.9    5e-020
+WP_056844093.1  sigma-54-dependent Fis family transcriptional reg...  90.5    6e-020
+WP_076878749.1  sigma-54-dependent Fis family transcriptional reg...  90.5    6e-020
+WP_049860965.1  sigma-54-dependent Fis family transcriptional reg...  90.5    6e-020
+WP_066921487.1  sigma-54-dependent Fis family transcriptional reg...  90.5    6e-020
+WP_058461545.1  DNA-binding response regulator [Legionella adelai...  90.1    9e-020
+WP_061513573.1  sigma-54-dependent Fis family transcriptional reg...  89.7    1e-019
+WP_022967096.1  sigma-54-dependent Fis family transcriptional reg...  89.7    1e-019
+WP_062725929.1  sigma-54-dependent Fis family transcriptional reg...  89.0    1e-019
+WP_069015057.1  sigma-54-dependent Fis family transcriptional reg...  89.7    1e-019
+WP_069019423.1  sigma-54-dependent Fis family transcriptional reg...  89.7    1e-019
+WP_068989953.1  sigma-54-dependent Fis family transcriptional reg...  89.4    1e-019
+WP_086202099.1  sigma-54-dependent Fis family transcriptional reg...  89.4    2e-019
+WP_039761667.1  sigma-54-dependent Fis family transcriptional reg...  89.4    2e-019
+WP_073475490.1  sigma-54-dependent Fis family transcriptional reg...  89.4    2e-019
+WP_008078522.1  sigma-54-dependent Fis family transcriptional reg...  89.4    2e-019
+WP_076564154.1  sigma-54-dependent Fis family transcriptional reg...  89.4    2e-019
+WP_056790472.1  sigma-54-dependent Fis family transcriptional reg...  89.4    2e-019
+WP_038361672.1  sigma-54-dependent Fis family transcriptional reg...  89.4    2e-019
+WP_024014351.1  sigma-54-dependent Fis family transcriptional reg...  89.4    2e-019
+WP_016773136.1  sigma-54-dependent Fis family transcriptional reg...  89.4    2e-019
+WP_043102211.1  sigma-54-dependent Fis family transcriptional reg...  89.4    2e-019
+WP_071173637.1  sigma-54-dependent Fis family transcriptional reg...  89.0    2e-019
+WP_003228321.1  sigma-54-dependent Fis family transcriptional reg...  89.0    2e-019
+WP_047602632.1  sigma-54-dependent Fis family transcriptional reg...  89.0    2e-019
+WP_007963847.1  sigma-54-dependent Fis family transcriptional reg...  89.0    2e-019
+WP_023273564.1  sigma-54-dependent Fis family transcriptional reg...  89.0    2e-019
+WP_026609719.1  sigma-54-dependent Fis family transcriptional reg...  89.0    2e-019
+WP_010489692.1  sigma-54-dependent Fis family transcriptional reg...  89.0    2e-019
+WP_040804796.1  sigma-54-dependent Fis family transcriptional reg...  89.0    2e-019
+WP_019464623.1  sigma-54-dependent Fis family transcriptional reg...  89.0    2e-019
+WP_081804449.1  sigma-54-dependent Fis family transcriptional reg...  89.0    2e-019
+WP_061721331.1  sigma-54-dependent Fis family transcriptional reg...  88.6    2e-019
+WP_038838068.1  sigma-54-dependent Fis family transcriptional reg...  88.6    2e-019
+WP_074545433.1  sigma-54-dependent Fis family transcriptional reg...  89.0    2e-019
+WP_082333852.1  sigma-54-dependent Fis family transcriptional reg...  87.4    3e-019
+WP_033010918.1  sigma-54-dependent Fis family transcriptional reg...  87.4    3e-019
+WP_061691967.1  sigma-54-dependent Fis family transcriptional reg...  88.6    3e-019
+WP_027227755.1  sigma-54-dependent Fis family transcriptional reg...  88.6    3e-019
+WP_043255030.1  sigma-54-dependent Fis family transcriptional reg...  88.6    3e-019
+WP_058526145.1  DNA-binding response regulator [Legionella erythra]   88.6    3e-019
+WP_058071493.1  sigma-54-dependent Fis family transcriptional reg...  88.6    3e-019
+WP_068387543.1  sigma-54-dependent Fis family transcriptional reg...  88.6    3e-019
+WP_080581896.1  sigma-54-dependent Fis family transcriptional reg...  87.4    3e-019
+WP_080583109.1  sigma-54-dependent Fis family transcriptional reg...  87.4    3e-019
+WP_069898108.1  MULTISPECIES: sigma-54-dependent Fis family trans...  88.6    3e-019
+WP_077482400.1  sigma-54-dependent Fis family transcriptional reg...  88.6    3e-019
+WP_043273653.1  MULTISPECIES: sigma-54-dependent Fis family trans...  88.6    3e-019
+WP_009617580.1  MULTISPECIES: sigma-54-dependent Fis family trans...  88.6    3e-019
+WP_074822849.1  sigma-54-dependent Fis family transcriptional reg...  88.2    3e-019
+WP_058555590.1  DNA-binding response regulator [Thiohalocapsa sp....  88.6    3e-019
+WP_044872169.1  sigma-54-dependent Fis family transcriptional reg...  88.2    4e-019
+WP_084339926.1  sigma-54-dependent Fis family transcriptional reg...  88.2    4e-019
+WP_010797194.1  MULTISPECIES: sigma-54-dependent Fis family trans...  88.2    4e-019
+WP_028385023.1  sigma-54-dependent Fis family transcriptional reg...  88.2    4e-019
+WP_019367124.1  sigma-54-dependent Fis family transcriptional reg...  88.2    4e-019
+WP_011469032.1  sigma-54-dependent Fis family transcriptional reg...  88.2    4e-019
+WP_027073155.1  sigma-54-dependent Fis family transcriptional reg...  88.2    4e-019
+WP_058475366.1  DNA-binding response regulator [Legionella quatei...  88.2    4e-019
+WP_037046750.1  sigma-54-dependent Fis family transcriptional reg...  88.2    4e-019
+WP_004826315.1  sigma-54-dependent Fis family transcriptional reg...  88.2    4e-019
+WP_074935947.1  sigma-54-dependent Fis family transcriptional reg...  88.2    5e-019
+WP_055771404.1  MULTISPECIES: DNA-binding response regulator [Ste...  88.2    5e-019
+WP_074675797.1  sigma-54-dependent Fis family transcriptional reg...  88.2    5e-019
+WP_037004231.1  sigma-54-dependent Fis family transcriptional reg...  88.2    5e-019
+WP_074913473.1  sigma-54-dependent Fis family transcriptional reg...  87.8    5e-019
+WP_064589244.1  sigma-54-dependent Fis family transcriptional reg...  87.8    5e-019
+WP_061240659.1  sigma-54-dependent Fis family transcriptional reg...  87.8    5e-019
+WP_009501644.1  sigma-54-dependent Fis family transcriptional reg...  88.2    5e-019
+WP_041065332.1  sigma-54-dependent Fis family transcriptional reg...  87.8    5e-019
+WP_058835509.1  sigma-54-dependent Fis family transcriptional reg...  88.2    5e-019
+WP_086134857.1  sigma-54-dependent Fis family transcriptional reg...  87.8    5e-019
+WP_043889390.1  sigma-54-dependent Fis family transcriptional reg...  87.8    5e-019
+WP_005035339.1  MULTISPECIES: sigma-54-dependent Fis family trans...  87.8    5e-019
+WP_013146971.1  sigma-54-dependent Fis family transcriptional reg...  87.8    5e-019
+WP_077731909.1  sigma-54-dependent Fis family transcriptional reg...  87.8    5e-019
+WP_019304355.1  sigma-54-dependent Fis family transcriptional reg...  87.4    5e-019
+WP_046759908.1  sigma-54-dependent Fis family transcriptional reg...  87.8    5e-019
+WP_047296637.1  sigma-54-dependent Fis family transcriptional reg...  87.8    5e-019
+WP_054667220.1  sigma-54-dependent Fis family transcriptional reg...  87.8    5e-019
+WP_086207028.1  sigma-54-dependent Fis family transcriptional reg...  87.8    5e-019
+WP_058530337.1  DNA-binding response regulator [Legionella rubril...  87.8    6e-019
+WP_080640042.1  sigma-54-dependent Fis family transcriptional reg...  87.8    6e-019
+WP_075285413.1  sigma-54-dependent Fis family transcriptional reg...  87.8    6e-019
+WP_047124754.1  sigma-54-dependent Fis family transcriptional reg...  87.8    6e-019
+WP_074058079.1  sigma-54-dependent Fis family transcriptional reg...  87.8    6e-019
+WP_006448366.1  sigma-54-dependent Fis family transcriptional reg...  87.8    6e-019
+WP_076038492.1  sigma-54-dependent Fis family transcriptional reg...  87.8    6e-019
+WP_014508703.1  sigma-54-dependent Fis family transcriptional reg...  87.8    6e-019
+WP_010112923.1  sigma-54-dependent Fis family transcriptional reg...  87.8    6e-019
+WP_076054164.1  sigma-54-dependent Fis family transcriptional reg...  87.8    6e-019
+WP_033480586.1  chemotaxis protein CheY [Xanthomonas phaseoli]        87.4    6e-019
+WP_081020749.1  sigma-54-dependent Fis family transcriptional reg...  87.8    6e-019
+WP_016944995.1  chemotaxis protein CheY [Xanthomonas campestris]      87.8    6e-019
+WP_016901261.1  sigma-54-dependent Fis family transcriptional reg...  87.8    6e-019
+WP_083353593.1  sigma-54-dependent Fis family transcriptional reg...  87.8    6e-019
+WP_047127086.1  MULTISPECIES: sigma-54-dependent Fis family trans...  87.8    6e-019
+WP_042505384.1  sigma-54-dependent Fis family transcriptional reg...  87.8    6e-019
+WP_064364117.1  MULTISPECIES: sigma-54-dependent Fis family trans...  87.8    6e-019
+WP_074059339.1  sigma-54-dependent Fis family transcriptional reg...  87.8    6e-019
+WP_010366202.1  sigma-54-dependent Fis family transcriptional reg...  87.8    6e-019
+WP_080720705.1  MULTISPECIES: sigma-54-dependent Fis family trans...  87.8    6e-019
+WP_080599611.1  sigma-54-dependent Fis family transcriptional reg...  87.8    6e-019
+WP_042610491.1  sigma-54-dependent Fis family transcriptional reg...  87.4    6e-019
+WP_055848888.1  DNA-binding response regulator [Xanthomonas sp. L...  87.8    6e-019
+WP_082336537.1  sigma-54-dependent Fis family transcriptional reg...  87.8    6e-019
+WP_082324157.1  sigma-54-dependent Fis family transcriptional reg...  87.8    6e-019
+WP_080763086.1  sigma-54-dependent Fis family transcriptional reg...  87.8    6e-019
+WP_078517260.1  MULTISPECIES: sigma-54-dependent Fis family trans...  87.8    6e-019
+WP_076605128.1  MULTISPECIES: sigma-54-dependent Fis family trans...  87.8    6e-019
+WP_049818130.1  sigma-54-dependent Fis family transcriptional reg...  87.8    6e-019
+WP_065625003.1  sigma-54-dependent Fis family transcriptional reg...  87.4    7e-019
+WP_082885785.1  hypothetical protein [Oleiphilus sp. HI0061]          85.9    7e-019
+WP_075243395.1  sigma-54-dependent Fis family transcriptional reg...  87.8    7e-019
+WP_082348323.1  sigma-54-dependent Fis family transcriptional reg...  87.8    7e-019
+WP_011038211.1  sigma-54-dependent Fis family transcriptional reg...  87.8    7e-019
+WP_019237351.1  chemotaxis protein CheY [Xanthomonas campestris]      87.8    7e-019
+WP_052118294.1  sigma-54-dependent Fis family transcriptional reg...  87.8    7e-019
+WP_080953581.1  sigma-54-dependent Fis family transcriptional reg...  87.8    7e-019
+WP_078587216.1  sigma-54-dependent Fis family transcriptional reg...  87.8    7e-019
+WP_075150054.1  MULTISPECIES: sigma-54-dependent Fis family trans...  87.8    7e-019
+WP_046343938.1  sigma-54-dependent Fis family transcriptional reg...  87.8    7e-019
+WP_080756857.1  sigma-54-dependent Fis family transcriptional reg...  87.8    7e-019
+WP_074053369.1  sigma-54-dependent Fis family transcriptional reg...  87.8    7e-019
+WP_050560908.1  sigma-54-dependent Fis family transcriptional reg...  87.4    7e-019
+WP_075243953.1  sigma-54-dependent Fis family transcriptional reg...  87.4    7e-019
+WP_082340342.1  sigma-54-dependent Fis family transcriptional reg...  87.4    7e-019
+WP_078538264.1  MULTISPECIES: sigma-54-dependent Fis family trans...  87.4    7e-019
+WP_078566948.1  sigma-54-dependent Fis family transcriptional reg...  87.4    7e-019
+WP_067054918.1  sigma-54-dependent Fis family transcriptional reg...  87.8    7e-019
+WP_067235096.1  sigma-54-dependent Fis family transcriptional reg...  87.8    7e-019
+WP_074052502.1  sigma-54-dependent Fis family transcriptional reg...  87.4    7e-019
+WP_078515374.1  MULTISPECIES: sigma-54-dependent Fis family trans...  87.4    7e-019
+WP_078590284.1  MULTISPECIES: sigma-54-dependent Fis family trans...  87.4    7e-019
+WP_074038485.1  MULTISPECIES: sigma-54-dependent Fis family trans...  87.4    7e-019
+WP_052246387.1  sigma-54-dependent Fis family transcriptional reg...  87.4    7e-019
+WP_081711133.1  sigma-54-dependent Fis family transcriptional reg...  87.4    7e-019
+WP_014504317.1  sigma-54-dependent Fis family transcriptional reg...  87.4    7e-019
+WP_080581349.1  sigma-54-dependent Fis family transcriptional reg...  87.4    7e-019
+WP_051634076.1  sigma-54-dependent Fis family transcriptional reg...  87.4    7e-019
+WP_085158622.1  sigma-54-dependent Fis family transcriptional reg...  87.4    7e-019
+WP_080576224.1  sigma-54-dependent Fis family transcriptional reg...  87.4    7e-019
+WP_081422453.1  sigma-54-dependent Fis family transcriptional reg...  87.4    7e-019
+WP_081027899.1  sigma-54-dependent Fis family transcriptional reg...  87.4    7e-019
+WP_080581661.1  sigma-54-dependent Fis family transcriptional reg...  87.4    7e-019
+WP_029220458.1  chemotaxis protein CheY [Xanthomonas cassavae]        87.4    7e-019
+WP_055824231.1  DNA-binding response regulator [Xanthomonas sp. L...  87.4    7e-019
+WP_046736059.1  sigma-54-dependent Fis family transcriptional reg...  87.4    7e-019
+WP_041183413.1  sigma-54-dependent Fis family transcriptional reg...  87.4    7e-019
+WP_083992922.1  sigma-54-dependent Fis family transcriptional reg...  87.4    7e-019
+WP_050543801.1  sigma-54-dependent Fis family transcriptional reg...  87.4    7e-019
+WP_011408074.1  sigma-54-dependent Fis family transcriptional reg...  87.4    7e-019
+WP_064634547.1  sigma-54-dependent Fis family transcriptional reg...  87.4    7e-019
+WP_082862233.1  sigma-54-dependent Fis family transcriptional reg...  87.4    7e-019
+WP_081419443.1  sigma-54-dependent Fis family transcriptional reg...  87.4    7e-019
+WP_033013168.1  sigma-54-dependent Fis family transcriptional reg...  87.4    8e-019
+WP_021219360.1  sigma-54-dependent Fis family transcriptional reg...  87.4    8e-019
+WP_036301069.1  sigma-54-dependent Fis family transcriptional reg...  87.4    8e-019
+WP_063672776.1  sigma-54-dependent Fis family transcriptional reg...  87.4    8e-019
+WP_075186687.1  sigma-54-dependent Fis family transcriptional reg...  87.4    8e-019
+WP_056516575.1  DNA-binding response regulator [Acinetobacter sp....  87.4    9e-019
+
+
+>WP_073962136.1 sigma-54-dependent Fis family transcriptional regulator, partial 
+[Acinetobacter baumannii]
+Length=310
+
+ Score = 105 bits (262),  Expect = 4e-026, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_065712437.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 107 bits (266),  Expect = 6e-026, Method: Compositional matrix adjust.
+ Identities = 53/64 (83%), Positives = 57/64 (89%), Gaps = 5/64 (8%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR-----SDL  55
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+     SDL
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKKIRPVGSDL  268
+
+Query  56   SVQI  59
+             + +
+Sbjct  269  EIDV  272
+
+
+>WP_019204960.1 sigma-54-dependent Fis family transcriptional regulator, partial 
+[Acinetobacter baumannii]
+Length=413
+
+ Score = 105 bits (263),  Expect = 1e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  149  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  200
+
+
+>WP_005194681.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+sp. NIPH 298]
+Length=476
+
+ Score = 106 bits (264),  Expect = 1e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEKR
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLNMQVKLLRAVQEKR  260
+
+
+>WP_050459974.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=458
+
+ Score = 106 bits (264),  Expect = 1e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_070148783.1 sigma-54-dependent Fis family transcriptional regulator, partial 
+[Acinetobacter baumannii]
+Length=454
+
+ Score = 105 bits (263),  Expect = 1e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_057047380.1 DNA-binding response regulator [Acinetobacter baumannii]
+Length=455
+
+ Score = 105 bits (263),  Expect = 1e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_000840553.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_061392322.1 DNA-binding response regulator [Acinetobacter venetianus]
+Length=476
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_000840541.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_007480198.1 MULTISPECIES: sigma-54-dependent Fis family transcriptional regulator 
+[Acinetobacter]
+Length=476
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_065184429.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_031997429.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_017816292.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_049594865.1 DNA-binding response regulator [Acinetobacter baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_031973038.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_031984679.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_061517387.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+venetianus]
+Length=476
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_004876348.1 MULTISPECIES: sigma-54-dependent Fis family transcriptional regulator 
+[Acinetobacter]
+Length=476
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_000840548.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_049068086.1 DNA-binding response regulator [Acinetobacter baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_032010074.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_032049431.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_000840544.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_000840543.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_042760317.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_031984931.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_071226006.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_046693170.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_000840559.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_005112458.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_075400780.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_074163742.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_079548001.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+calcoaceticus]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_031379397.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_032060430.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_024432424.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_021510860.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_000840563.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_032015320.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_045900575.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_024438497.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_017725205.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_002044796.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_000840557.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_086377948.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_086249919.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_065128031.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_065033574.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_058061476.1 DNA-binding response regulator [Acinetobacter baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_057053991.1 DNA-binding response regulator [Acinetobacter baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_049081597.1 DNA-binding response regulator [Acinetobacter baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_032014309.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_031959790.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_024432847.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_031966660.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_031987259.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_078202505.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_071710238.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_065725583.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_065709508.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_064973294.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_057052408.1 DNA-binding response regulator [Acinetobacter baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_005133355.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_004842749.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_000840550.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_077165242.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+genomosp. 33YU]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_068932667.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+seifertii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_031994477.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_031963979.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_039254235.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_031971123.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_000840556.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_000840554.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_064191954.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_031964799.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_032047206.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_000840549.1 MULTISPECIES: sigma-54-dependent Fis family transcriptional regulator 
+[Acinetobacter calcoaceticus/baumannii complex]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_005129880.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_004737882.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_002131933.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_000840555.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_000840546.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_032067787.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_031968073.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_005135868.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_004699259.1 MULTISPECIES: sigma-54-dependent Fis family transcriptional regulator 
+[Acinetobacter]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_057093973.1 DNA-binding response regulator [Acinetobacter baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_032043478.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_032022784.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_032027051.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_032019145.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_000840552.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_000840547.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_004743220.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_000840561.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_046127788.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_031952705.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_023897413.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_019457003.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+sp. GG2]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_042053236.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_057065333.1 DNA-binding response regulator [Acinetobacter baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_000840562.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_002048902.1 MULTISPECIES: sigma-54-dependent Fis family transcriptional regulator 
+[Acinetobacter calcoaceticus/baumannii complex]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_018679138.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+tjernbergiae]
+Length=475
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_000840542.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_046738938.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+sp. AG1]
+Length=476
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_086263417.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_072689275.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_057693778.1 DNA-binding response regulator [Acinetobacter baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_031999567.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_000840560.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_077169915.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+genomosp. 33YU]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_006581174.1 MULTISPECIES: sigma-54-dependent Fis family transcriptional regulator 
+[Acinetobacter calcoaceticus/baumannii complex]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_005218698.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+sp. ANC 3862]
+Length=476
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_083009365.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+nosocomialis]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_062936996.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_004710949.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+nosocomialis]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_033853464.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=480
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_086266644.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+nosocomialis]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_031982171.1 MULTISPECIES: sigma-54-dependent Fis family transcriptional regulator 
+[Acinetobacter calcoaceticus/baumannii complex]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_005163161.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+sp. NIPH 284]
+Length=476
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_004659424.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+sp. NIPH 236]
+Length=476
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_004883635.1 MULTISPECIES: sigma-54-dependent Fis family transcriptional regulator 
+[Acinetobacter calcoaceticus/baumannii complex]
+Length=473
+
+ Score = 105 bits (263),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_042076327.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+nosocomialis]
+Length=473
+
+ Score = 105 bits (262),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_039249058.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+nosocomialis]
+Length=473
+
+ Score = 105 bits (262),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_016803679.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+nosocomialis]
+Length=473
+
+ Score = 105 bits (262),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_022575140.1 MULTISPECIES: sigma-54-dependent Fis family transcriptional regulator 
+[Acinetobacter calcoaceticus/baumannii complex]
+Length=473
+
+ Score = 105 bits (262),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_032011637.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+sp. 1179249]
+Length=473
+
+ Score = 105 bits (262),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_017387759.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+calcoaceticus]
+Length=472
+
+ Score = 105 bits (262),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_033846927.1 MULTISPECIES: sigma-54-dependent Fis family transcriptional regulator 
+[Acinetobacter calcoaceticus/baumannii complex]
+Length=473
+
+ Score = 105 bits (262),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_031956172.1 MULTISPECIES: sigma-54-dependent Fis family transcriptional regulator 
+[Acinetobacter calcoaceticus/baumannii complex]
+Length=473
+
+ Score = 105 bits (262),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_080026168.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+calcoaceticus]
+Length=472
+
+ Score = 105 bits (262),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_004640656.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+calcoaceticus]
+Length=472
+
+ Score = 105 bits (262),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_086209773.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+sp. ANC 4204]
+Length=473
+
+ Score = 105 bits (262),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGH+KGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEKR
+Sbjct  208  LFGHRKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLTMQVKLLRAVQEKR  259
+
+
+>WP_068529324.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+pittii]
+Length=470
+
+ Score = 105 bits (262),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_058868728.1 DNA-binding response regulator [Acinetobacter johnsonii]
+Length=473
+
+ Score = 105 bits (262),  Expect = 3e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGH+KGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEKR
+Sbjct  208  LFGHRKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLTMQVKLLRAVQEKR  259
+
+
+>WP_056484275.1 DNA-binding response regulator [Acinetobacter sp. Leaf130]
+Length=472
+
+ Score = 105 bits (262),  Expect = 3e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_045437241.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+calcoaceticus]
+Length=472
+
+ Score = 105 bits (262),  Expect = 3e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_045126194.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+calcoaceticus]
+Length=472
+
+ Score = 105 bits (262),  Expect = 3e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_005037328.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+calcoaceticus]
+Length=472
+
+ Score = 105 bits (262),  Expect = 3e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_033851242.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+sp. 826659]
+Length=470
+
+ Score = 105 bits (262),  Expect = 3e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_086265354.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+pittii]
+Length=470
+
+ Score = 105 bits (262),  Expect = 3e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_057089980.1 DNA-binding response regulator [Acinetobacter pittii]
+Length=470
+
+ Score = 105 bits (262),  Expect = 3e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_005804053.1 MULTISPECIES: sigma-54-dependent Fis family transcriptional regulator 
+[Acinetobacter calcoaceticus/baumannii complex]
+Length=470
+
+ Score = 105 bits (262),  Expect = 3e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_017391151.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+calcoaceticus]
+Length=472
+
+ Score = 105 bits (262),  Expect = 3e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_009392301.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+sp. WC-141]
+Length=472
+
+ Score = 105 bits (262),  Expect = 3e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_057085007.1 DNA-binding response regulator [Acinetobacter pittii]
+Length=470
+
+ Score = 105 bits (262),  Expect = 3e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_004978587.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+johnsonii]
+Length=473
+
+ Score = 105 bits (262),  Expect = 3e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGH+KGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEKR
+Sbjct  208  LFGHRKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLTMQVKLLRAVQEKR  259
+
+
+>WP_032052767.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+sp. 1294243]
+Length=470
+
+ Score = 105 bits (262),  Expect = 3e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_068564743.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+pittii]
+Length=470
+
+ Score = 105 bits (261),  Expect = 3e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_003654434.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+calcoaceticus]
+Length=472
+
+ Score = 105 bits (261),  Expect = 3e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_005400998.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+johnsonii]
+Length=473
+
+ Score = 105 bits (261),  Expect = 3e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGH+KGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEKR
+Sbjct  208  LFGHRKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLTMQVKLLRAVQEKR  259
+
+
+>WP_078224279.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+pittii]
+Length=470
+
+ Score = 105 bits (261),  Expect = 3e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_075384044.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+pittii]
+Length=470
+
+ Score = 105 bits (261),  Expect = 3e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_017481910.1 MULTISPECIES: sigma-54-dependent Fis family transcriptional regulator 
+[Acinetobacter calcoaceticus/baumannii complex]
+Length=470
+
+ Score = 105 bits (261),  Expect = 3e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_032006849.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+sp. 1264765]
+Length=470
+
+ Score = 105 bits (261),  Expect = 3e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_078389589.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+sp. MF4640]
+Length=473
+
+ Score = 105 bits (261),  Expect = 3e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGH+KGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEKR
+Sbjct  208  LFGHRKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLTMQVKLLRAVQEKR  259
+
+
+>WP_062033290.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+sp. BMW17]
+Length=473
+
+ Score = 105 bits (261),  Expect = 3e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGH+KGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEKR
+Sbjct  208  LFGHRKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLTMQVKLLRAVQEKR  259
+
+
+>WP_004692839.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+johnsonii]
+Length=473
+
+ Score = 105 bits (261),  Expect = 3e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGH+KGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEKR
+Sbjct  208  LFGHRKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLTMQVKLLRAVQEKR  259
+
+
+>WP_069036338.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+pittii]
+Length=470
+
+ Score = 105 bits (261),  Expect = 3e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_002121217.1 MULTISPECIES: sigma-54-dependent Fis family transcriptional regulator 
+[Acinetobacter calcoaceticus/baumannii complex]
+Length=470
+
+ Score = 105 bits (261),  Expect = 3e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_068929731.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+pittii]
+Length=470
+
+ Score = 105 bits (261),  Expect = 3e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_068544557.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+pittii]
+Length=470
+
+ Score = 105 bits (261),  Expect = 3e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_032005832.1 MULTISPECIES: sigma-54-dependent Fis family transcriptional regulator 
+[Acinetobacter calcoaceticus/baumannii complex]
+Length=470
+
+ Score = 105 bits (261),  Expect = 3e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_086398701.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+pittii]
+Length=470
+
+ Score = 105 bits (261),  Expect = 3e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_086313358.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+pittii]
+Length=470
+
+ Score = 105 bits (261),  Expect = 3e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_063097969.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+pittii]
+Length=470
+
+ Score = 105 bits (261),  Expect = 3e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_039763891.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+pittii]
+Length=470
+
+ Score = 105 bits (261),  Expect = 3e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_032012536.1 MULTISPECIES: sigma-54-dependent Fis family transcriptional regulator 
+[Acinetobacter calcoaceticus/baumannii complex]
+Length=470
+
+ Score = 105 bits (261),  Expect = 3e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_017385867.1 MULTISPECIES: sigma-54-dependent Fis family transcriptional regulator 
+[Acinetobacter]
+Length=470
+
+ Score = 105 bits (261),  Expect = 3e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_005079471.1 MULTISPECIES: sigma-54-dependent Fis family transcriptional regulator 
+[Acinetobacter calcoaceticus/baumannii complex]
+Length=470
+
+ Score = 105 bits (261),  Expect = 3e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_005065713.1 MULTISPECIES: sigma-54-dependent Fis family transcriptional regulator 
+[Acinetobacter calcoaceticus/baumannii complex]
+Length=470
+
+ Score = 105 bits (261),  Expect = 3e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_032037722.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+sp. 742879]
+Length=470
+
+ Score = 105 bits (261),  Expect = 3e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_044100210.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+pittii]
+Length=470
+
+ Score = 105 bits (261),  Expect = 3e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_005301635.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+sp. NIPH 542]
+Length=472
+
+ Score = 105 bits (261),  Expect = 3e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_069030896.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+pittii]
+Length=470
+
+ Score = 105 bits (261),  Expect = 3e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_004957331.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+junii]
+Length=476
+
+ Score = 105 bits (261),  Expect = 4e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLNMQVKLLRAVQEKK  260
+
+
+>WP_004958496.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+junii]
+Length=476
+
+ Score = 105 bits (261),  Expect = 4e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLNMQVKLLRAVQEKK  260
+
+
+>WP_016165207.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+sp. CIP 110321]
+Length=478
+
+ Score = 105 bits (261),  Expect = 4e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLNMQVKLLRAVQEKK  260
+
+
+>WP_004802148.1 MULTISPECIES: sigma-54-dependent Fis family transcriptional regulator 
+[Acinetobacter]
+Length=478
+
+ Score = 105 bits (261),  Expect = 4e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLNMQVKLLRAVQEKK  260
+
+
+>WP_038343472.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+sp. A47]
+Length=477
+
+ Score = 105 bits (261),  Expect = 4e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLNMQVKLLRAVQEKK  260
+
+
+>WP_039046870.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+junii]
+Length=476
+
+ Score = 105 bits (261),  Expect = 4e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLNMQVKLLRAVQEKK  260
+
+
+>WP_061523863.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+venetianus]
+Length=476
+
+ Score = 105 bits (261),  Expect = 4e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLNMQVKLLRAVQEKK  260
+
+
+>WP_004917021.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+junii]
+Length=476
+
+ Score = 105 bits (261),  Expect = 4e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLNMQVKLLRAVQEKK  260
+
+
+>WP_005210046.1 MULTISPECIES: sigma-54-dependent Fis family transcriptional regulator 
+[Acinetobacter]
+Length=478
+
+ Score = 105 bits (261),  Expect = 4e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLNMQVKLLRAVQEKK  260
+
+
+>WP_005191759.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+sp. ANC 4105]
+Length=478
+
+ Score = 105 bits (261),  Expect = 4e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLNMQVKLLRAVQEKK  260
+
+
+>WP_005154723.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+sp. ANC 3929]
+Length=478
+
+ Score = 105 bits (261),  Expect = 4e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLNMQVKLLRAVQEKK  260
+
+
+>WP_005291283.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+sp. NIPH 2100]
+Length=478
+
+ Score = 105 bits (261),  Expect = 4e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLNMQVKLLRAVQEKK  260
+
+
+>WP_004637594.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+haemolyticus]
+Length=476
+
+ Score = 104 bits (260),  Expect = 4e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLNMQVKLLRAVQEKK  260
+
+
+>WP_005083966.1 MULTISPECIES: sigma-54-dependent Fis family transcriptional regulator 
+[Acinetobacter]
+Length=476
+
+ Score = 104 bits (260),  Expect = 4e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLNMQVKLLRAVQEKK  260
+
+
+>WP_054580489.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+equi]
+Length=448
+
+ Score = 104 bits (260),  Expect = 4e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEK+
+Sbjct  191  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLNMQVKLLRAVQEKK  242
+
+
+>WP_005087908.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+haemolyticus]
+Length=475
+
+ Score = 104 bits (260),  Expect = 4e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLNMQVKLLRAVQEKK  260
+
+
+>WP_075316336.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+haemolyticus]
+Length=476
+
+ Score = 104 bits (260),  Expect = 4e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLNMQVKLLRAVQEKK  260
+
+
+>WP_069578115.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+sp. YK3]
+Length=478
+
+ Score = 104 bits (260),  Expect = 4e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLNMQVKLLRAVQEKK  260
+
+
+>WP_065344205.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+gyllenbergii]
+Length=478
+
+ Score = 104 bits (260),  Expect = 4e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLNMQVKLLRAVQEKK  260
+
+
+>WP_016540805.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+gyllenbergii]
+Length=478
+
+ Score = 104 bits (260),  Expect = 4e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLNMQVKLLRAVQEKK  260
+
+
+>WP_005278361.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+sp. NIPH 1859]
+Length=478
+
+ Score = 104 bits (260),  Expect = 4e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLNMQVKLLRAVQEKK  260
+
+
+>WP_005240229.1 MULTISPECIES: sigma-54-dependent Fis family transcriptional regulator 
+[Acinetobacter]
+Length=478
+
+ Score = 104 bits (260),  Expect = 4e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLNMQVKLLRAVQEKK  260
+
+
+>WP_070074440.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+proteolyticus]
+Length=478
+
+ Score = 104 bits (260),  Expect = 4e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLNMQVKLLRAVQEKK  260
+
+
+>WP_004773959.1 MULTISPECIES: sigma-54-dependent Fis family transcriptional regulator 
+[Acinetobacter]
+Length=478
+
+ Score = 104 bits (260),  Expect = 4e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLNMQVKLLRAVQEKK  260
+
+
+>WP_004656362.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+sp. NIPH 809]
+Length=478
+
+ Score = 104 bits (260),  Expect = 4e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLNMQVKLLRAVQEKK  260
+
+
+>WP_032881010.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+sp. WC-323]
+Length=478
+
+ Score = 104 bits (260),  Expect = 4e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLNMQVKLLRAVQEKK  260
+
+
+>WP_034587574.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+sp. HR7]
+Length=475
+
+ Score = 104 bits (260),  Expect = 4e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLI SAHGGSLFLDEIAELPLSMQVKLLRAVQEKR
+Sbjct  208  LFGHKKGSFTGATQDKQGLIQSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  259
+
+
+>WP_032876007.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=478
+
+ Score = 104 bits (260),  Expect = 4e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLNMQVKLLRAVQEKK  260
+
+
+>WP_005281043.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+sp. NIPH 3623]
+Length=478
+
+ Score = 104 bits (260),  Expect = 4e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLNMQVKLLRAVQEKK  260
+
+
+>WP_005226338.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+sp. NIPH 1847]
+Length=478
+
+ Score = 104 bits (260),  Expect = 4e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLNMQVKLLRAVQEKK  260
+
+
+>WP_005050831.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+beijerinckii]
+Length=477
+
+ Score = 104 bits (260),  Expect = 4e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELP+SMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPVSMQVKLLRAVQEKK  260
+
+
+>WP_032871235.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=478
+
+ Score = 104 bits (260),  Expect = 5e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLNMQVKLLRAVQEKK  260
+
+
+>WP_068889323.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+celticus]
+Length=470
+
+ Score = 104 bits (260),  Expect = 5e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLI SAHGGSLFLDEIAELPLSMQVKLLRAVQEKR
+Sbjct  208  LFGHKKGSFTGATQDKQGLIQSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  259
+
+
+>WP_016139518.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+calcoaceticus]
+Length=472
+
+ Score = 104 bits (260),  Expect = 5e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLTMQVKLLRAVQEKK  260
+
+
+>WP_004975695.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+towneri]
+Length=477
+
+ Score = 104 bits (260),  Expect = 5e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLI SAHGGSLFLDEIAELPLSMQVKLLRAVQEKR
+Sbjct  210  LFGHKKGSFTGATQDKQGLIQSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  261
+
+
+>WP_034703418.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=472
+
+ Score = 104 bits (260),  Expect = 5e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLI SAHGGSLFLDEIAELPLSMQVKLLRAVQEKR
+Sbjct  209  LFGHKKGSFTGATQDKQGLIQSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  260
+
+
+>WP_034169779.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+sp. YZS-X1-1]
+Length=472
+
+ Score = 104 bits (260),  Expect = 5e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLI SAHGGSLFLDEIAELPLSMQVKLLRAVQEKR
+Sbjct  209  LFGHKKGSFTGATQDKQGLIQSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  260
+
+
+>WP_005233471.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+sp. NIPH 2171]
+Length=472
+
+ Score = 104 bits (260),  Expect = 5e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLI SAHGGSLFLDEIAELPLSMQVKLLRAVQEKR
+Sbjct  209  LFGHKKGSFTGATQDKQGLIQSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  260
+
+
+>WP_067731356.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+sp. NCu2D-2]
+Length=471
+
+ Score = 104 bits (259),  Expect = 5e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLI SAHGGSLFLDEIAELPLSMQVKLLRAVQEKR
+Sbjct  209  LFGHKKGSFTGATQDKQGLIQSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  260
+
+
+>WP_019838141.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+sp. MDS7A]
+Length=477
+
+ Score = 104 bits (260),  Expect = 5e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLI SAHGGSLFLDEIAELPLSMQVKLLRAVQEKR
+Sbjct  210  LFGHKKGSFTGATQDKQGLIQSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  261
+
+
+>WP_016142452.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+pittii]
+Length=471
+
+ Score = 104 bits (259),  Expect = 5e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLTMQVKLLRAVQEKK  260
+
+
+>WP_004787282.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+sp. NIPH 899]
+Length=472
+
+ Score = 104 bits (259),  Expect = 5e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLI SAHGGSLFLDEIAELPLSMQVKLLRAVQEKR
+Sbjct  209  LFGHKKGSFTGATQDKQGLIQSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  260
+
+
+>WP_032055627.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=470
+
+ Score = 104 bits (259),  Expect = 5e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLTMQVKLLRAVQEKK  260
+
+
+>WP_070154731.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+towneri]
+Length=477
+
+ Score = 104 bits (259),  Expect = 5e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLI SAHGGSLFLDEIAELPLSMQVKLLRAVQEKR
+Sbjct  210  LFGHKKGSFTGATQDKQGLIQSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  261
+
+
+>WP_016144104.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+pittii]
+Length=471
+
+ Score = 104 bits (259),  Expect = 5e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLTMQVKLLRAVQEKK  260
+
+
+>WP_057105146.1 DNA-binding response regulator [Acinetobacter pittii]
+Length=470
+
+ Score = 104 bits (259),  Expect = 6e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLTMQVKLLRAVQEKK  260
+
+
+>WP_062848690.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+lactucae]
+Length=470
+
+ Score = 104 bits (259),  Expect = 6e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLTMQVKLLRAVQEKK  260
+
+
+>WP_081175509.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+lactucae]
+Length=470
+
+ Score = 104 bits (259),  Expect = 6e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLTMQVKLLRAVQEKK  260
+
+
+>WP_061874318.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+dijkshoorniae]
+Length=470
+
+ Score = 104 bits (259),  Expect = 6e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLTMQVKLLRAVQEKK  260
+
+
+>WP_031947157.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=470
+
+ Score = 104 bits (259),  Expect = 6e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLTMQVKLLRAVQEKK  260
+
+
+>WP_086199584.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+sp. ANC 4169]
+Length=469
+
+ Score = 104 bits (259),  Expect = 6e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLI SAHGGSLFLDEIAELPLSMQVKLLRAVQEKR
+Sbjct  208  LFGHKKGSFTGATQDKQGLIQSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  259
+
+
+>WP_013199132.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+oleivorans]
+Length=471
+
+ Score = 104 bits (259),  Expect = 6e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLNMQVKLLRAVQEKK  260
+
+
+>WP_086174192.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+sp. ANC 3903]
+Length=469
+
+ Score = 104 bits (259),  Expect = 7e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLI SAHGGSLFLDEIAELPLSMQVKLLRAVQEKR
+Sbjct  208  LFGHKKGSFTGATQDKQGLIQSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  259
+
+
+>WP_014208172.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+pittii]
+ YP_004997413.1 type 4 fimbriae expression regulatory protein [Acinetobacter 
+pittii PHEA-2]
+Length=470
+
+ Score = 104 bits (259),  Expect = 7e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLNMQVKLLRAVQEKK  260
+
+
+>WP_005013400.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+bouvetii]
+Length=470
+
+ Score = 104 bits (259),  Expect = 7e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLI SAHGGSLFLDEIAELPLSMQVKLLRAVQEKR
+Sbjct  208  LFGHKKGSFTGATQDKQGLIQSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  259
+
+
+>WP_017400163.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+pittii]
+Length=470
+
+ Score = 103 bits (258),  Expect = 7e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLIL+AHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILAAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_039620726.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+harbinensis]
+Length=469
+
+ Score = 103 bits (258),  Expect = 8e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLI SAHGGSLFLDEIAELPLSMQVKLLRAVQEKR
+Sbjct  208  LFGHKKGSFTGATQDKQGLIQSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  259
+
+
+>WP_086187348.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+sp. ANC 4470]
+Length=469
+
+ Score = 103 bits (258),  Expect = 8e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLI SAHGGSLFLDE+AELPLSMQVKLLRAVQEKR
+Sbjct  208  LFGHKKGSFTGATQDKQGLIQSAHGGSLFLDEVAELPLSMQVKLLRAVQEKR  259
+
+
+>WP_086183960.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+sp. ANC 4973]
+Length=469
+
+ Score = 103 bits (258),  Expect = 8e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLI SAHGGSLFLDE+AELPLSMQVKLLRAVQEKR
+Sbjct  208  LFGHKKGSFTGATQDKQGLIQSAHGGSLFLDEVAELPLSMQVKLLRAVQEKR  259
+
+
+>WP_042894315.1 MULTISPECIES: sigma-54-dependent Fis family transcriptional regulator 
+[Acinetobacter]
+Length=473
+
+ Score = 103 bits (258),  Expect = 9e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLI SAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLIWSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_086165191.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+sp. ANC 4654]
+Length=469
+
+ Score = 103 bits (258),  Expect = 9e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLI SAHGGSLFLDE+AELPLSMQVKLLRAVQEKR
+Sbjct  208  LFGHKKGSFTGATQDKQGLIQSAHGGSLFLDEVAELPLSMQVKLLRAVQEKR  259
+
+
+>WP_000840551.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 103 bits (258),  Expect = 9e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQ+K+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQKKK  260
+
+
+>WP_004795164.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+sp. NIPH 817]
+Length=472
+
+ Score = 103 bits (258),  Expect = 9e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLI SAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLIFSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_004650064.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+bohemicus]
+Length=469
+
+ Score = 103 bits (258),  Expect = 9e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLI SAHGGSLFLDE+AELPLSMQVKLLRAVQEKR
+Sbjct  208  LFGHKKGSFTGATQDKQGLIQSAHGGSLFLDEVAELPLSMQVKLLRAVQEKR  259
+
+
+>WP_074946980.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+bohemicus]
+Length=469
+
+ Score = 103 bits (258),  Expect = 9e-025, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLI SAHGGSLFLDE+AELPLSMQVKLLRAVQEKR
+Sbjct  208  LFGHKKGSFTGATQDKQGLIQSAHGGSLFLDEVAELPLSMQVKLLRAVQEKR  259
+
+
+>WP_057076003.1 DNA-binding response regulator [Acinetobacter pittii]
+Length=470
+
+ Score = 103 bits (258),  Expect = 1e-024, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGA+QDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGASQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_000840558.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 103 bits (257),  Expect = 1e-024, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKG FTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LFGHKKGGFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_005060928.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+beijerinckii]
+Length=477
+
+ Score = 103 bits (257),  Expect = 1e-024, Method: Compositional matrix adjust.
+ Identities = 48/52 (92%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELP++MQVKLLRAVQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPVNMQVKLLRAVQEKK  260
+
+
+>WP_067866030.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+sp. SFB]
+Length=470
+
+ Score = 103 bits (257),  Expect = 1e-024, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLI SAHGGSLFLDEIAELPL+MQVKLLRAVQEKR
+Sbjct  208  LFGHKKGSFTGATQDKQGLIQSAHGGSLFLDEIAELPLTMQVKLLRAVQEKR  259
+
+
+>WP_077108953.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+baumannii]
+Length=473
+
+ Score = 103 bits (257),  Expect = 1e-024, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            + GHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEK+
+Sbjct  209  LLGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKK  260
+
+
+>WP_086195176.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+sp. ANC 4218]
+Length=469
+
+ Score = 103 bits (256),  Expect = 1e-024, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLI SAHGGSLFLDEIAELPL+MQVKLLRAVQEKR
+Sbjct  208  LFGHKKGSFTGATQDKQGLIQSAHGGSLFLDEIAELPLNMQVKLLRAVQEKR  259
+
+
+>WP_053578967.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+sp. TTH0-4]
+Length=469
+
+ Score = 103 bits (256),  Expect = 1e-024, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLI SAHGGSLFLDEIAELPL+MQVKLLRAVQEKR
+Sbjct  208  LFGHKKGSFTGATQDKQGLIQSAHGGSLFLDEIAELPLNMQVKLLRAVQEKR  259
+
+
+>WP_016653273.1 sigma-54-dependent Fis family transcriptional regulator [Acinetobacter 
+sp. NIPH 2036]
+Length=478
+
+ Score = 103 bits (256),  Expect = 2e-024, Method: Compositional matrix adjust.
+ Identities = 48/52 (92%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1    MFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLSMQVKLLRAVQEKR  52
+            +FGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPL+MQVKLLR VQEK+
+Sbjct  209  LFGHKKGSFTGATQDKQGLILSAHGGSLFLDEIAELPLNMQVKLLRTVQEKK  260
+
+
+
+Lambda      K        H
+   0.319    0.134    0.355 
+
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+
+Effective search space used: 789967282132
+
+
+  Database: NCBI Protein Reference Sequences
+    Posted date:  May 29, 2017 12:00 AM
+  Number of letters in database: 31,412,196,622
+  Number of sequences in database:  82,027,677
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40

@@ -1,0 +1,3700 @@
+BLASTP 2.6.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: NCBI Protein Reference Sequences
+           82,027,677 sequences; 31,412,196,622 total letters
+
+
+
+Query= embl-cds:ABO10844 putative Zinc-binding protein OS=Acinetobacter
+baumannii (strain ATCC 17978 / CIP 53.77 / LMG 1025 / NCDC KC755 /
+5377) GN=A1S_0385 SV=1 UP=UP000006737:Chromosome
+
+Length=64
+
+RID: JVHAD43B015
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+WP_001138289.1  MULTISPECIES: DNA gyrase inhibitor YacG [Acinetob...  136     5e-041
+WP_050451283.1  DNA gyrase inhibitor YacG [Acinetobacter baumannii]   136     6e-041
+WP_004698974.1  MULTISPECIES: DNA gyrase inhibitor YacG [Acinetob...  135     2e-040
+WP_015451379.1  DNA gyrase inhibitor YacG [Acinetobacter baumannii]   134     2e-040
+WP_004883472.1  MULTISPECIES: DNA gyrase inhibitor YacG [Acinetob...  134     2e-040
+WP_062937538.1  DNA gyrase inhibitor YacG [Acinetobacter baumannii]   134     2e-040
+WP_001138290.1  DNA gyrase inhibitor YacG [Acinetobacter baumannii]   134     2e-040
+WP_071209613.1  DNA gyrase inhibitor YacG [Acinetobacter baumannii]   134     2e-040
+WP_033846399.1  MULTISPECIES: DNA gyrase inhibitor YacG [Acinetob...  134     4e-040
+WP_009393012.1  DNA gyrase inhibitor YacG [Acinetobacter sp. WC-141]  133     5e-040
+WP_057051997.1  DNA gyrase inhibitor YacG [Acinetobacter baumannii]   133     6e-040
+WP_002132822.1  DNA gyrase inhibitor YacG [Acinetobacter baumannii]   133     6e-040
+WP_031379571.1  DNA gyrase inhibitor YacG [Acinetobacter baumannii]   133     7e-040
+WP_004794921.1  MULTISPECIES: DNA gyrase inhibitor YacG [Acinetob...  132     2e-039
+WP_085920629.1  DNA gyrase inhibitor YacG [Acinetobacter baumannii]   132     2e-039
+WP_069036481.1  DNA gyrase inhibitor YacG [Acinetobacter pittii]      132     2e-039
+WP_016139395.1  DNA gyrase inhibitor YacG [Acinetobacter calcoace...  131     4e-039
+WP_016144208.1  MULTISPECIES: DNA gyrase inhibitor YacG [Acinetob...  130     6e-039
+WP_002114956.1  MULTISPECIES: DNA gyrase inhibitor YacG [Acinetob...  130     7e-039
+WP_042894610.1  MULTISPECIES: DNA gyrase inhibitor YacG [Acinetob...  130     9e-039
+WP_003654666.1  MULTISPECIES: DNA gyrase inhibitor YacG [Acinetob...  129     3e-038
+WP_016142332.1  DNA gyrase inhibitor YacG [Acinetobacter pittii]      129     3e-038
+WP_005239977.1  MULTISPECIES: DNA gyrase inhibitor YacG [Acinetob...  115     8e-033
+WP_038344829.1  DNA gyrase inhibitor YacG [Acinetobacter sp. A47]     115     8e-033
+WP_004825277.1  DNA gyrase inhibitor YacG [Acinetobacter bereziniae]  115     1e-032
+WP_005034213.1  MULTISPECIES: DNA gyrase inhibitor YacG [Acinetob...  114     2e-032
+WP_032870660.1  DNA gyrase inhibitor YacG [Acinetobacter baumannii]   114     2e-032
+WP_066899234.1  DNA gyrase inhibitor [Streptobacillus notomytis]      114     3e-032
+WP_016542377.1  DNA gyrase inhibitor YacG [Acinetobacter gyllenbe...  114     3e-032
+WP_004680638.1  MULTISPECIES: DNA gyrase inhibitor YacG [Acinetob...  113     6e-032
+WP_005226540.1  MULTISPECIES: DNA gyrase inhibitor YacG [Acinetob...  113     6e-032
+WP_004802417.1  MULTISPECIES: DNA gyrase inhibitor YacG [Acinetob...  113     7e-032
+WP_086193021.1  DNA gyrase inhibitor YacG [Acinetobacter sp. ANC ...  112     9e-032
+WP_004920346.1  MULTISPECIES: DNA gyrase inhibitor YacG [Acinetob...  112     1e-031
+WP_042089482.1  DNA gyrase inhibitor YacG [Acinetobacter bereziniae]  112     1e-031
+WP_004656113.1  MULTISPECIES: DNA gyrase inhibitor YacG [Acinetob...  112     1e-031
+WP_004916696.1  DNA gyrase inhibitor YacG [Acinetobacter junii]       111     2e-031
+WP_035264978.1  DNA gyrase inhibitor YacG [Acinetobacter sp. Ver3]    111     2e-031
+WP_007479167.1  MULTISPECIES: DNA gyrase inhibitor YacG [Acinetob...  111     3e-031
+WP_086198480.1  DNA gyrase inhibitor YacG [Acinetobacter sp. ANC ...  111     3e-031
+WP_005218523.1  DNA gyrase inhibitor YacG [Acinetobacter sp. ANC ...  111     3e-031
+WP_081037694.1  DNA gyrase inhibitor YacG [Acinetobacter pittii]      111     3e-031
+WP_005083735.1  DNA gyrase inhibitor YacG [Acinetobacter haemolyt...  111     3e-031
+WP_004637751.1  MULTISPECIES: DNA gyrase inhibitor YacG [Acinetob...  111     4e-031
+WP_067722232.1  zinc-binding protein [Acinetobacter sp. SFC]          111     4e-031
+WP_005162768.1  MULTISPECIES: DNA gyrase inhibitor YacG [Acinetob...  110     5e-031
+WP_004774191.1  MULTISPECIES: DNA gyrase inhibitor YacG [Acinetob...  110     6e-031
+WP_004876593.1  DNA gyrase inhibitor YacG [Acinetobacter venetianus]  110     6e-031
+WP_005192098.1  DNA gyrase inhibitor YacG [Acinetobacter sp. ANC ...  110     7e-031
+WP_019385778.1  DNA gyrase inhibitor YacG [Acinetobacter venetianus]  110     8e-031
+WP_005210235.1  DNA gyrase inhibitor YacG [Acinetobacter sp. NIPH...  110     8e-031
+WP_005154994.1  DNA gyrase inhibitor YacG [Acinetobacter sp. ANC ...  110     1e-030
+WP_017395231.1  DNA gyrase inhibitor YacG [Acinetobacter haemolyt...  110     1e-030
+WP_004659178.1  DNA gyrase inhibitor YacG [Acinetobacter sp. NIPH...  109     2e-030
+WP_067866201.1  zinc-binding protein [Acinetobacter sp. SFB]          109     2e-030
+WP_039047657.1  DNA gyrase inhibitor YacG [Acinetobacter junii]       109     3e-030
+WP_061392213.1  DNA gyrase inhibitor YacG [Acinetobacter venetianus]  109     3e-030
+WP_005291524.1  DNA gyrase inhibitor YacG [Acinetobacter sp. NIPH...  108     3e-030
+WP_005181919.1  MULTISPECIES: DNA gyrase inhibitor YacG [Acinetob...  108     4e-030
+WP_086187271.1  DNA gyrase inhibitor YacG [Acinetobacter sp. ANC ...  108     5e-030
+WP_016659618.1  DNA gyrase inhibitor YacG [Acinetobacter indicus]     108     6e-030
+WP_044433996.1  DNA gyrase inhibitor YacG [Acinetobacter ursingii]    108     7e-030
+WP_018677399.1  DNA gyrase inhibitor YacG [Acinetobacter tjernber...  108     7e-030
+WP_086195257.1  DNA gyrase inhibitor YacG [Acinetobacter sp. ANC ...  107     8e-030
+WP_004649968.1  DNA gyrase inhibitor YacG [Acinetobacter bohemicus]   107     1e-029
+WP_005001271.1  DNA gyrase inhibitor YacG [Acinetobacter ursingii]    107     1e-029
+WP_086174058.1  DNA gyrase inhibitor YacG [Acinetobacter sp. ANC ...  107     2e-029
+WP_045796692.1  DNA gyrase inhibitor YacG [Acinetobacter indicus]     107     2e-029
+WP_004991521.1  MULTISPECIES: DNA gyrase inhibitor YacG [Acinetob...  106     2e-029
+WP_005061152.1  DNA gyrase inhibitor YacG [Acinetobacter beijerin...  106     3e-029
+WP_086202366.1  DNA gyrase inhibitor YacG [Acinetobacter sp. ANC ...  105     6e-029
+WP_086183891.1  DNA gyrase inhibitor YacG [Acinetobacter sp. ANC ...  105     8e-029
+WP_053578887.1  DNA gyrase inhibitor YacG [Acinetobacter sp. TTH0-4]  105     8e-029
+WP_034594877.1  DNA gyrase inhibitor YacG [Acinetobacter sp. NIPH...  105     8e-029
+WP_086165115.1  DNA gyrase inhibitor YacG [Acinetobacter sp. ANC ...  105     8e-029
+WP_004674482.1  DNA gyrase inhibitor YacG [Acinetobacter parvus]      104     1e-028
+WP_004975985.1  DNA gyrase inhibitor YacG [Acinetobacter towneri]     104     2e-028
+WP_005051146.1  DNA gyrase inhibitor YacG [Acinetobacter beijerin...  104     2e-028
+WP_004668468.1  DNA gyrase inhibitor YacG [Acinetobacter sp. CIP-...  103     5e-028
+WP_045794382.1  DNA gyrase inhibitor YacG [Acinetobacter brisouii]    103     6e-028
+WP_004749790.1  MULTISPECIES: DNA gyrase inhibitor YacG [Acinetob...  102     1e-027
+WP_086209648.1  DNA gyrase inhibitor YacG [Acinetobacter sp. ANC ...  101     2e-027
+WP_067666935.1  zinc-binding protein [Acinetobacter sp. ANC 4149]     101     3e-027
+WP_016168349.1  DNA gyrase inhibitor YacG [Acinetobacter tandoii]     101     4e-027
+WP_019836038.1  DNA gyrase inhibitor YacG [Acinetobacter sp. MDS7A]   100     6e-027
+WP_004932603.1  MULTISPECIES: DNA gyrase inhibitor YacG [Acinetob...  100     7e-027
+WP_004943887.1  DNA gyrase inhibitor YacG [Acinetobacter soli]        100     7e-027
+WP_004692619.1  MULTISPECIES: DNA gyrase inhibitor YacG [Acinetob...  100     9e-027
+WP_086205054.1  DNA gyrase inhibitor YacG [Acinetobacter sp. ANC ...  100     1e-026
+WP_004816790.1  MULTISPECIES: DNA gyrase inhibitor YacG [Acinetob...  99.4    1e-026
+WP_004725583.1  MULTISPECIES: DNA gyrase inhibitor YacG [Acinetob...  99.4    2e-026
+WP_039620876.1  DNA gyrase inhibitor YacG [Acinetobacter harbinen...  99.4    2e-026
+WP_086189661.1  DNA gyrase inhibitor YacG [Acinetobacter sp. ANC ...  99.4    2e-026
+WP_086212990.1  DNA gyrase inhibitor YacG [Acinetobacter sp. ANC ...  99.0    3e-026
+WP_086177032.1  DNA gyrase inhibitor YacG [Acinetobacter sp. ANC ...  98.6    5e-026
+WP_034587880.1  DNA gyrase inhibitor YacG [Acinetobacter sp. HR7]     98.2    6e-026
+WP_055414938.1  DNA gyrase inhibitor YacG [Acinetobacter soli]        98.2    6e-026
+WP_068885569.1  zinc-binding protein [Acinetobacter celticus]         97.8    7e-026
+WP_065994043.1  zinc-binding protein [Acinetobacter sp. WCHA30]       97.4    1e-025
+WP_005016860.1  MULTISPECIES: DNA gyrase inhibitor YacG [Acinetob...  97.4    1e-025
+WP_078189771.1  DNA gyrase inhibitor YacG [Acinetobacter sp. ANC ...  97.1    2e-025
+WP_067764029.1  MULTISPECIES: zinc-binding protein [Acinetobacter]    96.7    2e-025
+WP_004869715.1  DNA gyrase inhibitor YacG [Acinetobacter gerneri]     95.9    4e-025
+WP_068909744.1  zinc-binding protein [Acinetobacter sp. WCHA34]       95.9    4e-025
+WP_004890428.1  DNA gyrase inhibitor YacG [Acinetobacter schindleri]  95.9    4e-025
+WP_010111830.1  DNA gyrase inhibitor YacG [Acinetobacter sp. P8-3-8]  95.9    4e-025
+WP_070154419.1  DNA gyrase inhibitor YacG [Acinetobacter towneri]     95.9    4e-025
+WP_054580344.1  DNA gyrase inhibitor YacG [Acinetobacter equi]        95.9    5e-025
+WP_067728144.1  zinc-binding protein [Acinetobacter sp. NCu2D-2]      95.1    9e-025
+WP_004278554.1  MULTISPECIES: DNA gyrase inhibitor YacG [Acinetob...  93.6    3e-024
+WP_016657660.1  DNA gyrase inhibitor YacG [Acinetobacter rudis]       93.6    4e-024
+WP_086182956.1  DNA gyrase inhibitor YacG [Acinetobacter sp. ANC ...  93.6    4e-024
+WP_004813427.1  MULTISPECIES: DNA gyrase inhibitor YacG [Acinetob...  92.8    7e-024
+WP_076752973.1  DNA gyrase inhibitor YacG [Acinetobacter schindleri]  92.8    7e-024
+WP_068975276.1  zinc-binding protein [Acinetobacter sp. WCHA60]       92.4    9e-024
+WP_067661754.1  zinc-binding protein [Acinetobacter sp. TGL-Y2]       92.4    9e-024
+WP_023273002.1  DNA gyrase inhibitor YacG [Acinetobacter nectaris]    92.0    2e-023
+WP_005095374.1  MULTISPECIES: DNA gyrase inhibitor YacG [Acinetob...  91.7    2e-023
+WP_005245864.1  MULTISPECIES: DNA gyrase inhibitor YacG [Acinetob...  91.3    3e-023
+WP_005267541.1  MULTISPECIES: DNA gyrase inhibitor YacG [Acinetob...  90.9    4e-023
+WP_005232444.1  DNA gyrase inhibitor YacG [Acinetobacter sp. NIPH...  89.7    1e-022
+WP_034704814.1  DNA gyrase inhibitor YacG [Acinetobacter baumannii]   89.0    2e-022
+WP_004781766.1  MULTISPECIES: DNA gyrase inhibitor YacG [Acinetob...  88.2    5e-022
+WP_005007109.1  DNA gyrase inhibitor YacG [Acinetobacter bouvetii]    87.4    9e-022
+WP_070069768.1  DNA gyrase inhibitor YacG [Acinetobacter qingfeng...  87.8    9e-022
+WP_067551849.1  zinc-binding protein [Acinetobacter larvae]           82.8    7e-020
+WP_067338052.1  hypothetical protein [Moraxella atlantae]             82.4    1e-019
+WP_067379133.1  hypothetical protein [Marinobacterium sp. ST58-10]    81.6    3e-019
+WP_075100869.1  DNA gyrase inhibitor YacG [Psychrobacter sp. Rd 2...  81.3    4e-019
+WP_079691719.1  DNA gyrase inhibitor YacG [Psychrobacter sp. DAB_...  80.9    5e-019
+WP_028857990.1  DNA gyrase inhibitor YacG [Psychrobacter phenylpy...  80.5    6e-019
+WP_007393645.1  DNA gyrase inhibitor YacG [Psychrobacter sp. 1501...  80.1    9e-019
+WP_076878651.1  DNA gyrase inhibitor YacG [Alkanindiges sp. H1]       79.7    1e-018
+WP_067298760.1  hypothetical protein [Marinobacterium profundum]      80.1    1e-018
+WP_084387292.1  DNA gyrase inhibitor YacG [Psychrobacter alimenta...  79.3    2e-018
+WP_057760289.1  DNA gyrase inhibitor YacG [Psychrobacter sp. P11G3]   79.3    2e-018
+WP_010198061.1  DNA gyrase inhibitor YacG [Psychrobacter sp. PAMC...  79.3    2e-018
+WP_068035953.1  MULTISPECIES: zinc-binding protein [Psychrobacter]    79.3    2e-018
+WP_025652063.1  MULTISPECIES: DNA gyrase inhibitor YacG [Psychrob...  79.3    2e-018
+WP_067055377.1  hypothetical protein [Moraxella atlantae]             79.3    2e-018
+WP_011960663.1  DNA gyrase inhibitor YacG [Psychrobacter sp. PRwf-1]  79.0    3e-018
+WP_058025847.1  MULTISPECIES: DNA gyrase inhibitor YacG [Psychrob...  79.0    3e-018
+WP_019673019.1  DNA gyrase inhibitor YacG [Psychrobacter lutiphocae]  78.6    4e-018
+WP_040642862.1  DNA gyrase inhibitor YacG [Psychrobacter aquaticus]   78.2    5e-018
+WP_011280332.1  DNA gyrase inhibitor YacG [Psychrobacter arcticus]    78.2    5e-018
+WP_045453002.1  DNA gyrase inhibitor YacG [Psychrobacter glacincola]  78.2    5e-018
+WP_060491088.1  DNA gyrase inhibitor YacG [Psychrobacter sp. P11F6]   78.2    6e-018
+WP_062334695.1  MULTISPECIES: DNA gyrase inhibitor YacG [Proteoba...  78.2    7e-018
+WP_065263932.1  DNA gyrase inhibitor YacG [Moraxella osloensis]       77.4    1e-017
+WP_019518659.1  DNA gyrase inhibitor YacG [Moraxella boevrei]         77.8    1e-017
+WP_068405332.1  zinc-binding protein [Psychrobacter sp. SHUES1]       77.4    1e-017
+WP_067235058.1  hypothetical protein [Moraxella atlantae]             77.4    1e-017
+WP_084785739.1  DNA gyrase inhibitor YacG [Psychrobacter urativor...  77.4    1e-017
+WP_020683276.1  DNA gyrase inhibitor YacG [Marinobacterium rhizop...  77.8    1e-017
+WP_078276472.1  DNA gyrase inhibitor YacG [Moraxella caviae]          77.0    1e-017
+WP_011513735.1  DNA gyrase inhibitor YacG [Psychrobacter cryohalo...  77.4    1e-017
+WP_075103258.1  DNA gyrase inhibitor YacG [Psychrobacter sp. Cmf ...  77.0    1e-017
+WP_034279888.1  DNA gyrase inhibitor YacG [Alkanindiges illinoise...  77.0    2e-017
+WP_078253725.1  DNA gyrase inhibitor YacG [Moraxella pluranimalium]   77.0    2e-017
+WP_020443572.1  DNA gyrase inhibitor YacG [Psychrobacter sp. G]       77.0    2e-017
+WP_079325396.1  DNA gyrase inhibitor YacG [Moraxella equi]            76.3    3e-017
+WP_065253091.1  DNA gyrase inhibitor YacG [Moraxella osloensis]       76.3    4e-017
+WP_062501262.1  DNA gyrase inhibitor YacG [Moraxella lacunata]        75.9    4e-017
+WP_028988551.1  DNA gyrase inhibitor YacG [Thermithiobacillus tep...  75.5    6e-017
+WP_025644288.1  MULTISPECIES: DNA gyrase inhibitor YacG [Psychrob...  74.7    1e-016
+WP_029102767.1  DNA gyrase inhibitor YacG [Moraxella caprae]          74.3    2e-016
+WP_077449597.1  DNA gyrase inhibitor YacG [Psychrobacter sp. CIP ...  74.7    2e-016
+WP_078273294.1  DNA gyrase inhibitor YacG [Moraxella bovis]           74.3    2e-016
+WP_074927230.1  DNA gyrase inhibitor YacG [Nitrosomonas eutropha]     73.2    4e-016
+WP_066802018.1  zinc-binding protein [Moraxella oblonga]              73.2    5e-016
+WP_077451743.1  DNA gyrase inhibitor YacG [Psychrobacter sp. CIP ...  72.8    7e-016
+WP_072287672.1  DNA gyrase inhibitor YacG [Pelobacter acetylenicus]   72.4    1e-015
+WP_011634126.1  DNA gyrase inhibitor YacG [Nitrosomonas eutropha]     72.0    1e-015
+WP_013517804.1  MULTISPECIES: DNA gyrase inhibitor YacG [Alicycli...  71.6    2e-015
+WP_011365863.1  DNA gyrase inhibitor YacG [Geobacter metallireduc...  71.6    2e-015
+WP_035383912.1  DNA gyrase inhibitor YacG [Ferriphaselus sp. R-1]     70.1    9e-015
+WP_072909194.1  DNA gyrase inhibitor YacG [Malonomonas rubra]         69.7    1e-014
+WP_059284847.1  DNA gyrase inhibitor YacG [Aquitalea magnusonii]      69.7    1e-014
+WP_078316971.1  DNA gyrase inhibitor YacG [Moraxella porci]           69.7    1e-014
+WP_045668670.1  DNA gyrase inhibitor YacG [Geobacter sulfurreducens]  69.3    1e-014
+WP_066887849.1  hypothetical protein [Moraxella nonliquefaciens]      68.9    2e-014
+WP_070055956.1  DNA gyrase inhibitor YacG [Marinobacter sp. X15-1...  68.9    3e-014
+WP_070532781.1  DNA gyrase inhibitor YacG [Jeongeupia sp. USM3]       68.6    3e-014
+WP_041870760.1  DNA gyrase inhibitor YacG [Bdellovibrio bacteriov...  68.9    3e-014
+WP_066891126.1  hypothetical protein [Moraxella nonliquefaciens]      68.6    3e-014
+WP_038448504.1  DNA gyrase inhibitor YacG [Bdellovibrio bacteriov...  68.6    4e-014
+WP_055359824.1  DNA gyrase inhibitor YacG [Limnohabitans sp. 103D...  68.6    4e-014
+WP_010941875.1  DNA gyrase inhibitor YacG [Geobacter sulfurreducens]  68.2    4e-014
+WP_064610825.1  DNA gyrase inhibitor YacG [Moraxella catarrhalis]     68.2    4e-014
+WP_082203248.1  DNA gyrase inhibitor YacG [Ottowia sp. oral taxon...  68.2    5e-014
+WP_076555895.1  DNA gyrase inhibitor YacG [Moraxella cuniculi]        68.2    5e-014
+WP_018409834.1  DNA gyrase inhibitor YacG [Methyloversatilis ther...  68.2    5e-014
+WP_022854341.1  DNA gyrase inhibitor YacG [Thermodesulfatator atl...  68.2    6e-014
+WP_075067361.1  DNA gyrase inhibitor YacG [Candidatus Berkiella a...  67.8    6e-014
+WP_066473390.1  hypothetical protein [Comamonas terrae]               67.8    8e-014
+WP_049235766.1  DNA gyrase inhibitor YacG [Moraxella catarrhalis]     67.4    8e-014
+WP_056641105.1  DNA gyrase inhibitor YacG [Acidovorax sp. Root70]     67.8    9e-014
+WP_041577983.1  DNA gyrase inhibitor YacG [Bdellovibrio bacteriov...  67.8    1e-013
+WP_078255699.1  DNA gyrase inhibitor YacG [Moraxella canis]           67.4    1e-013
+WP_074671117.1  DNA gyrase inhibitor YacG [Nitrosomonas europaea]     67.4    1e-013
+WP_085008894.1  DNA gyrase inhibitor YacG [Geothermobacter sp. EP...  67.0    1e-013
+WP_053550695.1  DNA gyrase inhibitor YacG [Desulfuromonas soudane...  67.4    1e-013
+WP_036209919.1  MULTISPECIES: DNA gyrase inhibitor YacG [Marinoba...  67.0    1e-013
+WP_021027806.1  DNA gyrase inhibitor YacG [Comamonas sp. B-9]         67.0    1e-013
+WP_018989205.1  DNA gyrase inhibitor YacG [Azoarcus toluclasticus]    67.0    1e-013
+WP_066569643.1  hypothetical protein [Snodgrassella sp. CFCC 13594]   67.0    2e-013
+WP_050414496.1  DNA gyrase inhibitor YacG [Azoarcus sp. CIB]          67.0    2e-013
+WP_062268881.1  DNA gyrase inhibitor YacG [Endozoicomonas arenosc...  66.6    2e-013
+WP_009501746.1  DNA gyrase inhibitor YacG [Moraxella macacae]         67.0    2e-013
+WP_026852460.1  DNA gyrase inhibitor YacG [Geothrix fermentans]       66.6    2e-013
+WP_039645591.1  MULTISPECIES: DNA gyrase inhibitor YacG [Geobacter]   66.2    2e-013
+WP_011341377.1  DNA gyrase inhibitor YacG [Pelobacter carbinolicus]   66.6    2e-013
+WP_070965493.1  DNA gyrase inhibitor YacG [Marinobacter salinus]      66.6    2e-013
+WP_064617540.1  DNA gyrase inhibitor YacG [Moraxella catarrhalis]     66.2    2e-013
+WP_008938919.1  DNA gyrase inhibitor YacG [Marinobacter santorini...  66.2    3e-013
+WP_058089895.1  MULTISPECIES: DNA gyrase inhibitor YacG [Marinoba...  66.2    3e-013
+WP_066540517.1  hypothetical protein [Comamonas terrigena]            66.6    3e-013
+WP_007154147.1  DNA gyrase inhibitor YacG [Marinobacter algicola]     66.2    3e-013
+WP_015720266.1  DNA gyrase inhibitor YacG [Geobacter sp. M18]         66.2    3e-013
+WP_007185259.1  DNA gyrase inhibitor YacG [Hydrocarboniphaga effusa]  66.2    3e-013
+WP_066612877.1  DNA gyrase inhibitor [Crenobacter luteus]             66.2    3e-013
+WP_013907840.1  DNA gyrase inhibitor YacG [Thermodesulfatator ind...  65.9    3e-013
+WP_020229074.1  DNA gyrase inhibitor YacG [Acidovorax sp. MR-S7]      66.2    3e-013
+WP_084629052.1  DNA gyrase inhibitor YacG [Neptunomonas japonica]     66.2    4e-013
+WP_039049611.1  DNA gyrase inhibitor YacG [Comamonas testosteroni]    66.2    4e-013
+WP_034357520.1  MULTISPECIES: DNA gyrase inhibitor YacG [Comamonas]   65.9    4e-013
+WP_046461084.1  DNA gyrase inhibitor YacG [Comamonas testosteroni]    65.9    4e-013
+WP_080946012.1  DNA gyrase inhibitor YacG [Moraxella bovoculi]        65.9    4e-013
+WP_068639304.1  hypothetical protein [Thauera butanivorans]           65.9    4e-013
+WP_003058551.1  DNA gyrase inhibitor YacG [Comamonas testosteroni]    65.9    4e-013
+WP_077593989.1  DNA gyrase inhibitor YacG [Polaromonas sp. A23]       65.9    4e-013
+WP_075255986.1  DNA gyrase inhibitor YacG [Herbaspirillum sp. WT00C]  65.5    5e-013
+WP_017451949.1  MULTISPECIES: DNA gyrase inhibitor YacG [Herbaspi...  65.5    5e-013
+WP_013030826.1  DNA gyrase inhibitor YacG [Sideroxydans lithotrop...  65.5    5e-013
+WP_077563111.1  DNA gyrase inhibitor YacG [Polaromonas sp. C04]       65.9    5e-013
+WP_082753529.1  DNA gyrase inhibitor YacG [Acidovorax delafieldii]    65.9    5e-013
+WP_082522383.1  MULTISPECIES: DNA gyrase inhibitor YacG [Acidovorax]  65.9    5e-013
+WP_014995804.1  DNA gyrase inhibitor YacG [Alcanivorax dieselolei]    65.5    5e-013
+WP_083437464.1  DNA gyrase inhibitor YacG [Pyrinomonas methylalip...  65.9    5e-013
+WP_027850243.1  DNA gyrase inhibitor YacG [Marinospirillum insulare]  65.5    6e-013
+WP_066268335.1  hypothetical protein [Hydrogenophaga palleronii]      65.5    6e-013
+WP_075111720.1  DNA gyrase inhibitor YacG [Noviherbaspirillum mas...  65.5    6e-013
+WP_085391163.1  DNA gyrase inhibitor YacG [Neisseria animaloris]      65.5    6e-013
+WP_068543584.1  zinc-binding protein [Thermodesulfatator autotrop...  65.5    6e-013
+WP_054254696.1  DNA gyrase inhibitor YacG [Acidovorax caeni]          65.5    6e-013
+WP_034839534.1  DNA gyrase inhibitor YacG [Endozoicomonas numazue...  65.5    6e-013
+WP_082212222.1  DNA gyrase inhibitor YacG [Endozoicomonas montipo...  65.5    7e-013
+WP_022995248.1  MULTISPECIES: DNA gyrase inhibitor YacG [Alcanivo...  65.5    7e-013
+WP_015012711.1  DNA gyrase inhibitor YacG [Acidovorax sp. KKS102]     65.5    7e-013
+WP_011399020.1  DNA gyrase inhibitor YacG [Hahella chejuensis]        65.5    7e-013
+WP_048362481.1  MULTISPECIES: DNA gyrase inhibitor YacG [Pseudomo...  65.5    7e-013
+WP_084167890.1  DNA gyrase inhibitor YacG [Pelobacter seleniigenes]   65.1    7e-013
+WP_076717140.1  hypothetical protein [Motiliproteus sp. MSK22-1]      65.5    8e-013
+WP_007420811.1  DNA gyrase inhibitor YacG [Idiomarina sp. A28L]       65.1    8e-013
+WP_008116392.1  DNA gyrase inhibitor YacG [Herbaspirillum sp. YR522]  65.1    8e-013
+WP_059761491.1  MULTISPECIES: DNA gyrase inhibitor YacG [Pseudomo...  65.1    8e-013
+WP_023533231.1  MULTISPECIES: DNA gyrase inhibitor YacG [Pseudomo...  65.1    9e-013
+WP_027832661.1  DNA gyrase inhibitor YacG [Marinobacter sp. HL-58]    65.1    9e-013
+WP_054339847.1  DNA gyrase inhibitor YacG [Neptunomonas antarctica]   65.1    9e-013
+WP_084260627.1  DNA gyrase inhibitor YacG [Moraxella ovis]            65.1    9e-013
+WP_006713182.1  DNA gyrase inhibitor YacG [Herbaspirillum frising...  64.7    1e-012
+WP_076511537.1  DNA gyrase inhibitor YacG [Pseudacidovorax sp. RU...  65.1    1e-012
+WP_013232399.1  DNA gyrase inhibitor YacG [Herbaspirillum seroped...  64.7    1e-012
+WP_027714127.1  DNA gyrase inhibitor YacG [Desulfuromonas sp. TF]     64.7    1e-012
+WP_062551246.1  DNA gyrase inhibitor YacG [Pandoraea thiooxydans]     64.7    1e-012
+WP_067442002.1  MULTISPECIES: DNA gyrase inhibitor [Eikenella]        64.7    1e-012
+WP_034364484.1  DNA gyrase inhibitor YacG [Comamonas testosteroni]    64.7    1e-012
+WP_013292277.1  DNA gyrase inhibitor YacG [Gallionella capsiferri...  64.7    1e-012
+WP_008170214.1  MULTISPECIES: DNA gyrase inhibitor YacG [Marinoba...  64.7    1e-012
+WP_034336666.1  MULTISPECIES: DNA gyrase inhibitor YacG [Herbaspi...  64.7    1e-012
+WP_050804264.1  DNA gyrase inhibitor YacG [Azospira oryzae]           64.7    1e-012
+WP_028944618.1  DNA gyrase inhibitor YacG [Pseudomonas vranovensis]   64.7    1e-012
+WP_034351612.1  DNA gyrase inhibitor YacG [Herbaspirillum sp. GW103]  64.3    1e-012
+WP_085674056.1  MULTISPECIES: DNA gyrase inhibitor YacG [Pseudomo...  64.7    1e-012
+WP_060512991.1  DNA gyrase inhibitor YacG [Pseudomonas sp. NBRC 1...  64.7    1e-012
+WP_024537786.1  DNA gyrase inhibitor YacG [Comamonas badia]           64.7    2e-012
+WP_058642222.1  DNA gyrase inhibitor YacG [Pseudacidovorax interm...  64.7    2e-012
+WP_027918234.1  MULTISPECIES: DNA gyrase inhibitor YacG [Pseudomo...  64.3    2e-012
+WP_014589600.1  DNA gyrase inhibitor YacG [Pseudomonas putida]        64.3    2e-012
+WP_045190404.1  DNA gyrase inhibitor YacG [Pseudomonas sp. 5]         64.3    2e-012
+WP_011939174.1  DNA gyrase inhibitor YacG [Geobacter uraniireducens]  64.7    2e-012
+WP_027849512.1  DNA gyrase inhibitor YacG [Marinospirillum minutu...  64.3    2e-012
+WP_058638638.1  DNA gyrase inhibitor YacG [Pseudomonas parafulva]     64.3    2e-012
+WP_072324531.1  DNA gyrase inhibitor YacG [Marinospirillum alkali...  64.3    2e-012
+WP_014422088.1  MULTISPECIES: DNA gyrase inhibitor YacG [Marinoba...  64.3    2e-012
+WP_072895326.1  DNA gyrase inhibitor YacG [Hydrocarboniphaga daqi...  64.3    2e-012
+WP_020165535.1  DNA gyrase inhibitor YacG [Methyloversatilis disc...  63.9    2e-012
+WP_050479034.1  DNA gyrase inhibitor YacG [Herbaspirillum rhizosp...  64.3    2e-012
+WP_048495708.1  DNA gyrase inhibitor YacG [Marinobacter subterrani]   64.3    2e-012
+WP_011804249.1  MULTISPECIES: DNA gyrase inhibitor YacG [Comamona...  64.7    2e-012
+WP_008091956.1  MULTISPECIES: DNA gyrase inhibitor YacG [Pseudomo...  64.3    2e-012
+WP_083396644.1  DNA gyrase inhibitor YacG [Nitrosospira briensis]     64.3    2e-012
+WP_017759279.1  DNA gyrase inhibitor YacG [Pseudacidovorax interm...  64.3    2e-012
+WP_068753667.1  hypothetical protein [Oleiphilus sp. HI0125]          64.3    2e-012
+WP_068478469.1  MULTISPECIES: hypothetical protein [Oleiphilus]       64.3    2e-012
+WP_007878086.1  DNA gyrase inhibitor YacG [Herbaspirillum sp. CF444]  63.9    2e-012
+WP_035605289.1  DNA gyrase inhibitor YacG [Hylemonella gracilis]      64.3    2e-012
+WP_016779444.1  MULTISPECIES: DNA gyrase inhibitor YacG [Pseudomo...  64.3    2e-012
+WP_012136262.1  DNA gyrase inhibitor YacG [Marinobacter lipolyticus]  63.9    2e-012
+WP_019410882.1  DNA gyrase inhibitor YacG [Pseudomonas psychrophila]  63.9    2e-012
+WP_067449264.1  MULTISPECIES: DNA gyrase inhibitor [Eikenella]        63.9    2e-012
+WP_067982874.1  DNA gyrase inhibitor [Neptuniibacter pectenicola]     64.3    2e-012
+WP_027405190.1  DNA gyrase inhibitor YacG [Aquaspirillum serpens]     63.9    2e-012
+WP_029652880.1  DNA gyrase inhibitor YacG [Marinobacter daepoensis]   63.9    2e-012
+WP_012530714.1  DNA gyrase inhibitor YacG [Geobacter bemidjiensis]    63.9    2e-012
+WP_015837240.1  DNA gyrase inhibitor YacG [Geobacter sp. M21]         63.9    2e-012
+WP_067530138.1  MULTISPECIES: DNA gyrase inhibitor [Eikenella]        63.9    2e-012
+WP_054137708.1  MULTISPECIES: DNA gyrase inhibitor YacG [unclassi...  63.9    3e-012
+WP_039745440.1  DNA gyrase inhibitor YacG [Geobacter pickeringii]     63.5    3e-012
+WP_076722509.1  DNA gyrase inhibitor YacG [Marinobacter lutaoensis]   63.9    3e-012
+WP_027924170.1  MULTISPECIES: DNA gyrase inhibitor YacG [Pseudomo...  63.9    3e-012
+WP_006296177.1  DNA gyrase inhibitor YacG [Hylemonella gracilis]      63.9    3e-012
+WP_027915705.1  MULTISPECIES: DNA gyrase inhibitor YacG [Pseudomo...  63.9    3e-012
+WP_024765636.1  MULTISPECIES: DNA gyrase inhibitor YacG [Pseudomo...  63.9    3e-012
+WP_058603154.1  DNA gyrase inhibitor YacG [Pseudomonas parafulva]     63.9    3e-012
+WP_028695933.1  DNA gyrase inhibitor YacG [Pseudomonas cremoricol...  63.9    3e-012
+WP_011786133.1  MULTISPECIES: DNA gyrase inhibitor YacG [Marinoba...  63.5    3e-012
+WP_067605610.1  hypothetical protein [Alcanivorax sp. CP2C]           63.5    3e-012
+WP_036130789.1  DNA gyrase inhibitor YacG [Marinobacter nitratire...  63.5    3e-012
+WP_056668577.1  DNA gyrase inhibitor YacG [Acidovorax sp. Leaf160]    64.3    3e-012
+WP_066727242.1  hypothetical protein [Desulfuromonas sp. DDH964]      63.9    3e-012
+WP_064088834.1  DNA gyrase inhibitor YacG [Eikenella sp. NML130454]   63.5    3e-012
+WP_048359259.1  DNA gyrase inhibitor YacG [Pseudomonas deceptione...  63.5    3e-012
+WP_028631769.1  MULTISPECIES: DNA gyrase inhibitor YacG [Pseudomo...  63.5    3e-012
+WP_070630173.1  MULTISPECIES: DNA gyrase inhibitor YacG [Eikenella]   63.5    3e-012
+WP_053822560.1  DNA gyrase inhibitor YacG [Cupriavidus gilardii]      63.5    3e-012
+WP_084857049.1  DNA gyrase inhibitor YacG [Pseudomonas putida]        63.5    3e-012
+WP_050468985.1  DNA gyrase inhibitor YacG [Herbaspirillum chlorop...  63.5    4e-012
+WP_084226701.1  DNA gyrase inhibitor YacG [Nitrosospira sp. NpAV]     63.5    4e-012
+WP_045059381.1  DNA gyrase inhibitor YacG [Pseudomonas sp. ES3-33]    63.5    4e-012
+WP_076747547.1  DNA gyrase inhibitor YacG [Halomonas sp. 1513]        63.9    4e-012
+WP_055101754.1  DNA gyrase inhibitor YacG [Pseudomonas endophytica]   63.5    4e-012
+WP_064615059.1  DNA gyrase inhibitor YacG [Pseudomonas sp. JY-Q]      63.5    4e-012
+WP_007942299.1  DNA gyrase inhibitor YacG [Pseudomonas sp. GM21]      63.5    4e-012
+WP_054886117.1  DNA gyrase inhibitor YacG [Pseudomonas sp. NBRC 1...  63.5    4e-012
+WP_058894011.1  DNA gyrase inhibitor YacG [Herbaspirillum rubrisu...  63.2    4e-012
+WP_003443840.1  MULTISPECIES: DNA gyrase inhibitor YacG [Pseudomo...  63.5    4e-012
+WP_023382441.1  MULTISPECIES: DNA gyrase inhibitor YacG [Pseudomo...  63.2    4e-012
+WP_007970539.1  MULTISPECIES: DNA gyrase inhibitor YacG [Pseudomo...  63.2    4e-012
+WP_023264847.1  MULTISPECIES: DNA gyrase inhibitor YacG [Cupriavi...  63.2    5e-012
+WP_066113071.1  hypothetical protein [Xylophilus ampelinus]           63.2    5e-012
+WP_008022439.1  MULTISPECIES: DNA gyrase inhibitor YacG [Pseudomo...  63.2    5e-012
+WP_018152081.1  DNA gyrase inhibitor YacG [Leeia oryzae]              63.2    5e-012
+WP_034296718.1  DNA gyrase inhibitor YacG [Herbaspirillum sp. RV1...  63.2    5e-012
+WP_048378222.1  DNA gyrase inhibitor YacG [Pseudomonas taetrolens]    63.2    5e-012
+WP_061833749.1  DNA gyrase inhibitor YacG [Bdellovibrio bacteriov...  63.5    5e-012
+WP_045200825.1  DNA gyrase inhibitor YacG [Pseudomonas sp. 2(2015)]   63.2    5e-012
+WP_009683001.1  MULTISPECIES: DNA gyrase inhibitor YacG [Pseudomo...  63.2    5e-012
+WP_053421069.1  DNA gyrase inhibitor YacG [Azoarcus sp. PA01]         63.2    5e-012
+WP_005794194.1  DNA gyrase inhibitor YacG [Acidovorax delafieldii]    63.2    5e-012
+WP_003669449.1  DNA gyrase inhibitor YacG [Moraxella catarrhalis]     63.2    5e-012
+WP_054125701.1  DNA gyrase inhibitor YacG [beta proteobacterium A...  63.2    5e-012
+WP_014870173.1  DNA gyrase inhibitor YacG [Marinobacter sp. BSs20...  63.2    5e-012
+WP_064603618.1  DNA gyrase inhibitor YacG [Moraxella catarrhalis]     62.8    5e-012
+WP_027013975.1  DNA gyrase inhibitor YacG [Comamonas composti]        63.2    5e-012
+WP_037586060.1  DNA gyrase inhibitor YacG [Stenoxybacter acetivor...  62.8    5e-012
+WP_004581620.1  DNA gyrase inhibitor YacG [Marinobacter nanhaiticus]  63.2    5e-012
+WP_009523803.1  DNA gyrase inhibitor YacG [Ralstonia sp. PBA]         63.2    5e-012
+WP_026437562.1  DNA gyrase inhibitor YacG [Acidovorax sp. JHL-9]      63.2    6e-012
+WP_066697910.1  MULTISPECIES: hypothetical protein [unclassified ...  63.2    7e-012
+WP_072767386.1  DNA gyrase inhibitor YacG [Nitrosospira sp. Nsp11]    62.8    7e-012
+WP_005999673.1  DNA gyrase inhibitor YacG [Desulfuromonas acetoxi...  62.4    7e-012
+WP_007348851.1  DNA gyrase inhibitor YacG [Marinobacter sp. ELB17]    62.8    7e-012
+WP_018404795.1  DNA gyrase inhibitor YacG [Marinobacter lipolyticus]  62.8    7e-012
+WP_026841995.1  DNA gyrase inhibitor YacG [Geobacter bremensis]       62.8    7e-012
+WP_027995561.1  DNA gyrase inhibitor YacG [Simplicispira psychrop...  63.2    7e-012
+WP_046742535.1  DNA gyrase inhibitor YacG [Lampropedia cohaerens]     62.8    8e-012
+WP_029363816.1  DNA gyrase inhibitor YacG [Herbaspirillum lusitanum]  62.4    8e-012
+WP_066337068.1  hypothetical protein [Azohydromonas lata]             62.8    8e-012
+WP_053194808.1  DNA gyrase inhibitor YacG [Herbaspirillum hiltneri]   62.4    8e-012
+WP_038606928.1  DNA gyrase inhibitor YacG [Pseudomonas alkylpheno...  62.8    8e-012
+WP_003247540.1  MULTISPECIES: DNA gyrase inhibitor YacG [Pseudomo...  62.8    8e-012
+WP_044384370.1  DNA gyrase inhibitor YacG [Marinobacter excellens]    62.4    8e-012
+WP_047292056.1  DNA gyrase inhibitor YacG [Pseudomonas fluorescens]   62.8    8e-012
+WP_065084253.1  DNA gyrase inhibitor YacG [Pseudomonas sp. AU12215]   62.8    8e-012
+WP_043209639.1  MULTISPECIES: DNA gyrase inhibitor YacG [Pseudomo...  62.4    8e-012
+WP_048384497.1  DNA gyrase inhibitor YacG [Marinobacter psychroph...  62.4    8e-012
+WP_047279000.1  MULTISPECIES: DNA gyrase inhibitor YacG [Pseudomo...  62.8    8e-012
+WP_044400401.1  DNA gyrase inhibitor YacG [Acidovorax temperans]      62.8    9e-012
+WP_016484797.1  MULTISPECIES: DNA gyrase inhibitor YacG [Pseudomo...  62.4    9e-012
+WP_070093357.1  DNA gyrase inhibitor YacG [Pseudomonas monteilii]     62.4    9e-012
+WP_011800185.1  DNA gyrase inhibitor YacG [Polaromonas naphthalen...  62.4    9e-012
+WP_082402963.1  MULTISPECIES: DNA gyrase inhibitor YacG [Neisseria]   62.4    9e-012
+WP_041646254.1  DNA gyrase inhibitor YacG [Aromatoleum aromaticum]    62.4    9e-012
+WP_069861955.1  DNA gyrase inhibitor YacG [Pseudomonas sp. CCA 1]     62.4    9e-012
+WP_010951889.1  MULTISPECIES: DNA gyrase inhibitor YacG [Pseudomo...  62.4    9e-012
+WP_043860325.1  MULTISPECIES: DNA gyrase inhibitor YacG [Pseudomo...  62.4    9e-012
+WP_029919196.1  DNA gyrase inhibitor YacG [Nevskia soli]              62.4    9e-012
+WP_015475735.1  DNA gyrase inhibitor YacG [Pseudomonas sp. ATCC 1...  62.4    9e-012
+WP_003823528.1  MULTISPECIES: DNA gyrase inhibitor YacG [Eikenella]   62.4    9e-012
+WP_064624317.1  DNA gyrase inhibitor YacG [Moraxella catarrhalis]     62.4    1e-011
+WP_036362720.1  DNA gyrase inhibitor YacG [Moraxella bovoculi]        62.4    1e-011
+WP_003657411.1  DNA gyrase inhibitor YacG [Moraxella catarrhalis]     62.4    1e-011
+WP_019917193.1  DNA gyrase inhibitor YacG [Methyloversatilis disc...  62.0    1e-011
+WP_084611972.1  DNA gyrase inhibitor YacG [Ferriphaselus amnicola]    62.4    1e-011
+WP_037000730.1  MULTISPECIES: DNA gyrase inhibitor YacG [Pseudomo...  62.4    1e-011
+WP_067524582.1  DNA gyrase inhibitor [Eikenella sp. NML03-A-027]      62.0    1e-011
+WP_076604212.1  DNA gyrase inhibitor YacG [Azoarcus tolulyticus]      62.4    1e-011
+WP_009516501.1  MULTISPECIES: DNA gyrase inhibitor YacG [Hydrogen...  62.4    1e-011
+WP_046558141.1  DNA gyrase inhibitor YacG [Arsukibacterium ikkense]   62.8    1e-011
+WP_021443098.1  DNA gyrase inhibitor YacG [Pseudomonas sp. EGD-AK9]   62.4    1e-011
+WP_003673235.1  MULTISPECIES: DNA gyrase inhibitor YacG [Moraxella]   62.0    1e-011
+WP_054051315.1  MULTISPECIES: DNA gyrase inhibitor YacG [Pseudomo...  62.4    1e-011
+WP_017366376.1  DNA gyrase inhibitor YacG [Methylococcus capsulatus]  62.4    1e-011
+WP_078366480.1  DNA gyrase inhibitor YacG [Rhodoferax fermentans]     62.4    1e-011
+WP_080877187.1  hypothetical protein [Nitrospira sp. ND1]             62.0    1e-011
+WP_038998733.1  DNA gyrase inhibitor YacG [Pseudomonas putida]        62.0    1e-011
+WP_003662517.1  DNA gyrase inhibitor YacG [Moraxella catarrhalis]     62.0    1e-011
+WP_082098338.1  DNA gyrase inhibitor YacG [Sulfuricella sp. T08]      62.0    1e-011
+WP_063459837.1  DNA gyrase inhibitor YacG [Acidovorax sp. GW101-3...  62.4    1e-011
+WP_028623372.1  DNA gyrase inhibitor YacG [Pseudomonas sp. Ant30-3]   62.0    1e-011
+WP_085364438.1  DNA gyrase inhibitor YacG [Neisseria zoodegmatis]     62.0    1e-011
+WP_076022351.1  DNA gyrase inhibitor YacG [Betaproteobacteria bac...  62.0    1e-011
+WP_060395002.1  DNA gyrase inhibitor YacG [Pseudomonas monteilii]     62.0    1e-011
+WP_012316341.1  DNA gyrase inhibitor YacG [Pseudomonas putida]        62.0    1e-011
+WP_057261895.1  DNA gyrase inhibitor YacG [Duganella sp. Root1480D1]  62.0    1e-011
+WP_081474607.1  MULTISPECIES: DNA gyrase inhibitor YacG [Acidovorax]  62.4    1e-011
+WP_085812613.1  DNA gyrase inhibitor YacG [Geobacter pelophilus]      62.0    1e-011
+WP_026778697.1  DNA gyrase inhibitor YacG [Polaromonas sp. EUR3 1...  62.4    1e-011
+WP_086416427.1  hypothetical protein [Nitrospira cf. moscoviensis...  62.0    1e-011
+WP_043272268.1  MULTISPECIES: DNA gyrase inhibitor YacG [Pseudomo...  62.0    1e-011
+WP_025856598.1  DNA gyrase inhibitor YacG [Pseudomonas sp. CHM02]     62.0    1e-011
+WP_055422517.1  DNA gyrase inhibitor YacG [Tepidiphilus thermophi...  62.0    1e-011
+WP_068457413.1  MULTISPECIES: hypothetical protein [Oleiphilus]       62.0    1e-011
+WP_062816736.1  MULTISPECIES: DNA gyrase inhibitor YacG [Alcanivo...  62.0    1e-011
+WP_009617622.1  MULTISPECIES: DNA gyrase inhibitor YacG [Pseudomo...  62.0    1e-011
+WP_007990392.1  DNA gyrase inhibitor YacG [Pseudomonas sp. GM48]      62.0    2e-011
+WP_047229863.1  MULTISPECIES: DNA gyrase inhibitor YacG [Pseudomo...  62.0    2e-011
+WP_029527645.1  DNA gyrase inhibitor YacG [Polaromonas glacialis]     62.0    2e-011
+WP_010451880.1  DNA gyrase inhibitor YacG [Pseudomonas fuscovaginae]  62.0    2e-011
+WP_074519929.1  MULTISPECIES: DNA gyrase inhibitor YacG [Pseudomo...  62.0    2e-011
+WP_072796697.1  DNA gyrase inhibitor YacG [Marinobacter antarcticus]  61.6    2e-011
+WP_061944428.1  DNA gyrase inhibitor YacG [Collimonas pratensis]      61.6    2e-011
+WP_072294057.1  DNA gyrase inhibitor YacG [Nitrosovibrio sp. Nv17]    61.6    2e-011
+WP_077750267.1  DNA gyrase inhibitor YacG [Pseudomonas sp. FSL W5...  62.0    2e-011
+WP_010220621.1  MULTISPECIES: DNA gyrase inhibitor YacG [Pseudomo...  62.0    2e-011
+WP_025807495.1  DNA gyrase inhibitor YacG [Pseudomonas chlororaphis]  62.0    2e-011
+WP_010462022.1  DNA gyrase inhibitor YacG [Acidovorax radicis]        62.0    2e-011
+WP_063911152.1  DNA gyrase inhibitor YacG [Pseudomonas sp. p21]       62.0    2e-011
+WP_067595036.1  DNA gyrase inhibitor [Eikenella sp. NML02-A-017]      61.6    2e-011
+WP_047273648.1  MULTISPECIES: DNA gyrase inhibitor YacG [Pseudomo...  62.0    2e-011
+WP_003094656.1  MULTISPECIES: DNA gyrase inhibitor YacG [Pseudomo...  61.6    2e-011
+WP_065758824.1  DNA gyrase inhibitor YacG [Pseudomonas sp. WCHP16]    61.6    2e-011
+WP_025040620.1  DNA gyrase inhibitor YacG [Nitrosospira briensis]     61.6    2e-011
+WP_067687211.1  DNA gyrase inhibitor [Eikenella sp. NML120348]        61.6    2e-011
+WP_074973402.1  DNA gyrase inhibitor YacG [Nitrosospira multiformis]  61.6    2e-011
+WP_046616199.1  MULTISPECIES: DNA gyrase inhibitor YacG [Pseudomo...  61.6    2e-011
+WP_038209638.1  DNA gyrase inhibitor YacG [Xenophilus azovorans]      62.0    2e-011
+WP_045845412.1  MULTISPECIES: DNA gyrase inhibitor YacG [Aquitalea]   61.6    2e-011
+WP_058016592.1  DNA gyrase inhibitor YacG [Pseudomonas aeruginosa]    61.6    2e-011
+WP_049305190.1  DNA gyrase inhibitor YacG [Pseudomonas aeruginosa]    61.6    2e-011
+WP_036777504.1  DNA gyrase inhibitor YacG [Photorhabdus luminescens]  61.6    2e-011
+WP_030130376.1  MULTISPECIES: DNA gyrase inhibitor YacG [Pseudomo...  61.6    2e-011
+WP_003185531.1  MULTISPECIES: DNA gyrase inhibitor YacG [Pseudomo...  61.6    2e-011
+WP_083214921.1  hypothetical protein [Immundisolibacter cernigliae]   62.0    2e-011
+WP_054152467.1  DNA gyrase inhibitor YacG [beta proteobacterium A...  61.6    2e-011
+WP_019650986.1  DNA gyrase inhibitor YacG [Pseudomonas sp. 45MFCo...  61.6    2e-011
+WP_019486072.1  MULTISPECIES: DNA gyrase inhibitor YacG [Pseudomo...  61.6    2e-011
+WP_011758485.1  DNA gyrase inhibitor YacG [Shewanella amazonensis]    62.0    2e-011
+WP_003260624.1  MULTISPECIES: DNA gyrase inhibitor YacG [Pseudomo...  61.6    2e-011
+WP_083360205.1  DNA gyrase inhibitor YacG [Pseudomonas antarctica]    61.6    2e-011
+WP_074921555.1  DNA gyrase inhibitor YacG [Delftia lacustris]         62.0    2e-011
+WP_060962072.1  DNA gyrase inhibitor YacG [Pseudomonas aeruginosa]    61.6    2e-011
+WP_017148551.1  MULTISPECIES: DNA gyrase inhibitor YacG [Pseudomo...  61.6    2e-011
+WP_068548053.1  hypothetical protein [Oleiphilus sp. HI0079]          61.6    2e-011
+WP_071553271.1  DNA gyrase inhibitor YacG [Pseudomonas frederiksb...  61.6    2e-011
+WP_022956641.1  DNA gyrase inhibitor YacG [Perlucidibaca piscinae]    62.0    2e-011
+WP_010565576.1  DNA gyrase inhibitor YacG [Pseudomonas extremaust...  61.6    2e-011
+WP_082851202.1  DNA gyrase inhibitor YacG [Alcanivorax sp. HI0003]    61.2    2e-011
+WP_011587895.1  MULTISPECIES: DNA gyrase inhibitor YacG [Alcanivo...  61.6    2e-011
+WP_027478357.1  DNA gyrase inhibitor YacG [Curvibacter gracilis]      61.6    2e-011
+WP_048367331.1  DNA gyrase inhibitor YacG [Pseudomonas helleri]       61.6    2e-011
+WP_049582380.1  DNA gyrase inhibitor YacG [Photorhabdus luminescens]  61.6    2e-011
+WP_013714026.1  DNA gyrase inhibitor YacG [Pseudomonas mendocina]     61.2    2e-011
+WP_060480582.1  DNA gyrase inhibitor YacG [Pseudomonas monteilii]     61.2    2e-011
+WP_020296476.1  MULTISPECIES: DNA gyrase inhibitor YacG [Pseudomo...  61.2    2e-011
+WP_036809293.1  DNA gyrase inhibitor YacG [Polaromonas sp. CG9_12]    61.6    2e-011
+WP_019675186.1  DNA gyrase inhibitor YacG [Rheinheimera perlucida]    61.6    2e-011
+WP_025215529.1  DNA gyrase inhibitor YacG [Pseudomonas brassicace...  61.6    2e-011
+WP_079217098.1  DNA gyrase inhibitor YacG [Herbaspirillum frising...  61.2    3e-011
+WP_083375731.1  DNA gyrase inhibitor YacG [Pseudomonas mandelii]      61.2    3e-011
+WP_058150655.1  DNA gyrase inhibitor YacG [Pseudomonas aeruginosa]    61.2    3e-011
+WP_056855639.1  MULTISPECIES: DNA gyrase inhibitor YacG [Pseudomo...  61.2    3e-011
+WP_067862385.1  hypothetical protein [Neptuniibacter marinus]         61.6    3e-011
+WP_035598304.1  DNA gyrase inhibitor YacG [Edwardsiella tarda]        61.2    3e-011
+WP_070341770.1  DNA gyrase inhibitor YacG [Pseudomonas aeruginosa]    61.2    3e-011
+WP_034148252.1  DNA gyrase inhibitor YacG [Pseudomonas fluorescens]   61.2    3e-011
+WP_011147806.1  DNA gyrase inhibitor YacG [Photorhabdus luminescens]  61.2    3e-011
+WP_005282680.1  DNA gyrase inhibitor YacG [Edwardsiella tarda]        61.2    3e-011
+WP_010467579.1  DNA gyrase inhibitor YacG [Pseudomonas mandelii]      61.2    3e-011
+WP_007938961.1  MULTISPECIES: DNA gyrase inhibitor YacG [Pseudomo...  61.2    3e-011
+WP_085922052.1  DNA gyrase inhibitor YacG [Nitrosospira lacus]        61.2    3e-011
+WP_075147023.1  DNA gyrase inhibitor YacG [Thauera chlorobenzoica]    61.2    3e-011
+WP_002436840.1  MULTISPECIES: DNA gyrase inhibitor YacG [Enteroba...  61.2    3e-011
+WP_074745443.1  DNA gyrase inhibitor YacG [Nitrosospira multiformis]  61.2    3e-011
+WP_017905425.1  DNA gyrase inhibitor YacG [Pseudomonas fuscovaginae]  61.2    3e-011
+WP_028994847.1  DNA gyrase inhibitor YacG [Azonexus hydrophilus]      61.2    3e-011
+WP_047060405.1  DNA gyrase inhibitor YacG [Edwardsiella tarda]        61.2    3e-011
+WP_046028515.1  MULTISPECIES: DNA gyrase inhibitor YacG [Pseudomo...  61.2    3e-011
+WP_063520129.1  MULTISPECIES: DNA gyrase inhibitor YacG [Alcanivo...  61.2    3e-011
+
+
+>WP_001138289.1 MULTISPECIES: DNA gyrase inhibitor YacG [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=64
+
+ Score = 136 bits (342),  Expect = 5e-041, Method: Compositional matrix adjust.
+ Identities = 64/64 (100%), Positives = 64/64 (100%), Gaps = 0/64 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED
+Sbjct  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+
+Query  61  DYED  64
+           DYED
+Sbjct  61  DYED  64
+
+
+>WP_050451283.1 DNA gyrase inhibitor YacG [Acinetobacter baumannii]
+Length=78
+
+ Score = 136 bits (343),  Expect = 6e-041, Method: Compositional matrix adjust.
+ Identities = 64/64 (100%), Positives = 64/64 (100%), Gaps = 0/64 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED
+Sbjct  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+
+Query  61  DYED  64
+           DYED
+Sbjct  61  DYED  64
+
+
+>WP_004698974.1 MULTISPECIES: DNA gyrase inhibitor YacG [Acinetobacter]
+Length=64
+
+ Score = 135 bits (339),  Expect = 2e-040, Method: Compositional matrix adjust.
+ Identities = 63/64 (98%), Positives = 64/64 (100%), Gaps = 0/64 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQ+KGSQHED
+Sbjct  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQNKGSQHED  60
+
+Query  61  DYED  64
+           DYED
+Sbjct  61  DYED  64
+
+
+>WP_015451379.1 DNA gyrase inhibitor YacG [Acinetobacter baumannii]
+Length=64
+
+ Score = 134 bits (338),  Expect = 2e-040, Method: Compositional matrix adjust.
+ Identities = 63/64 (98%), Positives = 64/64 (100%), Gaps = 0/64 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCG+PSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED
+Sbjct  1   MPRTFPCPRCGKPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+
+Query  61  DYED  64
+           DYED
+Sbjct  61  DYED  64
+
+
+>WP_004883472.1 MULTISPECIES: DNA gyrase inhibitor YacG [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=64
+
+ Score = 134 bits (338),  Expect = 2e-040, Method: Compositional matrix adjust.
+ Identities = 63/64 (98%), Positives = 64/64 (100%), Gaps = 0/64 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGEPSVWEGN+FRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED
+Sbjct  1   MPRTFPCPRCGEPSVWEGNKFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+
+Query  61  DYED  64
+           DYED
+Sbjct  61  DYED  64
+
+
+>WP_062937538.1 DNA gyrase inhibitor YacG [Acinetobacter baumannii]
+Length=64
+
+ Score = 134 bits (338),  Expect = 2e-040, Method: Compositional matrix adjust.
+ Identities = 63/64 (98%), Positives = 63/64 (98%), Gaps = 0/64 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQD PQQDKGSQHED
+Sbjct  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDTPQQDKGSQHED  60
+
+Query  61  DYED  64
+           DYED
+Sbjct  61  DYED  64
+
+
+>WP_001138290.1 DNA gyrase inhibitor YacG [Acinetobacter baumannii]
+Length=64
+
+ Score = 134 bits (338),  Expect = 2e-040, Method: Compositional matrix adjust.
+ Identities = 63/64 (98%), Positives = 63/64 (98%), Gaps = 0/64 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLG WANDEYRLPTQDAPQQDKGSQHED
+Sbjct  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGTWANDEYRLPTQDAPQQDKGSQHED  60
+
+Query  61  DYED  64
+           DYED
+Sbjct  61  DYED  64
+
+
+>WP_071209613.1 DNA gyrase inhibitor YacG [Acinetobacter baumannii]
+Length=64
+
+ Score = 134 bits (337),  Expect = 2e-040, Method: Compositional matrix adjust.
+ Identities = 63/64 (98%), Positives = 63/64 (98%), Gaps = 0/64 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGEP VWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED
+Sbjct  1   MPRTFPCPRCGEPGVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+
+Query  61  DYED  64
+           DYED
+Sbjct  61  DYED  64
+
+
+>WP_033846399.1 MULTISPECIES: DNA gyrase inhibitor YacG [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=64
+
+ Score = 134 bits (336),  Expect = 4e-040, Method: Compositional matrix adjust.
+ Identities = 63/64 (98%), Positives = 64/64 (100%), Gaps = 0/64 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQ+ED
+Sbjct  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQYED  60
+
+Query  61  DYED  64
+           DYED
+Sbjct  61  DYED  64
+
+
+>WP_009393012.1 DNA gyrase inhibitor YacG [Acinetobacter sp. WC-141]
+Length=64
+
+ Score = 133 bits (335),  Expect = 5e-040, Method: Compositional matrix adjust.
+ Identities = 63/64 (98%), Positives = 64/64 (100%), Gaps = 0/64 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQ+ED
+Sbjct  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQNED  60
+
+Query  61  DYED  64
+           DYED
+Sbjct  61  DYED  64
+
+
+>WP_057051997.1 DNA gyrase inhibitor YacG [Acinetobacter baumannii]
+Length=64
+
+ Score = 133 bits (335),  Expect = 6e-040, Method: Compositional matrix adjust.
+ Identities = 62/64 (97%), Positives = 63/64 (98%), Gaps = 0/64 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQ +KGSQHED
+Sbjct  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQHNKGSQHED  60
+
+Query  61  DYED  64
+           DYED
+Sbjct  61  DYED  64
+
+
+>WP_002132822.1 DNA gyrase inhibitor YacG [Acinetobacter baumannii]
+Length=64
+
+ Score = 133 bits (335),  Expect = 6e-040, Method: Compositional matrix adjust.
+ Identities = 63/64 (98%), Positives = 63/64 (98%), Gaps = 0/64 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRC EPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED
+Sbjct  1   MPRTFPCPRCDEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+
+Query  61  DYED  64
+           DYED
+Sbjct  61  DYED  64
+
+
+>WP_031379571.1 DNA gyrase inhibitor YacG [Acinetobacter baumannii]
+Length=64
+
+ Score = 133 bits (334),  Expect = 7e-040, Method: Compositional matrix adjust.
+ Identities = 63/64 (98%), Positives = 63/64 (98%), Gaps = 0/64 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGE SVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED
+Sbjct  1   MPRTFPCPRCGELSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+
+Query  61  DYED  64
+           DYED
+Sbjct  61  DYED  64
+
+
+>WP_004794921.1 MULTISPECIES: DNA gyrase inhibitor YacG [Acinetobacter]
+Length=64
+
+ Score = 132 bits (332),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 62/64 (97%), Positives = 64/64 (100%), Gaps = 0/64 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQ+KGSQ+ED
+Sbjct  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQNKGSQNED  60
+
+Query  61  DYED  64
+           DYED
+Sbjct  61  DYED  64
+
+
+>WP_085920629.1 DNA gyrase inhibitor YacG [Acinetobacter baumannii]
+Length=64
+
+ Score = 132 bits (332),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 63/64 (98%), Positives = 63/64 (98%), Gaps = 0/64 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDE RLPTQDAPQQDKGSQHED
+Sbjct  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEDRLPTQDAPQQDKGSQHED  60
+
+Query  61  DYED  64
+           DYED
+Sbjct  61  DYED  64
+
+
+>WP_069036481.1 DNA gyrase inhibitor YacG [Acinetobacter pittii]
+Length=64
+
+ Score = 132 bits (331),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 62/64 (97%), Positives = 63/64 (98%), Gaps = 0/64 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQ DKGSQ+ED
+Sbjct  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQHDKGSQNED  60
+
+Query  61  DYED  64
+           DYED
+Sbjct  61  DYED  64
+
+
+>WP_016139395.1 DNA gyrase inhibitor YacG [Acinetobacter calcoaceticus]
+Length=64
+
+ Score = 131 bits (330),  Expect = 4e-039, Method: Compositional matrix adjust.
+ Identities = 61/64 (95%), Positives = 64/64 (100%), Gaps = 0/64 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEY+LPTQDAPQQ+KGSQ+ED
+Sbjct  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYKLPTQDAPQQNKGSQNED  60
+
+Query  61  DYED  64
+           DYED
+Sbjct  61  DYED  64
+
+
+>WP_016144208.1 MULTISPECIES: DNA gyrase inhibitor YacG [Acinetobacter]
+Length=64
+
+ Score = 130 bits (328),  Expect = 6e-039, Method: Compositional matrix adjust.
+ Identities = 61/64 (95%), Positives = 63/64 (98%), Gaps = 0/64 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEY+LPTQDAPQ DKGSQ+ED
+Sbjct  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYKLPTQDAPQHDKGSQNED  60
+
+Query  61  DYED  64
+           DYED
+Sbjct  61  DYED  64
+
+
+>WP_002114956.1 MULTISPECIES: DNA gyrase inhibitor YacG [Acinetobacter]
+ YP_004997561.1 putative zinc-binding protein [Acinetobacter pittii PHEA-2]
+Length=64
+
+ Score = 130 bits (328),  Expect = 7e-039, Method: Compositional matrix adjust.
+ Identities = 61/64 (95%), Positives = 63/64 (98%), Gaps = 0/64 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQ +KGSQ+ED
+Sbjct  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQHNKGSQNED  60
+
+Query  61  DYED  64
+           DYED
+Sbjct  61  DYED  64
+
+
+>WP_042894610.1 MULTISPECIES: DNA gyrase inhibitor YacG [Acinetobacter]
+Length=64
+
+ Score = 130 bits (327),  Expect = 9e-039, Method: Compositional matrix adjust.
+ Identities = 61/64 (95%), Positives = 63/64 (98%), Gaps = 0/64 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCG PSVWEGNEFRPFCSERCKLIDLGAWANDEY+LPTQDAPQQDKGSQ+ED
+Sbjct  1   MPRTFPCPRCGGPSVWEGNEFRPFCSERCKLIDLGAWANDEYKLPTQDAPQQDKGSQNED  60
+
+Query  61  DYED  64
+           DYED
+Sbjct  61  DYED  64
+
+
+>WP_003654666.1 MULTISPECIES: DNA gyrase inhibitor YacG [Acinetobacter]
+Length=64
+
+ Score = 129 bits (324),  Expect = 3e-038, Method: Compositional matrix adjust.
+ Identities = 60/64 (94%), Positives = 63/64 (98%), Gaps = 0/64 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCG PSVWEGNEFRPFCSERCKLIDLGAWANDEY+LPTQDAPQQ+KGSQ+ED
+Sbjct  1   MPRTFPCPRCGGPSVWEGNEFRPFCSERCKLIDLGAWANDEYKLPTQDAPQQNKGSQNED  60
+
+Query  61  DYED  64
+           DYED
+Sbjct  61  DYED  64
+
+
+>WP_016142332.1 DNA gyrase inhibitor YacG [Acinetobacter pittii]
+Length=64
+
+ Score = 129 bits (324),  Expect = 3e-038, Method: Compositional matrix adjust.
+ Identities = 60/64 (94%), Positives = 62/64 (97%), Gaps = 0/64 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEY+L TQDAPQ DKGSQ+ED
+Sbjct  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYKLTTQDAPQHDKGSQNED  60
+
+Query  61  DYED  64
+           DYED
+Sbjct  61  DYED  64
+
+
+>WP_005239977.1 MULTISPECIES: DNA gyrase inhibitor YacG [Acinetobacter]
+Length=63
+
+ Score = 115 bits (288),  Expect = 8e-033, Method: Compositional matrix adjust.
+ Identities = 55/64 (86%), Positives = 58/64 (91%), Gaps = 1/64 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGE S WEGNEFRPFCSERCKLIDLGAWA+DEY+LPTQDAPQ D   +HED
+Sbjct  1   MPRTFPCPRCGEASTWEGNEFRPFCSERCKLIDLGAWASDEYKLPTQDAPQADL-KRHED  59
+
+Query  61  DYED  64
+           DYED
+Sbjct  60  DYED  63
+
+
+>WP_038344829.1 DNA gyrase inhibitor YacG [Acinetobacter sp. A47]
+Length=63
+
+ Score = 115 bits (288),  Expect = 8e-033, Method: Compositional matrix adjust.
+ Identities = 55/64 (86%), Positives = 58/64 (91%), Gaps = 1/64 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGE S WEGNEFRPFCSERCKLIDLGAWA+DEY+LPTQDAPQ D   +HED
+Sbjct  1   MPRTFPCPRCGETSTWEGNEFRPFCSERCKLIDLGAWASDEYKLPTQDAPQADL-KRHED  59
+
+Query  61  DYED  64
+           DYED
+Sbjct  60  DYED  63
+
+
+>WP_004825277.1 DNA gyrase inhibitor YacG [Acinetobacter bereziniae]
+Length=63
+
+ Score = 115 bits (287),  Expect = 1e-032, Method: Compositional matrix adjust.
+ Identities = 54/64 (84%), Positives = 58/64 (91%), Gaps = 1/64 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           M +TFPCPRCGEPS WE NEFRPFCS+RCKLIDLGAWANDEYRLPTQDAPQ D+  +HED
+Sbjct  1   MAKTFPCPRCGEPSTWEANEFRPFCSDRCKLIDLGAWANDEYRLPTQDAPQMDQ-RRHED  59
+
+Query  61  DYED  64
+           DYED
+Sbjct  60  DYED  63
+
+
+>WP_005034213.1 MULTISPECIES: DNA gyrase inhibitor YacG [Acinetobacter]
+Length=63
+
+ Score = 114 bits (286),  Expect = 2e-032, Method: Compositional matrix adjust.
+ Identities = 53/64 (83%), Positives = 58/64 (91%), Gaps = 1/64 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           M +TFPCPRCGEPS WE NEFRPFCS+RCKLIDLGAWANDEY+LPTQDAPQ D+  +HED
+Sbjct  1   MAKTFPCPRCGEPSTWEANEFRPFCSDRCKLIDLGAWANDEYKLPTQDAPQMDQ-KRHED  59
+
+Query  61  DYED  64
+           DYED
+Sbjct  60  DYED  63
+
+
+>WP_032870660.1 DNA gyrase inhibitor YacG [Acinetobacter baumannii]
+Length=63
+
+ Score = 114 bits (285),  Expect = 2e-032, Method: Compositional matrix adjust.
+ Identities = 53/64 (83%), Positives = 58/64 (91%), Gaps = 1/64 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGE S+WEGN FRPFCSERCK+IDLGAWA+DEY+LPTQDAPQ D   +HED
+Sbjct  1   MPRTFPCPRCGETSIWEGNAFRPFCSERCKMIDLGAWASDEYKLPTQDAPQADL-KRHED  59
+
+Query  61  DYED  64
+           DYED
+Sbjct  60  DYED  63
+
+
+>WP_066899234.1 DNA gyrase inhibitor, partial [Streptobacillus notomytis]
+Length=53
+
+ Score = 114 bits (284),  Expect = 3e-032, Method: Compositional matrix adjust.
+ Identities = 53/53 (100%), Positives = 53/53 (100%), Gaps = 0/53 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQD  53
+           MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQD
+Sbjct  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQD  53
+
+
+>WP_016542377.1 DNA gyrase inhibitor YacG [Acinetobacter gyllenbergii]
+Length=63
+
+ Score = 114 bits (284),  Expect = 3e-032, Method: Compositional matrix adjust.
+ Identities = 54/64 (84%), Positives = 57/64 (89%), Gaps = 1/64 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGE S WEGN FRPFCSERCKLIDLGAWA+DEY+LPTQDAPQ D   +HED
+Sbjct  1   MPRTFPCPRCGEASTWEGNAFRPFCSERCKLIDLGAWASDEYKLPTQDAPQADL-KRHED  59
+
+Query  61  DYED  64
+           DYED
+Sbjct  60  DYED  63
+
+
+>WP_004680638.1 MULTISPECIES: DNA gyrase inhibitor YacG [Acinetobacter]
+Length=63
+
+ Score = 113 bits (282),  Expect = 6e-032, Method: Compositional matrix adjust.
+ Identities = 53/64 (83%), Positives = 58/64 (91%), Gaps = 1/64 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCG+PS WE N+FRPFCSERCKLIDLGAWA+DEY+LPTQDAPQ D   +HED
+Sbjct  1   MPRTFPCPRCGQPSTWENNDFRPFCSERCKLIDLGAWASDEYKLPTQDAPQADL-KRHED  59
+
+Query  61  DYED  64
+           DYED
+Sbjct  60  DYED  63
+
+
+>WP_005226540.1 MULTISPECIES: DNA gyrase inhibitor YacG [Acinetobacter]
+Length=63
+
+ Score = 113 bits (282),  Expect = 6e-032, Method: Compositional matrix adjust.
+ Identities = 53/64 (83%), Positives = 57/64 (89%), Gaps = 1/64 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGE S WEGN FRPFCSERCK+IDLGAWA+DEY+LPTQDAPQ D   +HED
+Sbjct  1   MPRTFPCPRCGETSTWEGNAFRPFCSERCKMIDLGAWASDEYKLPTQDAPQADL-KRHED  59
+
+Query  61  DYED  64
+           DYED
+Sbjct  60  DYED  63
+
+
+>WP_004802417.1 MULTISPECIES: DNA gyrase inhibitor YacG [Acinetobacter]
+Length=63
+
+ Score = 113 bits (282),  Expect = 7e-032, Method: Compositional matrix adjust.
+ Identities = 53/64 (83%), Positives = 59/64 (92%), Gaps = 1/64 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGE S WEGN+FRPFCSERCKLIDLGAWA+DEY+LPTQDAPQ D+  ++ED
+Sbjct  1   MPRTFPCPRCGEASTWEGNQFRPFCSERCKLIDLGAWASDEYKLPTQDAPQADQ-KRNED  59
+
+Query  61  DYED  64
+           DYED
+Sbjct  60  DYED  63
+
+
+>WP_086193021.1 DNA gyrase inhibitor YacG [Acinetobacter sp. ANC 4655]
+Length=61
+
+ Score = 112 bits (281),  Expect = 9e-032, Method: Compositional matrix adjust.
+ Identities = 52/62 (84%), Positives = 58/62 (94%), Gaps = 1/62 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCG+PS WEGNEFRPFCSERCK+IDLGAWANDEY+LPTQDAPQ D GS+ ED
+Sbjct  1   MPRTFPCPRCGKPSTWEGNEFRPFCSERCKMIDLGAWANDEYKLPTQDAPQAD-GSREED  59
+
+Query  61  DY  62
+           ++
+Sbjct  60  EF  61
+
+
+>WP_004920346.1 MULTISPECIES: DNA gyrase inhibitor YacG [Acinetobacter]
+Length=63
+
+ Score = 112 bits (281),  Expect = 1e-031, Method: Compositional matrix adjust.
+ Identities = 53/64 (83%), Positives = 57/64 (89%), Gaps = 1/64 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCG+PSVWEGNE RPFCSERCKLIDLGAWA++EY+L TQDAP   KG QH D
+Sbjct  1   MPRTFPCPRCGQPSVWEGNESRPFCSERCKLIDLGAWASEEYKLKTQDAPTSGKG-QHSD  59
+
+Query  61  DYED  64
+           DYED
+Sbjct  60  DYED  63
+
+
+>WP_042089482.1 DNA gyrase inhibitor YacG [Acinetobacter bereziniae]
+Length=63
+
+ Score = 112 bits (280),  Expect = 1e-031, Method: Compositional matrix adjust.
+ Identities = 52/64 (81%), Positives = 57/64 (89%), Gaps = 1/64 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           M +TFPCPRCG PS WE NEFRPFCS+RCKLIDLGAWANDEY+LPTQDAPQ D+  +HED
+Sbjct  1   MAKTFPCPRCGVPSTWEANEFRPFCSDRCKLIDLGAWANDEYKLPTQDAPQMDQ-KRHED  59
+
+Query  61  DYED  64
+           DYED
+Sbjct  60  DYED  63
+
+
+>WP_004656113.1 MULTISPECIES: DNA gyrase inhibitor YacG [Acinetobacter]
+Length=63
+
+ Score = 112 bits (280),  Expect = 1e-031, Method: Compositional matrix adjust.
+ Identities = 53/64 (83%), Positives = 56/64 (88%), Gaps = 1/64 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGE S WE N FRPFCSERCKLIDLGAWA+DEY+LPTQDAPQ D   +HED
+Sbjct  1   MPRTFPCPRCGEASTWEANAFRPFCSERCKLIDLGAWASDEYKLPTQDAPQADL-KRHED  59
+
+Query  61  DYED  64
+           DYED
+Sbjct  60  DYED  63
+
+
+>WP_004916696.1 DNA gyrase inhibitor YacG [Acinetobacter junii]
+Length=63
+
+ Score = 111 bits (278),  Expect = 2e-031, Method: Compositional matrix adjust.
+ Identities = 53/64 (83%), Positives = 57/64 (89%), Gaps = 1/64 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCG+ S WEGNEFRPFCSERCKLIDLGAWANDEY+LPTQDAPQ     +HED
+Sbjct  1   MPRTFPCPRCGQDSTWEGNEFRPFCSERCKLIDLGAWANDEYKLPTQDAPQAGD-KRHED  59
+
+Query  61  DYED  64
+           +YED
+Sbjct  60  EYED  63
+
+
+>WP_035264978.1 DNA gyrase inhibitor YacG [Acinetobacter sp. Ver3]
+Length=59
+
+ Score = 111 bits (278),  Expect = 2e-031, Method: Compositional matrix adjust.
+ Identities = 50/59 (85%), Positives = 54/59 (92%), Gaps = 0/59 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHE  59
+           MP+TFPCPRCG+PS W GNEFRPFCSERCKLIDLGAWANDEYRLPTQD+PQ D+G  HE
+Sbjct  1   MPKTFPCPRCGQPSQWTGNEFRPFCSERCKLIDLGAWANDEYRLPTQDSPQADQGEYHE  59
+
+
+>WP_007479167.1 MULTISPECIES: DNA gyrase inhibitor YacG [Acinetobacter]
+Length=63
+
+ Score = 111 bits (278),  Expect = 3e-031, Method: Compositional matrix adjust.
+ Identities = 53/64 (83%), Positives = 57/64 (89%), Gaps = 1/64 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGE S WEGNEFRPFCSERCKLIDLGAWA++EY+LPTQDAPQ     +HED
+Sbjct  1   MPRTFPCPRCGEASTWEGNEFRPFCSERCKLIDLGAWASEEYKLPTQDAPQAGL-QRHED  59
+
+Query  61  DYED  64
+           DYED
+Sbjct  60  DYED  63
+
+
+>WP_086198480.1 DNA gyrase inhibitor YacG [Acinetobacter sp. ANC 4169]
+Length=61
+
+ Score = 111 bits (278),  Expect = 3e-031, Method: Compositional matrix adjust.
+ Identities = 48/60 (80%), Positives = 55/60 (92%), Gaps = 0/60 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCG+P++WEGNEFRPFCSERCK+IDLGAWANDEY+LPTQDAPQ D   + +D
+Sbjct  1   MPRTFPCPRCGKPTIWEGNEFRPFCSERCKMIDLGAWANDEYKLPTQDAPQADNSGEQDD  60
+
+
+>WP_005218523.1 DNA gyrase inhibitor YacG [Acinetobacter sp. ANC 3862]
+Length=63
+
+ Score = 111 bits (278),  Expect = 3e-031, Method: Compositional matrix adjust.
+ Identities = 54/64 (84%), Positives = 56/64 (88%), Gaps = 1/64 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGE S WEGNEFRPFCSERCKLIDLGAWA+DEY+LPTQDAPQ     Q ED
+Sbjct  1   MPRTFPCPRCGEASTWEGNEFRPFCSERCKLIDLGAWASDEYKLPTQDAPQSSLQRQ-ED  59
+
+Query  61  DYED  64
+           DYED
+Sbjct  60  DYED  63
+
+
+>WP_081037694.1 DNA gyrase inhibitor YacG [Acinetobacter pittii]
+Length=53
+
+ Score = 111 bits (277),  Expect = 3e-031, Method: Compositional matrix adjust.
+ Identities = 51/53 (96%), Positives = 52/53 (98%), Gaps = 0/53 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQD  53
+           MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQ +
+Sbjct  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQHN  53
+
+
+>WP_005083735.1 DNA gyrase inhibitor YacG [Acinetobacter haemolyticus]
+Length=63
+
+ Score = 111 bits (277),  Expect = 3e-031, Method: Compositional matrix adjust.
+ Identities = 54/64 (84%), Positives = 57/64 (89%), Gaps = 1/64 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGE S WEGNEFRPFCSERCKLIDLGAWA+DEY+LPTQDAPQ D   + ED
+Sbjct  1   MPRTFPCPRCGENSTWEGNEFRPFCSERCKLIDLGAWASDEYKLPTQDAPQTDL-KRGED  59
+
+Query  61  DYED  64
+           DYED
+Sbjct  60  DYED  63
+
+
+>WP_004637751.1 MULTISPECIES: DNA gyrase inhibitor YacG [Acinetobacter]
+Length=63
+
+ Score = 111 bits (277),  Expect = 4e-031, Method: Compositional matrix adjust.
+ Identities = 54/64 (84%), Positives = 57/64 (89%), Gaps = 1/64 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGE S WEGNEFRPFCSERCKLIDLGAWA+DEY+LPTQDAPQ D   + ED
+Sbjct  1   MPRTFPCPRCGENSTWEGNEFRPFCSERCKLIDLGAWASDEYKLPTQDAPQADL-KRGED  59
+
+Query  61  DYED  64
+           DYED
+Sbjct  60  DYED  63
+
+
+>WP_067722232.1 zinc-binding protein [Acinetobacter sp. SFC]
+Length=61
+
+ Score = 111 bits (277),  Expect = 4e-031, Method: Compositional matrix adjust.
+ Identities = 51/62 (82%), Positives = 57/62 (92%), Gaps = 1/62 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCG+PS WEGNEFRPFCSERCK+IDLGAWANDEY+LPTQDAPQ D G + ED
+Sbjct  1   MPRTFPCPRCGKPSTWEGNEFRPFCSERCKMIDLGAWANDEYKLPTQDAPQAD-GGREED  59
+
+Query  61  DY  62
+           ++
+Sbjct  60  EF  61
+
+
+>WP_005162768.1 MULTISPECIES: DNA gyrase inhibitor YacG [Acinetobacter]
+Length=63
+
+ Score = 110 bits (276),  Expect = 5e-031, Method: Compositional matrix adjust.
+ Identities = 54/64 (84%), Positives = 56/64 (88%), Gaps = 1/64 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGE S WEGNEFRPFCSERCKLIDLGAWA+DEY+LPTQDAPQ     Q ED
+Sbjct  1   MPRTFPCPRCGEASTWEGNEFRPFCSERCKLIDLGAWASDEYKLPTQDAPQSGLQRQ-ED  59
+
+Query  61  DYED  64
+           DYED
+Sbjct  60  DYED  63
+
+
+>WP_004774191.1 MULTISPECIES: DNA gyrase inhibitor YacG [Acinetobacter]
+Length=63
+
+ Score = 110 bits (276),  Expect = 6e-031, Method: Compositional matrix adjust.
+ Identities = 51/64 (80%), Positives = 56/64 (88%), Gaps = 1/64 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGE S WEGN FRPFCSERCK+IDLGAWA+DEY+LPTQD PQ +   +HED
+Sbjct  1   MPRTFPCPRCGETSTWEGNAFRPFCSERCKMIDLGAWASDEYKLPTQDTPQAEM-KRHED  59
+
+Query  61  DYED  64
+           DYED
+Sbjct  60  DYED  63
+
+
+>WP_004876593.1 DNA gyrase inhibitor YacG [Acinetobacter venetianus]
+Length=63
+
+ Score = 110 bits (276),  Expect = 6e-031, Method: Compositional matrix adjust.
+ Identities = 52/64 (81%), Positives = 57/64 (89%), Gaps = 1/64 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGE S WEGNE+RPFCSERCKLIDLGAWA++EY+LPTQDAPQ     +HED
+Sbjct  1   MPRTFPCPRCGEASTWEGNEYRPFCSERCKLIDLGAWASEEYKLPTQDAPQAGL-QRHED  59
+
+Query  61  DYED  64
+           DYED
+Sbjct  60  DYED  63
+
+
+>WP_005192098.1 DNA gyrase inhibitor YacG [Acinetobacter sp. ANC 4105]
+Length=63
+
+ Score = 110 bits (275),  Expect = 7e-031, Method: Compositional matrix adjust.
+ Identities = 52/64 (81%), Positives = 58/64 (91%), Gaps = 1/64 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGE S WEGN+ RPFCSERCKLIDLGAWA+DEY+LPTQDAPQ D+  ++ED
+Sbjct  1   MPRTFPCPRCGEASTWEGNQSRPFCSERCKLIDLGAWASDEYKLPTQDAPQADR-KRNED  59
+
+Query  61  DYED  64
+           DYED
+Sbjct  60  DYED  63
+
+
+>WP_019385778.1 DNA gyrase inhibitor YacG [Acinetobacter venetianus]
+Length=63
+
+ Score = 110 bits (275),  Expect = 8e-031, Method: Compositional matrix adjust.
+ Identities = 52/64 (81%), Positives = 57/64 (89%), Gaps = 1/64 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPR+FPCPRCGE S WEGNEFRPFCSERCKLIDLGAWA++EY+LPTQDAPQ     +HED
+Sbjct  1   MPRSFPCPRCGEASTWEGNEFRPFCSERCKLIDLGAWASEEYKLPTQDAPQAGL-QRHED  59
+
+Query  61  DYED  64
+           DYED
+Sbjct  60  DYED  63
+
+
+>WP_005210235.1 DNA gyrase inhibitor YacG [Acinetobacter sp. NIPH 1867]
+Length=63
+
+ Score = 110 bits (275),  Expect = 8e-031, Method: Compositional matrix adjust.
+ Identities = 51/64 (80%), Positives = 57/64 (89%), Gaps = 1/64 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGE S WE N FRPFCSERCK+IDLGAWA+DEY+LPTQDAPQ D+  ++ED
+Sbjct  1   MPRTFPCPRCGEASTWEANAFRPFCSERCKMIDLGAWASDEYKLPTQDAPQADR-KRNED  59
+
+Query  61  DYED  64
+           DYED
+Sbjct  60  DYED  63
+
+
+>WP_005154994.1 DNA gyrase inhibitor YacG [Acinetobacter sp. ANC 3929]
+Length=63
+
+ Score = 110 bits (274),  Expect = 1e-030, Method: Compositional matrix adjust.
+ Identities = 51/64 (80%), Positives = 57/64 (89%), Gaps = 1/64 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGE S WE N FRPFCSERCK+IDLGAWA+DEY+LPTQDAPQ D+  ++ED
+Sbjct  1   MPRTFPCPRCGETSTWEANAFRPFCSERCKMIDLGAWASDEYKLPTQDAPQADQ-KRNED  59
+
+Query  61  DYED  64
+           DYED
+Sbjct  60  DYED  63
+
+
+>WP_017395231.1 DNA gyrase inhibitor YacG [Acinetobacter haemolyticus]
+Length=63
+
+ Score = 110 bits (274),  Expect = 1e-030, Method: Compositional matrix adjust.
+ Identities = 53/64 (83%), Positives = 57/64 (89%), Gaps = 1/64 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGE S WEGNEFRPFCSERCKLIDLGAWA+DEY+LPTQDAPQ +   + ED
+Sbjct  1   MPRTFPCPRCGENSTWEGNEFRPFCSERCKLIDLGAWASDEYKLPTQDAPQAEL-KRGED  59
+
+Query  61  DYED  64
+           DYED
+Sbjct  60  DYED  63
+
+
+>WP_004659178.1 DNA gyrase inhibitor YacG [Acinetobacter sp. NIPH 236]
+Length=63
+
+ Score = 109 bits (273),  Expect = 2e-030, Method: Compositional matrix adjust.
+ Identities = 53/64 (83%), Positives = 55/64 (86%), Gaps = 1/64 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGE S WEGNEFRPFCSERCKLIDLGAWA+DEY+LPTQD PQ     Q ED
+Sbjct  1   MPRTFPCPRCGEASTWEGNEFRPFCSERCKLIDLGAWASDEYKLPTQDTPQSGLQRQ-ED  59
+
+Query  61  DYED  64
+           DYED
+Sbjct  60  DYED  63
+
+
+>WP_067866201.1 zinc-binding protein [Acinetobacter sp. SFB]
+Length=61
+
+ Score = 109 bits (272),  Expect = 2e-030, Method: Compositional matrix adjust.
+ Identities = 50/62 (81%), Positives = 57/62 (92%), Gaps = 1/62 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCG+PS WEGNEFRPFCSERCK+IDLGAWAND+Y+LPTQDAPQ D G + ED
+Sbjct  1   MPRTFPCPRCGKPSTWEGNEFRPFCSERCKMIDLGAWANDDYKLPTQDAPQAD-GGRGED  59
+
+Query  61  DY  62
+           ++
+Sbjct  60  EF  61
+
+
+>WP_039047657.1 DNA gyrase inhibitor YacG [Acinetobacter junii]
+Length=63
+
+ Score = 109 bits (272),  Expect = 3e-030, Method: Compositional matrix adjust.
+ Identities = 52/64 (81%), Positives = 56/64 (88%), Gaps = 1/64 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCG+ S WEGNEFRPFCSERCKLIDLGAWANDEY+L TQDAPQ     +HED
+Sbjct  1   MPRTFPCPRCGQDSTWEGNEFRPFCSERCKLIDLGAWANDEYKLHTQDAPQAGD-KRHED  59
+
+Query  61  DYED  64
+           +YED
+Sbjct  60  EYED  63
+
+
+>WP_061392213.1 DNA gyrase inhibitor YacG [Acinetobacter venetianus]
+Length=63
+
+ Score = 109 bits (272),  Expect = 3e-030, Method: Compositional matrix adjust.
+ Identities = 51/64 (80%), Positives = 56/64 (88%), Gaps = 1/64 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGE S WEGNE+RPFCSERCKLIDLGAWA++EY+LPTQD PQ     +HED
+Sbjct  1   MPRTFPCPRCGEASTWEGNEYRPFCSERCKLIDLGAWASEEYKLPTQDTPQAGL-QRHED  59
+
+Query  61  DYED  64
+           DYED
+Sbjct  60  DYED  63
+
+
+>WP_005291524.1 DNA gyrase inhibitor YacG [Acinetobacter sp. NIPH 2100]
+Length=63
+
+ Score = 108 bits (271),  Expect = 3e-030, Method: Compositional matrix adjust.
+ Identities = 51/64 (80%), Positives = 56/64 (88%), Gaps = 1/64 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGE S WE N FRPFCSERCK+IDLGAWA+DEY+LPTQDAPQ D   ++ED
+Sbjct  1   MPRTFPCPRCGETSTWEANAFRPFCSERCKMIDLGAWASDEYKLPTQDAPQADL-KRNED  59
+
+Query  61  DYED  64
+           DYED
+Sbjct  60  DYED  63
+
+
+>WP_005181919.1 MULTISPECIES: DNA gyrase inhibitor YacG [Acinetobacter]
+Length=57
+
+ Score = 108 bits (270),  Expect = 4e-030, Method: Compositional matrix adjust.
+ Identities = 50/54 (93%), Positives = 51/54 (94%), Gaps = 0/54 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDK  54
+           MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWA+DEYRLPTQDAP  D 
+Sbjct  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWASDEYRLPTQDAPSVDN  54
+
+
+>WP_086187271.1 DNA gyrase inhibitor YacG [Acinetobacter sp. ANC 4470]
+Length=61
+
+ Score = 108 bits (269),  Expect = 5e-030, Method: Compositional matrix adjust.
+ Identities = 50/62 (81%), Positives = 55/62 (89%), Gaps = 1/62 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           M RTFPCPRCG+PS WEGNEFRPFCSERCK+IDLGAWANDEY+LPTQDAPQ D G + ED
+Sbjct  1   MTRTFPCPRCGKPSTWEGNEFRPFCSERCKMIDLGAWANDEYKLPTQDAPQAD-GGREED  59
+
+Query  61  DY  62
+            +
+Sbjct  60  QF  61
+
+
+>WP_016659618.1 DNA gyrase inhibitor YacG [Acinetobacter indicus]
+Length=57
+
+ Score = 108 bits (269),  Expect = 6e-030, Method: Compositional matrix adjust.
+ Identities = 49/54 (91%), Positives = 51/54 (94%), Gaps = 0/54 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDK  54
+           MPRTFPCPRCGEPS+WEGNEFRPFCSERCKLIDLGAWA+DEYRLPTQDAP  D 
+Sbjct  1   MPRTFPCPRCGEPSIWEGNEFRPFCSERCKLIDLGAWASDEYRLPTQDAPSVDN  54
+
+
+>WP_044433996.1 DNA gyrase inhibitor YacG [Acinetobacter ursingii]
+Length=62
+
+ Score = 108 bits (269),  Expect = 7e-030, Method: Compositional matrix adjust.
+ Identities = 48/61 (79%), Positives = 55/61 (90%), Gaps = 0/61 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWAN++Y+L TQDAP  + G+ ++ 
+Sbjct  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANEDYKLQTQDAPTSENGNHYDY  60
+
+Query  61  D  61
+           D
+Sbjct  61  D  61
+
+
+>WP_018677399.1 DNA gyrase inhibitor YacG [Acinetobacter tjernbergiae]
+Length=63
+
+ Score = 108 bits (269),  Expect = 7e-030, Method: Compositional matrix adjust.
+ Identities = 52/64 (81%), Positives = 55/64 (86%), Gaps = 1/64 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGE S WE NEFRPFCSERCKLIDLGAWA+DEY++PTQDAPQ     Q ED
+Sbjct  1   MPRTFPCPRCGEASTWEANEFRPFCSERCKLIDLGAWASDEYKVPTQDAPQAGLQRQ-ED  59
+
+Query  61  DYED  64
+           DYED
+Sbjct  60  DYED  63
+
+
+>WP_086195257.1 DNA gyrase inhibitor YacG [Acinetobacter sp. ANC 4218]
+Length=61
+
+ Score = 107 bits (268),  Expect = 8e-030, Method: Compositional matrix adjust.
+ Identities = 47/60 (78%), Positives = 54/60 (90%), Gaps = 0/60 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCG+PS WEGNEFRPFCSERCK+IDLGAWA+DEY+LPTQDAPQ D   + ++
+Sbjct  1   MPRTFPCPRCGKPSTWEGNEFRPFCSERCKMIDLGAWASDEYKLPTQDAPQADNSGEQDE  60
+
+
+>WP_004649968.1 DNA gyrase inhibitor YacG [Acinetobacter bohemicus]
+Length=61
+
+ Score = 107 bits (268),  Expect = 1e-029, Method: Compositional matrix adjust.
+ Identities = 50/62 (81%), Positives = 55/62 (89%), Gaps = 1/62 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCG+ S WEGNEFRPFCSERCK+IDLGAWANDEY+LPTQDAPQ D G + ED
+Sbjct  1   MPRTFPCPRCGDVSTWEGNEFRPFCSERCKMIDLGAWANDEYKLPTQDAPQAD-GGREED  59
+
+Query  61  DY  62
+            +
+Sbjct  60  QF  61
+
+
+>WP_005001271.1 DNA gyrase inhibitor YacG [Acinetobacter ursingii]
+Length=62
+
+ Score = 107 bits (268),  Expect = 1e-029, Method: Compositional matrix adjust.
+ Identities = 50/63 (79%), Positives = 56/63 (89%), Gaps = 2/63 (3%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWAN++Y+L TQDAP  + G  H +
+Sbjct  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANEDYKLQTQDAPTSENG--HPN  58
+
+Query  61  DYE  63
+           DY+
+Sbjct  59  DYD  61
+
+
+>WP_086174058.1 DNA gyrase inhibitor YacG [Acinetobacter sp. ANC 3903]
+Length=61
+
+ Score = 107 bits (266),  Expect = 2e-029, Method: Compositional matrix adjust.
+ Identities = 46/60 (77%), Positives = 54/60 (90%), Gaps = 0/60 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCG+P+ WEGNEFRPFCSERCK+IDLGAWA+DEY+LPTQDAPQ D   + ++
+Sbjct  1   MPRTFPCPRCGKPTTWEGNEFRPFCSERCKMIDLGAWASDEYKLPTQDAPQADNSGEQDE  60
+
+
+>WP_045796692.1 DNA gyrase inhibitor YacG [Acinetobacter indicus]
+Length=57
+
+ Score = 107 bits (266),  Expect = 2e-029, Method: Compositional matrix adjust.
+ Identities = 49/54 (91%), Positives = 50/54 (93%), Gaps = 0/54 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDK  54
+           MPRTFPCPRCGEPS WEGNEFRPFCSERCKLIDLGAWA+DEYRLPTQDAP  D 
+Sbjct  1   MPRTFPCPRCGEPSAWEGNEFRPFCSERCKLIDLGAWASDEYRLPTQDAPSVDN  54
+
+
+>WP_004991521.1 MULTISPECIES: DNA gyrase inhibitor YacG [Acinetobacter]
+Length=62
+
+ Score = 106 bits (265),  Expect = 2e-029, Method: Compositional matrix adjust.
+ Identities = 48/61 (79%), Positives = 55/61 (90%), Gaps = 0/61 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWAN++Y+L TQDAP  + G+ ++ 
+Sbjct  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANEDYKLQTQDAPTSENGNPYDY  60
+
+Query  61  D  61
+           D
+Sbjct  61  D  61
+
+
+>WP_005061152.1 DNA gyrase inhibitor YacG [Acinetobacter beijerinckii]
+Length=63
+
+ Score = 106 bits (265),  Expect = 3e-029, Method: Compositional matrix adjust.
+ Identities = 52/64 (81%), Positives = 54/64 (84%), Gaps = 1/64 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGE S WE N FRPFCSERCKLIDLGAWA+DEY+LPTQDAPQ     Q ED
+Sbjct  1   MPRTFPCPRCGEASTWEDNAFRPFCSERCKLIDLGAWASDEYKLPTQDAPQAGDKRQ-ED  59
+
+Query  61  DYED  64
+           DYED
+Sbjct  60  DYED  63
+
+
+>WP_086202366.1 DNA gyrase inhibitor YacG [Acinetobacter sp. ANC 4999]
+Length=59
+
+ Score = 105 bits (262),  Expect = 6e-029, Method: Compositional matrix adjust.
+ Identities = 48/60 (80%), Positives = 55/60 (92%), Gaps = 1/60 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCG+P+ WE NEFRPFCSERCKLIDLGAWAND+Y+LPTQDAPQ D  S+++D
+Sbjct  1   MPRTFPCPRCGQPTTWENNEFRPFCSERCKLIDLGAWANDDYKLPTQDAPQADT-SEYDD  59
+
+
+>WP_086183891.1 DNA gyrase inhibitor YacG [Acinetobacter sp. ANC 4973]
+Length=61
+
+ Score = 105 bits (262),  Expect = 8e-029, Method: Compositional matrix adjust.
+ Identities = 49/62 (79%), Positives = 54/62 (87%), Gaps = 1/62 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MP TFPCPRCG+ S WEGNEFRPFCSERCK+IDLGAWANDEY+LPTQDAPQ D G + ED
+Sbjct  1   MPHTFPCPRCGDLSTWEGNEFRPFCSERCKMIDLGAWANDEYKLPTQDAPQAD-GGREED  59
+
+Query  61  DY  62
+            +
+Sbjct  60  QF  61
+
+
+>WP_053578887.1 DNA gyrase inhibitor YacG [Acinetobacter sp. TTH0-4]
+Length=61
+
+ Score = 105 bits (262),  Expect = 8e-029, Method: Compositional matrix adjust.
+ Identities = 49/62 (79%), Positives = 54/62 (87%), Gaps = 1/62 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCG+PS W+ NEFRPFCSERCK+IDLGAWANDEY LPTQDAPQ D G + ED
+Sbjct  1   MPRTFPCPRCGKPSTWQDNEFRPFCSERCKIIDLGAWANDEYTLPTQDAPQAD-GGREED  59
+
+Query  61  DY  62
+            +
+Sbjct  60  QF  61
+
+
+>WP_034594877.1 DNA gyrase inhibitor YacG [Acinetobacter sp. NIPH 298]
+Length=63
+
+ Score = 105 bits (262),  Expect = 8e-029, Method: Compositional matrix adjust.
+ Identities = 48/64 (75%), Positives = 56/64 (88%), Gaps = 1/64 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGE S WEGN FRPFCSERCK+IDLGAWA+DEY++PTQ++PQ D   + ED
+Sbjct  1   MPRTFPCPRCGEASTWEGNAFRPFCSERCKMIDLGAWASDEYKIPTQESPQADV-KRGED  59
+
+Query  61  DYED  64
+           +YED
+Sbjct  60  EYED  63
+
+
+>WP_086165115.1 DNA gyrase inhibitor YacG [Acinetobacter sp. ANC 4654]
+Length=61
+
+ Score = 105 bits (262),  Expect = 8e-029, Method: Compositional matrix adjust.
+ Identities = 49/62 (79%), Positives = 54/62 (87%), Gaps = 1/62 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCG+ S WEGNEFRPFCSERCK+IDLGAWA DEY+LPTQDAPQ D G + ED
+Sbjct  1   MPRTFPCPRCGDLSTWEGNEFRPFCSERCKMIDLGAWAKDEYKLPTQDAPQAD-GGREED  59
+
+Query  61  DY  62
+            +
+Sbjct  60  QF  61
+
+
+>WP_004674482.1 DNA gyrase inhibitor YacG [Acinetobacter parvus]
+Length=63
+
+ Score = 104 bits (260),  Expect = 1e-028, Method: Compositional matrix adjust.
+ Identities = 49/64 (77%), Positives = 54/64 (84%), Gaps = 1/64 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGE S+WE NEFRPFCSERCK+IDLGAWA+DEY + TQD PQ D   + ED
+Sbjct  1   MPRTFPCPRCGEASLWENNEFRPFCSERCKMIDLGAWASDEYSIATQDTPQADV-KRDED  59
+
+Query  61  DYED  64
+           DYED
+Sbjct  60  DYED  63
+
+
+>WP_004975985.1 DNA gyrase inhibitor YacG [Acinetobacter towneri]
+Length=57
+
+ Score = 104 bits (259),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 48/57 (84%), Positives = 50/57 (88%), Gaps = 0/57 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQ  57
+           MPRTFPCPRCGEPS WE N FRPFCSERCKLIDLGAWANDEYRLPTQDAPQ +   +
+Sbjct  1   MPRTFPCPRCGEPSQWENNPFRPFCSERCKLIDLGAWANDEYRLPTQDAPQAENSEE  57
+
+
+>WP_005051146.1 DNA gyrase inhibitor YacG [Acinetobacter beijerinckii]
+Length=63
+
+ Score = 104 bits (260),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/64 (80%), Positives = 53/64 (83%), Gaps = 1/64 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGE S WE N FRPFCSE CKLIDLGAWA+DEY+LPTQDAPQ     Q ED
+Sbjct  1   MPRTFPCPRCGEASTWEDNAFRPFCSESCKLIDLGAWASDEYKLPTQDAPQAGDKRQ-ED  59
+
+Query  61  DYED  64
+           DYED
+Sbjct  60  DYED  63
+
+
+>WP_004668468.1 DNA gyrase inhibitor YacG [Acinetobacter sp. CIP-A165]
+Length=65
+
+ Score = 103 bits (257),  Expect = 5e-028, Method: Compositional matrix adjust.
+ Identities = 47/63 (75%), Positives = 55/63 (87%), Gaps = 1/63 (2%)
+
+Query  2   PRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHEDD  61
+           PRTFPCPRCGE S WEGN FRPFCSERCK+IDLGAWA+DEY++PTQ++PQ D   + ED+
+Sbjct  4   PRTFPCPRCGEASTWEGNAFRPFCSERCKMIDLGAWASDEYKIPTQESPQADV-KRGEDE  62
+
+Query  62  YED  64
+           YED
+Sbjct  63  YED  65
+
+
+>WP_045794382.1 DNA gyrase inhibitor YacG [Acinetobacter brisouii]
+Length=61
+
+ Score = 103 bits (256),  Expect = 6e-028, Method: Compositional matrix adjust.
+ Identities = 49/62 (79%), Positives = 55/62 (89%), Gaps = 1/62 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGEPS WE N +RPFCSERCKLIDLGAWAN++YRLPTQDAPQ D  SQ +D
+Sbjct  1   MPRTFPCPRCGEPSQWEDNPYRPFCSERCKLIDLGAWANEDYRLPTQDAPQSDI-SQQDD  59
+
+Query  61  DY  62
+           ++
+Sbjct  60  EF  61
+
+
+>WP_004749790.1 MULTISPECIES: DNA gyrase inhibitor YacG [Acinetobacter]
+Length=61
+
+ Score = 102 bits (253),  Expect = 1e-027, Method: Compositional matrix adjust.
+ Identities = 48/62 (77%), Positives = 55/62 (89%), Gaps = 1/62 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCGEPS WE N +RPFCSERCKLIDLGAWAN++YRLPTQD+PQ D  SQ +D
+Sbjct  1   MPRTFPCPRCGEPSQWEDNPYRPFCSERCKLIDLGAWANEDYRLPTQDSPQSDI-SQQDD  59
+
+Query  61  DY  62
+           ++
+Sbjct  60  EF  61
+
+
+>WP_086209648.1 DNA gyrase inhibitor YacG [Acinetobacter sp. ANC 4204]
+Length=57
+
+ Score = 101 bits (252),  Expect = 2e-027, Method: Compositional matrix adjust.
+ Identities = 47/57 (82%), Positives = 48/57 (84%), Gaps = 0/57 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQ  57
+           MP TFPCPRCGE S WE N FRPFCSERCKLIDLGAWANDEYRLPTQDAPQ D   +
+Sbjct  1   MPHTFPCPRCGEMSQWEDNAFRPFCSERCKLIDLGAWANDEYRLPTQDAPQADNSEE  57
+
+
+>WP_067666935.1 zinc-binding protein [Acinetobacter sp. ANC 4149]
+Length=61
+
+ Score = 101 bits (251),  Expect = 3e-027, Method: Compositional matrix adjust.
+ Identities = 44/59 (75%), Positives = 52/59 (88%), Gaps = 0/59 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHE  59
+           MP T  CPRCGE +VWEGNE+RPFCSERCK+IDLGAWAN++Y+LPTQDAPQ D GS+ +
+Sbjct  1   MPTTLNCPRCGELTVWEGNEYRPFCSERCKMIDLGAWANEDYKLPTQDAPQADGGSEED  59
+
+
+>WP_016168349.1 DNA gyrase inhibitor YacG [Acinetobacter tandoii]
+Length=57
+
+ Score = 101 bits (251),  Expect = 4e-027, Method: Compositional matrix adjust.
+ Identities = 44/57 (77%), Positives = 50/57 (88%), Gaps = 0/57 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQ  57
+           MP+TF CPRCG+PS WEGN +RPFCSERCKLIDLGAWANDEY+LPTQDAPQ +   +
+Sbjct  1   MPKTFACPRCGKPSTWEGNPYRPFCSERCKLIDLGAWANDEYKLPTQDAPQAENSEE  57
+
+
+>WP_019836038.1 DNA gyrase inhibitor YacG [Acinetobacter sp. MDS7A]
+Length=57
+
+ Score = 100 bits (249),  Expect = 6e-027, Method: Compositional matrix adjust.
+ Identities = 46/57 (81%), Positives = 49/57 (86%), Gaps = 0/57 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQ  57
+           MPRTFPCPRCGE + WE N FRPFCSERCKLIDLGAWANDEYRLPTQDAPQ +   +
+Sbjct  1   MPRTFPCPRCGESTQWEDNPFRPFCSERCKLIDLGAWANDEYRLPTQDAPQAENSEE  57
+
+
+>WP_004932603.1 MULTISPECIES: DNA gyrase inhibitor YacG [Acinetobacter]
+Length=62
+
+ Score = 100 bits (249),  Expect = 7e-027, Method: Compositional matrix adjust.
+ Identities = 45/64 (70%), Positives = 56/64 (88%), Gaps = 2/64 (3%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCG+PS WE N FRPFCSERCKLIDLGAWA+++Y++PTQD+P  ++  +H D
+Sbjct  1   MPRTFPCPRCGQPSHWENNPFRPFCSERCKLIDLGAWASEDYKIPTQDSPSSEQ--KHPD  58
+
+Query  61  DYED  64
+           DY+D
+Sbjct  59  DYDD  62
+
+
+>WP_004943887.1 DNA gyrase inhibitor YacG [Acinetobacter soli]
+Length=62
+
+ Score = 100 bits (249),  Expect = 7e-027, Method: Compositional matrix adjust.
+ Identities = 45/64 (70%), Positives = 56/64 (88%), Gaps = 2/64 (3%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCG+PS WE N FRPFCSERCKLIDLGAWA+++Y++PTQD+P  ++  +H D
+Sbjct  1   MPRTFPCPRCGQPSHWENNPFRPFCSERCKLIDLGAWASEDYKIPTQDSPSSEQ--KHLD  58
+
+Query  61  DYED  64
+           DY+D
+Sbjct  59  DYDD  62
+
+
+>WP_004692619.1 MULTISPECIES: DNA gyrase inhibitor YacG [Acinetobacter]
+Length=57
+
+ Score = 100 bits (248),  Expect = 9e-027, Method: Compositional matrix adjust.
+ Identities = 46/57 (81%), Positives = 48/57 (84%), Gaps = 0/57 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQ  57
+           MP TFPCPRCGE S WE N FRPFCSERCKLIDLGAWANDEYRLPTQDAPQ +   +
+Sbjct  1   MPHTFPCPRCGEMSQWEDNAFRPFCSERCKLIDLGAWANDEYRLPTQDAPQAENSEE  57
+
+
+>WP_086205054.1 DNA gyrase inhibitor YacG [Acinetobacter sp. ANC 4648]
+Length=59
+
+ Score = 100 bits (248),  Expect = 1e-026, Method: Compositional matrix adjust.
+ Identities = 46/60 (77%), Positives = 52/60 (87%), Gaps = 1/60 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCG+ + WE NEFRPFCS+RCKLIDLGAWANDEY LPTQDAP  D  S+++D
+Sbjct  1   MPRTFPCPRCGQQTTWENNEFRPFCSDRCKLIDLGAWANDEYTLPTQDAPAADT-SEYDD  59
+
+
+>WP_004816790.1 MULTISPECIES: DNA gyrase inhibitor YacG [Acinetobacter]
+Length=55
+
+ Score = 99.4 bits (246),  Expect = 1e-026, Method: Compositional matrix adjust.
+ Identities = 44/53 (83%), Positives = 48/53 (91%), Gaps = 0/53 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQD  53
+           M +TFPCPRCGEPS WEGNEFRPFCSERCKLIDLGAWAN +Y LPT+DAPQ +
+Sbjct  1   MSKTFPCPRCGEPSTWEGNEFRPFCSERCKLIDLGAWANGDYTLPTEDAPQAE  53
+
+
+>WP_004725583.1 MULTISPECIES: DNA gyrase inhibitor YacG [Acinetobacter]
+Length=55
+
+ Score = 99.4 bits (246),  Expect = 2e-026, Method: Compositional matrix adjust.
+ Identities = 45/53 (85%), Positives = 47/53 (89%), Gaps = 0/53 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQD  53
+           M +TFPCPRCGEPS WEGNE RPFCSERCKLIDLGAWANDEY LPT DAPQ +
+Sbjct  1   MSKTFPCPRCGEPSTWEGNESRPFCSERCKLIDLGAWANDEYTLPTDDAPQAE  53
+
+
+>WP_039620876.1 DNA gyrase inhibitor YacG [Acinetobacter harbinensis]
+Length=57
+
+ Score = 99.4 bits (246),  Expect = 2e-026, Method: Compositional matrix adjust.
+ Identities = 43/57 (75%), Positives = 50/57 (88%), Gaps = 0/57 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQ  57
+           MPRTFPCPRCG+PS WE N+FRPFCSERCK+IDLGAWA+D+Y+LPTQ APQ D   +
+Sbjct  1   MPRTFPCPRCGQPSTWEDNDFRPFCSERCKMIDLGAWASDQYKLPTQGAPQADNSEE  57
+
+
+>WP_086189661.1 DNA gyrase inhibitor YacG [Acinetobacter sp. ANC 3832]
+Length=59
+
+ Score = 99.4 bits (246),  Expect = 2e-026, Method: Compositional matrix adjust.
+ Identities = 43/53 (81%), Positives = 49/53 (92%), Gaps = 0/53 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQD  53
+           MPRTFPCPRCG+ S WEGN++RPFCSERCK+IDLGAWA+DEY LPT+DAPQ D
+Sbjct  1   MPRTFPCPRCGQKSTWEGNDYRPFCSERCKIIDLGAWASDEYALPTEDAPQAD  53
+
+
+>WP_086212990.1 DNA gyrase inhibitor YacG [Acinetobacter sp. ANC 3813]
+Length=62
+
+ Score = 99.0 bits (245),  Expect = 3e-026, Method: Compositional matrix adjust.
+ Identities = 43/59 (73%), Positives = 51/59 (86%), Gaps = 0/59 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHE  59
+           MP T  CPRCGE +VWE NE+RPFCSERCK+IDLGAWAN++Y+LPTQDAPQ D GS+ +
+Sbjct  1   MPTTLNCPRCGELTVWEDNEYRPFCSERCKMIDLGAWANEDYKLPTQDAPQADAGSEDD  59
+
+
+>WP_086177032.1 DNA gyrase inhibitor YacG [Acinetobacter sp. ANC 5054]
+Length=61
+
+ Score = 98.6 bits (244),  Expect = 5e-026, Method: Compositional matrix adjust.
+ Identities = 46/62 (74%), Positives = 51/62 (82%), Gaps = 1/62 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MP T  CPRCG+ + WE NE+RPFCSERCK+IDLGAWANDEYRLPTQDAPQ D G + ED
+Sbjct  1   MPTTTNCPRCGKLTTWENNEYRPFCSERCKVIDLGAWANDEYRLPTQDAPQAD-GGREED  59
+
+Query  61  DY  62
+            Y
+Sbjct  60  QY  61
+
+
+>WP_034587880.1 DNA gyrase inhibitor YacG [Acinetobacter sp. HR7]
+Length=61
+
+ Score = 98.2 bits (243),  Expect = 6e-026, Method: Compositional matrix adjust.
+ Identities = 46/62 (74%), Positives = 50/62 (81%), Gaps = 1/62 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MP T  CPRCGE + WE N FRPFCSERCKLID GAWAN+EY+LPTQDAPQ D GS+ ED
+Sbjct  1   MPTTLTCPRCGELTTWEDNAFRPFCSERCKLIDFGAWANEEYKLPTQDAPQADGGSE-ED  59
+
+Query  61  DY  62
+            Y
+Sbjct  60  QY  61
+
+
+>WP_055414938.1 DNA gyrase inhibitor YacG [Acinetobacter soli]
+Length=62
+
+ Score = 98.2 bits (243),  Expect = 6e-026, Method: Compositional matrix adjust.
+ Identities = 44/64 (69%), Positives = 55/64 (86%), Gaps = 2/64 (3%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MPRTFPCPRCG+ S WE N FRPFCSERCKLIDLGAWA+++Y++PTQD+P  ++  +H D
+Sbjct  1   MPRTFPCPRCGQSSHWENNPFRPFCSERCKLIDLGAWASEDYKIPTQDSPSSEQ--KHPD  58
+
+Query  61  DYED  64
+           DY+D
+Sbjct  59  DYDD  62
+
+
+>WP_068885569.1 zinc-binding protein [Acinetobacter celticus]
+Length=59
+
+ Score = 97.8 bits (242),  Expect = 7e-026, Method: Compositional matrix adjust.
+ Identities = 43/59 (73%), Positives = 49/59 (83%), Gaps = 0/59 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHE  59
+           MP T  CPRCG+ + WE NE+RPFCSERCKLIDLGAWA+DEY LPTQDAPQ D GS ++
+Sbjct  1   MPTTLICPRCGKTTTWENNEYRPFCSERCKLIDLGAWASDEYALPTQDAPQADHGSDND  59
+
+
+>WP_065994043.1 zinc-binding protein [Acinetobacter sp. WCHA30]
+Length=57
+
+ Score = 97.4 bits (241),  Expect = 1e-025, Method: Compositional matrix adjust.
+ Identities = 43/55 (78%), Positives = 49/55 (89%), Gaps = 0/55 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKG  55
+           MPRTFPCPRCGE S WE NEFRPFCS+RCKLIDLGAWAN++Y+LPT+DAP  + G
+Sbjct  1   MPRTFPCPRCGEASTWENNEFRPFCSDRCKLIDLGAWANEDYKLPTEDAPPAEDG  55
+
+
+>WP_005016860.1 MULTISPECIES: DNA gyrase inhibitor YacG [Acinetobacter]
+Length=61
+
+ Score = 97.4 bits (241),  Expect = 1e-025, Method: Compositional matrix adjust.
+ Identities = 44/59 (75%), Positives = 52/59 (88%), Gaps = 1/59 (2%)
+
+Query  3   RTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHEDD  61
+           RTFPCPRCG+P+ WE NEFRPFCSERCK+IDLGAWAN+EYR+PTQD+P + + S  EDD
+Sbjct  4   RTFPCPRCGKPATWENNEFRPFCSERCKMIDLGAWANEEYRVPTQDSPSR-QDSSFEDD  61
+
+
+>WP_078189771.1 DNA gyrase inhibitor YacG [Acinetobacter sp. ANC 4945]
+Length=61
+
+ Score = 97.1 bits (240),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 43/59 (73%), Positives = 48/59 (81%), Gaps = 0/59 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHE  59
+           MP T  CPRCG  + WE NE+RPFCS+RCKLIDLGAWANDEYRLPTQDAPQ D G + +
+Sbjct  1   MPTTMNCPRCGALTTWENNEYRPFCSDRCKLIDLGAWANDEYRLPTQDAPQADGGREED  59
+
+
+>WP_067764029.1 MULTISPECIES: zinc-binding protein [Acinetobacter]
+Length=61
+
+ Score = 96.7 bits (239),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 43/59 (73%), Positives = 49/59 (83%), Gaps = 0/59 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHE  59
+           MP T  CPRCG+ + WE NE+RPFCS+RCKLIDLGAWANDEYRLPTQDAPQ D G + +
+Sbjct  1   MPTTMNCPRCGKLTTWEDNEYRPFCSDRCKLIDLGAWANDEYRLPTQDAPQADGGREED  59
+
+
+>WP_004869715.1 DNA gyrase inhibitor YacG [Acinetobacter gerneri]
+Length=57
+
+ Score = 95.9 bits (237),  Expect = 4e-025, Method: Compositional matrix adjust.
+ Identities = 42/53 (79%), Positives = 48/53 (91%), Gaps = 0/53 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQD  53
+           MP TFPCPRCGE + WEGNE+RPFCS+RCKLIDLGAWA+ EY+LPT+DAPQ D
+Sbjct  1   MPHTFPCPRCGELTTWEGNEYRPFCSDRCKLIDLGAWASGEYKLPTEDAPQVD  53
+
+
+>WP_068909744.1 zinc-binding protein [Acinetobacter sp. WCHA34]
+Length=61
+
+ Score = 95.9 bits (237),  Expect = 4e-025, Method: Compositional matrix adjust.
+ Identities = 44/57 (77%), Positives = 47/57 (82%), Gaps = 0/57 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQ  57
+           MP T  CPRCG+ + WE N  RPFCSERCKLIDLGAWANDEYRLPTQDAPQ + GSQ
+Sbjct  1   MPTTLACPRCGDLTAWENNPCRPFCSERCKLIDLGAWANDEYRLPTQDAPQAEAGSQ  57
+
+
+>WP_004890428.1 DNA gyrase inhibitor YacG [Acinetobacter schindleri]
+Length=61
+
+ Score = 95.9 bits (237),  Expect = 4e-025, Method: Compositional matrix adjust.
+ Identities = 43/62 (69%), Positives = 50/62 (81%), Gaps = 1/62 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MP T  CPRCG  + WEGN FRPFCSERCK+IDLGAWAN++Y+LPTQDAPQ D G + ED
+Sbjct  1   MPTTLKCPRCGALTTWEGNAFRPFCSERCKMIDLGAWANEDYKLPTQDAPQAD-GGREED  59
+
+Query  61  DY  62
+            +
+Sbjct  60  QF  61
+
+
+>WP_010111830.1 DNA gyrase inhibitor YacG [Acinetobacter sp. P8-3-8]
+Length=55
+
+ Score = 95.9 bits (237),  Expect = 4e-025, Method: Compositional matrix adjust.
+ Identities = 40/53 (75%), Positives = 49/53 (92%), Gaps = 0/53 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQD  53
+           M ++FPCPRCG P+ WE NEFRPFCSERCKLIDLGAWAN++Y+LPT+DAPQ++
+Sbjct  1   MTKSFPCPRCGTPTTWENNEFRPFCSERCKLIDLGAWANEDYKLPTEDAPQEE  53
+
+
+>WP_070154419.1 DNA gyrase inhibitor YacG [Acinetobacter towneri]
+Length=57
+
+ Score = 95.9 bits (237),  Expect = 4e-025, Method: Compositional matrix adjust.
+ Identities = 44/57 (77%), Positives = 48/57 (84%), Gaps = 0/57 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQ  57
+           MPRTFPCPRCGE + WE N FRPFCSERCKLIDLGAWA+DEYRL TQDAPQ +   +
+Sbjct  1   MPRTFPCPRCGESTQWEDNPFRPFCSERCKLIDLGAWASDEYRLLTQDAPQAENSEE  57
+
+
+>WP_054580344.1 DNA gyrase inhibitor YacG [Acinetobacter equi]
+Length=61
+
+ Score = 95.9 bits (237),  Expect = 5e-025, Method: Compositional matrix adjust.
+ Identities = 41/59 (69%), Positives = 49/59 (83%), Gaps = 0/59 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHE  59
+           MP T  CPRCG+ + WE N++RPFCS+RCKLIDLGAWANDEY+LPTQDAPQ D G + +
+Sbjct  1   MPTTLTCPRCGKLTTWENNDYRPFCSDRCKLIDLGAWANDEYKLPTQDAPQADGGREED  59
+
+
+>WP_067728144.1 zinc-binding protein [Acinetobacter sp. NCu2D-2]
+Length=61
+
+ Score = 95.1 bits (235),  Expect = 9e-025, Method: Compositional matrix adjust.
+ Identities = 41/59 (69%), Positives = 49/59 (83%), Gaps = 0/59 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHE  59
+           MP T  CPRCG+ + WE N +RPFCSERCK+IDLGAWAN+EY+LPTQDAPQ D GS+ +
+Sbjct  1   MPTTLNCPRCGDLTTWEDNAYRPFCSERCKMIDLGAWANEEYKLPTQDAPQADGGSEED  59
+
+
+>WP_004278554.1 MULTISPECIES: DNA gyrase inhibitor YacG [Acinetobacter]
+Length=57
+
+ Score = 93.6 bits (231),  Expect = 3e-024, Method: Compositional matrix adjust.
+ Identities = 41/57 (72%), Positives = 46/57 (81%), Gaps = 0/57 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQ  57
+           MP T  CPRCG+ + WE NEFRPFCSERCK+IDLGAWAN+EY LPTQDAPQ D   +
+Sbjct  1   MPTTLNCPRCGKLTTWEDNEFRPFCSERCKMIDLGAWANEEYSLPTQDAPQADNSEE  57
+
+
+>WP_016657660.1 DNA gyrase inhibitor YacG [Acinetobacter rudis]
+Length=57
+
+ Score = 93.6 bits (231),  Expect = 4e-024, Method: Compositional matrix adjust.
+ Identities = 40/54 (74%), Positives = 49/54 (91%), Gaps = 0/54 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDK  54
+           M RTFPCPRCG+ S W+ NEFRPFCS+RCKLIDLGAWA+++Y+LPT+DAPQ D+
+Sbjct  1   MSRTFPCPRCGQASTWKDNEFRPFCSDRCKLIDLGAWASEDYKLPTEDAPQADQ  54
+
+
+>WP_086182956.1 DNA gyrase inhibitor YacG [Acinetobacter sp. ANC 4558]
+Length=61
+
+ Score = 93.6 bits (231),  Expect = 4e-024, Method: Compositional matrix adjust.
+ Identities = 42/59 (71%), Positives = 47/59 (80%), Gaps = 0/59 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHE  59
+           MP T  CPRCGE + WE NE RPFCSERCKLID GAWA +EY+LPTQDAPQ D GS+ +
+Sbjct  1   MPTTLNCPRCGELTTWEQNESRPFCSERCKLIDFGAWAKEEYKLPTQDAPQADGGSEED  59
+
+
+>WP_004813427.1 MULTISPECIES: DNA gyrase inhibitor YacG [Acinetobacter]
+Length=61
+
+ Score = 92.8 bits (229),  Expect = 7e-024, Method: Compositional matrix adjust.
+ Identities = 42/62 (68%), Positives = 49/62 (79%), Gaps = 1/62 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           MP T  CPRCG  + WE N FRPFCSERCK+IDLGAWAN++Y+LPTQDAPQ D G + ED
+Sbjct  1   MPTTLKCPRCGALTTWEDNAFRPFCSERCKMIDLGAWANEDYKLPTQDAPQAD-GGREED  59
+
+Query  61  DY  62
+            +
+Sbjct  60  QF  61
+
+
+>WP_076752973.1 DNA gyrase inhibitor YacG [Acinetobacter schindleri]
+Length=61
+
+ Score = 92.8 bits (229),  Expect = 7e-024, Method: Compositional matrix adjust.
+ Identities = 40/59 (68%), Positives = 47/59 (80%), Gaps = 0/59 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHE  59
+           MP T  CPRCG  + WE N FRPFCSERCK+IDLGAWAN++Y+LPTQDAPQ D G + +
+Sbjct  1   MPTTLKCPRCGALTTWEDNAFRPFCSERCKMIDLGAWANEDYKLPTQDAPQADGGREKD  59
+
+
+>WP_068975276.1 zinc-binding protein [Acinetobacter sp. WCHA60]
+Length=55
+
+ Score = 92.4 bits (228),  Expect = 9e-024, Method: Compositional matrix adjust.
+ Identities = 38/53 (72%), Positives = 49/53 (92%), Gaps = 0/53 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQD  53
+           MP++FPCPRCGE + WE NEFRPFCS+RCKLIDLGAWAN++Y+LPT+D+P ++
+Sbjct  1   MPKSFPCPRCGEATTWENNEFRPFCSDRCKLIDLGAWANEDYKLPTEDSPPEE  53
+
+
+>WP_067661754.1 zinc-binding protein [Acinetobacter sp. TGL-Y2]
+Length=59
+
+ Score = 92.4 bits (228),  Expect = 9e-024, Method: Compositional matrix adjust.
+ Identities = 40/54 (74%), Positives = 46/54 (85%), Gaps = 0/54 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDK  54
+           M + FPCPRCG PS W  NEFRPFCSERCKLIDLGAWANDEY LPT+D+P +++
+Sbjct  1   MSKNFPCPRCGLPSTWTDNEFRPFCSERCKLIDLGAWANDEYTLPTEDSPHENE  54
+
+
+>WP_023273002.1 DNA gyrase inhibitor YacG [Acinetobacter nectaris]
+Length=60
+
+ Score = 92.0 bits (227),  Expect = 2e-023, Method: Compositional matrix adjust.
+ Identities = 43/60 (72%), Positives = 49/60 (82%), Gaps = 1/60 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           M R  PCPRCGEP+ W+ N FRPFCSERCK+IDLGAWAN+ YRLPTQDAPQ +  S+ ED
+Sbjct  1   MTRYIPCPRCGEPAKWQDNAFRPFCSERCKMIDLGAWANETYRLPTQDAPQSEL-SREED  59
+
+
+>WP_005095374.1 MULTISPECIES: DNA gyrase inhibitor YacG [Acinetobacter]
+Length=57
+
+ Score = 91.7 bits (226),  Expect = 2e-023, Method: Compositional matrix adjust.
+ Identities = 40/55 (73%), Positives = 45/55 (82%), Gaps = 0/55 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKG  55
+           MP T  CPRCG+ + WE N+FRPFCSERCK+IDLGAWAN+EY LPTQDAPQ D  
+Sbjct  1   MPTTLNCPRCGKLTTWEENDFRPFCSERCKMIDLGAWANEEYSLPTQDAPQADTS  55
+
+
+>WP_005245864.1 MULTISPECIES: DNA gyrase inhibitor YacG [Acinetobacter]
+Length=57
+
+ Score = 91.3 bits (225),  Expect = 3e-023, Method: Compositional matrix adjust.
+ Identities = 39/57 (68%), Positives = 46/57 (81%), Gaps = 0/57 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQ  57
+           MP T  CPRCG+ + WE N++RPFCSERCK+IDLGAWAN+EY LPTQDAPQ D   +
+Sbjct  1   MPTTLNCPRCGKLTTWEDNDYRPFCSERCKMIDLGAWANEEYSLPTQDAPQADNSEE  57
+
+
+>WP_005267541.1 MULTISPECIES: DNA gyrase inhibitor YacG [Acinetobacter]
+Length=57
+
+ Score = 90.9 bits (224),  Expect = 4e-023, Method: Compositional matrix adjust.
+ Identities = 39/57 (68%), Positives = 46/57 (81%), Gaps = 0/57 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQ  57
+           MP T  CPRCG+ + WE N++RPFCSERCK+IDLGAWAN+EY LPTQDAPQ D   +
+Sbjct  1   MPTTLNCPRCGKLATWEDNDYRPFCSERCKMIDLGAWANEEYSLPTQDAPQADNSEE  57
+
+
+>WP_005232444.1 DNA gyrase inhibitor YacG [Acinetobacter sp. NIPH 2171]
+Length=58
+
+ Score = 89.7 bits (221),  Expect = 1e-022, Method: Compositional matrix adjust.
+ Identities = 38/57 (67%), Positives = 45/57 (79%), Gaps = 0/57 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQ  57
+           M  T  CPRCG+ + WE NEFRPFCSERCK+IDLGAWAN+EY+LPTQDAP  +   +
+Sbjct  1   MLTTLKCPRCGKLTTWENNEFRPFCSERCKMIDLGAWANEEYKLPTQDAPAAESSEE  57
+
+
+>WP_034704814.1 DNA gyrase inhibitor YacG [Acinetobacter baumannii]
+Length=58
+
+ Score = 89.0 bits (219),  Expect = 2e-022, Method: Compositional matrix adjust.
+ Identities = 37/57 (65%), Positives = 45/57 (79%), Gaps = 0/57 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQ  57
+           M  T  CPRCG+ + WE NEFRPFCSERCK+IDLGAWA++EY+LPTQDAP  +   +
+Sbjct  1   MSTTLKCPRCGKLTTWENNEFRPFCSERCKMIDLGAWASEEYKLPTQDAPAAESSKE  57
+
+
+>WP_004781766.1 MULTISPECIES: DNA gyrase inhibitor YacG [Acinetobacter]
+Length=58
+
+ Score = 88.2 bits (217),  Expect = 5e-022, Method: Compositional matrix adjust.
+ Identities = 37/57 (65%), Positives = 45/57 (79%), Gaps = 0/57 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQ  57
+           M  T  CPRCG+ + WE NEFRPFCSERCK+IDLGAWA++EY+LPTQDAP  +   +
+Sbjct  1   MSTTLKCPRCGKLTTWEHNEFRPFCSERCKMIDLGAWASEEYKLPTQDAPAAESSEE  57
+
+
+>WP_005007109.1 DNA gyrase inhibitor YacG [Acinetobacter bouvetii]
+Length=57
+
+ Score = 87.4 bits (215),  Expect = 9e-022, Method: Compositional matrix adjust.
+ Identities = 37/53 (70%), Positives = 44/53 (83%), Gaps = 0/53 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQD  53
+           MP    CPRC E + WE NE+RPFCSERCK+IDLGAWAN++Y+LPTQDAPQ +
+Sbjct  1   MPTLLNCPRCAELTTWEDNEYRPFCSERCKMIDLGAWANEDYKLPTQDAPQAE  53
+
+
+>WP_070069768.1 DNA gyrase inhibitor YacG [Acinetobacter qingfengensis]
+Length=63
+
+ Score = 87.8 bits (216),  Expect = 9e-022, Method: Compositional matrix adjust.
+ Identities = 37/59 (63%), Positives = 46/59 (78%), Gaps = 0/59 (0%)
+
+Query  2   PRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           P+TF CPRCG+PS W  N FRPFCSERCKL+DLGAWAN +Y++PTQD+P  +     +D
+Sbjct  5   PKTFACPRCGQPSTWHDNLFRPFCSERCKLVDLGAWANGDYKIPTQDSPSLNTPEYDQD  63
+
+
+>WP_067551849.1 zinc-binding protein [Acinetobacter larvae]
+Length=58
+
+ Score = 82.8 bits (203),  Expect = 7e-020, Method: Compositional matrix adjust.
+ Identities = 35/56 (63%), Positives = 40/56 (71%), Gaps = 0/56 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGS  56
+           MP    CP C E + W+ N +RPFCSERCKLID GAWAN  Y+LPTQD+PQ D  S
+Sbjct  1   MPTVIQCPHCAEKTTWQDNPYRPFCSERCKLIDFGAWANAAYKLPTQDSPQHDPSS  56
+
+
+>WP_067338052.1 hypothetical protein [Moraxella atlantae]
+Length=73
+
+ Score = 82.4 bits (202),  Expect = 1e-019, Method: Compositional matrix adjust.
+ Identities = 33/53 (62%), Positives = 43/53 (81%), Gaps = 0/53 (0%)
+
+Query  2   PRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDK  54
+           P T+PCPRCG P+VW+ N  +PFCS RCKLIDLGAWA+++Y++  QDAP  D+
+Sbjct  14  PATYPCPRCGTPTVWQNNANKPFCSARCKLIDLGAWASEDYKIAAQDAPFSDE  66
+
+
+>WP_067379133.1 hypothetical protein [Marinobacterium sp. ST58-10]
+Length=80
+
+ Score = 81.6 bits (200),  Expect = 3e-019, Method: Compositional matrix adjust.
+ Identities = 41/63 (65%), Positives = 47/63 (75%), Gaps = 3/63 (5%)
+
+Query  2   PRTFPCPRCGEPSVWEG-NEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           P+T  CP+CG+PSVW   N FRPFCSERCKLIDLG WAN+EYR+PT  AP +D  S   D
+Sbjct  12  PKTIKCPQCGKPSVWSPENSFRPFCSERCKLIDLGTWANEEYRIPT--APSEDDYSTGMD  69
+
+Query  61  DYE  63
+           D E
+Sbjct  70  DDE  72
+
+
+>WP_075100869.1 DNA gyrase inhibitor YacG [Psychrobacter sp. Rd 27.2]
+Length=71
+
+ Score = 81.3 bits (199),  Expect = 4e-019, Method: Compositional matrix adjust.
+ Identities = 32/53 (60%), Positives = 42/53 (79%), Gaps = 0/53 (0%)
+
+Query  2   PRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDK  54
+           P+T+PCPRCG  + W+ N+++PFCS RCKLIDLGAWAN+EY LP +  P  D+
+Sbjct  18  PKTYPCPRCGTQTAWQDNKYKPFCSSRCKLIDLGAWANEEYTLPAETTPFSDE  70
+
+
+>WP_079691719.1 DNA gyrase inhibitor YacG [Psychrobacter sp. DAB_AL43B]
+Length=65
+
+ Score = 80.9 bits (198),  Expect = 5e-019, Method: Compositional matrix adjust.
+ Identities = 32/53 (60%), Positives = 42/53 (79%), Gaps = 0/53 (0%)
+
+Query  2   PRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDK  54
+           PRT+PCPRCG  + W+ N+++PFCS RCKLIDLGAWAN++Y LP +  P  D+
+Sbjct  12  PRTYPCPRCGTQTAWQDNKYKPFCSHRCKLIDLGAWANEDYTLPAESTPFSDE  64
+
+
+>WP_028857990.1 DNA gyrase inhibitor YacG [Psychrobacter phenylpyruvicus]
+Length=69
+
+ Score = 80.5 bits (197),  Expect = 6e-019, Method: Compositional matrix adjust.
+ Identities = 31/52 (60%), Positives = 43/52 (83%), Gaps = 0/52 (0%)
+
+Query  2   PRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQD  53
+           P+T+PCPRC + + W GN ++PFCS+RCKLIDLGAWAN+EYR+  +++P  D
+Sbjct  14  PKTYPCPRCKKATAWHGNPYKPFCSDRCKLIDLGAWANEEYRVAAEESPFSD  65
+
+
+>WP_007393645.1 DNA gyrase inhibitor YacG [Psychrobacter sp. 1501(2011)]
+Length=69
+
+ Score = 80.1 bits (196),  Expect = 9e-019, Method: Compositional matrix adjust.
+ Identities = 32/55 (58%), Positives = 45/55 (82%), Gaps = 0/55 (0%)
+
+Query  3   RTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQ  57
+           +T+PCP C +P+VW+ N ++PFCS+RCKLIDLGAWAN+EYR+  +D+P  D  +Q
+Sbjct  15  KTYPCPNCQKPTVWQDNPYKPFCSDRCKLIDLGAWANEEYRVAAEDSPFSDDFNQ  69
+
+
+>WP_076878651.1 DNA gyrase inhibitor YacG [Alkanindiges sp. H1]
+Length=65
+
+ Score = 79.7 bits (195),  Expect = 1e-018, Method: Compositional matrix adjust.
+ Identities = 37/63 (59%), Positives = 46/63 (73%), Gaps = 1/63 (2%)
+
+Query  2   PRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHEDD  61
+           P TFPCP C +PS+W  N  RPFCSERCKLIDLGAWAN++Y++ +  AP+  +  Q EDD
+Sbjct  4   PVTFPCPHCKKPSLWHDNPSRPFCSERCKLIDLGAWANEDYKIASPTAPELTEH-QSEDD  62
+
+Query  62  YED  64
+             D
+Sbjct  63  LND  65
+
+
+>WP_067298760.1 hypothetical protein [Marinobacterium profundum]
+Length=80
+
+ Score = 80.1 bits (196),  Expect = 1e-018, Method: Compositional matrix adjust.
+ Identities = 40/62 (65%), Positives = 46/62 (74%), Gaps = 3/62 (5%)
+
+Query  3   RTFPCPRCGEPSVWE-GNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHEDD  61
+           +T  CP+CG+PSVW   N FRPFCSERCKLIDLG WAN+EYR+PT  AP +D  S   DD
+Sbjct  13  KTIKCPQCGKPSVWSPENSFRPFCSERCKLIDLGTWANEEYRIPT--APSEDDYSTGMDD  70
+
+Query  62  YE  63
+            E
+Sbjct  71  DE  72
+
+
+>WP_084387292.1 DNA gyrase inhibitor YacG [Psychrobacter alimentarius]
+Length=63
+
+ Score = 79.3 bits (194),  Expect = 2e-018, Method: Compositional matrix adjust.
+ Identities = 31/53 (58%), Positives = 42/53 (79%), Gaps = 0/53 (0%)
+
+Query  2   PRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDK  54
+           P+T+PCPRCG  + W+ N+++PFCS RCKLIDLGAWAN++Y LP +  P  D+
+Sbjct  10  PKTYPCPRCGTQTAWQDNKYKPFCSSRCKLIDLGAWANEDYTLPAETTPFSDE  62
+
+
+>WP_057760289.1 DNA gyrase inhibitor YacG [Psychrobacter sp. P11G3]
+Length=63
+
+ Score = 79.3 bits (194),  Expect = 2e-018, Method: Compositional matrix adjust.
+ Identities = 31/53 (58%), Positives = 42/53 (79%), Gaps = 0/53 (0%)
+
+Query  2   PRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDK  54
+           P+T+PCPRCG  + W+ N+++PFCS RCKLIDLGAWAN++Y LP +  P  D+
+Sbjct  10  PKTYPCPRCGTQTAWQDNKYKPFCSSRCKLIDLGAWANEDYTLPAETTPFSDE  62
+
+
+>WP_010198061.1 DNA gyrase inhibitor YacG [Psychrobacter sp. PAMC 21119]
+Length=63
+
+ Score = 79.3 bits (194),  Expect = 2e-018, Method: Compositional matrix adjust.
+ Identities = 30/53 (57%), Positives = 42/53 (79%), Gaps = 0/53 (0%)
+
+Query  2   PRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDK  54
+           P+T+PCPRCG  + W+ N+++PFCS RCK+IDLGAWAN++Y LP +  P  D+
+Sbjct  10  PKTYPCPRCGTQTAWQDNKYKPFCSSRCKIIDLGAWANEDYTLPAETTPFSDE  62
+
+
+>WP_068035953.1 MULTISPECIES: zinc-binding protein [Psychrobacter]
+Length=63
+
+ Score = 79.3 bits (194),  Expect = 2e-018, Method: Compositional matrix adjust.
+ Identities = 32/54 (59%), Positives = 42/54 (78%), Gaps = 0/54 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDK  54
+            P+T+PCP CG  + W+ N+F+PFCSERCKLIDLGAWAN++Y LP +  P  D+
+Sbjct  9   TPKTYPCPCCGTKTAWQDNKFKPFCSERCKLIDLGAWANEDYSLPAESTPFSDE  62
+
+
+>WP_025652063.1 MULTISPECIES: DNA gyrase inhibitor YacG [Psychrobacter]
+Length=67
+
+ Score = 79.3 bits (194),  Expect = 2e-018, Method: Compositional matrix adjust.
+ Identities = 31/54 (57%), Positives = 43/54 (80%), Gaps = 0/54 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDK  54
+           +P+T+PCP CG  + W+ N+++PFCS+RCKLIDLGAWAN+EY LP +  P  D+
+Sbjct  13  VPKTYPCPCCGTQTAWQDNKYKPFCSDRCKLIDLGAWANEEYTLPAESTPFSDE  66
+
+
+>WP_067055377.1 hypothetical protein [Moraxella atlantae]
+Length=73
+
+ Score = 79.3 bits (194),  Expect = 2e-018, Method: Compositional matrix adjust.
+ Identities = 32/51 (63%), Positives = 41/51 (80%), Gaps = 0/51 (0%)
+
+Query  4   TFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDK  54
+           T PCPRCG P+VW+ N  +PFCS RCKLIDLGAWA+++Y++  QDAP  D+
+Sbjct  16  THPCPRCGTPTVWQNNANKPFCSARCKLIDLGAWASEDYKIAAQDAPFSDE  66
+
+
+>WP_011960663.1 DNA gyrase inhibitor YacG [Psychrobacter sp. PRwf-1]
+Length=68
+
+ Score = 79.0 bits (193),  Expect = 3e-018, Method: Compositional matrix adjust.
+ Identities = 30/49 (61%), Positives = 44/49 (90%), Gaps = 0/49 (0%)
+
+Query  2   PRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAP  50
+           P+++PCP+C + +VW+ N ++PFCS+RCKLIDLGAWAN++Y+LP QD+P
+Sbjct  14  PKSYPCPQCQKLTVWQDNPYKPFCSDRCKLIDLGAWANEDYKLPAQDSP  62
+
+
+>WP_058025847.1 MULTISPECIES: DNA gyrase inhibitor YacG [Psychrobacter]
+Length=63
+
+ Score = 79.0 bits (193),  Expect = 3e-018, Method: Compositional matrix adjust.
+ Identities = 31/53 (58%), Positives = 42/53 (79%), Gaps = 0/53 (0%)
+
+Query  2   PRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDK  54
+           P+T+PCPRCG  + W+ N+++PFCS RCKLIDLGAWAN++Y LP +  P  D+
+Sbjct  10  PKTYPCPRCGTQTAWQDNKYKPFCSGRCKLIDLGAWANEDYTLPAETTPFSDE  62
+
+
+>WP_019673019.1 DNA gyrase inhibitor YacG [Psychrobacter lutiphocae]
+Length=74
+
+ Score = 78.6 bits (192),  Expect = 4e-018, Method: Compositional matrix adjust.
+ Identities = 29/50 (58%), Positives = 44/50 (88%), Gaps = 0/50 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAP  50
+            P+++PCP+C + ++W+ N ++PFCS+RCKLIDLGAWAN+EYR+P++D P
+Sbjct  19  TPKSYPCPQCRKATIWQDNPYKPFCSDRCKLIDLGAWANEEYRVPSEDDP  68
+
+
+>WP_040642862.1 DNA gyrase inhibitor YacG [Psychrobacter aquaticus]
+Length=63
+
+ Score = 78.2 bits (191),  Expect = 5e-018, Method: Compositional matrix adjust.
+ Identities = 30/53 (57%), Positives = 42/53 (79%), Gaps = 0/53 (0%)
+
+Query  2   PRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDK  54
+           P+T+PCPRCG  + W+ N+++PFCS +CKLIDLGAWAN++Y LP +  P  D+
+Sbjct  10  PKTYPCPRCGTQTAWQDNKYKPFCSSQCKLIDLGAWANEDYTLPAETTPFSDE  62
+
+
+>WP_011280332.1 DNA gyrase inhibitor YacG [Psychrobacter arcticus]
+Length=65
+
+ Score = 78.2 bits (191),  Expect = 5e-018, Method: Compositional matrix adjust.
+ Identities = 30/52 (58%), Positives = 43/52 (83%), Gaps = 0/52 (0%)
+
+Query  3   RTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDK  54
+           +T+PCPRCG  ++W+ N+++PFCS RCKLIDLGAWAN++Y LP++  P  D+
+Sbjct  13  KTYPCPRCGTQTLWQDNKYKPFCSHRCKLIDLGAWANEDYTLPSESTPFSDE  64
+
+
+>WP_045453002.1 DNA gyrase inhibitor YacG [Psychrobacter glacincola]
+Length=63
+
+ Score = 78.2 bits (191),  Expect = 5e-018, Method: Compositional matrix adjust.
+ Identities = 30/53 (57%), Positives = 42/53 (79%), Gaps = 0/53 (0%)
+
+Query  2   PRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDK  54
+           P+T+PCPRCG  + W+ N+++PFCS +CKLIDLGAWAN++Y LP +  P  D+
+Sbjct  10  PKTYPCPRCGTKTAWQDNKYKPFCSSQCKLIDLGAWANEDYTLPAETTPFSDE  62
+
+
+>WP_060491088.1 DNA gyrase inhibitor YacG [Psychrobacter sp. P11F6]
+Length=63
+
+ Score = 78.2 bits (191),  Expect = 6e-018, Method: Compositional matrix adjust.
+ Identities = 30/49 (61%), Positives = 40/49 (82%), Gaps = 0/49 (0%)
+
+Query  2   PRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAP  50
+           P+T+PCPRCG  + W+ NE++PFCS +CKLIDLGAWAN++Y LP +  P
+Sbjct  10  PKTYPCPRCGTKTAWQDNEYKPFCSRQCKLIDLGAWANEDYTLPAETTP  58
+
+
+>WP_062334695.1 MULTISPECIES: DNA gyrase inhibitor YacG [Proteobacteria]
+Length=70
+
+ Score = 78.2 bits (191),  Expect = 7e-018, Method: Compositional matrix adjust.
+ Identities = 31/51 (61%), Positives = 41/51 (80%), Gaps = 0/51 (0%)
+
+Query  3   RTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQD  53
+           +T+PCPRCG+P+VW  N  +PFCS RCKLIDLGAWAN++Y++  +D P  D
+Sbjct  14  KTYPCPRCGKPAVWANNPTKPFCSARCKLIDLGAWANEDYKVGAEDTPFSD  64
+
+
+>WP_065263932.1 DNA gyrase inhibitor YacG [Moraxella osloensis]
+Length=70
+
+ Score = 77.4 bits (189),  Expect = 1e-017, Method: Compositional matrix adjust.
+ Identities = 31/51 (61%), Positives = 41/51 (80%), Gaps = 0/51 (0%)
+
+Query  3   RTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQD  53
+           +T+PCPRCG+P+VW  N  +PFCS RCKLIDLGAWAN++Y++  +D P  D
+Sbjct  14  KTYPCPRCGKPTVWADNPSKPFCSARCKLIDLGAWANEDYKVGAEDTPFSD  64
+
+
+>WP_019518659.1 DNA gyrase inhibitor YacG [Moraxella boevrei]
+Length=82
+
+ Score = 77.8 bits (190),  Expect = 1e-017, Method: Compositional matrix adjust.
+ Identities = 28/46 (61%), Positives = 42/46 (91%), Gaps = 0/46 (0%)
+
+Query  3   RTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQD  48
+           +++PCP+C + + W+GNEF+PFCSERC+LID GAWAN++Y++PTQ+
+Sbjct  28  KSYPCPQCKKLTAWQGNEFKPFCSERCRLIDFGAWANEDYKIPTQE  73
+
+
+>WP_068405332.1 zinc-binding protein [Psychrobacter sp. SHUES1]
+Length=70
+
+ Score = 77.4 bits (189),  Expect = 1e-017, Method: Compositional matrix adjust.
+ Identities = 29/54 (54%), Positives = 41/54 (76%), Gaps = 0/54 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDK  54
+           +P+T+PCP CG  + W+ N+++PFCS  CKLIDLGAWA++EY LP +  P  D+
+Sbjct  16  LPKTYPCPECGNQTAWQDNKYKPFCSHHCKLIDLGAWASEEYTLPAESTPFSDE  69
+
+
+>WP_067235058.1 hypothetical protein [Moraxella atlantae]
+Length=73
+
+ Score = 77.4 bits (189),  Expect = 1e-017, Method: Compositional matrix adjust.
+ Identities = 31/50 (62%), Positives = 41/50 (82%), Gaps = 0/50 (0%)
+
+Query  5   FPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDK  54
+           +PCPRCG P+VW+ N  +PFCS RCKLIDLGAWA+++Y++  QDAP  D+
+Sbjct  17  YPCPRCGTPTVWQNNANKPFCSARCKLIDLGAWASEDYKIAAQDAPFSDE  66
+
+
+>WP_084785739.1 DNA gyrase inhibitor YacG [Psychrobacter urativorans]
+Length=63
+
+ Score = 77.4 bits (189),  Expect = 1e-017, Method: Compositional matrix adjust.
+ Identities = 31/54 (57%), Positives = 44/54 (81%), Gaps = 0/54 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDK  54
+           +P+T+PCP+CG  + W+ N+ +PFCSERCKLIDLGAWA++EY LP + +P  D+
+Sbjct  9   LPKTYPCPQCGTHTAWQDNKSKPFCSERCKLIDLGAWASEEYTLPAEISPFSDE  62
+
+
+>WP_020683276.1 DNA gyrase inhibitor YacG [Marinobacterium rhizophilum]
+Length=80
+
+ Score = 77.8 bits (190),  Expect = 1e-017, Method: Compositional matrix adjust.
+ Identities = 38/62 (61%), Positives = 45/62 (73%), Gaps = 3/62 (5%)
+
+Query  3   RTFPCPRCGEPSVWE-GNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHEDD  61
+           +T  CP+CG+PS W   N +RPFCSERCKLIDLG WAN+EYR+PT  AP +D  S   DD
+Sbjct  13  KTIKCPQCGKPSEWSPANSYRPFCSERCKLIDLGTWANEEYRIPT--APSEDDYSTGMDD  70
+
+Query  62  YE  63
+            E
+Sbjct  71  DE  72
+
+
+>WP_078276472.1 DNA gyrase inhibitor YacG [Moraxella caviae]
+Length=62
+
+ Score = 77.0 bits (188),  Expect = 1e-017, Method: Compositional matrix adjust.
+ Identities = 32/56 (57%), Positives = 44/56 (79%), Gaps = 0/56 (0%)
+
+Query  4   TFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHE  59
+           T+PCP C +P+ W  N  RPFCSERCKLIDLGAWA+++Y++ TQD P  D+ S+++
+Sbjct  6   TYPCPTCQKPATWTDNPSRPFCSERCKLIDLGAWASEDYKIATQDTPFSDELSENQ  61
+
+
+>WP_011513735.1 DNA gyrase inhibitor YacG [Psychrobacter cryohalolentis]
+Length=65
+
+ Score = 77.4 bits (189),  Expect = 1e-017, Method: Compositional matrix adjust.
+ Identities = 29/53 (55%), Positives = 41/53 (77%), Gaps = 0/53 (0%)
+
+Query  2   PRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDK  54
+           P+T+PCP CG+ + W+ N+++PFCS  CKLIDLGAWAN++Y LP +  P  D+
+Sbjct  12  PKTYPCPECGKQTTWQDNKYKPFCSHHCKLIDLGAWANEDYTLPAESTPFSDE  64
+
+
+>WP_075103258.1 DNA gyrase inhibitor YacG [Psychrobacter sp. Cmf 22.2]
+Length=63
+
+ Score = 77.0 bits (188),  Expect = 1e-017, Method: Compositional matrix adjust.
+ Identities = 30/53 (57%), Positives = 41/53 (77%), Gaps = 0/53 (0%)
+
+Query  2   PRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDK  54
+           P+T+PCPRC   + W+ N+++PFCS RCKLIDLGAWAN++Y LP +  P  D+
+Sbjct  10  PKTYPCPRCDTQTTWQNNKYKPFCSSRCKLIDLGAWANEDYTLPAETTPFSDE  62
+
+
+>WP_034279888.1 DNA gyrase inhibitor YacG [Alkanindiges illinoisensis]
+Length=64
+
+ Score = 77.0 bits (188),  Expect = 2e-017, Method: Compositional matrix adjust.
+ Identities = 32/51 (63%), Positives = 40/51 (78%), Gaps = 0/51 (0%)
+
+Query  2   PRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQ  52
+           P TFPCP C +PS+W  N  RPFCSERCKLIDLGAWAN++Y++ +  AP+ 
+Sbjct  4   PVTFPCPHCKKPSLWHDNPSRPFCSERCKLIDLGAWANEDYKIASPTAPEH  54
+
+
+>WP_078253725.1 DNA gyrase inhibitor YacG [Moraxella pluranimalium]
+Length=66
+
+ Score = 77.0 bits (188),  Expect = 2e-017, Method: Compositional matrix adjust.
+ Identities = 30/56 (54%), Positives = 44/56 (79%), Gaps = 0/56 (0%)
+
+Query  4   TFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHE  59
+           ++PCP+C  P+ W  N ++PFCS+RCKLIDLGAWA+++Y++P+ D P  D+ SQ E
+Sbjct  6   SYPCPQCKTPTTWTDNPYKPFCSDRCKLIDLGAWASEDYKIPSDDTPFSDELSQAE  61
+
+
+>WP_020443572.1 DNA gyrase inhibitor YacG [Psychrobacter sp. G]
+Length=65
+
+ Score = 77.0 bits (188),  Expect = 2e-017, Method: Compositional matrix adjust.
+ Identities = 29/53 (55%), Positives = 41/53 (77%), Gaps = 0/53 (0%)
+
+Query  2   PRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDK  54
+           P+T+PCP CG+ + W+ N+++PFCS  CKLIDLGAWAN++Y LP +  P  D+
+Sbjct  12  PKTYPCPECGKQTTWQDNKYKPFCSHHCKLIDLGAWANEDYTLPAESTPFSDE  64
+
+
+>WP_079325396.1 DNA gyrase inhibitor YacG [Moraxella equi]
+Length=60
+
+ Score = 76.3 bits (186),  Expect = 3e-017, Method: Compositional matrix adjust.
+ Identities = 32/53 (60%), Positives = 41/53 (77%), Gaps = 0/53 (0%)
+
+Query  2   PRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDK  54
+           P T+PCP+C +P++W  N  RPFCSERCKLIDLGAWA++ YR+ T D P  D+
+Sbjct  4   PTTYPCPQCQKPTIWSDNPNRPFCSERCKLIDLGAWADESYRVATDDTPFSDE  56
+
+
+>WP_065253091.1 DNA gyrase inhibitor YacG [Moraxella osloensis]
+Length=70
+
+ Score = 76.3 bits (186),  Expect = 4e-017, Method: Compositional matrix adjust.
+ Identities = 30/51 (59%), Positives = 40/51 (78%), Gaps = 0/51 (0%)
+
+Query  3   RTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQD  53
+           +T+PCPRCG+P+VW  N  +PFCS RCKLIDLGAW N++Y++  +D P  D
+Sbjct  14  KTYPCPRCGKPTVWADNPTKPFCSARCKLIDLGAWVNEDYKVGAEDTPFSD  64
+
+
+>WP_062501262.1 DNA gyrase inhibitor YacG [Moraxella lacunata]
+Length=60
+
+ Score = 75.9 bits (185),  Expect = 4e-017, Method: Compositional matrix adjust.
+ Identities = 33/57 (58%), Positives = 42/57 (74%), Gaps = 0/57 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQ  57
+            P T+PCP+C +P+ W  N  RPFCSERCKLIDLGAWA++ YR+ T D P  D+ S+
+Sbjct  3   TPTTYPCPQCQKPTSWSDNPNRPFCSERCKLIDLGAWADESYRVATDDTPFSDELSK  59
+
+
+>WP_028988551.1 DNA gyrase inhibitor YacG [Thermithiobacillus tepidarius]
+Length=69
+
+ Score = 75.5 bits (184),  Expect = 6e-017, Method: Compositional matrix adjust.
+ Identities = 31/55 (56%), Positives = 45/55 (82%), Gaps = 0/55 (0%)
+
+Query  6   PCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           PCP+C +P+ WEGN +RPFCSERC+L+DLGAWA+++YR+P ++AP  D   + E+
+Sbjct  14  PCPQCHKPAPWEGNPYRPFCSERCRLLDLGAWASEQYRVPAEEAPPGDAVPKDEE  68
+
+
+>WP_025644288.1 MULTISPECIES: DNA gyrase inhibitor YacG [Psychrobacter]
+Length=63
+
+ Score = 74.7 bits (182),  Expect = 1e-016, Method: Compositional matrix adjust.
+ Identities = 30/52 (58%), Positives = 41/52 (79%), Gaps = 0/52 (0%)
+
+Query  3   RTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDK  54
+           +++PCPRCG  + W+ N+ +PFCSERCKLIDLGAWA++EY LP +  P  D+
+Sbjct  11  KSYPCPRCGTLTAWQDNKSKPFCSERCKLIDLGAWASEEYTLPAESTPFSDE  62
+
+
+>WP_029102767.1 DNA gyrase inhibitor YacG [Moraxella caprae]
+Length=60
+
+ Score = 74.3 bits (181),  Expect = 2e-016, Method: Compositional matrix adjust.
+ Identities = 32/54 (59%), Positives = 40/54 (74%), Gaps = 0/54 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDK  54
+            P T+PCP+C +P+ W  N  RPFCSERCKLIDLGAWA++ YR+ T D P  D+
+Sbjct  3   TPTTYPCPQCQKPTSWSDNPNRPFCSERCKLIDLGAWADESYRVATDDTPFSDE  56
+
+
+>WP_077449597.1 DNA gyrase inhibitor YacG [Psychrobacter sp. CIP 110853]
+Length=69
+
+ Score = 74.7 bits (182),  Expect = 2e-016, Method: Compositional matrix adjust.
+ Identities = 28/49 (57%), Positives = 41/49 (84%), Gaps = 0/49 (0%)
+
+Query  2   PRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAP  50
+           P+T+PCP C + + W+ N ++PFCS+RCKLIDLGAWAN+EYR+  +++P
+Sbjct  14  PKTYPCPHCKKLTAWQDNPYKPFCSDRCKLIDLGAWANEEYRVAAEESP  62
+
+
+>WP_078273294.1 DNA gyrase inhibitor YacG [Moraxella bovis]
+Length=60
+
+ Score = 74.3 bits (181),  Expect = 2e-016, Method: Compositional matrix adjust.
+ Identities = 32/54 (59%), Positives = 40/54 (74%), Gaps = 0/54 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDK  54
+            P T+PCP+C +P+ W  N  RPFCSERCKLIDLGAWA++ YR+ T D P  D+
+Sbjct  3   TPTTYPCPQCQKPTSWSDNPNRPFCSERCKLIDLGAWADESYRVATDDTPFSDE  56
+
+
+>WP_074927230.1 DNA gyrase inhibitor YacG [Nitrosomonas eutropha]
+Length=64
+
+ Score = 73.2 bits (178),  Expect = 4e-016, Method: Compositional matrix adjust.
+ Identities = 32/52 (62%), Positives = 41/52 (79%), Gaps = 1/52 (2%)
+
+Query  4   TFPCPRCGEPSVWE-GNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDK  54
+           T  CP+CGE  +WE  +++RPFCSERCKL+DLG WA D YR+P +D PQ+DK
+Sbjct  10  TVNCPQCGEIVIWEKSSKYRPFCSERCKLLDLGLWATDSYRIPDEDEPQEDK  61
+
+
+>WP_066802018.1 zinc-binding protein [Moraxella oblonga]
+Length=60
+
+ Score = 73.2 bits (178),  Expect = 5e-016, Method: Compositional matrix adjust.
+ Identities = 31/59 (53%), Positives = 42/59 (71%), Gaps = 0/59 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHE  59
+           M  T+PCP C +P+VW  N  +PFCSERCKLIDL AWA++ YR+P  D P  D+ + ++
+Sbjct  1   MMTTYPCPHCQKPTVWTDNPTKPFCSERCKLIDLEAWASESYRVPADDTPFSDELTPNQ  59
+
+
+>WP_077451743.1 DNA gyrase inhibitor YacG [Psychrobacter sp. CIP 110854]
+Length=69
+
+ Score = 72.8 bits (177),  Expect = 7e-016, Method: Compositional matrix adjust.
+ Identities = 28/51 (55%), Positives = 41/51 (80%), Gaps = 0/51 (0%)
+
+Query  3   RTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQD  53
+           +T+PCP C + + W+ N ++PFCS+RCKLIDLGAWAN+EYR+  +++P  D
+Sbjct  15  KTYPCPYCKKATSWQDNPYKPFCSDRCKLIDLGAWANEEYRVAAEESPFSD  65
+
+
+>WP_072287672.1 DNA gyrase inhibitor YacG [Pelobacter acetylenicus]
+Length=72
+
+ Score = 72.4 bits (176),  Expect = 1e-015, Method: Compositional matrix adjust.
+ Identities = 33/64 (52%), Positives = 43/64 (67%), Gaps = 1/64 (2%)
+
+Query  2   PRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLP-TQDAPQQDKGSQHED  60
+           PR F CPRCG P+ WE N +RPFCS RC+++DLGAW ++EYR+P T D  + D   +   
+Sbjct  6   PRQFKCPRCGVPTRWEDNPWRPFCSRRCRMVDLGAWIDEEYRVPVTSDISEADASCETTY  65
+
+Query  61  DYED  64
+           D  D
+Sbjct  66  DNTD  69
+
+
+>WP_011634126.1 DNA gyrase inhibitor YacG [Nitrosomonas eutropha]
+Length=64
+
+ Score = 72.0 bits (175),  Expect = 1e-015, Method: Compositional matrix adjust.
+ Identities = 32/51 (63%), Positives = 40/51 (78%), Gaps = 1/51 (2%)
+
+Query  4   TFPCPRCGEPSVWE-GNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQD  53
+           T  CP+CGE  VWE  +++RPFCSERCKL+DLG WA D YR+P +D PQ+D
+Sbjct  10  TVNCPQCGEVVVWEKSSKYRPFCSERCKLLDLGLWATDSYRIPDEDEPQED  60
+
+
+>WP_013517804.1 MULTISPECIES: DNA gyrase inhibitor YacG [Alicycliphilus]
+Length=68
+
+ Score = 71.6 bits (174),  Expect = 2e-015, Method: Compositional matrix adjust.
+ Identities = 32/51 (63%), Positives = 40/51 (78%), Gaps = 1/51 (2%)
+
+Query  2   PRTFPCPRCGEPSVW-EGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQ  51
+           PRT PCP CG PS++   N FRPFCSERCK IDLGAWAN+++R+P +  P+
+Sbjct  7   PRTVPCPTCGGPSLYGPANPFRPFCSERCKQIDLGAWANEDFRVPAESPPE  57
+
+
+>WP_011365863.1 DNA gyrase inhibitor YacG [Geobacter metallireducens]
+Length=63
+
+ Score = 71.6 bits (174),  Expect = 2e-015, Method: Compositional matrix adjust.
+ Identities = 29/55 (53%), Positives = 41/55 (75%), Gaps = 0/55 (0%)
+
+Query  4   TFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQH  58
+             PCPRC + + W+GN FRPFCSERCK +DL AWA++EYR+ ++D P  D+  ++
+Sbjct  8   IVPCPRCRKETPWQGNPFRPFCSERCKTMDLAAWADEEYRIASEDTPGDDESDEN  62
+
+
+>WP_035383912.1 DNA gyrase inhibitor YacG [Ferriphaselus sp. R-1]
+Length=63
+
+ Score = 70.1 bits (170),  Expect = 9e-015, Method: Compositional matrix adjust.
+ Identities = 33/52 (63%), Positives = 36/52 (69%), Gaps = 1/52 (2%)
+
+Query  2   PRTFPCPRCGEPSVWE-GNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQ  52
+           P    CP CG+  VW+ GN FRPFCS+RCKLIDLG WAN  YRLP   AP Q
+Sbjct  4   PPVVKCPHCGKEVVWDTGNRFRPFCSDRCKLIDLGQWANAGYRLPDDSAPDQ  55
+
+
+>WP_072909194.1 DNA gyrase inhibitor YacG [Malonomonas rubra]
+Length=61
+
+ Score = 69.7 bits (169),  Expect = 1e-014, Method: Compositional matrix adjust.
+ Identities = 28/49 (57%), Positives = 36/49 (73%), Gaps = 0/49 (0%)
+
+Query  5   FPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQD  53
+             CPRCG  + W+GNE RPFCSE C+++DLG WAN+EY +    APQ+D
+Sbjct  6   VKCPRCGAETAWQGNESRPFCSENCRMVDLGNWANEEYAIDGGKAPQRD  54
+
+
+>WP_059284847.1 DNA gyrase inhibitor YacG [Aquitalea magnusonii]
+Length=65
+
+ Score = 69.7 bits (169),  Expect = 1e-014, Method: Compositional matrix adjust.
+ Identities = 31/47 (66%), Positives = 36/47 (77%), Gaps = 1/47 (2%)
+
+Query  3   RTFPCPRCGEPSVWE-GNEFRPFCSERCKLIDLGAWANDEYRLPTQD  48
+           RT PCP CG    WE  +EFRPFCSERCK+IDLG WA++ YRLP Q+
+Sbjct  6   RTVPCPTCGAAVRWEPASEFRPFCSERCKMIDLGEWASETYRLPAQE  52
+
+
+>WP_078316971.1 DNA gyrase inhibitor YacG [Moraxella porci]
+Length=63
+
+ Score = 69.7 bits (169),  Expect = 1e-014, Method: Compositional matrix adjust.
+ Identities = 30/47 (64%), Positives = 35/47 (74%), Gaps = 0/47 (0%)
+
+Query  4   TFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAP  50
+           T PCP C  P+ W  N  RPFCSERCKLIDLGAWA+DEY +  +D+P
+Sbjct  5   THPCPTCQTPTQWSDNPHRPFCSERCKLIDLGAWASDEYVIAGEDSP  51
+
+
+>WP_045668670.1 DNA gyrase inhibitor YacG [Geobacter sulfurreducens]
+Length=57
+
+ Score = 69.3 bits (168),  Expect = 1e-014, Method: Compositional matrix adjust.
+ Identities = 30/53 (57%), Positives = 37/53 (70%), Gaps = 0/53 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQD  53
+           M  T  CPRC   +VWEGN  RPFCSERCK +DL AWA++EYR+   +AP  +
+Sbjct  1   MITTLKCPRCRTETVWEGNPHRPFCSERCKTVDLAAWADEEYRIAGPEAPSDN  53
+
+
+>WP_066887849.1 hypothetical protein [Moraxella nonliquefaciens]
+Length=59
+
+ Score = 68.9 bits (167),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 30/53 (57%), Positives = 37/53 (70%), Gaps = 0/53 (0%)
+
+Query  2   PRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDK  54
+           P T  CP+C +P+ W  N  RPFC ERCKLIDLGAWA++ YR+ T D P  D+
+Sbjct  4   PTTHLCPQCKKPTSWSDNPNRPFCQERCKLIDLGAWADESYRVATNDTPFSDE  56
+
+
+>WP_070055956.1 DNA gyrase inhibitor YacG [Marinobacter sp. X15-166B]
+Length=63
+
+ Score = 68.9 bits (167),  Expect = 3e-014, Method: Compositional matrix adjust.
+ Identities = 34/57 (60%), Positives = 42/57 (74%), Gaps = 3/57 (5%)
+
+Query  7   CPRCGEPSVWE-GNEFRPFCSERCKLIDLGAWANDEYRLPTQ--DAPQQDKGSQHED  60
+           CP C +P  W+ GN  RPFCSERCKLIDLGAWAN+EYR+P +  D    D+G+ H+D
+Sbjct  5   CPTCKKPCEWDTGNPTRPFCSERCKLIDLGAWANEEYRVPAENVDPDDLDQGNHHQD  61
+
+
+>WP_070532781.1 DNA gyrase inhibitor YacG [Jeongeupia sp. USM3]
+Length=64
+
+ Score = 68.6 bits (166),  Expect = 3e-014, Method: Compositional matrix adjust.
+ Identities = 30/52 (58%), Positives = 38/52 (73%), Gaps = 1/52 (2%)
+
+Query  3   RTFPCPRCGEPSVWE-GNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQD  53
+           R  PCP+CGEP+V+   N FRPFCS RC+LIDLG WA++ YR+P  D  + D
+Sbjct  7   RIVPCPQCGEPAVYSPDNAFRPFCSRRCRLIDLGQWADESYRIPAADPAKPD  58
+
+
+>WP_041870760.1 DNA gyrase inhibitor YacG [Bdellovibrio bacteriovorus]
+Length=72
+
+ Score = 68.9 bits (167),  Expect = 3e-014, Method: Compositional matrix adjust.
+ Identities = 31/64 (48%), Positives = 43/64 (67%), Gaps = 1/64 (2%)
+
+Query  2   PRTFPCPRCGEPSVWE-GNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           PR   CP+CG  +++   N FRPFCSERC++IDLGAWA++EY++P +D+         ED
+Sbjct  7   PRQVKCPQCGRLALYSPENPFRPFCSERCRIIDLGAWASEEYKIPVKDSSSDALSMDDED  66
+
+Query  61  DYED  64
+             ED
+Sbjct  67  SSED  70
+
+
+>WP_066891126.1 hypothetical protein [Moraxella nonliquefaciens]
+Length=59
+
+ Score = 68.6 bits (166),  Expect = 3e-014, Method: Compositional matrix adjust.
+ Identities = 30/53 (57%), Positives = 37/53 (70%), Gaps = 0/53 (0%)
+
+Query  2   PRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDK  54
+           P T  CP+C +P+ W  N  RPFC ERCKLIDLGAWA++ YR+ T D P  D+
+Sbjct  4   PTTHLCPQCKKPTSWSDNPNRPFCQERCKLIDLGAWADESYRVATNDTPFSDE  56
+
+
+>WP_038448504.1 DNA gyrase inhibitor YacG [Bdellovibrio bacteriovorus]
+Length=73
+
+ Score = 68.6 bits (166),  Expect = 4e-014, Method: Compositional matrix adjust.
+ Identities = 30/61 (49%), Positives = 41/61 (67%), Gaps = 1/61 (2%)
+
+Query  3   RTFPCPRCGEPSVWEG-NEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHEDD  61
+           R   CP+CG  +++   N FRPFCSERC+LIDLG WA++ YR+P +D+      S  +DD
+Sbjct  7   RQVKCPQCGRLALYSSENPFRPFCSERCRLIDLGEWASESYRIPVKDSSSDSLTSMDDDD  66
+
+Query  62  Y  62
+           Y
+Sbjct  67  Y  67
+
+
+>WP_055359824.1 DNA gyrase inhibitor YacG [Limnohabitans sp. 103DPR2]
+Length=68
+
+ Score = 68.6 bits (166),  Expect = 4e-014, Method: Compositional matrix adjust.
+ Identities = 31/53 (58%), Positives = 39/53 (74%), Gaps = 1/53 (2%)
+
+Query  2   PRTFPCPRCGEPSVWEG-NEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQD  53
+           PR  PCP CG PS++   N +RPFCSERCK IDLGAWAN+ +R+P +  P Q+
+Sbjct  8   PRHVPCPTCGGPSLFSSQNAYRPFCSERCKGIDLGAWANESFRVPEETPPDQE  60
+
+
+>WP_010941875.1 DNA gyrase inhibitor YacG [Geobacter sulfurreducens]
+ NP_952271.2 hypothetical protein GSU1218 [Geobacter sulfurreducens PCA]
+Length=59
+
+ Score = 68.2 bits (165),  Expect = 4e-014, Method: Compositional matrix adjust.
+ Identities = 30/59 (51%), Positives = 38/59 (64%), Gaps = 0/59 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHE  59
+           M  T  CPRC   +VWEGN  RPFCS RCK +DL AWA++EYR+   +AP  +  +  E
+Sbjct  1   MITTLTCPRCRAETVWEGNPHRPFCSARCKTVDLAAWADEEYRIAGPEAPSDNDENDRE  59
+
+
+>WP_064610825.1 DNA gyrase inhibitor YacG [Moraxella catarrhalis]
+Length=61
+
+ Score = 68.2 bits (165),  Expect = 4e-014, Method: Compositional matrix adjust.
+ Identities = 30/57 (53%), Positives = 40/57 (70%), Gaps = 2/57 (4%)
+
+Query  4   TFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQD--APQQDKGSQH  58
+           T+PCP C  P+ W  N  RPFCS+RCKLIDLGAWA+DEY +   +   P+ D+ S++
+Sbjct  5   TYPCPICQTPTTWSNNPNRPFCSKRCKLIDLGAWASDEYSIAGDELSLPEHDESSEY  61
+
+
+>WP_082203248.1 DNA gyrase inhibitor YacG [Ottowia sp. oral taxon 894]
+Length=66
+
+ Score = 68.2 bits (165),  Expect = 5e-014, Method: Compositional matrix adjust.
+ Identities = 33/56 (59%), Positives = 39/56 (70%), Gaps = 1/56 (2%)
+
+Query  2   PRTFPCPRCGEPSVWEG-NEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGS  56
+           PR   CP CG PS++   N FRPFCSERCKL DLGAWAN+ +RL + + P  D GS
+Sbjct  9   PRHVKCPSCGRPSLYAPENRFRPFCSERCKLHDLGAWANESFRLASPEDPGLDAGS  64
+
+
+>WP_076555895.1 DNA gyrase inhibitor YacG [Moraxella cuniculi]
+Length=63
+
+ Score = 68.2 bits (165),  Expect = 5e-014, Method: Compositional matrix adjust.
+ Identities = 31/63 (49%), Positives = 43/63 (68%), Gaps = 2/63 (3%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAP--QQDKGSQH  58
+           M  T+PCP+C +PS+W  N  RPFC ERCKL+DLGAWA++EY +   + P  ++  G+  
+Sbjct  1   MTITYPCPQCQKPSIWTENPHRPFCCERCKLLDLGAWASEEYSIQGAELPFFEEANGAID  60
+
+Query  59  EDD  61
+           E D
+Sbjct  61  EQD  63
+
+
+>WP_018409834.1 DNA gyrase inhibitor YacG [Methyloversatilis thermotolerans]
+Length=67
+
+ Score = 68.2 bits (165),  Expect = 5e-014, Method: Compositional matrix adjust.
+ Identities = 35/63 (56%), Positives = 43/63 (68%), Gaps = 8/63 (13%)
+
+Query  3   RTFPCPRCGEPSVWE-GNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHEDD  61
+           RT  CPRCG P+++   N +RPFCSERCK IDLGAWAN+EYR+P       D+G +  DD
+Sbjct  11  RTVSCPRCGAPALFSPANPWRPFCSERCKQIDLGAWANEEYRVP-------DEGQEAPDD  63
+
+Query  62  YED  64
+             D
+Sbjct  64  APD  66
+
+
+>WP_022854341.1 DNA gyrase inhibitor YacG [Thermodesulfatator atlanticus]
+Length=65
+
+ Score = 68.2 bits (165),  Expect = 6e-014, Method: Compositional matrix adjust.
+ Identities = 32/65 (49%), Positives = 42/65 (65%), Gaps = 2/65 (3%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRL--PTQDAPQQDKGSQH  58
+           M +   CP+CG  + WEGN FRPFCSERCKLIDLG W  +EYR+  PT+   +  +  + 
+Sbjct  1   MKKKHKCPQCGRLTSWEGNPFRPFCSERCKLIDLGHWLEEEYRISVPTEGVEEIHELPKE  60
+
+Query  59  EDDYE  63
+           E+  E
+Sbjct  61  EEKSE  65
+
+
+>WP_075067361.1 DNA gyrase inhibitor YacG [Candidatus Berkiella aquae]
+Length=66
+
+ Score = 67.8 bits (164),  Expect = 6e-014, Method: Compositional matrix adjust.
+ Identities = 32/64 (50%), Positives = 45/64 (70%), Gaps = 3/64 (5%)
+
+Query  1   MPRTFPCPRCGEPS-VWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQ--QDKGSQ  57
+           M     CPRC + S +   N +RPFCSERCKLIDLG+WA++EY++P +D+P   QD+ S 
+Sbjct  1   MTTKVLCPRCQKSSSLAVSNPYRPFCSERCKLIDLGSWASEEYKIPAEDSPSLDQDESSA  60
+
+Query  58  HEDD  61
+           + D+
+Sbjct  61  NNDN  64
+
+
+>WP_066473390.1 hypothetical protein [Comamonas terrae]
+Length=68
+
+ Score = 67.8 bits (164),  Expect = 8e-014, Method: Compositional matrix adjust.
+ Identities = 31/52 (60%), Positives = 39/52 (75%), Gaps = 1/52 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWE-GNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQ  51
+            P T  CP CG PS++  GN+FRPFCSERC+ IDLGAWAN+E+R+P    P+
+Sbjct  6   TPTTVRCPTCGGPSLFAPGNKFRPFCSERCRQIDLGAWANEEFRVPAPTPPE  57
+
+
+>WP_049235766.1 DNA gyrase inhibitor YacG [Moraxella catarrhalis]
+Length=61
+
+ Score = 67.4 bits (163),  Expect = 8e-014, Method: Compositional matrix adjust.
+ Identities = 30/57 (53%), Positives = 40/57 (70%), Gaps = 2/57 (4%)
+
+Query  4   TFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQD--APQQDKGSQH  58
+           T+PCP C  P+ W  N  RPFCS+RCKLIDLGAWA+DEY +   +   P+ D+ S++
+Sbjct  5   TYPCPICQTPTTWSDNPNRPFCSKRCKLIDLGAWASDEYSIAGDELSLPEHDESSEY  61
+
+
+>WP_056641105.1 DNA gyrase inhibitor YacG [Acidovorax sp. Root70]
+Length=72
+
+ Score = 67.8 bits (164),  Expect = 9e-014, Method: Compositional matrix adjust.
+ Identities = 34/61 (56%), Positives = 41/61 (67%), Gaps = 5/61 (8%)
+
+Query  3   RTFPCPRCGEPSVWE-GNEFRPFCSERCKLIDLGAWANDEYRLPTQ----DAPQQDKGSQ  57
+           R   CP CG  SV+   NE+RPFCSERCK IDLGAWA++ +R+PT+    DAP  D   Q
+Sbjct  12  RIVTCPSCGGDSVYSPANEYRPFCSERCKQIDLGAWASESFRMPTEAPPDDAPHGDPRQQ  71
+
+Query  58  H  58
+           H
+Sbjct  72  H  72
+
+
+>WP_041577983.1 DNA gyrase inhibitor YacG [Bdellovibrio bacteriovorus]
+Length=73
+
+ Score = 67.8 bits (164),  Expect = 1e-013, Method: Compositional matrix adjust.
+ Identities = 30/61 (49%), Positives = 41/61 (67%), Gaps = 1/61 (2%)
+
+Query  3   RTFPCPRCGEPSVWEG-NEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHEDD  61
+           R   CP+CG  +++   N FRPFCSERC+LIDLG WA++ YR+P +D+      S  +DD
+Sbjct  7   RQVKCPQCGLLALYSSENPFRPFCSERCRLIDLGEWASESYRIPVKDSSSDALTSMDDDD  66
+
+Query  62  Y  62
+           Y
+Sbjct  67  Y  67
+
+
+>WP_078255699.1 DNA gyrase inhibitor YacG [Moraxella canis]
+Length=61
+
+ Score = 67.4 bits (163),  Expect = 1e-013, Method: Compositional matrix adjust.
+ Identities = 30/57 (53%), Positives = 40/57 (70%), Gaps = 2/57 (4%)
+
+Query  4   TFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQD--APQQDKGSQH  58
+           T+PCP C  P+ W  N  RPFCS+RCKLIDLGAWA+DEY +   +   P+ D+ S++
+Sbjct  5   TYPCPICQTPTTWSDNPNRPFCSKRCKLIDLGAWASDEYLIAGDELSLPEHDESSEY  61
+
+
+>WP_074671117.1 DNA gyrase inhibitor YacG [Nitrosomonas europaea]
+Length=64
+
+ Score = 67.4 bits (163),  Expect = 1e-013, Method: Compositional matrix adjust.
+ Identities = 29/48 (60%), Positives = 39/48 (81%), Gaps = 1/48 (2%)
+
+Query  7   CPRCGEPSVWE-GNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQD  53
+           CP+CGE  VWE  +++RPFCSERCKL+DLG WA D YR+P ++ P++D
+Sbjct  13  CPQCGEMVVWEPSSKYRPFCSERCKLLDLGQWATDGYRIPEEERPRED  60
+
+
+>WP_085008894.1 DNA gyrase inhibitor YacG [Geothermobacter sp. EPR-M]
+Length=62
+
+ Score = 67.0 bits (162),  Expect = 1e-013, Method: Compositional matrix adjust.
+ Identities = 29/50 (58%), Positives = 36/50 (72%), Gaps = 0/50 (0%)
+
+Query  4   TFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQD  53
+           T  CPRCG  + + GNE RPFCSERC+LIDLG WA +EYR+  +  PQ+ 
+Sbjct  9   TIKCPRCGVLTDYYGNEHRPFCSERCRLIDLGCWAEEEYRIAGRPVPQES  58
+
+
+>WP_053550695.1 DNA gyrase inhibitor YacG [Desulfuromonas soudanensis]
+Length=67
+
+ Score = 67.4 bits (163),  Expect = 1e-013, Method: Compositional matrix adjust.
+ Identities = 26/48 (54%), Positives = 36/48 (75%), Gaps = 0/48 (0%)
+
+Query  2   PRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDA  49
+           P+T  CPRC  P+ W+GN FRPFCSE+C+++DLG WA +EYR+  +  
+Sbjct  6   PKTVRCPRCTTPAPWQGNPFRPFCSEKCRMVDLGRWAEEEYRVAAEKV  53
+
+
+>WP_036209919.1 MULTISPECIES: DNA gyrase inhibitor YacG [Marinobacter]
+Length=62
+
+ Score = 67.0 bits (162),  Expect = 1e-013, Method: Compositional matrix adjust.
+ Identities = 31/48 (65%), Positives = 37/48 (77%), Gaps = 1/48 (2%)
+
+Query  7   CPRCGEPSVW-EGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQD  53
+           CP C + + W E N FRPFCSERCKLIDLGAWAN+EYR+P ++A   D
+Sbjct  5   CPTCKKSAEWNENNPFRPFCSERCKLIDLGAWANEEYRVPAENASPDD  52
+
+
+>WP_021027806.1 DNA gyrase inhibitor YacG [Comamonas sp. B-9]
+Length=70
+
+ Score = 67.0 bits (162),  Expect = 1e-013, Method: Compositional matrix adjust.
+ Identities = 30/45 (67%), Positives = 36/45 (80%), Gaps = 1/45 (2%)
+
+Query  7   CPRCGEPSVWE-GNEFRPFCSERCKLIDLGAWANDEYRLPTQDAP  50
+           CP+CG PS +E  N FRPFCSERCKLIDLGAW N+++R+P Q  P
+Sbjct  14  CPQCGGPSSFERSNRFRPFCSERCKLIDLGAWGNEDFRVPAQSPP  58
+
+
+>WP_018989205.1 DNA gyrase inhibitor YacG [Azoarcus toluclasticus]
+Length=67
+
+ Score = 67.0 bits (162),  Expect = 1e-013, Method: Compositional matrix adjust.
+ Identities = 31/47 (66%), Positives = 36/47 (77%), Gaps = 1/47 (2%)
+
+Query  3   RTFPCPRCGEPSVWE-GNEFRPFCSERCKLIDLGAWANDEYRLPTQD  48
+           RT  CP+CG P  W   N FRPFCSERCK IDLGAWA+++YR+PT D
+Sbjct  5   RTVKCPQCGAPVRWVPENRFRPFCSERCKQIDLGAWASEDYRVPTSD  51
+
+
+>WP_066569643.1 hypothetical protein [Snodgrassella sp. CFCC 13594]
+Length=64
+
+ Score = 67.0 bits (162),  Expect = 2e-013, Method: Compositional matrix adjust.
+ Identities = 32/54 (59%), Positives = 37/54 (69%), Gaps = 2/54 (4%)
+
+Query  2   PRTFPCPRCGEPSVW-EGNEFRPFCSERCKLIDLGAWANDEYRLP-TQDAPQQD  53
+           P    CP CG+P  W   N FRPFCSERCKLIDLGAWA+++Y LP   D P +D
+Sbjct  4   PTMVACPTCGKPVAWLPENRFRPFCSERCKLIDLGAWASEDYNLPAVDDGPHED  57
+
+
+>WP_050414496.1 DNA gyrase inhibitor YacG [Azoarcus sp. CIB]
+Length=67
+
+ Score = 67.0 bits (162),  Expect = 2e-013, Method: Compositional matrix adjust.
+ Identities = 34/57 (60%), Positives = 41/57 (72%), Gaps = 3/57 (5%)
+
+Query  3   RTFPCPRCGEPSVWE-GNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQH  58
+           RT  CP+CG P  W   N FRPFCSERCK IDLGAWA+++YR+PT D  + D G Q+
+Sbjct  5   RTVNCPQCGAPVRWVPENRFRPFCSERCKQIDLGAWASEDYRVPTAD--EGDPGEQN  59
+
+
+>WP_062268881.1 DNA gyrase inhibitor YacG [Endozoicomonas arenosclerae]
+Length=64
+
+ Score = 66.6 bits (161),  Expect = 2e-013, Method: Compositional matrix adjust.
+ Identities = 30/46 (65%), Positives = 36/46 (78%), Gaps = 1/46 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEG-NEFRPFCSERCKLIDLGAWANDEYRLP  45
+           MP T  CP+CG+   W+  N+FRPFCSERCKLIDLGAWAN+E  +P
+Sbjct  1   MPTTVKCPKCGKDVEWKKENKFRPFCSERCKLIDLGAWANEERSIP  46
+
+
+>WP_009501746.1 DNA gyrase inhibitor YacG [Moraxella macacae]
+Length=78
+
+ Score = 67.0 bits (162),  Expect = 2e-013, Method: Compositional matrix adjust.
+ Identities = 23/42 (55%), Positives = 35/42 (83%), Gaps = 0/42 (0%)
+
+Query  3   RTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRL  44
+           +T+PCP+C   + W+ N F+PFCSERC+L+D GAWAN++Y++
+Sbjct  26  QTYPCPQCKTITTWQNNAFKPFCSERCQLLDFGAWANEDYKI  67
+
+
+>WP_026852460.1 DNA gyrase inhibitor YacG [Geothrix fermentans]
+Length=61
+
+ Score = 66.6 bits (161),  Expect = 2e-013, Method: Compositional matrix adjust.
+ Identities = 29/55 (53%), Positives = 39/55 (71%), Gaps = 0/55 (0%)
+
+Query  6   PCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           PCP C  P+ WEGN F+PFCSERC++ DLGAW+++ YRLP +   +  +G   ED
+Sbjct  5   PCPICRTPTAWEGNPFKPFCSERCQVRDLGAWSSESYRLPEKPQEEDGEGWSGED  59
+
+
+>WP_039645591.1 MULTISPECIES: DNA gyrase inhibitor YacG [Geobacter]
+Length=59
+
+ Score = 66.2 bits (160),  Expect = 2e-013, Method: Compositional matrix adjust.
+ Identities = 29/59 (49%), Positives = 37/59 (63%), Gaps = 0/59 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHE  59
+           M  T  CPRC   +VWEGN  RPFCS RCK +DL AWA++EYR+   + P  +  +  E
+Sbjct  1   MITTLKCPRCRTETVWEGNPHRPFCSARCKTVDLAAWADEEYRIAGPETPADNDENDRE  59
+
+
+>WP_011341377.1 DNA gyrase inhibitor YacG [Pelobacter carbinolicus]
+Length=73
+
+ Score = 66.6 bits (161),  Expect = 2e-013, Method: Compositional matrix adjust.
+ Identities = 28/56 (50%), Positives = 36/56 (64%), Gaps = 0/56 (0%)
+
+Query  4   TFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHE  59
+           T  CP CG    WEGN +RPFCS RC+ +DLGAW ++EYR+P    P  ++ S  E
+Sbjct  9   TVKCPHCGASKPWEGNAYRPFCSSRCRQMDLGAWVDEEYRVPDASCPSDEEQSLSE  64
+
+
+>WP_070965493.1 DNA gyrase inhibitor YacG [Marinobacter salinus]
+Length=62
+
+ Score = 66.6 bits (161),  Expect = 2e-013, Method: Compositional matrix adjust.
+ Identities = 30/48 (63%), Positives = 37/48 (77%), Gaps = 1/48 (2%)
+
+Query  7   CPRCGEPSVW-EGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQD  53
+           CP C +   W E N +RPFCSERCKLIDLGAWAN+EYR+P ++A  +D
+Sbjct  5   CPTCKKSVEWTEANPYRPFCSERCKLIDLGAWANEEYRVPAENASPED  52
+
+
+>WP_064617540.1 DNA gyrase inhibitor YacG [Moraxella catarrhalis]
+Length=61
+
+ Score = 66.2 bits (160),  Expect = 2e-013, Method: Compositional matrix adjust.
+ Identities = 27/41 (66%), Positives = 32/41 (78%), Gaps = 0/41 (0%)
+
+Query  4   TFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRL  44
+           T+PCP C  P+ W  N  RPFCS+RCKLIDLGAWA+DEY +
+Sbjct  5   TYPCPICQTPTTWSNNPNRPFCSKRCKLIDLGAWASDEYSI  45
+
+
+>WP_008938919.1 DNA gyrase inhibitor YacG [Marinobacter santoriniensis]
+Length=65
+
+ Score = 66.2 bits (160),  Expect = 3e-013, Method: Compositional matrix adjust.
+ Identities = 29/43 (67%), Positives = 35/43 (81%), Gaps = 1/43 (2%)
+
+Query  7   CPRCGEPSVW-EGNEFRPFCSERCKLIDLGAWANDEYRLPTQD  48
+           CP C +   W E N +RPFCSERCKLIDLGAWAN+EYR+P++D
+Sbjct  5   CPTCKQSVEWSEDNRYRPFCSERCKLIDLGAWANEEYRVPSED  47
+
+
+>WP_058089895.1 MULTISPECIES: DNA gyrase inhibitor YacG [Marinobacter]
+Length=62
+
+ Score = 66.2 bits (160),  Expect = 3e-013, Method: Compositional matrix adjust.
+ Identities = 33/58 (57%), Positives = 40/58 (69%), Gaps = 6/58 (10%)
+
+Query  7   CPRCGEPSVW-EGNEFRPFCSERCKLIDLGAWANDEYRLPTQ-----DAPQQDKGSQH  58
+           CP C +   W E N FRPFCSERCKLIDLGAWAN+EYR+P +     D  Q D+ ++H
+Sbjct  5   CPTCKKSVEWTETNPFRPFCSERCKLIDLGAWANEEYRVPAENVSPDDLDQIDEATRH  62
+
+
+>WP_066540517.1 hypothetical protein [Comamonas terrigena]
+Length=78
+
+ Score = 66.6 bits (161),  Expect = 3e-013, Method: Compositional matrix adjust.
+ Identities = 28/46 (61%), Positives = 36/46 (78%), Gaps = 1/46 (2%)
+
+Query  7   CPRCGEPSVW-EGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQ  51
+           CP CG+ +++   N FRPFCSERCK+IDLGAW N+E+R+P Q  PQ
+Sbjct  22  CPTCGQATLFARSNRFRPFCSERCKMIDLGAWGNEEFRVPVQTPPQ  67
+
+
+>WP_007154147.1 DNA gyrase inhibitor YacG [Marinobacter algicola]
+Length=62
+
+ Score = 66.2 bits (160),  Expect = 3e-013, Method: Compositional matrix adjust.
+ Identities = 31/48 (65%), Positives = 36/48 (75%), Gaps = 1/48 (2%)
+
+Query  7   CPRCGEPSVW-EGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQD  53
+           CP C +   W E N FRPFCSERCKLIDLGAWAN+EYR+P ++A   D
+Sbjct  5   CPTCKKSVEWNENNPFRPFCSERCKLIDLGAWANEEYRVPAENASPDD  52
+
+
+>WP_015720266.1 DNA gyrase inhibitor YacG [Geobacter sp. M18]
+Length=62
+
+ Score = 66.2 bits (160),  Expect = 3e-013, Method: Compositional matrix adjust.
+ Identities = 31/62 (50%), Positives = 40/62 (65%), Gaps = 6/62 (10%)
+
+Query  3   RTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHEDDY  62
+           +T  CP C   +   GN +RPFCSERCK+IDLG WA++ YR+P + AP       HED+ 
+Sbjct  5   QTVKCPHCKREAQLAGNPYRPFCSERCKMIDLGTWASEGYRIPGEKAP------HHEDND  58
+
+Query  63  ED  64
+           ED
+Sbjct  59  ED  60
+
+
+>WP_007185259.1 DNA gyrase inhibitor YacG [Hydrocarboniphaga effusa]
+Length=71
+
+ Score = 66.2 bits (160),  Expect = 3e-013, Method: Compositional matrix adjust.
+ Identities = 30/43 (70%), Positives = 34/43 (79%), Gaps = 1/43 (2%)
+
+Query  7   CPRCGEPSVWE-GNEFRPFCSERCKLIDLGAWANDEYRLPTQD  48
+           CPRCGEP+  E  N FRPFCSERCKLIDLGAWA+ +Y +P  D
+Sbjct  8   CPRCGEPASLEKTNRFRPFCSERCKLIDLGAWASGQYAIPAAD  50
+
+
+>WP_066612877.1 DNA gyrase inhibitor [Crenobacter luteus]
+Length=66
+
+ Score = 66.2 bits (160),  Expect = 3e-013, Method: Compositional matrix adjust.
+ Identities = 30/53 (57%), Positives = 37/53 (70%), Gaps = 1/53 (2%)
+
+Query  2   PRTFPCPRCGEPSVWE-GNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQD  53
+           PRT  CP CG+   W   + +RPFCSERCKLIDLGAWAN+ YR+P ++    D
+Sbjct  6   PRTVACPTCGKAVEWTPESRYRPFCSERCKLIDLGAWANESYRVPAEEETPND  58
+
+
+>WP_013907840.1 DNA gyrase inhibitor YacG [Thermodesulfatator indicus]
+Length=61
+
+ Score = 65.9 bits (159),  Expect = 3e-013, Method: Compositional matrix adjust.
+ Identities = 30/64 (47%), Positives = 39/64 (61%), Gaps = 3/64 (5%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           M +   CP CG+ + WE N +RPFCSERCKLIDLG W ++EYR+     P +     HE 
+Sbjct  1   MKKKIKCPHCGKLTSWENNPYRPFCSERCKLIDLGHWLSEEYRI---QVPVEGLDEVHEI  57
+
+Query  61  DYED  64
+             E+
+Sbjct  58  KKEE  61
+
+
+>WP_020229074.1 DNA gyrase inhibitor YacG [Acidovorax sp. MR-S7]
+Length=73
+
+ Score = 66.2 bits (160),  Expect = 3e-013, Method: Compositional matrix adjust.
+ Identities = 28/50 (56%), Positives = 38/50 (76%), Gaps = 1/50 (2%)
+
+Query  3   RTFPCPRCGEPSVWE-GNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQ  51
+           R  PCP CG PS++   N +RPFCSERC+ IDLGAWAN+++R+P +  P+
+Sbjct  13  RQVPCPTCGGPSLYSPANPYRPFCSERCRQIDLGAWANEDFRMPAEAPPE  62
+
+
+>WP_084629052.1 DNA gyrase inhibitor YacG [Neptunomonas japonica]
+Length=69
+
+ Score = 66.2 bits (160),  Expect = 4e-013, Method: Compositional matrix adjust.
+ Identities = 33/63 (52%), Positives = 41/63 (65%), Gaps = 10/63 (16%)
+
+Query  3   RTFPCPRCGEPSVW-EGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHEDD  61
+           +   CP+C  PS+W E N  RPFCS+RCKLIDLGAWA++EY+LP          S   DD
+Sbjct  2   KKIKCPQCSGPSIWDETNSSRPFCSDRCKLIDLGAWASEEYQLPV---------SPSVDD  52
+
+Query  62  YED  64
+           Y+D
+Sbjct  53  YDD  55
+
+
+>WP_039049611.1 DNA gyrase inhibitor YacG [Comamonas testosteroni]
+Length=69
+
+ Score = 66.2 bits (160),  Expect = 4e-013, Method: Compositional matrix adjust.
+ Identities = 30/51 (59%), Positives = 37/51 (73%), Gaps = 1/51 (2%)
+
+Query  2   PRTFPCPRCGEPSVW-EGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQ  51
+           P    CP CG PSV+   N+FRPFCSERC+ IDLGAW N+E+R+P Q  P+
+Sbjct  8   PTMVTCPTCGGPSVFLPSNKFRPFCSERCRNIDLGAWGNEEFRVPAQTPPE  58
+
+
+>WP_034357520.1 MULTISPECIES: DNA gyrase inhibitor YacG [Comamonas]
+Length=69
+
+ Score = 65.9 bits (159),  Expect = 4e-013, Method: Compositional matrix adjust.
+ Identities = 30/51 (59%), Positives = 37/51 (73%), Gaps = 1/51 (2%)
+
+Query  2   PRTFPCPRCGEPSVW-EGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQ  51
+           P    CP CG PSV+   N+FRPFCSERC+ IDLGAW N+E+R+P Q  P+
+Sbjct  8   PTMVKCPTCGGPSVFLPSNKFRPFCSERCRNIDLGAWGNEEFRVPAQTPPE  58
+
+
+>WP_046461084.1 DNA gyrase inhibitor YacG [Comamonas testosteroni]
+Length=69
+
+ Score = 65.9 bits (159),  Expect = 4e-013, Method: Compositional matrix adjust.
+ Identities = 30/51 (59%), Positives = 37/51 (73%), Gaps = 1/51 (2%)
+
+Query  2   PRTFPCPRCGEPSVW-EGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQ  51
+           P    CP CG PSV+   N+FRPFCSERC+ IDLGAW N+E+R+P Q  P+
+Sbjct  8   PTMVKCPTCGGPSVFLPSNKFRPFCSERCRNIDLGAWGNEEFRVPAQTPPE  58
+
+
+>WP_080946012.1 DNA gyrase inhibitor YacG [Moraxella bovoculi]
+Length=66
+
+ Score = 65.9 bits (159),  Expect = 4e-013, Method: Compositional matrix adjust.
+ Identities = 25/53 (47%), Positives = 38/53 (72%), Gaps = 0/53 (0%)
+
+Query  2   PRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDK  54
+           P+ +PCP C  P+ W+ N  +PFCS+RC+LIDLG WA++ Y++ + D P  D+
+Sbjct  4   PQMYPCPTCKTPTKWQDNPTKPFCSKRCQLIDLGEWASENYKIASSDTPFSDE  56
+
+
+>WP_068639304.1 hypothetical protein [Thauera butanivorans]
+Length=69
+
+ Score = 65.9 bits (159),  Expect = 4e-013, Method: Compositional matrix adjust.
+ Identities = 28/48 (58%), Positives = 35/48 (73%), Gaps = 1/48 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEG-NEFRPFCSERCKLIDLGAWANDEYRLPTQ  47
+            PRT  CP CG+P VW   + +RPFCS RC+ IDLGAWA++ YR+PT 
+Sbjct  4   TPRTVSCPTCGKPVVWSAESRYRPFCSARCRQIDLGAWASEAYRVPTS  51
+
+
+>WP_003058551.1 DNA gyrase inhibitor YacG [Comamonas testosteroni]
+Length=70
+
+ Score = 65.9 bits (159),  Expect = 4e-013, Method: Compositional matrix adjust.
+ Identities = 30/51 (59%), Positives = 37/51 (73%), Gaps = 1/51 (2%)
+
+Query  2   PRTFPCPRCGEPSVW-EGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQ  51
+           P    CP CG PSV+   N+FRPFCSERC+ IDLGAW N+E+R+P Q  P+
+Sbjct  8   PTMVKCPTCGGPSVFLPSNKFRPFCSERCRNIDLGAWGNEEFRVPAQTPPE  58
+
+
+>WP_077593989.1 DNA gyrase inhibitor YacG [Polaromonas sp. A23]
+Length=67
+
+ Score = 65.9 bits (159),  Expect = 4e-013, Method: Compositional matrix adjust.
+ Identities = 32/54 (59%), Positives = 40/54 (74%), Gaps = 2/54 (4%)
+
+Query  2   PRTFPCPRCGEPSVWEG-NEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDK  54
+           P+T  CP CG PSV+   N FRPFCSERCK +DLGAWA++ +R+P  DAP  D+
+Sbjct  7   PKTVVCPTCGGPSVYAPENRFRPFCSERCKNVDLGAWASESFRMPA-DAPPDDQ  59
+
+
+>WP_075255986.1 DNA gyrase inhibitor YacG [Herbaspirillum sp. WT00C]
+Length=61
+
+ Score = 65.5 bits (158),  Expect = 5e-013, Method: Compositional matrix adjust.
+ Identities = 30/58 (52%), Positives = 38/58 (66%), Gaps = 1/58 (2%)
+
+Query  1   MPRTFPCPRCGEPSVW-EGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQ  57
+           M     CP CG    W E N+FRPFCSERCK IDLGAWA ++Y +P  + P +D+G +
+Sbjct  1   MATIVDCPTCGAKVEWSEKNKFRPFCSERCKQIDLGAWAEEKYTIPAVNLPLEDEGDK  58
+
+
+>WP_017451949.1 MULTISPECIES: DNA gyrase inhibitor YacG [Herbaspirillum]
+Length=61
+
+ Score = 65.5 bits (158),  Expect = 5e-013, Method: Compositional matrix adjust.
+ Identities = 30/58 (52%), Positives = 38/58 (66%), Gaps = 1/58 (2%)
+
+Query  1   MPRTFPCPRCGEPSVW-EGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQ  57
+           M     CP CG    W E N+FRPFCSERCK IDLGAWA ++Y +P  + P +D+G +
+Sbjct  1   MATIVDCPTCGTKVEWSEKNKFRPFCSERCKQIDLGAWAEEKYTIPAVNLPLEDEGDK  58
+
+
+>WP_013030826.1 DNA gyrase inhibitor YacG [Sideroxydans lithotrophicus]
+Length=61
+
+ Score = 65.5 bits (158),  Expect = 5e-013, Method: Compositional matrix adjust.
+ Identities = 33/59 (56%), Positives = 40/59 (68%), Gaps = 3/59 (5%)
+
+Query  2   PRTFPCPRCGEPSVWE-GNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHE  59
+           P    CP CG+  VW+  N FRPFCSERCKLIDLG WAN+EYR+  ++  Q   GS H+
+Sbjct  4   PPIVTCPNCGKEMVWDTSNRFRPFCSERCKLIDLGKWANEEYRVEQRE--QDPPGSDHQ  60
+
+
+>WP_077563111.1 DNA gyrase inhibitor YacG [Polaromonas sp. C04]
+Length=70
+
+ Score = 65.9 bits (159),  Expect = 5e-013, Method: Compositional matrix adjust.
+ Identities = 30/50 (60%), Positives = 38/50 (76%), Gaps = 1/50 (2%)
+
+Query  2   PRTFPCPRCGEPSVWE-GNEFRPFCSERCKLIDLGAWANDEYRLPTQDAP  50
+           P+   CP CG  SV+   N +RPFCSERCK +DLGAWA++ +R+PTQDAP
+Sbjct  8   PKLVTCPTCGGDSVYAPTNPYRPFCSERCKNMDLGAWASERFRMPTQDAP  57
+
+
+>WP_082753529.1 DNA gyrase inhibitor YacG [Acidovorax delafieldii]
+Length=72
+
+ Score = 65.9 bits (159),  Expect = 5e-013, Method: Compositional matrix adjust.
+ Identities = 33/61 (54%), Positives = 40/61 (66%), Gaps = 5/61 (8%)
+
+Query  3   RTFPCPRCGEPSVWE-GNEFRPFCSERCKLIDLGAWANDEYRLPTQ----DAPQQDKGSQ  57
+           R   CP CG  SV+   N +RPFCSERCK IDLGAWA++ +R+PT+    DAP  D   Q
+Sbjct  12  RIVTCPSCGGDSVYSPANVYRPFCSERCKQIDLGAWASESFRMPTEAPPDDAPHGDPRQQ  71
+
+Query  58  H  58
+           H
+Sbjct  72  H  72
+
+
+>WP_082522383.1 MULTISPECIES: DNA gyrase inhibitor YacG [Acidovorax]
+Length=72
+
+ Score = 65.9 bits (159),  Expect = 5e-013, Method: Compositional matrix adjust.
+ Identities = 33/61 (54%), Positives = 40/61 (66%), Gaps = 5/61 (8%)
+
+Query  3   RTFPCPRCGEPSVWEG-NEFRPFCSERCKLIDLGAWANDEYRLPTQ----DAPQQDKGSQ  57
+           R   CP CG  SV+   N +RPFCSERCK IDLGAWA++ +R+PT+    DAP  D   Q
+Sbjct  12  RIVTCPSCGGDSVYSAANVYRPFCSERCKQIDLGAWASESFRMPTEAPPDDAPHGDPRQQ  71
+
+Query  58  H  58
+           H
+Sbjct  72  H  72
+
+
+>WP_014995804.1 DNA gyrase inhibitor YacG [Alcanivorax dieselolei]
+Length=64
+
+ Score = 65.5 bits (158),  Expect = 5e-013, Method: Compositional matrix adjust.
+ Identities = 25/43 (58%), Positives = 36/43 (84%), Gaps = 0/43 (0%)
+
+Query  3   RTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLP  45
+           R +PCP C +P+ W+ N +RPFCSERCK+IDLGAWA++++ +P
+Sbjct  7   RIYPCPHCKKPTRWDDNPWRPFCSERCKMIDLGAWASEQHMIP  49
+
+
+>WP_083437464.1 DNA gyrase inhibitor YacG [Pyrinomonas methylaliphatogenes]
+Length=68
+
+ Score = 65.9 bits (159),  Expect = 5e-013, Method: Compositional matrix adjust.
+ Identities = 30/60 (50%), Positives = 40/60 (67%), Gaps = 1/60 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHED  60
+           M     CP CG+P+ W+ N FRPFCSERCKLID G W +++Y LP ++  + D+ S  ED
+Sbjct  1   MTTQIKCPICGKPTQWQDNPFRPFCSERCKLIDFGHWIDEDYALPAEEE-RSDEKSIKED  59
+
+
+>WP_027850243.1 DNA gyrase inhibitor YacG [Marinospirillum insulare]
+Length=63
+
+ Score = 65.5 bits (158),  Expect = 6e-013, Method: Compositional matrix adjust.
+ Identities = 29/59 (49%), Positives = 39/59 (66%), Gaps = 1/59 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEG-NEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQH  58
+           + R FPCP CG+PS+    N FRPFC ERCKLIDLGAWA +++++   +    D   Q+
+Sbjct  5   ITRIFPCPTCGKPSILSKENAFRPFCCERCKLIDLGAWAAEDHKIAGDELLDVDDQDQY  63
+
+
+>WP_066268335.1 hypothetical protein [Hydrogenophaga palleronii]
+Length=69
+
+ Score = 65.5 bits (158),  Expect = 6e-013, Method: Compositional matrix adjust.
+ Identities = 32/54 (59%), Positives = 39/54 (72%), Gaps = 2/54 (4%)
+
+Query  3   RTFPCPRCGEPSVWE-GNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKG  55
+           RT  CP+CG PSV+   N +RPFC ERCK IDLGAWAN+E+ LP ++  Q D G
+Sbjct  13  RTVRCPQCGGPSVYALSNVYRPFCGERCKQIDLGAWANEEFSLPEKEG-QSDPG  65
+
+
+>WP_075111720.1 DNA gyrase inhibitor YacG [Noviherbaspirillum massiliense]
+Length=67
+
+ Score = 65.5 bits (158),  Expect = 6e-013, Method: Compositional matrix adjust.
+ Identities = 33/63 (52%), Positives = 40/63 (63%), Gaps = 5/63 (8%)
+
+Query  1   MPRTFPCPRCGEPSVW-EGNEFRPFCSERCKLIDLGAWANDEYRLPTQ----DAPQQDKG  55
+           MP    CP CG+   W E N+FRPFCSERCK IDLGAWA ++Y +P++    D PQ   G
+Sbjct  1   MPTVVNCPTCGKKVEWTEKNKFRPFCSERCKQIDLGAWAEEKYVIPSKEPVDDVPQDPDG  60
+
+Query  56  SQH  58
+             H
+Sbjct  61  DGH  63
+
+
+>WP_085391163.1 DNA gyrase inhibitor YacG [Neisseria animaloris]
+Length=62
+
+ Score = 65.5 bits (158),  Expect = 6e-013, Method: Compositional matrix adjust.
+ Identities = 28/43 (65%), Positives = 34/43 (79%), Gaps = 1/43 (2%)
+
+Query  7   CPRCGEPSVWEG-NEFRPFCSERCKLIDLGAWANDEYRLPTQD  48
+           CP CG+   W   N++RPFCSERCKLIDLGAWAN++Y LP Q+
+Sbjct  10  CPTCGKQVAWTTENQYRPFCSERCKLIDLGAWANEDYNLPAQE  52
+
+
+>WP_068543584.1 zinc-binding protein [Thermodesulfatator autotrophicus]
+Length=60
+
+ Score = 65.5 bits (158),  Expect = 6e-013, Method: Compositional matrix adjust.
+ Identities = 26/44 (59%), Positives = 34/44 (77%), Gaps = 0/44 (0%)
+
+Query  1   MPRTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRL  44
+           M +   CP+CG+ + WE N +RPFCSERCKLIDLG W ++EYR+
+Sbjct  1   MKKKIKCPQCGKLTFWEENPYRPFCSERCKLIDLGHWLSEEYRI  44
+
+
+>WP_054254696.1 DNA gyrase inhibitor YacG [Acidovorax caeni]
+Length=68
+
+ Score = 65.5 bits (158),  Expect = 6e-013, Method: Compositional matrix adjust.
+ Identities = 30/50 (60%), Positives = 37/50 (74%), Gaps = 1/50 (2%)
+
+Query  3   RTFPCPRCGEPSVWE-GNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQ  51
+           RT PCP CG  SV+   N FRPFCS RCK IDLGAWA +E+R+P++  P+
+Sbjct  7   RTVPCPTCGGDSVFSPANRFRPFCSARCKQIDLGAWATEEFRVPSEAPPE  56
+
+
+>WP_034839534.1 DNA gyrase inhibitor YacG [Endozoicomonas numazuensis]
+Length=64
+
+ Score = 65.5 bits (158),  Expect = 6e-013, Method: Compositional matrix adjust.
+ Identities = 29/46 (63%), Positives = 37/46 (80%), Gaps = 1/46 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEG-NEFRPFCSERCKLIDLGAWANDEYRLP  45
+           MP T  CP+CG+   W+  N+FRPFCSERCKLIDLGAWA++E+ +P
+Sbjct  1   MPTTVKCPKCGKDVEWKKENKFRPFCSERCKLIDLGAWASEEHAIP  46
+
+
+>WP_082212222.1 DNA gyrase inhibitor YacG [Endozoicomonas montiporae]
+Length=64
+
+ Score = 65.5 bits (158),  Expect = 7e-013, Method: Compositional matrix adjust.
+ Identities = 28/46 (61%), Positives = 35/46 (76%), Gaps = 1/46 (2%)
+
+Query  1   MPRTFPCPRCGEPSVWEG-NEFRPFCSERCKLIDLGAWANDEYRLP  45
+           MP T  CP C +P  W+  N++RPFCSERCKLID GAWAN+E+ +P
+Sbjct  1   MPTTVKCPNCNKPVEWKKENKYRPFCSERCKLIDFGAWANEEHSIP  46
+
+
+>WP_022995248.1 MULTISPECIES: DNA gyrase inhibitor YacG [Alcanivorax]
+Length=64
+
+ Score = 65.5 bits (158),  Expect = 7e-013, Method: Compositional matrix adjust.
+ Identities = 25/43 (58%), Positives = 36/43 (84%), Gaps = 0/43 (0%)
+
+Query  3   RTFPCPRCGEPSVWEGNEFRPFCSERCKLIDLGAWANDEYRLP  45
+           R +PCP C +P+ W+ N +RPFCSERCK+IDLGAWA++++ +P
+Sbjct  7   RIYPCPHCKKPTRWDDNPWRPFCSERCKMIDLGAWASEQHVIP  49
+
+
+>WP_015012711.1 DNA gyrase inhibitor YacG [Acidovorax sp. KKS102]
+Length=72
+
+ Score = 65.5 bits (158),  Expect = 7e-013, Method: Compositional matrix adjust.
+ Identities = 33/61 (54%), Positives = 40/61 (66%), Gaps = 5/61 (8%)
+
+Query  3   RTFPCPRCGEPSVWE-GNEFRPFCSERCKLIDLGAWANDEYRLPTQ----DAPQQDKGSQ  57
+           R   CP CG  SV+   N +RPFCSERCK IDLGAWA++ +R+PT+    DAP  D   Q
+Sbjct  12  RIVTCPSCGGNSVYSPANVYRPFCSERCKQIDLGAWASESFRMPTEAPPDDAPHGDPRQQ  71
+
+Query  58  H  58
+           H
+Sbjct  72  H  72
+
+
+>WP_011399020.1 DNA gyrase inhibitor YacG [Hahella chejuensis]
+Length=78
+
+ Score = 65.5 bits (158),  Expect = 7e-013, Method: Compositional matrix adjust.
+ Identities = 31/56 (55%), Positives = 44/56 (79%), Gaps = 3/56 (5%)
+
+Query  7   CPRCGEPSVW-EGNEFRPFCSERCKLIDLGAWANDEYRLPTQDAPQQDKGSQHEDD  61
+           CP CG+   W + NEFRPFCS+RC++IDLGAWA++EYR+   +A ++DK S+ ED+
+Sbjct  19  CPTCGKKVPWTQENEFRPFCSKRCQMIDLGAWASEEYRIA--EAEEKDKWSETEDE  72
+
+
+
+Lambda      K        H
+   0.317    0.138    0.479 
+
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+
+Effective search space used: 766183659471
+
+
+  Database: NCBI Protein Reference Sequences
+    Posted date:  May 29, 2017 12:00 AM
+  Number of letters in database: 31,412,196,622
+  Number of sequences in database:  82,027,677
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40

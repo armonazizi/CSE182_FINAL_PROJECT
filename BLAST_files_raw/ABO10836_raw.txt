@@ -1,0 +1,4284 @@
+BLASTP 2.6.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: NCBI Protein Reference Sequences
+           82,027,677 sequences; 31,412,196,622 total letters
+
+
+
+Query= embl-cds:ABO10836 hypothetical protein OS=Acinetobacter baumannii
+(strain ATCC 17978 / CIP 53.77 / LMG 1025 / NCDC KC755 / 5377)
+GN=A1S_0376 SV=1 UP=UP000006737:Chromosome
+
+Length=85
+
+RID: JVB6JFZG014
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+WP_000003406.1  MULTISPECIES: TusA-like sulfurtransferase [Acinet...  179     2e-057
+WP_004748427.1  TusA-like sulfurtransferase [Acinetobacter bauman...  178     6e-057
+WP_031379569.1  sulfurtransferase TusA [Acinetobacter baumannii]      177     6e-057
+WP_086374522.1  sulfurtransferase TusA [Acinetobacter baumannii]      177     1e-056
+WP_057695150.1  sulfurtransferase TusA [Acinetobacter baumannii]      177     1e-056
+WP_031972325.1  sulfurtransferase TusA [Acinetobacter baumannii]      176     4e-056
+WP_031951906.1  sulfurtransferase TusA [Acinetobacter baumannii]      175     5e-056
+WP_004640919.1  MULTISPECIES: TusA-like sulfurtransferase [Acinet...  174     1e-055
+WP_004680654.1  MULTISPECIES: TusA-like sulfurtransferase [Acinet...  165     5e-052
+WP_005162798.1  MULTISPECIES: TusA-like sulfurtransferase [Acinet...  164     2e-051
+WP_004659200.1  TusA-like sulfurtransferase [Acinetobacter sp. NI...  163     3e-051
+WP_005051116.1  TusA-like sulfurtransferase [Acinetobacter beijer...  162     6e-051
+WP_004674469.1  TusA-like sulfurtransferase [Acinetobacter parvus]    162     6e-051
+WP_005061127.1  TusA-like sulfurtransferase [Acinetobacter beijer...  162     8e-051
+WP_018677407.1  sulfurtransferase TusA [Acinetobacter tjernbergiae]   161     2e-050
+WP_016653192.1  sulfurtransferase TusA [Acinetobacter sp. NIPH 2036]  161     2e-050
+WP_060465209.1  sulfurtransferase TusA [Acinetobacter sp. LMB-5]      161     2e-050
+WP_005226520.1  MULTISPECIES: TusA-like sulfurtransferase [Acinet...  160     4e-050
+WP_038344810.1  sulfurtransferase TusA [Acinetobacter sp. A47]        160     6e-050
+WP_002053527.1  MULTISPECIES: sulfurtransferase TusA [Acinetobacter]  160     6e-050
+WP_004656127.1  MULTISPECIES: TusA-like sulfurtransferase [Acinet...  160     8e-050
+WP_005278661.1  MULTISPECIES: TusA-like sulfurtransferase [Acinet...  159     1e-049
+WP_019768048.1  MULTISPECIES: sulfurtransferase TusA [Acinetobact...  159     2e-049
+WP_005291507.1  TusA-like sulfurtransferase [Acinetobacter sp. NI...  158     4e-049
+WP_005239999.1  MULTISPECIES: TusA-like sulfurtransferase [Acinet...  158     4e-049
+WP_057104858.1  MULTISPECIES: sulfurtransferase TusA [Acinetobacter]  158     5e-049
+WP_033133220.1  sulfurtransferase TusA [Acinetobacter sp. MN12]       157     7e-049
+WP_044101323.1  sulfurtransferase TusA [Acinetobacter pittii]         157     8e-049
+WP_004916739.1  TusA-like sulfurtransferase [Acinetobacter junii]     157     9e-049
+WP_005192080.1  TusA-like sulfurtransferase [Acinetobacter sp. AN...  157     1e-048
+WP_005037115.1  MULTISPECIES: sulfurtransferase TusA [Acinetobacter]  157     1e-048
+WP_004802398.1  MULTISPECIES: TusA-like sulfurtransferase [Acinet...  157     1e-048
+WP_004749802.1  MULTISPECIES: TusA-like sulfurtransferase [Acinet...  157     1e-048
+WP_004876567.1  MULTISPECIES: TusA-like sulfurtransferase [Acinet...  157     1e-048
+WP_004637738.1  MULTISPECIES: sulfurtransferase TusA [Acinetobacter]  156     2e-048
+WP_005194842.1  TusA-like sulfurtransferase [Acinetobacter sp. NI...  156     2e-048
+WP_004957577.1  TusA-like sulfurtransferase [Acinetobacter junii]     156     2e-048
+WP_004668436.1  TusA-like sulfurtransferase [Acinetobacter sp. CI...  156     2e-048
+WP_004774171.1  MULTISPECIES: TusA-like sulfurtransferase [Acinet...  155     3e-048
+WP_047431363.1  sulfurtransferase TusA [Acinetobacter sp. neg1]       154     1e-047
+WP_068885577.1  sulfurtransferase TusA [Acinetobacter celticus]       154     1e-047
+WP_067728132.1  sulfurtransferase TusA [Acinetobacter sp. NCu2D-2]    154     2e-047
+WP_005001252.1  TusA-like sulfurtransferase [Acinetobacter ursingii]  153     2e-047
+WP_004975955.1  sulfurtransferase TusA [Acinetobacter towneri]        153     3e-047
+WP_070154406.1  sulfurtransferase TusA [Acinetobacter towneri]        153     3e-047
+WP_044434013.1  sulfurtransferase TusA [Acinetobacter ursingii]       153     4e-047
+WP_019836046.1  sulfurtransferase TusA [Acinetobacter sp. MDS7A]      152     1e-046
+WP_004649978.1  MULTISPECIES: sulfurtransferase TusA [Acinetobacter]  151     2e-046
+WP_039620863.1  sulfurtransferase TusA [Acinetobacter harbinensis]    151     2e-046
+WP_067669680.1  sulfurtransferase TusA [Acinetobacter sp. ANC 4149]   151     2e-046
+WP_004932596.1  MULTISPECIES: TusA-like sulfurtransferase [Acinet...  151     2e-046
+WP_086214297.1  sulfurtransferase TusA [Acinetobacter sp. ANC 3813]   151     2e-046
+WP_016168359.1  sulfurtransferase TusA [Acinetobacter tandoii]        151     3e-046
+WP_025095329.1  sulfurtransferase TusA [Acinetobacter soli]           151     3e-046
+WP_086193029.1  sulfurtransferase TusA [Acinetobacter sp. ANC 4655]   150     3e-046
+WP_004994165.1  MULTISPECIES: TusA-like sulfurtransferase [Acinet...  150     3e-046
+WP_086195249.1  sulfurtransferase TusA [Acinetobacter sp. ANC 4218]   150     4e-046
+WP_017400678.1  sulfurtransferase TusA [Acinetobacter radioresist...  150     4e-046
+WP_086189669.1  sulfurtransferase TusA [Acinetobacter sp. ANC 3832]   150     5e-046
+WP_067866191.1  sulfurtransferase TusA [Acinetobacter sp. SFB]        150     6e-046
+WP_053578894.1  sulfurtransferase TusA [Acinetobacter sp. TTH0-4]     150     8e-046
+WP_026444092.1  sulfurtransferase TusA [Acinetobacter sp. UNC436C...  150     8e-046
+WP_005023146.1  MULTISPECIES: TusA-like sulfurtransferase [Acinet...  150     8e-046
+WP_065994036.1  MULTISPECIES: sulfurtransferase TusA [Acinetobacter]  150     8e-046
+WP_004869743.1  TusA-like sulfurtransferase [Acinetobacter gerneri]   149     9e-046
+WP_004813458.1  MULTISPECIES: TusA-like sulfurtransferase [Acinet...  149     1e-045
+WP_005181880.1  MULTISPECIES: TusA-like sulfurtransferase [Acinet...  149     1e-045
+WP_086165123.1  sulfurtransferase TusA [Acinetobacter sp. ANC 4654]   149     1e-045
+WP_005007096.1  TusA-like sulfurtransferase [Acinetobacter bouvetii]  149     1e-045
+WP_086199467.1  sulfurtransferase TusA [Acinetobacter sp. ANC 4169]   149     1e-045
+WP_034684926.1  MULTISPECIES: sulfurtransferase TusA [Acinetobacter]  149     1e-045
+WP_068975110.1  sulfurtransferase TusA [Acinetobacter sp. WCHA60]     149     1e-045
+WP_004692640.1  MULTISPECIES: TusA-like sulfurtransferase [Acinet...  149     2e-045
+WP_004781744.1  MULTISPECIES: TusA-like sulfurtransferase [Acinet...  149     2e-045
+WP_034587933.1  sulfurtransferase TusA [Acinetobacter sp. HR7]        148     3e-045
+WP_078189780.1  MULTISPECIES: sulfurtransferase TusA [Acinetobacter]  148     3e-045
+WP_010111820.1  sulfurtransferase TusA [Acinetobacter sp. P8-3-8]     148     3e-045
+WP_086181449.1  sulfurtransferase TusA [Acinetobacter sp. ANC 4558]   148     3e-045
+WP_004991544.1  TusA-like sulfurtransferase [Acinetobacter ursingii]  148     4e-045
+WP_086174067.1  sulfurtransferase TusA [Acinetobacter sp. ANC 3903]   148     4e-045
+WP_068909760.1  sulfurtransferase TusA [Acinetobacter sp. WCHA34]     148     4e-045
+WP_086187277.1  sulfurtransferase TusA [Acinetobacter sp. ANC 4470]   147     5e-045
+WP_005016897.1  MULTISPECIES: TusA-like sulfurtransferase [Acinet...  147     6e-045
+WP_086209657.1  sulfurtransferase TusA [Acinetobacter sp. ANC 4204]   146     2e-044
+WP_054582353.1  sulfurtransferase TusA [Acinetobacter equi]           146     3e-044
+WP_035264077.1  sulfurtransferase TusA [Acinetobacter sp. Ver3]       145     3e-044
+WP_067663053.1  sulfurtransferase TusA [Acinetobacter sp. TGL-Y2]     145     7e-044
+WP_005095362.1  sulfurtransferase TusA [Acinetobacter lwoffii]        144     1e-043
+WP_004920351.1  MULTISPECIES: TusA-like sulfurtransferase [Acinet...  144     1e-043
+WP_005172942.1  sulfurtransferase TusA [Acinetobacter sp. NIPH 713]   144     1e-043
+WP_064102195.1  sulfurtransferase TusA [Acinetobacter sp. SFA]        144     1e-043
+WP_004729361.1  MULTISPECIES: TusA-like sulfurtransferase [Acinet...  144     2e-043
+WP_004278563.1  MULTISPECIES: sulfurtransferase TusA [Acinetobacter]  144     2e-043
+WP_004725563.1  MULTISPECIES: sulfurtransferase TusA [Acinetobacter]  143     3e-043
+WP_004825297.1  TusA-like sulfurtransferase [Acinetobacter berezi...  142     1e-042
+WP_009587192.1  MULTISPECIES: sulfurtransferase TusA [Acinetobacter]  141     2e-042
+WP_067761197.1  sulfurtransferase TusA [Acinetobacter gandensis]      141     2e-042
+WP_086177043.1  sulfurtransferase TusA [Acinetobacter sp. ANC 5054]   140     4e-042
+WP_016657668.1  sulfurtransferase TusA [Acinetobacter rudis]          140     4e-042
+WP_046760841.1  sulfurtransferase TusA [Acinetobacter sp. Ag2]        140     5e-042
+WP_005034237.1  sulfurtransferase TusA [Acinetobacter bereziniae]     140     7e-042
+WP_067551764.1  sulfurtransferase TusA [Acinetobacter larvae]         136     1e-040
+WP_086202373.1  sulfurtransferase TusA [Acinetobacter sp. ANC 4999]   134     1e-039
+WP_086205062.1  sulfurtransferase TusA [Acinetobacter sp. ANC 4648]   134     1e-039
+WP_023273009.1  sulfurtransferase TusA [Acinetobacter nectaris]       126     1e-036
+WP_080911208.1  sulfurtransferase TusA [Klebsiella pneumoniae]        125     2e-036
+WP_070069755.1  sulfurtransferase TusA [Acinetobacter qingfengensis]  120     3e-034
+WP_051526783.1  sulfurtransferase TusA [Alkanindiges illinoisensis]   98.2    3e-025
+WP_079690550.1  sulfurtransferase TusA [Psychrobacter sp. DAB_AL43B]  97.8    4e-025
+WP_066805807.1  sulfurtransferase TusA [Moraxella oblonga]            97.4    4e-025
+WP_078306436.1  sulfurtransferase TusA [Moraxella lincolnii]          97.8    4e-025
+WP_019673194.1  hypothetical protein [Psychrobacter lutiphocae]       99.0    4e-025
+WP_011279367.1  sulfurtransferase TusA [Psychrobacter arcticus]       97.4    5e-025
+WP_011512434.1  sulfurtransferase TusA [Psychrobacter cryohalolen...  97.4    6e-025
+WP_020442453.1  sulfurtransferase TusA [Psychrobacter sp. G]          97.1    7e-025
+WP_025645432.1  MULTISPECIES: sulfurtransferase TusA [Psychrobacter]  97.8    8e-025
+WP_008249979.1  sulfurtransferase TusA [Zhongshania aliphaticivor...  96.7    8e-025
+WP_050324895.1  MULTISPECIES: sulfurtransferase TusA [Proteobacte...  94.7    6e-024
+WP_062843510.1  sulfurtransferase TusA [Psychrobacter alimentarius]   95.5    7e-024
+WP_078317390.1  sulfurtransferase TusA [Moraxella porci]              94.4    8e-024
+WP_079326654.1  sulfurtransferase TusA [Moraxella equi]               93.2    2e-023
+WP_015818330.1  sulfurtransferase TusA [Teredinibacter turnerae]      93.2    2e-023
+WP_018015186.1  sulfurtransferase TusA [Teredinibacter turnerae]      93.2    2e-023
+WP_062536569.1  sulfurtransferase TusA [Psychrobacter urativorans]    93.2    2e-023
+WP_028885927.1  sulfurtransferase TusA [Teredinibacter turnerae]      92.8    3e-023
+WP_011959436.1  SirA family protein [Psychrobacter sp. PRwf-1]        93.2    3e-023
+WP_062501545.1  sulfurtransferase TusA [Moraxella lacunata]           92.8    3e-023
+WP_058367847.1  MULTISPECIES: sulfurtransferase TusA [Psychrobacter]  93.2    4e-023
+WP_015486408.1  sulfurtransferase TusA [Thalassolituus oleivorans]    92.4    4e-023
+WP_078277261.1  sulfurtransferase TusA [Moraxella caviae]             92.8    5e-023
+WP_065255796.1  sulfurtransferase TusA [Moraxella lacunata]           92.0    5e-023
+WP_058023620.1  sulfurtransferase TusA [Psychrobacter piscatorii]     92.8    6e-023
+WP_078275185.1  sulfurtransferase TusA [Moraxella bovis]              92.0    6e-023
+WP_075105869.1  sulfurtransferase TusA [Psychrobacter sp. C 20.9]     92.8    6e-023
+WP_071002614.1  sulfurtransferase TusA [Psychrobacter sp. AntiMn-1]   92.8    6e-023
+WP_077447556.1  sulfurtransferase TusA [Psychrobacter sp. CIP 110...  92.0    9e-023
+WP_077450136.1  sulfurtransferase TusA [Psychrobacter sp. CIP 110...  91.7    1e-022
+WP_028858394.1  sulfurtransferase [Psychrobacter phenylpyruvicus]     91.3    2e-022
+WP_060490166.1  sulfurtransferase TusA [Psychrobacter sp. P11F6]      91.7    2e-022
+WP_068033657.1  sulfurtransferase TusA [Psychrobacter sp. P11G5]      91.3    2e-022
+WP_068407927.1  sulfurtransferase TusA [Psychrobacter sp. SHUES1]     91.3    3e-022
+WP_007394583.1  sulfurtransferase TusA [Psychrobacter sp. 1501(20...  90.9    3e-022
+WP_026193649.1  MULTISPECIES: sulfurtransferase TusA [Teredinibac...  90.1    3e-022
+WP_064607776.1  sulfurtransferase TusA [Moraxella catarrhalis]        90.1    4e-022
+WP_076555544.1  sulfurtransferase TusA [Moraxella cuniculi]           89.7    5e-022
+WP_021814150.1  sulfurtransferase TusA [Psychrobacter aquaticus]      90.5    5e-022
+WP_049235608.1  MULTISPECIES: sulfurtransferase TusA [Moraxella]      89.7    5e-022
+WP_036993451.1  TusA-like sulfurtransferase [Pseudomonas bauzanen...  89.7    5e-022
+WP_036187067.1  sulfurtransferase TusA [Marinimicrobium agarilyti...  89.7    5e-022
+WP_064724404.1  sulfurtransferase TusA [Moraxella catarrhalis]        89.7    5e-022
+WP_025652600.1  MULTISPECIES: sulfurtransferase TusA [Psychrobacter]  90.5    6e-022
+WP_064610828.1  sulfurtransferase TusA [Moraxella catarrhalis]        89.7    6e-022
+WP_064643472.1  sulfurtransferase TusA [Moraxella catarrhalis]        89.7    6e-022
+WP_010197717.1  sulfurtransferase TusA [Psychrobacter sp. PAMC 21...  90.5    6e-022
+WP_028882023.1  sulfurtransferase TusA [Teredinibacter turnerae]      89.4    7e-022
+WP_070473253.1  sulfurtransferase TusA [Moraxella sp. HMSC061H09]     89.4    7e-022
+WP_034837242.1  sulfurtransferase TusA [Endozoicomonas numazuensis]   89.4    7e-022
+WP_057757718.1  sulfurtransferase TusA [Psychrobacter sp. P11G3]      90.1    9e-022
+WP_055123705.1  sulfurtransferase TusA [Psychrobacter glacincola]     90.1    9e-022
+WP_064603077.1  sulfurtransferase TusA [Moraxella catarrhalis]        89.0    1e-021
+WP_046697330.1  sulfurtransferase TusA [Moraxella bovoculi]           89.0    1e-021
+WP_083727895.1  sulfurtransferase TusA [Pseudomonas pachastrellae]    89.0    1e-021
+WP_046700496.1  MULTISPECIES: sulfurtransferase TusA [Moraxella]      88.6    1e-021
+WP_029103528.1  sulfurtransferase TusA [Moraxella caprae]             88.6    1e-021
+WP_041522625.1  sulfurtransferase TusA [Gilvimarinus agarilyticus]    88.6    1e-021
+WP_036363862.1  sulfurtransferase TusA [Moraxella bovoculi]           88.2    2e-021
+WP_067237924.1  sulfurtransferase TusA [Moraxella atlantae]           89.0    2e-021
+WP_073277327.1  sulfurtransferase TusA [Microbulbifer donghaiensis]   88.2    2e-021
+WP_064651319.1  sulfurtransferase TusA [Moraxella catarrhalis]        88.2    2e-021
+WP_046701552.1  sulfurtransferase TusA [Moraxella bovoculi]           87.8    2e-021
+WP_075101354.1  sulfurtransferase TusA [Psychrobacter sp. Rd 27.2]    89.0    2e-021
+WP_064636916.1  sulfurtransferase TusA [Moraxella catarrhalis]        87.8    2e-021
+WP_040807017.1  sulfurtransferase TusA [gamma proteobacterium IMC...  87.8    3e-021
+WP_022963181.1  sulfurtransferase TusA [Pseudomonas pelagia]          87.8    3e-021
+WP_013108262.1  sulfurtransferase TusA [Moraxella catarrhalis]        87.8    3e-021
+WP_066893972.1  sulfurtransferase TusA [Moraxella nonliquefaciens]    87.8    3e-021
+WP_049723808.1  sulfurtransferase TusA [Gilvimarinus polysaccharo...  87.8    3e-021
+WP_003672592.1  sulfurtransferase TusA [Moraxella catarrhalis]        87.4    3e-021
+WP_003657195.1  sulfurtransferase TusA [Moraxella catarrhalis]        87.4    4e-021
+WP_008042737.1  sulfurtransferase TusA [Reinekea blandensis]          87.4    5e-021
+WP_019520699.1  sulfurtransferase TusA [Moraxella boevrei]            88.2    5e-021
+WP_028968037.1  sulfurtransferase TusA [Spongiibacter tropicus]       87.0    5e-021
+WP_026291525.1  sulfurtransferase TusA [Marinobacterium rhizophilum]  87.0    6e-021
+WP_068325356.1  sulfurtransferase TusA [Psychrobacter sp. P2G3]       87.8    6e-021
+WP_044500645.1  TusA-like sulfurtransferase [Pseudomonas saudimas...  87.0    6e-021
+WP_027873827.1  sulfurtransferase TusA [Spongiibacter marinus]        87.0    6e-021
+WP_012487977.1  sulfurtransferase TusA [Cellvibrio japonicus]         87.0    6e-021
+WP_067058908.1  sulfurtransferase TusA [Moraxella atlantae]           87.4    7e-021
+WP_066885253.1  sulfurtransferase TusA [Moraxella nonliquefaciens]    86.7    7e-021
+WP_067289635.1  sulfurtransferase TusA [Marinobacterium profundum]    86.7    8e-021
+WP_067007538.1  sulfurtransferase TusA [Moraxella nonliquefaciens]    86.7    1e-020
+WP_068389421.1  sulfurtransferase TusA [Ventosimonas gracilis]        86.7    1e-020
+WP_078255006.1  sulfurtransferase TusA [Moraxella pluranimalium]      86.3    1e-020
+WP_020210324.1  sulfurtransferase TusA [Gilvimarinus chinensis]       86.3    1e-020
+WP_022956323.1  sulfurtransferase TusA [Perlucidibaca piscinae]       86.3    1e-020
+WP_027706718.1  sulfurtransferase TusA [Zooshikella ganghwensis]      86.3    1e-020
+WP_067383071.1  sulfurtransferase TusA [Marinobacterium sp. ST58-10]  86.3    1e-020
+WP_076878659.1  sulfurtransferase TusA [Alkanindiges sp. H1]          86.3    2e-020
+WP_007642439.1  sulfurtransferase TusA [Cellvibrio sp. BR]            85.5    2e-020
+WP_062065526.1  sulfurtransferase TusA [Cellvibrio sp. OA-2007]       85.5    2e-020
+WP_067087240.1  MULTISPECIES: sulfurtransferase TusA [Microbulbifer]  85.5    2e-020
+WP_070977869.1  sulfurtransferase TusA [Kushneria sp. YCWA18]         85.1    3e-020
+WP_058021557.1  sulfurtransferase TusA [Pseudohongiella spirulinae]   85.1    3e-020
+WP_071230344.1  sulfurtransferase TusA [Salinicola sp. MIT1003]       85.1    3e-020
+WP_075569352.1  sulfurtransferase TusA [Salinicola socius]            85.1    3e-020
+WP_085157627.1  sulfurtransferase TusA [Alteromonadaceae bacteriu...  85.1    3e-020
+WP_076518202.1  sulfurtransferase TusA [Oleibacter marinus]           85.1    4e-020
+WP_053109540.1  sulfurtransferase TusA [Oblitimonas alkaliphila]      84.7    4e-020
+WP_013261281.1  sulfurtransferase TusA [gamma proteobacterium HdN1]   85.1    4e-020
+WP_068811841.1  MULTISPECIES: sulfurtransferase TusA [Pseudohongi...  85.1    4e-020
+WP_009767044.1  sulfurtransferase TusA [Moraxella macacae]            85.1    5e-020
+WP_034733516.1  sulfurtransferase TusA [Idiomarina atlantica]         84.7    5e-020
+WP_027313330.1  sulfurtransferase TusA [Balneatrix alpica]            84.3    6e-020
+WP_068509866.1  MULTISPECIES: sulfurtransferase TusA [Oleiphilus]     84.3    7e-020
+WP_067037678.1  sulfurtransferase TusA [Marinomonas gallaica]         84.3    7e-020
+WP_039913509.1  sulfurtransferase TusA [Cellvibrio mixtus]            84.3    7e-020
+WP_068860047.1  sulfurtransferase TusA [Perlucidibaca sp. BK296]      84.3    7e-020
+WP_075563731.1  sulfurtransferase TusA [Salinicola sp. MH3R3-1]       84.3    8e-020
+WP_066966015.1  sulfurtransferase TusA [Microbulbifer sp. Q7]         84.0    8e-020
+WP_010627690.1  sulfurtransferase TusA [Halomonas sp. KM-1]           84.3    8e-020
+WP_066451194.1  sulfurtransferase TusA [Halomonas chromatireducens]   84.3    9e-020
+WP_054343421.1  sulfurtransferase TusA [Neptunomonas antarctica]      84.0    9e-020
+WP_067219395.1  sulfurtransferase TusA [Marinomonas gallaica]         84.0    1e-019
+WP_084199714.1  sulfurtransferase TusA [Halioglobus japonicus]        84.0    1e-019
+WP_085760096.1  sulfurtransferase TusA [Oceanicoccus sagamiensis]     84.0    1e-019
+WP_066058819.1  sulfurtransferase TusA [Halioglobus sp. HI00S01]      84.0    1e-019
+WP_024460655.1  sulfurtransferase TusA [Marinimicrobium sp. LS-A18]   84.0    1e-019
+WP_067100475.1  sulfurtransferase TusA [Marinomonas atlantica]        84.0    1e-019
+WP_049629560.1  sulfurtransferase TusA [Cellvibrio sp. pealriver]     83.6    1e-019
+WP_008938642.1  sulfurtransferase TusA [Marinobacter santoriniensis]  83.6    1e-019
+WP_019530337.1  sulfurtransferase TusA [Dasania marina]               83.6    1e-019
+WP_027966411.1  sulfurtransferase TusA [Halomonas halocynthiae]       84.0    1e-019
+WP_040239149.1  sulfurtransferase TusA [Chromohalobacter japonicus]   84.0    1e-019
+WP_036128557.1  sulfurtransferase TusA [Marinobacter nitratireduc...  83.6    1e-019
+WP_007224648.1  sulfurtransferase TusA [marine gamma proteobacter...  83.6    1e-019
+WP_062270369.1  sulfurtransferase TusA [Endozoicomonas arenosclerae]  83.6    2e-019
+WP_028470432.1  sulfurtransferase TusA [Neptunomonas japonica]        83.6    2e-019
+WP_043193394.1  sulfurtransferase TusA [Pseudomonas rhizosphaerae]    83.2    2e-019
+WP_029653861.1  sulfurtransferase TusA [Marinobacter daepoensis]      83.2    2e-019
+WP_080050201.1  sulfurtransferase TusA [Pseudomonas sp. S-6-2]        82.8    2e-019
+WP_058068562.1  sulfurtransferase TusA [Pseudomonas sp. TTU2014-0...  82.8    3e-019
+WP_076747347.1  sulfurtransferase TusA [Halomonas sp. 1513]           82.8    3e-019
+WP_054206582.1  MULTISPECIES: sulfurtransferase TusA [Pseudoalter...  82.8    3e-019
+WP_076001451.1  sulfurtransferase TusA [Halioglobus pacificus]        82.8    3e-019
+WP_019622236.1  sulfurtransferase TusA [Amphritea japonica]           82.8    3e-019
+WP_043307492.1  sulfurtransferase TusA [Pseudomonas sp. ML96]         82.4    3e-019
+WP_037029569.1  MULTISPECIES: sulfurtransferase TusA [Pseudomonas]    82.8    3e-019
+WP_075368708.1  sulfurtransferase TusA [Chromohalobacter japonicus]   82.4    4e-019
+WP_047227197.1  MULTISPECIES: sulfurtransferase TusA [Pseudomonas]    82.4    4e-019
+WP_055462951.1  sulfurtransferase TusA [Marinomonas fungiae]          82.4    4e-019
+WP_047703829.1  sulfurtransferase TusA [Pseudomonas mediterranea]     82.4    4e-019
+WP_026003865.1  MULTISPECIES: sulfurtransferase TusA [Pseudomonas]    82.4    4e-019
+WP_044386089.1  sulfurtransferase TusA [Marinobacter excellens]       82.4    4e-019
+WP_041023259.1  sulfurtransferase TusA [Pseudomonas sp. SHC52]        82.4    4e-019
+WP_071941952.1  sulfurtransferase TusA [Halolamina sediminis]         82.4    4e-019
+WP_011467637.1  sulfurtransferase TusA [Saccharophagus degradans]     82.4    5e-019
+WP_028294118.1  sulfurtransferase TusA [Oceanobacter kriegii]         82.4    5e-019
+WP_009404574.1  sulfurtransferase TusA [Pseudomonas putida]           82.0    5e-019
+WP_046009272.1  sulfurtransferase TusA [Oleispira antarctica]         82.0    5e-019
+WP_078083939.1  sulfurtransferase TusA [Microbulbifer mangrovi]       82.0    5e-019
+WP_054892445.1  MULTISPECIES: sulfurtransferase TusA [Pseudomonas]    82.0    5e-019
+WP_067981637.1  sulfurtransferase TusA [Neptuniibacter pectenicola]   82.0    6e-019
+WP_034615043.1  sulfurtransferase TusA [Chelonobacter oris]           82.4    6e-019
+WP_042124282.1  sulfurtransferase TusA [Pseudomonas japonica]         82.0    6e-019
+WP_036514456.1  sulfurtransferase TusA [Nitrincola nitratireducens]   82.0    6e-019
+WP_028670084.1  sulfurtransferase TusA [Saccharospirillum impatiens]  82.0    6e-019
+WP_075185685.1  sulfurtransferase TusA [Alteromonadales bacterium...  81.6    6e-019
+WP_015464156.1  sulfurtransferase TusA [Psychromonas sp. CNPT3]       81.6    7e-019
+WP_068749959.1  sulfurtransferase TusA [Oleiphilus sp. HI0123]        81.3    7e-019
+WP_020409768.1  sulfurtransferase TusA [Hahella ganghwensis]          82.0    7e-019
+WP_064230197.1  MULTISPECIES: sulfurtransferase TusA [Marinobacter]   81.6    7e-019
+WP_076722991.1  sulfurtransferase TusA [Marinobacter lutaoensis]      81.6    7e-019
+WP_008737246.1  sulfurtransferase TusA [Alcanivorax pacificus]        81.6    7e-019
+WP_023632607.1  MULTISPECIES: sulfurtransferase TusA [Pseudomonas]    81.6    8e-019
+WP_036973681.1  MULTISPECIES: sulfurtransferase TusA [Pseudoalter...  81.6    8e-019
+WP_069183366.1  sulfurtransferase TusA [Marinobacter adhaerens]       81.6    8e-019
+WP_031383052.1  sulfurtransferase TusA [Halomonas zincidurans]        81.6    8e-019
+WP_024953372.1  sulfurtransferase TusA [Cobetia crustatorum]          81.6    8e-019
+WP_042732523.1  MULTISPECIES: sulfurtransferase TusA [Pseudomonas]    81.6    8e-019
+WP_022988009.1  MULTISPECIES: sulfurtransferase TusA [Marinobacter]   81.6    8e-019
+WP_009022201.1  sulfurtransferase TusA [gamma proteobacterium NOR...  81.6    9e-019
+WP_038608848.1  sulfurtransferase TusA [Pseudomonas alkylphenolica]   81.6    9e-019
+WP_028945899.1  sulfurtransferase TusA [Pseudomonas vranovensis]      81.3    1e-018
+WP_036519742.1  sulfurtransferase TusA [Nitrincola sp. A-D6]          81.3    1e-018
+WP_013463650.1  MULTISPECIES: sulfurtransferase TusA [Pseudoalter...  81.3    1e-018
+WP_060482166.1  sulfurtransferase TusA [Pseudomonas sp. NBRC 111119]  81.3    1e-018
+WP_069438503.1  sulfurtransferase TusA [Pseudoalteromonas tetraod...  81.3    1e-018
+WP_028632453.1  sulfurtransferase TusA [Pseudomonas parafulva]        81.3    1e-018
+WP_067209740.1  sulfurtransferase TusA [Marinomonas aquimarina]       81.3    1e-018
+WP_010132743.1  sulfurtransferase TusA [Microbulbifer agarilyticus]   81.3    1e-018
+WP_045186803.1  sulfurtransferase TusA [Pseudomonas sp. 5]            81.3    1e-018
+WP_043316909.1  sulfurtransferase TusA [Microbulbifer sp. HZ11]       81.3    1e-018
+WP_058405177.1  sulfurtransferase TusA [Pseudoalteromonas sp. H71]    81.3    1e-018
+WP_072677524.1  sulfurtransferase TusA [Marinobacter hydrocarbono...  81.3    1e-018
+WP_043512075.1  sulfurtransferase TusA [Halomonas sp. BC04]           81.3    1e-018
+WP_058605718.1  sulfurtransferase TusA [Pseudomonas parafulva]        81.3    1e-018
+WP_054903113.1  sulfurtransferase [Pseudomonas sp. NBRC 111131]       81.3    1e-018
+WP_029613893.1  sulfurtransferase TusA [Pseudomonas parafulva]        81.3    1e-018
+WP_012271322.1  MULTISPECIES: sulfurtransferase TusA [Pseudomonas]    80.9    1e-018
+WP_054674622.1  sulfurtransferase TusA [Photobacterium sp. JCM 19...  81.3    1e-018
+WP_055255663.1  sulfurtransferase TusA [Pseudoalteromonas sp. P1-11]  80.9    1e-018
+WP_019018557.1  sulfurtransferase TusA [Halomonas lutea]              80.9    1e-018
+WP_027919534.1  MULTISPECIES: sulfurtransferase TusA [Pseudomonas]    80.9    1e-018
+WP_045427723.1  MULTISPECIES: sulfurtransferase TusA [Pseudomonas]    80.9    2e-018
+WP_035593066.1  MULTISPECIES: sulfurtransferase TusA [Halomonas]      80.9    2e-018
+WP_074892403.1  sulfurtransferase TusA [Pseudomonas graminis]         80.9    2e-018
+WP_008090850.1  MULTISPECIES: sulfurtransferase TusA [Pseudomonas]    80.9    2e-018
+WP_075172411.1  sulfurtransferase TusA [Neptunomonas phycophila]      80.9    2e-018
+WP_003248727.1  MULTISPECIES: sulfurtransferase TusA [Pseudomonas]    80.9    2e-018
+WP_025754470.1  MULTISPECIES: sulfurtransferase TusA [Pseudomonas]    80.9    2e-018
+WP_054883466.1  sulfurtransferase TusA [Pseudomonas sp. NBRC 111130]  80.9    2e-018
+WP_064701608.1  MULTISPECIES: sulfurtransferase TusA [Halomonas]      80.9    2e-018
+WP_025338307.1  sulfurtransferase TusA [Pseudomonas sp. FGI182]       80.9    2e-018
+WP_035411792.1  sulfurtransferase TusA [Chromohalobacter israelen...  80.9    2e-018
+WP_027596647.1  MULTISPECIES: sulfurtransferase TusA [Pseudomonas]    80.9    2e-018
+WP_011507704.1  sulfurtransferase TusA [Chromohalobacter salexigens]  80.9    2e-018
+WP_077402345.1  sulfurtransferase TusA [Microbulbifer agarilyticus]   80.5    2e-018
+WP_054554785.1  MULTISPECIES: sulfurtransferase TusA [Pseudoalter...  80.5    2e-018
+WP_024591281.1  MULTISPECIES: sulfurtransferase TusA [Pseudoalter...  80.5    2e-018
+WP_058587453.1  sulfurtransferase TusA [Citrobacter amalonaticus]     80.5    2e-018
+WP_016500764.1  MULTISPECIES: sulfurtransferase TusA [Gammaproteo...  80.5    2e-018
+WP_055199314.1  MULTISPECIES: sulfurtransferase TusA [Pseudoalter...  80.5    2e-018
+WP_033700449.1  MULTISPECIES: sulfurtransferase TusA [Pseudomonas]    80.5    2e-018
+WP_084859038.1  sulfurtransferase TusA [Pseudomonas putida]           80.5    2e-018
+WP_007419514.1  sulfurtransferase TusA [Idiomarina sp. A28L]          80.5    2e-018
+WP_064668264.1  sulfurtransferase TusA [Pseudoalteromonas prydzen...  80.5    2e-018
+WP_023379551.1  MULTISPECIES: sulfurtransferase TusA [Pseudomonas]    80.5    2e-018
+WP_069947537.1  sulfurtransferase TusA [Microbulbifer sp. CCB-MM1]    80.5    2e-018
+WP_060476637.1  sulfurtransferase TusA [Pseudomonas monteilii]        80.5    2e-018
+WP_042998488.1  MULTISPECIES: sulfurtransferase TusA [Citrobacter]    80.5    2e-018
+WP_043206710.1  MULTISPECIES: sulfurtransferase TusA [Pseudomonas]    80.5    2e-018
+WP_016485619.1  sulfurtransferase TusA [Pseudomonas putida]           80.5    2e-018
+WP_035556892.1  sulfurtransferase TusA [Halomonas sp. KO116]          80.5    2e-018
+WP_070057961.1  sulfurtransferase TusA [Marinobacter sp. X15-166B]    80.5    3e-018
+WP_064663325.1  sulfurtransferase TusA [Pseudoalteromonas sp. MQS...  80.5    3e-018
+WP_051098827.1  sulfurtransferase TusA [Pseudomonas sp. 10-1B]        80.5    3e-018
+WP_028693822.1  sulfurtransferase TusA [Pseudomonas cremoricolorata]  80.5    3e-018
+WP_061904339.1  sulfurtransferase TusA [Pseudomonas alcaligenes]      80.1    3e-018
+WP_065758433.1  sulfurtransferase TusA [Pseudomonas sp. WCHP16]       80.5    3e-018
+WP_016710416.1  MULTISPECIES: sulfurtransferase TusA [Pseudoalter...  80.1    3e-018
+WP_018403040.1  sulfurtransferase TusA [Marinobacter lipolyticus]     80.1    3e-018
+WP_007350966.1  sulfurtransferase TusA [Marinobacter sp. ELB17]       80.1    3e-018
+WP_048307409.1  sulfurtransferase TusA [Halomonas sp. PR-M31]         80.1    3e-018
+WP_076716389.1  sulfurtransferase TusA [Motiliproteus sp. MSK22-1]    80.1    3e-018
+WP_003827551.1  MULTISPECIES: sulfurtransferase TusA [Enterobacte...  80.1    3e-018
+WP_024601483.1  MULTISPECIES: sulfurtransferase TusA [Pseudoalter...  80.1    3e-018
+WP_051790184.1  sulfurtransferase TusA [Endozoicomonas montiporae]    80.1    3e-018
+WP_053158731.1  sulfurtransferase TusA [Pseudomonas sp. Pf153]        80.1    3e-018
+WP_038483001.1  sulfurtransferase TusA [Halomonas campaniensis]       80.1    3e-018
+WP_036831863.1  sulfurtransferase TusA [Photobacterium sanctipauli]   80.1    3e-018
+WP_023534172.1  MULTISPECIES: sulfurtransferase TusA [Pseudomonas]    80.1    3e-018
+WP_060395687.1  sulfurtransferase TusA [Pseudomonas monteilii]        80.1    3e-018
+WP_053112251.1  sulfurtransferase TusA [Marinobacter sp. CP1]         80.1    3e-018
+WP_083181836.1  sulfurtransferase TusA [Pseudomonas sp. GEV388]       80.1    3e-018
+WP_016853945.1  sulfurtransferase TusA [Halomonas smyrnensis]         80.1    3e-018
+WP_027251763.1  sulfurtransferase TusA [Photobacterium halotolerans]  80.1    3e-018
+WP_038414272.1  sulfurtransferase TusA [Pseudomonas cremoricolorata]  80.1    3e-018
+WP_022940916.1  sulfurtransferase TusA [Psychromonas hadalis]         80.1    3e-018
+WP_075169475.1  sulfurtransferase TusA [Pseudoalteromonas halopla...  80.1    4e-018
+WP_065986265.1  sulfurtransferase TusA [Pseudomonas graminis]         80.1    4e-018
+WP_035513367.1  sulfurtransferase TusA [Pseudohaliea rubra]           80.1    4e-018
+WP_049859099.1  MULTISPECIES: sulfurtransferase TusA [Pseudomonas]    80.1    4e-018
+WP_042323034.1  MULTISPECIES: sulfurtransferase TusA [Gammaproteo...  80.1    4e-018
+WP_021216828.1  sulfurtransferase TusA [Pseudomonas alcaligenes]      80.1    4e-018
+XP_012246187.1  PREDICTED: uncharacterized hydrolase C25B8.12c-li...  85.5    4e-018
+WP_016900033.1  sulfurtransferase TusA [Pseudoalteromonas sp. PAM...  79.7    4e-018
+WP_006814305.1  sulfurtransferase TusA [Providencia rustigianii]      80.1    4e-018
+WP_038635021.1  MULTISPECIES: sulfurtransferase TusA [Citrobacter]    79.7    4e-018
+WP_021699775.1  sulfurtransferase TusA [Pseudomonas alcaligenes]      79.7    4e-018
+WP_006793987.1  MULTISPECIES: sulfurtransferase TusA [Pseudoalter...  79.7    4e-018
+WP_008112953.1  MULTISPECIES: sulfurtransferase TusA [Alteromonad...  79.7    4e-018
+WP_023005762.1  sulfurtransferase TusA [Halomonas sp. PBN3]           79.7    4e-018
+WP_066317448.1  sulfurtransferase TusA [Halomonas sp. G11]            79.7    4e-018
+WP_026305254.1  sulfurtransferase TusA [Microbulbifer variabilis]     79.7    4e-018
+WP_020584887.1  sulfurtransferase TusA [Endozoicomonas elysicola]     80.1    4e-018
+WP_082070697.1  sulfurtransferase TusA [Gynuella sunshinyii]          79.7    4e-018
+WP_027961586.1  sulfurtransferase TusA [Halomonas halodenitrificans]  79.7    4e-018
+WP_004588051.1  MULTISPECIES: sulfurtransferase TusA [Pseudoalter...  79.7    4e-018
+WP_054919964.1  MULTISPECIES: sulfurtransferase TusA [Pseudomonas]    79.7    5e-018
+WP_009114872.1  sulfurtransferase TusA [Brenneria sp. EniD312]        79.7    5e-018
+WP_058548180.1  sulfurtransferase TusA [Pseudoalteromonas sp. H103]   79.7    5e-018
+WP_068903530.1  sulfurtransferase TusA [Enterovibrio pacificus]       79.7    5e-018
+WP_024032137.1  sulfurtransferase TusA [Pseudoalteromonas sp. NW ...  79.7    5e-018
+WP_024777902.1  sulfurtransferase TusA [Pseudomonas corrugata]        79.7    5e-018
+WP_058372231.1  sulfurtransferase TusA [Pseudoalteromonas translu...  79.7    5e-018
+WP_054593199.1  sulfurtransferase TusA [Pseudomonas fluorescens]      79.7    5e-018
+WP_064233198.1  sulfurtransferase TusA [Halomonas sp. ALS9]           79.7    5e-018
+WP_079202447.1  sulfurtransferase TusA [Pseudomonas sp. CC6-YY-74]    79.7    5e-018
+WP_004880865.1  MULTISPECIES: sulfurtransferase TusA [Pseudomonas]    79.7    5e-018
+WP_009686255.1  MULTISPECIES: sulfurtransferase TusA [Pseudomonas]    79.7    5e-018
+WP_027590101.1  MULTISPECIES: sulfurtransferase TusA [Pseudomonas]    79.7    5e-018
+WP_043532489.1  sulfurtransferase TusA [Halomonas xinjiangensis]      79.7    5e-018
+WP_055016202.1  MULTISPECIES: sulfurtransferase TusA [Pseudoalter...  79.7    5e-018
+WP_028834902.1  MULTISPECIES: sulfurtransferase TusA [Pseudoalter...  79.7    5e-018
+WP_057704626.1  sulfurtransferase TusA [Pseudomonas sp. DSM 29164]    79.7    5e-018
+WP_058153951.1  sulfurtransferase TusA [Pseudoalteromonas issache...  79.7    5e-018
+WP_044403704.1  MULTISPECIES: sulfurtransferase TusA [Pseudomonas]    79.7    5e-018
+WP_008371826.1  sulfurtransferase TusA [Pseudomonas sp. M47T1]        79.7    5e-018
+WP_011326741.1  sulfurtransferase TusA [Pseudoalteromonas halopla...  79.3    5e-018
+WP_014871679.1  MULTISPECIES: sulfurtransferase TusA [Marinobacter]   79.3    5e-018
+WP_075762040.1  sulfurtransferase TusA [Photobacterium sp. 13-12]     79.7    5e-018
+WP_041105295.1  MULTISPECIES: sulfurtransferase TusA [Pseudomonas...  79.7    5e-018
+WP_009099515.1  sulfurtransferase TusA [Halomonas sp. GFAJ-1]         79.7    5e-018
+WP_007022785.1  sulfurtransferase TusA [Neptuniibacter caesariensis]  79.3    6e-018
+WP_061547459.1  sulfurtransferase TusA [Citrobacter sp. AATXQ]        79.7    6e-018
+WP_009724921.1  sulfurtransferase TusA [Halomonas sp. TD01]           79.7    6e-018
+WP_025733839.1  sulfurtransferase TusA [Carnimonas nigrificans]       79.3    6e-018
+WP_005372237.1  MULTISPECIES: sulfurtransferase TusA [Photobacter...  79.7    6e-018
+WP_010223351.1  MULTISPECIES: sulfurtransferase TusA [Pseudomonas]    79.3    6e-018
+WP_008295709.1  sulfurtransferase TusA [Congregibacter litoralis]     79.3    6e-018
+WP_008174742.1  sulfurtransferase TusA [Marinobacter manganoxydans]   79.3    6e-018
+WP_020302891.1  MULTISPECIES: sulfurtransferase TusA [Pseudomonas]    79.3    6e-018
+WP_011785259.1  MULTISPECIES: sulfurtransferase TusA [Marinobacter]   79.3    6e-018
+WP_060999229.1  sulfurtransferase TusA [Photobacterium aquimaris]     79.3    6e-018
+WP_022966567.1  sulfurtransferase TusA [Pseudomonas caeni]            79.3    7e-018
+WP_035574223.1  sulfurtransferase TusA [Halomonas sp. HL-48]          79.3    7e-018
+WP_085919935.1  sulfurtransferase TusA [Halomonas sp. CSM-2]          79.3    7e-018
+WP_008959953.1  sulfurtransferase TusA [Halomonas sp. HAL1]           79.3    7e-018
+WP_012821940.1  sulfurtransferase TusA [Pectobacterium parmentieri]   79.3    7e-018
+WP_011768651.1  sulfurtransferase TusA [Psychromonas ingrahamii]      79.0    7e-018
+WP_051895523.1  sulfurtransferase TusA [Gammaproteobacteria bacte...  79.3    8e-018
+WP_036980734.1  sulfurtransferase TusA [Pseudoalteromonas sp. SCS...  79.0    8e-018
+WP_072389025.1  MULTISPECIES: sulfurtransferase TusA [Pseudomonas]    79.3    8e-018
+WP_028692762.1  MULTISPECIES: sulfurtransferase TusA [Pseudomonas...  79.0    8e-018
+WP_011534847.1  sulfurtransferase TusA [Pseudomonas entomophila]      79.0    8e-018
+WP_068547031.1  sulfurtransferase TusA [Thalassotalea sp. LPB0090]    79.0    8e-018
+WP_073171656.1  sulfurtransferase TusA [Pseudomonas asturiensis]      79.3    8e-018
+WP_077526325.1  sulfurtransferase TusA [Pseudomonas resinovorans]     79.0    8e-018
+WP_028630883.1  sulfurtransferase TusA [Pseudomonas resinovorans]     79.0    8e-018
+WP_014421203.1  sulfurtransferase TusA [Marinobacter hydrocarbono...  79.0    9e-018
+WP_050704845.1  sulfurtransferase TusA [Pseudomonas sp. 250J]         79.0    9e-018
+WP_046222073.1  sulfurtransferase TusA [Photobacterium halotolerans]  79.0    9e-018
+WP_064700647.1  sulfurtransferase TusA [Halomonas sinaiensis]         79.0    9e-018
+WP_043864590.1  MULTISPECIES: sulfurtransferase TusA [Pseudomonas]    79.0    9e-018
+WP_016493680.1  sulfurtransferase TusA [Pseudomonas resinovorans]     79.0    9e-018
+WP_072324797.1  sulfurtransferase TusA [Marinospirillum alkaliphi...  79.0    9e-018
+WP_014577444.1  MULTISPECIES: sulfurtransferase TusA [Marinobacter]   79.0    9e-018
+WP_044622219.1  sulfurtransferase TusA [Photobacterium gaetbulicola]  79.0    9e-018
+WP_029772820.1  sulfurtransferase TusA [Pseudoalteromonas sp. TB51]   79.0    1e-017
+WP_069084624.1  sulfurtransferase TusA [Pseudomonas sp. TCU-HL1]      79.0    1e-017
+WP_025259340.1  sulfurtransferase TusA [Pseudomonas cichorii]         79.0    1e-017
+WP_005121576.1  sulfurtransferase TusA [Citrobacter pasteurii]        79.0    1e-017
+WP_055018539.1  sulfurtransferase TusA [Pseudoalteromonas sp. P1-25]  79.0    1e-017
+WP_004422297.1  sulfurtransferase TusA [Pseudomonas pseudoalcalig...  79.0    1e-017
+WP_056840260.1  sulfurtransferase TusA [Pseudomonas sp. Leaf127]      79.0    1e-017
+WP_045860556.1  sulfurtransferase TusA [Alteromonadaceae bacteriu...  78.6    1e-017
+WP_083002692.1  sulfurtransferase TusA [Halomonas sp. GT]             79.0    1e-017
+WP_068998164.1  sulfurtransferase TusA [Terasakiispira papahanaum...  79.0    1e-017
+WP_042555655.1  sulfurtransferase TusA [Pseudomonas fulva]            79.0    1e-017
+WP_023009987.1  sulfurtransferase TusA [Marinobacter sp. EVN1]        79.0    1e-017
+WP_003189637.1  MULTISPECIES: sulfurtransferase TusA [Pseudomonas]    79.0    1e-017
+WP_067522267.1  sulfurtransferase TusA [Endozoicomonas ascidiicola]   79.0    1e-017
+WP_047887519.1  sulfurtransferase TusA [Photobacterium ganghwense]    79.0    1e-017
+WP_057009552.1  sulfurtransferase TusA [Pseudomonas trivialis]        79.0    1e-017
+WP_058562010.1  sulfurtransferase TusA [Pseudoalteromonas sp. H105]   78.6    1e-017
+WP_003234025.1  MULTISPECIES: sulfurtransferase TusA [Pseudomonas]    78.6    1e-017
+WP_012313540.1  sulfurtransferase TusA [Pseudomonas putida]           78.6    1e-017
+WP_031375242.1  MULTISPECIES: sulfurtransferase TusA [Pantoea]        79.0    1e-017
+WP_003289923.1  MULTISPECIES: sulfurtransferase TusA [Pseudomonas]    79.0    1e-017
+WP_045029795.1  sulfurtransferase TusA [Photobacterium phosphoreum]   79.0    1e-017
+WP_042286560.1  MULTISPECIES: sulfurtransferase TusA [Citrobacter]    78.6    1e-017
+WP_039038507.1  sulfurtransferase TusA [Pseudoalteromonas sp. ECS...  78.6    1e-017
+WP_039469217.1  sulfurtransferase TusA [Photobacterium gaetbulicola]  79.0    1e-017
+WP_010490104.1  sulfurtransferase TusA [Pseudomonas sp. S9]           79.0    1e-017
+WP_054898798.1  MULTISPECIES: sulfurtransferase TusA [Pseudomonas]    78.6    1e-017
+WP_045489878.1  sulfurtransferase TusA [Pseudomonas sp. StFLB209]     79.0    1e-017
+WP_077536528.1  sulfurtransferase TusA [Pseudoalteromonas aliena]     78.6    1e-017
+WP_014853254.1  MULTISPECIES: sulfurtransferase TusA [Pseudomonas]    78.6    1e-017
+WP_058089533.1  MULTISPECIES: sulfurtransferase TusA [Marinobacter]   78.6    1e-017
+WP_003023404.1  MULTISPECIES: sulfurtransferase TusA [Citrobacter]    78.6    1e-017
+WP_033544862.1  sulfurtransferase TusA [Escherichia coli]             78.6    1e-017
+WP_008488859.1  sulfurtransferase TusA [Idiomarina xiamenensis]       78.6    1e-017
+WP_077371338.1  MULTISPECIES: sulfurtransferase TusA [Cobetia]        78.6    1e-017
+WP_070118041.1  sulfurtransferase TusA [Pseudohongiella acticola]     78.6    1e-017
+WP_055439476.1  sulfurtransferase TusA [Idiomarina woesei]            78.6    1e-017
+WP_030140914.1  sulfurtransferase TusA [Pseudomonas fluorescens]      78.6    1e-017
+WP_011095816.1  MULTISPECIES: sulfurtransferase TusA [Pectobacter...  78.6    1e-017
+WP_039294339.1  sulfurtransferase TusA [Pectobacterium atrosepticum]  78.6    1e-017
+WP_072670233.1  sulfurtransferase TusA [Vibrio sp. M12-1144]          78.6    1e-017
+WP_084306479.1  sulfurtransferase TusA [Pseudomonas flavescens]       78.6    2e-017
+WP_065983475.1  sulfurtransferase TusA [Pseudomonas xanthomarina]     78.6    2e-017
+WP_008138040.1  MULTISPECIES: sulfurtransferase TusA [Pseudoalter...  78.6    2e-017
+WP_027906355.1  MULTISPECIES: sulfurtransferase TusA [Pseudomonas]    78.6    2e-017
+WP_010309387.1  sulfurtransferase TusA [Pectobacterium carotovorum]   78.6    2e-017
+WP_004335190.1  MULTISPECIES: sulfurtransferase TusA [Pseudoalter...  78.2    2e-017
+WP_040905808.1  sulfurtransferase TusA [Vibrio metschnikovii]         78.6    2e-017
+WP_070887113.1  MULTISPECIES: sulfurtransferase TusA [Pseudomonas]    78.2    2e-017
+WP_016914309.1  sulfurtransferase TusA [Halomonas stevensii]          78.6    2e-017
+WP_007377644.1  MULTISPECIES: sulfurtransferase TusA [Pseudoalter...  78.2    2e-017
+WP_008988299.1  sulfurtransferase TusA [Photobacterium leiognathi]    78.6    2e-017
+WP_010555153.1  sulfurtransferase TusA [Pseudoalteromonas arctica]    78.2    2e-017
+WP_039350002.1  sulfurtransferase TusA [Pectobacterium carotovorum]   78.2    2e-017
+WP_005976412.1  sulfurtransferase TusA [Pectobacterium wasabiae]      78.2    2e-017
+WP_013791937.1  MULTISPECIES: sulfurtransferase TusA [Pseudomonas]    78.2    2e-017
+WP_070966277.1  sulfurtransferase TusA [Marinobacter salinus]         78.2    2e-017
+WP_019339280.1  sulfurtransferase TusA [Pseudomonas stutzeri]         78.2    2e-017
+WP_024592278.1  sulfurtransferase TusA [Pseudoalteromonas sp. TB13]   78.2    2e-017
+WP_072820860.1  sulfurtransferase TusA [Halomonas ilicicola]          78.2    2e-017
+WP_017938369.1  sulfurtransferase TusA [Pseudomonas thermotolerans]   78.2    2e-017
+WP_054555155.1  sulfurtransferase TusA [Cobetia sp. UCD-24C]          78.2    2e-017
+
+
+>WP_000003406.1 MULTISPECIES: TusA-like sulfurtransferase [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=85
+
+ Score = 179 bits (453),  Expect = 2e-057, Method: Compositional matrix adjust.
+ Identities = 85/85 (100%), Positives = 85/85 (100%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG
+Sbjct  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLLKEEVLDEQNHKEYRYLVQKG
+Sbjct  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+
+
+>WP_004748427.1 TusA-like sulfurtransferase [Acinetobacter baumannii]
+Length=85
+
+ Score = 178 bits (451),  Expect = 6e-057, Method: Compositional matrix adjust.
+ Identities = 84/85 (99%), Positives = 85/85 (100%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIP+FCMHLG
+Sbjct  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPRFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLLKEEVLDEQNHKEYRYLVQKG
+Sbjct  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+
+
+>WP_031379569.1 sulfurtransferase TusA [Acinetobacter baumannii]
+Length=85
+
+ Score = 177 bits (450),  Expect = 6e-057, Method: Compositional matrix adjust.
+ Identities = 84/85 (99%), Positives = 85/85 (100%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG
+Sbjct  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLLKEEVLDEQNHK+YRYLVQKG
+Sbjct  61  HELLLKEEVLDEQNHKQYRYLVQKG  85
+
+
+>WP_086374522.1 sulfurtransferase TusA [Acinetobacter baumannii]
+Length=85
+
+ Score = 177 bits (449),  Expect = 1e-056, Method: Compositional matrix adjust.
+ Identities = 84/85 (99%), Positives = 85/85 (100%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSG+VVEVLATDPSTSWDIPKFCMHLG
+Sbjct  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGEVVEVLATDPSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLLKEEVLDEQNHKEYRYLVQKG
+Sbjct  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+
+
+>WP_057695150.1 sulfurtransferase TusA [Acinetobacter baumannii]
+Length=85
+
+ Score = 177 bits (448),  Expect = 1e-056, Method: Compositional matrix adjust.
+ Identities = 84/85 (99%), Positives = 85/85 (100%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG
+Sbjct  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLLKEEVLDEQ+HKEYRYLVQKG
+Sbjct  61  HELLLKEEVLDEQSHKEYRYLVQKG  85
+
+
+>WP_031972325.1 sulfurtransferase TusA [Acinetobacter baumannii]
+Length=85
+
+ Score = 176 bits (445),  Expect = 4e-056, Method: Compositional matrix adjust.
+ Identities = 84/85 (99%), Positives = 84/85 (99%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSW IPKFCMHLG
+Sbjct  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWYIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLLKEEVLDEQNHKEYRYLVQKG
+Sbjct  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+
+
+>WP_031951906.1 sulfurtransferase TusA [Acinetobacter baumannii]
+Length=85
+
+ Score = 175 bits (444),  Expect = 5e-056, Method: Compositional matrix adjust.
+ Identities = 84/85 (99%), Positives = 84/85 (99%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSEQPIS TVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG
+Sbjct  1   MSEQPISHTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLLKEEVLDEQNHKEYRYLVQKG
+Sbjct  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+
+
+>WP_004640919.1 MULTISPECIES: TusA-like sulfurtransferase [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=85
+
+ Score = 174 bits (442),  Expect = 1e-055, Method: Compositional matrix adjust.
+ Identities = 82/85 (96%), Positives = 84/85 (99%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSEQ ISPTVQ+NTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG
+Sbjct  1   MSEQSISPTVQINTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLLKEEVLD+QNHKEYRYLVQKG
+Sbjct  61  HELLLKEEVLDDQNHKEYRYLVQKG  85
+
+
+>WP_004680654.1 MULTISPECIES: TusA-like sulfurtransferase [Acinetobacter]
+Length=85
+
+ Score = 165 bits (418),  Expect = 5e-052, Method: Compositional matrix adjust.
+ Identities = 79/85 (93%), Positives = 80/85 (94%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSEQP  PTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG
+Sbjct  1   MSEQPQLPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLLKEE LDE +H EYRYLVQKG
+Sbjct  61  HELLLKEESLDENSHTEYRYLVQKG  85
+
+
+>WP_005162798.1 MULTISPECIES: TusA-like sulfurtransferase [Acinetobacter]
+Length=85
+
+ Score = 164 bits (414),  Expect = 2e-051, Method: Compositional matrix adjust.
+ Identities = 77/85 (91%), Positives = 79/85 (93%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSEQP  PTVQLNTRGLRCPEPVMMLHQAIRKAKSGD+VEV ATDPSTSWDIPKFCMHLG
+Sbjct  1   MSEQPQLPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDIVEVFATDPSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLLKEE LDE +H EYRYLVQKG
+Sbjct  61  HELLLKEESLDENSHTEYRYLVQKG  85
+
+
+>WP_004659200.1 TusA-like sulfurtransferase [Acinetobacter sp. NIPH 236]
+Length=85
+
+ Score = 163 bits (413),  Expect = 3e-051, Method: Compositional matrix adjust.
+ Identities = 76/85 (89%), Positives = 79/85 (93%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSEQP  PT+QLNTRGLRCPEPVMMLHQAIRKAKSGD+VEV ATDPSTSWDIPKFCMHLG
+Sbjct  1   MSEQPQLPTIQLNTRGLRCPEPVMMLHQAIRKAKSGDIVEVFATDPSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLLKEE LDE +H EYRYLVQKG
+Sbjct  61  HELLLKEESLDENSHTEYRYLVQKG  85
+
+
+>WP_005051116.1 TusA-like sulfurtransferase [Acinetobacter beijerinckii]
+Length=85
+
+ Score = 162 bits (411),  Expect = 6e-051, Method: Compositional matrix adjust.
+ Identities = 77/85 (91%), Positives = 79/85 (93%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSEQP   TVQLNTRGLRCPEPVMMLHQAIRKAKSGD+VEVLATDPSTSWDIPKFCMHLG
+Sbjct  1   MSEQPQLATVQLNTRGLRCPEPVMMLHQAIRKAKSGDIVEVLATDPSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLLKEE LDE +H EYRYLVQKG
+Sbjct  61  HELLLKEESLDENSHTEYRYLVQKG  85
+
+
+>WP_004674469.1 TusA-like sulfurtransferase [Acinetobacter parvus]
+Length=85
+
+ Score = 162 bits (411),  Expect = 6e-051, Method: Compositional matrix adjust.
+ Identities = 76/85 (89%), Positives = 79/85 (93%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSEQP  PTVQLNTRGLRCPEPVMMLHQAIRKAKSGD+VE+ ATDPSTSWDIPKFCMHLG
+Sbjct  1   MSEQPQLPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDIVELFATDPSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLLKEE LDE +H EYRYLVQKG
+Sbjct  61  HELLLKEESLDENSHTEYRYLVQKG  85
+
+
+>WP_005061127.1 TusA-like sulfurtransferase [Acinetobacter beijerinckii]
+Length=85
+
+ Score = 162 bits (410),  Expect = 8e-051, Method: Compositional matrix adjust.
+ Identities = 76/85 (89%), Positives = 79/85 (93%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSEQP   T+QLNTRGLRCPEPVMMLHQAIRKAKSGD+VEVLATDPSTSWDIPKFCMHLG
+Sbjct  1   MSEQPQLATIQLNTRGLRCPEPVMMLHQAIRKAKSGDIVEVLATDPSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLLKEE LDE +H EYRYLVQKG
+Sbjct  61  HELLLKEESLDENSHTEYRYLVQKG  85
+
+
+>WP_018677407.1 sulfurtransferase TusA [Acinetobacter tjernbergiae]
+Length=85
+
+ Score = 161 bits (408),  Expect = 2e-050, Method: Compositional matrix adjust.
+ Identities = 76/85 (89%), Positives = 78/85 (92%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSEQP  P VQLNTRGLRCPEPVMMLHQAIRKAKSGD+VEVLATDPSTSWDIPKFCMHLG
+Sbjct  1   MSEQPQLPAVQLNTRGLRCPEPVMMLHQAIRKAKSGDIVEVLATDPSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLLKEE LD  +H EYRYLVQKG
+Sbjct  61  HELLLKEESLDANSHTEYRYLVQKG  85
+
+
+>WP_016653192.1 sulfurtransferase TusA [Acinetobacter sp. NIPH 2036]
+Length=85
+
+ Score = 161 bits (408),  Expect = 2e-050, Method: Compositional matrix adjust.
+ Identities = 76/85 (89%), Positives = 80/85 (94%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSEQP  PTVQ+NTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG
+Sbjct  1   MSEQPKLPTVQINTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HEL+LKEE LDE ++ EYRYLVQKG
+Sbjct  61  HELVLKEESLDENSNTEYRYLVQKG  85
+
+
+>WP_060465209.1 sulfurtransferase TusA [Acinetobacter sp. LMB-5]
+Length=85
+
+ Score = 161 bits (408),  Expect = 2e-050, Method: Compositional matrix adjust.
+ Identities = 75/85 (88%), Positives = 80/85 (94%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSEQ ISPTVQLNTRGLRCPEP+MMLH+AIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG
+Sbjct  1   MSEQSISPTVQLNTRGLRCPEPIMMLHKAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE LDE  HKE+ YLV+KG
+Sbjct  61  HELLLQEECLDENGHKEFHYLVKKG  85
+
+
+>WP_005226520.1 MULTISPECIES: TusA-like sulfurtransferase [Acinetobacter]
+Length=85
+
+ Score = 160 bits (406),  Expect = 4e-050, Method: Compositional matrix adjust.
+ Identities = 76/85 (89%), Positives = 79/85 (93%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSEQP  P VQ+NTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG
+Sbjct  1   MSEQPKLPAVQINTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLLKEE LDE ++ EYRYLVQKG
+Sbjct  61  HELLLKEENLDENSNTEYRYLVQKG  85
+
+
+>WP_038344810.1 sulfurtransferase TusA [Acinetobacter sp. A47]
+Length=85
+
+ Score = 160 bits (405),  Expect = 6e-050, Method: Compositional matrix adjust.
+ Identities = 75/85 (88%), Positives = 78/85 (92%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSEQP  P VQ+NTRGLRCPEPVMMLHQAIRKAKSGD+VEVLATDPSTSWDIPKFCMHLG
+Sbjct  1   MSEQPKLPAVQINTRGLRCPEPVMMLHQAIRKAKSGDIVEVLATDPSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLLKEE  DE +H EYRYLVQKG
+Sbjct  61  HELLLKEESQDENSHTEYRYLVQKG  85
+
+
+>WP_002053527.1 MULTISPECIES: sulfurtransferase TusA [Acinetobacter]
+ YP_004997553.1 small ubiquitous protein required for normal growth [Acinetobacter 
+pittii PHEA-2]
+Length=85
+
+ Score = 160 bits (405),  Expect = 6e-050, Method: Compositional matrix adjust.
+ Identities = 75/85 (88%), Positives = 79/85 (93%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRK+KSGDVVEV ATD STSWDIPKFCMHLG
+Sbjct  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKSKSGDVVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE LDE  HKE+ YLV+KG
+Sbjct  61  HELLLQEERLDENGHKEFHYLVKKG  85
+
+
+>WP_004656127.1 MULTISPECIES: TusA-like sulfurtransferase [Acinetobacter]
+Length=85
+
+ Score = 160 bits (404),  Expect = 8e-050, Method: Compositional matrix adjust.
+ Identities = 75/85 (88%), Positives = 79/85 (93%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSEQP  P VQ+NTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG
+Sbjct  1   MSEQPKLPAVQINTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HEL+LKEE LDE ++ EYRYLVQKG
+Sbjct  61  HELVLKEESLDENSNTEYRYLVQKG  85
+
+
+>WP_005278661.1 MULTISPECIES: TusA-like sulfurtransferase [Acinetobacter]
+Length=85
+
+ Score = 159 bits (403),  Expect = 1e-049, Method: Compositional matrix adjust.
+ Identities = 74/85 (87%), Positives = 79/85 (93%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSEQP  P VQ+NTRGLRCPEPVMMLHQAIRKAKSGD+VEVLATDPSTSWDIPKFCMHLG
+Sbjct  1   MSEQPKLPAVQINTRGLRCPEPVMMLHQAIRKAKSGDIVEVLATDPSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HEL+LKEE LDE ++ EYRYLVQKG
+Sbjct  61  HELVLKEESLDENSNTEYRYLVQKG  85
+
+
+>WP_019768048.1 MULTISPECIES: sulfurtransferase TusA [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=85
+
+ Score = 159 bits (402),  Expect = 2e-049, Method: Compositional matrix adjust.
+ Identities = 74/85 (87%), Positives = 79/85 (93%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSEQPISPTVQLNTRGLRCPEPVMMLHQAIR++KSGDVVEV ATD STSWDIPKFCMHLG
+Sbjct  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRRSKSGDVVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE LDE  HKE+ YLV+KG
+Sbjct  61  HELLLQEERLDENGHKEFHYLVKKG  85
+
+
+>WP_005291507.1 TusA-like sulfurtransferase [Acinetobacter sp. NIPH 2100]
+Length=85
+
+ Score = 158 bits (399),  Expect = 4e-049, Method: Compositional matrix adjust.
+ Identities = 74/85 (87%), Positives = 78/85 (92%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSEQP  P VQ+NTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG
+Sbjct  1   MSEQPKLPAVQINTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HEL+LKEE  DE ++ EYRYLVQKG
+Sbjct  61  HELVLKEETQDENSNTEYRYLVQKG  85
+
+
+>WP_005239999.1 MULTISPECIES: TusA-like sulfurtransferase [Acinetobacter]
+Length=85
+
+ Score = 158 bits (399),  Expect = 4e-049, Method: Compositional matrix adjust.
+ Identities = 73/85 (86%), Positives = 79/85 (93%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MS+QP  P VQ+NTRGLRCPEPVMMLHQAIRKAKSGD+VEVLATDPSTSWDIPKFCMHLG
+Sbjct  1   MSDQPKLPAVQINTRGLRCPEPVMMLHQAIRKAKSGDIVEVLATDPSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HEL+LKEE LDE ++ EYRYLVQKG
+Sbjct  61  HELVLKEESLDENSNTEYRYLVQKG  85
+
+
+>WP_057104858.1 MULTISPECIES: sulfurtransferase TusA [Acinetobacter]
+Length=85
+
+ Score = 158 bits (399),  Expect = 5e-049, Method: Compositional matrix adjust.
+ Identities = 74/85 (87%), Positives = 78/85 (92%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSEQ ISPTVQLNTRGLRCPEPVMMLHQAIRK+KSGDVVEV ATD STSWDIPKFCMHLG
+Sbjct  1   MSEQSISPTVQLNTRGLRCPEPVMMLHQAIRKSKSGDVVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE LDE  HKE+ YLV+KG
+Sbjct  61  HELLLQEERLDENGHKEFHYLVKKG  85
+
+
+>WP_033133220.1 sulfurtransferase TusA [Acinetobacter sp. MN12]
+Length=85
+
+ Score = 157 bits (398),  Expect = 7e-049, Method: Compositional matrix adjust.
+ Identities = 74/85 (87%), Positives = 78/85 (92%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSEQP  P VQ+NTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG
+Sbjct  1   MSEQPKLPAVQINTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HEL+LKEE  DE ++ EYRYLVQKG
+Sbjct  61  HELVLKEESQDENSNTEYRYLVQKG  85
+
+
+>WP_044101323.1 sulfurtransferase TusA [Acinetobacter pittii]
+Length=85
+
+ Score = 157 bits (397),  Expect = 8e-049, Method: Compositional matrix adjust.
+ Identities = 73/85 (86%), Positives = 78/85 (92%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSEQPISPTVQLN RGLRCPEPVMMLHQAIR++KSGDVVEV ATD STSWDIPKFCMHLG
+Sbjct  1   MSEQPISPTVQLNARGLRCPEPVMMLHQAIRRSKSGDVVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE LDE  HKE+ YLV+KG
+Sbjct  61  HELLLQEERLDENGHKEFHYLVKKG  85
+
+
+>WP_004916739.1 TusA-like sulfurtransferase [Acinetobacter junii]
+Length=85
+
+ Score = 157 bits (397),  Expect = 9e-049, Method: Compositional matrix adjust.
+ Identities = 75/85 (88%), Positives = 77/85 (91%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSEQ   PTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEV ATDPSTSWDIPKFCMHLG
+Sbjct  1   MSEQTKLPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVFATDPSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLLKEE LDE ++ EY YLVQKG
+Sbjct  61  HELLLKEESLDENSNTEYHYLVQKG  85
+
+
+>WP_005192080.1 TusA-like sulfurtransferase [Acinetobacter sp. ANC 4105]
+Length=85
+
+ Score = 157 bits (397),  Expect = 1e-048, Method: Compositional matrix adjust.
+ Identities = 73/85 (86%), Positives = 79/85 (93%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSEQP  PTVQ+NTRGLRCPEPVMMLHQAIRKAKSG++VEVLATDPSTSWDIPKFCMHLG
+Sbjct  1   MSEQPKLPTVQINTRGLRCPEPVMMLHQAIRKAKSGEIVEVLATDPSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HEL+LKEE  DE ++ EYRYLVQKG
+Sbjct  61  HELVLKEESQDENSNTEYRYLVQKG  85
+
+
+>WP_005037115.1 MULTISPECIES: sulfurtransferase TusA [Acinetobacter]
+Length=85
+
+ Score = 157 bits (396),  Expect = 1e-048, Method: Compositional matrix adjust.
+ Identities = 73/85 (86%), Positives = 78/85 (92%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSEQ ISPTVQ+NTRGLRCPEPVMMLHQAIRK+KSGDVVEV ATD STSWDIPKFCMHLG
+Sbjct  1   MSEQSISPTVQINTRGLRCPEPVMMLHQAIRKSKSGDVVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE LDE  HKE+ YLV+KG
+Sbjct  61  HELLLQEERLDENGHKEFHYLVKKG  85
+
+
+>WP_004802398.1 MULTISPECIES: TusA-like sulfurtransferase [Acinetobacter]
+Length=85
+
+ Score = 157 bits (396),  Expect = 1e-048, Method: Compositional matrix adjust.
+ Identities = 73/85 (86%), Positives = 78/85 (92%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSEQP  P VQ+NTRGLRCPEPVMMLHQAIRKAKSGD+VEVLATDPSTSWDIPKFCMHLG
+Sbjct  1   MSEQPKLPAVQINTRGLRCPEPVMMLHQAIRKAKSGDIVEVLATDPSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HEL+LKEE  DE ++ EYRYLVQKG
+Sbjct  61  HELVLKEESQDENSNTEYRYLVQKG  85
+
+
+>WP_004749802.1 MULTISPECIES: TusA-like sulfurtransferase [Acinetobacter]
+Length=85
+
+ Score = 157 bits (396),  Expect = 1e-048, Method: Compositional matrix adjust.
+ Identities = 72/85 (85%), Positives = 78/85 (92%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSE P++P +QLNTRGLRCPEPVMMLHQAIRKAKSG+VVEV ATDPSTSWDIPKFCMHLG
+Sbjct  1   MSEAPVTPAIQLNTRGLRCPEPVMMLHQAIRKAKSGEVVEVFATDPSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE LDEQ  KEY YLV+KG
+Sbjct  61  HELLLQEEQLDEQQKKEYHYLVKKG  85
+
+
+>WP_004876567.1 MULTISPECIES: TusA-like sulfurtransferase [Acinetobacter]
+Length=85
+
+ Score = 157 bits (396),  Expect = 1e-048, Method: Compositional matrix adjust.
+ Identities = 73/85 (86%), Positives = 78/85 (92%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSE    P+VQLNTRGLRCPEPVMMLHQAIRKAK+GD+VEVLATDPSTSWDIPKFCMHLG
+Sbjct  1   MSEAAKVPSVQLNTRGLRCPEPVMMLHQAIRKAKAGDIVEVLATDPSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLLKEE LDE ++ EYRYLVQKG
+Sbjct  61  HELLLKEESLDENSNTEYRYLVQKG  85
+
+
+>WP_004637738.1 MULTISPECIES: sulfurtransferase TusA [Acinetobacter]
+Length=85
+
+ Score = 156 bits (395),  Expect = 2e-048, Method: Compositional matrix adjust.
+ Identities = 73/85 (86%), Positives = 77/85 (91%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSEQ    TVQLNTRGLRCPEPVMMLHQAIR+AKSGD+VEV ATDPSTSWDIPKFCMHLG
+Sbjct  1   MSEQSKLATVQLNTRGLRCPEPVMMLHQAIRRAKSGDIVEVFATDPSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLLKEE LDE ++ EYRYLVQKG
+Sbjct  61  HELLLKEESLDENSNTEYRYLVQKG  85
+
+
+>WP_005194842.1 TusA-like sulfurtransferase [Acinetobacter sp. NIPH 298]
+Length=85
+
+ Score = 156 bits (395),  Expect = 2e-048, Method: Compositional matrix adjust.
+ Identities = 73/85 (86%), Positives = 77/85 (91%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSEQ    TVQLNTRGLRCPEPVMMLHQAIR+AKSGD+VEV ATDPSTSWDIPKFCMHLG
+Sbjct  1   MSEQSNLATVQLNTRGLRCPEPVMMLHQAIRRAKSGDIVEVFATDPSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLLKEE LDE ++ EYRYLVQKG
+Sbjct  61  HELLLKEESLDENSNTEYRYLVQKG  85
+
+
+>WP_004957577.1 TusA-like sulfurtransferase [Acinetobacter junii]
+Length=85
+
+ Score = 156 bits (394),  Expect = 2e-048, Method: Compositional matrix adjust.
+ Identities = 75/85 (88%), Positives = 77/85 (91%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSEQ   PTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEV ATDPSTSWDIPKFCMHLG
+Sbjct  1   MSEQTKLPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVFATDPSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLLKEE LDE ++ EY YLVQKG
+Sbjct  61  HELLLKEESLDENSNIEYHYLVQKG  85
+
+
+>WP_004668436.1 TusA-like sulfurtransferase [Acinetobacter sp. CIP-A165]
+Length=85
+
+ Score = 156 bits (394),  Expect = 2e-048, Method: Compositional matrix adjust.
+ Identities = 73/85 (86%), Positives = 77/85 (91%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSEQ    TVQLNTRGLRCPEPVMMLHQAIR+AKSGD+VEV ATDPSTSWDIPKFCMHLG
+Sbjct  1   MSEQSNLATVQLNTRGLRCPEPVMMLHQAIRRAKSGDIVEVFATDPSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLLKEE LDE ++ EYRYLVQKG
+Sbjct  61  HELLLKEESLDEHSNTEYRYLVQKG  85
+
+
+>WP_004774171.1 MULTISPECIES: TusA-like sulfurtransferase [Acinetobacter]
+Length=85
+
+ Score = 155 bits (393),  Expect = 3e-048, Method: Compositional matrix adjust.
+ Identities = 73/85 (86%), Positives = 78/85 (92%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSEQP  P VQ+NTRGLRCPEPVMMLHQAIRKAKSG++VEVLATDPSTSWDIPKFCMHLG
+Sbjct  1   MSEQPKLPAVQINTRGLRCPEPVMMLHQAIRKAKSGEIVEVLATDPSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLLKEE  DE ++ EYRYLVQKG
+Sbjct  61  HELLLKEENQDENSNTEYRYLVQKG  85
+
+
+>WP_047431363.1 sulfurtransferase TusA [Acinetobacter sp. neg1]
+Length=85
+
+ Score = 154 bits (390),  Expect = 1e-047, Method: Compositional matrix adjust.
+ Identities = 72/85 (85%), Positives = 78/85 (92%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSEQP  P VQ+NTRGLRCPEPVMMLHQAIRKAKSG++VEVLATDPSTSWDIPKFCMHLG
+Sbjct  1   MSEQPKLPAVQINTRGLRCPEPVMMLHQAIRKAKSGEIVEVLATDPSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLLKEE  D+ ++ EYRYLVQKG
+Sbjct  61  HELLLKEENQDKNSNTEYRYLVQKG  85
+
+
+>WP_068885577.1 sulfurtransferase TusA [Acinetobacter celticus]
+Length=85
+
+ Score = 154 bits (389),  Expect = 1e-047, Method: Compositional matrix adjust.
+ Identities = 71/85 (84%), Positives = 76/85 (89%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSE  I+P +QLNTRGLRCPEPVMMLHQAIRK+KSGDVVEV ATD STSWDIPKFCMHLG
+Sbjct  1   MSESAITPVIQLNTRGLRCPEPVMMLHQAIRKSKSGDVVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE LDE  HKE+ YLVQKG
+Sbjct  61  HELLLQEERLDENGHKEFHYLVQKG  85
+
+
+>WP_067728132.1 sulfurtransferase TusA [Acinetobacter sp. NCu2D-2]
+Length=85
+
+ Score = 154 bits (389),  Expect = 2e-047, Method: Compositional matrix adjust.
+ Identities = 71/85 (84%), Positives = 78/85 (92%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSEQ I+P++QLNTRGLRCPEPVMMLHQAIRK+KSGDVVEV ATD STSWDIPKFCMHLG
+Sbjct  1   MSEQQITPSIQLNTRGLRCPEPVMMLHQAIRKSKSGDVVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE LDE  +KE+ YLVQKG
+Sbjct  61  HELLLQEERLDENGNKEFHYLVQKG  85
+
+
+>WP_005001252.1 TusA-like sulfurtransferase [Acinetobacter ursingii]
+Length=85
+
+ Score = 153 bits (387),  Expect = 2e-047, Method: Compositional matrix adjust.
+ Identities = 71/85 (84%), Positives = 78/85 (92%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MS   ++PT+QLNTRGLRCPEPVMMLHQAIRK+KSGDVVEVLATDPSTSWDIPKFCMHLG
+Sbjct  1   MSSPDLTPTIQLNTRGLRCPEPVMMLHQAIRKSKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELL++EE+LD    KEYRYLVQKG
+Sbjct  61  HELLVQEELLDAAGLKEYRYLVQKG  85
+
+
+>WP_004975955.1 sulfurtransferase TusA [Acinetobacter towneri]
+Length=85
+
+ Score = 153 bits (387),  Expect = 3e-047, Method: Compositional matrix adjust.
+ Identities = 70/85 (82%), Positives = 79/85 (93%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSE P++P++QLNTRGLRCPEPVMMLHQAIRK+KSGDVVEV ATD STSWDIPKFCMHLG
+Sbjct  1   MSELPVTPSIQLNTRGLRCPEPVMMLHQAIRKSKSGDVVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE LDEQ +KE+ YLV+KG
+Sbjct  61  HELLLQEERLDEQGNKEFHYLVKKG  85
+
+
+>WP_070154406.1 sulfurtransferase TusA [Acinetobacter towneri]
+Length=86
+
+ Score = 153 bits (387),  Expect = 3e-047, Method: Compositional matrix adjust.
+ Identities = 70/85 (82%), Positives = 79/85 (93%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSE P++P++QLNTRGLRCPEPVMMLHQAIRK+KSGDVVEV ATD STSWDIPKFCMHLG
+Sbjct  1   MSELPVTPSIQLNTRGLRCPEPVMMLHQAIRKSKSGDVVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE LDEQ +KE+ YLV+KG
+Sbjct  61  HELLLQEERLDEQGNKEFHYLVKKG  85
+
+
+>WP_044434013.1 sulfurtransferase TusA [Acinetobacter ursingii]
+Length=85
+
+ Score = 153 bits (386),  Expect = 4e-047, Method: Compositional matrix adjust.
+ Identities = 71/85 (84%), Positives = 77/85 (91%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MS   ++PT+QLNTRGLRCPEPVMMLHQAIRK+KSGDVVEVLATDPSTSWDIPKFCMHLG
+Sbjct  1   MSSPDLTPTIQLNTRGLRCPEPVMMLHQAIRKSKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELL +EE+LD    KEYRYLVQKG
+Sbjct  61  HELLAQEELLDAAGLKEYRYLVQKG  85
+
+
+>WP_019836046.1 sulfurtransferase TusA [Acinetobacter sp. MDS7A]
+Length=85
+
+ Score = 152 bits (383),  Expect = 1e-046, Method: Compositional matrix adjust.
+ Identities = 70/85 (82%), Positives = 78/85 (92%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSE P+ P++QLNTRGLRCPEPVMMLHQAIRK+KSGDVVEV ATD STSWDIPKFCMHLG
+Sbjct  1   MSELPVIPSIQLNTRGLRCPEPVMMLHQAIRKSKSGDVVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE LDEQ +KE+ YLV+KG
+Sbjct  61  HELLLQEERLDEQGNKEFHYLVKKG  85
+
+
+>WP_004649978.1 MULTISPECIES: sulfurtransferase TusA [Acinetobacter]
+Length=85
+
+ Score = 151 bits (382),  Expect = 2e-046, Method: Compositional matrix adjust.
+ Identities = 70/85 (82%), Positives = 78/85 (92%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSE  ++PT+QLNTRGLRCPEPVMMLHQAIRK+KSGDVVEV ATD STSWDIPKFCMHLG
+Sbjct  1   MSEPLVTPTIQLNTRGLRCPEPVMMLHQAIRKSKSGDVVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EEVLDE  +KE+ YLV+KG
+Sbjct  61  HELLLQEEVLDEAGNKEFHYLVKKG  85
+
+
+>WP_039620863.1 sulfurtransferase TusA [Acinetobacter harbinensis]
+Length=85
+
+ Score = 151 bits (382),  Expect = 2e-046, Method: Compositional matrix adjust.
+ Identities = 70/85 (82%), Positives = 77/85 (91%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSE  ++PT+QLNTRGLRCPEPVMMLHQAIRK+KSG+VVEV ATD STSWDIPKFCMHLG
+Sbjct  1   MSELLVTPTLQLNTRGLRCPEPVMMLHQAIRKSKSGEVVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE LDE  HKE+ YLVQKG
+Sbjct  61  HELLLQEEYLDEAGHKEFHYLVQKG  85
+
+
+>WP_067669680.1 sulfurtransferase TusA [Acinetobacter sp. ANC 4149]
+Length=85
+
+ Score = 151 bits (382),  Expect = 2e-046, Method: Compositional matrix adjust.
+ Identities = 70/85 (82%), Positives = 78/85 (92%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSE  I+P++QLNTRGLRCPEPVMMLHQAIRK+KSGDVVEV ATD STSWDIPKFCMHLG
+Sbjct  1   MSEPAITPSIQLNTRGLRCPEPVMMLHQAIRKSKSGDVVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE LDE+ +KE+ YLVQKG
+Sbjct  61  HELLLQEERLDEKGNKEFHYLVQKG  85
+
+
+>WP_004932596.1 MULTISPECIES: TusA-like sulfurtransferase [Acinetobacter]
+Length=85
+
+ Score = 151 bits (381),  Expect = 2e-046, Method: Compositional matrix adjust.
+ Identities = 68/85 (80%), Positives = 76/85 (89%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MS +  +P +QLNTRGLRCPEPVMMLHQAIRK+KSGD+VEVLATDPSTSWDIPKFCMHLG
+Sbjct  1   MSARDFTPAIQLNTRGLRCPEPVMMLHQAIRKSKSGDIVEVLATDPSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE  D+Q  K YRYL+QKG
+Sbjct  61  HELLLQEETQDDQALKAYRYLIQKG  85
+
+
+>WP_086214297.1 sulfurtransferase TusA [Acinetobacter sp. ANC 3813]
+Length=85
+
+ Score = 151 bits (381),  Expect = 2e-046, Method: Compositional matrix adjust.
+ Identities = 70/85 (82%), Positives = 77/85 (91%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSE  I+P++QLNTRGLRCPEPVMMLHQAIRK+KSGDVVEV ATD STSWDIPKFCMHLG
+Sbjct  1   MSEPAITPSIQLNTRGLRCPEPVMMLHQAIRKSKSGDVVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE LDE  +KE+ YLVQKG
+Sbjct  61  HELLLQEERLDENGNKEFHYLVQKG  85
+
+
+>WP_016168359.1 sulfurtransferase TusA [Acinetobacter tandoii]
+Length=85
+
+ Score = 151 bits (381),  Expect = 3e-046, Method: Compositional matrix adjust.
+ Identities = 69/85 (81%), Positives = 77/85 (91%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSE  ++PT+QLNTRGLRCPEPVMMLHQAIRK+KSGDVVEV ATD STSWDIPKFCMHLG
+Sbjct  1   MSESSVTPTLQLNTRGLRCPEPVMMLHQAIRKSKSGDVVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE LDE  +KE+ YLV+KG
+Sbjct  61  HELLLQEERLDENGNKEFHYLVKKG  85
+
+
+>WP_025095329.1 sulfurtransferase TusA [Acinetobacter soli]
+Length=85
+
+ Score = 151 bits (381),  Expect = 3e-046, Method: Compositional matrix adjust.
+ Identities = 68/85 (80%), Positives = 76/85 (89%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MS +  +P +QLNTRGLRCPEPVMMLHQAIRK+KSGD+VEVLATDPSTSWDIPKFCMHLG
+Sbjct  1   MSTRDFTPAIQLNTRGLRCPEPVMMLHQAIRKSKSGDIVEVLATDPSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE  D+Q  K YRYL+QKG
+Sbjct  61  HELLLQEETQDDQALKAYRYLIQKG  85
+
+
+>WP_086193029.1 sulfurtransferase TusA [Acinetobacter sp. ANC 4655]
+Length=85
+
+ Score = 150 bits (380),  Expect = 3e-046, Method: Compositional matrix adjust.
+ Identities = 70/85 (82%), Positives = 78/85 (92%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSE  ++PT+QLNTRGLRCPEPVMMLHQAIRK+KSGDVVEV ATD STSWDIPKFCMHLG
+Sbjct  1   MSEPLVTPTIQLNTRGLRCPEPVMMLHQAIRKSKSGDVVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EEVLDE  +KE+ YLV+KG
+Sbjct  61  HELLLQEEVLDEVGNKEFHYLVKKG  85
+
+
+>WP_004994165.1 MULTISPECIES: TusA-like sulfurtransferase [Acinetobacter]
+Length=85
+
+ Score = 150 bits (380),  Expect = 3e-046, Method: Compositional matrix adjust.
+ Identities = 69/80 (86%), Positives = 75/80 (94%), Gaps = 0/80 (0%)
+
+Query  6   ISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLL  65
+           ++PT+QLNTRGLRCPEPVMMLHQAIRK+KSGDVVEVLATDPSTSWDIPKFCMHLGHELL 
+Sbjct  6   LTPTIQLNTRGLRCPEPVMMLHQAIRKSKSGDVVEVLATDPSTSWDIPKFCMHLGHELLA  65
+
+Query  66  KEEVLDEQNHKEYRYLVQKG  85
+           +EE+LD    KEYRYLVQKG
+Sbjct  66  QEELLDAAGLKEYRYLVQKG  85
+
+
+>WP_086195249.1 sulfurtransferase TusA [Acinetobacter sp. ANC 4218]
+Length=85
+
+ Score = 150 bits (379),  Expect = 4e-046, Method: Compositional matrix adjust.
+ Identities = 69/85 (81%), Positives = 77/85 (91%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSE  ++P++QLNTRGLRCPEPVMMLHQAIRK+KSGDVVEV ATD STSWDIPKFCMHLG
+Sbjct  1   MSEPSVTPSIQLNTRGLRCPEPVMMLHQAIRKSKSGDVVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE LDE  +KE+ YLVQKG
+Sbjct  61  HELLLQEERLDENGNKEFHYLVQKG  85
+
+
+>WP_017400678.1 sulfurtransferase TusA [Acinetobacter radioresistens]
+Length=85
+
+ Score = 150 bits (379),  Expect = 4e-046, Method: Compositional matrix adjust.
+ Identities = 68/85 (80%), Positives = 76/85 (89%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSE  ++P +QLNTRGLRCPEPVMMLHQAIRK K+GDVVEV ATDPSTSWDIPKFCMHLG
+Sbjct  1   MSEPALTPNIQLNTRGLRCPEPVMMLHQAIRKVKTGDVVEVFATDPSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE+ D + HKEY YLV+KG
+Sbjct  61  HELLLQEELTDTEQHKEYHYLVRKG  85
+
+
+>WP_086189669.1 sulfurtransferase TusA [Acinetobacter sp. ANC 3832]
+Length=85
+
+ Score = 150 bits (379),  Expect = 5e-046, Method: Compositional matrix adjust.
+ Identities = 68/85 (80%), Positives = 77/85 (91%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSE   +PT+Q+NTRGLRCPEPVMMLHQAIRK+KSGDVVEV ATD STSWDIPKFCMHLG
+Sbjct  1   MSESTNTPTIQINTRGLRCPEPVMMLHQAIRKSKSGDVVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HEL+L+EEVLDE  +KE+ YLV+KG
+Sbjct  61  HELILQEEVLDETGNKEFHYLVKKG  85
+
+
+>WP_067866191.1 sulfurtransferase TusA [Acinetobacter sp. SFB]
+Length=85
+
+ Score = 150 bits (378),  Expect = 6e-046, Method: Compositional matrix adjust.
+ Identities = 69/85 (81%), Positives = 78/85 (92%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSE  ++PT+QLNTRGLRCPEPVMMLHQAIRK+KSGDVVEV ATD STSWDIPKFC+HLG
+Sbjct  1   MSEPLVTPTIQLNTRGLRCPEPVMMLHQAIRKSKSGDVVEVFATDNSTSWDIPKFCIHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EEVLDE  +KE+ YLV+KG
+Sbjct  61  HELLLQEEVLDEAGNKEFHYLVKKG  85
+
+
+>WP_053578894.1 sulfurtransferase TusA [Acinetobacter sp. TTH0-4]
+Length=85
+
+ Score = 150 bits (378),  Expect = 8e-046, Method: Compositional matrix adjust.
+ Identities = 70/85 (82%), Positives = 77/85 (91%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSE  + PT+Q+NTRGLRCPEPVMMLHQAIRK+KSGDVVEV ATD STSWDIPKFCMHLG
+Sbjct  1   MSEPLVIPTLQINTRGLRCPEPVMMLHQAIRKSKSGDVVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EEVLDE  +KE+ YLVQKG
+Sbjct  61  HELLLQEEVLDETGNKEFHYLVQKG  85
+
+
+>WP_026444092.1 sulfurtransferase TusA [Acinetobacter sp. UNC436CL71CviS28]
+Length=85
+
+ Score = 150 bits (378),  Expect = 8e-046, Method: Compositional matrix adjust.
+ Identities = 68/85 (80%), Positives = 76/85 (89%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSE  ++P +QLNTRGLRCPEPVMMLHQAIRK K+GDVVEV ATDPSTSWDIPKFCMHLG
+Sbjct  1   MSEPALTPNIQLNTRGLRCPEPVMMLHQAIRKVKTGDVVEVFATDPSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE+ D + HKEY YLV+KG
+Sbjct  61  HELLLQEELRDTEQHKEYHYLVRKG  85
+
+
+>WP_005023146.1 MULTISPECIES: TusA-like sulfurtransferase [Acinetobacter]
+Length=85
+
+ Score = 150 bits (378),  Expect = 8e-046, Method: Compositional matrix adjust.
+ Identities = 68/85 (80%), Positives = 76/85 (89%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSE  ++P +QLNTRGLRCPEPVMMLHQAIRK K+GDVVEV ATDPSTSWDIPKFCMHLG
+Sbjct  1   MSEPALTPDIQLNTRGLRCPEPVMMLHQAIRKVKTGDVVEVFATDPSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE+ D + HKEY YLV+KG
+Sbjct  61  HELLLQEELTDTEQHKEYHYLVRKG  85
+
+
+>WP_065994036.1 MULTISPECIES: sulfurtransferase TusA [Acinetobacter]
+Length=85
+
+ Score = 150 bits (378),  Expect = 8e-046, Method: Compositional matrix adjust.
+ Identities = 70/85 (82%), Positives = 77/85 (91%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSEQ  +P++QLNTRGLRCPEPVMMLHQAIRK+KSGDVVEV ATD STSWDIPKFCMHLG
+Sbjct  1   MSEQLPTPSIQLNTRGLRCPEPVMMLHQAIRKSKSGDVVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE LDE  +KE+ YLVQKG
+Sbjct  61  HELLLQEEKLDENGNKEFHYLVQKG  85
+
+
+>WP_004869743.1 TusA-like sulfurtransferase [Acinetobacter gerneri]
+Length=85
+
+ Score = 149 bits (377),  Expect = 9e-046, Method: Compositional matrix adjust.
+ Identities = 68/85 (80%), Positives = 78/85 (92%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           M++Q I+P++QLNTRGLRCPEPVMMLHQAIRK+KSGDVVEV ATD STSWDIPKFCMHLG
+Sbjct  1   MTDQFITPSIQLNTRGLRCPEPVMMLHQAIRKSKSGDVVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE LDE  +KE+ YLV+KG
+Sbjct  61  HELLLQEEKLDEAGNKEFHYLVKKG  85
+
+
+>WP_004813458.1 MULTISPECIES: TusA-like sulfurtransferase [Acinetobacter]
+Length=85
+
+ Score = 149 bits (377),  Expect = 1e-045, Method: Compositional matrix adjust.
+ Identities = 69/85 (81%), Positives = 77/85 (91%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSE  I+P++QLNTRGLRCPEPVMMLHQAIRK+KSGDVVEV ATD STSWDIPKFCMHLG
+Sbjct  1   MSEAEITPSLQLNTRGLRCPEPVMMLHQAIRKSKSGDVVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE LDE  +KE+ YLV+KG
+Sbjct  61  HELLLQEERLDENGNKEFHYLVKKG  85
+
+
+>WP_005181880.1 MULTISPECIES: TusA-like sulfurtransferase [Acinetobacter]
+Length=85
+
+ Score = 149 bits (377),  Expect = 1e-045, Method: Compositional matrix adjust.
+ Identities = 67/85 (79%), Positives = 76/85 (89%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MS+  I+P +QLNTRGLRCPEPVMMLHQAIRK+KSGDVVE+ ATD STSWDIPKFCMHLG
+Sbjct  1   MSDSSITPAIQLNTRGLRCPEPVMMLHQAIRKSKSGDVVEIFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EEVLD   +KE+ YLV+KG
+Sbjct  61  HELLLQEEVLDAAGNKEFHYLVKKG  85
+
+
+>WP_086165123.1 sulfurtransferase TusA [Acinetobacter sp. ANC 4654]
+Length=85
+
+ Score = 149 bits (377),  Expect = 1e-045, Method: Compositional matrix adjust.
+ Identities = 69/85 (81%), Positives = 78/85 (92%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSE  ++PT+QLNTRGLRCPEPVMMLHQAIRK+KSGDVVEV ATD STSWDIPKFCMHLG
+Sbjct  1   MSEPLVTPTLQLNTRGLRCPEPVMMLHQAIRKSKSGDVVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EEVLD+  +KE+ YLV+KG
+Sbjct  61  HELLLQEEVLDDAGNKEFHYLVKKG  85
+
+
+>WP_005007096.1 TusA-like sulfurtransferase [Acinetobacter bouvetii]
+Length=85
+
+ Score = 149 bits (377),  Expect = 1e-045, Method: Compositional matrix adjust.
+ Identities = 70/85 (82%), Positives = 76/85 (89%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSE  I P++QLNTRGLRCPEPVMMLHQAIRK+KSGDVVEV ATD STSWDIPKFCMHLG
+Sbjct  1   MSEPAIIPSIQLNTRGLRCPEPVMMLHQAIRKSKSGDVVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE LDE  +KE+ YLVQKG
+Sbjct  61  HELLLQEERLDENGNKEFHYLVQKG  85
+
+
+>WP_086199467.1 sulfurtransferase TusA [Acinetobacter sp. ANC 4169]
+Length=85
+
+ Score = 149 bits (377),  Expect = 1e-045, Method: Compositional matrix adjust.
+ Identities = 68/85 (80%), Positives = 77/85 (91%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSE  ++P++QLNTRGLRCPEPVMMLHQAIRK++SGDVVEV ATD STSWDIPKFCMHLG
+Sbjct  1   MSEPSVTPSIQLNTRGLRCPEPVMMLHQAIRKSRSGDVVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE LDE  +KE+ YLVQKG
+Sbjct  61  HELLLQEERLDENGNKEFHYLVQKG  85
+
+
+>WP_034684926.1 MULTISPECIES: sulfurtransferase TusA [Acinetobacter]
+Length=85
+
+ Score = 149 bits (377),  Expect = 1e-045, Method: Compositional matrix adjust.
+ Identities = 67/85 (79%), Positives = 76/85 (89%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSE  ++P +QLNTRGLRCPEPVMMLHQAIRK K+GD+VEV ATDPSTSWDIPKFCMHLG
+Sbjct  1   MSEPALTPDIQLNTRGLRCPEPVMMLHQAIRKVKTGDIVEVFATDPSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE+ D + HKEY YLV+KG
+Sbjct  61  HELLLQEELTDTEQHKEYHYLVRKG  85
+
+
+>WP_068975110.1 sulfurtransferase TusA [Acinetobacter sp. WCHA60]
+Length=85
+
+ Score = 149 bits (376),  Expect = 1e-045, Method: Compositional matrix adjust.
+ Identities = 67/85 (79%), Positives = 77/85 (91%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MS+Q I+P +QLNTRGLRCPEPVMMLHQAIRK+KSGDVVEV ATD STSWDIPKFCMHLG
+Sbjct  1   MSDQSITPNIQLNTRGLRCPEPVMMLHQAIRKSKSGDVVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HEL+L+EEV D + +KE+ YLV+KG
+Sbjct  61  HELILQEEVQDAEGNKEFHYLVKKG  85
+
+
+>WP_004692640.1 MULTISPECIES: TusA-like sulfurtransferase [Acinetobacter]
+Length=85
+
+ Score = 149 bits (375),  Expect = 2e-045, Method: Compositional matrix adjust.
+ Identities = 68/85 (80%), Positives = 77/85 (91%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MS+  +SP++QLNTRGLRCPEPVMMLHQAIRK+KSGDVVEV ATD STSWDIPKFCMHLG
+Sbjct  1   MSDLEVSPSIQLNTRGLRCPEPVMMLHQAIRKSKSGDVVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE LDE  +KE+ YLV+KG
+Sbjct  61  HELLLQEERLDENGNKEFHYLVKKG  85
+
+
+>WP_004781744.1 MULTISPECIES: TusA-like sulfurtransferase [Acinetobacter]
+Length=86
+
+ Score = 149 bits (375),  Expect = 2e-045, Method: Compositional matrix adjust.
+ Identities = 68/85 (80%), Positives = 77/85 (91%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSE  I+P++QLNTRGLRCPEPVMMLHQAIRK+K+GDVVEV ATD STSWDIPKFCMHLG
+Sbjct  1   MSEAEITPSLQLNTRGLRCPEPVMMLHQAIRKSKAGDVVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE LDE  +KE+ YLV+KG
+Sbjct  61  HELLLQEERLDENGNKEFHYLVKKG  85
+
+
+>WP_034587933.1 sulfurtransferase TusA [Acinetobacter sp. HR7]
+Length=85
+
+ Score = 148 bits (374),  Expect = 3e-045, Method: Compositional matrix adjust.
+ Identities = 68/85 (80%), Positives = 77/85 (91%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MS+  I+P++QLNTRGLRCPEPVMMLHQAIRK+KSGDVVEV ATD STSWDIPKFCMHLG
+Sbjct  1   MSDAEITPSLQLNTRGLRCPEPVMMLHQAIRKSKSGDVVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE LDE  +KE+ YLV+KG
+Sbjct  61  HELLLQEERLDENGNKEFHYLVKKG  85
+
+
+>WP_078189780.1 MULTISPECIES: sulfurtransferase TusA [Acinetobacter]
+Length=85
+
+ Score = 148 bits (374),  Expect = 3e-045, Method: Compositional matrix adjust.
+ Identities = 68/85 (80%), Positives = 76/85 (89%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSE  + P++QLNTRGLRCPEPVMMLHQAIRK+KSGD+VEV ATD STSWDIPKFCMHLG
+Sbjct  1   MSEPSVPPSIQLNTRGLRCPEPVMMLHQAIRKSKSGDIVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE LDE  +KE+ YLVQKG
+Sbjct  61  HELLLQEERLDENGNKEFHYLVQKG  85
+
+
+>WP_010111820.1 sulfurtransferase TusA [Acinetobacter sp. P8-3-8]
+Length=85
+
+ Score = 148 bits (373),  Expect = 3e-045, Method: Compositional matrix adjust.
+ Identities = 68/85 (80%), Positives = 78/85 (92%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSEQ  +P++QLNTRGLRCPEPVMMLHQAIRK+KSGDVVEV ATD STSWDIPKFCMHLG
+Sbjct  1   MSEQLPTPSIQLNTRGLRCPEPVMMLHQAIRKSKSGDVVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HEL+L+EEVLD+  +KE+ YLV+KG
+Sbjct  61  HELVLQEEVLDDAGNKEFHYLVKKG  85
+
+
+>WP_086181449.1 sulfurtransferase TusA [Acinetobacter sp. ANC 4558]
+Length=85
+
+ Score = 148 bits (373),  Expect = 3e-045, Method: Compositional matrix adjust.
+ Identities = 65/85 (76%), Positives = 76/85 (89%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSE  ++PT+QLNTRGLRCPEPVMMLHQAIRK+KSG++VE+ ATD STSWDIPKFC+HLG
+Sbjct  1   MSESTLTPTIQLNTRGLRCPEPVMMLHQAIRKSKSGEIVEIFATDNSTSWDIPKFCLHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE LD   +KE+ YLVQKG
+Sbjct  61  HELLLQEETLDANGNKEFHYLVQKG  85
+
+
+>WP_004991544.1 TusA-like sulfurtransferase [Acinetobacter ursingii]
+Length=85
+
+ Score = 148 bits (373),  Expect = 4e-045, Method: Compositional matrix adjust.
+ Identities = 68/80 (85%), Positives = 74/80 (93%), Gaps = 0/80 (0%)
+
+Query  6   ISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLL  65
+           ++PT+QLNTRGLRCPEPVMMLHQAIRK+KSGDVVEVLATDPSTSWDIPKFCMHLGHELL 
+Sbjct  6   LTPTIQLNTRGLRCPEPVMMLHQAIRKSKSGDVVEVLATDPSTSWDIPKFCMHLGHELLA  65
+
+Query  66  KEEVLDEQNHKEYRYLVQKG  85
+           +EE+ D    KEYRYLVQKG
+Sbjct  66  QEELKDATGLKEYRYLVQKG  85
+
+
+>WP_086174067.1 sulfurtransferase TusA [Acinetobacter sp. ANC 3903]
+Length=85
+
+ Score = 148 bits (373),  Expect = 4e-045, Method: Compositional matrix adjust.
+ Identities = 67/85 (79%), Positives = 77/85 (91%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSE  ++P++QLNTRGLRCPEPVMMLHQAIRK++SGDVVEV ATD STSWDIPKFCMHLG
+Sbjct  1   MSEPSVTPSIQLNTRGLRCPEPVMMLHQAIRKSRSGDVVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE LDE  +KE+ YLV+KG
+Sbjct  61  HELLLQEERLDENGNKEFHYLVKKG  85
+
+
+>WP_068909760.1 sulfurtransferase TusA [Acinetobacter sp. WCHA34]
+Length=85
+
+ Score = 148 bits (373),  Expect = 4e-045, Method: Compositional matrix adjust.
+ Identities = 68/85 (80%), Positives = 76/85 (89%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSE  ++P +QLNTRGLRCPEPVMMLHQAIRK+KSGDVVEV ATD STSWDIPKFCMHLG
+Sbjct  1   MSEPALTPAIQLNTRGLRCPEPVMMLHQAIRKSKSGDVVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE LDE  +KE+ YLV+KG
+Sbjct  61  HELLLQEERLDENGNKEFHYLVKKG  85
+
+
+>WP_086187277.1 sulfurtransferase TusA [Acinetobacter sp. ANC 4470]
+Length=85
+
+ Score = 147 bits (372),  Expect = 5e-045, Method: Compositional matrix adjust.
+ Identities = 69/85 (81%), Positives = 76/85 (89%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSE    PT+QLNTRGLRCPEPVMMLHQAIRK+K+GDVVEV ATD STSWDIPKFCMHLG
+Sbjct  1   MSEPLAIPTIQLNTRGLRCPEPVMMLHQAIRKSKAGDVVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EEVLDE  +KE+ YLV+KG
+Sbjct  61  HELLLQEEVLDEAGNKEFHYLVKKG  85
+
+
+>WP_005016897.1 MULTISPECIES: TusA-like sulfurtransferase [Acinetobacter]
+Length=85
+
+ Score = 147 bits (372),  Expect = 6e-045, Method: Compositional matrix adjust.
+ Identities = 67/85 (79%), Positives = 76/85 (89%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSE  ++  +QLNTRGLRCPEPVMMLHQAIRK K+GDVVEV ATDPSTSWDIPKFCMHLG
+Sbjct  1   MSEPALTSDIQLNTRGLRCPEPVMMLHQAIRKVKTGDVVEVFATDPSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE+ D ++HKEY YLV+KG
+Sbjct  61  HELLLQEELTDTEHHKEYHYLVRKG  85
+
+
+>WP_086209657.1 sulfurtransferase TusA [Acinetobacter sp. ANC 4204]
+Length=85
+
+ Score = 146 bits (369),  Expect = 2e-044, Method: Compositional matrix adjust.
+ Identities = 68/85 (80%), Positives = 76/85 (89%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MS+   SP++QLNTRGLRCPEPVMMLHQAIRK+KSGDVVEV ATD STSWDIPKFCMHLG
+Sbjct  1   MSDLERSPSIQLNTRGLRCPEPVMMLHQAIRKSKSGDVVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE LDE  +KE+ YLV+KG
+Sbjct  61  HELLLQEERLDENGNKEFHYLVKKG  85
+
+
+>WP_054582353.1 sulfurtransferase TusA [Acinetobacter equi]
+Length=85
+
+ Score = 146 bits (368),  Expect = 3e-044, Method: Compositional matrix adjust.
+ Identities = 66/85 (78%), Positives = 75/85 (88%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSE   +PT+QLNTRGLRCPEPVMMLHQAIRK+KSGD+VEV ATD STSWDIPKFCMHLG
+Sbjct  1   MSESMSAPTIQLNTRGLRCPEPVMMLHQAIRKSKSGDIVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE  D + +KE+ YLV+KG
+Sbjct  61  HELLLQEEAQDAEGNKEFHYLVKKG  85
+
+
+>WP_035264077.1 sulfurtransferase TusA [Acinetobacter sp. Ver3]
+Length=85
+
+ Score = 145 bits (367),  Expect = 3e-044, Method: Compositional matrix adjust.
+ Identities = 66/85 (78%), Positives = 75/85 (88%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MS+  + P +QLNTRGLRCPEPVMMLHQAIRK+KSGDVVEV ATD STSWDIPKFCMHLG
+Sbjct  1   MSDSQVQPQIQLNTRGLRCPEPVMMLHQAIRKSKSGDVVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE LD+  +KE+ YLV+KG
+Sbjct  61  HELLLQEERLDDNGNKEFHYLVKKG  85
+
+
+>WP_067663053.1 sulfurtransferase TusA [Acinetobacter sp. TGL-Y2]
+Length=85
+
+ Score = 145 bits (365),  Expect = 7e-044, Method: Compositional matrix adjust.
+ Identities = 67/85 (79%), Positives = 74/85 (87%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSE   +P++ LNTRGLRCPEPVMMLHQAIRK+KSGDVVEV ATD STSWDIPKFCMHLG
+Sbjct  1   MSELSTTPSILLNTRGLRCPEPVMMLHQAIRKSKSGDVVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EEVL E   KE+ YLV+KG
+Sbjct  61  HELLLQEEVLGENGEKEFHYLVKKG  85
+
+
+>WP_005095362.1 sulfurtransferase TusA [Acinetobacter lwoffii]
+Length=86
+
+ Score = 144 bits (364),  Expect = 1e-043, Method: Compositional matrix adjust.
+ Identities = 67/85 (79%), Positives = 75/85 (88%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MS   I P++QLNTRGLRCPEPVMMLHQAIRK+K+GDVVEV ATD STSWDIPKFCMHLG
+Sbjct  1   MSPTEIIPSLQLNTRGLRCPEPVMMLHQAIRKSKAGDVVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE LDE  +KE+ YLV+KG
+Sbjct  61  HELLLQEECLDENGNKEFHYLVKKG  85
+
+
+>WP_004920351.1 MULTISPECIES: TusA-like sulfurtransferase [Acinetobacter]
+Length=85
+
+ Score = 144 bits (364),  Expect = 1e-043, Method: Compositional matrix adjust.
+ Identities = 66/85 (78%), Positives = 73/85 (86%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           M E  ++P +QLNTRGLRCPEPVMMLHQAIRK+KSGD+VEV ATDPSTSWDIPKFC HLG
+Sbjct  1   MPEHDLTPAIQLNTRGLRCPEPVMMLHQAIRKSKSGDIVEVFATDPSTSWDIPKFCTHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE LD    KEY YL+QKG
+Sbjct  61  HELLLQEEHLDANELKEYHYLIQKG  85
+
+
+>WP_005172942.1 sulfurtransferase TusA [Acinetobacter sp. NIPH 713]
+Length=86
+
+ Score = 144 bits (364),  Expect = 1e-043, Method: Compositional matrix adjust.
+ Identities = 67/85 (79%), Positives = 75/85 (88%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MS   I P++QLNTRGLRCPEPVMMLHQAIRK+K+GDVVEV ATD STSWDIPKFCMHLG
+Sbjct  1   MSPTEIIPSLQLNTRGLRCPEPVMMLHQAIRKSKAGDVVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE LDE  +KE+ YLV+KG
+Sbjct  61  HELLLQEECLDENGNKEFHYLVKKG  85
+
+
+>WP_064102195.1 sulfurtransferase TusA [Acinetobacter sp. SFA]
+Length=86
+
+ Score = 144 bits (363),  Expect = 1e-043, Method: Compositional matrix adjust.
+ Identities = 67/85 (79%), Positives = 75/85 (88%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MS   I P++QLNTRGLRCPEPVMMLHQAIRK+K+GDVVEV ATD STSWDIPKFCMHLG
+Sbjct  1   MSFTEIIPSLQLNTRGLRCPEPVMMLHQAIRKSKAGDVVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE LDE  +KE+ YLV+KG
+Sbjct  61  HELLLQEERLDENGNKEFHYLVKKG  85
+
+
+>WP_004729361.1 MULTISPECIES: TusA-like sulfurtransferase [Acinetobacter]
+Length=86
+
+ Score = 144 bits (362),  Expect = 2e-043, Method: Compositional matrix adjust.
+ Identities = 67/85 (79%), Positives = 75/85 (88%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MS   I P++QLNTRGLRCPEPVMMLHQAIRK+K+GDVVEV ATD STSWDIPKFCMHLG
+Sbjct  1   MSPTEIIPSLQLNTRGLRCPEPVMMLHQAIRKSKAGDVVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE LDE  +KE+ YLV+KG
+Sbjct  61  HELLLQEERLDENGNKEFHYLVKKG  85
+
+
+>WP_004278563.1 MULTISPECIES: sulfurtransferase TusA [Acinetobacter]
+Length=85
+
+ Score = 144 bits (362),  Expect = 2e-043, Method: Compositional matrix adjust.
+ Identities = 67/85 (79%), Positives = 75/85 (88%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MS   I P++QLNTRGLRCPEPVMMLHQAIRK+K+GDVVEV ATD STSWDIPKFCMHLG
+Sbjct  1   MSPTEIIPSLQLNTRGLRCPEPVMMLHQAIRKSKAGDVVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE LDE  +KE+ YLV+KG
+Sbjct  61  HELLLQEERLDENGNKEFHYLVKKG  85
+
+
+>WP_004725563.1 MULTISPECIES: sulfurtransferase TusA [Acinetobacter]
+Length=85
+
+ Score = 143 bits (360),  Expect = 3e-043, Method: Compositional matrix adjust.
+ Identities = 66/85 (78%), Positives = 76/85 (89%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSE   + ++QLNTRGLRCPEPVMMLHQAIRK+KSGDVVEV ATD STSWDIPKFCMHLG
+Sbjct  1   MSEPMPTASIQLNTRGLRCPEPVMMLHQAIRKSKSGDVVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HEL+L+EEVLD+  +KE+ YLV+KG
+Sbjct  61  HELILQEEVLDDAGNKEFHYLVKKG  85
+
+
+>WP_004825297.1 TusA-like sulfurtransferase [Acinetobacter bereziniae]
+Length=85
+
+ Score = 142 bits (357),  Expect = 1e-042, Method: Compositional matrix adjust.
+ Identities = 64/85 (75%), Positives = 75/85 (88%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSE   +  +QLNTRGLRCPEPVMMLHQAIRK+KSGDVVEV ATD STSWDIPKFC+HLG
+Sbjct  1   MSEALPTANIQLNTRGLRCPEPVMMLHQAIRKSKSGDVVEVFATDNSTSWDIPKFCLHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HEL+L+EE+LD+  +KE+ YLV+KG
+Sbjct  61  HELVLQEEILDDAGNKEFHYLVKKG  85
+
+
+>WP_009587192.1 MULTISPECIES: sulfurtransferase TusA [Acinetobacter]
+Length=85
+
+ Score = 141 bits (356),  Expect = 2e-042, Method: Compositional matrix adjust.
+ Identities = 64/85 (75%), Positives = 75/85 (88%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSE   +  +QLNTRGLRCPEPVMMLHQAIRK+KSGDVVE+ ATD STSWDIPKFCMHLG
+Sbjct  1   MSEPLPTANIQLNTRGLRCPEPVMMLHQAIRKSKSGDVVEIFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HEL+L+EE+LD+  +KE+ YLV+KG
+Sbjct  61  HELVLQEEILDDAGNKEFHYLVKKG  85
+
+
+>WP_067761197.1 sulfurtransferase TusA [Acinetobacter gandensis]
+Length=84
+
+ Score = 141 bits (355),  Expect = 2e-042, Method: Compositional matrix adjust.
+ Identities = 64/76 (84%), Positives = 69/76 (91%), Gaps = 0/76 (0%)
+
+Query  10  VQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEV  69
+            QLNTRGLRCPEPVMMLHQAIRK+KSGD+VEV ATD STSWDIPKFCMHLGHELLL+EE 
+Sbjct  9   TQLNTRGLRCPEPVMMLHQAIRKSKSGDIVEVFATDNSTSWDIPKFCMHLGHELLLQEEY  68
+
+Query  70  LDEQNHKEYRYLVQKG  85
+           LDE  +KE+ YLVQKG
+Sbjct  69  LDENGNKEFHYLVQKG  84
+
+
+>WP_086177043.1 sulfurtransferase TusA [Acinetobacter sp. ANC 5054]
+Length=84
+
+ Score = 140 bits (353),  Expect = 4e-042, Method: Compositional matrix adjust.
+ Identities = 64/76 (84%), Positives = 69/76 (91%), Gaps = 0/76 (0%)
+
+Query  10  VQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEV  69
+            QLNTRGLRCPEPVMMLHQAIRK+KSGD+VEV ATD STSWDIPKFCMHLGHELLL+EE 
+Sbjct  9   TQLNTRGLRCPEPVMMLHQAIRKSKSGDIVEVFATDNSTSWDIPKFCMHLGHELLLQEER  68
+
+Query  70  LDEQNHKEYRYLVQKG  85
+           LDE  +KE+ YLVQKG
+Sbjct  69  LDENGNKEFHYLVQKG  84
+
+
+>WP_016657668.1 sulfurtransferase TusA [Acinetobacter rudis]
+Length=85
+
+ Score = 140 bits (353),  Expect = 4e-042, Method: Compositional matrix adjust.
+ Identities = 64/85 (75%), Positives = 73/85 (86%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MS    +P +QLNTRGLRCPEPVMMLHQAIRK+KSGDVVEV ATD STSWDIPKFC HLG
+Sbjct  1   MSAMDPTPHIQLNTRGLRCPEPVMMLHQAIRKSKSGDVVEVFATDNSTSWDIPKFCTHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE+ DE  +KE+ YL++KG
+Sbjct  61  HELLLQEELFDETGNKEFHYLIKKG  85
+
+
+>WP_046760841.1 sulfurtransferase TusA [Acinetobacter sp. Ag2]
+Length=85
+
+ Score = 140 bits (353),  Expect = 5e-042, Method: Compositional matrix adjust.
+ Identities = 65/85 (76%), Positives = 74/85 (87%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSE      +QLNTRGLRCPEPVMMLHQAIRK+KSGDVVEV ATD STSWDIPKFCMHLG
+Sbjct  1   MSEPLPIANIQLNTRGLRCPEPVMMLHQAIRKSKSGDVVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HEL+L+EE+LD+  +KE+ YLV+KG
+Sbjct  61  HELVLQEEILDDAGNKEFHYLVKKG  85
+
+
+>WP_005034237.1 sulfurtransferase TusA [Acinetobacter bereziniae]
+Length=85
+
+ Score = 140 bits (352),  Expect = 7e-042, Method: Compositional matrix adjust.
+ Identities = 64/85 (75%), Positives = 74/85 (87%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSE      +QLNTRGLRCPEPVMMLHQAIRK+KSGDVVE+ ATD STSWDIPKFCMHLG
+Sbjct  1   MSEPLPIANIQLNTRGLRCPEPVMMLHQAIRKSKSGDVVEIFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HEL+L+EE+LD+  +KE+ YLV+KG
+Sbjct  61  HELVLQEEILDDAGNKEFHYLVKKG  85
+
+
+>WP_067551764.1 sulfurtransferase TusA [Acinetobacter larvae]
+Length=85
+
+ Score = 136 bits (343),  Expect = 1e-040, Method: Compositional matrix adjust.
+ Identities = 60/78 (77%), Positives = 69/78 (88%), Gaps = 0/78 (0%)
+
+Query  8   PTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKE  67
+           P +QLNTRGLRCPEPVMMLHQAIRKAKSGD++E+ ATD STSWDIPKFC+HLGHELLL+E
+Sbjct  8   PNLQLNTRGLRCPEPVMMLHQAIRKAKSGDIIEIFATDNSTSWDIPKFCLHLGHELLLQE  67
+
+Query  68  EVLDEQNHKEYRYLVQKG  85
+           E LD+   KE+ YLV+K 
+Sbjct  68  ERLDDAGQKEFHYLVKKA  85
+
+
+>WP_086202373.1 sulfurtransferase TusA [Acinetobacter sp. ANC 4999]
+Length=85
+
+ Score = 134 bits (338),  Expect = 1e-039, Method: Compositional matrix adjust.
+ Identities = 66/85 (78%), Positives = 78/85 (92%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MS+Q I+ T+QLNTRGLRCPEPVMMLHQA+RK+KSGD+VEV ATD STSWDIPKFCMHLG
+Sbjct  1   MSDQAITATIQLNTRGLRCPEPVMMLHQAVRKSKSGDIVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE+LD+  +KE+ YLV+KG
+Sbjct  61  HELLLQEELLDDAGNKEFHYLVKKG  85
+
+
+>WP_086205062.1 sulfurtransferase TusA [Acinetobacter sp. ANC 4648]
+Length=85
+
+ Score = 134 bits (337),  Expect = 1e-039, Method: Compositional matrix adjust.
+ Identities = 67/85 (79%), Positives = 78/85 (92%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MS+Q I+ T+QLNTRGLRCPEPVMMLHQAIRK+KSGD+VEV ATD STSWDIPKFCMHLG
+Sbjct  1   MSDQAITATLQLNTRGLRCPEPVMMLHQAIRKSKSGDIVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HELLL+EE+LD+  +KE+ YLV+KG
+Sbjct  61  HELLLQEELLDDAGNKEFHYLVKKG  85
+
+
+>WP_023273009.1 sulfurtransferase TusA [Acinetobacter nectaris]
+Length=85
+
+ Score = 126 bits (317),  Expect = 1e-036, Method: Compositional matrix adjust.
+ Identities = 55/85 (65%), Positives = 72/85 (85%), Gaps = 0/85 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MS+  ++  VQL+T+GL CP+P+M L QAIRK +SG+VVEV ATD STSWDIP+FC+H+ 
+Sbjct  1   MSDSSMTVHVQLDTKGLYCPDPIMKLRQAIRKIQSGEVVEVFATDISTSWDIPRFCVHMN  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HEL+LKEE LD++ HKEYRYL++KG
+Sbjct  61  HELVLKEEYLDDKGHKEYRYLIKKG  85
+
+
+>WP_080911208.1 sulfurtransferase TusA, partial [Klebsiella pneumoniae]
+Length=71
+
+ Score = 125 bits (314),  Expect = 2e-036, Method: Compositional matrix adjust.
+ Identities = 59/71 (83%), Positives = 64/71 (90%), Gaps = 0/71 (0%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MS   I P++QLNTRGLRCPEPVMMLHQAIRK+K+GDVVEV ATD STSWDIPKFCMHLG
+Sbjct  1   MSPTEIIPSLQLNTRGLRCPEPVMMLHQAIRKSKAGDVVEVFATDNSTSWDIPKFCMHLG  60
+
+Query  61  HELLLKEEVLD  71
+           HELLL+EE LD
+Sbjct  61  HELLLQEERLD  71
+
+
+>WP_070069755.1 sulfurtransferase TusA [Acinetobacter qingfengensis]
+Length=84
+
+ Score = 120 bits (302),  Expect = 3e-034, Method: Compositional matrix adjust.
+ Identities = 56/74 (76%), Positives = 64/74 (86%), Gaps = 1/74 (1%)
+
+Query  11  QLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVL  70
+           QL+TRGLRCPEPVMMLHQAIRK++SGDV+EV ATDPSTSWDIPKFCMHLGH LL ++E  
+Sbjct  11  QLDTRGLRCPEPVMMLHQAIRKSQSGDVIEVFATDPSTSWDIPKFCMHLGHTLLQQQEQ-  69
+
+Query  71  DEQNHKEYRYLVQK  84
+           D +  KEY Y +QK
+Sbjct  70  DIEGKKEYYYQIQK  83
+
+
+>WP_051526783.1 sulfurtransferase TusA [Alkanindiges illinoisensis]
+Length=91
+
+ Score = 98.2 bits (243),  Expect = 3e-025, Method: Compositional matrix adjust.
+ Identities = 44/76 (58%), Positives = 59/76 (78%), Gaps = 1/76 (1%)
+
+Query  9   TVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEE  68
+           +V L+T GL CPEPVMMLHQAIRK++SG ++ V+ATDPST+ DIPKFC+HLGHELL + +
+Sbjct  16  SVHLDTSGLNCPEPVMMLHQAIRKSQSGQIIHVVATDPSTTRDIPKFCLHLGHELLGQHQ  75
+
+Query  69  VLDEQNHKEYRYLVQK  84
+             D     +Y + ++K
+Sbjct  76  Q-DNNGKTQYLFDIKK  90
+
+
+>WP_079690550.1 sulfurtransferase TusA [Psychrobacter sp. DAB_AL43B]
+Length=86
+
+ Score = 97.8 bits (242),  Expect = 4e-025, Method: Compositional matrix adjust.
+ Identities = 45/74 (61%), Positives = 58/74 (78%), Gaps = 3/74 (4%)
+
+Query  11  QLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVL  70
+            L+T+GL CPEPVMMLH+ IRKA  GD++E+LATDP+T+ DIP FC HLGH  L+++E L
+Sbjct  13  HLDTQGLICPEPVMMLHKTIRKADGGDIIEILATDPATTRDIPNFCRHLGHT-LVQQETL  71
+
+Query  71  DEQNHKEYRYLVQK  84
+           D+     YRYLV+K
+Sbjct  72  DDA--PTYRYLVKK  83
+
+
+>WP_066805807.1 sulfurtransferase TusA [Moraxella oblonga]
+Length=76
+
+ Score = 97.4 bits (241),  Expect = 4e-025, Method: Compositional matrix adjust.
+ Identities = 42/75 (56%), Positives = 61/75 (81%), Gaps = 4/75 (5%)
+
+Query  11  QLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVL  70
+           +L+T GL CPEP+M+LH+AIRKA +GD++ V+A+DP+T+ DIP FC HLGH  L+++ +L
+Sbjct  6   ELDTVGLVCPEPIMLLHKAIRKANTGDIIMVMASDPATTRDIPNFCRHLGHA-LVEQAIL  64
+
+Query  71  DEQNHKEYRYLVQKG  85
+           D+ N   YRY++QKG
+Sbjct  65  DDGN---YRYMIQKG  76
+
+
+>WP_078306436.1 sulfurtransferase TusA [Moraxella lincolnii]
+Length=93
+
+ Score = 97.8 bits (242),  Expect = 4e-025, Method: Compositional matrix adjust.
+ Identities = 45/73 (62%), Positives = 58/73 (79%), Gaps = 1/73 (1%)
+
+Query  12  LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVLD  71
+           L+T+GL CPEPVM+LH+AIRKA  G+ +EVLATDP+T+ DIP FC HLGH LLL E+  D
+Sbjct  17  LDTQGLNCPEPVMLLHRAIRKANVGERIEVLATDPATTRDIPNFCRHLGHGLLL-EQHFD  75
+
+Query  72  EQNHKEYRYLVQK  84
+           +    +YRY++QK
+Sbjct  76  DDATPKYRYVIQK  88
+
+
+>WP_019673194.1 hypothetical protein [Psychrobacter lutiphocae]
+Length=125
+
+ Score = 99.0 bits (245),  Expect = 4e-025, Method: Compositional matrix adjust.
+ Identities = 48/80 (60%), Positives = 59/80 (74%), Gaps = 6/80 (8%)
+
+Query  11   QLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEV-  69
+            QL+T+GL CPEPVM+LH+AIRKA  GD +E+LATDP+T+ DIP FC HLGH L+ K E  
+Sbjct  43   QLDTQGLICPEPVMLLHRAIRKADGGDHIEILATDPATTRDIPNFCRHLGHTLVEKSEQD  102
+
+Query  70   ---LDEQNHKE--YRYLVQK  84
+                D  NH +  YRY+VQK
+Sbjct  103  NPEGDSDNHTDILYRYVVQK  122
+
+
+>WP_011279367.1 sulfurtransferase TusA [Psychrobacter arcticus]
+Length=86
+
+ Score = 97.4 bits (241),  Expect = 5e-025, Method: Compositional matrix adjust.
+ Identities = 45/74 (61%), Positives = 59/74 (80%), Gaps = 3/74 (4%)
+
+Query  11  QLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVL  70
+            L+T+GL CPEPVMMLH+ IRKA  GDV+E+LATDP+T+ DIP FC HLGH  L+++E+L
+Sbjct  13  HLDTQGLICPEPVMMLHKIIRKADGGDVIEILATDPATTRDIPNFCRHLGHT-LVRQEIL  71
+
+Query  71  DEQNHKEYRYLVQK  84
+           ++     YRYLV+K
+Sbjct  72  NDA--PTYRYLVKK  83
+
+
+>WP_011512434.1 sulfurtransferase TusA [Psychrobacter cryohalolentis]
+Length=86
+
+ Score = 97.4 bits (241),  Expect = 6e-025, Method: Compositional matrix adjust.
+ Identities = 45/74 (61%), Positives = 56/74 (76%), Gaps = 3/74 (4%)
+
+Query  11  QLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVL  70
+            L+T+GL CPEPVMMLH+ IRKA  GDV+E+LATDP+T+ DIP FC HLGH L+ +E + 
+Sbjct  13  HLDTQGLICPEPVMMLHKTIRKAAGGDVIEILATDPATTRDIPNFCRHLGHTLVHQETLN  72
+
+Query  71  DEQNHKEYRYLVQK  84
+           D      YRYLV+K
+Sbjct  73  DAPT---YRYLVKK  83
+
+
+>WP_020442453.1 sulfurtransferase TusA [Psychrobacter sp. G]
+Length=86
+
+ Score = 97.1 bits (240),  Expect = 7e-025, Method: Compositional matrix adjust.
+ Identities = 45/74 (61%), Positives = 56/74 (76%), Gaps = 3/74 (4%)
+
+Query  11  QLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVL  70
+            L+T+GL CPEPVMMLH+ IRKA  GDV+E+LATDP+T+ DIP FC HLGH L+ +E + 
+Sbjct  13  HLDTQGLICPEPVMMLHKTIRKADGGDVIEILATDPATTRDIPNFCRHLGHTLVHQETLN  72
+
+Query  71  DEQNHKEYRYLVQK  84
+           D      YRYLV+K
+Sbjct  73  DAPT---YRYLVKK  83
+
+
+>WP_025645432.1 MULTISPECIES: sulfurtransferase TusA [Psychrobacter]
+Length=108
+
+ Score = 97.8 bits (242),  Expect = 8e-025, Method: Compositional matrix adjust.
+ Identities = 51/102 (50%), Positives = 64/102 (63%), Gaps = 22/102 (22%)
+
+Query  5    PISPTV---QLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGH  61
+            PI+PT     L+T+GL CPEPVMMLH+ IRKA SGDV+E+LATDP+T+ DIP FC HLGH
+Sbjct  4    PITPTPINHHLDTQGLICPEPVMMLHRTIRKADSGDVIEILATDPATTRDIPNFCRHLGH  63
+
+Query  62   ELLLKEEVLDEQN-------------------HKEYRYLVQK  84
+            E L +E + ++ N                      YRYLV+K
+Sbjct  64   EFLSQETLAEDINLEVDPDEITIDSDKDAPTSATLYRYLVKK  105
+
+
+>WP_008249979.1 sulfurtransferase TusA [Zhongshania aliphaticivorans]
+Length=77
+
+ Score = 96.7 bits (239),  Expect = 8e-025, Method: Compositional matrix adjust.
+ Identities = 46/74 (62%), Positives = 54/74 (73%), Gaps = 5/74 (7%)
+
+Query  12  LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVLD  71
+           L+T GL CPEPVMMLH  IR   SGDV+E++ATDP+T+ DIPKFC  LGH LL KEE   
+Sbjct  9   LDTCGLFCPEPVMMLHNKIRDIASGDVLEIIATDPATTRDIPKFCNFLGHTLLAKEE---  65
+
+Query  72  EQNHKEYRYLVQKG  85
+             + K+YRY VQK 
+Sbjct  66  --SDKQYRYFVQKA  77
+
+
+>WP_050324895.1 MULTISPECIES: sulfurtransferase TusA [Proteobacteria]
+Length=90
+
+ Score = 94.7 bits (234),  Expect = 6e-024, Method: Compositional matrix adjust.
+ Identities = 40/81 (49%), Positives = 62/81 (77%), Gaps = 7/81 (9%)
+
+Query  11  QLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVL  70
+           QL+T+GL CPEP+M+LH+ +RKA+SG+V+ V+ATDP+T+ DIP FC HLGHEL+ +++++
+Sbjct  7   QLDTQGLICPEPIMLLHKTVRKAQSGEVIHVIATDPATTRDIPNFCRHLGHELIEQQDII  66
+
+Query  71  DEQNHKE-------YRYLVQK  84
+           + Q H+        Y Y ++K
+Sbjct  67  NPQQHQNPDPYANVYHYWIKK  87
+
+
+>WP_062843510.1 sulfurtransferase TusA [Psychrobacter alimentarius]
+Length=108
+
+ Score = 95.5 bits (236),  Expect = 7e-024, Method: Compositional matrix adjust.
+ Identities = 48/93 (52%), Positives = 59/93 (63%), Gaps = 19/93 (20%)
+
+Query  11   QLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVL  70
+             L+T+GL CPEPVMMLH+ IRKA SG+V+E+LATDP+T+ DIP FC HLGHELL +E + 
+Sbjct  13   HLDTQGLICPEPVMMLHRVIRKADSGEVIEILATDPATTRDIPNFCRHLGHELLGQETLA  72
+
+Query  71   DE-------------------QNHKEYRYLVQK  84
+            D                     N   YRYLV+K
+Sbjct  73   DNVSLDIDPDEITVAGDNETPVNSTLYRYLVKK  105
+
+
+>WP_078317390.1 sulfurtransferase TusA [Moraxella porci]
+Length=78
+
+ Score = 94.4 bits (233),  Expect = 8e-024, Method: Compositional matrix adjust.
+ Identities = 43/73 (59%), Positives = 58/73 (79%), Gaps = 5/73 (7%)
+
+Query  12  LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVLD  71
+           L+T+GL CPEPVM+LH+A+R A +G+++EVLATDP+T+ DIP FC HLGH  L+ +E LD
+Sbjct  8   LDTQGLICPEPVMLLHKAVRTALAGEIIEVLATDPATTRDIPNFCRHLGHT-LISQEALD  66
+
+Query  72  EQNHKEYRYLVQK  84
+           +     YRYL+QK
+Sbjct  67  DG----YRYLIQK  75
+
+
+>WP_079326654.1 sulfurtransferase TusA [Moraxella equi]
+Length=78
+
+ Score = 93.2 bits (230),  Expect = 2e-023, Method: Compositional matrix adjust.
+ Identities = 45/79 (57%), Positives = 58/79 (73%), Gaps = 4/79 (5%)
+
+Query  6   ISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLL  65
+           +S TV L+T GL CPEPVM+LH++IR AK GD + +LATDP+T+ DIP FC HLGH  L 
+Sbjct  1   MSDTVMLDTTGLICPEPVMLLHKSIRTAKGGDEIHILATDPATTRDIPNFCRHLGHT-LA  59
+
+Query  66  KEEVLDEQNHKEYRYLVQK  84
+            +E LD+ +   YRY+V K
+Sbjct  60  SQETLDDGS---YRYVVVK  75
+
+
+>WP_015818330.1 sulfurtransferase TusA [Teredinibacter turnerae]
+Length=80
+
+ Score = 93.2 bits (230),  Expect = 2e-023, Method: Compositional matrix adjust.
+ Identities = 45/74 (61%), Positives = 52/74 (70%), Gaps = 5/74 (7%)
+
+Query  12  LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVLD  71
+           ++ RGL CPEPVMMLH A+R A SGDV+EVLATDPST  DI +FC  L HEL     V  
+Sbjct  12  IDARGLLCPEPVMMLHNAVRDAASGDVIEVLATDPSTQRDIARFCEFLSHEL-----VAV  66
+
+Query  72  EQNHKEYRYLVQKG  85
+            Q   EYR+LV+KG
+Sbjct  67  AQQDDEYRFLVRKG  80
+
+
+>WP_018015186.1 sulfurtransferase TusA [Teredinibacter turnerae]
+Length=80
+
+ Score = 93.2 bits (230),  Expect = 2e-023, Method: Compositional matrix adjust.
+ Identities = 45/74 (61%), Positives = 52/74 (70%), Gaps = 5/74 (7%)
+
+Query  12  LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVLD  71
+           ++ RGL CPEPVMMLH A+R A SGDV+EVLATDPST  DI +FC  L HEL     V  
+Sbjct  12  IDARGLLCPEPVMMLHNAVRDAASGDVIEVLATDPSTQRDIARFCEFLSHEL-----VAV  66
+
+Query  72  EQNHKEYRYLVQKG  85
+            Q   EYR+LV+KG
+Sbjct  67  AQQDDEYRFLVRKG  80
+
+
+>WP_062536569.1 sulfurtransferase TusA [Psychrobacter urativorans]
+Length=86
+
+ Score = 93.2 bits (230),  Expect = 2e-023, Method: Compositional matrix adjust.
+ Identities = 42/74 (57%), Positives = 56/74 (76%), Gaps = 3/74 (4%)
+
+Query  11  QLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVL  70
+            L+T+GL CPEPVMMLH+ IR+A  G+++E+LATDP+T+ DIP FC HLGH L+ +E + 
+Sbjct  13  HLDTQGLICPEPVMMLHKTIRQADGGEIIEILATDPATTRDIPNFCRHLGHTLVHQETLN  72
+
+Query  71  DEQNHKEYRYLVQK  84
+           D      YRYLV+K
+Sbjct  73  DAPT---YRYLVKK  83
+
+
+>WP_028885927.1 sulfurtransferase TusA [Teredinibacter turnerae]
+Length=80
+
+ Score = 92.8 bits (229),  Expect = 3e-023, Method: Compositional matrix adjust.
+ Identities = 48/84 (57%), Positives = 57/84 (68%), Gaps = 7/84 (8%)
+
+Query  2   SEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGH  61
+           S+QP   ++  + RGL CPEPVMMLH A+R A SGDV+EVLATDPST  DI +FC  L H
+Sbjct  4   SDQPHQHSI--DARGLLCPEPVMMLHNAVRDAASGDVIEVLATDPSTQRDITRFCEFLSH  61
+
+Query  62  ELLLKEEVLDEQNHKEYRYLVQKG  85
+           EL     V   Q   EYR+LV+KG
+Sbjct  62  EL-----VAVAQQDDEYRFLVRKG  80
+
+
+>WP_011959436.1 SirA family protein [Psychrobacter sp. PRwf-1]
+Length=97
+
+ Score = 93.2 bits (230),  Expect = 3e-023, Method: Compositional matrix adjust.
+ Identities = 43/80 (54%), Positives = 59/80 (74%), Gaps = 6/80 (8%)
+
+Query  11  QLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEE--  68
+            L+T+GL CPEPVM+LH+ +RKA++GD +E+LATDP+T+ DIP FC HLGH L+ + E  
+Sbjct  15  HLDTQGLICPEPVMLLHRTVRKAEAGDYIEILATDPATTRDIPNFCRHLGHNLISQSEEN  74
+
+Query  69  --VLDEQNHKE--YRYLVQK  84
+               D + H +  YRY+VQK
+Sbjct  75  NPAGDPERHTDTLYRYVVQK  94
+
+
+>WP_062501545.1 sulfurtransferase TusA [Moraxella lacunata]
+Length=78
+
+ Score = 92.8 bits (229),  Expect = 3e-023, Method: Compositional matrix adjust.
+ Identities = 44/79 (56%), Positives = 58/79 (73%), Gaps = 4/79 (5%)
+
+Query  6   ISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLL  65
+           +S T+ L+T GL CPEPVM+LH++IR AK GD + +LATDP+T+ DIP FC HLGH  L 
+Sbjct  1   MSDTIMLDTTGLICPEPVMLLHKSIRTAKGGDEIHILATDPATTRDIPNFCRHLGHT-LA  59
+
+Query  66  KEEVLDEQNHKEYRYLVQK  84
+            +E LD+ +   YRY+V K
+Sbjct  60  SQETLDDGS---YRYVVVK  75
+
+
+>WP_058367847.1 MULTISPECIES: sulfurtransferase TusA [Psychrobacter]
+Length=108
+
+ Score = 93.2 bits (230),  Expect = 4e-023, Method: Compositional matrix adjust.
+ Identities = 47/94 (50%), Positives = 59/94 (63%), Gaps = 21/94 (22%)
+
+Query  11   QLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVL  70
+             L+T+GL CPEPVMMLH+ IRKA  GD++E+LATDP+T+ DIP FC HLGHE L+++E L
+Sbjct  13   HLDTQGLICPEPVMMLHRTIRKADGGDIIEILATDPATTRDIPNFCRHLGHE-LVQQETL  71
+
+Query  71   DEQNHKE--------------------YRYLVQK  84
+             E  H                      YRYLV+K
+Sbjct  72   AENVHLNADPDEITIDSDDATPTSVTLYRYLVKK  105
+
+
+>WP_015486408.1 sulfurtransferase TusA [Thalassolituus oleivorans]
+Length=81
+
+ Score = 92.4 bits (228),  Expect = 4e-023, Method: Compositional matrix adjust.
+ Identities = 44/74 (59%), Positives = 52/74 (70%), Gaps = 5/74 (7%)
+
+Query  12  LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVLD  71
+           L+ RGL CPEPVM+LH  IR    GDVVEVLATDPST  D  +FC  LGHEL+L EEV  
+Sbjct  8   LDARGLFCPEPVMLLHNIIRDVAIGDVVEVLATDPSTVRDFTRFCGFLGHELVLSEEV--  65
+
+Query  72  EQNHKEYRYLVQKG  85
+                +YR+L++KG
+Sbjct  66  ---DGDYRFLIRKG  76
+
+
+>WP_078277261.1 sulfurtransferase TusA [Moraxella caviae]
+Length=91
+
+ Score = 92.8 bits (229),  Expect = 5e-023, Method: Compositional matrix adjust.
+ Identities = 43/78 (55%), Positives = 56/78 (72%), Gaps = 4/78 (5%)
+
+Query  7   SPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLK  66
+           +P   L+T+GL CPEPVM+LH+ IRKA  G+ +EVLATDP+T+ DIP FC HLGH L L+
+Sbjct  16  TPNHTLDTKGLICPEPVMLLHKTIRKAAGGECIEVLATDPATTRDIPNFCRHLGHTLSLE  75
+
+Query  67  EEVLDEQNHKEYRYLVQK  84
+           + + D      YRYL+ K
+Sbjct  76  QTLED----GSYRYLIIK  89
+
+
+>WP_065255796.1 sulfurtransferase TusA [Moraxella lacunata]
+Length=78
+
+ Score = 92.0 bits (227),  Expect = 5e-023, Method: Compositional matrix adjust.
+ Identities = 44/79 (56%), Positives = 58/79 (73%), Gaps = 4/79 (5%)
+
+Query  6   ISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLL  65
+           +S T+ L+T GL CPEPVM+LH++IR AK GD + +LATDP+T+ DIP FC HLGH  L 
+Sbjct  1   MSHTIMLDTTGLICPEPVMLLHKSIRTAKGGDEIHILATDPATTRDIPNFCRHLGHT-LA  59
+
+Query  66  KEEVLDEQNHKEYRYLVQK  84
+            +E LD+ +   YRY+V K
+Sbjct  60  SQETLDDGS---YRYVVVK  75
+
+
+>WP_058023620.1 sulfurtransferase TusA [Psychrobacter piscatorii]
+Length=108
+
+ Score = 92.8 bits (229),  Expect = 6e-023, Method: Compositional matrix adjust.
+ Identities = 40/64 (63%), Positives = 52/64 (81%), Gaps = 0/64 (0%)
+
+Query  11  QLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVL  70
+            L+T+GL CPEPVMMLH+ IRKA SG+V+E+LATDP+T+ DIP FC HLGHEL+ +E + 
+Sbjct  13  HLDTQGLICPEPVMMLHRVIRKADSGEVIEILATDPATTRDIPNFCRHLGHELMTQETLA  72
+
+Query  71  DEQN  74
+           +  N
+Sbjct  73  ENIN  76
+
+
+>WP_078275185.1 sulfurtransferase TusA [Moraxella bovis]
+Length=78
+
+ Score = 92.0 bits (227),  Expect = 6e-023, Method: Compositional matrix adjust.
+ Identities = 44/79 (56%), Positives = 57/79 (72%), Gaps = 4/79 (5%)
+
+Query  6   ISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLL  65
+           +S TV L+T GL CPEPVM+LH++IR AK GD + +LATDP+T+ DIP FC HLGH  L 
+Sbjct  1   MSDTVMLDTTGLICPEPVMLLHKSIRTAKGGDEIHILATDPATTRDIPNFCRHLGHT-LA  59
+
+Query  66  KEEVLDEQNHKEYRYLVQK  84
+            +E  D+ +   YRY+V K
+Sbjct  60  SQETFDDGS---YRYVVVK  75
+
+
+>WP_075105869.1 sulfurtransferase TusA [Psychrobacter sp. C 20.9]
+Length=108
+
+ Score = 92.8 bits (229),  Expect = 6e-023, Method: Compositional matrix adjust.
+ Identities = 40/64 (63%), Positives = 52/64 (81%), Gaps = 0/64 (0%)
+
+Query  11  QLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVL  70
+            L+T+GL CPEPVMMLH+ IRKA SG+V+E+LATDP+T+ DIP FC HLGHEL+ +E + 
+Sbjct  13  HLDTQGLICPEPVMMLHRVIRKADSGEVIEILATDPATTRDIPNFCRHLGHELMTQETLA  72
+
+Query  71  DEQN  74
+           +  N
+Sbjct  73  ENIN  76
+
+
+>WP_071002614.1 sulfurtransferase TusA [Psychrobacter sp. AntiMn-1]
+Length=108
+
+ Score = 92.8 bits (229),  Expect = 6e-023, Method: Compositional matrix adjust.
+ Identities = 40/64 (63%), Positives = 52/64 (81%), Gaps = 0/64 (0%)
+
+Query  11  QLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVL  70
+            L+T+GL CPEPVMMLH+ IRKA SG+V+E+LATDP+T+ DIP FC HLGHEL+ +E + 
+Sbjct  13  HLDTQGLICPEPVMMLHRVIRKADSGEVIEILATDPATTRDIPNFCRHLGHELMTQETLA  72
+
+Query  71  DEQN  74
+           +  N
+Sbjct  73  ENIN  76
+
+
+>WP_077447556.1 sulfurtransferase TusA [Psychrobacter sp. CIP 110853]
+Length=97
+
+ Score = 92.0 bits (227),  Expect = 9e-023, Method: Compositional matrix adjust.
+ Identities = 42/80 (53%), Positives = 56/80 (70%), Gaps = 6/80 (8%)
+
+Query  11  QLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVL  70
+            L+T+GL CPEPVM+LH+ +RKA+ GD +E+LATDP+T+ DIP FC HLGH L+ + E  
+Sbjct  15  HLDTQGLICPEPVMLLHRTVRKAEGGDYIEILATDPATTRDIPNFCRHLGHTLVSQSEAD  74
+
+Query  71  DEQNHKE------YRYLVQK  84
+           +     E      YRY+VQK
+Sbjct  75  NPAGDSELHTDKLYRYVVQK  94
+
+
+>WP_077450136.1 sulfurtransferase TusA [Psychrobacter sp. CIP 110854]
+Length=97
+
+ Score = 91.7 bits (226),  Expect = 1e-022, Method: Compositional matrix adjust.
+ Identities = 42/80 (53%), Positives = 56/80 (70%), Gaps = 6/80 (8%)
+
+Query  11  QLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVL  70
+            L+T+GL CPEPVM+LH+ +RKA+ GD +E+LATDP+T+ DIP FC HLGH L+ + E  
+Sbjct  15  HLDTQGLICPEPVMLLHRTVRKAEGGDYIEILATDPATTRDIPNFCRHLGHTLISQSEAD  74
+
+Query  71  DEQNHKE------YRYLVQK  84
+           +     E      YRY+VQK
+Sbjct  75  NPAGDPEIHTDKLYRYVVQK  94
+
+
+>WP_028858394.1 sulfurtransferase [Psychrobacter phenylpyruvicus]
+Length=97
+
+ Score = 91.3 bits (225),  Expect = 2e-022, Method: Compositional matrix adjust.
+ Identities = 42/80 (53%), Positives = 56/80 (70%), Gaps = 6/80 (8%)
+
+Query  11  QLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVL  70
+            L+T+GL CPEPVM+LH+ +RKA+ GD +E+LATDP+T+ DIP FC HLGH L+ + E  
+Sbjct  15  HLDTQGLICPEPVMLLHRTVRKAEGGDYIEILATDPATTRDIPNFCRHLGHTLVSQSEAD  74
+
+Query  71  DEQNHKE------YRYLVQK  84
+           +     E      YRY+VQK
+Sbjct  75  NPAGDPELHTDKLYRYVVQK  94
+
+
+>WP_060490166.1 sulfurtransferase TusA [Psychrobacter sp. P11F6]
+Length=107
+
+ Score = 91.7 bits (226),  Expect = 2e-022, Method: Compositional matrix adjust.
+ Identities = 51/104 (49%), Positives = 63/104 (61%), Gaps = 20/104 (19%)
+
+Query  1    MSEQPISPTVQ--LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMH  58
+            MS   I  T+   L+T+GL CPEPVMMLH+ IR A  G+V+E+LATDP+T+ DIP FC H
+Sbjct  1    MSTSTIQTTINHHLDTQGLICPEPVMMLHRTIRNADGGEVIEILATDPATTRDIPNFCRH  60
+
+Query  59   LGHELL----LKEEVLDEQNHKE--------------YRYLVQK  84
+            LGHELL    L E V  + +  E              YRYLV+K
+Sbjct  61   LGHELLGQETLAENVSLDTDPDEIKVDSDDAPMSVTLYRYLVKK  104
+
+
+>WP_068033657.1 sulfurtransferase TusA [Psychrobacter sp. P11G5]
+Length=108
+
+ Score = 91.3 bits (225),  Expect = 2e-022, Method: Compositional matrix adjust.
+ Identities = 47/93 (51%), Positives = 60/93 (65%), Gaps = 19/93 (20%)
+
+Query  11   QLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKE---  67
+             L+T+GL CPEPVMMLH+ IRKA++G V+E+LATDP+T+ DIP FC HLGHEL+ +E   
+Sbjct  13   HLDTQGLICPEPVMMLHRIIRKAEAGAVIEILATDPATTRDIPNFCRHLGHELVQQETLA  72
+
+Query  68   ------------EVLDEQN----HKEYRYLVQK  84
+                         V D+ N       YRYLV+K
+Sbjct  73   ENVPLNVDPDEITVADDNNAPISATLYRYLVKK  105
+
+
+>WP_068407927.1 sulfurtransferase TusA [Psychrobacter sp. SHUES1]
+Length=108
+
+ Score = 91.3 bits (225),  Expect = 3e-022, Method: Compositional matrix adjust.
+ Identities = 50/106 (47%), Positives = 64/106 (60%), Gaps = 23/106 (22%)
+
+Query  1    MSEQPISPTVQ--LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMH  58
+            M+      T+Q  L+T+GL CPEPVMMLH+ IR A++G V+E+LATDP+T+ DIP FC H
+Sbjct  1    MTTSTSDSTIQHHLDTQGLICPEPVMMLHRTIRNAEAGAVIEILATDPATTRDIPNFCRH  60
+
+Query  59   LGHELLLKEEVLDEQ--------------------NHKEYRYLVQK  84
+            LGHE L+K+E L E                     N   YRYLV+K
+Sbjct  61   LGHE-LVKQETLAENVPLNIDPDEITITDDDDAPINATLYRYLVKK  105
+
+
+>WP_007394583.1 sulfurtransferase TusA [Psychrobacter sp. 1501(2011)]
+Length=97
+
+ Score = 90.9 bits (224),  Expect = 3e-022, Method: Compositional matrix adjust.
+ Identities = 42/80 (53%), Positives = 56/80 (70%), Gaps = 6/80 (8%)
+
+Query  11  QLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVL  70
+            L+T+GL CPEPVM+LH+ IRKA+ G+ +EVLATDP+T+ DIP FC HLGH L+ + E  
+Sbjct  15  HLDTQGLICPEPVMLLHRTIRKAEGGEYIEVLATDPATTRDIPNFCRHLGHTLVSQSEAD  74
+
+Query  71  DEQNHKE------YRYLVQK  84
+           +     E      YRY++QK
+Sbjct  75  NPAGDSEIHTDKLYRYVIQK  94
+
+
+>WP_026193649.1 MULTISPECIES: sulfurtransferase TusA [Teredinibacter]
+Length=80
+
+ Score = 90.1 bits (222),  Expect = 3e-022, Method: Compositional matrix adjust.
+ Identities = 47/84 (56%), Positives = 56/84 (67%), Gaps = 7/84 (8%)
+
+Query  2   SEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGH  61
+           S+QP   ++  + RGL CPEPVMMLH A+R A  GDV+EVLATDPST  DI +FC  L H
+Sbjct  4   SDQPHQHSI--DARGLLCPEPVMMLHNAVRDAAPGDVIEVLATDPSTQRDITRFCEFLSH  61
+
+Query  62  ELLLKEEVLDEQNHKEYRYLVQKG  85
+           EL     V   Q   EYR+LV+KG
+Sbjct  62  EL-----VAVAQQDDEYRFLVRKG  80
+
+
+>WP_064607776.1 sulfurtransferase TusA [Moraxella catarrhalis]
+Length=79
+
+ Score = 90.1 bits (222),  Expect = 4e-022, Method: Compositional matrix adjust.
+ Identities = 43/73 (59%), Positives = 56/73 (77%), Gaps = 4/73 (5%)
+
+Query  12  LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVLD  71
+           L+T+GL CPEPVM+LH+ IR+A  G+ +E+LATDP+T  DIP FC HLGH  L+ +E LD
+Sbjct  8   LDTKGLICPEPVMLLHKTIRQALGGEHIEILATDPATMRDIPNFCRHLGHT-LVNQETLD  66
+
+Query  72  EQNHKEYRYLVQK  84
+           + +   YRYLVQK
+Sbjct  67  DGS---YRYLVQK  76
+
+
+>WP_076555544.1 sulfurtransferase TusA [Moraxella cuniculi]
+Length=79
+
+ Score = 89.7 bits (221),  Expect = 5e-022, Method: Compositional matrix adjust.
+ Identities = 40/73 (55%), Positives = 56/73 (77%), Gaps = 4/73 (5%)
+
+Query  12  LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVLD  71
+           L+T GL CPEPVM+LH+ +R+A +G+ +E+ ATDP+T  DIP FC HLGH+LL++E++  
+Sbjct  8   LDTTGLICPEPVMLLHKTMRQAAAGECIEIHATDPATMRDIPNFCRHLGHQLLVQEQL--  65
+
+Query  72  EQNHKEYRYLVQK  84
+             +   YRYLVQK
+Sbjct  66  --SEGSYRYLVQK  76
+
+
+>WP_021814150.1 sulfurtransferase TusA [Psychrobacter aquaticus]
+Length=108
+
+ Score = 90.5 bits (223),  Expect = 5e-022, Method: Compositional matrix adjust.
+ Identities = 47/92 (51%), Positives = 60/92 (65%), Gaps = 19/92 (21%)
+
+Query  12   LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVL-  70
+            L+T+GL CPEPVMMLH+ IR+A+ G+V+E+LATDP+T+ DIP FC HLGHELL +E +  
+Sbjct  14   LDTQGLICPEPVMMLHRVIRQAEGGEVIEILATDPATTRDIPNFCRHLGHELLNQETLAQ  73
+
+Query  71   --------DE----------QNHKEYRYLVQK  84
+                    DE           N   YRYLV+K
+Sbjct  74   NVSLTIDPDEITVASDDDAPINATLYRYLVKK  105
+
+
+>WP_049235608.1 MULTISPECIES: sulfurtransferase TusA [Moraxella]
+Length=79
+
+ Score = 89.7 bits (221),  Expect = 5e-022, Method: Compositional matrix adjust.
+ Identities = 42/73 (58%), Positives = 57/73 (78%), Gaps = 4/73 (5%)
+
+Query  12  LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVLD  71
+           L+T+GL CPEPVM+LH+ +R+A  G+ +E+LATDP+T+ DIP FC HLGH  L+ +E LD
+Sbjct  8   LDTKGLICPEPVMLLHKTMRQALGGEHIEILATDPATTRDIPNFCRHLGHT-LVDQETLD  66
+
+Query  72  EQNHKEYRYLVQK  84
+           + +   YRYLVQK
+Sbjct  67  DGS---YRYLVQK  76
+
+
+>WP_036993451.1 TusA-like sulfurtransferase [Pseudomonas bauzanensis]
+Length=77
+
+ Score = 89.7 bits (221),  Expect = 5e-022, Method: Compositional matrix adjust.
+ Identities = 45/85 (53%), Positives = 58/85 (68%), Gaps = 9/85 (11%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MS +P     QL+TRGL CPEPVM+LH A+R   +G+ +EVLATDPST  DIP+FC  LG
+Sbjct  1   MSTEP----TQLDTRGLMCPEPVMLLHNAVRDIAAGECLEVLATDPSTQRDIPRFCSFLG  56
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           HEL+ + E        E+ YL++KG
+Sbjct  57  HELMEQGE-----RGGEFWYLIRKG  76
+
+
+>WP_036187067.1 sulfurtransferase TusA [Marinimicrobium agarilyticum]
+Length=84
+
+ Score = 89.7 bits (221),  Expect = 5e-022, Method: Compositional matrix adjust.
+ Identities = 44/88 (50%), Positives = 60/88 (68%), Gaps = 8/88 (9%)
+
+Query  1   MSEQPISP---TVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCM  57
+           MSE   +P     QL+ RGL CPEPVM+LH+A+R+  +G+V+E+LATDPST+ D+PKFC 
+Sbjct  1   MSESEATPWKIGKQLDARGLVCPEPVMLLHRAVREVAAGEVIEMLATDPSTTRDVPKFCQ  60
+
+Query  58  HLGHELLLKEEVLDEQNHKEYRYLVQKG  85
+            LGHEL     V + +   EY Y ++K 
+Sbjct  61  FLGHEL-----VEERREKDEYHYYIRKS  83
+
+
+>WP_064724404.1 sulfurtransferase TusA [Moraxella catarrhalis]
+Length=79
+
+ Score = 89.7 bits (221),  Expect = 5e-022, Method: Compositional matrix adjust.
+ Identities = 42/73 (58%), Positives = 57/73 (78%), Gaps = 4/73 (5%)
+
+Query  12  LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVLD  71
+           L+T+GL CPEPVM+LH+ +R+A  G+ +E+LATDP+T+ DIP FC HLGH  L+ +E LD
+Sbjct  8   LDTKGLICPEPVMLLHKTMRQALGGEHIEILATDPATTRDIPNFCRHLGHT-LVDQETLD  66
+
+Query  72  EQNHKEYRYLVQK  84
+           + +   YRYLVQK
+Sbjct  67  DGS---YRYLVQK  76
+
+
+>WP_025652600.1 MULTISPECIES: sulfurtransferase TusA [Psychrobacter]
+Length=108
+
+ Score = 90.5 bits (223),  Expect = 6e-022, Method: Compositional matrix adjust.
+ Identities = 38/56 (68%), Positives = 49/56 (88%), Gaps = 0/56 (0%)
+
+Query  12  LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKE  67
+           L+T+GL CPEPVMMLH+ IRKA +G+V+E+LATDP+T+ DIP FC HLGHEL+ +E
+Sbjct  14  LDTQGLICPEPVMMLHRTIRKADAGEVIEILATDPATTRDIPNFCRHLGHELVQQE  69
+
+
+>WP_064610828.1 sulfurtransferase TusA [Moraxella catarrhalis]
+Length=79
+
+ Score = 89.7 bits (221),  Expect = 6e-022, Method: Compositional matrix adjust.
+ Identities = 43/73 (59%), Positives = 56/73 (77%), Gaps = 4/73 (5%)
+
+Query  12  LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVLD  71
+           L+T+GL CPEPVM+LH+ IR+A  G+ +E+LATDP+T  DIP FC HLGH  L+ +E LD
+Sbjct  8   LDTKGLICPEPVMLLHKTIRQALGGEHIEILATDPATMRDIPNFCRHLGHT-LVDQETLD  66
+
+Query  72  EQNHKEYRYLVQK  84
+           + +   YRYLVQK
+Sbjct  67  DGS---YRYLVQK  76
+
+
+>WP_064643472.1 sulfurtransferase TusA [Moraxella catarrhalis]
+Length=84
+
+ Score = 89.7 bits (221),  Expect = 6e-022, Method: Compositional matrix adjust.
+ Identities = 43/73 (59%), Positives = 56/73 (77%), Gaps = 4/73 (5%)
+
+Query  12  LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVLD  71
+           L+T+GL CPEPVM+LH+ IR+A  G+ +E+LATDP+T  DIP FC HLGH  L+ +E LD
+Sbjct  8   LDTKGLICPEPVMLLHKTIRQALGGEHIEILATDPATMRDIPNFCRHLGHT-LVDQETLD  66
+
+Query  72  EQNHKEYRYLVQK  84
+           + +   YRYLVQK
+Sbjct  67  DGS---YRYLVQK  76
+
+
+>WP_010197717.1 sulfurtransferase TusA [Psychrobacter sp. PAMC 21119]
+Length=108
+
+ Score = 90.5 bits (223),  Expect = 6e-022, Method: Compositional matrix adjust.
+ Identities = 38/57 (67%), Positives = 49/57 (86%), Gaps = 0/57 (0%)
+
+Query  11  QLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKE  67
+            L+T+GL CPEPVMMLH+ IRKA +G+V+E+LATDP+T+ DIP FC HLGHEL+ +E
+Sbjct  13  HLDTQGLICPEPVMMLHRTIRKADAGEVIEILATDPATTRDIPNFCRHLGHELVQQE  69
+
+
+>WP_028882023.1 sulfurtransferase TusA [Teredinibacter turnerae]
+Length=80
+
+ Score = 89.4 bits (220),  Expect = 7e-022, Method: Compositional matrix adjust.
+ Identities = 47/84 (56%), Positives = 56/84 (67%), Gaps = 7/84 (8%)
+
+Query  2   SEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGH  61
+           S+QP   ++  + RGL CPEPVMMLH A+R A  GDV+EVLATDPST  DI +FC  L H
+Sbjct  4   SDQPHQHSI--DARGLLCPEPVMMLHNAVRDAAPGDVIEVLATDPSTQRDITRFCEFLSH  61
+
+Query  62  ELLLKEEVLDEQNHKEYRYLVQKG  85
+           EL     V   Q   EYR+LV+KG
+Sbjct  62  EL-----VAVVQQDDEYRFLVRKG  80
+
+
+>WP_070473253.1 sulfurtransferase TusA [Moraxella sp. HMSC061H09]
+Length=79
+
+ Score = 89.4 bits (220),  Expect = 7e-022, Method: Compositional matrix adjust.
+ Identities = 43/73 (59%), Positives = 56/73 (77%), Gaps = 4/73 (5%)
+
+Query  12  LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVLD  71
+           L+T+GL CPEPVM+LH+ IR+A  G+ +E+LATDP+T  DIP FC HLGH  L+ +E LD
+Sbjct  8   LDTKGLICPEPVMLLHKIIRQALGGEHIEILATDPATMRDIPNFCRHLGHT-LVNQETLD  66
+
+Query  72  EQNHKEYRYLVQK  84
+           + +   YRYLVQK
+Sbjct  67  DGS---YRYLVQK  76
+
+
+>WP_034837242.1 sulfurtransferase TusA [Endozoicomonas numazuensis]
+Length=80
+
+ Score = 89.4 bits (220),  Expect = 7e-022, Method: Compositional matrix adjust.
+ Identities = 45/75 (60%), Positives = 52/75 (69%), Gaps = 5/75 (7%)
+
+Query  11  QLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVL  70
+           +L+T GL CPEPVMMLH  +R  K GDVV+V ATDPST  DIPKFC  L HELL  E+V 
+Sbjct  10  ELDTSGLLCPEPVMMLHNKVRDMKPGDVVKVTATDPSTQRDIPKFCNFLDHELLSHEQV-  68
+
+Query  71  DEQNHKEYRYLVQKG  85
+                KEY YL++K 
+Sbjct  69  ----DKEYIYLIRKA  79
+
+
+>WP_057757718.1 sulfurtransferase TusA [Psychrobacter sp. P11G3]
+Length=108
+
+ Score = 90.1 bits (222),  Expect = 9e-022, Method: Compositional matrix adjust.
+ Identities = 47/93 (51%), Positives = 59/93 (63%), Gaps = 19/93 (20%)
+
+Query  11   QLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELL----LK  66
+             L+T+GL CPEPVMMLH+ IRKA  G+V+E+LATDP+T+ DIP FC HLGHEL+    L 
+Sbjct  13   HLDTQGLICPEPVMMLHRVIRKADGGEVIEILATDPATTRDIPNFCRHLGHELIGQETLA  72
+
+Query  67   EEVLDEQNHKE---------------YRYLVQK  84
+            E V  + +  E               YRYLV+K
+Sbjct  73   ENVSLDDDPDEITIDSDDDTPASATLYRYLVKK  105
+
+
+>WP_055123705.1 sulfurtransferase TusA [Psychrobacter glacincola]
+Length=108
+
+ Score = 90.1 bits (222),  Expect = 9e-022, Method: Compositional matrix adjust.
+ Identities = 44/93 (47%), Positives = 58/93 (62%), Gaps = 19/93 (20%)
+
+Query  11   QLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVL  70
+             L+T+GL CPEPVMMLH+ IR A +G+V+E+LATDP+T+ DIP FC HLGHEL+ +E + 
+Sbjct  13   HLDTQGLICPEPVMMLHRTIRNADAGEVIEILATDPATTRDIPNFCRHLGHELVQQETLA  72
+
+Query  71   DEQN-------------------HKEYRYLVQK  84
+            +  N                      YRYLV+K
+Sbjct  73   ENVNLNVDPDEIMVAGDEDAPISATLYRYLVKK  105
+
+
+>WP_064603077.1 sulfurtransferase TusA [Moraxella catarrhalis]
+Length=79
+
+ Score = 89.0 bits (219),  Expect = 1e-021, Method: Compositional matrix adjust.
+ Identities = 42/73 (58%), Positives = 56/73 (77%), Gaps = 4/73 (5%)
+
+Query  12  LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVLD  71
+           L+T+GL CPEPVM+LH+ IR+A  G+ +E+LATDP+T  DIP FC +LGH  L+ +E LD
+Sbjct  8   LDTKGLICPEPVMLLHKTIRQALGGEYIEILATDPATMRDIPNFCRYLGHT-LVNQETLD  66
+
+Query  72  EQNHKEYRYLVQK  84
+           + +   YRYLVQK
+Sbjct  67  DGS---YRYLVQK  76
+
+
+>WP_046697330.1 sulfurtransferase TusA [Moraxella bovoculi]
+Length=76
+
+ Score = 89.0 bits (219),  Expect = 1e-021, Method: Compositional matrix adjust.
+ Identities = 41/74 (55%), Positives = 54/74 (73%), Gaps = 4/74 (5%)
+
+Query  11  QLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVL  70
+           QL+T GL CPEP+M+LH+ IRKA  G+ +E++ATDP+T+ DIP FC HLGH L  +E + 
+Sbjct  5   QLDTTGLICPEPIMLLHKTIRKATGGERIEIIATDPATTRDIPNFCRHLGHTLENQETLA  64
+
+Query  71  DEQNHKEYRYLVQK  84
+           D +    YRYLV K
+Sbjct  65  DGK----YRYLVIK  74
+
+
+>WP_083727895.1 sulfurtransferase TusA [Pseudomonas pachastrellae]
+Length=78
+
+ Score = 89.0 bits (219),  Expect = 1e-021, Method: Compositional matrix adjust.
+ Identities = 42/79 (53%), Positives = 53/79 (67%), Gaps = 5/79 (6%)
+
+Query  7   SPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLK  66
+           S    L+TRGL CPEPVMMLH A+R   +G++V+VLATDPST  DIP+FC  LGHELL +
+Sbjct  4   SAATTLDTRGLTCPEPVMMLHNAVRDVAAGELVQVLATDPSTQRDIPRFCSFLGHELLEQ  63
+
+Query  67  EEVLDEQNHKEYRYLVQKG  85
+            E         + YL++K 
+Sbjct  64  HEA-----DGIFHYLIRKA  77
+
+
+>WP_046700496.1 MULTISPECIES: sulfurtransferase TusA [Moraxella]
+Length=76
+
+ Score = 88.6 bits (218),  Expect = 1e-021, Method: Compositional matrix adjust.
+ Identities = 41/74 (55%), Positives = 54/74 (73%), Gaps = 4/74 (5%)
+
+Query  11  QLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVL  70
+           QL+T GL CPEP+M+LH+ IRKA  G+ +E++ATDP+T+ DIP FC HLGH L  +E + 
+Sbjct  5   QLDTTGLICPEPIMLLHKTIRKAAGGERIEIIATDPATTRDIPNFCRHLGHTLENQETLA  64
+
+Query  71  DEQNHKEYRYLVQK  84
+           D +    YRYLV K
+Sbjct  65  DGK----YRYLVIK  74
+
+
+>WP_029103528.1 sulfurtransferase TusA [Moraxella caprae]
+Length=79
+
+ Score = 88.6 bits (218),  Expect = 1e-021, Method: Compositional matrix adjust.
+ Identities = 45/84 (54%), Positives = 58/84 (69%), Gaps = 7/84 (8%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSE  I     L+T GL CPEPVM+LH++IR AK GD + ++ATDP+T+ DIP FC HLG
+Sbjct  1   MSETTIH---HLDTTGLICPEPVMLLHKSIRHAKGGDEIHIIATDPATTRDIPNFCRHLG  57
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQK  84
+           H  L  +E LD+ +   YRY+V K
+Sbjct  58  HT-LASQETLDDGS---YRYVVIK  77
+
+
+>WP_041522625.1 sulfurtransferase TusA [Gilvimarinus agarilyticus]
+Length=79
+
+ Score = 88.6 bits (218),  Expect = 1e-021, Method: Compositional matrix adjust.
+ Identities = 41/72 (57%), Positives = 53/72 (74%), Gaps = 5/72 (7%)
+
+Query  12  LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVLD  71
+           L+T+GL CPEPVMMLHQA++K  +GDV++V ATDPST+ DIPKFC+ LGHEL     V +
+Sbjct  9   LDTKGLLCPEPVMMLHQAVKKYAAGDVIKVEATDPSTTRDIPKFCLFLGHEL-----VAE  63
+
+Query  72  EQNHKEYRYLVQ  83
+            Q    Y Y ++
+Sbjct  64  TQTDGVYYYTIR  75
+
+
+>WP_036363862.1 sulfurtransferase TusA [Moraxella bovoculi]
+Length=76
+
+ Score = 88.2 bits (217),  Expect = 2e-021, Method: Compositional matrix adjust.
+ Identities = 40/74 (54%), Positives = 54/74 (73%), Gaps = 4/74 (5%)
+
+Query  11  QLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVL  70
+           QL+T GL CPEP+M+LH+ IRKA  G+ +E++ATDP+T+ DIP FC HLGH L  +E + 
+Sbjct  5   QLDTTGLICPEPIMLLHKTIRKAAGGERIEIIATDPATTRDIPNFCRHLGHTLENQETLA  64
+
+Query  71  DEQNHKEYRYLVQK  84
+           D +    YRYL+ K
+Sbjct  65  DGK----YRYLIIK  74
+
+
+>WP_067237924.1 sulfurtransferase TusA [Moraxella atlantae]
+Length=95
+
+ Score = 89.0 bits (219),  Expect = 2e-021, Method: Compositional matrix adjust.
+ Identities = 41/86 (48%), Positives = 62/86 (72%), Gaps = 9/86 (10%)
+
+Query  8   PTVQ--LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLL  65
+           PT Q  L+T+GL CPEP+M+LH+AIR+A+SG+++ V+ATDP+T+ DI  FC HLGH L+ 
+Sbjct  9   PTAQHELDTQGLICPEPIMLLHRAIRQAQSGEIIHVIATDPATTRDIANFCRHLGHTLVA  68
+
+Query  66  KEEVLDEQNHKE-------YRYLVQK  84
+           +E +++ +N  +       Y Y +QK
+Sbjct  69  EEHIINPKNLPDPDPYANVYHYWIQK  94
+
+
+>WP_073277327.1 sulfurtransferase TusA [Microbulbifer donghaiensis]
+Length=82
+
+ Score = 88.2 bits (217),  Expect = 2e-021, Method: Compositional matrix adjust.
+ Identities = 41/85 (48%), Positives = 57/85 (67%), Gaps = 5/85 (6%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           M   PI P  +L+ RGL CPEPVMMLH A+RK  +G+V++++ATDPST  D+PKFC  LG
+Sbjct  1   MKSDPIKPDHKLDARGLLCPEPVMMLHAAVRKVAAGEVLQMIATDPSTQRDVPKFCQFLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           +EL+   E      + E+ Y ++K 
+Sbjct  61  YELVDHAE-----ENDEFIYWIKKA  80
+
+
+>WP_064651319.1 sulfurtransferase TusA [Moraxella catarrhalis]
+Length=79
+
+ Score = 88.2 bits (217),  Expect = 2e-021, Method: Compositional matrix adjust.
+ Identities = 42/73 (58%), Positives = 56/73 (77%), Gaps = 4/73 (5%)
+
+Query  12  LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVLD  71
+           L+T+GL CPEPVM+LH+ IR+A  G+ +E+LATDP+T  DIP FC +LGH  L+ +E LD
+Sbjct  8   LDTKGLICPEPVMLLHKTIRQALGGEHIEILATDPATMRDIPNFCRYLGHT-LINQETLD  66
+
+Query  72  EQNHKEYRYLVQK  84
+           + +   YRYLVQK
+Sbjct  67  DGS---YRYLVQK  76
+
+
+>WP_046701552.1 sulfurtransferase TusA [Moraxella bovoculi]
+Length=76
+
+ Score = 87.8 bits (216),  Expect = 2e-021, Method: Compositional matrix adjust.
+ Identities = 40/74 (54%), Positives = 54/74 (73%), Gaps = 4/74 (5%)
+
+Query  11  QLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVL  70
+           QL+T GL CPEP+M+LH+ IRKA  G+ +E++ATDP+T+ DIP FC HLGH L  +E + 
+Sbjct  5   QLDTTGLICPEPIMLLHKTIRKAAGGERIEIIATDPATTRDIPNFCRHLGHTLENQETLA  64
+
+Query  71  DEQNHKEYRYLVQK  84
+           D +    YRY+V K
+Sbjct  65  DGK----YRYMVIK  74
+
+
+>WP_075101354.1 sulfurtransferase TusA [Psychrobacter sp. Rd 27.2]
+Length=112
+
+ Score = 89.0 bits (219),  Expect = 2e-021, Method: Compositional matrix adjust.
+ Identities = 45/94 (48%), Positives = 58/94 (62%), Gaps = 21/94 (22%)
+
+Query  11   QLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVL  70
+             L+T+GL CPEPVMMLH+ IR A +G+V+E+LATDP+T+ DIP FC HLGH  L+++E L
+Sbjct  17   HLDTQGLICPEPVMMLHRTIRNADAGEVIEILATDPATTRDIPNFCRHLGHT-LVQQETL  75
+
+Query  71   DEQNHKE--------------------YRYLVQK  84
+             E  H                      YRYLV+K
+Sbjct  76   AENIHVNVDADEITVADDDDAPTSATLYRYLVKK  109
+
+
+>WP_064636916.1 sulfurtransferase TusA [Moraxella catarrhalis]
+Length=79
+
+ Score = 87.8 bits (216),  Expect = 2e-021, Method: Compositional matrix adjust.
+ Identities = 42/73 (58%), Positives = 57/73 (78%), Gaps = 4/73 (5%)
+
+Query  12  LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVLD  71
+           L+T+GL CPEPVM+LH+ +R+A SG+ +E+LATDP+T  DIP FC +LGH  L+ +E LD
+Sbjct  8   LDTKGLICPEPVMLLHKTMRQALSGEHIEILATDPATMRDIPNFCRYLGHT-LVNQETLD  66
+
+Query  72  EQNHKEYRYLVQK  84
+           + +   YRYLVQK
+Sbjct  67  DGS---YRYLVQK  76
+
+
+>WP_040807017.1 sulfurtransferase TusA [gamma proteobacterium IMCC1989]
+Length=75
+
+ Score = 87.8 bits (216),  Expect = 3e-021, Method: Compositional matrix adjust.
+ Identities = 43/76 (57%), Positives = 56/76 (74%), Gaps = 5/76 (7%)
+
+Query  9   TVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEE  68
+           T+QL+T GL CPEPVMMLH+AIR  + GDVVE++ATDPST  D+PKFC  LGH  +L+++
+Sbjct  4   TIQLDTSGLLCPEPVMMLHKAIRSMEVGDVVELIATDPSTERDVPKFCHFLGH--ILRQQ  61
+
+Query  69  VLDEQNHKEYRYLVQK  84
+             DE     Y Y ++K
+Sbjct  62  KSDE---VAYYYTIEK  74
+
+
+>WP_022963181.1 sulfurtransferase TusA [Pseudomonas pelagia]
+Length=78
+
+ Score = 87.8 bits (216),  Expect = 3e-021, Method: Compositional matrix adjust.
+ Identities = 41/77 (53%), Positives = 55/77 (71%), Gaps = 5/77 (6%)
+
+Query  8   PTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKE  67
+           P  QL+ +GL CPEPVM+LH A+R  ++G+++EVLATDPST  DIP+FC  LGHEL+ + 
+Sbjct  6   PDKQLDAQGLMCPEPVMLLHNAVRDMQAGELLEVLATDPSTERDIPRFCSFLGHELVERS  65
+
+Query  68  EVLDEQNHKEYRYLVQK  84
+           E         YRYL++K
+Sbjct  66  ET-----DGVYRYLLRK  77
+
+
+>WP_013108262.1 sulfurtransferase TusA [Moraxella catarrhalis]
+Length=79
+
+ Score = 87.8 bits (216),  Expect = 3e-021, Method: Compositional matrix adjust.
+ Identities = 42/73 (58%), Positives = 56/73 (77%), Gaps = 4/73 (5%)
+
+Query  12  LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVLD  71
+           L+T+GL CPEPVM+LH+ IR+A  G+ +E+LATDP+T  DIP FC +LGH  L+ +E LD
+Sbjct  8   LDTKGLICPEPVMLLHKTIRQALGGEHIEILATDPATMRDIPNFCRYLGHT-LVNQETLD  66
+
+Query  72  EQNHKEYRYLVQK  84
+           + +   YRYLVQK
+Sbjct  67  DGS---YRYLVQK  76
+
+
+>WP_066893972.1 sulfurtransferase TusA [Moraxella nonliquefaciens]
+Length=80
+
+ Score = 87.8 bits (216),  Expect = 3e-021, Method: Compositional matrix adjust.
+ Identities = 45/84 (54%), Positives = 58/84 (69%), Gaps = 7/84 (8%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSE  I     L+T GL CPEP+M+LH++IR AK GD + +LATDP+T+ DIP FC HLG
+Sbjct  1   MSEVSI---FHLDTTGLICPEPIMLLHKSIRTAKGGDEIHLLATDPATTRDIPNFCRHLG  57
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQK  84
+           H  L  +E LD+ +   YRY+V K
+Sbjct  58  HT-LAHQETLDDGS---YRYVVVK  77
+
+
+>WP_049723808.1 sulfurtransferase TusA [Gilvimarinus polysaccharolyticus]
+Length=80
+
+ Score = 87.8 bits (216),  Expect = 3e-021, Method: Compositional matrix adjust.
+ Identities = 39/53 (74%), Positives = 45/53 (85%), Gaps = 0/53 (0%)
+
+Query  12  LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELL  64
+           L+ +GL CPEPVMMLHQ ++K  +GDVVEV ATDPSTS DIPKFC+ LGHELL
+Sbjct  9   LDVKGLLCPEPVMMLHQMVKKMAAGDVVEVQATDPSTSRDIPKFCLFLGHELL  61
+
+
+>WP_003672592.1 sulfurtransferase TusA [Moraxella catarrhalis]
+Length=79
+
+ Score = 87.4 bits (215),  Expect = 3e-021, Method: Compositional matrix adjust.
+ Identities = 42/73 (58%), Positives = 56/73 (77%), Gaps = 4/73 (5%)
+
+Query  12  LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVLD  71
+           L+T+GL CPEPVM+LH+ IR+A  G+ +E+LATDP+T  DIP FC +LGH  L+ +E LD
+Sbjct  8   LDTKGLICPEPVMLLHKIIRQALGGEHIEILATDPATMRDIPNFCRYLGHT-LINQETLD  66
+
+Query  72  EQNHKEYRYLVQK  84
+           + +   YRYLVQK
+Sbjct  67  DGS---YRYLVQK  76
+
+
+>WP_003657195.1 sulfurtransferase TusA [Moraxella catarrhalis]
+Length=79
+
+ Score = 87.4 bits (215),  Expect = 4e-021, Method: Compositional matrix adjust.
+ Identities = 42/73 (58%), Positives = 56/73 (77%), Gaps = 4/73 (5%)
+
+Query  12  LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVLD  71
+           L+T+GL CPEPVM+LH+ IR+A  G+ +E+LATDP+T  DIP FC +LGH  L+ +E LD
+Sbjct  8   LDTKGLICPEPVMLLHKIIRQALGGEHIEILATDPATMRDIPNFCRYLGHT-LVNQETLD  66
+
+Query  72  EQNHKEYRYLVQK  84
+           + +   YRYLVQK
+Sbjct  67  DGS---YRYLVQK  76
+
+
+>WP_008042737.1 sulfurtransferase TusA [Reinekea blandensis]
+Length=79
+
+ Score = 87.4 bits (215),  Expect = 5e-021, Method: Compositional matrix adjust.
+ Identities = 41/75 (55%), Positives = 57/75 (76%), Gaps = 3/75 (4%)
+
+Query  11  QLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVL  70
+           +L+TRGLRCPEPVMMLH+ IRK + G+VV VLATDP+T  DIP+FC  L HEL+ +++  
+Sbjct  6   ELDTRGLRCPEPVMMLHRQIRKMQVGEVVRVLATDPATERDIPQFCEFLPHELVARQQ--  63
+
+Query  71  DEQNHKEYRYLVQKG  85
+             ++  E+ + V+KG
+Sbjct  64  -NEDGDEFLFWVRKG  77
+
+
+>WP_019520699.1 sulfurtransferase TusA [Moraxella boevrei]
+Length=108
+
+ Score = 88.2 bits (217),  Expect = 5e-021, Method: Compositional matrix adjust.
+ Identities = 39/81 (48%), Positives = 55/81 (68%), Gaps = 7/81 (9%)
+
+Query  11  QLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVL  70
+           +L+T GL CPEP+M+LH+ IR A +GD++ ++A DP+T+ DIP FC HLGH LL +EE +
+Sbjct  12  ELDTLGLICPEPIMLLHKTIRTATAGDIIHIIANDPATTRDIPNFCRHLGHNLLAQEERI  71
+
+Query  71  DEQNHKE-------YRYLVQK  84
+           +  N  +       Y Y VQK
+Sbjct  72  NPNNLADPDPYANVYHYWVQK  92
+
+
+>WP_028968037.1 sulfurtransferase TusA [Spongiibacter tropicus]
+Length=77
+
+ Score = 87.0 bits (214),  Expect = 5e-021, Method: Compositional matrix adjust.
+ Identities = 42/75 (56%), Positives = 53/75 (71%), Gaps = 5/75 (7%)
+
+Query  11  QLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVL  70
+            L+T GL CPEPVM+LH  IR   SG+V+E+LATDP+T+ DIPKFC  LGHELL +    
+Sbjct  8   HLDTSGLTCPEPVMLLHNKIRDMPSGEVLEILATDPATTRDIPKFCNFLGHELLDQ----  63
+
+Query  71  DEQNHKEYRYLVQKG  85
+            + +  EYRY V+K 
+Sbjct  64  -QHSDSEYRYWVRKA  77
+
+
+>WP_026291525.1 sulfurtransferase TusA [Marinobacterium rhizophilum]
+Length=80
+
+ Score = 87.0 bits (214),  Expect = 6e-021, Method: Compositional matrix adjust.
+ Identities = 42/80 (53%), Positives = 56/80 (70%), Gaps = 5/80 (6%)
+
+Query  6   ISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLL  65
+           I P   ++  GL CPEPVM+LH  +R+ ++G V+EVLATDPST  DIPKFC  LGHELL 
+Sbjct  4   IIPDQVMDACGLFCPEPVMLLHNRVRELQAGQVLEVLATDPSTQRDIPKFCSFLGHELLA  63
+
+Query  66  KEEVLDEQNHKEYRYLVQKG  85
+           ++       + +YRYL++KG
+Sbjct  64  QKV-----ENDQYRYLIRKG  78
+
+
+>WP_068325356.1 sulfurtransferase TusA [Psychrobacter sp. P2G3]
+Length=108
+
+ Score = 87.8 bits (216),  Expect = 6e-021, Method: Compositional matrix adjust.
+ Identities = 37/57 (65%), Positives = 48/57 (84%), Gaps = 0/57 (0%)
+
+Query  11  QLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKE  67
+            L+T+GL CPEPVMMLH+ IRKA +G+V+E+LATDP+T+ DIP FC HLGH L+ +E
+Sbjct  13  HLDTQGLICPEPVMMLHRTIRKADAGEVIEILATDPATTRDIPNFCRHLGHTLVHQE  69
+
+
+>WP_044500645.1 TusA-like sulfurtransferase [Pseudomonas saudimassiliensis]
+Length=79
+
+ Score = 87.0 bits (214),  Expect = 6e-021, Method: Compositional matrix adjust.
+ Identities = 41/81 (51%), Positives = 55/81 (68%), Gaps = 5/81 (6%)
+
+Query  5   PISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELL  64
+           P     QL+TRGL CPEPVM+LH A+R   +G+ ++VLATDPST  DIP+FC  LGHEL+
+Sbjct  2   PNEFATQLDTRGLMCPEPVMLLHNAVRDIAAGECLQVLATDPSTQRDIPRFCSFLGHELV  61
+
+Query  65  LKEEVLDEQNHKEYRYLVQKG  85
+            + E        E+ Y+++KG
+Sbjct  62  EQGE-----GDGEFWYVIRKG  77
+
+
+>WP_027873827.1 sulfurtransferase TusA [Spongiibacter marinus]
+Length=80
+
+ Score = 87.0 bits (214),  Expect = 6e-021, Method: Compositional matrix adjust.
+ Identities = 43/76 (57%), Positives = 54/76 (71%), Gaps = 7/76 (9%)
+
+Query  11  QLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVL  70
+            L+T GL CPEPVMMLH  IR   +G+V+E+LATDP+T+ DIPKFC  LGHEL      +
+Sbjct  7   NLDTSGLTCPEPVMMLHNKIRDIAAGEVLEILATDPATTRDIPKFCAFLGHEL------I  60
+
+Query  71  DEQNHKE-YRYLVQKG  85
+           D+Q+  E YRY V+K 
+Sbjct  61  DQQHEGEHYRYWVRKA  76
+
+
+>WP_012487977.1 sulfurtransferase TusA [Cellvibrio japonicus]
+Length=77
+
+ Score = 87.0 bits (214),  Expect = 6e-021, Method: Compositional matrix adjust.
+ Identities = 38/73 (52%), Positives = 55/73 (75%), Gaps = 5/73 (7%)
+
+Query  12  LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVLD  71
+           L+T GL CPEPVM+LH+A+R+  SGD+++V ATDPST+ D+PKFC+ LGHE+L +     
+Sbjct  9   LDTSGLLCPEPVMLLHKAVRELDSGDIIQVTATDPSTTRDVPKFCLFLGHEMLEQ-----  63
+
+Query  72  EQNHKEYRYLVQK  84
+            Q+   Y Y+++K
+Sbjct  64  RQDDDTYIYVIRK  76
+
+
+>WP_067058908.1 sulfurtransferase TusA [Moraxella atlantae]
+Length=95
+
+ Score = 87.4 bits (215),  Expect = 7e-021, Method: Compositional matrix adjust.
+ Identities = 41/86 (48%), Positives = 61/86 (71%), Gaps = 9/86 (10%)
+
+Query  8   PTVQ--LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLL  65
+           PT Q  L+T+GL CPEP+M+LH+AIR+A+SG+++ V+ATDP+T  DI  FC HLGH L+ 
+Sbjct  9   PTAQHELDTQGLICPEPIMLLHRAIRQAQSGEIIHVIATDPATIRDIANFCRHLGHTLVA  68
+
+Query  66  KEEVLDEQNHKE-------YRYLVQK  84
+           +E +++ +N  +       Y Y +QK
+Sbjct  69  EEHIINPKNLPDPDPYANVYHYWIQK  94
+
+
+>WP_066885253.1 sulfurtransferase TusA [Moraxella nonliquefaciens]
+Length=80
+
+ Score = 86.7 bits (213),  Expect = 7e-021, Method: Compositional matrix adjust.
+ Identities = 41/74 (55%), Positives = 54/74 (73%), Gaps = 4/74 (5%)
+
+Query  11  QLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVL  70
+            L+T GL CPEP+M+LH++IR AK GD + +LATDP+T+ DIP FC HLGH  L  +E L
+Sbjct  8   HLDTTGLICPEPIMLLHKSIRTAKGGDEIHLLATDPATTRDIPNFCRHLGHT-LAHQETL  66
+
+Query  71  DEQNHKEYRYLVQK  84
+           D+ +   YRY+V K
+Sbjct  67  DDGS---YRYVVVK  77
+
+
+>WP_067289635.1 sulfurtransferase TusA [Marinobacterium profundum]
+Length=80
+
+ Score = 86.7 bits (213),  Expect = 8e-021, Method: Compositional matrix adjust.
+ Identities = 43/80 (54%), Positives = 57/80 (71%), Gaps = 5/80 (6%)
+
+Query  6   ISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLL  65
+           I P   ++  GL CPEPVM+LH  +R+ ++G V+EV+ATDPST  DIPKFC  LGHE LL
+Sbjct  4   IKPDQVMDACGLFCPEPVMLLHNRVRELQAGQVLEVVATDPSTQRDIPKFCTFLGHE-LL  62
+
+Query  66  KEEVLDEQNHKEYRYLVQKG  85
+            + V ++Q    YRYL++KG
+Sbjct  63  AQNVENDQ----YRYLIRKG  78
+
+
+>WP_067007538.1 sulfurtransferase TusA [Moraxella nonliquefaciens]
+Length=83
+
+ Score = 86.7 bits (213),  Expect = 1e-020, Method: Compositional matrix adjust.
+ Identities = 44/84 (52%), Positives = 58/84 (69%), Gaps = 7/84 (8%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSE  I     L+T GL CPEP+M+LH++IR AK GD + +LA+DP+T+ DIP FC HLG
+Sbjct  4   MSEVSI---FHLDTTGLICPEPIMLLHKSIRTAKGGDEIHLLASDPATTRDIPNFCRHLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQK  84
+           H  L  +E LD+ +   YRY+V K
+Sbjct  61  HT-LAHQETLDDGS---YRYVVVK  80
+
+
+>WP_068389421.1 sulfurtransferase TusA [Ventosimonas gracilis]
+Length=81
+
+ Score = 86.7 bits (213),  Expect = 1e-020, Method: Compositional matrix adjust.
+ Identities = 41/61 (67%), Positives = 47/61 (77%), Gaps = 0/61 (0%)
+
+Query  8   PTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKE  67
+           PT  L+TRGL CPEPVMMLH  +R+  SGDV+ VLA+DPST  DIPKFC  LGHELL + 
+Sbjct  8   PTAILDTRGLLCPEPVMMLHGKVRELASGDVLRVLASDPSTRRDIPKFCHFLGHELLKQS  67
+
+Query  68  E  68
+           E
+Sbjct  68  E  68
+
+
+>WP_078255006.1 sulfurtransferase TusA [Moraxella pluranimalium]
+Length=79
+
+ Score = 86.3 bits (212),  Expect = 1e-020, Method: Compositional matrix adjust.
+ Identities = 38/69 (55%), Positives = 53/69 (77%), Gaps = 4/69 (6%)
+
+Query  16  GLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVLDEQNH  75
+           GL CPEPVM+LH+ +R A+ G+ +EVLATDP+T+ DIP FC HLGH  L+ ++ LD+ + 
+Sbjct  12  GLICPEPVMLLHKTVRAAQGGEAIEVLATDPATTRDIPNFCRHLGHT-LISQDTLDDGS-  69
+
+Query  76  KEYRYLVQK  84
+             YRY++QK
+Sbjct  70  --YRYVIQK  76
+
+
+>WP_020210324.1 sulfurtransferase TusA [Gilvimarinus chinensis]
+Length=81
+
+ Score = 86.3 bits (212),  Expect = 1e-020, Method: Compositional matrix adjust.
+ Identities = 38/53 (72%), Positives = 44/53 (83%), Gaps = 0/53 (0%)
+
+Query  12  LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELL  64
+           L+T GL CPEPVMMLHQA+R   +G V+EV ATDPST+ DIPKFC+ LGHELL
+Sbjct  9   LDTSGLLCPEPVMMLHQAVRSMTAGQVIEVKATDPSTTRDIPKFCLFLGHELL  61
+
+
+>WP_022956323.1 sulfurtransferase TusA [Perlucidibaca piscinae]
+Length=84
+
+ Score = 86.3 bits (212),  Expect = 1e-020, Method: Compositional matrix adjust.
+ Identities = 43/74 (58%), Positives = 52/74 (70%), Gaps = 4/74 (5%)
+
+Query  12  LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVLD  71
+           L+ RGLRCPEPVMMLH+ +R+  +GD + V ATDPST  DIPKFC  LGHELL  E    
+Sbjct  14  LDARGLRCPEPVMMLHKKVRELAAGDELVVWATDPSTQRDIPKFCQFLGHELLSGE----  69
+
+Query  72  EQNHKEYRYLVQKG  85
+           E+   EY Y ++KG
+Sbjct  70  ERAPGEYHYRLRKG  83
+
+
+>WP_027706718.1 sulfurtransferase TusA [Zooshikella ganghwensis]
+Length=81
+
+ Score = 86.3 bits (212),  Expect = 1e-020, Method: Compositional matrix adjust.
+ Identities = 40/74 (54%), Positives = 56/74 (76%), Gaps = 5/74 (7%)
+
+Query  12  LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVLD  71
+           L+T GL CPEPVM+LH  IR+ ++G+V++V+ATDPST+ DIPKFC+ L HEL+ +     
+Sbjct  9   LDTCGLMCPEPVMLLHNKIRELQTGEVLQVVATDPSTTRDIPKFCIFLQHELIAQ-----  63
+
+Query  72  EQNHKEYRYLVQKG  85
+           EQN  +Y Y ++KG
+Sbjct  64  EQNDTQYIYYIRKG  77
+
+
+>WP_067383071.1 sulfurtransferase TusA [Marinobacterium sp. ST58-10]
+Length=80
+
+ Score = 86.3 bits (212),  Expect = 1e-020, Method: Compositional matrix adjust.
+ Identities = 43/80 (54%), Positives = 57/80 (71%), Gaps = 5/80 (6%)
+
+Query  6   ISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLL  65
+           I P   ++  GL CPEPVM+LH  +R+ + G V+E++ATDPST  DIPKFC  LGHE LL
+Sbjct  4   IKPDQVMDACGLFCPEPVMLLHNRVRELQVGQVLEIVATDPSTQRDIPKFCTFLGHE-LL  62
+
+Query  66  KEEVLDEQNHKEYRYLVQKG  85
+            ++V +EQ    YRYL++KG
+Sbjct  63  AQKVENEQ----YRYLIRKG  78
+
+
+>WP_076878659.1 sulfurtransferase TusA [Alkanindiges sp. H1]
+Length=95
+
+ Score = 86.3 bits (212),  Expect = 2e-020, Method: Compositional matrix adjust.
+ Identities = 35/49 (71%), Positives = 45/49 (92%), Gaps = 0/49 (0%)
+
+Query  12  LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           L+T GL CPEPVMMLHQA+RK++SG +++V+ATDPST+ DIPKFC+HLG
+Sbjct  23  LDTSGLNCPEPVMMLHQAVRKSQSGQIIQVVATDPSTTRDIPKFCLHLG  71
+
+
+>WP_007642439.1 sulfurtransferase TusA [Cellvibrio sp. BR]
+Length=77
+
+ Score = 85.5 bits (210),  Expect = 2e-020, Method: Compositional matrix adjust.
+ Identities = 40/74 (54%), Positives = 53/74 (72%), Gaps = 5/74 (7%)
+
+Query  12  LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVLD  71
+           L+T GL CPEPVMMLH+ +R+  SG V+EV+ATDPST  DIPKFC+ LGHEL+ +     
+Sbjct  9   LDTCGLLCPEPVMMLHKTMRETDSGRVIEVIATDPSTLRDIPKFCLFLGHELIEQ-----  63
+
+Query  72  EQNHKEYRYLVQKG  85
+           +Q  K Y + ++K 
+Sbjct  64  QQTEKNYIFYIRKA  77
+
+
+>WP_062065526.1 sulfurtransferase TusA [Cellvibrio sp. OA-2007]
+Length=77
+
+ Score = 85.5 bits (210),  Expect = 2e-020, Method: Compositional matrix adjust.
+ Identities = 39/74 (53%), Positives = 54/74 (73%), Gaps = 5/74 (7%)
+
+Query  11  QLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVL  70
+            L+  GL CPEPVMMLH+ +R+A SG++VEV+ATDPST  DIPKFC+ LGHEL+ ++E  
+Sbjct  8   SLDASGLLCPEPVMMLHKVMREATSGNLVEVIATDPSTLRDIPKFCLFLGHELISQKE--  65
+
+Query  71  DEQNHKEYRYLVQK  84
+                 +Y + ++K
+Sbjct  66  ---TDTQYFFYIRK  76
+
+
+>WP_067087240.1 MULTISPECIES: sulfurtransferase TusA [Microbulbifer]
+Length=77
+
+ Score = 85.5 bits (210),  Expect = 2e-020, Method: Compositional matrix adjust.
+ Identities = 42/80 (53%), Positives = 57/80 (71%), Gaps = 5/80 (6%)
+
+Query  6   ISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLL  65
+           + P   L+ RGL CPEPVMMLH A+RK   G+V+++LATDPST  D+PKFC  LGHEL+ 
+Sbjct  1   MKPDHTLDARGLLCPEPVMMLHAAVRKVAPGEVLQMLATDPSTQRDVPKFCQFLGHELV-  59
+
+Query  66  KEEVLDEQNHKEYRYLVQKG  85
+             E  +E+N  E+ Y +++G
+Sbjct  60  --EHREEEN--EFVYWIRRG  75
+
+
+>WP_070977869.1 sulfurtransferase TusA [Kushneria sp. YCWA18]
+Length=80
+
+ Score = 85.1 bits (209),  Expect = 3e-020, Method: Compositional matrix adjust.
+ Identities = 42/83 (51%), Positives = 57/83 (69%), Gaps = 6/83 (7%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSEQP+     L+T GL CPEP+MM+H  +R    G ++EVLATDP+T+ DIPKFC  LG
+Sbjct  1   MSEQPVY-DATLDTCGLYCPEPIMMMHNKVRDMSPGQILEVLATDPATTRDIPKFCSFLG  59
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQ  83
+           HEL+ +    DE+   +YRY ++
+Sbjct  60  HELIHRA---DEET--QYRYYIR  77
+
+
+>WP_058021557.1 sulfurtransferase TusA [Pseudohongiella spirulinae]
+Length=80
+
+ Score = 85.1 bits (209),  Expect = 3e-020, Method: Compositional matrix adjust.
+ Identities = 43/84 (51%), Positives = 56/84 (67%), Gaps = 6/84 (7%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           MSE  IS  V ++ RGL CPEPVMMLH   R    G V+E++ATDPST+ D+P+FC  LG
+Sbjct  1   MSES-ISVDVSVDARGLFCPEPVMMLHSHFRDMSGGQVLELIATDPSTTRDVPRFCQFLG  59
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQK  84
+           HELL + E     +  E+ YL++K
+Sbjct  60  HELLRQTE-----SEGEFHYLLRK  78
+
+
+>WP_071230344.1 sulfurtransferase TusA [Salinicola sp. MIT1003]
+Length=80
+
+ Score = 85.1 bits (209),  Expect = 3e-020, Method: Compositional matrix adjust.
+ Identities = 37/74 (50%), Positives = 52/74 (70%), Gaps = 5/74 (7%)
+
+Query  12  LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVLD  71
+           L+T GL CPEP+M++H  +R   +GD+++V+ATDP+T+ DIPKFC  LGHEL+ + EV  
+Sbjct  12  LDTSGLYCPEPIMLMHNKVRDMSAGDILDVIATDPATTRDIPKFCSFLGHELIEQSEV--  69
+
+Query  72  EQNHKEYRYLVQKG  85
+                EYRY +  G
+Sbjct  70  ---EGEYRYRILLG  80
+
+
+>WP_075569352.1 sulfurtransferase TusA [Salinicola socius]
+Length=80
+
+ Score = 85.1 bits (209),  Expect = 3e-020, Method: Compositional matrix adjust.
+ Identities = 39/85 (46%), Positives = 54/85 (64%), Gaps = 5/85 (6%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           M+     P   L+TRGL CPEP+M++H  +R   +G+ +EV+ATDP+T+ DIPKFC  LG
+Sbjct  1   MNNAATHPDETLDTRGLYCPEPIMLMHNKVRDMTAGNTLEVIATDPATTRDIPKFCSFLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           H+L     V   Q+  EYRY +  G
+Sbjct  61  HQL-----VEQSQDGDEYRYRILLG  80
+
+
+>WP_085157627.1 sulfurtransferase TusA [Alteromonadaceae bacterium Bs31]
+Length=84
+
+ Score = 85.1 bits (209),  Expect = 3e-020, Method: Compositional matrix adjust.
+ Identities = 40/85 (47%), Positives = 57/85 (67%), Gaps = 5/85 (6%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+             E+ I+    ++ RGL+CPEPVMMLH A+R +K GDV++V+ATDPST  DI KFC  L 
+Sbjct  5   FDEKTITLGSTVDARGLKCPEPVMMLHNAVRDSKPGDVIKVIATDPSTQRDINKFCTFLN  64
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           H +L      +++  +EY + V+KG
+Sbjct  65  HHML-----AEKREGEEYIFWVKKG  84
+
+
+>WP_076518202.1 sulfurtransferase TusA [Oleibacter marinus]
+Length=81
+
+ Score = 85.1 bits (209),  Expect = 4e-020, Method: Compositional matrix adjust.
+ Identities = 39/74 (53%), Positives = 51/74 (69%), Gaps = 5/74 (7%)
+
+Query  12  LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVLD  71
+           L+ RGL CPEPVMMLH+ I +   G+V+++LATDPST  D  +FC  L HE+L+ EEV  
+Sbjct  8   LDARGLFCPEPVMMLHKEINEMAIGEVIQILATDPSTVRDFTRFCAFLSHEMLVNEEV--  65
+
+Query  72  EQNHKEYRYLVQKG  85
+                EYR+L+ KG
+Sbjct  66  ---DGEYRFLIVKG  76
+
+
+>WP_053109540.1 sulfurtransferase TusA [Oblitimonas alkaliphila]
+Length=76
+
+ Score = 84.7 bits (208),  Expect = 4e-020, Method: Compositional matrix adjust.
+ Identities = 40/74 (54%), Positives = 55/74 (74%), Gaps = 5/74 (7%)
+
+Query  11  QLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVL  70
+           +L+ RGL CPEPVMMLH ++R+ ++G+V+ V+ATDPST  DIPKFC  LGH +LL ++V 
+Sbjct  5   ELDARGLFCPEPVMMLHNSVRQLQAGEVLHVIATDPSTQRDIPKFCTFLGH-VLLAQQVQ  63
+
+Query  71  DEQNHKEYRYLVQK  84
+           D     E+ Y +QK
+Sbjct  64  D----SEFEYWIQK  73
+
+
+>WP_013261281.1 sulfurtransferase TusA [gamma proteobacterium HdN1]
+Length=80
+
+ Score = 85.1 bits (209),  Expect = 4e-020, Method: Compositional matrix adjust.
+ Identities = 42/75 (56%), Positives = 54/75 (72%), Gaps = 5/75 (7%)
+
+Query  10  VQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEV  69
+           ++L+T GL CPEPVMMLH A+R A +GDV+ VLATDP+T+ DIPKFC  LGH+LL +   
+Sbjct  9   IRLDTCGLYCPEPVMMLHNAVRDATAGDVIVVLATDPATTRDIPKFCNFLGHKLLRQ---  65
+
+Query  70  LDEQNHKEYRYLVQK  84
+              Q  + Y Y V+K
+Sbjct  66  --VQEGEIYWYWVKK  78
+
+
+>WP_068811841.1 MULTISPECIES: sulfurtransferase TusA [Pseudohongiella]
+Length=86
+
+ Score = 85.1 bits (209),  Expect = 4e-020, Method: Compositional matrix adjust.
+ Identities = 41/73 (56%), Positives = 51/73 (70%), Gaps = 5/73 (7%)
+
+Query  12  LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVLD  71
+           L+ RGL CPEPVMMLH A R   SG V+++LATDPST+ D+PKFC  LGHELL +     
+Sbjct  18  LDARGLFCPEPVMMLHSAFRDLDSGQVLKLLATDPSTTRDVPKFCHFLGHELLQQ-----  72
+
+Query  72  EQNHKEYRYLVQK  84
+           +Q   E+ Y +QK
+Sbjct  73  QQTDGEFHYWLQK  85
+
+
+>WP_009767044.1 sulfurtransferase TusA [Moraxella macacae]
+Length=93
+
+ Score = 85.1 bits (209),  Expect = 5e-020, Method: Compositional matrix adjust.
+ Identities = 38/81 (47%), Positives = 53/81 (65%), Gaps = 7/81 (9%)
+
+Query  11  QLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVL  70
+           QLNT GL CPEP+M+LH+ IR A +G+++ ++A DP+T+ DIP FC HLGH LL +E+ +
+Sbjct  10  QLNTLGLICPEPIMLLHKTIRTADAGEIIHIIANDPATTRDIPNFCRHLGHNLLAQEQQI  69
+
+Query  71  DEQNHKE-------YRYLVQK  84
+           +             Y Y VQK
+Sbjct  70  NPNKLANPDPYANVYHYWVQK  90
+
+
+>WP_034733516.1 sulfurtransferase TusA [Idiomarina atlantica]
+Length=80
+
+ Score = 84.7 bits (208),  Expect = 5e-020, Method: Compositional matrix adjust.
+ Identities = 40/77 (52%), Positives = 52/77 (68%), Gaps = 5/77 (6%)
+
+Query  9   TVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEE  68
+           T  L+T GLRCPEPVM++  AIRK   GD++EVLA DP+T+ DIP FC  + HEL     
+Sbjct  8   TQSLDTLGLRCPEPVMLIRAAIRKLNDGDLLEVLADDPATTRDIPSFCRFMDHEL-----  62
+
+Query  69  VLDEQNHKEYRYLVQKG  85
+           V+ E     YRY+++KG
+Sbjct  63  VVAETAAVPYRYVIRKG  79
+
+
+>WP_027313330.1 sulfurtransferase TusA [Balneatrix alpica]
+Length=80
+
+ Score = 84.3 bits (207),  Expect = 6e-020, Method: Compositional matrix adjust.
+ Identities = 41/74 (55%), Positives = 52/74 (70%), Gaps = 5/74 (7%)
+
+Query  12  LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVLD  71
+           L+T+GL CPEPVM+LH+ +R  + G+VV V ATDPSTS DIPKFC  LGH+LL +     
+Sbjct  11  LDTKGLNCPEPVMLLHKCVRSMQVGEVVRVEATDPSTSRDIPKFCEFLGHQLLAQ-----  65
+
+Query  72  EQNHKEYRYLVQKG  85
+            Q    Y YL++KG
+Sbjct  66  AQQDALYWYLIKKG  79
+
+
+>WP_068509866.1 MULTISPECIES: sulfurtransferase TusA [Oleiphilus]
+Length=75
+
+ Score = 84.3 bits (207),  Expect = 7e-020, Method: Compositional matrix adjust.
+ Identities = 41/74 (55%), Positives = 53/74 (72%), Gaps = 5/74 (7%)
+
+Query  12  LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVLD  71
+           L+T+GL CPEPVMMLH  I + +SGDVV+V+A+DP+T  DIPKFC  LGHELL +     
+Sbjct  7   LDTQGLYCPEPVMMLHSKIDEMQSGDVVKVIASDPATQRDIPKFCQFLGHELLDQ-----  61
+
+Query  72  EQNHKEYRYLVQKG  85
+            Q +  Y YL++K 
+Sbjct  62  SQENGNYIYLLRKA  75
+
+
+>WP_067037678.1 sulfurtransferase TusA [Marinomonas gallaica]
+Length=82
+
+ Score = 84.3 bits (207),  Expect = 7e-020, Method: Compositional matrix adjust.
+ Identities = 42/73 (58%), Positives = 52/73 (71%), Gaps = 5/73 (7%)
+
+Query  12  LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVLD  71
+           L+T+GL CPEPVMMLH  +RK  +G+VV+V+ATDPST  DIPKFC  LGH LL +     
+Sbjct  10  LDTQGLYCPEPVMMLHGVVRKMAAGEVVKVIATDPSTERDIPKFCTFLGHPLLKQ-----  64
+
+Query  72  EQNHKEYRYLVQK  84
+            Q+ + Y Y VQK
+Sbjct  65  AQDGELYYYWVQK  77
+
+
+>WP_039913509.1 sulfurtransferase TusA [Cellvibrio mixtus]
+Length=78
+
+ Score = 84.3 bits (207),  Expect = 7e-020, Method: Compositional matrix adjust.
+ Identities = 38/74 (51%), Positives = 53/74 (72%), Gaps = 5/74 (7%)
+
+Query  12  LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVLD  71
+           L+T GL CPEPVMMLH+A+++   G+++EV+ATDPST  DIPKFC+ LGHEL     V  
+Sbjct  9   LDTSGLLCPEPVMMLHRAVKEVAIGNLIEVIATDPSTQRDIPKFCLFLGHEL-----VGQ  63
+
+Query  72  EQNHKEYRYLVQKG  85
+           ++   +Y Y ++K 
+Sbjct  64  KKTEAQYFYYIRKN  77
+
+
+>WP_068860047.1 sulfurtransferase TusA [Perlucidibaca sp. BK296]
+Length=81
+
+ Score = 84.3 bits (207),  Expect = 7e-020, Method: Compositional matrix adjust.
+ Identities = 43/85 (51%), Positives = 56/85 (66%), Gaps = 4/85 (5%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           M E P++    L+ RGL CPEPVMMLH+ +R+  SG+ + + ATDPST+ DIPKFC  LG
+Sbjct  1   MLETPLANEPWLDARGLNCPEPVMMLHKRVRELASGEHLWIWATDPSTTRDIPKFCHFLG  60
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQKG  85
+           H L+L     DE     YRY ++KG
+Sbjct  61  HHLVLA----DEPEPGLYRYQLRKG  81
+
+
+>WP_075563731.1 sulfurtransferase TusA [Salinicola sp. MH3R3-1]
+Length=80
+
+ Score = 84.3 bits (207),  Expect = 8e-020, Method: Compositional matrix adjust.
+ Identities = 37/74 (50%), Positives = 51/74 (69%), Gaps = 5/74 (7%)
+
+Query  12  LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVLD  71
+           L+TRGL CPEP+M++H  +R    GD++ V+ATDP+T+ DIP+FC  LGHEL+ +     
+Sbjct  12  LDTRGLYCPEPIMLMHNKVRDMAVGDILNVIATDPATTRDIPQFCHFLGHELIEQ-----  66
+
+Query  72  EQNHKEYRYLVQKG  85
+            Q   EYRY +Q G
+Sbjct  67  TQEGAEYRYRIQLG  80
+
+
+>WP_066966015.1 sulfurtransferase TusA [Microbulbifer sp. Q7]
+Length=76
+
+ Score = 84.0 bits (206),  Expect = 8e-020, Method: Compositional matrix adjust.
+ Identities = 38/74 (51%), Positives = 53/74 (72%), Gaps = 5/74 (7%)
+
+Query  12  LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVLD  71
+           L+ RGL CPEPVMMLH A+RK  +G+++++LATDPST  D+PKFC  LG+EL+  EE   
+Sbjct  7   LDARGLLCPEPVMMLHAAVRKVAAGEILQMLATDPSTQRDVPKFCQFLGYELVRHEE---  63
+
+Query  72  EQNHKEYRYLVQKG  85
+              + E+ Y ++K 
+Sbjct  64  --ENDEFVYWIKKA  75
+
+
+>WP_010627690.1 sulfurtransferase TusA [Halomonas sp. KM-1]
+Length=83
+
+ Score = 84.3 bits (207),  Expect = 8e-020, Method: Compositional matrix adjust.
+ Identities = 38/82 (46%), Positives = 58/82 (71%), Gaps = 6/82 (7%)
+
+Query  4   QPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHEL  63
+           QP+   V+L+T GL CPEP+M++H  +R  +SG++++V+ATDP+T+ DIPKFC  LGHEL
+Sbjct  8   QPVH-QVELDTTGLYCPEPIMLMHNKVRDMRSGEILKVVATDPATTRDIPKFCSFLGHEL  66
+
+Query  64  LLKEEVLDEQNHKEYRYLVQKG  85
+           + +EE     +   Y Y ++ G
+Sbjct  67  VAQEE-----SDGHYLYFIRLG  83
+
+
+>WP_066451194.1 sulfurtransferase TusA [Halomonas chromatireducens]
+Length=83
+
+ Score = 84.3 bits (207),  Expect = 9e-020, Method: Compositional matrix adjust.
+ Identities = 37/84 (44%), Positives = 58/84 (69%), Gaps = 5/84 (6%)
+
+Query  2   SEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGH  61
+           ++ P     +L+T GL CPEPVM++H  +R  +SG+V++V+ATDP+T+ D+PKFC  LGH
+Sbjct  5   ADSPPDFQAELDTSGLYCPEPVMLMHNKVRDMQSGEVLKVVATDPATTRDVPKFCSFLGH  64
+
+Query  62  ELLLKEEVLDEQNHKEYRYLVQKG  85
+           ELL ++E     + + Y Y ++ G
+Sbjct  65  ELLAQQE-----SGERYLYFIRLG  83
+
+
+>WP_054343421.1 sulfurtransferase TusA [Neptunomonas antarctica]
+Length=81
+
+ Score = 84.0 bits (206),  Expect = 9e-020, Method: Compositional matrix adjust.
+ Identities = 39/74 (53%), Positives = 53/74 (72%), Gaps = 3/74 (4%)
+
+Query  12  LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVLD  71
+           L+  GL CPEPVMMLH  +R+ + G+V+ VLATDPST  DIPKFC  LGHEL+   E ++
+Sbjct  10  LDATGLYCPEPVMMLHSKVREIEIGEVLLVLATDPSTQRDIPKFCTFLGHELV---EQIN  66
+
+Query  72  EQNHKEYRYLVQKG  85
+           E   +++ Y ++KG
+Sbjct  67  ENGKQKFSYYIRKG  80
+
+
+>WP_067219395.1 sulfurtransferase TusA [Marinomonas gallaica]
+Length=82
+
+ Score = 84.0 bits (206),  Expect = 1e-019, Method: Compositional matrix adjust.
+ Identities = 41/73 (56%), Positives = 52/73 (71%), Gaps = 5/73 (7%)
+
+Query  12  LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVLD  71
+           L+T+GL CPEPVMMLH  +RK  +G+VV+++ATDPST  DIPKFC  LGH LL +     
+Sbjct  10  LDTQGLYCPEPVMMLHGVVRKMAAGEVVKIIATDPSTERDIPKFCTFLGHPLLKQ-----  64
+
+Query  72  EQNHKEYRYLVQK  84
+            Q+ + Y Y VQK
+Sbjct  65  AQDGELYYYWVQK  77
+
+
+>WP_084199714.1 sulfurtransferase TusA [Halioglobus japonicus]
+Length=80
+
+ Score = 84.0 bits (206),  Expect = 1e-019, Method: Compositional matrix adjust.
+ Identities = 43/79 (54%), Positives = 55/79 (70%), Gaps = 5/79 (6%)
+
+Query  6   ISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLL  65
+           + P   L+  GL CPEPVM+LH  +R  + G+VV+VLATDPST  DIPKFC  LGHELL 
+Sbjct  3   LEPDHILDASGLFCPEPVMLLHNQVRDMQVGEVVQVLATDPSTQRDIPKFCTFLGHELLQ  62
+
+Query  66  KEEVLDEQNHKEYRYLVQK  84
+           +    DEQ+  +YRY ++K
+Sbjct  63  Q----DEQD-GQYRYWLRK  76
+
+
+>WP_085760096.1 sulfurtransferase TusA [Oceanicoccus sagamiensis]
+Length=82
+
+ Score = 84.0 bits (206),  Expect = 1e-019, Method: Compositional matrix adjust.
+ Identities = 38/74 (51%), Positives = 51/74 (69%), Gaps = 5/74 (7%)
+
+Query  12  LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVLD  71
+           L+T GL CPEPVMMLH  IR    GD++E++ATDPST  D+PKFC  LGH+L+ ++E   
+Sbjct  9   LDTSGLLCPEPVMMLHNKIRDIAVGDMIELIATDPSTERDVPKFCAFLGHKLVDRQE---  65
+
+Query  72  EQNHKEYRYLVQKG  85
+               K+Y Y ++K 
+Sbjct  66  --RDKKYFYYIEKA  77
+
+
+>WP_066058819.1 sulfurtransferase TusA [Halioglobus sp. HI00S01]
+Length=80
+
+ Score = 84.0 bits (206),  Expect = 1e-019, Method: Compositional matrix adjust.
+ Identities = 43/79 (54%), Positives = 55/79 (70%), Gaps = 5/79 (6%)
+
+Query  6   ISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLL  65
+           + P   L+  GL CPEPVM+LH  +R  + G+VV+VLATDPST  DIPKFC  LGHELL 
+Sbjct  3   LEPDHILDASGLFCPEPVMLLHNQVRDMQVGEVVQVLATDPSTQRDIPKFCTFLGHELLQ  62
+
+Query  66  KEEVLDEQNHKEYRYLVQK  84
+           +    DEQ+  +YRY ++K
+Sbjct  63  Q----DEQD-GQYRYWLRK  76
+
+
+>WP_024460655.1 sulfurtransferase TusA [Marinimicrobium sp. LS-A18]
+Length=84
+
+ Score = 84.0 bits (206),  Expect = 1e-019, Method: Compositional matrix adjust.
+ Identities = 36/63 (57%), Positives = 50/63 (79%), Gaps = 0/63 (0%)
+
+Query  3   EQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHE  62
+           E P +    L+ RGL CPEPVM+LH+A+R+  +G+V+E++ATDPST  D+PKFC+ LGHE
+Sbjct  6   EGPGTIHKALDARGLVCPEPVMLLHRAVREVAAGEVIEMIATDPSTERDVPKFCLFLGHE  65
+
+Query  63  LLL  65
+           L+L
+Sbjct  66  LVL  68
+
+
+>WP_067100475.1 sulfurtransferase TusA [Marinomonas atlantica]
+Length=82
+
+ Score = 84.0 bits (206),  Expect = 1e-019, Method: Compositional matrix adjust.
+ Identities = 41/73 (56%), Positives = 52/73 (71%), Gaps = 5/73 (7%)
+
+Query  12  LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVLD  71
+           L+T+GL CPEPVMMLH  +RK  +G+VV+++ATDPST  DIPKFC  LGH LL +     
+Sbjct  10  LDTQGLYCPEPVMMLHGVVRKMAAGEVVKIIATDPSTERDIPKFCNFLGHPLLKQ-----  64
+
+Query  72  EQNHKEYRYLVQK  84
+            Q ++ Y Y VQK
+Sbjct  65  AQENELYYYWVQK  77
+
+
+>WP_049629560.1 sulfurtransferase TusA [Cellvibrio sp. pealriver]
+Length=77
+
+ Score = 83.6 bits (205),  Expect = 1e-019, Method: Compositional matrix adjust.
+ Identities = 38/74 (51%), Positives = 55/74 (74%), Gaps = 5/74 (7%)
+
+Query  12  LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVLD  71
+           L+  GL CPEPVMMLH+ +R+A +G+++EV+ATDPST  DIPKFC+ LGHEL+ ++E  D
+Sbjct  9   LDASGLMCPEPVMMLHKIMREASAGNLIEVIATDPSTLRDIPKFCLFLGHELVSQKEQGD  68
+
+Query  72  EQNHKEYRYLVQKG  85
+                +Y + ++K 
+Sbjct  69  -----QYFFYIRKN  77
+
+
+>WP_008938642.1 sulfurtransferase TusA [Marinobacter santoriniensis]
+Length=79
+
+ Score = 83.6 bits (205),  Expect = 1e-019, Method: Compositional matrix adjust.
+ Identities = 39/76 (51%), Positives = 52/76 (68%), Gaps = 5/76 (7%)
+
+Query  10  VQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEV  69
+            +L+ RGL CPEPVMMLH  I   + G V+ ++ATDPST+ DIP+FC  LGHELL + E 
+Sbjct  8   AELDARGLFCPEPVMMLHNRINDVEPGGVLRIVATDPSTTRDIPRFCQFLGHELLSRSEQ  67
+
+Query  70  LDEQNHKEYRYLVQKG  85
+            D     E+ YL+++G
+Sbjct  68  DD-----EFVYLIRRG  78
+
+
+>WP_019530337.1 sulfurtransferase TusA [Dasania marina]
+Length=78
+
+ Score = 83.6 bits (205),  Expect = 1e-019, Method: Compositional matrix adjust.
+ Identities = 41/73 (56%), Positives = 51/73 (70%), Gaps = 5/73 (7%)
+
+Query  12  LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVLD  71
+           L+T GL CPEPVMMLH A+R    G V++V+ATDPST  DIPKFC  LGHELL +     
+Sbjct  8   LDTSGLMCPEPVMMLHGAVRDCAVGGVIKVIATDPSTQRDIPKFCSFLGHELLEQ-----  62
+
+Query  72  EQNHKEYRYLVQK  84
+           +Q+ K Y Y ++K
+Sbjct  63  QQSDKCYIYWIRK  75
+
+
+>WP_027966411.1 sulfurtransferase TusA [Halomonas halocynthiae]
+Length=83
+
+ Score = 84.0 bits (206),  Expect = 1e-019, Method: Compositional matrix adjust.
+ Identities = 40/81 (49%), Positives = 56/81 (69%), Gaps = 5/81 (6%)
+
+Query  5   PISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELL  64
+           P+S   +L+T GL CPEP+MM+H  +R  + G+V+EV+ATDP+T  D+PKFC  LGHEL+
+Sbjct  8   PVS-QAKLDTSGLYCPEPIMMMHNQVRNMQPGEVLEVIATDPATVRDVPKFCGFLGHELI  66
+
+Query  65  LKEEVLDEQNHKEYRYLVQKG  85
+             E    E+    YRYL++ G
+Sbjct  67  HHE----EEGGGCYRYLIRLG  83
+
+
+>WP_040239149.1 sulfurtransferase TusA [Chromohalobacter japonicus]
+Length=84
+
+ Score = 84.0 bits (206),  Expect = 1e-019, Method: Compositional matrix adjust.
+ Identities = 36/77 (47%), Positives = 54/77 (70%), Gaps = 4/77 (5%)
+
+Query  7   SPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLK  66
+           +P   L+T GL CPEP+MM+H  +R    G ++EV+ATDP+T+ D+PKFC  LGHEL+ +
+Sbjct  10  TPDAVLDTSGLYCPEPIMMMHNQVRDMNVGQLLEVIATDPATTRDVPKFCTFLGHELVAQ  69
+
+Query  67  EEVLDEQNHKEYRYLVQ  83
+            +  DE+    YRY+++
+Sbjct  70  SQEEDER----YRYVIR  82
+
+
+>WP_036128557.1 sulfurtransferase TusA [Marinobacter nitratireducens]
+Length=80
+
+ Score = 83.6 bits (205),  Expect = 1e-019, Method: Compositional matrix adjust.
+ Identities = 39/75 (52%), Positives = 51/75 (68%), Gaps = 5/75 (7%)
+
+Query  11  QLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVL  70
+           +L+ RGL CPEPVMMLH  I     G+++ VLATDPST+ DIP+FC  LGHEL     V 
+Sbjct  9   ELDARGLFCPEPVMMLHNRINDVLPGEILRVLATDPSTTRDIPRFCQFLGHEL-----VS  63
+
+Query  71  DEQNHKEYRYLVQKG  85
+           + +   EY YL+++G
+Sbjct  64  EAEKDGEYVYLIRRG  78
+
+
+>WP_007224648.1 sulfurtransferase TusA [marine gamma proteobacterium HTCC2143]
+Length=77
+
+ Score = 83.6 bits (205),  Expect = 1e-019, Method: Compositional matrix adjust.
+ Identities = 38/74 (51%), Positives = 50/74 (68%), Gaps = 5/74 (7%)
+
+Query  12  LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVLD  71
+           L+T GL CPEPVMMLH  IR  ++GD+++++ATDPST  DIPKFC  LGH+LL ++    
+Sbjct  9   LDTSGLLCPEPVMMLHNKIRDIQTGDILKIIATDPSTQRDIPKFCSFLGHQLLQQQT---  65
+
+Query  72  EQNHKEYRYLVQKG  85
+                 Y Y +QK 
+Sbjct  66  --QGSVYLYYIQKA  77
+
+
+>WP_062270369.1 sulfurtransferase TusA [Endozoicomonas arenosclerae]
+Length=83
+
+ Score = 83.6 bits (205),  Expect = 2e-019, Method: Compositional matrix adjust.
+ Identities = 42/74 (57%), Positives = 50/74 (68%), Gaps = 5/74 (7%)
+
+Query  11  QLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVL  70
+           +L+T GL CPEPVMMLH  +R  K G+ V+V ATDPST  DIPKFC  L HELL  E+V 
+Sbjct  10  ELDTSGLLCPEPVMMLHNKVRDMKPGETVKVTATDPSTQRDIPKFCNFLDHELLSHEQV-  68
+
+Query  71  DEQNHKEYRYLVQK  84
+                K Y YL++K
+Sbjct  69  ----EKHYIYLIRK  78
+
+
+>WP_028470432.1 sulfurtransferase TusA [Neptunomonas japonica]
+Length=81
+
+ Score = 83.6 bits (205),  Expect = 2e-019, Method: Compositional matrix adjust.
+ Identities = 39/74 (53%), Positives = 54/74 (73%), Gaps = 3/74 (4%)
+
+Query  12  LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVLD  71
+           L+ +GL CPEPVMMLH  +R+ + G+V+ VLATDPST  DIPKFC  LGHEL+   E ++
+Sbjct  10  LDAKGLYCPEPVMMLHNKVREIEIGEVLLVLATDPSTQRDIPKFCTFLGHELV---EQVN  66
+
+Query  72  EQNHKEYRYLVQKG  85
+           E  ++ + Y ++KG
+Sbjct  67  ECENETFSYYIRKG  80
+
+
+>WP_043193394.1 sulfurtransferase TusA [Pseudomonas rhizosphaerae]
+Length=81
+
+ Score = 83.2 bits (204),  Expect = 2e-019, Method: Compositional matrix adjust.
+ Identities = 41/81 (51%), Positives = 54/81 (67%), Gaps = 5/81 (6%)
+
+Query  4   QPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHEL  63
+           Q +S    L+  GL CPEPVMMLHQ +R   +G ++EV+ATDPST  DIPKFC+ LGHEL
+Sbjct  3   QILSADRTLDATGLSCPEPVMMLHQHVRDLPAGGLLEVIATDPSTRRDIPKFCVFLGHEL  62
+
+Query  64  LLKEEVLDEQNHKEYRYLVQK  84
+           + ++E         YRY ++K
+Sbjct  63  VQQDE-----EGGTYRYWIRK  78
+
+
+>WP_029653861.1 sulfurtransferase TusA [Marinobacter daepoensis]
+Length=80
+
+ Score = 83.2 bits (204),  Expect = 2e-019, Method: Compositional matrix adjust.
+ Identities = 38/60 (63%), Positives = 46/60 (77%), Gaps = 0/60 (0%)
+
+Query  10  VQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEV  69
+            +L+ RGL CPEPVMMLH  IR+ + G V+ V+ATDPST+ DIPKFC  LGHELL +EE 
+Sbjct  8   AELDARGLFCPEPVMMLHNRIREIEVGQVLRVVATDPSTTRDIPKFCQFLGHELLSQEEA  67
+
+
+>WP_080050201.1 sulfurtransferase TusA [Pseudomonas sp. S-6-2]
+Length=80
+
+ Score = 82.8 bits (203),  Expect = 2e-019, Method: Compositional matrix adjust.
+ Identities = 41/75 (55%), Positives = 51/75 (68%), Gaps = 5/75 (7%)
+
+Query  11  QLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVL  70
+           QL+T GL CPEPVMMLH A+R   +G+++EVLATDPST  DIPKFC  LGH LL + E  
+Sbjct  10  QLDTCGLTCPEPVMMLHNAVRDLAAGELLEVLATDPSTQRDIPKFCGFLGHALLEQRE--  67
+
+Query  71  DEQNHKEYRYLVQKG  85
+                  + YL++K 
+Sbjct  68  ---EAGIFHYLIRKA  79
+
+
+>WP_058068562.1 sulfurtransferase TusA [Pseudomonas sp. TTU2014-080ASC]
+Length=83
+
+ Score = 82.8 bits (203),  Expect = 3e-019, Method: Compositional matrix adjust.
+ Identities = 41/78 (53%), Positives = 54/78 (69%), Gaps = 5/78 (6%)
+
+Query  7   SPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLK  66
+           +P   L+  GL CPEPVMMLH  +R   +G +++V+ATDPST  DIPKFCM LGHEL+  
+Sbjct  8   TPDDTLDASGLNCPEPVMMLHNKVRDLAAGGLLKVIATDPSTRRDIPKFCMFLGHELV--  65
+
+Query  67  EEVLDEQNHKEYRYLVQK  84
+            E +DE +   Y YL++K
+Sbjct  66  -EQVDEGDI--YLYLIRK  80
+
+
+>WP_076747347.1 sulfurtransferase TusA [Halomonas sp. 1513]
+Length=83
+
+ Score = 82.8 bits (203),  Expect = 3e-019, Method: Compositional matrix adjust.
+ Identities = 38/79 (48%), Positives = 56/79 (71%), Gaps = 5/79 (6%)
+
+Query  7   SPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLK  66
+           S  V+L+T GL CPEP+M++H  +R  ++G V++V+A+DP+T+ DIPKFC  LGHELL++
+Sbjct  10  SHDVELDTTGLYCPEPIMLMHSRVRDMQAGQVLKVIASDPATTRDIPKFCSFLGHELLIQ  69
+
+Query  67  EEVLDEQNHKEYRYLVQKG  85
+            E+ D      Y Y V+ G
+Sbjct  70  REMDD-----GYLYFVRLG  83
+
+
+>WP_054206582.1 MULTISPECIES: sulfurtransferase TusA [Pseudoalteromonas]
+Length=79
+
+ Score = 82.8 bits (203),  Expect = 3e-019, Method: Compositional matrix adjust.
+ Identities = 39/79 (49%), Positives = 53/79 (67%), Gaps = 5/79 (6%)
+
+Query  7   SPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLK  66
+           +P  QL+  GLRCPEPVMM+  A+RK ++G+ + + A DPST+ DIP FCM + H L+ K
+Sbjct  5   NPDHQLDAIGLRCPEPVMMIRSAVRKMENGETLLITADDPSTTRDIPSFCMFMDHTLIAK  64
+
+Query  67  EEVLDEQNHKEYRYLVQKG  85
+                E +   YRYLV+KG
+Sbjct  65  -----EVDAVPYRYLVKKG  78
+
+
+>WP_076001451.1 sulfurtransferase TusA [Halioglobus pacificus]
+Length=80
+
+ Score = 82.8 bits (203),  Expect = 3e-019, Method: Compositional matrix adjust.
+ Identities = 39/73 (53%), Positives = 50/73 (68%), Gaps = 5/73 (7%)
+
+Query  12  LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVLD  71
+           L+ +GL CPEPVM+LH  +R   +G+VV+VLATDPST  DIPKFC  LGHELL ++    
+Sbjct  9   LDAKGLFCPEPVMLLHNVVRDMATGEVVQVLATDPSTQRDIPKFCQFLGHELLQQDAA--  66
+
+Query  72  EQNHKEYRYLVQK  84
+                 YRY ++K
+Sbjct  67  ---DGNYRYWLRK  76
+
+
+>WP_019622236.1 sulfurtransferase TusA [Amphritea japonica]
+Length=89
+
+ Score = 82.8 bits (203),  Expect = 3e-019, Method: Compositional matrix adjust.
+ Identities = 36/75 (48%), Positives = 53/75 (71%), Gaps = 5/75 (7%)
+
+Query  11  QLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVL  70
+           +++  GL CPEPVM+LH  +R+  +G+V+++ ATDPST  D+PKFC  LGHELL +E V 
+Sbjct  19  EMDATGLFCPEPVMLLHNKVREMATGEVLQLTATDPSTQRDVPKFCTFLGHELLAQEAV-  77
+
+Query  71  DEQNHKEYRYLVQKG  85
+                 ++ YL++KG
+Sbjct  78  ----DNQFLYLIRKG  88
+
+
+>WP_043307492.1 sulfurtransferase TusA [Pseudomonas sp. ML96]
+Length=79
+
+ Score = 82.4 bits (202),  Expect = 3e-019, Method: Compositional matrix adjust.
+ Identities = 40/79 (51%), Positives = 52/79 (66%), Gaps = 5/79 (6%)
+
+Query  6   ISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLL  65
+           + P   L+  GL CPEPVMMLH  +R   +G +++VLATDPST  DIPKFCM LGHELL 
+Sbjct  3   LQPDAILDATGLFCPEPVMMLHNKVRDLPAGGLLQVLATDPSTKRDIPKFCMFLGHELLE  62
+
+Query  66  KEEVLDEQNHKEYRYLVQK  84
+           + E     +   Y+Y ++K
+Sbjct  63  QGE-----DGGTYQYWIRK  76
+
+
+>WP_037029569.1 MULTISPECIES: sulfurtransferase TusA [Pseudomonas]
+Length=83
+
+ Score = 82.8 bits (203),  Expect = 3e-019, Method: Compositional matrix adjust.
+ Identities = 42/84 (50%), Positives = 55/84 (65%), Gaps = 7/84 (8%)
+
+Query  3   EQPISPTVQ--LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           E+ ++ TV   L+  GL CPEPVMMLH  +R    G +++V+ATDPST  DIPKFCM LG
+Sbjct  2   EKSMTLTVDATLDASGLNCPEPVMMLHNKVRDMAGGSLLKVIATDPSTQRDIPKFCMFLG  61
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQK  84
+           HEL+ KEE        +Y Y ++K
+Sbjct  62  HELVQKEE-----EGGKYLYWIRK  80
+
+
+>WP_075368708.1 sulfurtransferase TusA [Chromohalobacter japonicus]
+Length=83
+
+ Score = 82.4 bits (202),  Expect = 4e-019, Method: Compositional matrix adjust.
+ Identities = 36/77 (47%), Positives = 51/77 (66%), Gaps = 5/77 (6%)
+
+Query  7   SPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLK  66
+           +P   L+T GL CPEP+MM+H  +R    G ++EV+ATDP+T+ D+PKFC  LGHEL   
+Sbjct  10  TPDAVLDTSGLYCPEPIMMMHNQVRDMDVGQLLEVIATDPATTRDVPKFCTFLGHEL---  66
+
+Query  67  EEVLDEQNHKEYRYLVQ  83
+             V   Q  + YRY+++
+Sbjct  67  --VAQSQEDERYRYVIR  81
+
+
+>WP_047227197.1 MULTISPECIES: sulfurtransferase TusA [Pseudomonas]
+Length=83
+
+ Score = 82.4 bits (202),  Expect = 4e-019, Method: Compositional matrix adjust.
+ Identities = 42/84 (50%), Positives = 56/84 (67%), Gaps = 7/84 (8%)
+
+Query  1   MSEQPISPTVQLNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLG  60
+           M++ P+  T  L+  GL CPEPVMMLHQ IR    G +++V+ATDPST  DIPKFC+ L 
+Sbjct  4   MNDTPVDGT--LDATGLNCPEPVMMLHQHIRDLMPGGLLKVIATDPSTRRDIPKFCVFLD  61
+
+Query  61  HELLLKEEVLDEQNHKEYRYLVQK  84
+           HEL+ ++EV        YRY ++K
+Sbjct  62  HELVAQDEV-----DGTYRYWIRK  80
+
+
+>WP_055462951.1 sulfurtransferase TusA [Marinomonas fungiae]
+Length=84
+
+ Score = 82.4 bits (202),  Expect = 4e-019, Method: Compositional matrix adjust.
+ Identities = 42/73 (58%), Positives = 49/73 (67%), Gaps = 5/73 (7%)
+
+Query  12  LNTRGLRCPEPVMMLHQAIRKAKSGDVVEVLATDPSTSWDIPKFCMHLGHELLLKEEVLD  71
+           L+T+GL CPEPVMMLH  +RK   G+VV+++ATDPST  DIPKFC  LGH L     V  
+Sbjct  14  LDTQGLYCPEPVMMLHGVVRKMSPGEVVKIIATDPSTERDIPKFCNFLGHPL-----VKQ  68
+
+Query  72  EQNHKEYRYLVQK  84
+           EQ    Y Y VQK
+Sbjct  69  EQQGDLYYYWVQK  81
+
+
+
+Lambda      K        H
+   0.317    0.134    0.401 
+
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+
+Effective search space used: 777740754590
+
+
+  Database: NCBI Protein Reference Sequences
+    Posted date:  May 29, 2017 12:00 AM
+  Number of letters in database: 31,412,196,622
+  Number of sequences in database:  82,027,677
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40

@@ -1,0 +1,4317 @@
+BLASTP 2.6.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: NCBI Protein Reference Sequences
+           82,027,677 sequences; 31,412,196,622 total letters
+
+
+
+Query= embl-cds:ABO11565 putative transporter OS=Acinetobacter baumannii
+(strain ATCC 17978 / CIP 53.77 / LMG 1025 / NCDC KC755 / 5377)
+GN=A1S_1135 SV=1 UP=UP000006737:Chromosome
+
+Length=86
+
+RID: JVV3JE5V015
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+WP_023270284.1  NCS2 family permease [Acinetobacter gyllenbergii]     172     9e-052
+WP_032011692.1  MULTISPECIES: NCS2 family permease [Acinetobacter...  174     4e-051
+WP_031991137.1  NCS2 family permease [Acinetobacter baumannii]        174     4e-051
+WP_049083053.1  NCS2 family permease [Acinetobacter nosocomialis]     174     5e-051
+WP_020752967.1  NCS2 family permease [Acinetobacter baumannii]        174     5e-051
+WP_004888055.1  MULTISPECIES: NCS2 family permease [Acinetobacter...  174     5e-051
+WP_079548339.1  NCS2 family permease [Acinetobacter calcoaceticus]    174     5e-051
+WP_031950297.1  NCS2 family permease [Acinetobacter baumannii]        174     5e-051
+WP_004709861.1  MULTISPECIES: NCS2 family permease [Acinetobacter...  174     5e-051
+WP_031988401.1  NCS2 family permease [Acinetobacter baumannii]        174     5e-051
+WP_031973408.1  NCS2 family permease [Acinetobacter baumannii]        174     5e-051
+WP_031957911.1  NCS2 family permease [Acinetobacter baumannii]        174     5e-051
+WP_000729979.1  NCS2 family permease [Acinetobacter baumannii]        174     5e-051
+WP_000729980.1  MULTISPECIES: NCS2 family permease [Acinetobacter...  174     5e-051
+WP_039264959.1  NCS2 family permease [Acinetobacter baumannii]        174     5e-051
+WP_032021233.1  NCS2 family permease [Acinetobacter baumannii]        174     5e-051
+WP_065717935.1  NCS2 family permease [Acinetobacter baumannii]        174     5e-051
+WP_032025779.1  NCS2 family permease [Acinetobacter baumannii]        174     5e-051
+WP_017897542.1  NCS2 family permease [Acinetobacter baumannii]        174     5e-051
+WP_002156845.1  MULTISPECIES: NCS2 family permease [Acinetobacter...  174     5e-051
+WP_000729978.1  NCS2 family permease [Acinetobacter baumannii]        174     5e-051
+WP_032016902.1  NCS2 family permease [Acinetobacter baumannii]        174     5e-051
+WP_032007637.1  NCS2 family permease [Acinetobacter baumannii]        173     5e-051
+WP_039207463.1  NCS2 family permease [Acinetobacter baumannii]        173     5e-051
+WP_031987022.1  NCS2 family permease [Acinetobacter baumannii]        173     5e-051
+WP_031972776.1  NCS2 family permease [Acinetobacter baumannii]        173     5e-051
+WP_086263497.1  guanine permease [Acinetobacter baumannii]            173     6e-051
+WP_031990544.1  NCS2 family permease [Acinetobacter baumannii]        173     6e-051
+WP_000729974.1  NCS2 family permease [Acinetobacter baumannii]        173     6e-051
+WP_000729977.1  NCS2 family permease [Acinetobacter baumannii]        173     6e-051
+WP_000729975.1  NCS2 family permease [Acinetobacter baumannii]        173     6e-051
+WP_031955992.1  NCS2 family permease [Acinetobacter baumannii]        173     6e-051
+WP_031963135.1  NCS2 family permease [Acinetobacter baumannii]        173     6e-051
+WP_038343643.1  NCS2 family permease [Acinetobacter baumannii]        173     6e-051
+WP_032046650.1  NCS2 family permease [Acinetobacter baumannii]        173     6e-051
+WP_000729981.1  NCS2 family permease [Acinetobacter baumannii]        173     6e-051
+WP_046128175.1  NCS2 family permease [Acinetobacter baumannii]        173     6e-051
+WP_032027412.1  NCS2 family permease [Acinetobacter baumannii]        173     6e-051
+WP_071225454.1  NCS2 family permease [Acinetobacter baumannii]        173     7e-051
+WP_068935881.1  NCS2 family permease [Acinetobacter seifertii]        173     7e-051
+WP_004702799.1  MULTISPECIES: NCS2 family permease [Acinetobacter]    173     7e-051
+WP_049065623.1  NCS2 family permease [Acinetobacter seifertii]        173     8e-051
+WP_004736100.1  NCS2 family permease [Acinetobacter baumannii]        173     8e-051
+WP_042897881.1  MULTISPECIES: NCS2 family permease [Acinetobacter]    172     1e-050
+WP_002163170.1  MULTISPECIES: NCS2 family permease [Acinetobacter...  172     1e-050
+WP_003652707.1  MULTISPECIES: NCS2 family permease [Acinetobacter]    172     1e-050
+WP_086221526.1  guanine permease [Acinetobacter baumannii]            172     1e-050
+WP_086376849.1  guanine permease [Acinetobacter pittii]               172     1e-050
+WP_032004036.1  NCS2 family permease [Acinetobacter sp. 1542444]      172     1e-050
+WP_068570811.1  NCS2 family permease [Acinetobacter pittii]           172     1e-050
+WP_017389117.1  NCS2 family permease [Acinetobacter calcoaceticus]    172     1e-050
+WP_057106222.1  MULTISPECIES: NCS2 family permease [Acinetobacter]    172     1e-050
+WP_005070381.1  MULTISPECIES: NCS2 family permease [Acinetobacter]    172     1e-050
+WP_071209881.1  NCS2 family permease [Acinetobacter baumannii]        172     1e-050
+WP_032063653.1  NCS2 family permease [Acinetobacter sp. 809848]       172     1e-050
+WP_005299287.1  NCS2 family permease [Acinetobacter sp. NIPH 542]     172     1e-050
+WP_004793782.1  MULTISPECIES: NCS2 family permease [Acinetobacter]    172     2e-050
+WP_069141079.1  NCS2 family permease [Acinetobacter pittii]           172     2e-050
+WP_016141776.1  NCS2 family permease [Acinetobacter pittii]           172     2e-050
+WP_009387763.1  MULTISPECIES: NCS2 family permease [Acinetobacter...  172     2e-050
+WP_016138799.1  NCS2 family permease [Acinetobacter calcoaceticus]    172     2e-050
+WP_016652072.1  NCS2 family permease [Acinetobacter sp. NIPH 2036]    172     2e-050
+WP_009514810.1  NCS2 family permease [Acinetobacter sp. WC-323]       172     2e-050
+WP_005229589.1  MULTISPECIES: NCS2 family permease [Acinetobacter]    172     3e-050
+WP_077168190.1  guanine permease [Acinetobacter genomosp. 33YU]       172     3e-050
+WP_004771558.1  MULTISPECIES: NCS2 family permease [Acinetobacter]    172     3e-050
+WP_005242399.1  MULTISPECIES: NCS2 family permease [Acinetobacter]    172     3e-050
+WP_005054709.1  NCS2 family permease [Acinetobacter beijerinckii]     171     3e-050
+WP_005062439.1  NCS2 family permease [Acinetobacter beijerinckii]     171     3e-050
+WP_038345445.1  NCS2 family permease [Acinetobacter sp. A47]          171     4e-050
+WP_016164192.1  NCS2 family permease [Acinetobacter sp. CIP 110321]   171     4e-050
+WP_004654459.1  MULTISPECIES: NCS2 family permease [Acinetobacter]    171     4e-050
+WP_004805960.1  MULTISPECIES: NCS2 family permease [Acinetobacter]    171     4e-050
+WP_016540952.1  NCS2 family permease [Acinetobacter gyllenbergii]     171     4e-050
+WP_005189822.1  MULTISPECIES: NCS2 family permease [Acinetobacter]    171     4e-050
+WP_068563238.1  NCS2 family permease [Acinetobacter pittii]           171     5e-050
+WP_018678143.1  NCS2 family permease [Acinetobacter tjernbergiae]     171     6e-050
+WP_004799420.1  NCS2 family permease [Acinetobacter sp. CIP 102637]   171     6e-050
+WP_004878594.1  MULTISPECIES: NCS2 family permease [Acinetobacter]    171     6e-050
+WP_016166588.1  NCS2 family permease [Acinetobacter tandoii]          171     7e-050
+WP_004912229.1  NCS2 family permease [Acinetobacter junii]            171     7e-050
+WP_061518430.1  NCS2 family permease [Acinetobacter venetianus]       171     7e-050
+WP_005402348.1  NCS2 family permease [Acinetobacter junii]            171     8e-050
+WP_004682606.1  MULTISPECIES: NCS2 family permease [Acinetobacter]    171     8e-050
+WP_032042124.1  NCS2 family permease [Acinetobacter sp. 1578804]      171     8e-050
+WP_039047504.1  NCS2 family permease [Acinetobacter junii]            171     8e-050
+WP_004676959.1  NCS2 family permease [Acinetobacter parvus]           170     8e-050
+WP_005161017.1  NCS2 family permease [Acinetobacter sp. NIPH 284]     170     1e-049
+WP_004661328.1  NCS2 family permease [Acinetobacter sp. NIPH 236]     170     1e-049
+WP_004696144.1  MULTISPECIES: NCS2 family permease [Acinetobacter]    170     1e-049
+WP_004925997.1  MULTISPECIES: NCS2 family permease [Acinetobacter]    170     1e-049
+WP_046738788.1  MULTISPECIES: NCS2 family permease [Acinetobacter]    170     1e-049
+WP_005215345.1  NCS2 family permease [Acinetobacter sp. ANC 3862]     170     1e-049
+WP_005129113.1  NCS2 family permease [Acinetobacter baumannii]        170     1e-049
+WP_053578201.1  NCS2 family permease [Acinetobacter sp. TTH0-4]       170     2e-049
+WP_004989736.1  MULTISPECIES: NCS2 family permease [Acinetobacter]    169     2e-049
+WP_067864357.1  NCS2 family permease [Acinetobacter sp. SFB]          169     2e-049
+WP_086190164.1  guanine permease [Acinetobacter sp. ANC 3832]         169     2e-049
+WP_067660032.1  NCS2 family permease [Acinetobacter sp. TGL-Y2]       169     3e-049
+WP_086199623.1  guanine permease [Acinetobacter sp. ANC 4169]         169     3e-049
+WP_026438181.1  MULTISPECIES: NCS2 family permease [Acinetobacter]    169     3e-049
+WP_005014984.1  MULTISPECIES: NCS2 family permease [Acinetobacter]    169     3e-049
+WP_068887133.1  NCS2 family permease [Acinetobacter celticus]         169     4e-049
+WP_004638516.1  MULTISPECIES: NCS2 family permease [Acinetobacter]    169     4e-049
+WP_005176982.1  MULTISPECIES: NCS2 family permease [Acinetobacter]    169     4e-049
+WP_075166658.1  guanine permease [Acinetobacter indicus]              169     4e-049
+WP_086195608.1  guanine permease [Acinetobacter sp. ANC 4218]         169     5e-049
+WP_086176341.1  guanine permease [Acinetobacter sp. ANC 3903]         168     5e-049
+WP_067723249.1  NCS2 family permease [Acinetobacter sp. SFC]          168     5e-049
+WP_029574377.1  NCS2 family permease [Acinetobacter sp. P8-3-8]       168     5e-049
+WP_004670603.1  MULTISPECIES: NCS2 family permease [Acinetobacter]    168     6e-049
+WP_086194398.1  guanine permease [Acinetobacter sp. ANC 4655]         168     6e-049
+WP_068913732.1  NCS2 family permease [Acinetobacter sp. WCHA34]       168     6e-049
+WP_086211214.1  guanine permease [Acinetobacter sp. ANC 3813]         168     6e-049
+WP_086188341.1  guanine permease [Acinetobacter sp. ANC 4470]         168     6e-049
+WP_067670686.1  NCS2 family permease [Acinetobacter sp. ANC 4149]     168     7e-049
+WP_086207870.1  guanine permease [Acinetobacter sp. ANC 4204]         168     8e-049
+WP_035265860.1  NCS2 family permease [Acinetobacter sp. Ver3]         168     8e-049
+WP_005010972.1  NCS2 family permease [Acinetobacter bouvetii]         167     1e-048
+WP_086165742.1  guanine permease [Acinetobacter sp. ANC 4654]         167     2e-048
+WP_086184679.1  guanine permease [Acinetobacter sp. ANC 4973]         167     2e-048
+WP_004648591.1  NCS2 family permease [Acinetobacter bohemicus]        167     3e-048
+WP_058967753.1  NCS2 family permease [Acinetobacter bereziniae]       166     3e-048
+WP_078194402.1  guanine permease [Acinetobacter sp. ANC 5600]         166     3e-048
+WP_005029525.1  NCS2 family permease [Acinetobacter bereziniae]       166     4e-048
+WP_004831186.1  MULTISPECIES: NCS2 family permease [Acinetobacter]    166     4e-048
+WP_039622863.1  NCS2 family permease [Acinetobacter harbinensis]      166     4e-048
+WP_004820795.1  MULTISPECIES: NCS2 family permease [Acinetobacter]    166     4e-048
+WP_004721188.1  MULTISPECIES: NCS2 family permease [Acinetobacter]    166     4e-048
+WP_004971599.1  NCS2 family permease [Acinetobacter towneri]          166     5e-048
+WP_078189086.1  guanine permease [Acinetobacter sp. ANC 4945]         166     7e-048
+WP_064096627.1  MULTISPECIES: NCS2 family permease [Acinetobacter]    166     7e-048
+WP_004815389.1  MULTISPECIES: NCS2 family permease [Acinetobacter]    166     7e-048
+WP_004784213.1  NCS2 family permease [Acinetobacter sp. NIPH 899]     166     7e-048
+WP_005097450.1  MULTISPECIES: NCS2 family permease [Acinetobacter]    166     7e-048
+WP_074383305.1  NCS2 family permease [Acinetobacter lwoffii]          166     7e-048
+WP_004278978.1  MULTISPECIES: NCS2 family permease [Acinetobacter]    165     7e-048
+WP_034170718.1  MULTISPECIES: NCS2 family permease [Acinetobacter]    165     8e-048
+WP_004645563.1  MULTISPECIES: NCS2 family permease [Acinetobacter]    165     8e-048
+WP_005265750.1  MULTISPECIES: NCS2 family permease [Acinetobacter]    165     8e-048
+WP_086206249.1  guanine permease [Acinetobacter sp. ANC 4648]         165     8e-048
+WP_065991851.1  NCS2 family permease [Acinetobacter sp. WCHA30]       165     1e-047
+WP_004892544.1  MULTISPECIES: NCS2 family permease [Acinetobacter]    165     1e-047
+WP_071320649.1  NCS2 family permease [Acinetobacter sp. LCT-H3]       165     1e-047
+WP_054582372.1  NCS2 family permease [Acinetobacter equi]             165     1e-047
+WP_067730396.1  NCS2 family permease [Acinetobacter sp. NCu2D-2]      165     1e-047
+WP_086181702.1  guanine permease [Acinetobacter sp. ANC 4558]         164     2e-047
+WP_004861303.1  NCS2 family permease [Acinetobacter gerneri]          164     2e-047
+WP_067762638.1  NCS2 family permease [Acinetobacter gandensis]        164     2e-047
+WP_048764011.1  MULTISPECIES: NCS2 family permease [Acinetobacter]    164     3e-047
+WP_004936556.1  NCS2 family permease [Acinetobacter soli]             164     3e-047
+WP_034584323.1  NCS2 family permease [Acinetobacter sp. HR7]          163     4e-047
+XP_005968385.1  PREDICTED: adenine/guanine permease AZG2-like [Pa...  168     4e-047
+WP_086203303.1  guanine permease [Acinetobacter sp. ANC 4999]         163     7e-047
+WP_086178058.1  guanine permease [Acinetobacter sp. ANC 5054]         162     8e-047
+WP_068974251.1  NCS2 family permease [Acinetobacter sp. WCHA60]       159     2e-045
+WP_019959181.1  NCS2 family permease [Vitreoscilla stercoraria]       156     2e-044
+WP_023271776.1  NCS2 family permease [Acinetobacter nectaris]         156     2e-044
+WP_058304763.1  NCS2 family permease [Vitreoscilla sp. SN6]           155     5e-044
+WP_004753036.1  NCS2 family permease [Acinetobacter sp. ANC 3789]     155     7e-044
+WP_004903927.1  NCS2 family permease [Acinetobacter brisouii]         155     8e-044
+WP_067556268.1  NCS2 family permease [Acinetobacter larvae]           155     8e-044
+WP_070069246.1  NCS2 family permease [Acinetobacter qingfengensis]    153     3e-043
+WP_016655598.1  NCS2 family permease [Acinetobacter rudis]            152     1e-042
+WP_078254252.1  guanine permease [Moraxella pluranimalium]            147     6e-041
+WP_027022169.1  NCS2 family permease [Conchiformibius steedae]        146     1e-040
+WP_047919112.1  NCS2 family permease [Neisseria gonorrhoeae]          142     2e-040
+WP_027009645.1  NCS2 family permease [Conchiformibius kuhniae]        146     2e-040
+WP_070513028.1  NCS2 family permease [Neisseria sp. HMSC077D05]       145     3e-040
+WP_047919671.1  NCS2 family permease [Neisseria gonorrhoeae]          143     3e-040
+WP_085366673.1  guanine permease [Neisseria dentiae]                  145     4e-040
+WP_050171982.1  NCS2 family permease [Neisseria meningitidis]         142     4e-040
+WP_072104412.1  NCS2 family permease [Neisseria meningitidis]         142     5e-040
+WP_049230477.1  NCS2 family permease [Neisseria lactamica]            145     5e-040
+WP_060974820.1  MULTISPECIES: NCS2 family permease [Proteobacteria]   145     5e-040
+WP_049248067.1  NCS2 family permease [Neisseria elongata]             145     6e-040
+WP_045075238.1  MULTISPECIES: NCS2 family permease [Neisseria]        145     6e-040
+WP_070070245.1  NCS2 family permease [Acinetobacter qingfengensis]    144     8e-040
+WP_009425955.1  NCS2 family permease [Neisseria sp. oral taxon 020]   144     1e-039
+WP_016688215.1  NCS2 family permease [Neisseria sicca]                144     2e-039
+WP_004284383.1  NCS2 family permease [Neisseria weaveri]              144     2e-039
+WP_003767598.1  NCS2 family permease [Neisseria sicca]                144     2e-039
+WP_070498574.1  NCS2 family permease [Neisseria sp. HMSC064E01]       144     2e-039
+WP_070602633.1  NCS2 family permease [Neisseria sp. HMSC074B07]       144     2e-039
+WP_009312668.1  NCS2 family permease [Neisseria sp. GT4A_CT1]         144     2e-039
+WP_070680382.1  NCS2 family permease [Neisseria sp. HMSC055H02]       144     2e-039
+WP_049225683.1  NCS2 family permease [Morococcus cerebrosus]          143     2e-039
+WP_049227932.1  NCS2 family permease [Morococcus cerebrosus]          143     2e-039
+WP_074894864.1  NCS2 family permease [Neisseria elongata]             143     2e-039
+WP_003743780.1  MULTISPECIES: NCS2 family permease [Neisseria]        143     2e-039
+WP_039409833.1  NCS2 family permease [Morococcus cerebrosus]          143     2e-039
+WP_019270964.1  MULTISPECIES: NCS2 family permease [Neisseria]        143     2e-039
+WP_070492491.1  NCS2 family permease [Neisseria sp. HMSC15C08]        143     2e-039
+WP_070440161.1  NCS2 family permease [Neisseria sp. HMSC03D10]        143     2e-039
+WP_070538908.1  MULTISPECIES: NCS2 family permease [Neisseria]        143     2e-039
+WP_009174691.1  NCS2 family permease [Neisseria sp. oral taxon 014]   143     2e-039
+WP_070869964.1  NCS2 family permease [Neisseria sp. HMSC70E02]        143     2e-039
+WP_070635888.1  NCS2 family permease [Neisseria sp. HMSC073B07]       143     2e-039
+WP_049252929.1  NCS2 family permease [Neisseria elongata]             143     2e-039
+WP_003758793.1  MULTISPECIES: NCS2 family permease [Neisseria]        143     2e-039
+WP_003769367.1  NCS2 family permease [Neisseria elongata]             143     2e-039
+WP_049260800.1  NCS2 family permease [Neisseria bacilliformis]        143     3e-039
+WP_049255861.1  NCS2 family permease [Neisseria bacilliformis]        143     3e-039
+WP_007343668.1  NCS2 family permease [Neisseria bacilliformis]        143     3e-039
+WP_085389182.1  guanine permease [Neisseria animaloris]               143     3e-039
+WP_082296018.1  guanine permease [Neisseria gonorrhoeae]              142     4e-039
+WP_003676704.1  NCS2 family permease [Neisseria cinerea]              142     6e-039
+WP_082298695.1  guanine permease [Neisseria gonorrhoeae]              142     6e-039
+WP_037587287.1  NCS2 family permease [Stenoxybacter acetivorans]      142     7e-039
+WP_003689428.1  NCS2 family permease [Neisseria gonorrhoeae]          142     7e-039
+WP_070773223.1  NCS2 family permease [Neisseria sp. HMSC065D04]       142     8e-039
+WP_047760935.1  NCS2 family permease [Neisseria arctica]              142     8e-039
+WP_017629077.1  NCS2 family permease [Neisseria meningitidis]         142     8e-039
+WP_015815849.1  NCS2 family permease [Neisseria meningitidis]         142     8e-039
+WP_002246777.1  NCS2 family permease [Neisseria meningitidis]         142     9e-039
+WP_057330437.1  NCS2 family permease [Neisseria meningitidis]         141     9e-039
+WP_070455009.1  NCS2 family permease [Neisseria sp. HMSC31F04]        142     9e-039
+WP_061693433.1  NCS2 family permease [Neisseria meningitidis]         141     9e-039
+WP_050172964.1  NCS2 family permease [Neisseria meningitidis]         141     9e-039
+WP_057320180.1  NCS2 family permease [Neisseria meningitidis]         141     9e-039
+WP_050185911.1  NCS2 family permease [Neisseria meningitidis]         141     9e-039
+WP_002256398.1  NCS2 family permease [Neisseria meningitidis]         141     9e-039
+WP_002212503.1  MULTISPECIES: NCS2 family permease [Neisseria]        141     9e-039
+WP_050301591.1  NCS2 family permease [Neisseria meningitidis]         141     1e-038
+WP_003752219.1  NCS2 family permease [Neisseria polysaccharea]        141     1e-038
+WP_042745128.1  NCS2 family permease [Neisseria meningitidis]         141     1e-038
+WP_028778661.1  NCS2 family permease [Shimazuella kribbensis]         142     1e-038
+WP_021437865.1  NCS2 family permease [Neisseria meningitidis]         141     1e-038
+WP_002243271.1  NCS2 family permease [Neisseria meningitidis]         141     1e-038
+WP_002239541.1  NCS2 family permease [Neisseria meningitidis]         141     1e-038
+WP_002235504.1  NCS2 family permease [Neisseria meningitidis]         141     1e-038
+WP_061702921.1  NCS2 family permease [Neisseria meningitidis]         141     1e-038
+WP_003711126.1  NCS2 family permease [Neisseria lactamica]            141     1e-038
+WP_016670628.1  NCS2 family permease [Neisseria meningitidis]         141     1e-038
+WP_002223422.1  NCS2 family permease [Neisseria meningitidis]         141     1e-038
+WP_025457543.1  NCS2 family permease [Neisseria polysaccharea]        141     1e-038
+WP_061726642.1  NCS2 family permease [Neisseria meningitidis]         141     1e-038
+WP_050177885.1  NCS2 family permease [Neisseria meningitidis]         141     1e-038
+WP_003713426.1  NCS2 family permease [Neisseria lactamica]            141     1e-038
+WP_019272159.1  NCS2 family permease [Neisseria lactamica]            141     1e-038
+WP_066080232.1  NCS2 family permease [Bergeriella denitrificans]      141     1e-038
+WP_085363335.1  guanine permease [Neisseria zoodegmatis]              142     1e-038
+WP_050185023.1  NCS2 family permease [Neisseria meningitidis]         141     1e-038
+WP_002253834.1  NCS2 family permease [Neisseria meningitidis]         141     1e-038
+WP_002238773.1  NCS2 family permease [Neisseria meningitidis]         141     1e-038
+WP_054599569.1  MULTISPECIES: NCS2 family permease [Neisseria]        141     1e-038
+WP_050304547.1  NCS2 family permease [Neisseria meningitidis]         141     2e-038
+WP_029800229.1  NCS2 family permease [Vibrio parahaemolyticus]        138     2e-038
+WP_066566269.1  NCS2 family permease [Snodgrassella sp. CFCC 13594]   140     2e-038
+WP_085415776.1  guanine permease [Neisseria canis]                    141     2e-038
+WP_029847953.1  NCS2 family permease [Vibrio parahaemolyticus]        138     2e-038
+WP_029828976.1  NCS2 family permease [Vibrio parahaemolyticus]        138     2e-038
+WP_067530836.1  MULTISPECIES: NCS2 family permease [Eikenella]        140     2e-038
+WP_067447162.1  NCS2 family permease [Eikenella sp. NML99-0057]       140     2e-038
+WP_067527866.1  MULTISPECIES: NCS2 family permease [Eikenella]        140     2e-038
+WP_049884371.1  NCS2 family permease [Vibrio parahaemolyticus]        138     3e-038
+WP_029811365.1  NCS2 family permease [Vibrio parahaemolyticus]        138     3e-038
+WP_003822921.1  NCS2 family permease [Eikenella corrodens]            140     3e-038
+WP_067442468.1  MULTISPECIES: NCS2 family permease [Eikenella]        140     3e-038
+WP_064103354.1  NCS2 family permease [Eikenella corrodens]            140     3e-038
+WP_064086136.1  MULTISPECIES: NCS2 family permease [Eikenella]        140     3e-038
+WP_064087862.1  NCS2 family permease [Eikenella corrodens]            140     3e-038
+WP_049258307.1  NCS2 family permease [Eikenella corrodens]            140     3e-038
+WP_023886666.1  NCS2 family permease [Eikenella corrodens]            140     3e-038
+WP_064089087.1  NCS2 family permease [Eikenella sp. NML130454]        140     4e-038
+WP_064084695.1  NCS2 family permease [Eikenella corrodens]            140     4e-038
+WP_070632962.1  MULTISPECIES: NCS2 family permease [Eikenella]        140     4e-038
+WP_067524887.1  NCS2 family permease [Eikenella sp. NML03-A-027]      140     4e-038
+WP_002216538.1  NCS2 family permease [Neisseria meningitidis]         140     4e-038
+WP_086048865.1  guanine permease [Vibrio alginolyticus]               139     6e-038
+WP_012604654.1  MULTISPECIES: NCS2 family permease [Vibrio]           139     6e-038
+WP_010436344.1  MULTISPECIES: NCS2 family permease [Vibrio]           139     6e-038
+WP_076652370.1  guanine permease [Vibrio sp. 10N.261.45.E1]           139     7e-038
+WP_017106261.1  MULTISPECIES: NCS2 family permease [Vibrio]           139     7e-038
+WP_017076235.1  NCS2 family permease [Vibrio splendidus]              139     7e-038
+WP_017066820.1  NCS2 family permease [Vibrio crassostreae]            139     7e-038
+WP_032551627.1  NCS2 family permease [Vibrio fortis]                  139     7e-038
+WP_009847476.1  MULTISPECIES: NCS2 family permease [Vibrio]           139     7e-038
+WP_048605536.1  MULTISPECIES: NCS2 family permease [Vibrio]           139     7e-038
+WP_004734411.1  NCS2 family permease [Vibrio splendidus]              139     7e-038
+WP_017080057.1  MULTISPECIES: NCS2 family permease [Vibrio]           139     7e-038
+WP_004741498.1  NCS2 family permease [Vibrio splendidus]              139     7e-038
+WP_008218658.1  MULTISPECIES: NCS2 family permease [Vibrio]           139     7e-038
+WP_076668253.1  guanine permease [Vibrio lentus]                      139     7e-038
+WP_017060789.1  MULTISPECIES: NCS2 family permease [Vibrio]           139     7e-038
+WP_060982571.1  NCS2 family permease [Vibrio splendidus]              139     7e-038
+WP_017103887.1  NCS2 family permease [Vibrio tasmaniensis]            139     7e-038
+WP_017056244.1  MULTISPECIES: NCS2 family permease [Vibrio]           139     7e-038
+WP_060468376.1  NCS2 family permease [Vibrio toranzoniae]             139     8e-038
+WP_028498091.1  NCS2 family permease [Microvirgula aerodenitrific...  139     9e-038
+WP_003684325.1  NCS2 family permease [Neisseria flavescens]           139     9e-038
+WP_040667403.1  NCS2 family permease [Neisseria wadsworthii]          139     9e-038
+WP_067594037.1  NCS2 family permease [Eikenella sp. NML02-A-017]      139     1e-037
+WP_049329030.1  MULTISPECIES: NCS2 family permease [Neisseria]        139     1e-037
+WP_050177342.1  NCS2 family permease [Neisseria meningitidis]         139     1e-037
+WP_002642846.1  NCS2 family permease [Simonsiella muelleri]           139     1e-037
+WP_022654815.1  NCS2 family permease [Aquaspirillum serpens]          139     1e-037
+WP_013301330.1  NCS2 family permease [Parvularcula bermudensis]       139     1e-037
+WP_025526303.1  NCS2 family permease [Vibrio parahaemolyticus]        138     1e-037
+WP_062851257.1  NCS2 family permease [Vibrio parahaemolyticus]        138     1e-037
+WP_025524761.1  NCS2 family permease [Vibrio parahaemolyticus]        138     1e-037
+WP_045626361.1  NCS2 family permease [Vibrio parahaemolyticus]        138     1e-037
+WP_029838889.1  NCS2 family permease [Vibrio parahaemolyticus]        138     1e-037
+WP_057619200.1  NCS2 family permease [Vibrio parahaemolyticus]        138     1e-037
+WP_005456001.1  MULTISPECIES: NCS2 family permease [Vibrio]           138     1e-037
+WP_021822842.1  NCS2 family permease [Vibrio parahaemolyticus]        138     1e-037
+WP_045845437.1  MULTISPECIES: NCS2 family permease [Aquitalea]        138     1e-037
+WP_025592815.1  NCS2 family permease [Vibrio parahaemolyticus]        138     1e-037
+WP_049323886.1  MULTISPECIES: NCS2 family permease [Neisseria]        138     1e-037
+WP_053343356.1  NCS2 family permease [Vibrio parahaemolyticus]        138     1e-037
+WP_049333916.1  MULTISPECIES: NCS2 family permease [Neisseria]        138     1e-037
+WP_065302034.1  NCS2 family permease [Vibrio natriegens]              138     1e-037
+WP_065770738.1  NCS2 family permease [Vibrio parahaemolyticus]        138     1e-037
+WP_004519556.1  MULTISPECIES: NCS2 family permease [Neisseria]        138     1e-037
+WP_003748830.1  MULTISPECIES: NCS2 family permease [Neisseria]        138     1e-037
+WP_070646638.1  NCS2 family permease [Neisseria sp. HMSC073G10]       138     2e-037
+WP_077672216.1  guanine permease [Vibrio parahaemolyticus]            138     2e-037
+WP_058966475.1  NCS2 family permease [Vibrio parahaemolyticus]        138     2e-037
+WP_041955794.1  NCS2 family permease [Vibrio parahaemolyticus]        138     2e-037
+WP_014231002.1  MULTISPECIES: NCS2 family permease [Vibrio]           138     2e-037
+WP_062906687.1  NCS2 family permease [Vibrio parahaemolyticus]        138     2e-037
+WP_029849658.1  NCS2 family permease [Vibrio parahaemolyticus]        138     2e-037
+WP_070713519.1  NCS2 family permease [Neisseria sp. HMSC075C10]       138     2e-037
+WP_070873646.1  NCS2 family permease [Neisseria sp. HMSC078H04]       138     2e-037
+WP_070843588.1  NCS2 family permease [Neisseria sp. HMSC070H10]       138     2e-037
+WP_070607016.1  MULTISPECIES: NCS2 family permease [Neisseria]        138     2e-037
+WP_063076681.1  NCS2 family permease [Neisseria flavescens]           138     2e-037
+WP_049348258.1  MULTISPECIES: NCS2 family permease [Neisseria]        138     2e-037
+WP_009844091.1  NCS2 family permease [Vibrio sp. AND4]                138     2e-037
+WP_070814918.1  MULTISPECIES: NCS2 family permease [Neisseria]        138     2e-037
+WP_049344897.1  MULTISPECIES: NCS2 family permease [Neisseria]        138     2e-037
+WP_025793338.1  NCS2 family permease [Vibrio parahaemolyticus]        138     2e-037
+WP_059284933.1  NCS2 family permease [Aquitalea magnusonii]           138     2e-037
+WP_054618715.1  NCS2 family permease [Neisseria sp. 83E34]            138     2e-037
+WP_003680902.1  NCS2 family permease [Neisseria flavescens]           138     2e-037
+WP_054284503.1  MULTISPECIES: NCS2 family permease [Gulbenkiania]     138     2e-037
+WP_043046097.1  NCS2 family permease [Vibrio parahaemolyticus]        138     2e-037
+WP_070584805.1  NCS2 family permease [Neisseria sp. HMSC072C05]       138     2e-037
+WP_049352523.1  MULTISPECIES: NCS2 family permease [Neisseria]        138     2e-037
+WP_038183408.1  NCS2 family permease [Vibrio rhizosphaerae]           138     2e-037
+WP_070460344.1  NCS2 family permease [Neisseria sp. HMSC15G01]        138     2e-037
+WP_017051703.1  NCS2 family permease [Vibrio genomosp. F6]            138     2e-037
+WP_003797754.1  NCS2 family permease [Kingella oralis]                138     2e-037
+WP_053937965.1  NCS2 family permease [Amantichitinum ursilacus]       137     2e-037
+WP_069972444.1  NCS2 family permease [Neisseria meningitidis]         138     2e-037
+WP_029816405.1  NCS2 family permease [Vibrio parahaemolyticus]        137     2e-037
+WP_021709209.1  NCS2 family permease [Vibrio azureus]                 137     3e-037
+WP_031420133.1  NCS2 family permease [Vibrio parahaemolyticus]        137     3e-037
+WP_043028483.1  NCS2 family permease [Vibrio parahaemolyticus]        138     3e-037
+WP_075110787.1  NCS2 family permease [Vibrio parahaemolyticus]        137     3e-037
+WP_034291934.1  NCS2 family permease [Alysiella crassa]               137     3e-037
+WP_012695942.1  NCS2 family permease [Laribacter hongkongensis]       137     3e-037
+WP_019103867.1  NCS2 family permease [Chromobacterium sp. C-61]       137     4e-037
+WP_072335970.1  NCS2 family permease [Thermoactinomyces sp. DSM 4...  137     4e-037
+WP_048414232.1  NCS2 family permease [Chromobacterium sp. LK11]       137     4e-037
+WP_043591301.1  NCS2 family permease [Chromobacterium haemolyticum]   137     5e-037
+WP_068696319.1  MULTISPECIES: NCS2 family permease [Vibrio]           137     5e-037
+WP_021705862.1  NCS2 family permease [Vibrio proteolyticus]           137     5e-037
+WP_038309332.1  NCS2 family permease [Kingella kingae]                137     5e-037
+WP_048409593.1  NCS2 family permease [Chromobacterium sp. LK1]        137     5e-037
+WP_055438105.1  NCS2 family permease [Idiomarina woesei]              137     5e-037
+WP_046166447.1  NCS2 family permease [Chromobacterium vaccinii]       137     5e-037
+WP_032133661.1  NCS2 family permease [Kingella kingae]                137     5e-037
+WP_021478752.1  MULTISPECIES: NCS2 family permease [Chromobacteri...  137     5e-037
+WP_043578744.1  MULTISPECIES: NCS2 family permease [Chromobacterium]  137     6e-037
+WP_032136973.1  NCS2 family permease [Kingella sp. Sch538]            137     6e-037
+WP_047010160.1  MULTISPECIES: NCS2 family permease [Vibrio harvey...  136     7e-037
+WP_006741838.1  MULTISPECIES: NCS2 family permease [Vibrio harvey...  136     7e-037
+WP_038315959.1  NCS2 family permease [Kingella kingae]                137     7e-037
+WP_042949380.1  NCS2 family permease [Kingella kingae]                137     7e-037
+WP_038309913.1  NCS2 family permease [Kingella kingae]                137     7e-037
+WP_069530247.1  NCS2 family permease [Vibrio parahaemolyticus]        136     7e-037
+WP_053302993.1  NCS2 family permease [Vibrio alginolyticus]           136     7e-037
+WP_084090825.1  guanine permease [Andreprevotia lacus]                136     7e-037
+WP_005381592.1  MULTISPECIES: NCS2 family permease [Vibrio]           136     7e-037
+WP_038303542.1  NCS2 family permease [Kingella kingae]                137     8e-037
+WP_038328811.1  NCS2 family permease [Kingella kingae]                137     8e-037
+WP_038317258.1  NCS2 family permease [Kingella kingae]                137     8e-037
+WP_019389110.1  NCS2 family permease [Kingella kingae]                137     8e-037
+WP_071113169.1  NCS2 family permease [Chromobacterium sp. 14B-1]      136     8e-037
+WP_042933405.1  NCS2 family permease [Kingella kingae]                137     8e-037
+WP_081571947.1  guanine permease [Chromobacterium violaceum]          136     8e-037
+WP_071109151.1  NCS2 family permease [Chromobacterium amazonense]     136     8e-037
+WP_071115417.1  NCS2 family permease [Chromobacterium sp. 37-2]       136     9e-037
+WP_043621772.1  NCS2 family permease [Chromobacterium piscinae]       136     9e-037
+WP_005424863.1  MULTISPECIES: NCS2 family permease [Vibrio harvey...  136     9e-037
+WP_010446297.1  NCS2 family permease [Vibrio rotiferianus]            136     9e-037
+WP_034728966.1  NCS2 family permease [Idiomarina atlantica]           136     9e-037
+WP_043612556.1  MULTISPECIES: NCS2 family permease [Chromobacterium]  136     9e-037
+WP_038886921.1  NCS2 family permease [Vibrio rotiferianus]            136     9e-037
+WP_011137318.1  NCS2 family permease [Chromobacterium violaceum]      136     9e-037
+WP_009117865.1  NCS2 family permease [Neisseria shayeganii]           136     1e-036
+WP_020196449.1  NCS2 family permease [Vibrio owensii]                 136     1e-036
+WP_061065641.1  NCS2 family permease [Vibrio harveyi]                 136     1e-036
+WP_005440204.1  MULTISPECIES: NCS2 family permease [Vibrio]           136     1e-036
+WP_072599154.1  NCS2 family permease [Vibrio vulnificus]              128     1e-036
+WP_005447607.1  MULTISPECIES: NCS2 family permease [Vibrio]           136     1e-036
+WP_038865443.1  MULTISPECIES: NCS2 family permease [Vibrio]           136     1e-036
+WP_080619510.1  guanine permease [Vibrio campbellii]                  135     1e-036
+WP_074371711.1  NCS2 family permease [Vibrio sp. CECT 9026]           136     1e-036
+WP_038319926.1  NCS2 family permease [Kingella kingae]                136     1e-036
+WP_073602520.1  NCS2 family permease [Vibrio aerogenes]               136     1e-036
+WP_038314975.1  NCS2 family permease [Kingella kingae]                136     1e-036
+WP_038863457.1  NCS2 family permease [Vibrio campbellii]              136     1e-036
+WP_003790090.1  NCS2 family permease [Kingella kingae]                136     1e-036
+WP_038310916.1  NCS2 family permease [Kingella kingae]                136     1e-036
+WP_072956217.1  NCS2 family permease [Vibrio gazogenes]               135     1e-036
+WP_059121433.1  NCS2 family permease [Vibrio sp. MEBiC08052]          135     1e-036
+WP_003786095.1  NCS2 family permease [Kingella kingae]                136     1e-036
+WP_038334288.1  NCS2 family permease [Kingella kingae]                136     1e-036
+WP_038335329.1  NCS2 family permease [Kingella kingae]                136     1e-036
+WP_077337751.1  guanine permease [Vibrio ruber]                       135     1e-036
+WP_038306598.1  NCS2 family permease [Kingella kingae]                136     2e-036
+WP_041976884.1  NCS2 family permease [Pseudomonas mendocina]          135     2e-036
+WP_017361361.1  NCS2 family permease [Pseudomonas mendocina]          135     2e-036
+WP_043637832.1  NCS2 family permease [Chromobacterium haemolyticum]   135     2e-036
+WP_039979741.1  NCS2 family permease [Vibrio sagamiensis]             135     2e-036
+WP_061240548.1  NCS2 family permease [Pseudomonas composti]           135     2e-036
+WP_003781386.1  NCS2 family permease [Kingella denitrificans]         135     2e-036
+WP_074857813.1  NCS2 family permease [Pseudomonas oleovorans]         135     2e-036
+WP_043526353.1  NCS2 family permease [Halomonas xinjiangensis]        135     2e-036
+WP_004424867.1  NCS2 family permease [Pseudomonas pseudoalcaligenes]  135     2e-036
+WP_084340710.1  guanine permease [Pseudomonas pseudoalcaligenes]      135     2e-036
+WP_037025822.1  NCS2 family permease [Pseudomonas saudiphocaensis]    135     2e-036
+WP_070970773.1  NCS2 family permease [Vibrio sonorensis]              135     2e-036
+WP_077754303.1  guanine permease [Shewanella psychrophila]            135     2e-036
+WP_017035047.1  NCS2 family permease [Vibrio genomosp. F10]           135     3e-036
+WP_042480177.1  NCS2 family permease [Vibrio diazotrophicus]          135     3e-036
+WP_077771083.1  guanine permease [Salinivibrio sharmensis]            135     3e-036
+WP_023446849.1  NCS2 family permease [Pseudomonas chloritidismutans]  135     3e-036
+WP_062687959.1  NCS2 family permease [Photobacterium sanguinicancri]  135     3e-036
+WP_053310902.1  NCS2 family permease [Vibrio alginolyticus]           135     3e-036
+WP_003242830.1  NCS2 family permease [Pseudomonas mendocina]          135     3e-036
+WP_013052587.1  NCS2 family permease [Shewanella violacea]            135     3e-036
+WP_053408912.1  NCS2 family permease [Vibrio hepatarius]              134     3e-036
+WP_017028273.1  NCS2 family permease [Vibrio breoganii]               135     3e-036
+WP_009870377.1  NCS2 family permease [Magnetospirillum magnetotac...  135     3e-036
+WP_013714070.1  NCS2 family permease [Pseudomonas mendocina]          134     4e-036
+WP_005499969.1  NCS2 family permease [Shewanella benthica]            134     4e-036
+WP_020911364.1  NCS2 family permease [Shewanella piezotolerans]       134     4e-036
+WP_021131654.1  NCS2 family permease [Phaeospirillum fulvum]          134     4e-036
+WP_027289087.1  NCS2 family permease [Rhodovibrio salinarum]          134     4e-036
+WP_015278161.1  NCS2 family permease [Pseudomonas stutzeri]           134     4e-036
+WP_012143751.1  NCS2 family permease [Shewanella sediminis]           134     5e-036
+WP_035051526.1  NCS2 family permease [Andreprevotia chitinilytica]    134     5e-036
+WP_033537383.1  NCS2 family permease [Shewanella sp. ECSMB14101]      134     5e-036
+WP_038657099.1  NCS2 family permease [Pseudomonas stutzeri]           134     5e-036
+WP_041509086.1  NCS2 family permease [Shewanella sp. cp20]            134     5e-036
+WP_041014910.1  MULTISPECIES: NCS2 family permease [Pseudomonas s...  134     5e-036
+WP_076412871.1  guanine permease [Shewanella sp. UCD-KL12]            134     5e-036
+WP_011866646.1  NCS2 family permease [Shewanella loihica]             134     5e-036
+WP_058063813.1  NCS2 family permease [Pseudomonas sp. TTU2014-105...  134     5e-036
+WP_012156305.1  NCS2 family permease [Shewanella pealeana]            134     5e-036
+WP_046617847.1  NCS2 family permease [Pseudomonas stutzeri]           134     5e-036
+WP_003281640.1  NCS2 family permease [Pseudomonas stutzeri]           134     5e-036
+WP_003302078.1  NCS2 family permease [Pseudomonas stutzeri]           134     5e-036
+WP_085373798.1  guanine permease [Magnetospirillum sp. ME-1]          134     5e-036
+WP_028769163.1  NCS2 family permease [Shewanella fidelis]             134     5e-036
+WP_012278241.1  NCS2 family permease [Shewanella halifaxensis]        134     5e-036
+WP_011636439.1  NCS2 family permease [Shewanella frigidimarina]       134     6e-036
+WP_073585925.1  NCS2 family permease [Vibrio quintilis]               134     6e-036
+WP_004415291.1  NCS2 family permease [Vibrio orientalis]              134     6e-036
+WP_028454782.1  NCS2 family permease [Chitinilyticum litopenaei]      134     6e-036
+WP_059746492.1  NCS2 family permease [Shewanella frigidimarina]       134     6e-036
+WP_002542332.1  MULTISPECIES: NCS2 family permease [Grimontia]        134     6e-036
+WP_025164435.1  NCS2 family permease [Pseudomonas taeanensis]         134     6e-036
+WP_006955254.1  NCS2 family permease [Idiomarina baltica]             134     7e-036
+WP_068429533.1  NCS2 family permease [Magnetospirillum sp. XM-1]      134     7e-036
+WP_062708525.1  NCS2 family permease [Grimontia marina]               134     7e-036
+WP_034820332.1  NCS2 family permease [Idiomarina sp. 28-8]            134     7e-036
+WP_071463629.1  NCS2 family permease [Idiomarina sp. MD25a]           134     8e-036
+WP_014821478.1  NCS2 family permease [Pseudomonas stutzeri]           134     8e-036
+WP_045591700.1  NCS2 family permease [Vibrio vulnificus]              134     8e-036
+WP_018749065.1  NCS2 family permease [Chitiniphilus shinanonensis]    134     8e-036
+WP_021210018.1  NCS2 family permease [Pseudomonas stutzeri]           134     8e-036
+WP_061058302.1  NCS2 family permease [Vibrio vulnificus]              134     8e-036
+WP_047967780.1  NCS2 family permease [Vogesella sp. EB]               134     8e-036
+WP_011078434.1  MULTISPECIES: NCS2 family permease [Vibrio]           134     9e-036
+WP_028537122.1  NCS2 family permease [Paludibacterium yongneupense]   134     9e-036
+WP_021712106.1  NCS2 family permease [Vibrio ezurae]                  134     9e-036
+WP_054249703.1  NCS2 family permease [Vibrio cholerae]                132     9e-036
+WP_076542805.1  guanine permease [Shewanella sp. UCD-KL21]            133     1e-035
+WP_016415343.1  NCS2 family permease [Halomonas anticariensis]        134     1e-035
+WP_024304005.1  NCS2 family permease [Pseudogulbenkiania sp. MAI-1]   133     1e-035
+WP_076586450.1  guanine permease [Vibrio ostreicida]                  133     1e-035
+WP_016353480.1  NCS2 family permease [Spiribacter salinus]            133     1e-035
+WP_054488239.1  NCS2 family permease [Idiomarina abyssalis]           133     1e-035
+WP_065741272.1  NCS2 family permease [Vibrio coralliilyticus]         133     1e-035
+WP_046353008.1  NCS2 family permease [Janthinobacterium sp. B9-8]     133     1e-035
+WP_013981822.1  NCS2 family permease [Pseudomonas stutzeri]           133     1e-035
+WP_075649532.1  guanine permease [Vibrio ponticus]                    133     1e-035
+WP_014611172.1  NCS2 family permease [Shewanella putrefaciens]        133     1e-035
+WP_023403854.1  NCS2 family permease [Vibrio halioticoli]             133     1e-035
+WP_045961689.1  NCS2 family permease [Vibrio nigripulchritudo]        133     1e-035
+WP_053527325.1  NCS2 family permease [Pseudomonas stutzeri]           133     1e-035
+WP_004744888.1  NCS2 family permease [Vibrio tubiashii]               133     1e-035
+WP_038203527.1  NCS2 family permease [Vibrio tubiashii]               133     1e-035
+WP_006957929.1  MULTISPECIES: NCS2 family permease [Vibrio]           133     1e-035
+WP_011788346.1  MULTISPECIES: NCS2 family permease [Shewanella]       133     1e-035
+WP_063544223.1  NCS2 family permease [Pseudomonas stutzeri]           133     1e-035
+
+
+>WP_023270284.1 NCS2 family permease, partial [Acinetobacter gyllenbergii]
+Length=324
+
+ Score = 172 bits (437),  Expect = 9e-052, Method: Compositional matrix adjust.
+ Identities = 84/86 (98%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVFVSG+VFLAI
+Sbjct  98   VCLGMGVPWQTALAAVFVSGLVFLAI  123
+
+
+>WP_032011692.1 MULTISPECIES: NCS2 family permease [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=439
+
+ Score = 174 bits (440),  Expect = 4e-051, Method: Compositional matrix adjust.
+ Identities = 86/86 (100%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSGVVFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGVVFLAI  123
+
+
+>WP_031991137.1 NCS2 family permease [Acinetobacter baumannii]
+Length=435
+
+ Score = 174 bits (440),  Expect = 4e-051, Method: Compositional matrix adjust.
+ Identities = 86/86 (100%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  34   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  93
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSGVVFLAI
+Sbjct  94   VCMGMGVPWQTALAAVFVSGVVFLAI  119
+
+
+>WP_049083053.1 NCS2 family permease [Acinetobacter nosocomialis]
+Length=439
+
+ Score = 174 bits (440),  Expect = 5e-051, Method: Compositional matrix adjust.
+ Identities = 86/86 (100%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSGVVFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGVVFLAI  123
+
+
+>WP_020752967.1 NCS2 family permease [Acinetobacter baumannii]
+Length=439
+
+ Score = 174 bits (440),  Expect = 5e-051, Method: Compositional matrix adjust.
+ Identities = 86/86 (100%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSGVVFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGVVFLAI  123
+
+
+>WP_004888055.1 MULTISPECIES: NCS2 family permease [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=439
+
+ Score = 174 bits (440),  Expect = 5e-051, Method: Compositional matrix adjust.
+ Identities = 86/86 (100%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSGVVFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGVVFLAI  123
+
+
+>WP_079548339.1 NCS2 family permease [Acinetobacter calcoaceticus]
+Length=439
+
+ Score = 174 bits (440),  Expect = 5e-051, Method: Compositional matrix adjust.
+ Identities = 86/86 (100%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSGVVFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGVVFLAI  123
+
+
+>WP_031950297.1 NCS2 family permease [Acinetobacter baumannii]
+Length=439
+
+ Score = 174 bits (440),  Expect = 5e-051, Method: Compositional matrix adjust.
+ Identities = 86/86 (100%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSGVVFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGVVFLAI  123
+
+
+>WP_004709861.1 MULTISPECIES: NCS2 family permease [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=439
+
+ Score = 174 bits (440),  Expect = 5e-051, Method: Compositional matrix adjust.
+ Identities = 86/86 (100%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSGVVFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGVVFLAI  123
+
+
+>WP_031988401.1 NCS2 family permease [Acinetobacter baumannii]
+Length=439
+
+ Score = 174 bits (440),  Expect = 5e-051, Method: Compositional matrix adjust.
+ Identities = 86/86 (100%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSGVVFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGVVFLAI  123
+
+
+>WP_031973408.1 NCS2 family permease [Acinetobacter baumannii]
+Length=439
+
+ Score = 174 bits (440),  Expect = 5e-051, Method: Compositional matrix adjust.
+ Identities = 86/86 (100%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSGVVFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGVVFLAI  123
+
+
+>WP_031957911.1 NCS2 family permease [Acinetobacter baumannii]
+Length=439
+
+ Score = 174 bits (440),  Expect = 5e-051, Method: Compositional matrix adjust.
+ Identities = 86/86 (100%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSGVVFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGVVFLAI  123
+
+
+>WP_000729979.1 NCS2 family permease [Acinetobacter baumannii]
+Length=439
+
+ Score = 174 bits (440),  Expect = 5e-051, Method: Compositional matrix adjust.
+ Identities = 86/86 (100%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSGVVFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGVVFLAI  123
+
+
+>WP_000729980.1 MULTISPECIES: NCS2 family permease [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=439
+
+ Score = 174 bits (440),  Expect = 5e-051, Method: Compositional matrix adjust.
+ Identities = 86/86 (100%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSGVVFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGVVFLAI  123
+
+
+>WP_039264959.1 NCS2 family permease [Acinetobacter baumannii]
+Length=439
+
+ Score = 174 bits (440),  Expect = 5e-051, Method: Compositional matrix adjust.
+ Identities = 86/86 (100%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSGVVFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGVVFLAI  123
+
+
+>WP_032021233.1 NCS2 family permease [Acinetobacter baumannii]
+Length=439
+
+ Score = 174 bits (440),  Expect = 5e-051, Method: Compositional matrix adjust.
+ Identities = 86/86 (100%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSGVVFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGVVFLAI  123
+
+
+>WP_065717935.1 NCS2 family permease [Acinetobacter baumannii]
+Length=439
+
+ Score = 174 bits (440),  Expect = 5e-051, Method: Compositional matrix adjust.
+ Identities = 86/86 (100%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSGVVFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGVVFLAI  123
+
+
+>WP_032025779.1 NCS2 family permease [Acinetobacter baumannii]
+Length=439
+
+ Score = 174 bits (440),  Expect = 5e-051, Method: Compositional matrix adjust.
+ Identities = 86/86 (100%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSGVVFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGVVFLAI  123
+
+
+>WP_017897542.1 NCS2 family permease [Acinetobacter baumannii]
+Length=439
+
+ Score = 174 bits (440),  Expect = 5e-051, Method: Compositional matrix adjust.
+ Identities = 86/86 (100%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSGVVFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGVVFLAI  123
+
+
+>WP_002156845.1 MULTISPECIES: NCS2 family permease [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=439
+
+ Score = 174 bits (440),  Expect = 5e-051, Method: Compositional matrix adjust.
+ Identities = 86/86 (100%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSGVVFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGVVFLAI  123
+
+
+>WP_000729978.1 NCS2 family permease [Acinetobacter baumannii]
+Length=439
+
+ Score = 174 bits (440),  Expect = 5e-051, Method: Compositional matrix adjust.
+ Identities = 86/86 (100%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSGVVFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGVVFLAI  123
+
+
+>WP_032016902.1 NCS2 family permease [Acinetobacter baumannii]
+Length=439
+
+ Score = 174 bits (440),  Expect = 5e-051, Method: Compositional matrix adjust.
+ Identities = 86/86 (100%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSGVVFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGVVFLAI  123
+
+
+>WP_032007637.1 NCS2 family permease [Acinetobacter baumannii]
+Length=439
+
+ Score = 173 bits (439),  Expect = 5e-051, Method: Compositional matrix adjust.
+ Identities = 86/86 (100%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSGVVFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGVVFLAI  123
+
+
+>WP_039207463.1 NCS2 family permease [Acinetobacter baumannii]
+Length=439
+
+ Score = 173 bits (439),  Expect = 5e-051, Method: Compositional matrix adjust.
+ Identities = 86/86 (100%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSGVVFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGVVFLAI  123
+
+
+>WP_031987022.1 NCS2 family permease [Acinetobacter baumannii]
+Length=439
+
+ Score = 173 bits (439),  Expect = 5e-051, Method: Compositional matrix adjust.
+ Identities = 86/86 (100%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSGVVFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGVVFLAI  123
+
+
+>WP_031972776.1 NCS2 family permease [Acinetobacter baumannii]
+Length=439
+
+ Score = 173 bits (439),  Expect = 5e-051, Method: Compositional matrix adjust.
+ Identities = 86/86 (100%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSGVVFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGVVFLAI  123
+
+
+>WP_086263497.1 guanine permease [Acinetobacter baumannii]
+Length=439
+
+ Score = 173 bits (439),  Expect = 6e-051, Method: Compositional matrix adjust.
+ Identities = 86/86 (100%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSGVVFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGVVFLAI  123
+
+
+>WP_031990544.1 NCS2 family permease [Acinetobacter baumannii]
+Length=439
+
+ Score = 173 bits (439),  Expect = 6e-051, Method: Compositional matrix adjust.
+ Identities = 86/86 (100%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSGVVFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGVVFLAI  123
+
+
+>WP_000729974.1 NCS2 family permease [Acinetobacter baumannii]
+Length=439
+
+ Score = 173 bits (439),  Expect = 6e-051, Method: Compositional matrix adjust.
+ Identities = 86/86 (100%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSGVVFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGVVFLAI  123
+
+
+>WP_000729977.1 NCS2 family permease [Acinetobacter baumannii]
+Length=439
+
+ Score = 173 bits (439),  Expect = 6e-051, Method: Compositional matrix adjust.
+ Identities = 86/86 (100%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSGVVFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGVVFLAI  123
+
+
+>WP_000729975.1 NCS2 family permease [Acinetobacter baumannii]
+Length=439
+
+ Score = 173 bits (439),  Expect = 6e-051, Method: Compositional matrix adjust.
+ Identities = 86/86 (100%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSGVVFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGVVFLAI  123
+
+
+>WP_031955992.1 NCS2 family permease [Acinetobacter baumannii]
+Length=439
+
+ Score = 173 bits (439),  Expect = 6e-051, Method: Compositional matrix adjust.
+ Identities = 86/86 (100%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSGVVFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGVVFLAI  123
+
+
+>WP_031963135.1 NCS2 family permease [Acinetobacter baumannii]
+Length=439
+
+ Score = 173 bits (439),  Expect = 6e-051, Method: Compositional matrix adjust.
+ Identities = 86/86 (100%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSGVVFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGVVFLAI  123
+
+
+>WP_038343643.1 NCS2 family permease [Acinetobacter baumannii]
+Length=439
+
+ Score = 173 bits (439),  Expect = 6e-051, Method: Compositional matrix adjust.
+ Identities = 86/86 (100%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSGVVFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGVVFLAI  123
+
+
+>WP_032046650.1 NCS2 family permease [Acinetobacter baumannii]
+Length=439
+
+ Score = 173 bits (439),  Expect = 6e-051, Method: Compositional matrix adjust.
+ Identities = 86/86 (100%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSGVVFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGVVFLAI  123
+
+
+>WP_000729981.1 NCS2 family permease [Acinetobacter baumannii]
+Length=439
+
+ Score = 173 bits (439),  Expect = 6e-051, Method: Compositional matrix adjust.
+ Identities = 86/86 (100%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSGVVFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGVVFLAI  123
+
+
+>WP_046128175.1 NCS2 family permease [Acinetobacter baumannii]
+Length=439
+
+ Score = 173 bits (439),  Expect = 6e-051, Method: Compositional matrix adjust.
+ Identities = 86/86 (100%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSGVVFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGVVFLAI  123
+
+
+>WP_032027412.1 NCS2 family permease [Acinetobacter baumannii]
+Length=439
+
+ Score = 173 bits (439),  Expect = 6e-051, Method: Compositional matrix adjust.
+ Identities = 86/86 (100%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSGVVFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGVVFLAI  123
+
+
+>WP_071225454.1 NCS2 family permease [Acinetobacter baumannii]
+Length=439
+
+ Score = 173 bits (439),  Expect = 7e-051, Method: Compositional matrix adjust.
+ Identities = 86/86 (100%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSGVVFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGVVFLAI  123
+
+
+>WP_068935881.1 NCS2 family permease [Acinetobacter seifertii]
+Length=439
+
+ Score = 173 bits (439),  Expect = 7e-051, Method: Compositional matrix adjust.
+ Identities = 85/86 (99%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSG+VFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGIVFLAI  123
+
+
+>WP_004702799.1 MULTISPECIES: NCS2 family permease [Acinetobacter]
+Length=439
+
+ Score = 173 bits (439),  Expect = 7e-051, Method: Compositional matrix adjust.
+ Identities = 85/86 (99%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSG+VFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGIVFLAI  123
+
+
+>WP_049065623.1 NCS2 family permease [Acinetobacter seifertii]
+Length=439
+
+ Score = 173 bits (438),  Expect = 8e-051, Method: Compositional matrix adjust.
+ Identities = 85/86 (99%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSG+VFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGIVFLAI  123
+
+
+>WP_004736100.1 NCS2 family permease [Acinetobacter baumannii]
+Length=439
+
+ Score = 173 bits (438),  Expect = 8e-051, Method: Compositional matrix adjust.
+ Identities = 85/86 (99%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSGV+FLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGVIFLAI  123
+
+
+>WP_042897881.1 MULTISPECIES: NCS2 family permease [Acinetobacter]
+Length=439
+
+ Score = 172 bits (437),  Expect = 1e-050, Method: Compositional matrix adjust.
+ Identities = 85/86 (99%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSG+VFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGLVFLAI  123
+
+
+>WP_002163170.1 MULTISPECIES: NCS2 family permease [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=439
+
+ Score = 172 bits (437),  Expect = 1e-050, Method: Compositional matrix adjust.
+ Identities = 85/86 (99%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSG+VFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGLVFLAI  123
+
+
+>WP_003652707.1 MULTISPECIES: NCS2 family permease [Acinetobacter]
+Length=439
+
+ Score = 172 bits (437),  Expect = 1e-050, Method: Compositional matrix adjust.
+ Identities = 85/86 (99%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSG+VFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGLVFLAI  123
+
+
+>WP_086221526.1 guanine permease [Acinetobacter baumannii]
+Length=439
+
+ Score = 172 bits (437),  Expect = 1e-050, Method: Compositional matrix adjust.
+ Identities = 85/86 (99%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLIL+ETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILTETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSGVVFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGVVFLAI  123
+
+
+>WP_086376849.1 guanine permease [Acinetobacter pittii]
+Length=439
+
+ Score = 172 bits (437),  Expect = 1e-050, Method: Compositional matrix adjust.
+ Identities = 85/86 (99%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSG+VFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGLVFLAI  123
+
+
+>WP_032004036.1 NCS2 family permease [Acinetobacter sp. 1542444]
+Length=439
+
+ Score = 172 bits (437),  Expect = 1e-050, Method: Compositional matrix adjust.
+ Identities = 85/86 (99%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSG+VFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGLVFLAI  123
+
+
+>WP_068570811.1 NCS2 family permease [Acinetobacter pittii]
+Length=439
+
+ Score = 172 bits (437),  Expect = 1e-050, Method: Compositional matrix adjust.
+ Identities = 85/86 (99%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSG+VFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGLVFLAI  123
+
+
+>WP_017389117.1 NCS2 family permease [Acinetobacter calcoaceticus]
+Length=439
+
+ Score = 172 bits (437),  Expect = 1e-050, Method: Compositional matrix adjust.
+ Identities = 85/86 (99%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSG+VFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGLVFLAI  123
+
+
+>WP_057106222.1 MULTISPECIES: NCS2 family permease [Acinetobacter]
+Length=439
+
+ Score = 172 bits (437),  Expect = 1e-050, Method: Compositional matrix adjust.
+ Identities = 85/86 (99%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSG+VFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGLVFLAI  123
+
+
+>WP_005070381.1 MULTISPECIES: NCS2 family permease [Acinetobacter]
+ YP_004994687.1 putative transporter [Acinetobacter pittii PHEA-2]
+Length=439
+
+ Score = 172 bits (437),  Expect = 1e-050, Method: Compositional matrix adjust.
+ Identities = 85/86 (99%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSG+VFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGLVFLAI  123
+
+
+>WP_071209881.1 NCS2 family permease [Acinetobacter baumannii]
+Length=439
+
+ Score = 172 bits (437),  Expect = 1e-050, Method: Compositional matrix adjust.
+ Identities = 85/86 (99%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSG+VFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGLVFLAI  123
+
+
+>WP_032063653.1 NCS2 family permease [Acinetobacter sp. 809848]
+Length=439
+
+ Score = 172 bits (437),  Expect = 1e-050, Method: Compositional matrix adjust.
+ Identities = 85/86 (99%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSG+VFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGLVFLAI  123
+
+
+>WP_005299287.1 NCS2 family permease [Acinetobacter sp. NIPH 542]
+Length=439
+
+ Score = 172 bits (437),  Expect = 1e-050, Method: Compositional matrix adjust.
+ Identities = 85/86 (99%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSG+VFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGLVFLAI  123
+
+
+>WP_004793782.1 MULTISPECIES: NCS2 family permease [Acinetobacter]
+Length=439
+
+ Score = 172 bits (437),  Expect = 2e-050, Method: Compositional matrix adjust.
+ Identities = 85/86 (99%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSG+VFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGLVFLAI  123
+
+
+>WP_069141079.1 NCS2 family permease [Acinetobacter pittii]
+Length=439
+
+ Score = 172 bits (436),  Expect = 2e-050, Method: Compositional matrix adjust.
+ Identities = 85/86 (99%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSG+VFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGLVFLAI  123
+
+
+>WP_016141776.1 NCS2 family permease [Acinetobacter pittii]
+Length=439
+
+ Score = 172 bits (436),  Expect = 2e-050, Method: Compositional matrix adjust.
+ Identities = 85/86 (99%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSG+VFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGLVFLAI  123
+
+
+>WP_009387763.1 MULTISPECIES: NCS2 family permease [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=439
+
+ Score = 172 bits (436),  Expect = 2e-050, Method: Compositional matrix adjust.
+ Identities = 85/86 (99%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSG+VFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGLVFLAI  123
+
+
+>WP_016138799.1 NCS2 family permease [Acinetobacter calcoaceticus]
+Length=439
+
+ Score = 172 bits (436),  Expect = 2e-050, Method: Compositional matrix adjust.
+ Identities = 85/86 (99%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSG+VFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGLVFLAI  123
+
+
+>WP_016652072.1 NCS2 family permease [Acinetobacter sp. NIPH 2036]
+Length=439
+
+ Score = 172 bits (436),  Expect = 2e-050, Method: Compositional matrix adjust.
+ Identities = 84/86 (98%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVFVSG+VFLAI
+Sbjct  98   VCLGMGVPWQTALAAVFVSGIVFLAI  123
+
+
+>WP_009514810.1 NCS2 family permease [Acinetobacter sp. WC-323]
+Length=439
+
+ Score = 172 bits (435),  Expect = 2e-050, Method: Compositional matrix adjust.
+ Identities = 83/86 (97%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVFVSG++FLAI
+Sbjct  98   VCLGMGVPWQTALAAVFVSGIIFLAI  123
+
+
+>WP_005229589.1 MULTISPECIES: NCS2 family permease [Acinetobacter]
+Length=439
+
+ Score = 172 bits (435),  Expect = 3e-050, Method: Compositional matrix adjust.
+ Identities = 83/86 (97%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVFVSG++FLAI
+Sbjct  98   VCLGMGVPWQTALAAVFVSGIIFLAI  123
+
+
+>WP_077168190.1 guanine permease [Acinetobacter genomosp. 33YU]
+Length=439
+
+ Score = 172 bits (435),  Expect = 3e-050, Method: Compositional matrix adjust.
+ Identities = 84/86 (98%), Positives = 85/86 (99%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAA IGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAATIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSG+VFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGIVFLAI  123
+
+
+>WP_004771558.1 MULTISPECIES: NCS2 family permease [Acinetobacter]
+Length=439
+
+ Score = 172 bits (435),  Expect = 3e-050, Method: Compositional matrix adjust.
+ Identities = 83/86 (97%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVFVSG++FLAI
+Sbjct  98   VCLGMGVPWQTALAAVFVSGIIFLAI  123
+
+
+>WP_005242399.1 MULTISPECIES: NCS2 family permease [Acinetobacter]
+Length=439
+
+ Score = 172 bits (435),  Expect = 3e-050, Method: Compositional matrix adjust.
+ Identities = 83/86 (97%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVFVSG++FLAI
+Sbjct  98   VCLGMGVPWQTALAAVFVSGIIFLAI  123
+
+
+>WP_005054709.1 NCS2 family permease [Acinetobacter beijerinckii]
+Length=439
+
+ Score = 171 bits (434),  Expect = 3e-050, Method: Compositional matrix adjust.
+ Identities = 84/86 (98%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVFVSG+VFLAI
+Sbjct  98   VCLGMGVPWQTALAAVFVSGLVFLAI  123
+
+
+>WP_005062439.1 NCS2 family permease [Acinetobacter beijerinckii]
+Length=439
+
+ Score = 171 bits (434),  Expect = 3e-050, Method: Compositional matrix adjust.
+ Identities = 84/86 (98%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVFVSG+VFLAI
+Sbjct  98   VCLGMGVPWQTALAAVFVSGLVFLAI  123
+
+
+>WP_038345445.1 NCS2 family permease [Acinetobacter sp. A47]
+Length=439
+
+ Score = 171 bits (434),  Expect = 4e-050, Method: Compositional matrix adjust.
+ Identities = 83/86 (97%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVFVSG++FLAI
+Sbjct  98   VCLGMGVPWQTALAAVFVSGIIFLAI  123
+
+
+>WP_016164192.1 NCS2 family permease [Acinetobacter sp. CIP 110321]
+Length=439
+
+ Score = 171 bits (434),  Expect = 4e-050, Method: Compositional matrix adjust.
+ Identities = 84/86 (98%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVFVSG+VFLAI
+Sbjct  98   VCLGMGVPWQTALAAVFVSGLVFLAI  123
+
+
+>WP_004654459.1 MULTISPECIES: NCS2 family permease [Acinetobacter]
+Length=439
+
+ Score = 171 bits (434),  Expect = 4e-050, Method: Compositional matrix adjust.
+ Identities = 84/86 (98%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVFVSG+VFLAI
+Sbjct  98   VCLGMGVPWQTALAAVFVSGLVFLAI  123
+
+
+>WP_004805960.1 MULTISPECIES: NCS2 family permease [Acinetobacter]
+Length=439
+
+ Score = 171 bits (434),  Expect = 4e-050, Method: Compositional matrix adjust.
+ Identities = 84/86 (98%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVFVSG+VFLAI
+Sbjct  98   VCLGMGVPWQTALAAVFVSGLVFLAI  123
+
+
+>WP_016540952.1 NCS2 family permease [Acinetobacter gyllenbergii]
+Length=439
+
+ Score = 171 bits (434),  Expect = 4e-050, Method: Compositional matrix adjust.
+ Identities = 84/86 (98%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVFVSG+VFLAI
+Sbjct  98   VCLGMGVPWQTALAAVFVSGLVFLAI  123
+
+
+>WP_005189822.1 MULTISPECIES: NCS2 family permease [Acinetobacter]
+Length=439
+
+ Score = 171 bits (434),  Expect = 4e-050, Method: Compositional matrix adjust.
+ Identities = 84/86 (98%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVFVSG+VFLAI
+Sbjct  98   VCLGMGVPWQTALAAVFVSGLVFLAI  123
+
+
+>WP_068563238.1 NCS2 family permease [Acinetobacter pittii]
+Length=439
+
+ Score = 171 bits (433),  Expect = 5e-050, Method: Compositional matrix adjust.
+ Identities = 84/86 (98%), Positives = 85/86 (99%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSG+VFL I
+Sbjct  98   VCMGMGVPWQTALAAVFVSGLVFLTI  123
+
+
+>WP_018678143.1 NCS2 family permease [Acinetobacter tjernbergiae]
+Length=439
+
+ Score = 171 bits (432),  Expect = 6e-050, Method: Compositional matrix adjust.
+ Identities = 83/86 (97%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGI+ANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIVANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVFVSG+VFLAI
+Sbjct  98   VCLGMGVPWQTALAAVFVSGLVFLAI  123
+
+
+>WP_004799420.1 NCS2 family permease [Acinetobacter sp. CIP 102637]
+Length=439
+
+ Score = 171 bits (432),  Expect = 6e-050, Method: Compositional matrix adjust.
+ Identities = 82/86 (95%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMG++ANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGLVANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVFVSG+VFLAI
+Sbjct  98   VCLGMGVPWQTALAAVFVSGIVFLAI  123
+
+
+>WP_004878594.1 MULTISPECIES: NCS2 family permease [Acinetobacter]
+Length=439
+
+ Score = 171 bits (432),  Expect = 6e-050, Method: Compositional matrix adjust.
+ Identities = 83/86 (97%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGI+ANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIVANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVFVSG+VFLAI
+Sbjct  98   VCLGMGVPWQTALAAVFVSGLVFLAI  123
+
+
+>WP_016166588.1 NCS2 family permease [Acinetobacter tandoii]
+Length=440
+
+ Score = 171 bits (432),  Expect = 7e-050, Method: Compositional matrix adjust.
+ Identities = 83/86 (97%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  39   MCYIIIVNPMILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  98
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSG+VF+AI
+Sbjct  99   VCMGMGVPWQTALAAVFVSGLVFIAI  124
+
+
+>WP_004912229.1 NCS2 family permease [Acinetobacter junii]
+Length=439
+
+ Score = 171 bits (432),  Expect = 7e-050, Method: Compositional matrix adjust.
+ Identities = 83/86 (97%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGI+ANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIVANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVFVSG+VFLAI
+Sbjct  98   VCLGMGVPWQTALAAVFVSGLVFLAI  123
+
+
+>WP_061518430.1 NCS2 family permease [Acinetobacter venetianus]
+Length=439
+
+ Score = 171 bits (432),  Expect = 7e-050, Method: Compositional matrix adjust.
+ Identities = 83/86 (97%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGI+ANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIVANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVFVSG+VFLAI
+Sbjct  98   VCLGMGVPWQTALAAVFVSGLVFLAI  123
+
+
+>WP_005402348.1 NCS2 family permease [Acinetobacter junii]
+Length=439
+
+ Score = 171 bits (432),  Expect = 8e-050, Method: Compositional matrix adjust.
+ Identities = 83/86 (97%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGI+ANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIVANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVFVSG+VFLAI
+Sbjct  98   VCLGMGVPWQTALAAVFVSGLVFLAI  123
+
+
+>WP_004682606.1 MULTISPECIES: NCS2 family permease [Acinetobacter]
+Length=439
+
+ Score = 171 bits (432),  Expect = 8e-050, Method: Compositional matrix adjust.
+ Identities = 82/86 (95%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMG++ANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGLVANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVFVSG+VFLAI
+Sbjct  98   VCLGMGVPWQTALAAVFVSGIVFLAI  123
+
+
+>WP_032042124.1 NCS2 family permease [Acinetobacter sp. 1578804]
+Length=439
+
+ Score = 171 bits (432),  Expect = 8e-050, Method: Compositional matrix adjust.
+ Identities = 84/86 (98%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGL+AYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLHAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSG+VFLAI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGLVFLAI  123
+
+
+>WP_039047504.1 NCS2 family permease [Acinetobacter junii]
+Length=439
+
+ Score = 171 bits (432),  Expect = 8e-050, Method: Compositional matrix adjust.
+ Identities = 83/86 (97%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGI+ANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIVANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVFVSG+VFLAI
+Sbjct  98   VCLGMGVPWQTALAAVFVSGLVFLAI  123
+
+
+>WP_004676959.1 NCS2 family permease [Acinetobacter parvus]
+Length=439
+
+ Score = 170 bits (431),  Expect = 8e-050, Method: Compositional matrix adjust.
+ Identities = 82/86 (95%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMG++ANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGLVANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVFVSG+VFLAI
+Sbjct  98   VCLGMGVPWQTALAAVFVSGIVFLAI  123
+
+
+>WP_005161017.1 NCS2 family permease [Acinetobacter sp. NIPH 284]
+Length=439
+
+ Score = 170 bits (431),  Expect = 1e-049, Method: Compositional matrix adjust.
+ Identities = 82/86 (95%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGI+ANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIVANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVFVSG++FLAI
+Sbjct  98   VCLGMGVPWQTALAAVFVSGLIFLAI  123
+
+
+>WP_004661328.1 NCS2 family permease [Acinetobacter sp. NIPH 236]
+Length=439
+
+ Score = 170 bits (431),  Expect = 1e-049, Method: Compositional matrix adjust.
+ Identities = 82/86 (95%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGI+ANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIVANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVFVSG++FLAI
+Sbjct  98   VCLGMGVPWQTALAAVFVSGLIFLAI  123
+
+
+>WP_004696144.1 MULTISPECIES: NCS2 family permease [Acinetobacter]
+Length=440
+
+ Score = 170 bits (431),  Expect = 1e-049, Method: Compositional matrix adjust.
+ Identities = 82/86 (95%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILSETGMDHGAVFVATCLAAAIGCLVMGI+ANYPIALAPGMGLNAYFTYS
+Sbjct  39   MCYIIIVNPMILSETGMDHGAVFVATCLAAAIGCLVMGIVANYPIALAPGMGLNAYFTYS  98
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSG+VF+AI
+Sbjct  99   VCMGMGVPWQTALAAVFVSGLVFIAI  124
+
+
+>WP_004925997.1 MULTISPECIES: NCS2 family permease [Acinetobacter]
+Length=439
+
+ Score = 170 bits (431),  Expect = 1e-049, Method: Compositional matrix adjust.
+ Identities = 82/86 (95%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMG+IANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGLIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVF+SG+VFLAI
+Sbjct  98   VCLGMGVPWQTALAAVFLSGIVFLAI  123
+
+
+>WP_046738788.1 MULTISPECIES: NCS2 family permease [Acinetobacter]
+Length=439
+
+ Score = 170 bits (431),  Expect = 1e-049, Method: Compositional matrix adjust.
+ Identities = 82/86 (95%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGI+ANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIVANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVFVSG++FLAI
+Sbjct  98   VCLGMGVPWQTALAAVFVSGLIFLAI  123
+
+
+>WP_005215345.1 NCS2 family permease [Acinetobacter sp. ANC 3862]
+Length=439
+
+ Score = 170 bits (430),  Expect = 1e-049, Method: Compositional matrix adjust.
+ Identities = 82/86 (95%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGI+ANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIVANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVFVSG++FLAI
+Sbjct  98   VCLGMGVPWQTALAAVFVSGLIFLAI  123
+
+
+>WP_005129113.1 NCS2 family permease [Acinetobacter baumannii]
+Length=439
+
+ Score = 170 bits (430),  Expect = 1e-049, Method: Compositional matrix adjust.
+ Identities = 85/86 (99%), Positives = 85/86 (99%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGM VPWQTALAAVFVSGVVFLAI
+Sbjct  98   VCMGMVVPWQTALAAVFVSGVVFLAI  123
+
+
+>WP_053578201.1 NCS2 family permease [Acinetobacter sp. TTH0-4]
+Length=440
+
+ Score = 170 bits (430),  Expect = 2e-049, Method: Compositional matrix adjust.
+ Identities = 82/86 (95%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILSETGMDHGAVFVATCLAAAIGCLVMG+IANYPIALAPGMGLNAYFTYS
+Sbjct  39   MCYIIIVNPMILSETGMDHGAVFVATCLAAAIGCLVMGLIANYPIALAPGMGLNAYFTYS  98
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSG+VF+AI
+Sbjct  99   VCMGMGVPWQTALAAVFVSGLVFIAI  124
+
+
+>WP_004989736.1 MULTISPECIES: NCS2 family permease [Acinetobacter]
+Length=439
+
+ Score = 169 bits (429),  Expect = 2e-049, Method: Compositional matrix adjust.
+ Identities = 81/86 (94%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMG+IANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGLIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVF+SG++FLAI
+Sbjct  98   VCLGMGVPWQTALAAVFISGLIFLAI  123
+
+
+>WP_067864357.1 NCS2 family permease [Acinetobacter sp. SFB]
+Length=440
+
+ Score = 169 bits (429),  Expect = 2e-049, Method: Compositional matrix adjust.
+ Identities = 81/86 (94%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILSETGMDHGAVFVATCLAAAIGCLVMG++ANYPIALAPGMGLNAYFTYS
+Sbjct  39   MCYIIIVNPMILSETGMDHGAVFVATCLAAAIGCLVMGLVANYPIALAPGMGLNAYFTYS  98
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSG+VF+AI
+Sbjct  99   VCMGMGVPWQTALAAVFVSGLVFIAI  124
+
+
+>WP_086190164.1 guanine permease [Acinetobacter sp. ANC 3832]
+Length=439
+
+ Score = 169 bits (429),  Expect = 2e-049, Method: Compositional matrix adjust.
+ Identities = 81/86 (94%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGC+VMG++ANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCMVMGLVANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSG+VF+AI
+Sbjct  98   VCMGMGVPWQTALAAVFVSGLVFIAI  123
+
+
+>WP_067660032.1 NCS2 family permease [Acinetobacter sp. TGL-Y2]
+Length=438
+
+ Score = 169 bits (428),  Expect = 3e-049, Method: Compositional matrix adjust.
+ Identities = 81/86 (94%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGI+ANYPIALAPGMGLNAYFTYS
+Sbjct  37   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIVANYPIALAPGMGLNAYFTYS  96
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMG+PWQTALAAVFVSG+VF+AI
+Sbjct  97   VCIGMGIPWQTALAAVFVSGLVFIAI  122
+
+
+>WP_086199623.1 guanine permease [Acinetobacter sp. ANC 4169]
+Length=440
+
+ Score = 169 bits (428),  Expect = 3e-049, Method: Compositional matrix adjust.
+ Identities = 81/86 (94%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILSETGMDHGAVFVATCLAAAIGCLVMG++ANYPIALAPGMGLNAYFTYS
+Sbjct  39   MCYIIIVNPMILSETGMDHGAVFVATCLAAAIGCLVMGLVANYPIALAPGMGLNAYFTYS  98
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSG+VF+AI
+Sbjct  99   VCMGMGVPWQTALAAVFVSGLVFIAI  124
+
+
+>WP_026438181.1 MULTISPECIES: NCS2 family permease [Acinetobacter]
+Length=440
+
+ Score = 169 bits (427),  Expect = 3e-049, Method: Compositional matrix adjust.
+ Identities = 80/86 (93%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILSETGMDHGAVFVATCLAAAIGCLVMGI+ANYPIALAPGMGLNAYFTYS
+Sbjct  39   MCYIIIVNPMILSETGMDHGAVFVATCLAAAIGCLVMGIVANYPIALAPGMGLNAYFTYS  98
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVFVSG++F+AI
+Sbjct  99   VCLGMGVPWQTALAAVFVSGIIFIAI  124
+
+
+>WP_005014984.1 MULTISPECIES: NCS2 family permease [Acinetobacter]
+Length=439
+
+ Score = 169 bits (427),  Expect = 3e-049, Method: Compositional matrix adjust.
+ Identities = 81/86 (94%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILSETGMDHGAVFVATCLAAAIGCLVMGI+ANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPMILSETGMDHGAVFVATCLAAAIGCLVMGIVANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVFVSG+VF+AI
+Sbjct  98   VCLGMGVPWQTALAAVFVSGLVFIAI  123
+
+
+>WP_068887133.1 NCS2 family permease [Acinetobacter celticus]
+Length=440
+
+ Score = 169 bits (427),  Expect = 4e-049, Method: Compositional matrix adjust.
+ Identities = 81/86 (94%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILSETGMDHGAVFVATCLAAAIGCLVMG+IANYPIALAPGMGLNAYFTYS
+Sbjct  39   MCYIIIVNPMILSETGMDHGAVFVATCLAAAIGCLVMGLIANYPIALAPGMGLNAYFTYS  98
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVFVSG+VF+AI
+Sbjct  99   VCLGMGVPWQTALAAVFVSGLVFIAI  124
+
+
+>WP_004638516.1 MULTISPECIES: NCS2 family permease [Acinetobacter]
+Length=439
+
+ Score = 169 bits (427),  Expect = 4e-049, Method: Compositional matrix adjust.
+ Identities = 81/86 (94%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMG+IANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGLIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPW+TALAAVF+SG+VFLAI
+Sbjct  98   VCLGMGVPWETALAAVFISGLVFLAI  123
+
+
+>WP_005176982.1 MULTISPECIES: NCS2 family permease [Acinetobacter]
+Length=440
+
+ Score = 169 bits (427),  Expect = 4e-049, Method: Compositional matrix adjust.
+ Identities = 81/86 (94%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILSETGMDHGAVFVATCLAAAIGCLVMG+IANYPIALAPGMGLNAYFTYS
+Sbjct  39   MCYIIIVNPMILSETGMDHGAVFVATCLAAAIGCLVMGLIANYPIALAPGMGLNAYFTYS  98
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVFVSG+VF+AI
+Sbjct  99   VCLGMGVPWQTALAAVFVSGLVFIAI  124
+
+
+>WP_075166658.1 guanine permease [Acinetobacter indicus]
+Length=440
+
+ Score = 169 bits (427),  Expect = 4e-049, Method: Compositional matrix adjust.
+ Identities = 81/86 (94%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILSETGMDHGAVFVATCLAAAIGCLVMG+IANYPIALAPGMGLNAYFTYS
+Sbjct  39   MCYIIIVNPMILSETGMDHGAVFVATCLAAAIGCLVMGLIANYPIALAPGMGLNAYFTYS  98
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVFVSG+VF+AI
+Sbjct  99   VCLGMGVPWQTALAAVFVSGLVFIAI  124
+
+
+>WP_086195608.1 guanine permease [Acinetobacter sp. ANC 4218]
+Length=440
+
+ Score = 169 bits (427),  Expect = 5e-049, Method: Compositional matrix adjust.
+ Identities = 80/86 (93%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILSETGMDHGAVFVATCLAAAIGCLVMG++ANYPIALAPGMGLNAYFTYS
+Sbjct  39   MCYIIIVNPMILSETGMDHGAVFVATCLAAAIGCLVMGLVANYPIALAPGMGLNAYFTYS  98
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMG+PWQTALAAVFVSG+VF+AI
+Sbjct  99   VCMGMGIPWQTALAAVFVSGLVFIAI  124
+
+
+>WP_086176341.1 guanine permease [Acinetobacter sp. ANC 3903]
+Length=440
+
+ Score = 168 bits (426),  Expect = 5e-049, Method: Compositional matrix adjust.
+ Identities = 80/86 (93%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILSETGMDHGAVFVATCLAAAIGCLVMG++ANYPIALAPGMGLNAYFTYS
+Sbjct  39   MCYIIIVNPMILSETGMDHGAVFVATCLAAAIGCLVMGLVANYPIALAPGMGLNAYFTYS  98
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMG+PWQTALAAVFVSG+VF+AI
+Sbjct  99   VCMGMGIPWQTALAAVFVSGLVFIAI  124
+
+
+>WP_067723249.1 NCS2 family permease [Acinetobacter sp. SFC]
+Length=440
+
+ Score = 168 bits (426),  Expect = 5e-049, Method: Compositional matrix adjust.
+ Identities = 80/86 (93%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILSETGMDHGAVFVATCLAAAIGCLVMG++ANYPIALAPGMGLNAYFTYS
+Sbjct  39   MCYIIIVNPMILSETGMDHGAVFVATCLAAAIGCLVMGLVANYPIALAPGMGLNAYFTYS  98
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSG++F+AI
+Sbjct  99   VCMGMGVPWQTALAAVFVSGLIFIAI  124
+
+
+>WP_029574377.1 NCS2 family permease [Acinetobacter sp. P8-3-8]
+Length=439
+
+ Score = 168 bits (426),  Expect = 5e-049, Method: Compositional matrix adjust.
+ Identities = 81/86 (94%), Positives = 85/86 (99%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGC VMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCFVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVFVSG++F+AI
+Sbjct  98   VCLGMGVPWQTALAAVFVSGLIFIAI  123
+
+
+>WP_004670603.1 MULTISPECIES: NCS2 family permease [Acinetobacter]
+Length=439
+
+ Score = 168 bits (426),  Expect = 6e-049, Method: Compositional matrix adjust.
+ Identities = 80/86 (93%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILSETGMDHGAVFVATCLAAAIGCLVMG+IANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPMILSETGMDHGAVFVATCLAAAIGCLVMGLIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPW+TALAAVF+SG+VFLAI
+Sbjct  98   VCLGMGVPWETALAAVFISGIVFLAI  123
+
+
+>WP_086194398.1 guanine permease [Acinetobacter sp. ANC 4655]
+Length=440
+
+ Score = 168 bits (426),  Expect = 6e-049, Method: Compositional matrix adjust.
+ Identities = 80/86 (93%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILSETGMDHGAVFVATCLAAAIGCLVMG++ANYPIALAPGMGLNAYFTYS
+Sbjct  39   MCYIIIVNPMILSETGMDHGAVFVATCLAAAIGCLVMGLVANYPIALAPGMGLNAYFTYS  98
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSG++F+AI
+Sbjct  99   VCMGMGVPWQTALAAVFVSGLIFIAI  124
+
+
+>WP_068913732.1 NCS2 family permease [Acinetobacter sp. WCHA34]
+Length=440
+
+ Score = 168 bits (426),  Expect = 6e-049, Method: Compositional matrix adjust.
+ Identities = 80/86 (93%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILSETGMDHGAVFVATCLAAAIGCLVMG+IANYPIALAPGMGLNAYFTYS
+Sbjct  39   MCYIIIVNPMILSETGMDHGAVFVATCLAAAIGCLVMGLIANYPIALAPGMGLNAYFTYS  98
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVFVSG++F+AI
+Sbjct  99   VCLGMGVPWQTALAAVFVSGLIFIAI  124
+
+
+>WP_086211214.1 guanine permease [Acinetobacter sp. ANC 3813]
+Length=440
+
+ Score = 168 bits (426),  Expect = 6e-049, Method: Compositional matrix adjust.
+ Identities = 80/86 (93%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILSETGMDHGAVFVATCLAAAIGCLVMG++ANYPIALAPGMGLNAYFTYS
+Sbjct  39   MCYIIIVNPMILSETGMDHGAVFVATCLAAAIGCLVMGLVANYPIALAPGMGLNAYFTYS  98
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVFVSG+VF+AI
+Sbjct  99   VCLGMGVPWQTALAAVFVSGLVFIAI  124
+
+
+>WP_086188341.1 guanine permease [Acinetobacter sp. ANC 4470]
+Length=440
+
+ Score = 168 bits (426),  Expect = 6e-049, Method: Compositional matrix adjust.
+ Identities = 81/86 (94%), Positives = 85/86 (99%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILSETGMDHGAVFVATCLAAAIGCLVMG+IANYPIALAPGMGLNAYFTYS
+Sbjct  39   MCYIIIVNPMILSETGMDHGAVFVATCLAAAIGCLVMGLIANYPIALAPGMGLNAYFTYS  98
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSG+VF+ I
+Sbjct  99   VCMGMGVPWQTALAAVFVSGLVFIVI  124
+
+
+>WP_067670686.1 NCS2 family permease [Acinetobacter sp. ANC 4149]
+Length=440
+
+ Score = 168 bits (425),  Expect = 7e-049, Method: Compositional matrix adjust.
+ Identities = 80/86 (93%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILSETGMDHGAVFVATCLAAAIGCLVMG++ANYPIALAPGMGLNAYFTYS
+Sbjct  39   MCYIIIVNPMILSETGMDHGAVFVATCLAAAIGCLVMGLVANYPIALAPGMGLNAYFTYS  98
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVFVSG+VF+AI
+Sbjct  99   VCLGMGVPWQTALAAVFVSGLVFIAI  124
+
+
+>WP_086207870.1 guanine permease [Acinetobacter sp. ANC 4204]
+Length=440
+
+ Score = 168 bits (425),  Expect = 8e-049, Method: Compositional matrix adjust.
+ Identities = 80/86 (93%), Positives = 85/86 (99%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILSETGMDHGAVFVATCLAAAIGCLVMGI+ANYPIALAPGMGLNAYFTYS
+Sbjct  39   MCYIIIVNPMILSETGMDHGAVFVATCLAAAIGCLVMGIVANYPIALAPGMGLNAYFTYS  98
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVFVSG +F+AI
+Sbjct  99   VCLGMGVPWQTALAAVFVSGFIFIAI  124
+
+
+>WP_035265860.1 NCS2 family permease [Acinetobacter sp. Ver3]
+Length=439
+
+ Score = 168 bits (425),  Expect = 8e-049, Method: Compositional matrix adjust.
+ Identities = 81/86 (94%), Positives = 85/86 (99%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILSETGMDHGAVFVATCLAAAIGC VMGIIANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPMILSETGMDHGAVFVATCLAAAIGCFVMGIIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVFVSG+VF+AI
+Sbjct  98   VCLGMGVPWQTALAAVFVSGLVFIAI  123
+
+
+>WP_005010972.1 NCS2 family permease [Acinetobacter bouvetii]
+Length=440
+
+ Score = 167 bits (424),  Expect = 1e-048, Method: Compositional matrix adjust.
+ Identities = 79/86 (92%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILSETGMDHGAVFVATCLAAAIGCLVMG++ANYPIALAPGMGLNAYFTYS
+Sbjct  39   MCYIIIVNPMILSETGMDHGAVFVATCLAAAIGCLVMGLVANYPIALAPGMGLNAYFTYS  98
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVFVSG++F+AI
+Sbjct  99   VCLGMGVPWQTALAAVFVSGLIFIAI  124
+
+
+>WP_086165742.1 guanine permease [Acinetobacter sp. ANC 4654]
+Length=440
+
+ Score = 167 bits (422),  Expect = 2e-048, Method: Compositional matrix adjust.
+ Identities = 80/86 (93%), Positives = 85/86 (99%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILSETGMDHGAVFVATCLAAAIGCLVMG++ANYPIALAPGMGLNAYFTYS
+Sbjct  39   MCYIIIVNPMILSETGMDHGAVFVATCLAAAIGCLVMGLVANYPIALAPGMGLNAYFTYS  98
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSG+VF+ I
+Sbjct  99   VCMGMGVPWQTALAAVFVSGLVFIFI  124
+
+
+>WP_086184679.1 guanine permease [Acinetobacter sp. ANC 4973]
+Length=440
+
+ Score = 167 bits (422),  Expect = 2e-048, Method: Compositional matrix adjust.
+ Identities = 80/86 (93%), Positives = 85/86 (99%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILSETGMDHGAVFVATCLAAAIGCLVMG++ANYPIALAPGMGLNAYFTYS
+Sbjct  39   MCYIIIVNPMILSETGMDHGAVFVATCLAAAIGCLVMGLVANYPIALAPGMGLNAYFTYS  98
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSG+VF+ I
+Sbjct  99   VCMGMGVPWQTALAAVFVSGLVFIFI  124
+
+
+>WP_004648591.1 NCS2 family permease [Acinetobacter bohemicus]
+Length=440
+
+ Score = 167 bits (422),  Expect = 3e-048, Method: Compositional matrix adjust.
+ Identities = 80/86 (93%), Positives = 85/86 (99%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILSETGMDHGAVFVATCLAAAIGCLVMG++ANYPIALAPGMGLNAYFTYS
+Sbjct  39   MCYIIIVNPMILSETGMDHGAVFVATCLAAAIGCLVMGLVANYPIALAPGMGLNAYFTYS  98
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTALAAVFVSG+VF+ I
+Sbjct  99   VCMGMGVPWQTALAAVFVSGLVFIFI  124
+
+
+>WP_058967753.1 NCS2 family permease [Acinetobacter bereziniae]
+Length=439
+
+ Score = 166 bits (421),  Expect = 3e-048, Method: Compositional matrix adjust.
+ Identities = 80/86 (93%), Positives = 85/86 (99%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMG++ANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGVVANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGV WQTALAAVFVSG+VF+AI
+Sbjct  98   VCLGMGVEWQTALAAVFVSGLVFIAI  123
+
+
+>WP_078194402.1 guanine permease [Acinetobacter sp. ANC 5600]
+Length=440
+
+ Score = 166 bits (421),  Expect = 3e-048, Method: Compositional matrix adjust.
+ Identities = 80/86 (93%), Positives = 85/86 (99%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILSETGMDHGAVFVATCLAAAIGCLVMGI+ANYPIALAPGMGLNAYFTYS
+Sbjct  39   MCYIIIVNPMILSETGMDHGAVFVATCLAAAIGCLVMGIVANYPIALAPGMGLNAYFTYS  98
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGV WQTALAAVFVSG+VF+AI
+Sbjct  99   VCLGMGVEWQTALAAVFVSGLVFIAI  124
+
+
+>WP_005029525.1 NCS2 family permease [Acinetobacter bereziniae]
+Length=439
+
+ Score = 166 bits (420),  Expect = 4e-048, Method: Compositional matrix adjust.
+ Identities = 80/86 (93%), Positives = 85/86 (99%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMG++ANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGVVANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGV WQTALAAVFVSG+VF+AI
+Sbjct  98   VCLGMGVEWQTALAAVFVSGLVFIAI  123
+
+
+>WP_004831186.1 MULTISPECIES: NCS2 family permease [Acinetobacter]
+Length=439
+
+ Score = 166 bits (420),  Expect = 4e-048, Method: Compositional matrix adjust.
+ Identities = 80/86 (93%), Positives = 85/86 (99%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMG++ANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGVVANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGV WQTALAAVFVSG+VF+AI
+Sbjct  98   VCLGMGVEWQTALAAVFVSGLVFIAI  123
+
+
+>WP_039622863.1 NCS2 family permease [Acinetobacter harbinensis]
+Length=440
+
+ Score = 166 bits (420),  Expect = 4e-048, Method: Compositional matrix adjust.
+ Identities = 78/86 (91%), Positives = 85/86 (99%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILSETGMDHGAVFVATCLAAAIGC VMG++ANYPIALAPGMGLNAYFTYS
+Sbjct  39   MCYIIIVNPMILSETGMDHGAVFVATCLAAAIGCFVMGLVANYPIALAPGMGLNAYFTYS  98
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVFVSG++F+AI
+Sbjct  99   VCLGMGVPWQTALAAVFVSGLIFIAI  124
+
+
+>WP_004820795.1 MULTISPECIES: NCS2 family permease [Acinetobacter]
+Length=439
+
+ Score = 166 bits (420),  Expect = 4e-048, Method: Compositional matrix adjust.
+ Identities = 80/86 (93%), Positives = 85/86 (99%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMG++ANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGVVANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGV WQTALAAVFVSG+VF+AI
+Sbjct  98   VCLGMGVEWQTALAAVFVSGLVFIAI  123
+
+
+>WP_004721188.1 MULTISPECIES: NCS2 family permease [Acinetobacter]
+Length=439
+
+ Score = 166 bits (420),  Expect = 4e-048, Method: Compositional matrix adjust.
+ Identities = 80/86 (93%), Positives = 85/86 (99%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMG++ANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGVVANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGV WQTALAAVFVSG+VF+AI
+Sbjct  98   VCLGMGVEWQTALAAVFVSGLVFIAI  123
+
+
+>WP_004971599.1 NCS2 family permease [Acinetobacter towneri]
+Length=440
+
+ Score = 166 bits (420),  Expect = 5e-048, Method: Compositional matrix adjust.
+ Identities = 79/86 (92%), Positives = 85/86 (99%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILSETGMDHGAVFVATCLAAAIGCLVMGI+ANYPIALAPGMGLNAYFTYS
+Sbjct  39   MCYIIIVNPMILSETGMDHGAVFVATCLAAAIGCLVMGIVANYPIALAPGMGLNAYFTYS  98
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGV WQTALAAVFVSG++F+AI
+Sbjct  99   VCLGMGVSWQTALAAVFVSGIIFIAI  124
+
+
+>WP_078189086.1 guanine permease [Acinetobacter sp. ANC 4945]
+Length=440
+
+ Score = 166 bits (419),  Expect = 7e-048, Method: Compositional matrix adjust.
+ Identities = 79/86 (92%), Positives = 85/86 (99%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILSETGMDHGAVFVATCLAAAIGCLVMG++ANYPIALAPGMGLNAYFTYS
+Sbjct  39   MCYIIIVNPMILSETGMDHGAVFVATCLAAAIGCLVMGLVANYPIALAPGMGLNAYFTYS  98
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGV WQTALAAVFVSG+VF+AI
+Sbjct  99   VCLGMGVEWQTALAAVFVSGLVFIAI  124
+
+
+>WP_064096627.1 MULTISPECIES: NCS2 family permease [Acinetobacter]
+Length=440
+
+ Score = 166 bits (419),  Expect = 7e-048, Method: Compositional matrix adjust.
+ Identities = 79/86 (92%), Positives = 85/86 (99%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILSETGMDHGAVFVATCLAAAIGCLVMG+IANYPIALAPGMGLNA+FTYS
+Sbjct  39   MCYIIIVNPMILSETGMDHGAVFVATCLAAAIGCLVMGLIANYPIALAPGMGLNAFFTYS  98
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTAL AVFVSG+VF+AI
+Sbjct  99   VCLGMGVPWQTALGAVFVSGLVFIAI  124
+
+
+>WP_004815389.1 MULTISPECIES: NCS2 family permease [Acinetobacter]
+Length=440
+
+ Score = 166 bits (419),  Expect = 7e-048, Method: Compositional matrix adjust.
+ Identities = 79/86 (92%), Positives = 85/86 (99%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILSETGMDHGAVFVATCLAAAIGCLVMG+IANYPIALAPGMGLNA+FTYS
+Sbjct  39   MCYIIIVNPMILSETGMDHGAVFVATCLAAAIGCLVMGLIANYPIALAPGMGLNAFFTYS  98
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTAL AVFVSG+VF+AI
+Sbjct  99   VCLGMGVPWQTALGAVFVSGLVFIAI  124
+
+
+>WP_004784213.1 NCS2 family permease [Acinetobacter sp. NIPH 899]
+Length=440
+
+ Score = 166 bits (419),  Expect = 7e-048, Method: Compositional matrix adjust.
+ Identities = 79/86 (92%), Positives = 85/86 (99%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILSETGMDHGAVFVATCLAAAIGCLVMG+IANYPIALAPGMGLNA+FTYS
+Sbjct  39   MCYIIIVNPMILSETGMDHGAVFVATCLAAAIGCLVMGLIANYPIALAPGMGLNAFFTYS  98
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTAL AVFVSG+VF+AI
+Sbjct  99   VCLGMGVPWQTALGAVFVSGLVFIAI  124
+
+
+>WP_005097450.1 MULTISPECIES: NCS2 family permease [Acinetobacter]
+Length=440
+
+ Score = 166 bits (419),  Expect = 7e-048, Method: Compositional matrix adjust.
+ Identities = 79/86 (92%), Positives = 85/86 (99%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILSETGMDHGAVFVATCLAAAIGCLVMG+IANYPIALAPGMGLNA+FTYS
+Sbjct  39   MCYIIIVNPMILSETGMDHGAVFVATCLAAAIGCLVMGLIANYPIALAPGMGLNAFFTYS  98
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTAL AVFVSG+VF+AI
+Sbjct  99   VCLGMGVPWQTALGAVFVSGLVFIAI  124
+
+
+>WP_074383305.1 NCS2 family permease [Acinetobacter lwoffii]
+Length=440
+
+ Score = 166 bits (419),  Expect = 7e-048, Method: Compositional matrix adjust.
+ Identities = 79/86 (92%), Positives = 85/86 (99%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILSETGMDHGAVFVATCLAAAIGCLVMG+IANYPIALAPGMGLNA+FTYS
+Sbjct  39   MCYIIIVNPMILSETGMDHGAVFVATCLAAAIGCLVMGLIANYPIALAPGMGLNAFFTYS  98
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTAL AVFVSG+VF+AI
+Sbjct  99   VCLGMGVPWQTALGAVFVSGLVFIAI  124
+
+
+>WP_004278978.1 MULTISPECIES: NCS2 family permease [Acinetobacter]
+Length=440
+
+ Score = 165 bits (418),  Expect = 7e-048, Method: Compositional matrix adjust.
+ Identities = 78/86 (91%), Positives = 85/86 (99%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILSETGMDHGAVFVATCLAAAIGCLVMG+IANYPIALAPGMGLNA+FTYS
+Sbjct  39   MCYIIIVNPMILSETGMDHGAVFVATCLAAAIGCLVMGLIANYPIALAPGMGLNAFFTYS  98
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTAL AVF+SG+VF+AI
+Sbjct  99   VCLGMGVPWQTALGAVFISGLVFIAI  124
+
+
+>WP_034170718.1 MULTISPECIES: NCS2 family permease [Acinetobacter]
+Length=440
+
+ Score = 165 bits (418),  Expect = 8e-048, Method: Compositional matrix adjust.
+ Identities = 79/86 (92%), Positives = 85/86 (99%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILSETGMDHGAVFVATCLAAAIGCLVMG+IANYPIALAPGMGLNA+FTYS
+Sbjct  39   MCYIIIVNPMILSETGMDHGAVFVATCLAAAIGCLVMGLIANYPIALAPGMGLNAFFTYS  98
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTAL AVFVSG+VF+AI
+Sbjct  99   VCLGMGVPWQTALGAVFVSGLVFIAI  124
+
+
+>WP_004645563.1 MULTISPECIES: NCS2 family permease [Acinetobacter]
+Length=440
+
+ Score = 165 bits (418),  Expect = 8e-048, Method: Compositional matrix adjust.
+ Identities = 78/86 (91%), Positives = 85/86 (99%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILSETGMDHGAVFVATCLAAAIGCLVMG+IANYPIALAPGMGLNA+FTYS
+Sbjct  39   MCYIIIVNPMILSETGMDHGAVFVATCLAAAIGCLVMGLIANYPIALAPGMGLNAFFTYS  98
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTAL AVF+SG+VF+AI
+Sbjct  99   VCLGMGVPWQTALGAVFISGLVFIAI  124
+
+
+>WP_005265750.1 MULTISPECIES: NCS2 family permease [Acinetobacter]
+Length=440
+
+ Score = 165 bits (418),  Expect = 8e-048, Method: Compositional matrix adjust.
+ Identities = 78/86 (91%), Positives = 85/86 (99%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILSETGMDHGAVFVATCLAAAIGCLVMG+IANYPIALAPGMGLNA+FTYS
+Sbjct  39   MCYIIIVNPMILSETGMDHGAVFVATCLAAAIGCLVMGLIANYPIALAPGMGLNAFFTYS  98
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTAL AVF+SG+VF+AI
+Sbjct  99   VCLGMGVPWQTALGAVFISGLVFIAI  124
+
+
+>WP_086206249.1 guanine permease [Acinetobacter sp. ANC 4648]
+Length=439
+
+ Score = 165 bits (418),  Expect = 8e-048, Method: Compositional matrix adjust.
+ Identities = 79/86 (92%), Positives = 85/86 (99%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGI+ANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIVANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVF+SG++F+ I
+Sbjct  98   VCIGMGVPWQTALAAVFMSGLIFIII  123
+
+
+>WP_065991851.1 NCS2 family permease [Acinetobacter sp. WCHA30]
+Length=439
+
+ Score = 165 bits (417),  Expect = 1e-047, Method: Compositional matrix adjust.
+ Identities = 79/86 (92%), Positives = 85/86 (99%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGI+ANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIVANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GM VPWQTALAAVF+SG++F+AI
+Sbjct  98   VCIGMSVPWQTALAAVFMSGLIFIAI  123
+
+
+>WP_004892544.1 MULTISPECIES: NCS2 family permease [Acinetobacter]
+Length=440
+
+ Score = 165 bits (417),  Expect = 1e-047, Method: Compositional matrix adjust.
+ Identities = 78/86 (91%), Positives = 85/86 (99%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILSETGMDHGAVFVATCLAAAIGCLVMG++ANYPIALAPGMGLNA+FTYS
+Sbjct  39   MCYIIIVNPMILSETGMDHGAVFVATCLAAAIGCLVMGLVANYPIALAPGMGLNAFFTYS  98
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTAL AVFVSG+VF+AI
+Sbjct  99   VCLGMGVPWQTALGAVFVSGLVFIAI  124
+
+
+>WP_071320649.1 NCS2 family permease [Acinetobacter sp. LCT-H3]
+Length=440
+
+ Score = 165 bits (417),  Expect = 1e-047, Method: Compositional matrix adjust.
+ Identities = 78/86 (91%), Positives = 85/86 (99%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILSETGMDHGAVFVATCLAAAIGCLVMG++ANYPIALAPGMGLNA+FTYS
+Sbjct  39   MCYIIIVNPMILSETGMDHGAVFVATCLAAAIGCLVMGLVANYPIALAPGMGLNAFFTYS  98
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTAL AVFVSG+VF+AI
+Sbjct  99   VCLGMGVPWQTALGAVFVSGLVFIAI  124
+
+
+>WP_054582372.1 NCS2 family permease [Acinetobacter equi]
+Length=440
+
+ Score = 165 bits (417),  Expect = 1e-047, Method: Compositional matrix adjust.
+ Identities = 79/86 (92%), Positives = 84/86 (98%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILSETGMDHGAVFVATCLAAAIGC VMG+IANYPIALAPGMGLNAYFTYS
+Sbjct  39   MCYIIIVNPMILSETGMDHGAVFVATCLAAAIGCFVMGLIANYPIALAPGMGLNAYFTYS  98
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVF+SG VF+AI
+Sbjct  99   VCLGMGVPWQTALAAVFISGCVFIAI  124
+
+
+>WP_067730396.1 NCS2 family permease [Acinetobacter sp. NCu2D-2]
+Length=440
+
+ Score = 165 bits (417),  Expect = 1e-047, Method: Compositional matrix adjust.
+ Identities = 78/86 (91%), Positives = 84/86 (98%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILSETGMDHGAVFVATCLAAAIGC VMG+IANYPIALAPGMGLNA+FTYS
+Sbjct  39   MCYIIIVNPMILSETGMDHGAVFVATCLAAAIGCFVMGLIANYPIALAPGMGLNAFFTYS  98
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VCMGMGVPWQTAL AVFVSG++F+AI
+Sbjct  99   VCMGMGVPWQTALGAVFVSGLIFIAI  124
+
+
+>WP_086181702.1 guanine permease [Acinetobacter sp. ANC 4558]
+Length=440
+
+ Score = 164 bits (416),  Expect = 2e-047, Method: Compositional matrix adjust.
+ Identities = 78/86 (91%), Positives = 84/86 (98%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILSETGMDHGAVFVATCLAAAIGC VMG+IANYPIALAPGMGLNAYFTYS
+Sbjct  39   MCYIIIVNPMILSETGMDHGAVFVATCLAAAIGCFVMGLIANYPIALAPGMGLNAYFTYS  98
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVF+SG +F+AI
+Sbjct  99   VCLGMGVPWQTALAAVFISGCIFIAI  124
+
+
+>WP_004861303.1 NCS2 family permease [Acinetobacter gerneri]
+Length=439
+
+ Score = 164 bits (415),  Expect = 2e-047, Method: Compositional matrix adjust.
+ Identities = 78/86 (91%), Positives = 85/86 (99%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILSETGMDHGAVFVATCLAAAIGCLVMG++ANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPMILSETGMDHGAVFVATCLAAAIGCLVMGLVANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GM VPWQTALAAVFVSG++F+AI
+Sbjct  98   VCIGMHVPWQTALAAVFVSGLIFIAI  123
+
+
+>WP_067762638.1 NCS2 family permease [Acinetobacter gandensis]
+Length=440
+
+ Score = 164 bits (415),  Expect = 2e-047, Method: Compositional matrix adjust.
+ Identities = 78/86 (91%), Positives = 85/86 (99%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILS TGMDHGAVFVATCLAAAIGCLVMG++ANYPIALAPGMGLNAYFTYS
+Sbjct  39   MCYIIIVNPMILSATGMDHGAVFVATCLAAAIGCLVMGLVANYPIALAPGMGLNAYFTYS  98
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVFVSG++F+AI
+Sbjct  99   VCLGMGVPWQTALAAVFVSGLIFIAI  124
+
+
+>WP_048764011.1 MULTISPECIES: NCS2 family permease [Acinetobacter]
+Length=439
+
+ Score = 164 bits (414),  Expect = 3e-047, Method: Compositional matrix adjust.
+ Identities = 79/86 (92%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILSETGM++GAVFVATCLAAAIGCLVMG+IANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPIILSETGMNYGAVFVATCLAAAIGCLVMGLIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVF+SG+VFLAI
+Sbjct  98   VCLGMGVPWQTALAAVFISGLVFLAI  123
+
+
+>WP_004936556.1 NCS2 family permease [Acinetobacter soli]
+Length=439
+
+ Score = 164 bits (414),  Expect = 3e-047, Method: Compositional matrix adjust.
+ Identities = 79/86 (92%), Positives = 86/86 (100%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILSETGM++GAVFVATCLAAAIGCLVMG+IANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPIILSETGMNYGAVFVATCLAAAIGCLVMGLIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVF+SG+VFLAI
+Sbjct  98   VCLGMGVPWQTALAAVFISGLVFLAI  123
+
+
+>WP_034584323.1 NCS2 family permease [Acinetobacter sp. HR7]
+Length=440
+
+ Score = 163 bits (413),  Expect = 4e-047, Method: Compositional matrix adjust.
+ Identities = 77/86 (90%), Positives = 84/86 (98%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILSETGMDHGAVFVATCLAAAIGC VMG+IANYPIALAPGMGLNA+FTYS
+Sbjct  39   MCYIIIVNPMILSETGMDHGAVFVATCLAAAIGCFVMGLIANYPIALAPGMGLNAFFTYS  98
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTAL AVFVSG++F+AI
+Sbjct  99   VCLGMGVPWQTALGAVFVSGLIFIAI  124
+
+
+>XP_005968385.1 PREDICTED: adenine/guanine permease AZG2-like [Pantholops hodgsonii]
+Length=742
+
+ Score = 168 bits (425),  Expect = 4e-047, Method: Compositional matrix adjust.
+ Identities = 80/86 (93%), Positives = 85/86 (99%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMG++ANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGVVANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGV WQTALAAVFVSG+VF+AI
+Sbjct  98   VCLGMGVEWQTALAAVFVSGLVFIAI  123
+
+
+>WP_086203303.1 guanine permease [Acinetobacter sp. ANC 4999]
+Length=439
+
+ Score = 163 bits (412),  Expect = 7e-047, Method: Compositional matrix adjust.
+ Identities = 78/86 (91%), Positives = 84/86 (98%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILS TGMDHGAVFVATCLAAAIGCLVMGI+ANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPLILSATGMDHGAVFVATCLAAAIGCLVMGIVANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTALAAVF+SG++F+ I
+Sbjct  98   VCIGMGVPWQTALAAVFMSGLIFIVI  123
+
+
+>WP_086178058.1 guanine permease [Acinetobacter sp. ANC 5054]
+Length=440
+
+ Score = 162 bits (411),  Expect = 8e-047, Method: Compositional matrix adjust.
+ Identities = 77/86 (90%), Positives = 84/86 (98%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILS TGMDHGAVFVATCLAAAIGCLVMG++ANYPIALAPGMGLNAYFTYS
+Sbjct  39   MCYIIIVNPMILSSTGMDHGAVFVATCLAAAIGCLVMGLVANYPIALAPGMGLNAYFTYS  98
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GM VPWQTALAAVFVSG++F+AI
+Sbjct  99   VCLGMNVPWQTALAAVFVSGLIFIAI  124
+
+
+>WP_068974251.1 NCS2 family permease [Acinetobacter sp. WCHA60]
+Length=439
+
+ Score = 159 bits (402),  Expect = 2e-045, Method: Compositional matrix adjust.
+ Identities = 78/86 (91%), Positives = 82/86 (95%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP ILS TGMDHGAVFVATCLAAAIGC VMGI+ANYPIALAPGMGLNAYFT+S
+Sbjct  38   MCYIIIVNPGILSITGMDHGAVFVATCLAAAIGCFVMGIVANYPIALAPGMGLNAYFTFS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC GMGVPWQTALAAVFVSG+VF+AI
+Sbjct  98   VCQGMGVPWQTALAAVFVSGLVFIAI  123
+
+
+>WP_019959181.1 NCS2 family permease [Vitreoscilla stercoraria]
+Length=439
+
+ Score = 156 bits (395),  Expect = 2e-044, Method: Compositional matrix adjust.
+ Identities = 71/86 (83%), Positives = 82/86 (95%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+IVNP+ILSE+GMDHGAVFVATC+ AAIGC VMG++ANYPIALAPGMGLNAYFTY+
+Sbjct  38   MCYIVIVNPMILSESGMDHGAVFVATCVTAAIGCFVMGVVANYPIALAPGMGLNAYFTYA  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQTAL AVFVSG++F A+
+Sbjct  98   VCLGMGVPWQTALGAVFVSGLLFFAL  123
+
+
+>WP_023271776.1 NCS2 family permease [Acinetobacter nectaris]
+Length=440
+
+ Score = 156 bits (395),  Expect = 2e-044, Method: Compositional matrix adjust.
+ Identities = 73/86 (85%), Positives = 82/86 (95%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLILS TGMDHGAVFVATC+AAA GCLVMG++ANYPIALAPGMGLNAYF YS
+Sbjct  38   MCYIIIVNPLILSATGMDHGAVFVATCIAAATGCLVMGLLANYPIALAPGMGLNAYFAYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GM +PWQTALAAVF+SG++F+AI
+Sbjct  98   VCLGMHIPWQTALAAVFMSGIIFIAI  123
+
+
+>WP_058304763.1 NCS2 family permease [Vitreoscilla sp. SN6]
+Length=449
+
+ Score = 155 bits (393),  Expect = 5e-044, Method: Compositional matrix adjust.
+ Identities = 73/86 (85%), Positives = 81/86 (94%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+IVNPLIL+ETGMDHGAVFVATCL AAIGC VMG +ANYPIALAPGMGLNAYFTY+
+Sbjct  38   MCYIVIVNPLILAETGMDHGAVFVATCLTAAIGCFVMGAVANYPIALAPGMGLNAYFTYA  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GMGVPWQ ALAAVFVSG++F A+
+Sbjct  98   VCLGMGVPWQVALAAVFVSGLLFFAL  123
+
+
+>WP_004753036.1 NCS2 family permease [Acinetobacter sp. ANC 3789]
+Length=439
+
+ Score = 155 bits (392),  Expect = 7e-044, Method: Compositional matrix adjust.
+ Identities = 76/86 (88%), Positives = 81/86 (94%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILS TGMDHGAVFVATCLAAAIGCLVMG+IANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPMILSTTGMDHGAVFVATCLAAAIGCLVMGLIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GM V WQTALAAVF+SG VF+ I
+Sbjct  98   VCLGMHVHWQTALAAVFISGCVFVLI  123
+
+
+>WP_004903927.1 NCS2 family permease [Acinetobacter brisouii]
+Length=439
+
+ Score = 155 bits (391),  Expect = 8e-044, Method: Compositional matrix adjust.
+ Identities = 76/86 (88%), Positives = 81/86 (94%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP+ILS TGMDHGAVFVATCLAAAIGCLVMG+IANYPIALAPGMGLNAYFTYS
+Sbjct  38   MCYIIIVNPMILSTTGMDHGAVFVATCLAAAIGCLVMGLIANYPIALAPGMGLNAYFTYS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC+GM V WQTALAAVF+SG VF+ I
+Sbjct  98   VCLGMHVHWQTALAAVFISGCVFVLI  123
+
+
+>WP_067556268.1 NCS2 family permease [Acinetobacter larvae]
+Length=439
+
+ Score = 155 bits (391),  Expect = 8e-044, Method: Compositional matrix adjust.
+ Identities = 76/86 (88%), Positives = 81/86 (94%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP ILS TGMD GAVFVATCLAAAIGC VMG++ANYPIALAPGMGLNAYFT+S
+Sbjct  38   MCYIIIVNPSILSITGMDFGAVFVATCLAAAIGCFVMGLVANYPIALAPGMGLNAYFTFS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC GMGVPWQTALAAVFVSG+VF+AI
+Sbjct  98   VCQGMGVPWQTALAAVFVSGLVFIAI  123
+
+
+>WP_070069246.1 NCS2 family permease [Acinetobacter qingfengensis]
+Length=439
+
+ Score = 153 bits (387),  Expect = 3e-043, Method: Compositional matrix adjust.
+ Identities = 75/84 (89%), Positives = 79/84 (94%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP IL  TGMD GAVFVATC+AAAIGCLVMG++ANYPIALAPGMGLNAYFT+S
+Sbjct  38   MCYIIIVNPSILHLTGMDQGAVFVATCIAAAIGCLVMGLVANYPIALAPGMGLNAYFTFS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            VCMGMGVPWQTALAAVFVSG VFL
+Sbjct  98   VCMGMGVPWQTALAAVFVSGCVFL  121
+
+
+>WP_016655598.1 NCS2 family permease [Acinetobacter rudis]
+Length=439
+
+ Score = 152 bits (383),  Expect = 1e-042, Method: Compositional matrix adjust.
+ Identities = 74/86 (86%), Positives = 80/86 (93%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+IVNP ILS T MD GAVFVATCLAAAIGC VMG+IANYPIALAPGMGLNAYFT+S
+Sbjct  38   MCYIVIVNPSILSLTQMDFGAVFVATCLAAAIGCFVMGLIANYPIALAPGMGLNAYFTFS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            VC GMGVPWQTALAAVFVSGV+F++I
+Sbjct  98   VCQGMGVPWQTALAAVFVSGVIFISI  123
+
+
+>WP_078254252.1 guanine permease [Moraxella pluranimalium]
+Length=438
+
+ Score = 147 bits (372),  Expect = 6e-041, Method: Compositional matrix adjust.
+ Identities = 74/87 (85%), Positives = 81/87 (93%), Gaps = 2/87 (2%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+I+NP+ILSETGMDHGA+FVATCLAAAIGCLVMG++ANYPIALAPGMGLNAYF  S
+Sbjct  37   MCYIMIINPIILSETGMDHGAIFVATCLAAAIGCLVMGLLANYPIALAPGMGLNAYFA-S  95
+
+Query  61   VCMG-MGVPWQTALAAVFVSGVVFLAI  86
+            VC+G M VPWQTALAAVFVSGVVF  I
+Sbjct  96   VCLGAMAVPWQTALAAVFVSGVVFFII  122
+
+
+>WP_027022169.1 NCS2 family permease [Conchiformibius steedae]
+Length=446
+
+ Score = 146 bits (369),  Expect = 1e-040, Method: Compositional matrix adjust.
+ Identities = 70/84 (83%), Positives = 78/84 (93%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+IVNPLILS TGMD GAVFVATC++AAIGC VMG++ANYPIALAPGMGLNAYFTYS
+Sbjct  35   MCYIVIVNPLILSNTGMDFGAVFVATCISAAIGCFVMGLLANYPIALAPGMGLNAYFTYS  94
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V +GMGV WQ ALAAVFVSGV+F+
+Sbjct  95   VVLGMGVSWQVALAAVFVSGVIFI  118
+
+
+>WP_047919112.1 NCS2 family permease, partial [Neisseria gonorrhoeae]
+Length=300
+
+ Score = 142 bits (359),  Expect = 2e-040, Method: Compositional matrix adjust.
+ Identities = 66/84 (79%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+IVNPLIL ETGMD GAVFVATC+A+AIGC VMG I NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIVIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFIGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVF+SG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFISGLIFI  119
+
+
+>WP_027009645.1 NCS2 family permease [Conchiformibius kuhniae]
+Length=446
+
+ Score = 146 bits (368),  Expect = 2e-040, Method: Compositional matrix adjust.
+ Identities = 68/84 (81%), Positives = 79/84 (94%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI++VNPLILS TGMD GAVFVATC++AAIGC VMG++ANYPIALAPGMGLNAYFT+S
+Sbjct  35   MCYIVVVNPLILSNTGMDFGAVFVATCISAAIGCFVMGLLANYPIALAPGMGLNAYFTFS  94
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V +GMGV WQTALAAVFVSG++F+
+Sbjct  95   VVLGMGVSWQTALAAVFVSGIIFI  118
+
+
+>WP_070513028.1 NCS2 family permease [Neisseria sp. HMSC077D05]
+Length=437
+
+ Score = 145 bits (366),  Expect = 3e-040, Method: Compositional matrix adjust.
+ Identities = 69/84 (82%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLIL ETGMD GAVFVATC+A+AIGC VMG I NYPIALAPGMGLNAYFTY+
+Sbjct  36   MCYIIIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFIGNYPIALAPGMGLNAYFTYA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVFVSG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFVSGIIFI  119
+
+
+>WP_047919671.1 NCS2 family permease, partial [Neisseria gonorrhoeae]
+Length=324
+
+ Score = 143 bits (360),  Expect = 3e-040, Method: Compositional matrix adjust.
+ Identities = 66/84 (79%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+IVNPLIL ETGMD GAVFVATC+A+AIGC VMG I NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIVIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFIGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVF+SG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFISGLIFI  119
+
+
+>WP_085366673.1 guanine permease [Neisseria dentiae]
+Length=446
+
+ Score = 145 bits (366),  Expect = 4e-040, Method: Compositional matrix adjust.
+ Identities = 67/84 (80%), Positives = 79/84 (94%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+IVNPLILSETGMD GAVFVATC++AAIGCL+MG++ANYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIVIVNPLILSETGMDMGAVFVATCISAAIGCLIMGLLANYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVF+SG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFMSGIIFI  119
+
+
+>WP_050171982.1 NCS2 family permease, partial [Neisseria meningitidis]
+Length=315
+
+ Score = 142 bits (359),  Expect = 4e-040, Method: Compositional matrix adjust.
+ Identities = 65/84 (77%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+IVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIVIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVF+SG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFISGLIFI  119
+
+
+>WP_072104412.1 NCS2 family permease, partial [Neisseria meningitidis]
+Length=318
+
+ Score = 142 bits (358),  Expect = 5e-040, Method: Compositional matrix adjust.
+ Identities = 65/84 (77%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+IVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIVIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVF+SG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFISGLIFI  119
+
+
+>WP_049230477.1 NCS2 family permease [Neisseria lactamica]
+Length=437
+
+ Score = 145 bits (365),  Expect = 5e-040, Method: Compositional matrix adjust.
+ Identities = 68/84 (81%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFTY+
+Sbjct  36   MCYIIIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTYA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVFVSG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFVSGIIFI  119
+
+
+>WP_060974820.1 MULTISPECIES: NCS2 family permease [Proteobacteria]
+Length=437
+
+ Score = 145 bits (365),  Expect = 5e-040, Method: Compositional matrix adjust.
+ Identities = 68/84 (81%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFTY+
+Sbjct  36   MCYIIIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTYA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVFVSG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFVSGIIFI  119
+
+
+>WP_049248067.1 NCS2 family permease [Neisseria elongata]
+Length=437
+
+ Score = 145 bits (365),  Expect = 6e-040, Method: Compositional matrix adjust.
+ Identities = 68/84 (81%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFTY+
+Sbjct  36   MCYIIIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTYA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVFVSG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFVSGIIFI  119
+
+
+>WP_045075238.1 MULTISPECIES: NCS2 family permease [Neisseria]
+Length=437
+
+ Score = 145 bits (365),  Expect = 6e-040, Method: Compositional matrix adjust.
+ Identities = 68/84 (81%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFTY+
+Sbjct  36   MCYIIIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTYA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVFVSG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFVSGIIFI  119
+
+
+>WP_070070245.1 NCS2 family permease [Acinetobacter qingfengensis]
+Length=439
+
+ Score = 144 bits (364),  Expect = 8e-040, Method: Compositional matrix adjust.
+ Identities = 69/84 (82%), Positives = 78/84 (93%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP IL+   MD G+VFVATC++AAIGCLVMGIIANYPIALAPGMGLNA+FT+S
+Sbjct  38   MCYIIIVNPNILALANMDQGSVFVATCISAAIGCLVMGIIANYPIALAPGMGLNAFFTFS  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            VC+GMGVPWQTALAAVF+SG +FL
+Sbjct  98   VCLGMGVPWQTALAAVFISGCLFL  121
+
+
+>WP_009425955.1 NCS2 family permease [Neisseria sp. oral taxon 020]
+Length=447
+
+ Score = 144 bits (363),  Expect = 1e-039, Method: Compositional matrix adjust.
+ Identities = 68/84 (81%), Positives = 76/84 (90%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+IVNPL LS+ GMD GAVFVATC++AAIGC VMG+ ANYPIALAPGMGLNAYFTY+
+Sbjct  36   MCYIVIVNPLTLSQAGMDFGAVFVATCISAAIGCFVMGLAANYPIALAPGMGLNAYFTYA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ ALAAVFVSG++FL
+Sbjct  96   VVKGMGVPWQVALAAVFVSGIIFL  119
+
+
+>WP_016688215.1 NCS2 family permease [Neisseria sicca]
+Length=437
+
+ Score = 144 bits (362),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 67/84 (80%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIIIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVFVSG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFVSGIIFI  119
+
+
+>WP_004284383.1 NCS2 family permease [Neisseria weaveri]
+Length=438
+
+ Score = 144 bits (362),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 67/84 (80%), Positives = 77/84 (92%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+IVNPLILSETGMD GAVFVATC++AAIGC +MG+ ANYPIALAPGMGLNAYFTY+
+Sbjct  37   MCYIVIVNPLILSETGMDIGAVFVATCISAAIGCFIMGLFANYPIALAPGMGLNAYFTYA  96
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVF+SG++F+
+Sbjct  97   VVKGMGVPWQIALGAVFMSGLIFI  120
+
+
+>WP_003767598.1 NCS2 family permease [Neisseria sicca]
+Length=437
+
+ Score = 144 bits (362),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 67/84 (80%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIIIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVFVSG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFVSGIIFI  119
+
+
+>WP_070498574.1 NCS2 family permease [Neisseria sp. HMSC064E01]
+Length=437
+
+ Score = 144 bits (362),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 67/84 (80%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIIIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVFVSG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFVSGIIFI  119
+
+
+>WP_070602633.1 NCS2 family permease [Neisseria sp. HMSC074B07]
+Length=437
+
+ Score = 144 bits (362),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 67/84 (80%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIIIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVFVSG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFVSGIIFI  119
+
+
+>WP_009312668.1 NCS2 family permease [Neisseria sp. GT4A_CT1]
+Length=437
+
+ Score = 144 bits (362),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 67/84 (80%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIIIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVFVSG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFVSGIIFI  119
+
+
+>WP_070680382.1 NCS2 family permease [Neisseria sp. HMSC055H02]
+Length=437
+
+ Score = 144 bits (362),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 67/84 (80%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIIIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVFVSG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFVSGIIFI  119
+
+
+>WP_049225683.1 NCS2 family permease [Morococcus cerebrosus]
+Length=437
+
+ Score = 143 bits (361),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 67/84 (80%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIIIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVFVSG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFVSGIIFI  119
+
+
+>WP_049227932.1 NCS2 family permease [Morococcus cerebrosus]
+Length=437
+
+ Score = 143 bits (361),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 67/84 (80%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIIIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVFVSG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFVSGIIFI  119
+
+
+>WP_074894864.1 NCS2 family permease [Neisseria elongata]
+Length=437
+
+ Score = 143 bits (361),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 67/84 (80%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIIIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVFVSG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFVSGIIFI  119
+
+
+>WP_003743780.1 MULTISPECIES: NCS2 family permease [Neisseria]
+Length=437
+
+ Score = 143 bits (361),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 67/84 (80%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIIIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVFVSG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFVSGIIFI  119
+
+
+>WP_039409833.1 NCS2 family permease [Morococcus cerebrosus]
+Length=437
+
+ Score = 143 bits (361),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 67/84 (80%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIIIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVFVSG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFVSGIIFI  119
+
+
+>WP_019270964.1 MULTISPECIES: NCS2 family permease [Neisseria]
+Length=437
+
+ Score = 143 bits (361),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 67/84 (80%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIIIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVFVSG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFVSGIIFI  119
+
+
+>WP_070492491.1 NCS2 family permease [Neisseria sp. HMSC15C08]
+Length=437
+
+ Score = 143 bits (361),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 67/84 (80%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIIIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVFVSG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFVSGIIFI  119
+
+
+>WP_070440161.1 NCS2 family permease [Neisseria sp. HMSC03D10]
+Length=437
+
+ Score = 143 bits (361),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 67/84 (80%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIIIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVFVSG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFVSGIIFI  119
+
+
+>WP_070538908.1 MULTISPECIES: NCS2 family permease [Neisseria]
+Length=437
+
+ Score = 143 bits (361),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 67/84 (80%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIIIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVFVSG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFVSGIIFI  119
+
+
+>WP_009174691.1 NCS2 family permease [Neisseria sp. oral taxon 014]
+Length=439
+
+ Score = 143 bits (361),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 67/84 (80%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  38   MCYIIIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  97
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVFVSG++F+
+Sbjct  98   VVKGMGVPWQVALGAVFVSGIIFI  121
+
+
+>WP_070869964.1 NCS2 family permease [Neisseria sp. HMSC70E02]
+Length=437
+
+ Score = 143 bits (361),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 67/84 (80%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIIIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVFVSG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFVSGIIFI  119
+
+
+>WP_070635888.1 NCS2 family permease [Neisseria sp. HMSC073B07]
+Length=437
+
+ Score = 143 bits (361),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 67/84 (80%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIIIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVFVSG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFVSGIIFI  119
+
+
+>WP_049252929.1 NCS2 family permease [Neisseria elongata]
+Length=437
+
+ Score = 143 bits (361),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 67/84 (80%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIIIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVFVSG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFVSGIIFI  119
+
+
+>WP_003758793.1 MULTISPECIES: NCS2 family permease [Neisseria]
+Length=437
+
+ Score = 143 bits (361),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 67/84 (80%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIIIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVFVSG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFVSGIIFI  119
+
+
+>WP_003769367.1 NCS2 family permease [Neisseria elongata]
+Length=437
+
+ Score = 143 bits (361),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 67/84 (80%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIIIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVFVSG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFVSGIIFI  119
+
+
+>WP_049260800.1 NCS2 family permease [Neisseria bacilliformis]
+Length=447
+
+ Score = 143 bits (360),  Expect = 3e-039, Method: Compositional matrix adjust.
+ Identities = 67/84 (80%), Positives = 76/84 (90%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+++NP  LS+TGMD GAVFVATC++AAIGC VMG+ ANYPIALAPGMGLNAYFTY+
+Sbjct  36   MCYIVVINPATLSQTGMDFGAVFVATCISAAIGCFVMGLAANYPIALAPGMGLNAYFTYA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ ALAAVFVSG+VFL
+Sbjct  96   VVKGMGVPWQVALAAVFVSGIVFL  119
+
+
+>WP_049255861.1 NCS2 family permease [Neisseria bacilliformis]
+Length=447
+
+ Score = 143 bits (360),  Expect = 3e-039, Method: Compositional matrix adjust.
+ Identities = 67/84 (80%), Positives = 76/84 (90%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+++NP  LS+TGMD GAVFVATC++AAIGC VMG+ ANYPIALAPGMGLNAYFTY+
+Sbjct  36   MCYIVVINPATLSQTGMDFGAVFVATCISAAIGCFVMGLAANYPIALAPGMGLNAYFTYA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ ALAAVFVSG+VFL
+Sbjct  96   VVKGMGVPWQVALAAVFVSGIVFL  119
+
+
+>WP_007343668.1 NCS2 family permease [Neisseria bacilliformis]
+Length=447
+
+ Score = 143 bits (360),  Expect = 3e-039, Method: Compositional matrix adjust.
+ Identities = 67/84 (80%), Positives = 76/84 (90%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+++NP  LS+TGMD GAVFVATC++AAIGC VMG+ ANYPIALAPGMGLNAYFTY+
+Sbjct  36   MCYIVVINPATLSQTGMDFGAVFVATCISAAIGCFVMGLAANYPIALAPGMGLNAYFTYA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ ALAAVFVSG+VFL
+Sbjct  96   VVKGMGVPWQVALAAVFVSGIVFL  119
+
+
+>WP_085389182.1 guanine permease [Neisseria animaloris]
+Length=446
+
+ Score = 143 bits (360),  Expect = 3e-039, Method: Compositional matrix adjust.
+ Identities = 67/84 (80%), Positives = 76/84 (90%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP +LS TGMD GAVFVATC++AAIGC +MG +ANYPIALAPGMGLNAYFT+S
+Sbjct  36   MCYIIIVNPSVLSTTGMDFGAVFVATCISAAIGCFIMGALANYPIALAPGMGLNAYFTFS  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ ALAAVFVSG++F+
+Sbjct  96   VVKGMGVPWQVALAAVFVSGIIFI  119
+
+
+>WP_082296018.1 guanine permease [Neisseria gonorrhoeae]
+Length=430
+
+ Score = 142 bits (359),  Expect = 4e-039, Method: Compositional matrix adjust.
+ Identities = 66/84 (79%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+IVNPLIL ETGMD GAVFVATC+A+AIGC VMG I NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIVIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFIGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVF+SG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFISGLIFI  119
+
+
+>WP_003676704.1 NCS2 family permease [Neisseria cinerea]
+Length=436
+
+ Score = 142 bits (358),  Expect = 6e-039, Method: Compositional matrix adjust.
+ Identities = 66/84 (79%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+IVNPLIL ETGMD GAVFVATC+A+AIGC VMG I NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIVIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFIGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVF+SG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFISGLIFI  119
+
+
+>WP_082298695.1 guanine permease [Neisseria gonorrhoeae]
+Length=436
+
+ Score = 142 bits (358),  Expect = 6e-039, Method: Compositional matrix adjust.
+ Identities = 66/84 (79%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+IVNPLIL ETGMD GAVFVATC+A+AIGC VMG I NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIVIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFIGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVF+SG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFISGLIFI  119
+
+
+>WP_037587287.1 NCS2 family permease [Stenoxybacter acetivorans]
+Length=433
+
+ Score = 142 bits (357),  Expect = 7e-039, Method: Compositional matrix adjust.
+ Identities = 67/86 (78%), Positives = 79/86 (92%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            M YII+VNP ILSE GM++GAVFVATC+AAAIGCL+MG+IANYPIALAPGMGLNAYFTY+
+Sbjct  32   MSYIIVVNPTILSEAGMEYGAVFVATCIAAAIGCLMMGLIANYPIALAPGMGLNAYFTYA  91
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            V  GMGVPW+ AL AVFVSG++F+A+
+Sbjct  92   VVKGMGVPWEIALGAVFVSGILFVAL  117
+
+
+>WP_003689428.1 NCS2 family permease [Neisseria gonorrhoeae]
+ YP_208575.1 uracil-xanthine permease [Neisseria gonorrhoeae FA 1090]
+Length=436
+
+ Score = 142 bits (357),  Expect = 7e-039, Method: Compositional matrix adjust.
+ Identities = 66/84 (79%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+IVNPLIL ETGMD GAVFVATC+A+AIGC VMG I NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIVIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFIGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVF+SG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFISGLIFI  119
+
+
+>WP_070773223.1 NCS2 family permease [Neisseria sp. HMSC065D04]
+Length=437
+
+ Score = 142 bits (357),  Expect = 8e-039, Method: Compositional matrix adjust.
+ Identities = 67/84 (80%), Positives = 74/84 (88%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFTY+
+Sbjct  36   MCYIIIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTYA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGV WQ AL AVFVSG++F+
+Sbjct  96   VVKGMGVSWQVALGAVFVSGIIFI  119
+
+
+>WP_047760935.1 NCS2 family permease [Neisseria arctica]
+Length=437
+
+ Score = 142 bits (357),  Expect = 8e-039, Method: Compositional matrix adjust.
+ Identities = 67/84 (80%), Positives = 76/84 (90%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIII+NPLILS+ GMD GAVFVATC+A+AIGC VMG +ANYPIALAPGMGLNAYFTY+
+Sbjct  36   MCYIIIINPLILSDAGMDMGAVFVATCIASAIGCFVMGGLANYPIALAPGMGLNAYFTYA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVFVSG++F+
+Sbjct  96   VVKGMGVPWQIALGAVFVSGIIFI  119
+
+
+>WP_017629077.1 NCS2 family permease [Neisseria meningitidis]
+Length=436
+
+ Score = 142 bits (357),  Expect = 8e-039, Method: Compositional matrix adjust.
+ Identities = 65/84 (77%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+IVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIVIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVF+SG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFISGLIFI  119
+
+
+>WP_015815849.1 NCS2 family permease [Neisseria meningitidis]
+Length=436
+
+ Score = 142 bits (357),  Expect = 8e-039, Method: Compositional matrix adjust.
+ Identities = 65/84 (77%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+IVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIVIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVF+SG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFISGLIFI  119
+
+
+>WP_002246777.1 NCS2 family permease [Neisseria meningitidis]
+Length=436
+
+ Score = 142 bits (357),  Expect = 9e-039, Method: Compositional matrix adjust.
+ Identities = 65/84 (77%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+IVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIVIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVF+SG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFISGLIFI  119
+
+
+>WP_057330437.1 NCS2 family permease [Neisseria meningitidis]
+Length=436
+
+ Score = 141 bits (356),  Expect = 9e-039, Method: Compositional matrix adjust.
+ Identities = 65/84 (77%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+IVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIVIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVF+SG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFISGLIFI  119
+
+
+>WP_070455009.1 NCS2 family permease [Neisseria sp. HMSC31F04]
+Length=437
+
+ Score = 142 bits (357),  Expect = 9e-039, Method: Compositional matrix adjust.
+ Identities = 67/84 (80%), Positives = 74/84 (88%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLIL ETGMD GAV VATC+A+AIGC VMG I NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIIIVNPLILGETGMDMGAVLVATCIASAIGCFVMGFIGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVFVSG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFVSGIIFI  119
+
+
+>WP_061693433.1 NCS2 family permease [Neisseria meningitidis]
+Length=436
+
+ Score = 141 bits (356),  Expect = 9e-039, Method: Compositional matrix adjust.
+ Identities = 65/84 (77%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+IVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIVIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVF+SG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFISGLIFI  119
+
+
+>WP_050172964.1 NCS2 family permease [Neisseria meningitidis]
+Length=436
+
+ Score = 141 bits (356),  Expect = 9e-039, Method: Compositional matrix adjust.
+ Identities = 65/84 (77%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+IVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIVIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVF+SG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFISGLIFI  119
+
+
+>WP_057320180.1 NCS2 family permease [Neisseria meningitidis]
+Length=436
+
+ Score = 141 bits (356),  Expect = 9e-039, Method: Compositional matrix adjust.
+ Identities = 65/84 (77%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+IVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIVIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVF+SG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFISGLIFI  119
+
+
+>WP_050185911.1 NCS2 family permease [Neisseria meningitidis]
+Length=436
+
+ Score = 141 bits (356),  Expect = 9e-039, Method: Compositional matrix adjust.
+ Identities = 65/84 (77%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+IVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIVIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVF+SG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFISGLIFI  119
+
+
+>WP_002256398.1 NCS2 family permease [Neisseria meningitidis]
+Length=436
+
+ Score = 141 bits (356),  Expect = 9e-039, Method: Compositional matrix adjust.
+ Identities = 65/84 (77%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+IVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIVIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVF+SG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFISGLIFI  119
+
+
+>WP_002212503.1 MULTISPECIES: NCS2 family permease [Neisseria]
+ NP_273476.1 hypothetical protein NMB0428 [Neisseria meningitidis MC58]
+Length=436
+
+ Score = 141 bits (356),  Expect = 9e-039, Method: Compositional matrix adjust.
+ Identities = 65/84 (77%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+IVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIVIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVF+SG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFISGLIFI  119
+
+
+>WP_050301591.1 NCS2 family permease [Neisseria meningitidis]
+Length=436
+
+ Score = 141 bits (356),  Expect = 1e-038, Method: Compositional matrix adjust.
+ Identities = 65/84 (77%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+IVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIVIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVF+SG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFISGLIFI  119
+
+
+>WP_003752219.1 NCS2 family permease [Neisseria polysaccharea]
+Length=436
+
+ Score = 141 bits (356),  Expect = 1e-038, Method: Compositional matrix adjust.
+ Identities = 65/84 (77%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+IVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIVIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVF+SG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFISGLIFI  119
+
+
+>WP_042745128.1 NCS2 family permease [Neisseria meningitidis]
+Length=436
+
+ Score = 141 bits (356),  Expect = 1e-038, Method: Compositional matrix adjust.
+ Identities = 65/84 (77%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+IVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIVIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVF+SG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFISGLIFI  119
+
+
+>WP_028778661.1 NCS2 family permease [Shimazuella kribbensis]
+Length=443
+
+ Score = 142 bits (357),  Expect = 1e-038, Method: Compositional matrix adjust.
+ Identities = 65/84 (77%), Positives = 77/84 (92%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            M YII+VNP  LS+TGMD GAVFVATCL+AA+G L+MG+IANYPIALAPGMGLNAYFT++
+Sbjct  36   MAYIILVNPSFLSQTGMDFGAVFVATCLSAALGTLLMGMIANYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            VC+GMG+PWQ AL AVF+SGV+FL
+Sbjct  96   VCLGMGIPWQKALGAVFISGVIFL  119
+
+
+>WP_021437865.1 NCS2 family permease [Neisseria meningitidis]
+Length=436
+
+ Score = 141 bits (356),  Expect = 1e-038, Method: Compositional matrix adjust.
+ Identities = 65/84 (77%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+IVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIVIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVF+SG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFISGLIFI  119
+
+
+>WP_002243271.1 NCS2 family permease [Neisseria meningitidis]
+Length=436
+
+ Score = 141 bits (356),  Expect = 1e-038, Method: Compositional matrix adjust.
+ Identities = 65/84 (77%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+IVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIVIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVF+SG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFISGLIFI  119
+
+
+>WP_002239541.1 NCS2 family permease [Neisseria meningitidis]
+Length=436
+
+ Score = 141 bits (356),  Expect = 1e-038, Method: Compositional matrix adjust.
+ Identities = 65/84 (77%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+IVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIVIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVF+SG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFISGLIFI  119
+
+
+>WP_002235504.1 NCS2 family permease [Neisseria meningitidis]
+Length=436
+
+ Score = 141 bits (356),  Expect = 1e-038, Method: Compositional matrix adjust.
+ Identities = 65/84 (77%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+IVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIVIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVF+SG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFISGLIFI  119
+
+
+>WP_061702921.1 NCS2 family permease [Neisseria meningitidis]
+Length=436
+
+ Score = 141 bits (356),  Expect = 1e-038, Method: Compositional matrix adjust.
+ Identities = 65/84 (77%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+IVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIVIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVF+SG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFISGLIFI  119
+
+
+>WP_003711126.1 NCS2 family permease [Neisseria lactamica]
+Length=436
+
+ Score = 141 bits (356),  Expect = 1e-038, Method: Compositional matrix adjust.
+ Identities = 65/84 (77%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+IVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIVIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVF+SG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFISGLIFI  119
+
+
+>WP_016670628.1 NCS2 family permease [Neisseria meningitidis]
+Length=436
+
+ Score = 141 bits (356),  Expect = 1e-038, Method: Compositional matrix adjust.
+ Identities = 65/84 (77%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+IVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIVIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVF+SG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFISGLIFI  119
+
+
+>WP_002223422.1 NCS2 family permease [Neisseria meningitidis]
+Length=436
+
+ Score = 141 bits (356),  Expect = 1e-038, Method: Compositional matrix adjust.
+ Identities = 65/84 (77%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+IVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIVIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVF+SG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFISGLIFI  119
+
+
+>WP_025457543.1 NCS2 family permease [Neisseria polysaccharea]
+Length=436
+
+ Score = 141 bits (356),  Expect = 1e-038, Method: Compositional matrix adjust.
+ Identities = 65/84 (77%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+IVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIVIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVF+SG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFISGLIFI  119
+
+
+>WP_061726642.1 NCS2 family permease [Neisseria meningitidis]
+Length=436
+
+ Score = 141 bits (356),  Expect = 1e-038, Method: Compositional matrix adjust.
+ Identities = 65/84 (77%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+IVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIVIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVF+SG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFISGLIFI  119
+
+
+>WP_050177885.1 NCS2 family permease [Neisseria meningitidis]
+Length=436
+
+ Score = 141 bits (356),  Expect = 1e-038, Method: Compositional matrix adjust.
+ Identities = 65/84 (77%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+IVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIVIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVF+SG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFISGLIFI  119
+
+
+>WP_003713426.1 NCS2 family permease [Neisseria lactamica]
+Length=436
+
+ Score = 141 bits (356),  Expect = 1e-038, Method: Compositional matrix adjust.
+ Identities = 65/84 (77%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+IVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIVIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVF+SG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFISGLIFI  119
+
+
+>WP_019272159.1 NCS2 family permease [Neisseria lactamica]
+Length=436
+
+ Score = 141 bits (356),  Expect = 1e-038, Method: Compositional matrix adjust.
+ Identities = 65/84 (77%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+IVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIVIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVF+SG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFISGLIFI  119
+
+
+>WP_066080232.1 NCS2 family permease [Bergeriella denitrificans]
+Length=437
+
+ Score = 141 bits (356),  Expect = 1e-038, Method: Compositional matrix adjust.
+ Identities = 67/84 (80%), Positives = 74/84 (88%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNPLIL E GMD GAVFVATC+AAAIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIIIVNPLILGEAGMDMGAVFVATCIAAAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVFVSG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFVSGLIFI  119
+
+
+>WP_085363335.1 guanine permease [Neisseria zoodegmatis]
+Length=447
+
+ Score = 142 bits (357),  Expect = 1e-038, Method: Compositional matrix adjust.
+ Identities = 67/84 (80%), Positives = 76/84 (90%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+IVNP ILS TGMD GAVFVATC++AAIGC +MG +ANYPIALAPGMGLNAYFT+S
+Sbjct  37   MCYIVIVNPSILSITGMDFGAVFVATCISAAIGCFIMGALANYPIALAPGMGLNAYFTFS  96
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ ALAAVFVSG++F+
+Sbjct  97   VVKGMGVPWQVALAAVFVSGIIFI  120
+
+
+>WP_050185023.1 NCS2 family permease [Neisseria meningitidis]
+Length=436
+
+ Score = 141 bits (356),  Expect = 1e-038, Method: Compositional matrix adjust.
+ Identities = 65/84 (77%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+IVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIVIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVF+SG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFISGLIFI  119
+
+
+>WP_002253834.1 NCS2 family permease [Neisseria meningitidis]
+Length=436
+
+ Score = 141 bits (356),  Expect = 1e-038, Method: Compositional matrix adjust.
+ Identities = 65/84 (77%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+IVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIVIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVF+SG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFISGLIFI  119
+
+
+>WP_002238773.1 NCS2 family permease [Neisseria meningitidis]
+Length=436
+
+ Score = 141 bits (356),  Expect = 1e-038, Method: Compositional matrix adjust.
+ Identities = 65/84 (77%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+IVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIVIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVF+SG++F+
+Sbjct  96   VVKGMGVPWQVALGAVFISGLIFI  119
+
+
+>WP_054599569.1 MULTISPECIES: NCS2 family permease [Neisseria]
+Length=447
+
+ Score = 141 bits (356),  Expect = 1e-038, Method: Compositional matrix adjust.
+ Identities = 67/84 (80%), Positives = 76/84 (90%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYIIIVNP ILS TGMD GAVFVATC++AAIGC +MG +ANYPIALAPGMGLNAYFT+S
+Sbjct  37   MCYIIIVNPGILSTTGMDFGAVFVATCISAAIGCFIMGALANYPIALAPGMGLNAYFTFS  96
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ ALAAVF+SG++F+
+Sbjct  97   VVKGMGVPWQVALAAVFMSGIIFI  120
+
+
+>WP_050304547.1 NCS2 family permease [Neisseria meningitidis]
+Length=436
+
+ Score = 141 bits (355),  Expect = 2e-038, Method: Compositional matrix adjust.
+ Identities = 65/84 (77%), Positives = 75/84 (89%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+IVNPLIL ETGMD GAVFVATC+A+AIGC VMG + NYPIALAPGMGLNAYFT++
+Sbjct  36   MCYIVIVNPLILGETGMDMGAVFVATCIASAIGCFVMGFVGNYPIALAPGMGLNAYFTFA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ AL AVF+SG++F+
+Sbjct  96   VVKGMGVPWQFALGAVFISGLIFI  119
+
+
+>WP_029800229.1 NCS2 family permease, partial [Vibrio parahaemolyticus]
+Length=324
+
+ Score = 138 bits (348),  Expect = 2e-038, Method: Compositional matrix adjust.
+ Identities = 65/84 (77%), Positives = 74/84 (88%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            M YII VNP ILS+TGMD GA+FVATCLAAAIGC +MG++ANYPIA APGMGLNA+FTYS
+Sbjct  29   MAYIIFVNPAILSDTGMDRGAIFVATCLAAAIGCFIMGLVANYPIAQAPGMGLNAFFTYS  88
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V +GMG  WQ ALAAVFVSGV+F+
+Sbjct  89   VVLGMGYTWQVALAAVFVSGVLFI  112
+
+
+>WP_066566269.1 NCS2 family permease [Snodgrassella sp. CFCC 13594]
+Length=437
+
+ Score = 140 bits (354),  Expect = 2e-038, Method: Compositional matrix adjust.
+ Identities = 66/86 (77%), Positives = 77/86 (90%), Gaps = 0/86 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            M YII+VNP IL E GMD GAVFVATC+A+AIGC++MG+IANYPIALAPGMGLNAYFTY+
+Sbjct  36   MSYIIVVNPTILHEAGMDFGAVFVATCIASAIGCMMMGLIANYPIALAPGMGLNAYFTYA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFLAI  86
+            V  GMG+PWQ AL AVFVSGV+F+A+
+Sbjct  96   VVKGMGIPWQVALGAVFVSGVIFVAL  121
+
+
+>WP_085415776.1 guanine permease [Neisseria canis]
+Length=449
+
+ Score = 141 bits (355),  Expect = 2e-038, Method: Compositional matrix adjust.
+ Identities = 66/84 (79%), Positives = 76/84 (90%), Gaps = 0/84 (0%)
+
+Query  1    MCYIIIVNPLILSETGMDHGAVFVATCLAAAIGCLVMGIIANYPIALAPGMGLNAYFTYS  60
+            MCYI+IVNPL LS TGMD GAVFVATC++AAIGC +MG +ANYPIALAPGMGLNAYFTY+
+Sbjct  36   MCYIVIVNPLTLSNTGMDFGAVFVATCISAAIGCFIMGALANYPIALAPGMGLNAYFTYA  95
+
+Query  61   VCMGMGVPWQTALAAVFVSGVVFL  84
+            V  GMGVPWQ ALAAVF+SG++F+
+Sbjct  96   VVGGMGVPWQVALAAVFMSGIIFI  119
+
+
+
+Lambda      K        H
+   0.332    0.143    0.458 
+
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+
+Effective search space used: 775361951957
+
+
+  Database: NCBI Protein Reference Sequences
+    Posted date:  May 29, 2017 12:00 AM
+  Number of letters in database: 31,412,196,622
+  Number of sequences in database:  82,027,677
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40

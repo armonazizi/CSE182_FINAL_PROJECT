@@ -1,0 +1,4316 @@
+BLASTP 2.6.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: NCBI Protein Reference Sequences
+           82,027,677 sequences; 31,412,196,622 total letters
+
+
+
+Query= embl-cds:ABO11040 phosphocarrier protein (HPr-like) OS=Acinetobacter
+baumannii (strain ATCC 17978 / CIP 53.77 / LMG 1025 / NCDC KC755 /
+5377) GN=A1S_0589 SV=1 UP=UP000006737:Chromosome
+
+Length=89
+
+RID: JU7PNZMV015
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+WP_001984428.1  phosphocarrier protein HPr [Acinetobacter pittii]     179     5e-057
+WP_000567533.1  MULTISPECIES: phosphocarrier protein HPr [Acineto...  178     5e-057
+WP_068612358.1  phosphocarrier protein HPr [Acinetobacter pittii]     177     1e-056
+WP_078224446.1  phosphocarrier protein HPr [Acinetobacter pittii]     177     1e-056
+WP_086377284.1  phosphocarrier protein HPr [Acinetobacter baumannii]  177     1e-056
+WP_016804447.1  MULTISPECIES: phosphocarrier protein HPr [Acineto...  177     2e-056
+WP_019458135.1  MULTISPECIES: phosphocarrier protein HPr [Acineto...  176     3e-056
+WP_021510640.1  MULTISPECIES: phosphocarrier protein HPr [Acineto...  176     3e-056
+WP_086321552.1  phosphocarrier protein HPr [Acinetobacter baumannii]  176     6e-056
+WP_013198928.1  MULTISPECIES: phosphocarrier protein HPr [Acineto...  175     9e-056
+WP_064534624.1  phosphocarrier protein HPr [Acinetobacter baumannii]  175     1e-055
+WP_025469051.1  phosphocarrier protein HPr [Acinetobacter seifertii]  173     5e-055
+WP_042894989.1  MULTISPECIES: phosphocarrier protein HPr [Acineto...  173     5e-055
+WP_034696949.1  phosphocarrier protein HPr [Acinetobacter bohemicus]  169     1e-053
+WP_034598158.1  MULTISPECIES: phosphocarrier protein HPr [Acineto...  169     2e-053
+WP_019836310.1  phosphocarrier protein HPr [Acinetobacter sp. MDS7A]  169     2e-053
+WP_053578769.1  phosphocarrier protein HPr [Acinetobacter sp. TTH...  169     2e-053
+WP_086195384.1  phosphocarrier protein HPr [Acinetobacter sp. ANC...  169     3e-053
+WP_010325935.1  MULTISPECIES: phosphocarrier protein HPr [Acineto...  168     4e-053
+WP_086190430.1  phosphocarrier protein HPr [Acinetobacter sp. ANC...  168     5e-053
+WP_026438354.1  phosphocarrier protein HPr [Acinetobacter towneri]    167     1e-052
+WP_086212820.1  phosphocarrier protein HPr [Acinetobacter sp. ANC...  167     1e-052
+WP_067556993.1  phosphocarrier protein HPr [Acinetobacter larvae]     167     1e-052
+WP_086187122.1  phosphocarrier protein HPr [Acinetobacter sp. ANC...  167     2e-052
+WP_016166136.1  phosphocarrier protein NPr [Acinetobacter tandoii]    167     2e-052
+WP_086175841.1  phosphocarrier protein HPr [Acinetobacter sp. ANC...  167     2e-052
+WP_065994388.1  phosphocarrier protein HPr [Acinetobacter sp. WCH...  167     2e-052
+WP_086209848.1  phosphocarrier protein HPr [Acinetobacter sp. ANC...  166     2e-052
+WP_086198359.1  phosphocarrier protein HPr [Acinetobacter sp. ANC...  166     3e-052
+WP_005007517.1  HPr family phosphocarrier protein [Acinetobacter ...  166     3e-052
+WP_058868961.1  phosphocarrier protein HPr [Acinetobacter johnsonii]  166     3e-052
+WP_068907763.1  phosphocarrier protein HPr [Acinetobacter sp. WCH...  166     3e-052
+WP_034587207.1  phosphocarrier protein HPr [Acinetobacter sp. HR7]    166     3e-052
+WP_086204071.1  phosphocarrier protein HPr [Acinetobacter sp. ANC...  166     5e-052
+WP_044109984.1  MULTISPECIES: phosphocarrier protein HPr [Acineto...  166     5e-052
+WP_034169914.1  MULTISPECIES: phosphocarrier protein HPr [Acineto...  166     6e-052
+WP_068885413.1  phosphocarrier protein HPr [Acinetobacter celticus]   165     7e-052
+WP_016542069.1  phosphocarrier protein of PTS [Acinetobacter gyll...  165     8e-052
+WP_035265349.1  phosphocarrier protein HPr [Acinetobacter sp. Ver3]   165     8e-052
+WP_067728437.1  phosphocarrier protein HPr [Acinetobacter sp. NCu...  165     9e-052
+WP_067763492.1  MULTISPECIES: phosphocarrier protein HPr [Acineto...  165     1e-051
+WP_067666356.1  phosphocarrier protein HPr [Acinetobacter sp. ANC...  165     1e-051
+WP_004924499.1  MULTISPECIES: HPr family phosphocarrier protein [...  165     1e-051
+WP_004774692.1  MULTISPECIES: HPr family phosphocarrier protein [...  164     1e-051
+WP_008303424.1  MULTISPECIES: phosphocarrier protein HPr [Acineto...  164     1e-051
+WP_005198445.1  HPr family phosphocarrier protein [Acinetobacter ...  164     2e-051
+WP_034438008.1  MULTISPECIES: phosphocarrier protein HPr [Acineto...  164     3e-051
+WP_005016209.1  MULTISPECIES: phosphocarrier protein HPr [Acineto...  164     3e-051
+WP_086205830.1  phosphocarrier protein HPr [Acinetobacter sp. ANC...  164     3e-051
+WP_004760832.1  HPr family phosphocarrier protein [Acinetobacter ...  164     3e-051
+WP_023272741.1  HPr family phosphocarrier protein [Acinetobacter ...  163     4e-051
+WP_025096094.1  MULTISPECIES: phosphocarrier protein HPr [Acineto...  163     5e-051
+WP_039047744.1  phosphocarrier protein HPr [Acinetobacter junii]      163     6e-051
+WP_034608740.1  MULTISPECIES: phosphocarrier protein HPr [Acineto...  163     6e-051
+WP_054580219.1  phosphocarrier protein HPr [Acinetobacter equi]       162     7e-051
+WP_078189594.1  phosphocarrier protein HPr [Acinetobacter sp. ANC...  162     8e-051
+WP_004637957.1  MULTISPECIES: phosphocarrier protein HPr [Acineto...  162     8e-051
+WP_004753685.1  MULTISPECIES: HPr family phosphocarrier protein [...  162     1e-050
+WP_016806787.1  MULTISPECIES: phosphocarrier protein HPr [Acineto...  162     1e-050
+WP_004672506.1  HPr family phosphocarrier protein [Acinetobacter ...  162     1e-050
+WP_039621073.1  phosphocarrier protein HPr [Acinetobacter harbine...  162     2e-050
+WP_067656002.1  phosphocarrier protein HPr [Acinetobacter sp. TGL...  162     2e-050
+WP_004678316.1  MULTISPECIES: phosphocarrier protein HPr [Acineto...  162     2e-050
+WP_064094762.1  MULTISPECIES: phosphocarrier protein HPr [Acineto...  162     2e-050
+WP_004881777.1  MULTISPECIES: HPr family phosphocarrier protein [...  161     2e-050
+WP_016657424.1  HPr family phosphocarrier protein [Acinetobacter ...  161     3e-050
+WP_004804467.1  MULTISPECIES: HPr family phosphocarrier protein [...  161     3e-050
+WP_007479523.1  MULTISPECIES: phosphocarrier protein HPr [Acineto...  161     3e-050
+WP_004903438.1  HPr family phosphocarrier protein [Acinetobacter ...  161     4e-050
+WP_004824976.1  MULTISPECIES: phosphocarrier protein HPr [Acineto...  160     4e-050
+WP_061523610.1  phosphocarrier protein HPr [Acinetobacter venetia...  160     5e-050
+WP_004960701.1  HPr family phosphocarrier protein [Acinetobacter ...  160     5e-050
+WP_004725933.1  MULTISPECIES: HPr family phosphocarrier protein [...  160     5e-050
+WP_004993001.1  MULTISPECIES: phosphocarrier protein HPr [Acineto...  160     6e-050
+WP_004664196.1  MULTISPECIES: HPr family phosphocarrier protein [...  160     7e-050
+WP_004854821.1  HPr family phosphocarrier protein [Acinetobacter ...  160     8e-050
+WP_004994657.1  HPr family phosphocarrier protein [Acinetobacter ...  160     8e-050
+WP_004655677.1  MULTISPECIES: phosphocarrier protein HPr [Acineto...  160     9e-050
+WP_005164368.1  HPr family phosphocarrier protein [Acinetobacter ...  159     1e-049
+WP_018677535.1  phosphocarrier protein HPr [Acinetobacter tjernbe...  156     2e-048
+WP_086181140.1  phosphocarrier protein HPr [Acinetobacter sp. ANC...  156     2e-048
+WP_010113786.1  phosphocarrier protein HPr [Acinetobacter sp. P8-...  155     1e-047
+WP_070070933.1  phosphocarrier protein HPr [Acinetobacter qingfen...  150     1e-045
+WP_026471437.1  MULTISPECIES: phosphocarrier protein HPr [Alkanin...  141     3e-042
+WP_066050579.1  MULTISPECIES: phosphocarrier protein HPr [Haliogl...  104     8e-028
+WP_068860360.1  phosphocarrier protein HPr [Perlucidibaca sp. BK296]  102     7e-027
+WP_076720334.1  phosphocarrier protein HPr [Motiliproteus sp. MSK...  97.8    6e-025
+WP_022954822.1  phosphocarrier protein HPr [Perlucidibaca piscinae]   96.3    2e-024
+WP_008929208.1  phosphocarrier protein HPr [Alcanivorax hongdenge...  96.3    2e-024
+WP_007227190.1  phosphocarrier protein HPr [marine gamma proteoba...  95.9    3e-024
+WP_067610995.1  phosphocarrier protein HPr [Alcanivorax sp. CP2C]     95.5    4e-024
+WP_075998600.1  phosphocarrier protein HPr [Halioglobus pacificus]    95.1    6e-024
+WP_063142446.1  phosphocarrier protein HPr [Alcanivorax sp. KX64203]  92.8    4e-023
+WP_022996265.1  MULTISPECIES: phosphocarrier protein HPr [Alcaniv...  92.8    4e-023
+WP_026948584.1  MULTISPECIES: phosphocarrier protein HPr [Alcaniv...  92.4    6e-023
+WP_068476104.1  MULTISPECIES: phosphocarrier protein HPr [Oleiphi...  92.4    7e-023
+WP_008294472.1  phosphocarrier protein HPr [Congregibacter litora...  92.0    8e-023
+WP_014995908.1  phosphocarrier protein HPr [Alcanivorax dieselolei]   91.7    1e-022
+WP_070055983.1  phosphocarrier protein HPr [Marinobacter sp. X15-...  91.3    2e-022
+WP_011587834.1  MULTISPECIES: phosphocarrier protein HPr [Alcaniv...  90.9    2e-022
+WP_054286893.1  MULTISPECIES: phosphocarrier protein HPr [Gulbenk...  90.1    5e-022
+WP_008283420.1  phosphocarrier protein HPr [gamma proteobacterium...  90.1    6e-022
+WP_063954793.1  phosphocarrier protein HPr [Achromobacter xylosox...  89.7    7e-022
+WP_043545224.1  MULTISPECIES: phosphocarrier protein HPr [Achromo...  89.4    9e-022
+WP_007235761.1  phosphocarrier protein HPr [marine gamma proteoba...  89.4    1e-021
+WP_058526462.1  phosphocarrier protein HPr [Legionella erythra]       89.4    1e-021
+WP_058022412.1  phosphocarrier protein HPr [Pseudohongiella spiru...  89.0    2e-021
+WP_062816678.1  MULTISPECIES: phosphocarrier protein HPr [Alcaniv...  89.0    2e-021
+WP_006387993.1  MULTISPECIES: phosphocarrier protein HPr [Achromo...  88.6    2e-021
+WP_042792966.1  MULTISPECIES: phosphocarrier protein HPr [Achromo...  88.6    2e-021
+WP_013392913.1  MULTISPECIES: phosphocarrier protein HPr [Achromo...  88.2    3e-021
+WP_044618509.1  phosphocarrier protein HPr [Gynuella sunshinyii]      88.2    3e-021
+WP_035248097.1  phosphocarrier protein HPr [Alcanivorax jadensis]     88.2    3e-021
+WP_086078400.1  phosphocarrier protein HPr [Bordetella genomosp. 13]  88.2    3e-021
+WP_027313828.1  phosphocarrier protein HPr [Balneatrix alpica]        87.8    4e-021
+WP_027950682.1  phosphocarrier protein HPr [Haliea salexigens]        87.8    4e-021
+WP_066659742.1  phosphocarrier protein HPr [Bordetella flabilis]      87.8    5e-021
+WP_007150503.1  MULTISPECIES: phosphocarrier protein HPr [Alcaniv...  87.4    5e-021
+WP_020409663.1  phosphocarrier protein HPr [Hahella ganghwensis]      87.4    7e-021
+WP_056569687.1  phosphocarrier protein HPr [Achromobacter sp. Roo...  87.4    7e-021
+WP_019142190.1  phosphocarrier protein HPr [Noviherbaspirillum ma...  87.4    7e-021
+WP_025517656.1  phosphocarrier protein HPr [Bordetella trematum]      87.0    8e-021
+WP_055841312.1  phosphocarrier protein HPr [Xylophilus sp. Leaf220]   87.0    8e-021
+WP_070119113.1  phosphocarrier protein HPr [Pseudohongiella actic...  86.7    1e-020
+WP_022984937.1  phosphocarrier protein HPr [Alcanivorax sp. P2S70]    86.7    1e-020
+WP_007226019.1  phosphocarrier protein HPr [marine gamma proteoba...  86.7    1e-020
+WP_028293186.1  phosphocarrier protein HPr [Oceanobacter kriegii]     86.3    2e-020
+WP_033461398.1  phosphocarrier protein HPr [Bordetella bronchisep...  85.9    2e-020
+WP_014111781.1  phosphocarrier protein HPr [Taylorella asinigenit...  85.9    2e-020
+WP_025135351.1  phosphocarrier protein HPr [Achromobacter sp. DH1f]   85.9    2e-020
+WP_019619899.1  phosphocarrier protein HPr [Amphritea japonica]       85.9    2e-020
+WP_006226962.1  phosphocarrier protein HPr [Achromobacter piechau...  85.9    2e-020
+WP_013260714.1  phosphocarrier protein HPr [gamma proteobacterium...  85.9    2e-020
+WP_085759020.1  phosphocarrier protein HPr [Oceanicoccus sagamien...  85.9    3e-020
+WP_039407769.1  phosphocarrier protein HPr [Pandoraea pulmonicola]    85.9    3e-020
+WP_012417078.1  phosphocarrier protein HPr [Bordetella avium]         85.5    3e-020
+WP_027707871.1  phosphocarrier protein HPr [Zooshikella ganghwensis]  85.5    3e-020
+WP_067014856.1  phosphocarrier protein HPr [Marinomonas spartinae]    85.5    3e-020
+WP_038485523.1  HPr family phosphocarrier protein [Halomonas camp...  85.5    4e-020
+WP_068452852.1  MULTISPECIES: phosphocarrier protein HPr [Oleiphi...  85.5    4e-020
+WP_024023061.1  phosphocarrier protein HPr [Marinomonas profundim...  85.5    4e-020
+WP_077277624.1  phosphocarrier protein HPr [Thioalkalivibrio deni...  85.5    4e-020
+WP_002812792.1  phosphocarrier protein HPr [Nitrosococcus oceani]     85.5    4e-020
+WP_077733016.1  phosphocarrier protein HPr [Paenalcaligenes hominis]  85.5    4e-020
+WP_076516411.1  phosphocarrier protein HPr [Oleibacter marinus]       85.5    4e-020
+WP_009721969.1  HPr family phosphocarrier protein [Halomonas sp. ...  85.5    4e-020
+WP_025372908.1  phosphocarrier protein HPr [Advenella mimigardefo...  85.1    4e-020
+WP_009019205.1  phosphocarrier protein HPr [Luminiphilus syltensis]   85.1    4e-020
+WP_012249738.1  phosphocarrier protein HPr [Bordetella petrii]        85.1    5e-020
+WP_021478263.1  MULTISPECIES: phosphocarrier protein HPr [Chromob...  85.1    5e-020
+WP_014750774.1  phosphocarrier protein HPr [Advenella kashmirensis]   85.1    5e-020
+WP_048495737.1  phosphocarrier protein HPr [Marinobacter subterrani]  85.1    6e-020
+WP_036130717.1  phosphocarrier protein HPr [Marinobacter nitratir...  85.1    6e-020
+WP_005882018.1  phosphocarrier protein HPr [Oxalobacter formigenes]   84.7    7e-020
+WP_026290010.1  phosphocarrier protein HPr [Thioalkalivibrio sulf...  84.7    7e-020
+WP_009207122.1  MULTISPECIES: phosphocarrier protein HPr [Sulfuri...  84.7    7e-020
+WP_017430656.1  HPr family phosphocarrier protein [Halomonas jeot...  84.7    7e-020
+WP_054343582.1  phosphocarrier protein HPr [Neptunomonas antarctica]  84.7    7e-020
+WP_086057848.1  phosphocarrier protein HPr [Bordetella genomosp. 9]   84.7    8e-020
+WP_069183070.1  phosphocarrier protein HPr [Marinobacter adhaerens]   84.7    8e-020
+WP_036189272.1  phosphocarrier protein HPr [Marinobacterium sp. A...  84.7    8e-020
+WP_026641187.1  phosphocarrier protein HPr [Bordetella petrii]        84.7    8e-020
+WP_028358125.1  phosphocarrier protein HPr [Brackiella oedipodis]     84.3    9e-020
+WP_043116522.1  phosphocarrier protein HPr [Pseudacidovorax inter...  84.3    9e-020
+WP_012070121.1  MULTISPECIES: phosphocarrier protein HPr [Marinom...  84.3    9e-020
+WP_003812598.1  MULTISPECIES: phosphocarrier protein HPr [Bordete...  84.3    9e-020
+WP_035231678.1  phosphocarrier protein HPr [Alcanivorax nanhaiticus]  84.3    1e-019
+WP_006218730.1  phosphocarrier protein HPr [Achromobacter piechau...  84.3    1e-019
+WP_012698388.1  phosphocarrier protein HPr [Laribacter hongkongen...  84.3    1e-019
+WP_039917492.1  phosphocarrier protein HPr [Cellvibrio mixtus]        84.3    1e-019
+WP_013219370.1  phosphocarrier protein HPr [Nitrosococcus watsonii]   84.3    1e-019
+WP_017232712.1  phosphocarrier protein HPr [Pandoraea sp. B-6]        84.3    1e-019
+WP_053244586.1  phosphocarrier protein HPr [Achromobacter sp. DMS1]   84.0    1e-019
+WP_003800381.1  MULTISPECIES: phosphocarrier protein HPr [Alcalig...  84.0    1e-019
+WP_013521292.1  phosphocarrier protein HPr [Taylorella equigenita...  84.0    1e-019
+WP_008938950.1  phosphotransferase system, phosphocarrier protein...  84.0    1e-019
+WP_038499261.1  phosphocarrier protein HPr [Basilea psittacipulmo...  84.0    1e-019
+WP_029580479.1  phosphocarrier protein HPr [Bordetella hinzii]        84.0    1e-019
+WP_008810293.1  phosphocarrier protein HPr [Parasutterella excrem...  84.0    1e-019
+WP_058531542.1  phosphocarrier protein HPr [Legionella rubrilucens]   84.0    2e-019
+WP_050448595.1  phosphocarrier protein HPr [Achromobacter spanius]    84.0    2e-019
+WP_066634672.1  phosphocarrier protein HPr [Bordetella sp. H567]      84.0    2e-019
+WP_030072267.1  HPr family phosphocarrier protein [Halomonas alka...  84.0    2e-019
+WP_043682145.1  phosphocarrier protein HPr [Castellaniella defrag...  84.0    2e-019
+WP_058377092.1  phosphocarrier protein HPr [Pandoraea norimbergen...  84.0    2e-019
+WP_083005825.1  HPr family phosphocarrier protein [Halomonas sp. GT]  83.6    2e-019
+WP_015555240.1  phosphocarrier protein HPr [Taylorella equigenita...  83.6    2e-019
+WP_066610824.1  phosphocarrier protein HPr [Crenobacter luteus]       83.6    2e-019
+WP_027832688.1  phosphocarrier protein HPr [Marinobacter sp. HL-58]   83.6    2e-019
+WP_010322869.1  phosphocarrier protein HPr [Marinobacterium stani...  83.6    2e-019
+WP_022523940.1  phosphocarrier protein NPr [Halomonas sp. A3H3]       83.6    2e-019
+WP_011399061.1  phosphocarrier protein HPr [Hahella chejuensis]       83.6    2e-019
+WP_075172833.1  phosphocarrier protein HPr [Neptunomonas phycophila]  83.6    2e-019
+WP_010804746.1  phosphocarrier protein HPr [Pandoraea sp. SD6-2]      83.6    2e-019
+WP_027960831.1  HPr family phosphocarrier protein [Halomonas halo...  83.6    2e-019
+WP_019939336.1  phosphocarrier protein HPr [Bordetella sp. FB-8]      83.6    2e-019
+WP_078087179.1  HPr family phosphocarrier protein [Halomonas sp. ...  83.6    2e-019
+WP_048409415.1  phosphocarrier protein HPr [Chromobacterium sp. LK1]  83.6    2e-019
+WP_008105920.1  phosphocarrier protein HPr [Methylophilales bacte...  83.6    2e-019
+WP_013796494.1  phosphocarrier protein HPr [Marinomonas posidonica]   83.6    2e-019
+WP_035267690.1  phosphocarrier protein HPr [Alcaligenes faecalis]     83.6    2e-019
+WP_028009391.1  phosphocarrier protein HPr [Solimonas flava]          83.2    2e-019
+WP_023597826.1  MULTISPECIES: phosphocarrier protein HPr [Pandoraea]  83.2    2e-019
+WP_027959080.1  MULTISPECIES: HPr family phosphocarrier protein [...  83.2    2e-019
+WP_069961020.1  phosphocarrier protein HPr [Lacunisphaera limnoph...  83.6    2e-019
+WP_052569588.1  phosphocarrier protein HPr [Endomicrobium proavitum]  83.2    3e-019
+WP_009576653.1  phosphocarrier protein HPr [gamma proteobacterium...  83.2    3e-019
+WP_046807727.1  phosphocarrier protein HPr [Achromobacter sp. LC458]  83.2    3e-019
+WP_024005987.1  phosphocarrier protein HPr [Advenella kashmirensis]   83.2    3e-019
+WP_009521028.1  phosphocarrier protein HPr [Ralstonia sp. PBA]        83.2    3e-019
+WP_020649682.1  phosphocarrier protein HPr [Solimonas variicoloris]   83.2    3e-019
+WP_067982540.1  phosphocarrier protein HPr [Neptuniibacter pecten...  83.2    3e-019
+WP_042114247.1  phosphocarrier protein HPr [Pandoraea apista]         83.2    3e-019
+WP_040808906.1  phosphocarrier protein HPr [gamma proteobacterium...  83.2    3e-019
+WP_005013636.1  MULTISPECIES: phosphocarrier protein HPr [Alcalig...  83.2    3e-019
+WP_068834085.1  phosphocarrier protein HPr [Polaromonas jejuensis]    83.2    3e-019
+WP_041977171.1  HPr family phosphocarrier protein [Pyrinomonas me...  83.2    3e-019
+WP_075879117.1  HPr family phosphocarrier protein [Halomonas sp. ...  83.2    3e-019
+WP_086064307.1  phosphocarrier protein HPr [Bordetella genomosp. 8]   82.8    4e-019
+WP_011799671.1  phosphocarrier protein HPr [Polaromonas naphthale...  82.8    4e-019
+WP_012637300.1  phosphocarrier protein HPr [Thioalkalivibrio sulf...  82.8    4e-019
+WP_066739816.1  phosphocarrier protein HPr [Cupriavidus sp. D384]     82.8    4e-019
+WP_063334139.1  phosphocarrier protein HPr [Marinomonas sp. TW1]      82.8    4e-019
+WP_011134370.1  MULTISPECIES: phosphocarrier protein HPr [Chromob...  82.8    4e-019
+WP_068810406.1  MULTISPECIES: phosphocarrier protein HPr [Pseudoh...  82.8    4e-019
+WP_012136296.1  phosphotransferase system, phosphocarrier protein...  82.8    4e-019
+WP_013146929.1  phosphocarrier protein HPr [Methylotenera versati...  82.8    4e-019
+WP_007231489.1  phosphocarrier protein HPr [gamma proteobacterium...  82.8    5e-019
+WP_045847765.1  MULTISPECIES: phosphocarrier protein HPr [Aquitalea]  82.8    5e-019
+WP_015488210.1  HPr family phosphocarrier protein [Thalassolituus...  82.8    5e-019
+WP_009666999.1  phosphocarrier protein HPr [Oxalobacteraceae bact...  82.8    5e-019
+WP_066347767.1  phosphocarrier protein HPr [Bordetella bronchialis]   82.8    5e-019
+WP_062781917.1  phosphocarrier protein HPr [Marinobacter sp. YWL01]   82.8    5e-019
+WP_056178857.1  phosphocarrier protein HPr [Pseudorhodoferax sp. ...  82.4    5e-019
+WP_011289803.1  phosphocarrier protein HPr [Dechloromonas aromatica]  82.4    5e-019
+WP_025280567.1  phosphocarrier protein HPr [Ectothiorhodospira ha...  82.4    5e-019
+WP_067379345.1  phosphocarrier protein HPr [Marinobacterium sp. S...  82.4    5e-019
+WP_054422328.1  phosphocarrier protein HPr [Achromobacter sp. ATC...  82.4    5e-019
+WP_039365441.1  phosphocarrier protein HPr [Pandoraea pnomenusa]      82.4    6e-019
+WP_043576934.1  MULTISPECIES: phosphocarrier protein HPr [Chromob...  82.4    6e-019
+WP_046016823.1  phosphocarrier protein HPr [Marinomonas sp. S3726]    82.4    6e-019
+WP_028079710.1  phosphocarrier protein HPr [Solimonas soli]           82.4    6e-019
+WP_057292353.1  phosphocarrier protein HPr [Noviherbaspirillum sp...  82.4    7e-019
+WP_008170151.1  MULTISPECIES: phosphocarrier protein HPr [Marinob...  82.0    7e-019
+WP_020683099.1  HPr family phosphocarrier protein [Marinobacteriu...  82.0    7e-019
+WP_035489519.1  phosphocarrier protein HPr [Gammaproteobacteria b...  82.0    7e-019
+WP_020749798.1  HPr family phosphocarrier protein [Ralstonia sola...  82.0    8e-019
+WP_013660934.1  phosphocarrier protein HPr [Marinomonas mediterra...  82.0    8e-019
+WP_067868936.1  phosphocarrier protein HPr [Neptuniibacter marinus]   82.0    9e-019
+WP_011979400.1  MULTISPECIES: phosphocarrier protein HPr [Oxaloba...  82.0    9e-019
+WP_059284424.1  phosphocarrier protein HPr [Aquitalea magnusonii]     82.0    9e-019
+WP_076196429.1  phosphocarrier protein HPr [Rhodoferax sp. DCY110]    82.0    9e-019
+WP_071871993.1  phosphocarrier protein HPr [Pseudomonas hussainii]    82.0    9e-019
+WP_066130402.1  phosphocarrier protein HPr [Bordetella ansorpii]      82.0    9e-019
+WP_018915732.1  HPr family phosphocarrier protein [Halomonas zhan...  82.0    9e-019
+WP_076511231.1  phosphocarrier protein HPr [Pseudacidovorax sp. R...  81.6    1e-018
+WP_071263399.1  phosphocarrier protein HPr [Marinobacter sp. AC-23]   81.6    1e-018
+WP_073100836.1  phosphocarrier protein HPr [Candidimonas bauzanen...  81.6    1e-018
+WP_011000311.1  phosphocarrier protein HPr [Ralstonia solanacearum]   81.6    1e-018
+WP_053939329.1  phosphocarrier protein HPr [Amantichitinum ursila...  81.6    1e-018
+WP_004637085.1  MULTISPECIES: phosphocarrier protein HPr [Ralstonia]  81.6    1e-018
+WP_086126993.1  phosphocarrier protein HPr [Hydrogenophaga sp. IB...  81.6    1e-018
+WP_019575656.1  MULTISPECIES: phosphocarrier protein HPr [Curviba...  81.6    1e-018
+WP_061534806.1  phosphocarrier protein HPr [Collimonas arenae]        81.6    1e-018
+WP_056901425.1  phosphocarrier protein HPr [Pseudorhodoferax sp. ...  81.6    1e-018
+WP_027874573.1  phosphocarrier protein HPr [Spongiibacter marinus]    81.6    1e-018
+WP_074870503.1  phosphocarrier protein HPr [Pseudomonas hussainii]    81.6    1e-018
+WP_069945766.1  phosphocarrier protein HPr [Microbulbifer sp. CCB...  81.3    1e-018
+WP_064228687.1  MULTISPECIES: phosphocarrier protein HPr [Marinob...  81.3    1e-018
+WP_028387486.1  phosphocarrier protein HPr [Legionella geestiana]     81.3    1e-018
+WP_067298660.1  phosphocarrier protein HPr [Marinobacterium profu...  81.3    2e-018
+WP_008958647.1  MULTISPECIES: HPr family phosphocarrier protein [...  81.3    2e-018
+WP_063338675.1  MULTISPECIES: phosphocarrier protein HPr [Marinom...  81.3    2e-018
+WP_043629502.1  MULTISPECIES: phosphocarrier protein HPr [Chromob...  81.3    2e-018
+WP_008952240.1  phosphocarrier protein HPr [Pseudogulbenkiania fe...  81.3    2e-018
+WP_039177479.1  MULTISPECIES: HPr family phosphocarrier protein [...  81.3    2e-018
+WP_066452811.1  phosphocarrier protein HPr [Castellaniella caeni]     81.3    2e-018
+WP_063463695.1  phosphocarrier protein HPr [Ectothiorhodospira sp...  81.3    2e-018
+WP_028993790.1  phosphocarrier protein HPr [Azonexus hydrophilus]     81.3    2e-018
+WP_028500238.1  phosphocarrier protein HPr [Microvirgula aerodeni...  81.3    2e-018
+WP_046007880.1  phosphocarrier protein HPr [Oleispira antarctica]     81.3    2e-018
+WP_007869021.1  MULTISPECIES: phosphocarrier protein HPr [Polarom...  80.9    2e-018
+WP_036209856.1  MULTISPECIES: phosphocarrier protein HPr [Marinob...  80.9    2e-018
+WP_027010583.1  phosphocarrier protein HPr [Comamonas sp. B-9]        80.9    2e-018
+WP_014235853.1  phosphocarrier protein HPr [Azospira oryzae]          81.3    2e-018
+WP_036159425.1  phosphocarrier protein HPr [Marinomonas ushuaiensis]  80.9    2e-018
+WP_008930931.1  phosphocarrier protein HPr [Ectothiorhodospira sp...  80.9    2e-018
+WP_071692808.1  HPr family phosphocarrier protein [Halomonas sp. ...  80.9    2e-018
+WP_054021486.1  phosphocarrier protein HPr [Ideonella sakaiensis]     80.9    2e-018
+WP_050464121.1  phosphocarrier protein HPr [Herbaspirillum autotr...  80.9    2e-018
+WP_045785680.1  phosphocarrier protein HPr [Ralstonia mannitolily...  80.9    2e-018
+WP_038203718.1  phosphocarrier protein HPr [Xenophilus azovorans]     80.9    2e-018
+WP_070079392.1  phosphocarrier protein HPr [Acidihalobacter prosp...  80.9    3e-018
+WP_019657667.1  phosphocarrier protein HPr [Variovorax paradoxus]     80.9    3e-018
+WP_058643263.1  phosphocarrier protein HPr [Pseudacidovorax inter...  80.9    3e-018
+WP_039395361.1  phosphocarrier protein HPr [Pandoraea sputorum]       80.5    3e-018
+WP_007155322.1  phosphocarrier protein HPr [Marinobacter algicola]    80.5    3e-018
+WP_035578341.1  MULTISPECIES: HPr family phosphocarrier protein [...  80.5    3e-018
+WP_056667611.1  phosphocarrier protein HPr [Pseudorhodoferax sp. ...  80.5    3e-018
+WP_055928627.1  MULTISPECIES: phosphocarrier protein HPr [Duganella]  80.5    3e-018
+WP_010489800.1  phosphocarrier protein HPr [Pseudomonas sp. S9]       80.5    3e-018
+WP_003262600.1  phosphocarrier protein HPr [Ralstonia solanacearum]   80.5    3e-018
+WP_043420304.1  phosphocarrier protein HPr [Cupriavidus basilensis]   80.5    3e-018
+WP_013031420.1  phosphocarrier protein HPr [Nitrosococcus halophi...  80.5    3e-018
+WP_058450456.1  phosphocarrier protein HPr [Legionella jamestowni...  80.5    3e-018
+WP_014778637.1  phosphocarrier protein HPr [Thiocystis violascens]    80.5    3e-018
+WP_058305302.1  phosphocarrier protein HPr [Vitreoscilla sp. SN6]     80.5    3e-018
+WP_020167041.1  MULTISPECIES: phosphocarrier protein HPr [Methylo...  80.5    3e-018
+WP_025916880.1  phosphocarrier protein HPr [Herminiimonas sp. CN]     80.5    3e-018
+WP_077593747.1  phosphocarrier protein HPr [Polaromonas sp. A23]      80.5    4e-018
+WP_085275141.1  phosphocarrier protein HPr [Pseudogulbenkiania su...  80.5    4e-018
+WP_040804947.1  phosphocarrier protein HPr [gamma proteobacterium...  80.5    4e-018
+WP_022980708.1  phosphocarrier protein HPr [Ideonella sp. B508-1]     80.5    4e-018
+WP_056182795.1  MULTISPECIES: phosphocarrier protein HPr [Lysobac...  80.5    4e-018
+WP_014088526.1  phosphocarrier protein HPr [Pseudogulbenkiania sp...  80.5    4e-018
+WP_025385168.1  phosphocarrier protein HPr [Legionella oakridgensis]  80.5    4e-018
+WP_035473834.1  HPr family phosphocarrier protein [Gammaproteobac...  80.5    4e-018
+WP_077530634.1  phosphocarrier protein HPr [Halomonas utahensis]      80.5    4e-018
+WP_011869732.1  phosphocarrier protein HPr [Herminiimonas arsenic...  80.5    4e-018
+WP_067495457.1  phosphocarrier protein HPr [Ferrovum sp. PN-J185]     80.5    4e-018
+WP_016913476.1  MULTISPECIES: HPr family phosphocarrier protein [...  80.5    4e-018
+WP_055830364.1  MULTISPECIES: phosphocarrier protein HPr [Methylo...  80.1    4e-018
+WP_013232171.1  phosphocarrier protein HPr [Herbaspirillum serope...  80.1    4e-018
+WP_061957258.1  phosphocarrier protein HPr [Cupriavidus pauculus]     80.1    4e-018
+WP_066420097.1  phosphocarrier protein HPr [Bordetella ansorpii]      80.1    4e-018
+WP_061945059.1  phosphocarrier protein HPr [Collimonas pratensis]     80.1    4e-018
+WP_054140748.1  MULTISPECIES: phosphocarrier protein HPr [unclass...  80.1    4e-018
+WP_038493837.1  phosphocarrier protein HPr [Collimonas arenae]        80.1    4e-018
+WP_069048597.1  phosphocarrier protein HPr [Hydrogenophaga sp. RA...  80.1    4e-018
+WP_008645869.1  MULTISPECIES: phosphocarrier protein HPr [Cupriav...  80.1    4e-018
+WP_034878158.1  phosphocarrier protein HPr [Endozoicomonas montip...  80.1    4e-018
+WP_076722482.1  phosphocarrier protein HPr [Marinobacter lutaoensis]  80.1    5e-018
+WP_076097416.1  phosphocarrier protein HPr [Azonexus hydrophilus]     80.1    5e-018
+WP_075256141.1  phosphocarrier protein HPr [Herbaspirillum sp. WT...  80.1    5e-018
+WP_018152523.1  HPr family phosphocarrier protein [Leeia oryzae]      80.1    5e-018
+WP_014402709.1  phosphocarrier protein HPr [Frateuria aurantia]       80.1    5e-018
+WP_022533398.1  phosphocarrier protein HPr [Cupriavidus necator]      80.1    5e-018
+WP_075563102.1  HPr family phosphocarrier protein [Salinicola sp....  80.1    5e-018
+WP_019100446.1  MULTISPECIES: phosphocarrier protein HPr [Chromob...  80.1    5e-018
+WP_075453659.1  phosphocarrier protein HPr [Ralstonia solanacearum]   80.1    5e-018
+WP_057652425.1  phosphocarrier protein HPr [Bordetella sp. N]         80.1    5e-018
+WP_028240276.1  phosphocarrier protein HPr [Pseudomonas azotifigens]  80.1    5e-018
+WP_006786194.1  phosphocarrier protein HPr [Thiorhodospira sibirica]  80.1    5e-018
+WP_077443555.1  phosphocarrier protein HPr [Rhodanobacter sp. C05]    80.1    5e-018
+WP_061704713.1  phosphocarrier protein HPr [Neisseria meningitidis]   80.1    5e-018
+WP_012761041.1  phosphocarrier protein HPr [Ralstonia pickettii]      80.1    6e-018
+WP_002218178.1  phosphocarrier protein HPr [Neisseria meningitidis]   80.1    6e-018
+WP_034335020.1  MULTISPECIES: phosphocarrier protein HPr [Herbasp...  80.1    6e-018
+WP_058496711.1  phosphocarrier protein HPr [Legionella drozanskii]    79.7    6e-018
+WP_038089037.1  phosphocarrier protein HPr [Acidihalobacter prosp...  79.7    6e-018
+WP_026186147.1  phosphocarrier protein HPr [Thioalkalivibrio thio...  79.7    6e-018
+WP_029046719.1  MULTISPECIES: phosphocarrier protein HPr [Cupriav...  79.7    6e-018
+WP_020202613.1  MULTISPECIES: phosphocarrier protein HPr [Cupriav...  79.7    6e-018
+WP_019449710.1  phosphocarrier protein HPr [Cupriavidus sp. BIS7]     79.7    6e-018
+WP_035038820.1  phosphocarrier protein HPr [Aquabacterium sp. NJ1]    79.7    6e-018
+WP_035861002.1  MULTISPECIES: phosphocarrier protein HPr [Cupriav...  79.7    6e-018
+WP_074900583.1  phosphocarrier protein HPr [Microbulbifer thermot...  79.7    6e-018
+WP_068849785.1  phosphocarrier protein HPr [Stenotrophomonas rhiz...  79.7    7e-018
+WP_054124449.1  phosphocarrier protein HPr [beta proteobacterium ...  79.7    7e-018
+WP_010814838.1  MULTISPECIES: phosphocarrier protein HPr [Burkhol...  79.7    7e-018
+WP_041742652.1  phosphocarrier protein HPr [Collimonas fungivorans]   79.7    7e-018
+WP_017508632.1  phosphocarrier protein HPr [beta proteobacterium ...  79.7    7e-018
+WP_029526525.1  phosphocarrier protein HPr [Polaromonas glacialis]    79.7    7e-018
+WP_007185676.1  phosphocarrier protein HPr [Hydrocarboniphaga eff...  79.7    7e-018
+WP_046290625.1  phosphocarrier protein HPr [Pandoraea oxalativorans]  79.7    7e-018
+WP_085416390.1  phosphocarrier protein HPr [Neisseria canis]          79.7    7e-018
+WP_058482265.1  phosphocarrier protein HPr [Legionella spiritensis]   79.7    7e-018
+WP_019216092.1  phosphocarrier protein HPr [Legionella tunisiensis]   79.7    7e-018
+WP_006579200.1  MULTISPECIES: HPr family phosphocarrier protein [...  79.7    7e-018
+WP_058503481.1  phosphocarrier protein HPr [Legionella nautarum]      79.7    7e-018
+WP_017526130.1  MULTISPECIES: phosphocarrier protein HPr [Pseudom...  79.7    7e-018
+WP_064236531.1  HPr family phosphocarrier protein [Halomonas sp. ...  79.7    8e-018
+WP_039598987.1  phosphocarrier protein HPr [Ralstonia sp. A12]        79.7    8e-018
+WP_057596164.1  phosphocarrier protein HPr [Variovorax paradoxus]     79.7    8e-018
+WP_015765271.1  phosphocarrier protein HPr [Candidatus Accumuliba...  79.7    8e-018
+WP_021438652.1  phosphocarrier protein HPr [Neisseria meningitidis]   79.7    8e-018
+WP_061728207.1  phosphocarrier protein HPr [Neisseria meningitidis]   79.7    8e-018
+WP_047540710.1  phosphocarrier protein HPr [Methylotenera versati...  79.7    8e-018
+WP_007022332.1  phosphocarrier protein HPr [Neptuniibacter caesar...  79.3    8e-018
+WP_018026322.1  MULTISPECIES: HPr family phosphocarrier protein [...  79.3    9e-018
+WP_008251642.1  phosphocarrier protein HPr [Zhongshania aliphatic...  79.3    9e-018
+WP_011793537.1  MULTISPECIES: phosphocarrier protein HPr [Acidovo...  79.3    9e-018
+WP_077483776.1  phosphocarrier protein HPr [Rhodanobacter sp. C06]    79.3    9e-018
+WP_058444874.1  phosphocarrier protein HPr [Legionella feeleii]       79.3    9e-018
+WP_044629943.1  MULTISPECIES: HPr family phosphocarrier protein [...  79.3    9e-018
+WP_028450528.1  MULTISPECIES: phosphocarrier protein HPr [Chitini...  79.3    1e-017
+WP_024304245.1  phosphocarrier protein HPr [Pseudogulbenkiania sp...  79.3    1e-017
+WP_002686049.1  phosphocarrier protein HPr [Beggiatoa alba]           79.3    1e-017
+WP_067152195.1  phosphocarrier protein HPr [Microbulbifer thermot...  79.3    1e-017
+WP_028102381.1  phosphocarrier protein HPr [Pseudoduganella viola...  79.3    1e-017
+WP_021196342.1  MULTISPECIES: phosphocarrier protein HPr [Ralstonia]  79.3    1e-017
+WP_003798455.1  phosphocarrier protein HPr [Kingella oralis]          79.3    1e-017
+WP_081266134.1  phosphocarrier protein HPr [Variovorax paradoxus]     79.3    1e-017
+WP_009099995.1  HPr family phosphocarrier protein [Halomonas sp. ...  79.3    1e-017
+WP_058471123.1  phosphocarrier protein HPr [Legionella jordanis]      79.3    1e-017
+WP_028468551.1  phosphocarrier protein HPr [Neptunomonas japonica]    79.3    1e-017
+WP_009117452.1  MULTISPECIES: phosphocarrier protein HPr [Neisseria]  79.3    1e-017
+WP_068674839.1  phosphocarrier protein HPr [Variovorax sp. WDL1]      79.0    1e-017
+WP_002256998.1  HPr family phosphocarrier protein [Neisseria meni...  79.0    1e-017
+WP_012861192.1  HPr family phosphocarrier protein [Sebaldella ter...  79.0    1e-017
+WP_023951962.1  MULTISPECIES: phosphocarrier protein HPr [Pelistega]  79.0    1e-017
+WP_047193631.1  phosphocarrier protein HPr [[Polyangium] brachysp...  79.0    1e-017
+WP_046040042.1  phosphocarrier protein HPr [Pseudomonas fluorescens]  79.0    1e-017
+WP_014159948.1  phosphocarrier protein HPr [Pseudoxanthomonas spa...  79.0    1e-017
+WP_056266722.1  phosphocarrier protein HPr [Hydrogenophaga sp. Ro...  79.0    1e-017
+WP_028534700.1  phosphocarrier protein HPr [Paludibacterium yongn...  79.0    1e-017
+WP_020177457.1  HPr family phosphocarrier protein [Methylopila sp...  79.3    1e-017
+WP_056834140.1  phosphocarrier protein HPr [Pseudomonas sp. Leaf127]  79.0    1e-017
+WP_050409503.1  phosphocarrier protein HPr [Massilia sp. NR 4-1]      79.0    1e-017
+WP_070965409.1  phosphocarrier protein HPr [Marinobacter salinus]     79.0    1e-017
+WP_027859319.1  phosphocarrier protein HPr [Marinobacterium janna...  79.0    1e-017
+WP_058453540.1  phosphocarrier protein HPr [Legionella maceachernii]  79.0    1e-017
+WP_039010621.1  phosphocarrier protein HPr [Cupriavidus sp. IDO]      79.0    1e-017
+WP_068640569.1  phosphocarrier protein HPr [Variovorax soli]          79.0    1e-017
+WP_007041078.1  phosphocarrier protein HPr [Thiorhodococcus drewsii]  79.0    1e-017
+WP_015281609.1  HPr family phosphocarrier protein [Thioflavicoccu...  79.0    1e-017
+WP_072898887.1  phosphocarrier protein HPr [Hydrocarboniphaga daq...  79.0    1e-017
+WP_021701302.1  phosphocarrier protein NPr [Pseudomonas alcaligenes]  79.0    1e-017
+WP_022992013.1  phosphocarrier protein HPr [Marinobacter sp. C1S70]   79.0    2e-017
+WP_058502933.1  phosphocarrier protein HPr [Legionella israelensis]   79.0    2e-017
+WP_051496570.1  HPr family phosphocarrier protein [Halomonas sp. ...  79.0    2e-017
+WP_027855511.1  phosphocarrier protein HPr [Marinobacterium litor...  79.0    2e-017
+WP_068509651.1  MULTISPECIES: phosphocarrier protein HPr [Oleiphi...  79.0    2e-017
+WP_013213671.1  MULTISPECIES: phosphocarrier protein HPr [Ralstonia]  79.0    2e-017
+WP_068174652.1  phosphocarrier protein HPr [Hydrogenophaga taenio...  78.6    2e-017
+WP_011786164.1  MULTISPECIES: phosphocarrier protein HPr [Marinob...  78.6    2e-017
+WP_045476510.1  phosphocarrier protein HPr [Thioploca ingrica]        78.6    2e-017
+WP_019959337.1  HPr family phosphocarrier protein [Vitreoscilla s...  78.6    2e-017
+WP_077283998.1  HPr family phosphocarrier protein [Colwellia aest...  79.0    2e-017
+WP_016781793.1  phosphocarrier protein HPr [Pseudomonas fragi]        78.6    2e-017
+WP_079551255.1  HPr family phosphocarrier protein [Halomonas subg...  78.6    2e-017
+WP_028250933.1  phosphocarrier protein HPr [Variovorax sp. URHB0020]  78.6    2e-017
+WP_011296486.1  phosphocarrier protein HPr [Cupriavidus pinatubon...  78.6    2e-017
+WP_078033187.1  phosphocarrier protein HPr [Massilia sp. KIM]         78.6    2e-017
+WP_069124123.1  phosphocarrier protein HPr [Candidatus Thiodiazot...  78.6    2e-017
+WP_045105168.1  phosphocarrier protein HPr [Legionella hackeliae]     78.6    2e-017
+WP_005784832.1  phosphocarrier protein HPr [Pseudomonas synxantha]    78.6    2e-017
+WP_070401241.1  phosphocarrier protein HPr [Hydrogenophaga sp. PM...  78.6    2e-017
+WP_054965265.1  phosphocarrier protein HPr [Thiohalorhabdus denit...  78.6    2e-017
+WP_014851648.1  MULTISPECIES: phosphocarrier protein HPr [Pseudom...  78.6    2e-017
+WP_043873220.1  phosphocarrier protein HPr [Legionella massiliensis]  78.6    2e-017
+WP_019924464.1  MULTISPECIES: phosphocarrier protein HPr [Duganella]  78.6    2e-017
+WP_017452639.1  MULTISPECIES: phosphocarrier protein HPr [Herbasp...  78.6    2e-017
+WP_070250923.1  phosphocarrier protein HPr [Duganella phyllosphae...  78.6    2e-017
+WP_050470279.1  phosphocarrier protein HPr [Herbaspirillum chloro...  78.6    2e-017
+WP_009833477.1  phosphocarrier protein HPr [Marinomonas sp. MED121]   78.6    2e-017
+WP_029652848.1  phosphocarrier protein HPr [Marinobacter daepoensis]  78.6    2e-017
+WP_018986886.1  MULTISPECIES: phosphocarrier protein HPr [Methylo...  78.6    2e-017
+WP_067082078.1  MULTISPECIES: phosphocarrier protein HPr [Microbu...  78.6    2e-017
+WP_043295791.1  phosphocarrier protein HPr [Pseudomonas sp. HMP271]   78.6    2e-017
+WP_079217297.1  phosphocarrier protein HPr [Herbaspirillum frisin...  78.6    2e-017
+WP_004581585.1  phosphotransferase system, phosphocarrier protein...  78.6    2e-017
+WP_045096414.1  phosphocarrier protein HPr [Legionella fallonii]      78.2    2e-017
+WP_013742349.1  phosphocarrier protein HPr [Pusillimonas sp. T7-7]    78.2    2e-017
+WP_078195140.1  phosphocarrier protein HPr [Cupriavidus necator]      78.2    2e-017
+WP_058533191.1  phosphocarrier protein HPr [Legionella saoudiensis]   78.2    2e-017
+WP_054065851.1  MULTISPECIES: phosphocarrier protein HPr [Comamon...  78.2    2e-017
+WP_054084798.1  MULTISPECIES: phosphocarrier protein HPr [Pseudom...  78.2    3e-017
+WP_036806975.1  phosphocarrier protein HPr [Polaromonas sp. CG9_12]   78.2    3e-017
+WP_008334084.1  phosphocarrier protein HPr [Herbaspirillum sp. GW...  78.2    3e-017
+WP_054093574.1  phosphocarrier protein HPr [Pseudomonas stutzeri]     78.2    3e-017
+WP_020183533.1  MULTISPECIES: phosphocarrier protein HPr [Methylo...  78.2    3e-017
+WP_022774483.1  HPr family phosphocarrier protein [Candidatus Sym...  78.2    3e-017
+WP_076787634.1  MULTISPECIES: phosphocarrier protein HPr [Burkhol...  78.2    3e-017
+WP_068770341.1  phosphocarrier protein HPr [Opitutaceae bacterium...  78.6    3e-017
+WP_062066731.1  phosphocarrier protein HPr [Cellvibrio sp. OA-2007]   78.2    3e-017
+WP_061693062.1  phosphocarrier protein HPr [Neisseria meningitidis]   78.2    3e-017
+WP_067037523.1  phosphocarrier protein HPr [Marinomonas gallaica]     78.2    3e-017
+WP_018310542.1  MULTISPECIES: phosphocarrier protein HPr [Cupriav...  78.2    3e-017
+WP_046486752.1  phosphocarrier protein HPr [Candidatus Methylopum...  78.2    3e-017
+WP_013543930.1  phosphocarrier protein HPr [Variovorax paradoxus]     78.2    3e-017
+WP_044384318.1  phosphocarrier protein HPr [Marinobacter excellens]   78.2    3e-017
+WP_043221735.1  phosphocarrier protein HPr [Pseudomonas balearica]    78.2    3e-017
+WP_027102383.1  phosphocarrier protein HPr [Comamonadaceae bacter...  78.2    3e-017
+WP_011912215.1  phosphocarrier protein HPr [Pseudomonas stutzeri]     78.2    3e-017
+WP_061541898.1  phosphocarrier protein HPr [Collimonas fungivorans]   78.2    3e-017
+WP_010946224.1  phosphocarrier protein HPr [Legionella pneumophila]   78.2    3e-017
+WP_057941949.1  phosphocarrier protein HPr [Lysobacter gummosus]      77.8    3e-017
+WP_055903365.1  MULTISPECIES: phosphocarrier protein HPr [Lysobac...  77.8    3e-017
+WP_066594486.1  phosphocarrier protein HPr [Burkholderiales bacte...  77.8    3e-017
+WP_018746694.1  phosphocarrier protein HPr [Chitiniphilus shinano...  77.8    4e-017
+WP_036859234.1  phosphocarrier protein HPr [Porticoccus hydrocarb...  78.2    4e-017
+WP_036506339.1  phosphocarrier protein HPr [Nitrincola nitratired...  77.8    4e-017
+WP_066114988.1  phosphocarrier protein HPr [Xylophilus ampelinus]     77.8    4e-017
+WP_046741356.1  phosphocarrier protein HPr [Lampropedia cohaerens]    77.8    4e-017
+WP_046462153.1  phosphocarrier protein HPr [Comamonas testosteroni]   77.8    4e-017
+WP_056576523.1  phosphocarrier protein HPr [Variovorax sp. Root473]   77.8    4e-017
+WP_076997917.1  phosphocarrier protein HPr [Variovorax sp. KK3]       77.8    4e-017
+WP_056158057.1  phosphocarrier protein HPr [Duganella sp. Leaf126]    77.8    4e-017
+WP_077555294.1  phosphocarrier protein HPr [Rhodanobacter sp. B04]    77.8    4e-017
+WP_008115321.1  phosphocarrier protein HPr [Herbaspirillum sp. YR...  77.8    4e-017
+WP_026778340.1  phosphocarrier protein HPr [Polaromonas sp. EUR3 ...  77.8    4e-017
+WP_041946240.1  phosphocarrier protein HPr [Variovorax paradoxus]     77.8    4e-017
+WP_074864132.1  phosphocarrier protein HPr [Lysobacter enzymogenes]   77.8    4e-017
+WP_067223259.1  phosphocarrier protein HPr [Marinomonas gallaica]     77.8    4e-017
+WP_015867655.1  phosphocarrier protein HPr [Variovorax paradoxus]     77.8    4e-017
+WP_073219806.1  phosphocarrier protein HPr [Massilia sp. CF038]       77.8    4e-017
+WP_009858447.1  phosphocarrier protein HPr [Rubrivivax benzoatily...  77.8    4e-017
+WP_047906779.1  MULTISPECIES: phosphocarrier protein HPr [Pandoraea]  77.8    4e-017
+WP_013010612.1  phosphocarrier protein HPr [Denitrovibrio acetiph...  77.8    4e-017
+
+
+>WP_001984428.1 phosphocarrier protein HPr [Acinetobacter pittii]
+ YP_004997763.1 phosphocarrier protein (HPr-like) NPr, nitrogen related, exchanges 
+phosphate with enzyme I [Acinetobacter pittii PHEA-2]
+Length=103
+
+ Score = 179 bits (453),  Expect = 5e-057, Method: Compositional matrix adjust.
+ Identities = 89/89 (100%), Positives = 89/89 (100%), Gaps = 0/89 (0%)
+
+Query  1    MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+            MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT
+Sbjct  15   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  74
+
+Query  61   LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+            LRLVIDGTDEEQALNEVQALFAAKFYEAD
+Sbjct  75   LRLVIDGTDEEQALNEVQALFAAKFYEAD  103
+
+
+>WP_000567533.1 MULTISPECIES: phosphocarrier protein HPr [Acinetobacter]
+Length=89
+
+ Score = 178 bits (452),  Expect = 5e-057, Method: Compositional matrix adjust.
+ Identities = 89/89 (100%), Positives = 89/89 (100%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVIDGTDEEQALNEVQALFAAKFYEAD
+Sbjct  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+
+
+>WP_068612358.1 phosphocarrier protein HPr [Acinetobacter pittii]
+Length=89
+
+ Score = 177 bits (450),  Expect = 1e-056, Method: Compositional matrix adjust.
+ Identities = 88/89 (99%), Positives = 89/89 (100%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTT+DVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTIDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVIDGTDEEQALNEVQALFAAKFYEAD
+Sbjct  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+
+
+>WP_078224446.1 phosphocarrier protein HPr [Acinetobacter pittii]
+Length=89
+
+ Score = 177 bits (449),  Expect = 1e-056, Method: Compositional matrix adjust.
+ Identities = 88/89 (99%), Positives = 89/89 (100%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVD+KNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDSKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVIDGTDEEQALNEVQALFAAKFYEAD
+Sbjct  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+
+
+>WP_086377284.1 phosphocarrier protein HPr [Acinetobacter baumannii]
+Length=89
+
+ Score = 177 bits (449),  Expect = 1e-056, Method: Compositional matrix adjust.
+ Identities = 88/89 (99%), Positives = 89/89 (100%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVIDG+DEEQALNEVQALFAAKFYEAD
+Sbjct  61  LRLVIDGSDEEQALNEVQALFAAKFYEAD  89
+
+
+>WP_016804447.1 MULTISPECIES: phosphocarrier protein HPr [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=89
+
+ Score = 177 bits (448),  Expect = 2e-056, Method: Compositional matrix adjust.
+ Identities = 88/89 (99%), Positives = 89/89 (100%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVI+GTDEEQALNEVQALFAAKFYEAD
+Sbjct  61  LRLVIEGTDEEQALNEVQALFAAKFYEAD  89
+
+
+>WP_019458135.1 MULTISPECIES: phosphocarrier protein HPr [Acinetobacter]
+Length=89
+
+ Score = 176 bits (447),  Expect = 3e-056, Method: Compositional matrix adjust.
+ Identities = 88/89 (99%), Positives = 88/89 (99%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVIDG DEEQALNEVQALFAAKFYEAD
+Sbjct  61  LRLVIDGADEEQALNEVQALFAAKFYEAD  89
+
+
+>WP_021510640.1 MULTISPECIES: phosphocarrier protein HPr [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=89
+
+ Score = 176 bits (447),  Expect = 3e-056, Method: Compositional matrix adjust.
+ Identities = 88/89 (99%), Positives = 89/89 (100%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVIDGTDEEQAL+EVQALFAAKFYEAD
+Sbjct  61  LRLVIDGTDEEQALSEVQALFAAKFYEAD  89
+
+
+>WP_086321552.1 phosphocarrier protein HPr [Acinetobacter baumannii]
+Length=89
+
+ Score = 176 bits (445),  Expect = 6e-056, Method: Compositional matrix adjust.
+ Identities = 88/89 (99%), Positives = 88/89 (99%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTV VINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTVHVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVIDGTDEEQALNEVQALFAAKFYEAD
+Sbjct  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+
+
+>WP_013198928.1 MULTISPECIES: phosphocarrier protein HPr [Acinetobacter]
+Length=89
+
+ Score = 175 bits (443),  Expect = 9e-056, Method: Compositional matrix adjust.
+ Identities = 88/89 (99%), Positives = 88/89 (99%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVIDGTDEEQALNEV ALFAAKFYEAD
+Sbjct  61  LRLVIDGTDEEQALNEVLALFAAKFYEAD  89
+
+
+>WP_064534624.1 phosphocarrier protein HPr [Acinetobacter baumannii]
+Length=89
+
+ Score = 175 bits (443),  Expect = 1e-055, Method: Compositional matrix adjust.
+ Identities = 88/89 (99%), Positives = 88/89 (99%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKG HLVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGVHLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVIDGTDEEQALNEVQALFAAKFYEAD
+Sbjct  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+
+
+>WP_025469051.1 phosphocarrier protein HPr [Acinetobacter seifertii]
+Length=89
+
+ Score = 173 bits (439),  Expect = 5e-055, Method: Compositional matrix adjust.
+ Identities = 87/89 (98%), Positives = 87/89 (98%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVIDG DE QALNEVQALFAAKFYEAD
+Sbjct  61  LRLVIDGADEGQALNEVQALFAAKFYEAD  89
+
+
+>WP_042894989.1 MULTISPECIES: phosphocarrier protein HPr [Acinetobacter]
+Length=89
+
+ Score = 173 bits (439),  Expect = 5e-055, Method: Compositional matrix adjust.
+ Identities = 87/89 (98%), Positives = 88/89 (99%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVIDGTDEEQAL+EV ALFAAKFYEAD
+Sbjct  61  LRLVIDGTDEEQALSEVLALFAAKFYEAD  89
+
+
+>WP_034696949.1 phosphocarrier protein HPr [Acinetobacter bohemicus]
+Length=89
+
+ Score = 169 bits (429),  Expect = 1e-053, Method: Compositional matrix adjust.
+ Identities = 84/89 (94%), Positives = 87/89 (98%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGD LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLV+DG DEEQAL+E+QALFAAKFYEAD
+Sbjct  61  LRLVLDGADEEQALSEIQALFAAKFYEAD  89
+
+
+>WP_034598158.1 MULTISPECIES: phosphocarrier protein HPr [Acinetobacter]
+Length=89
+
+ Score = 169 bits (428),  Expect = 2e-053, Method: Compositional matrix adjust.
+ Identities = 84/89 (94%), Positives = 87/89 (98%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGD LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVI+G DEEQAL+E+QALFAAKFYEAD
+Sbjct  61  LRLVIEGADEEQALSEIQALFAAKFYEAD  89
+
+
+>WP_019836310.1 phosphocarrier protein HPr [Acinetobacter sp. MDS7A]
+Length=89
+
+ Score = 169 bits (428),  Expect = 2e-053, Method: Compositional matrix adjust.
+ Identities = 84/89 (94%), Positives = 88/89 (99%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGD LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVIDGTDEE+AL+++QALFAAKFYEAD
+Sbjct  61  LRLVIDGTDEEKALSDIQALFAAKFYEAD  89
+
+
+>WP_053578769.1 phosphocarrier protein HPr [Acinetobacter sp. TTH0-4]
+Length=89
+
+ Score = 169 bits (428),  Expect = 2e-053, Method: Compositional matrix adjust.
+ Identities = 84/89 (94%), Positives = 87/89 (98%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGD LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLV+DGTDEEQAL+E+ ALFAAKFYEAD
+Sbjct  61  LRLVLDGTDEEQALSEIHALFAAKFYEAD  89
+
+
+>WP_086195384.1 phosphocarrier protein HPr [Acinetobacter sp. ANC 4218]
+Length=89
+
+ Score = 169 bits (427),  Expect = 3e-053, Method: Compositional matrix adjust.
+ Identities = 83/89 (93%), Positives = 88/89 (99%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKG+ LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGNKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLV++GTDEEQAL+E+QALFAAKFYEAD
+Sbjct  61  LRLVLEGTDEEQALSEIQALFAAKFYEAD  89
+
+
+>WP_010325935.1 MULTISPECIES: phosphocarrier protein HPr [Acinetobacter]
+Length=89
+
+ Score = 168 bits (426),  Expect = 4e-053, Method: Compositional matrix adjust.
+ Identities = 83/89 (93%), Positives = 87/89 (98%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGD LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLV++G DEEQAL+E+QALFAAKFYEAD
+Sbjct  61  LRLVLEGADEEQALSEIQALFAAKFYEAD  89
+
+
+>WP_086190430.1 phosphocarrier protein HPr [Acinetobacter sp. ANC 3832]
+Length=89
+
+ Score = 168 bits (426),  Expect = 5e-053, Method: Compositional matrix adjust.
+ Identities = 84/89 (94%), Positives = 87/89 (98%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGD LVDAKNI+SLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDKLVDAKNILSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVIDG DEE+AL+EVQALFAAKFYEAD
+Sbjct  61  LRLVIDGPDEEKALSEVQALFAAKFYEAD  89
+
+
+>WP_026438354.1 phosphocarrier protein HPr [Acinetobacter towneri]
+Length=89
+
+ Score = 167 bits (423),  Expect = 1e-052, Method: Compositional matrix adjust.
+ Identities = 83/89 (93%), Positives = 87/89 (98%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGD LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVIDG DEE+AL+++QALFAAKFYEAD
+Sbjct  61  LRLVIDGADEEKALSDIQALFAAKFYEAD  89
+
+
+>WP_086212820.1 phosphocarrier protein HPr [Acinetobacter sp. ANC 3813]
+Length=89
+
+ Score = 167 bits (423),  Expect = 1e-052, Method: Compositional matrix adjust.
+ Identities = 83/89 (93%), Positives = 87/89 (98%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGD LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LR+VI+G DEE+AL+EVQALFAAKFYEAD
+Sbjct  61  LRIVIEGADEEKALSEVQALFAAKFYEAD  89
+
+
+>WP_067556993.1 phosphocarrier protein HPr [Acinetobacter larvae]
+Length=89
+
+ Score = 167 bits (422),  Expect = 1e-052, Method: Compositional matrix adjust.
+ Identities = 83/89 (93%), Positives = 87/89 (98%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKFRS I+IGKGD LVDAKNI+SLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSRIEIGKGDKLVDAKNILSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVIDG+DEEQAL+EVQALFAAKFYEAD
+Sbjct  61  LRLVIDGSDEEQALSEVQALFAAKFYEAD  89
+
+
+>WP_086187122.1 phosphocarrier protein HPr [Acinetobacter sp. ANC 4470]
+Length=89
+
+ Score = 167 bits (422),  Expect = 2e-052, Method: Compositional matrix adjust.
+ Identities = 83/89 (93%), Positives = 86/89 (97%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGD LVDAKNIM LLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDKLVDAKNIMFLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLV+DG DEEQAL+E+QALFAAKFYEAD
+Sbjct  61  LRLVLDGADEEQALSEIQALFAAKFYEAD  89
+
+
+>WP_016166136.1 phosphocarrier protein NPr [Acinetobacter tandoii]
+Length=89
+
+ Score = 167 bits (422),  Expect = 2e-052, Method: Compositional matrix adjust.
+ Identities = 83/89 (93%), Positives = 87/89 (98%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKF+SSIQIGKGD LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFKSSIQIGKGDKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVI+G DEE+AL+EVQALFAAKFYEAD
+Sbjct  61  LRLVIEGADEEKALSEVQALFAAKFYEAD  89
+
+
+>WP_086175841.1 phosphocarrier protein HPr [Acinetobacter sp. ANC 3903]
+Length=89
+
+ Score = 167 bits (422),  Expect = 2e-052, Method: Compositional matrix adjust.
+ Identities = 82/89 (92%), Positives = 87/89 (98%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKG+ LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGNKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLV++G DEEQAL+E+QALFAAKFYEAD
+Sbjct  61  LRLVLEGADEEQALSEIQALFAAKFYEAD  89
+
+
+>WP_065994388.1 phosphocarrier protein HPr [Acinetobacter sp. WCHA30]
+Length=89
+
+ Score = 167 bits (422),  Expect = 2e-052, Method: Compositional matrix adjust.
+ Identities = 83/89 (93%), Positives = 87/89 (98%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGD LVDAKNI+SLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDKLVDAKNILSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVIDG DEE+AL+EVQALFAAKFYEA+
+Sbjct  61  LRLVIDGADEEKALSEVQALFAAKFYEAE  89
+
+
+>WP_086209848.1 phosphocarrier protein HPr [Acinetobacter sp. ANC 4204]
+Length=89
+
+ Score = 166 bits (421),  Expect = 2e-052, Method: Compositional matrix adjust.
+ Identities = 82/89 (92%), Positives = 86/89 (97%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGK D LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKADKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRL++DG DEEQAL+E+QALFAAKFYEAD
+Sbjct  61  LRLMLDGADEEQALSEIQALFAAKFYEAD  89
+
+
+>WP_086198359.1 phosphocarrier protein HPr [Acinetobacter sp. ANC 4169]
+Length=89
+
+ Score = 166 bits (421),  Expect = 3e-052, Method: Compositional matrix adjust.
+ Identities = 82/89 (92%), Positives = 86/89 (97%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKG  LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGSKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLV++G DEEQAL+E+QALFAAKFYEAD
+Sbjct  61  LRLVLEGADEEQALSEIQALFAAKFYEAD  89
+
+
+>WP_005007517.1 HPr family phosphocarrier protein [Acinetobacter bouvetii]
+Length=89
+
+ Score = 166 bits (421),  Expect = 3e-052, Method: Compositional matrix adjust.
+ Identities = 83/89 (93%), Positives = 86/89 (97%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKF SSIQIGKGD LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFSSSIQIGKGDKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LR+VIDG DEE+AL+EVQALFAAKFYEAD
+Sbjct  61  LRIVIDGADEEKALSEVQALFAAKFYEAD  89
+
+
+>WP_058868961.1 phosphocarrier protein HPr [Acinetobacter johnsonii]
+Length=89
+
+ Score = 166 bits (421),  Expect = 3e-052, Method: Compositional matrix adjust.
+ Identities = 82/89 (92%), Positives = 86/89 (97%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGD LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLV++G DEEQAL+E+Q LFAAKFYEAD
+Sbjct  61  LRLVLEGADEEQALSEIQTLFAAKFYEAD  89
+
+
+>WP_068907763.1 phosphocarrier protein HPr [Acinetobacter sp. WCHA34]
+Length=89
+
+ Score = 166 bits (420),  Expect = 3e-052, Method: Compositional matrix adjust.
+ Identities = 82/89 (92%), Positives = 86/89 (97%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVT KFRSSIQIGKGD LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTAKFRSSIQIGKGDKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LR+VIDG DEE+AL+E+QALFAAKFYEAD
+Sbjct  61  LRIVIDGADEEKALSEIQALFAAKFYEAD  89
+
+
+>WP_034587207.1 phosphocarrier protein HPr [Acinetobacter sp. HR7]
+Length=89
+
+ Score = 166 bits (420),  Expect = 3e-052, Method: Compositional matrix adjust.
+ Identities = 82/89 (92%), Positives = 87/89 (98%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKFRS+IQIGKGD LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSNIQIGKGDKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLV+DG DEE+AL+E+QALFAAKFYEAD
+Sbjct  61  LRLVLDGADEEKALSEIQALFAAKFYEAD  89
+
+
+>WP_086204071.1 phosphocarrier protein HPr [Acinetobacter sp. ANC 4999]
+Length=89
+
+ Score = 166 bits (419),  Expect = 5e-052, Method: Compositional matrix adjust.
+ Identities = 83/89 (93%), Positives = 87/89 (98%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGD LVDAKNI+SLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDKLVDAKNILSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVIDGTDEE+AL+EVQALFA KFYEA+
+Sbjct  61  LRLVIDGTDEEKALSEVQALFADKFYEAE  89
+
+
+>WP_044109984.1 MULTISPECIES: phosphocarrier protein HPr [Acinetobacter]
+Length=89
+
+ Score = 166 bits (419),  Expect = 5e-052, Method: Compositional matrix adjust.
+ Identities = 82/89 (92%), Positives = 86/89 (97%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGK D LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKADKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVI+G DEE+AL+E+QALFAAKFYEAD
+Sbjct  61  LRLVIEGADEEKALSEIQALFAAKFYEAD  89
+
+
+>WP_034169914.1 MULTISPECIES: phosphocarrier protein HPr [Acinetobacter]
+Length=89
+
+ Score = 166 bits (419),  Expect = 6e-052, Method: Compositional matrix adjust.
+ Identities = 82/89 (92%), Positives = 86/89 (97%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGK D LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKSDKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVI+G DEE+AL+E+QALFAAKFYEAD
+Sbjct  61  LRLVIEGADEEKALSEIQALFAAKFYEAD  89
+
+
+>WP_068885413.1 phosphocarrier protein HPr [Acinetobacter celticus]
+Length=89
+
+ Score = 165 bits (418),  Expect = 7e-052, Method: Compositional matrix adjust.
+ Identities = 82/89 (92%), Positives = 86/89 (97%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKF SSIQIGKGD LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFNSSIQIGKGDKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LR+VIDG DEE+AL+E+QALFAAKFYEAD
+Sbjct  61  LRIVIDGADEEKALSEIQALFAAKFYEAD  89
+
+
+>WP_016542069.1 phosphocarrier protein of PTS [Acinetobacter gyllenbergii]
+Length=89
+
+ Score = 165 bits (418),  Expect = 8e-052, Method: Compositional matrix adjust.
+ Identities = 81/89 (91%), Positives = 85/89 (96%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTT+DVINKLGLHARASGKLIEVTTKFRSSIQIGKGD LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTIDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVI+G DEEQAL E+Q LFAAKFYEA+
+Sbjct  61  LRLVIEGADEEQALEEIQTLFAAKFYEAE  89
+
+
+>WP_035265349.1 phosphocarrier protein HPr [Acinetobacter sp. Ver3]
+Length=89
+
+ Score = 165 bits (418),  Expect = 8e-052, Method: Compositional matrix adjust.
+ Identities = 82/89 (92%), Positives = 87/89 (98%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKFRSSI+IGKGD LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIKIGKGDKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVI+G DEE+AL+EVQALFAAKFYEA+
+Sbjct  61  LRLVIEGADEEKALSEVQALFAAKFYEAE  89
+
+
+>WP_067728437.1 phosphocarrier protein HPr [Acinetobacter sp. NCu2D-2]
+Length=89
+
+ Score = 165 bits (417),  Expect = 9e-052, Method: Compositional matrix adjust.
+ Identities = 82/89 (92%), Positives = 86/89 (97%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKFRS+IQIGK D LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSTIQIGKADKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVI+G DEE+AL+EVQALFAAKFYEAD
+Sbjct  61  LRLVIEGADEEKALSEVQALFAAKFYEAD  89
+
+
+>WP_067763492.1 MULTISPECIES: phosphocarrier protein HPr [Acinetobacter]
+Length=89
+
+ Score = 165 bits (417),  Expect = 1e-051, Method: Compositional matrix adjust.
+ Identities = 82/89 (92%), Positives = 86/89 (97%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKG  LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGGKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVI+G DEE+AL+E+QALFAAKFYEAD
+Sbjct  61  LRLVIEGADEEKALSEIQALFAAKFYEAD  89
+
+
+>WP_067666356.1 phosphocarrier protein HPr [Acinetobacter sp. ANC 4149]
+Length=89
+
+ Score = 165 bits (417),  Expect = 1e-051, Method: Compositional matrix adjust.
+ Identities = 82/89 (92%), Positives = 86/89 (97%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKF SSIQIGKGD LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFSSSIQIGKGDKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LR+VI+G DEE+AL+EVQALFAAKFYEAD
+Sbjct  61  LRIVIEGADEEKALSEVQALFAAKFYEAD  89
+
+
+>WP_004924499.1 MULTISPECIES: HPr family phosphocarrier protein [Acinetobacter]
+Length=89
+
+ Score = 165 bits (417),  Expect = 1e-051, Method: Compositional matrix adjust.
+ Identities = 81/89 (91%), Positives = 87/89 (98%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGD L+DAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDKLIDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVI+G DE++AL+E+QALFAAKFYEAD
+Sbjct  61  LRLVIEGADEDKALDEIQALFAAKFYEAD  89
+
+
+>WP_004774692.1 MULTISPECIES: HPr family phosphocarrier protein [Acinetobacter]
+Length=89
+
+ Score = 164 bits (416),  Expect = 1e-051, Method: Compositional matrix adjust.
+ Identities = 81/89 (91%), Positives = 85/89 (96%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTT+DVINKLGLHARASGKLIEVTTKFRSSIQIGKGD LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTIDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVIDG DEE+AL E+Q LFAAKFYEA+
+Sbjct  61  LRLVIDGADEEKALEEIQTLFAAKFYEAE  89
+
+
+>WP_008303424.1 MULTISPECIES: phosphocarrier protein HPr [Acinetobacter]
+Length=89
+
+ Score = 164 bits (416),  Expect = 1e-051, Method: Compositional matrix adjust.
+ Identities = 81/89 (91%), Positives = 87/89 (98%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKFRS+IQIGKGD LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSNIQIGKGDKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLV++G DEE+AL+E+QALFAAKFYEAD
+Sbjct  61  LRLVLEGADEEKALSEIQALFAAKFYEAD  89
+
+
+>WP_005198445.1 HPr family phosphocarrier protein [Acinetobacter sp. NIPH 298]
+Length=89
+
+ Score = 164 bits (414),  Expect = 2e-051, Method: Compositional matrix adjust.
+ Identities = 80/89 (90%), Positives = 86/89 (97%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTT+DVINKLGLHARASGKLIEVTTKFRSSIQIGKGD LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTIDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVI+G DEE+AL E+Q+LFAAKFYEA+
+Sbjct  61  LRLVIEGADEEKALEEIQSLFAAKFYEAE  89
+
+
+>WP_034438008.1 MULTISPECIES: phosphocarrier protein HPr [Acinetobacter]
+Length=89
+
+ Score = 164 bits (414),  Expect = 3e-051, Method: Compositional matrix adjust.
+ Identities = 81/89 (91%), Positives = 86/89 (97%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGK D LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKADKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVI+G DE++AL+E+QALFAAKFYEAD
+Sbjct  61  LRLVIEGADEDKALSEIQALFAAKFYEAD  89
+
+
+>WP_005016209.1 MULTISPECIES: phosphocarrier protein HPr [Acinetobacter]
+Length=89
+
+ Score = 164 bits (414),  Expect = 3e-051, Method: Compositional matrix adjust.
+ Identities = 80/89 (90%), Positives = 86/89 (97%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGK D L+DAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKNDKLIDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LR+VIDG DEE+AL+E+QALFAAKFYEA+
+Sbjct  61  LRIVIDGPDEEKALSEIQALFAAKFYEAE  89
+
+
+>WP_086205830.1 phosphocarrier protein HPr [Acinetobacter sp. ANC 4648]
+Length=89
+
+ Score = 164 bits (414),  Expect = 3e-051, Method: Compositional matrix adjust.
+ Identities = 82/89 (92%), Positives = 86/89 (97%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGD LVDAKNI+SLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDKLVDAKNILSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVIDG DEE+AL+EVQALFA KFYEA+
+Sbjct  61  LRLVIDGADEEKALSEVQALFADKFYEAE  89
+
+
+>WP_004760832.1 HPr family phosphocarrier protein [Acinetobacter sp. CIP 102129]
+Length=89
+
+ Score = 164 bits (414),  Expect = 3e-051, Method: Compositional matrix adjust.
+ Identities = 80/89 (90%), Positives = 85/89 (96%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTT+DVINKLGLHARASGKLIEVTT+FRSSIQIGKGD LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTIDVINKLGLHARASGKLIEVTTRFRSSIQIGKGDKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVIDG DEE+AL E+Q LFAAKFYEA+
+Sbjct  61  LRLVIDGADEEKALEEIQTLFAAKFYEAE  89
+
+
+>WP_023272741.1 HPr family phosphocarrier protein [Acinetobacter nectaris]
+Length=89
+
+ Score = 163 bits (413),  Expect = 4e-051, Method: Compositional matrix adjust.
+ Identities = 80/89 (90%), Positives = 86/89 (97%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKF S+IQIGKG+ L+DAKNIM+LLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFNSNIQIGKGEKLIDAKNIMALLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLV+DG DEEQAL+EVQALFAAKFYEAD
+Sbjct  61  LRLVVDGPDEEQALSEVQALFAAKFYEAD  89
+
+
+>WP_025096094.1 MULTISPECIES: phosphocarrier protein HPr [Acinetobacter]
+Length=89
+
+ Score = 163 bits (413),  Expect = 5e-051, Method: Compositional matrix adjust.
+ Identities = 81/89 (91%), Positives = 85/89 (96%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTT+DVINKLGLHARASGKLIEVTTKFRSSIQIGKGD LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTLDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVI+G DEE+A  E+QALFAAKFYEAD
+Sbjct  61  LRLVIEGADEEKAQEEIQALFAAKFYEAD  89
+
+
+>WP_039047744.1 phosphocarrier protein HPr [Acinetobacter junii]
+Length=89
+
+ Score = 163 bits (412),  Expect = 6e-051, Method: Compositional matrix adjust.
+ Identities = 80/89 (90%), Positives = 85/89 (96%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTT+DVINKLGLHARASGKLIEVTTKFRSSI+IGKGD LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTIDVINKLGLHARASGKLIEVTTKFRSSIRIGKGDKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVIDG DEE+AL E+Q LFAAKFYEA+
+Sbjct  61  LRLVIDGADEEKALEEIQTLFAAKFYEAE  89
+
+
+>WP_034608740.1 MULTISPECIES: phosphocarrier protein HPr [Acinetobacter]
+Length=89
+
+ Score = 163 bits (412),  Expect = 6e-051, Method: Compositional matrix adjust.
+ Identities = 81/89 (91%), Positives = 86/89 (97%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGK D LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKTDKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVI+G DE++AL+E+QALFAAKFYEAD
+Sbjct  61  LRLVIEGADEDKALSEIQALFAAKFYEAD  89
+
+
+>WP_054580219.1 phosphocarrier protein HPr [Acinetobacter equi]
+Length=89
+
+ Score = 162 bits (411),  Expect = 7e-051, Method: Compositional matrix adjust.
+ Identities = 80/89 (90%), Positives = 86/89 (97%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKFRSSI+IGKG+ LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIRIGKGEKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVI+G DEE+AL+E+QALF AKFYEAD
+Sbjct  61  LRLVIEGVDEEKALSEIQALFVAKFYEAD  89
+
+
+>WP_078189594.1 phosphocarrier protein HPr [Acinetobacter sp. ANC 4945]
+Length=89
+
+ Score = 162 bits (411),  Expect = 8e-051, Method: Compositional matrix adjust.
+ Identities = 81/89 (91%), Positives = 85/89 (96%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MID TVDVINKLGLHARASGKLIEVTTKFRSSIQIGKG  LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDITVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGGKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVI+G DEE+AL+E+QALFAAKFYEAD
+Sbjct  61  LRLVIEGADEEKALSEIQALFAAKFYEAD  89
+
+
+>WP_004637957.1 MULTISPECIES: phosphocarrier protein HPr [Acinetobacter]
+Length=89
+
+ Score = 162 bits (411),  Expect = 8e-051, Method: Compositional matrix adjust.
+ Identities = 80/89 (90%), Positives = 85/89 (96%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTT+DVINKLGLHARASGKLIEVTTKFRSSIQIGKGD LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTIDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVIDG DE++AL E+Q LFAAKFYEA+
+Sbjct  61  LRLVIDGADEDKALEEIQTLFAAKFYEAE  89
+
+
+>WP_004753685.1 MULTISPECIES: HPr family phosphocarrier protein [Acinetobacter]
+Length=89
+
+ Score = 162 bits (410),  Expect = 1e-050, Method: Compositional matrix adjust.
+ Identities = 79/89 (89%), Positives = 86/89 (97%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQ+GKGD L+DAKNIM+LLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQVGKGDKLIDAKNIMALLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LR+V+DG DEE+AL+EV ALFAAKFYEAD
+Sbjct  61  LRIVVDGPDEEKALDEVLALFAAKFYEAD  89
+
+
+>WP_016806787.1 MULTISPECIES: phosphocarrier protein HPr [Acinetobacter]
+Length=89
+
+ Score = 162 bits (410),  Expect = 1e-050, Method: Compositional matrix adjust.
+ Identities = 80/89 (90%), Positives = 86/89 (97%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKFRSSI+IGK D LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIRIGKADKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVI+G DE++AL+E+QALFAAKFYEAD
+Sbjct  61  LRLVIEGADEDKALSEIQALFAAKFYEAD  89
+
+
+>WP_004672506.1 HPr family phosphocarrier protein [Acinetobacter sp. CIP-A165]
+Length=89
+
+ Score = 162 bits (410),  Expect = 1e-050, Method: Compositional matrix adjust.
+ Identities = 79/89 (89%), Positives = 86/89 (97%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTT+DVINKLGLHARASGKLIEVTTKFRSSIQIGKGD LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTIDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVI+G DE++AL E+Q+LFAAKFYEA+
+Sbjct  61  LRLVIEGADEDKALEEIQSLFAAKFYEAE  89
+
+
+>WP_039621073.1 phosphocarrier protein HPr [Acinetobacter harbinensis]
+Length=89
+
+ Score = 162 bits (409),  Expect = 2e-050, Method: Compositional matrix adjust.
+ Identities = 81/89 (91%), Positives = 84/89 (94%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKF SSIQIGKG  LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFDSSIQIGKGQKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLV+DG DEEQAL+ +QALFAAKFYEAD
+Sbjct  61  LRLVLDGADEEQALSAIQALFAAKFYEAD  89
+
+
+>WP_067656002.1 phosphocarrier protein HPr [Acinetobacter sp. TGL-Y2]
+Length=89
+
+ Score = 162 bits (409),  Expect = 2e-050, Method: Compositional matrix adjust.
+ Identities = 78/89 (88%), Positives = 86/89 (97%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTT+DVINKLGLHARASGKLIEVTTKFR SIQIGKG+ LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTIDVINKLGLHARASGKLIEVTTKFRCSIQIGKGEKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LR+V++G DEE+AL+EVQALFAAKFYEA+
+Sbjct  61  LRIVVEGADEEKALSEVQALFAAKFYEAE  89
+
+
+>WP_004678316.1 MULTISPECIES: phosphocarrier protein HPr [Acinetobacter]
+Length=89
+
+ Score = 162 bits (409),  Expect = 2e-050, Method: Compositional matrix adjust.
+ Identities = 79/89 (89%), Positives = 85/89 (96%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTT+DVINKLGLHARASGKLIEVTT+FRSSIQIGKGD LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTIDVINKLGLHARASGKLIEVTTRFRSSIQIGKGDKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVIDG DE++AL E+Q LFAAKFYEA+
+Sbjct  61  LRLVIDGADEDKALEEIQTLFAAKFYEAE  89
+
+
+>WP_064094762.1 MULTISPECIES: phosphocarrier protein HPr [Acinetobacter]
+Length=89
+
+ Score = 162 bits (409),  Expect = 2e-050, Method: Compositional matrix adjust.
+ Identities = 80/89 (90%), Positives = 86/89 (97%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGK + LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKTEKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVI+G DE++AL+E+QALFAAKFYEAD
+Sbjct  61  LRLVIEGADEDKALSEIQALFAAKFYEAD  89
+
+
+>WP_004881777.1 MULTISPECIES: HPr family phosphocarrier protein [Acinetobacter]
+Length=89
+
+ Score = 161 bits (408),  Expect = 2e-050, Method: Compositional matrix adjust.
+ Identities = 79/89 (89%), Positives = 85/89 (96%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTT+DVINKLGLHARASGKLIEVT+KFRSSIQIGKGD LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTIDVINKLGLHARASGKLIEVTSKFRSSIQIGKGDKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVIDG DE++AL E+Q LFAAKFYEA+
+Sbjct  61  LRLVIDGADEDKALEEIQTLFAAKFYEAE  89
+
+
+>WP_016657424.1 HPr family phosphocarrier protein [Acinetobacter rudis]
+Length=89
+
+ Score = 161 bits (408),  Expect = 3e-050, Method: Compositional matrix adjust.
+ Identities = 78/89 (88%), Positives = 85/89 (96%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDT +DVINKLGLHARASG+LIE+TTKFRS+IQIGKGD LVDAKNI+SLLMLGAGKG+T
+Sbjct  1   MIDTQIDVINKLGLHARASGRLIEITTKFRSTIQIGKGDKLVDAKNILSLLMLGAGKGST  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVI+G DEEQAL EVQALFAAKFYEAD
+Sbjct  61  LRLVIEGVDEEQALQEVQALFAAKFYEAD  89
+
+
+>WP_004804467.1 MULTISPECIES: HPr family phosphocarrier protein [Acinetobacter]
+Length=89
+
+ Score = 161 bits (408),  Expect = 3e-050, Method: Compositional matrix adjust.
+ Identities = 79/89 (89%), Positives = 85/89 (96%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTT+DVINKLGLHARASGKLIEVTTKFRSSIQIGKGD LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTIDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVI+G DE++AL E+Q LFAAKFYEA+
+Sbjct  61  LRLVIEGADEDKALEEIQTLFAAKFYEAE  89
+
+
+>WP_007479523.1 MULTISPECIES: phosphocarrier protein HPr [Acinetobacter]
+Length=89
+
+ Score = 161 bits (408),  Expect = 3e-050, Method: Compositional matrix adjust.
+ Identities = 79/89 (89%), Positives = 85/89 (96%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTT+DVINKLGLHARASGKLIEVT+KFRSSIQIGKGD LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTIDVINKLGLHARASGKLIEVTSKFRSSIQIGKGDKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVIDG DE++AL E+Q LFAAKFYEA+
+Sbjct  61  LRLVIDGADEDKALEEIQMLFAAKFYEAE  89
+
+
+>WP_004903438.1 HPr family phosphocarrier protein [Acinetobacter brisouii]
+Length=89
+
+ Score = 161 bits (407),  Expect = 4e-050, Method: Compositional matrix adjust.
+ Identities = 78/89 (88%), Positives = 86/89 (97%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQ+GKG+ L+DAKNIM+LLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQVGKGEKLIDAKNIMALLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LR+V+DG DEE+AL+EV ALFAAKFYEAD
+Sbjct  61  LRIVVDGPDEEKALDEVLALFAAKFYEAD  89
+
+
+>WP_004824976.1 MULTISPECIES: phosphocarrier protein HPr [Acinetobacter]
+Length=89
+
+ Score = 160 bits (406),  Expect = 4e-050, Method: Compositional matrix adjust.
+ Identities = 80/89 (90%), Positives = 85/89 (96%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKF+ SIQIGKGD LVDAKNI+SLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFKCSIQIGKGDKLVDAKNILSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVIDG DEE+AL+EVQALFA KFYEA+
+Sbjct  61  LRLVIDGVDEEKALSEVQALFADKFYEAE  89
+
+
+>WP_061523610.1 phosphocarrier protein HPr [Acinetobacter venetianus]
+Length=89
+
+ Score = 160 bits (406),  Expect = 5e-050, Method: Compositional matrix adjust.
+ Identities = 78/89 (88%), Positives = 85/89 (96%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTT+DVINKLGLHARASGKLIEVT+K+RSSIQIGKGD LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTIDVINKLGLHARASGKLIEVTSKYRSSIQIGKGDKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVIDG DE++AL E+Q LFAAKFYEA+
+Sbjct  61  LRLVIDGADEDKALEEIQTLFAAKFYEAE  89
+
+
+>WP_004960701.1 HPr family phosphocarrier protein [Acinetobacter junii]
+Length=89
+
+ Score = 160 bits (406),  Expect = 5e-050, Method: Compositional matrix adjust.
+ Identities = 79/89 (89%), Positives = 84/89 (94%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MID T+DVINKLGLHARASGKLIEVTTKFRSSIQIGKGD LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDITIDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVIDG DE++AL E+Q LFAAKFYEA+
+Sbjct  61  LRLVIDGADEDKALEEIQTLFAAKFYEAE  89
+
+
+>WP_004725933.1 MULTISPECIES: HPr family phosphocarrier protein [Acinetobacter]
+Length=89
+
+ Score = 160 bits (406),  Expect = 5e-050, Method: Compositional matrix adjust.
+ Identities = 80/89 (90%), Positives = 85/89 (96%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKF+ SIQIGKGD LVDAKNI+SLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFKCSIQIGKGDKLVDAKNILSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVIDG DEE+AL+EVQALFA KFYEA+
+Sbjct  61  LRLVIDGADEEKALSEVQALFADKFYEAE  89
+
+
+>WP_004993001.1 MULTISPECIES: phosphocarrier protein HPr [Acinetobacter]
+Length=89
+
+ Score = 160 bits (405),  Expect = 6e-050, Method: Compositional matrix adjust.
+ Identities = 80/89 (90%), Positives = 85/89 (96%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKG+ LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGEKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVIDG D E+A +E++ALFAAKFYEAD
+Sbjct  61  LRLVIDGADAEKAEDEIKALFAAKFYEAD  89
+
+
+>WP_004664196.1 MULTISPECIES: HPr family phosphocarrier protein [Acinetobacter]
+Length=89
+
+ Score = 160 bits (405),  Expect = 7e-050, Method: Compositional matrix adjust.
+ Identities = 78/89 (88%), Positives = 84/89 (94%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTT+DVINKLGLHARASGKLIEVTTKF SSIQIGKG+ L+DAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTIDVINKLGLHARASGKLIEVTTKFSSSIQIGKGEKLIDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVIDG DEE+AL E+Q LFAAKFYEA+
+Sbjct  61  LRLVIDGADEEKALEEIQTLFAAKFYEAE  89
+
+
+>WP_004854821.1 HPr family phosphocarrier protein [Acinetobacter gerneri]
+Length=89
+
+ Score = 160 bits (405),  Expect = 8e-050, Method: Compositional matrix adjust.
+ Identities = 80/89 (90%), Positives = 85/89 (96%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKF+S IQIGKG+ LVDAKNI+SLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFKSKIQIGKGEKLVDAKNILSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVIDG DEE+AL+EV ALFAAKFYEAD
+Sbjct  61  LRLVIDGPDEEKALSEVLALFAAKFYEAD  89
+
+
+>WP_004994657.1 HPr family phosphocarrier protein [Acinetobacter ursingii]
+Length=89
+
+ Score = 160 bits (404),  Expect = 8e-050, Method: Compositional matrix adjust.
+ Identities = 80/89 (90%), Positives = 84/89 (94%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKG+ LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGEKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVIDG D E+A  E++ALFAAKFYEAD
+Sbjct  61  LRLVIDGADAEKAEEEIKALFAAKFYEAD  89
+
+
+>WP_004655677.1 MULTISPECIES: phosphocarrier protein HPr [Acinetobacter]
+Length=89
+
+ Score = 160 bits (404),  Expect = 9e-050, Method: Compositional matrix adjust.
+ Identities = 78/89 (88%), Positives = 85/89 (96%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTT+DVINKLGLHARASGKLIEVTTKFR+SIQIGKGD LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTIDVINKLGLHARASGKLIEVTTKFRASIQIGKGDKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVI+G DE++AL E+Q LFAAKFYEA+
+Sbjct  61  LRLVIEGADEDKALEEIQTLFAAKFYEAE  89
+
+
+>WP_005164368.1 HPr family phosphocarrier protein [Acinetobacter sp. NIPH 284]
+Length=89
+
+ Score = 159 bits (403),  Expect = 1e-049, Method: Compositional matrix adjust.
+ Identities = 79/89 (89%), Positives = 83/89 (93%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTT+DVINKLGLHARASGKLIEVTTKF SSIQIGKGD LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTIDVINKLGLHARASGKLIEVTTKFSSSIQIGKGDKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVIDG DEE+A  E+Q LFAAKFYEA+
+Sbjct  61  LRLVIDGADEEKAREEIQTLFAAKFYEAE  89
+
+
+>WP_018677535.1 phosphocarrier protein HPr [Acinetobacter tjernbergiae]
+Length=89
+
+ Score = 156 bits (395),  Expect = 2e-048, Method: Compositional matrix adjust.
+ Identities = 77/89 (87%), Positives = 83/89 (93%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTT+DVINKLGLHARASGKLIEVTTKF +SIQIGKGD LVDAKNIMSLLMLGAGKG T
+Sbjct  1   MIDTTIDVINKLGLHARASGKLIEVTTKFSASIQIGKGDKLVDAKNIMSLLMLGAGKGIT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVIDG DE++AL E+Q LFAAKFYEA+
+Sbjct  61  LRLVIDGADEDKALEEIQMLFAAKFYEAE  89
+
+
+>WP_086181140.1 phosphocarrier protein HPr [Acinetobacter sp. ANC 4558]
+Length=89
+
+ Score = 156 bits (395),  Expect = 2e-048, Method: Compositional matrix adjust.
+ Identities = 78/89 (88%), Positives = 83/89 (93%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKF SSIQIGK + LVDAKNIMSLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFSSSIQIGKTEKLVDAKNIMSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVI+G DEE+AL+ +QALF AKFYEAD
+Sbjct  61  LRLVIEGADEEKALSAIQALFEAKFYEAD  89
+
+
+>WP_010113786.1 phosphocarrier protein HPr [Acinetobacter sp. P8-3-8]
+Length=89
+
+ Score = 155 bits (391),  Expect = 1e-047, Method: Compositional matrix adjust.
+ Identities = 77/89 (87%), Positives = 83/89 (93%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTVDVINKLGLHARASGKLIEVTTKF+ SIQIGKGD LVDAKNI+SLLMLGAGKGTT
+Sbjct  1   MIDTTVDVINKLGLHARASGKLIEVTTKFKCSIQIGKGDKLVDAKNILSLLMLGAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLV+DG DEE+A +EV ALFA KFYEA+
+Sbjct  61  LRLVVDGPDEEKASSEVLALFADKFYEAE  89
+
+
+>WP_070070933.1 phosphocarrier protein HPr [Acinetobacter qingfengensis]
+Length=89
+
+ Score = 150 bits (378),  Expect = 1e-045, Method: Compositional matrix adjust.
+ Identities = 71/89 (80%), Positives = 82/89 (92%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTTV+VINKLGLHARASGKLIEVT+++RSSIQ+GKG  L+DAKNIMSLLMLGAGKGT 
+Sbjct  1   MIDTTVNVINKLGLHARASGKLIEVTSRYRSSIQLGKGKELIDAKNIMSLLMLGAGKGTQ  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVI+G+DEE+A   +QALF AKFYEA+
+Sbjct  61  LRLVIEGSDEEKACEAIQALFNAKFYEAE  89
+
+
+>WP_026471437.1 MULTISPECIES: phosphocarrier protein HPr [Alkanindiges]
+Length=89
+
+ Score = 141 bits (355),  Expect = 3e-042, Method: Compositional matrix adjust.
+ Identities = 65/89 (73%), Positives = 82/89 (92%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MIDTT+DVINKLGLHARASG+LIEVTT++RS IQ+G+G++L+DAKNIMSLLMLGAGKG+T
+Sbjct  1   MIDTTIDVINKLGLHARASGRLIEVTTRYRSDIQLGRGNNLIDAKNIMSLLMLGAGKGST  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LRLVI+G DE++A   ++ LFAA+F EA+
+Sbjct  61  LRLVINGPDEDKAFEAIRDLFAARFMEAE  89
+
+
+>WP_066050579.1 MULTISPECIES: phosphocarrier protein HPr [Halioglobus]
+Length=89
+
+ Score = 104 bits (260),  Expect = 8e-028, Method: Compositional matrix adjust.
+ Identities = 52/89 (58%), Positives = 67/89 (75%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI+T V +INKLGLHARA+ KL+  T+ F SSI+ G   ++VDAK+IMS++ML AGKGT 
+Sbjct  1   MIETQVTIINKLGLHARAAAKLVGCTSAFSSSIEAGSDGNMVDAKSIMSVMMLAAGKGTV  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           L L IDG DE+QAL  + AL A +F EA+
+Sbjct  61  LDLRIDGRDEQQALEAITALIANRFDEAE  89
+
+
+>WP_068860360.1 phosphocarrier protein HPr [Perlucidibaca sp. BK296]
+Length=91
+
+ Score = 102 bits (254),  Expect = 7e-027, Method: Compositional matrix adjust.
+ Identities = 47/85 (55%), Positives = 68/85 (80%), Gaps = 0/85 (0%)
+
+Query  5   TVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTTLRLV  64
+           TVD+INKLGLHARA+ KL+E    F+S+++IG+G+ LVDA++IM+LLMLGAG+G+ L+L 
+Sbjct  7   TVDIINKLGLHARAAAKLVETVAPFKSTVRIGRGERLVDARSIMALLMLGAGQGSQLQLH  66
+
+Query  65  IDGTDEEQALNEVQALFAAKFYEAD  89
+           + G D + A+  VQ+L A +F EA+
+Sbjct  67  VAGDDADTAVAAVQSLLARRFDEAE  91
+
+
+>WP_076720334.1 phosphocarrier protein HPr [Motiliproteus sp. MSK22-1]
+Length=89
+
+ Score = 97.8 bits (242),  Expect = 6e-025, Method: Compositional matrix adjust.
+ Identities = 45/89 (51%), Positives = 67/89 (75%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI+  + +INKLGLHARA+ KLI VT  F SSI++GK  H+V+ K+IMS++ML A +GT 
+Sbjct  1   MIEKQLTIINKLGLHARATAKLISVTNNFTSSIELGKDGHVVNGKSIMSVMMLAASQGTV  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           L ++++G DEE A+N V+A+   +F E++
+Sbjct  61  LDVIVNGEDEEAAINAVEAIVKDRFGESE  89
+
+
+>WP_022954822.1 phosphocarrier protein HPr [Perlucidibaca piscinae]
+Length=91
+
+ Score = 96.3 bits (238),  Expect = 2e-024, Method: Compositional matrix adjust.
+ Identities = 52/87 (60%), Positives = 69/87 (79%), Gaps = 0/87 (0%)
+
+Query  3   DTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTTLR  62
+           +  VD+IN+LGLHARA+ KL+E  + +RSSI+IG+G+ LVDA++IM+LLMLGAG+G+ LR
+Sbjct  5   EVDVDIINRLGLHARAAAKLVETVSGYRSSIRIGRGERLVDARSIMALLMLGAGQGSRLR  64
+
+Query  63  LVIDGTDEEQALNEVQALFAAKFYEAD  89
+           L IDG D + AL  V AL A +F EAD
+Sbjct  65  LEIDGADADAALAGVTALIANRFGEAD  91
+
+
+>WP_008929208.1 phosphocarrier protein HPr [Alcanivorax hongdengensis]
+Length=89
+
+ Score = 96.3 bits (238),  Expect = 2e-024, Method: Compositional matrix adjust.
+ Identities = 44/89 (49%), Positives = 65/89 (73%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI+T +DVINK GLHARA+ K++ V +++ SSIQ+      +DAK+IM LLM+GA KG++
+Sbjct  1   MIETRLDVINKQGLHARAAAKVVSVASRYNSSIQVQHNGQTIDAKSIMGLLMIGAAKGSS  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           +   ++G DEEQA+ E+  LFA +F E +
+Sbjct  61  VTFRVEGADEEQAVAELTDLFARRFDEGE  89
+
+
+>WP_007227190.1 phosphocarrier protein HPr [marine gamma proteobacterium HTCC2148]
+Length=89
+
+ Score = 95.9 bits (237),  Expect = 3e-024, Method: Compositional matrix adjust.
+ Identities = 46/89 (52%), Positives = 64/89 (72%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI+T V +INKLGLHARA+ K +  T+ + SSI+ GK  ++VDAK+IMS++ML AGKGT 
+Sbjct  1   MIETQVTIINKLGLHARAAAKFVSCTSAYSSSIEAGKEGNMVDAKSIMSVMMLAAGKGTV  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           L + ++G DEE AL  +  L   +F EA+
+Sbjct  61  LDIRVEGADEEAALEALVTLIGNRFDEAE  89
+
+
+>WP_067610995.1 phosphocarrier protein HPr [Alcanivorax sp. CP2C]
+Length=89
+
+ Score = 95.5 bits (236),  Expect = 4e-024, Method: Compositional matrix adjust.
+ Identities = 44/89 (49%), Positives = 64/89 (72%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI+  + + NKLGLHARA+ K++ V +++  SIQ+  G+  +DAK+IM LL LGA KGTT
+Sbjct  1   MIEQDLAITNKLGLHARAAAKVVSVASRYSCSIQVIHGERRIDAKSIMGLLTLGAAKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LR+ +DG DE+ A++E+  LF  KF E +
+Sbjct  61  LRVCVDGEDEQPAMDELTDLFQRKFDEGE  89
+
+
+>WP_075998600.1 phosphocarrier protein HPr [Halioglobus pacificus]
+Length=89
+
+ Score = 95.1 bits (235),  Expect = 6e-024, Method: Compositional matrix adjust.
+ Identities = 48/89 (54%), Positives = 63/89 (71%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI+T V ++NKLGLHARA+ K +  T+ F S I+ GK   LVDAK+IMS++ML AGKGT 
+Sbjct  1   MIETQVTIVNKLGLHARAAAKFVGCTSAFASDIRAGKDGQLVDAKSIMSVMMLAAGKGTV  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           L L I+G DE+ AL  +  L A +F EA+
+Sbjct  61  LDLKIEGRDEDDALEALTTLIANRFDEAE  89
+
+
+>WP_063142446.1 phosphocarrier protein HPr [Alcanivorax sp. KX64203]
+Length=89
+
+ Score = 92.8 bits (229),  Expect = 4e-023, Method: Compositional matrix adjust.
+ Identities = 43/89 (48%), Positives = 64/89 (72%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI+  + +INKLGLHARA+ K++ V +++  +IQ+   +  VDAK+IM LL LGA KGT+
+Sbjct  1   MIERELTIINKLGLHARAAAKVVSVASRYSCTIQVLHNERQVDAKSIMGLLTLGAAKGTS  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LR+ +DG DE+ A+ E+  LFA +F E +
+Sbjct  61  LRVRVDGDDEQPAMEELTDLFARRFDEEE  89
+
+
+>WP_022996265.1 MULTISPECIES: phosphocarrier protein HPr [Alcanivorax]
+Length=89
+
+ Score = 92.8 bits (229),  Expect = 4e-023, Method: Compositional matrix adjust.
+ Identities = 43/89 (48%), Positives = 64/89 (72%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI+  + +INKLGLHARA+ K++ V +++  +IQ+   +  VDAK+IM LL LGA KGT+
+Sbjct  1   MIEKELTIINKLGLHARAAAKVVSVASRYSCTIQVLHNERQVDAKSIMGLLTLGAAKGTS  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LR+ +DG DE+ A+ E+  LFA +F E +
+Sbjct  61  LRVRVDGDDEQPAMEELTDLFARRFDEEE  89
+
+
+>WP_026948584.1 MULTISPECIES: phosphocarrier protein HPr [Alcanivorax]
+Length=89
+
+ Score = 92.4 bits (228),  Expect = 6e-023, Method: Compositional matrix adjust.
+ Identities = 42/89 (47%), Positives = 64/89 (72%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI+  + +INKLGLHARA+ K++ V +++  +IQ+   +  +DAK+IM LL LGA KGT+
+Sbjct  1   MIEKELTIINKLGLHARAAAKVVSVASRYSCTIQVLHNERRIDAKSIMGLLTLGAAKGTS  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LR+ +DG DE+ A+ E+  LFA +F E +
+Sbjct  61  LRVRVDGDDEQPAMEELTDLFARRFDEEE  89
+
+
+>WP_068476104.1 MULTISPECIES: phosphocarrier protein HPr [Oleiphilus]
+Length=89
+
+ Score = 92.4 bits (228),  Expect = 7e-023, Method: Compositional matrix adjust.
+ Identities = 44/87 (51%), Positives = 59/87 (68%), Gaps = 0/87 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M+  TV++IN LGLHARA+ K +E T  F SS  I K D  VD K+IMS++ML A KGT 
+Sbjct  1   MLRETVEIINDLGLHARAAAKFVECTGHFESSFTITKDDREVDGKSIMSVMMLAASKGTQ  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYE  87
+           + + +DG DEEQA+N ++ L   +F E
+Sbjct  61  ITITVDGADEEQAMNALKTLINNRFDE  87
+
+
+>WP_008294472.1 phosphocarrier protein HPr [Congregibacter litoralis]
+Length=89
+
+ Score = 92.0 bits (227),  Expect = 8e-023, Method: Compositional matrix adjust.
+ Identities = 43/89 (48%), Positives = 61/89 (69%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI++ +++INKLGLHARA+ K +   ++F S IQ+GKG   VD K+IMS++ML AG+G+T
+Sbjct  1   MIESELNIINKLGLHARAAAKFVSCASRFGSRIQVGKGGEWVDGKSIMSVMMLAAGQGST  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           L L +DG DE  A   + AL    F E +
+Sbjct  61  LALRVDGDDEAAATEAIHALVNDYFGEGE  89
+
+
+>WP_014995908.1 phosphocarrier protein HPr [Alcanivorax dieselolei]
+Length=89
+
+ Score = 91.7 bits (226),  Expect = 1e-022, Method: Compositional matrix adjust.
+ Identities = 43/89 (48%), Positives = 63/89 (71%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI+  + +INKLGLHARA+ K++ V +++  +IQ+   +  VDAK+IM LL LGA KGT 
+Sbjct  1   MIERELTIINKLGLHARAAAKVVSVASRYSCTIQVLHNERQVDAKSIMGLLTLGAAKGTN  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           LR+ +DG DE+ A+ E+  LFA +F E +
+Sbjct  61  LRVRVDGDDEQPAMAELADLFARRFDEEE  89
+
+
+>WP_070055983.1 phosphocarrier protein HPr [Marinobacter sp. X15-166B]
+Length=89
+
+ Score = 91.3 bits (225),  Expect = 2e-022, Method: Compositional matrix adjust.
+ Identities = 43/89 (48%), Positives = 61/89 (69%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI  +V ++NKLGLHARA+ KL+     ++SSI I + D  VDAK+IM ++ML A +GTT
+Sbjct  1   MICQSVVIVNKLGLHARAAAKLVSTAANYQSSIHIARDDRTVDAKSIMPVMMLAASQGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           + L++DG DEE A+N +  L A  F E +
+Sbjct  61  IDLLVDGPDEEAAMNALVELIADCFGEGE  89
+
+
+>WP_011587834.1 MULTISPECIES: phosphocarrier protein HPr [Alcanivorax]
+Length=89
+
+ Score = 90.9 bits (224),  Expect = 2e-022, Method: Compositional matrix adjust.
+ Identities = 42/89 (47%), Positives = 65/89 (73%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI+  +DVINKLGLHARA+ K++ V +++ SSI +      +DAK+IM LLMLGA KG+ 
+Sbjct  1   MIEKQLDVINKLGLHARAAAKVVSVASRYNSSILVLHKTQTIDAKSIMGLLMLGAAKGSR  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           +   ++G DE+QA++E++ LF+ +F E +
+Sbjct  61  ITFRVEGDDEQQAMDELKDLFSRRFDEGE  89
+
+
+>WP_054286893.1 MULTISPECIES: phosphocarrier protein HPr [Gulbenkiania]
+Length=89
+
+ Score = 90.1 bits (222),  Expect = 5e-022, Method: Compositional matrix adjust.
+ Identities = 41/89 (46%), Positives = 63/89 (71%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M++  VD+INKLGLHARAS K  +++++F+S I I +    V+ K+IM ++ML AGKG T
+Sbjct  1   MLNRQVDIINKLGLHARASSKFTQLSSRFKSEIWITRNGRRVNGKSIMGVMMLAAGKGAT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           + L ++G DEE+A+  +  L A +F EA+
+Sbjct  61  IELEVNGPDEEEAMTALVELIANRFDEAE  89
+
+
+>WP_008283420.1 phosphocarrier protein HPr [gamma proteobacterium HTCC5015]
+Length=89
+
+ Score = 90.1 bits (222),  Expect = 6e-022, Method: Compositional matrix adjust.
+ Identities = 42/89 (47%), Positives = 63/89 (71%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI+  +DVINKLGLHARA+ KL+   ++F + I++ K    ++AK+IM ++ML A +GTT
+Sbjct  1   MIERDIDVINKLGLHARAAAKLVSTASRFNAKIELAKEHRRINAKSIMGVMMLAASQGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           L+L I+G DE +A  E++ALF   F E +
+Sbjct  61  LKLFIEGDDEVEAEREIEALFQDYFGEGE  89
+
+
+>WP_063954793.1 phosphocarrier protein HPr [Achromobacter xylosoxidans]
+Length=89
+
+ Score = 89.7 bits (221),  Expect = 7e-022, Method: Compositional matrix adjust.
+ Identities = 44/87 (51%), Positives = 62/87 (71%), Gaps = 0/87 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M +T + + NKLGLHARA+ KL ++ +KF S I I +G   V+AK+IM ++ML AG G T
+Sbjct  1   MPNTDIVISNKLGLHARAAAKLTQLASKFSSEIFISRGAQRVNAKSIMGVMMLAAGLGVT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYE  87
+           ++L   G+D EQAL+E+Q LF +KF E
+Sbjct  61  VKLEASGSDAEQALSEIQTLFDSKFGE  87
+
+
+>WP_043545224.1 MULTISPECIES: phosphocarrier protein HPr [Achromobacter]
+Length=89
+
+ Score = 89.4 bits (220),  Expect = 9e-022, Method: Compositional matrix adjust.
+ Identities = 44/89 (49%), Positives = 62/89 (70%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M +T + + NKLGLHARA+ KL ++ +KF S I I +G   V+AK+IM ++ML AG G T
+Sbjct  1   MPNTDIVISNKLGLHARAAAKLTQLASKFSSEIFISRGAQRVNAKSIMGVMMLAAGLGVT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           +RL   G D EQAL+E++ LF +KF E +
+Sbjct  61  VRLEASGNDAEQALSEIETLFDSKFGEQE  89
+
+
+>WP_007235761.1 phosphocarrier protein HPr [marine gamma proteobacterium HTCC2080]
+Length=89
+
+ Score = 89.4 bits (220),  Expect = 1e-021, Method: Compositional matrix adjust.
+ Identities = 45/89 (51%), Positives = 60/89 (67%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI+  V +IN+LGLHARA+ KLI+    F S I + K D  VDAK+IMS++ML AG+GTT
+Sbjct  1   MIEEPVTIINRLGLHARAAAKLIDCAAGFSSQITLRKNDQTVDAKSIMSVMMLAAGQGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           L L I+G DE  A   + AL   +F E++
+Sbjct  61  LHLTIEGHDEMAAREAILALINNRFGESE  89
+
+
+>WP_058526462.1 phosphocarrier protein HPr [Legionella erythra]
+Length=89
+
+ Score = 89.4 bits (220),  Expect = 1e-021, Method: Compositional matrix adjust.
+ Identities = 45/89 (51%), Positives = 58/89 (65%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI TTV +INKLGLHARAS K +   +KF+S I + KG   V+ K+IM ++ML A KGT 
+Sbjct  1   MIKTTVTIINKLGLHARASAKFVSTASKFQSYIDLTKGSQTVNGKSIMGVMMLAASKGTE  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           L L I+G DEEQ    + AL   +F E +
+Sbjct  61  LTLQIEGPDEEQMEQALLALINNRFGEPE  89
+
+
+>WP_058022412.1 phosphocarrier protein HPr [Pseudohongiella spirulinae]
+Length=88
+
+ Score = 89.0 bits (219),  Expect = 2e-021, Method: Compositional matrix adjust.
+ Identities = 43/89 (48%), Positives = 63/89 (71%), Gaps = 1/89 (1%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI++T+ + NK GLHARA+ KL+ +  +F S + IG  + LVDA +I+SL+ML AGKGT 
+Sbjct  1   MIESTITICNKAGLHARAASKLVGIVNQFNSKVSIGT-EKLVDAHSILSLMMLAAGKGTV  59
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           L++++DG DEEQAL  +  L   +F E +
+Sbjct  60  LKIIVDGDDEEQALLAITKLVNDRFDEGE  88
+
+
+>WP_062816678.1 MULTISPECIES: phosphocarrier protein HPr [Alcanivorax]
+Length=89
+
+ Score = 89.0 bits (219),  Expect = 2e-021, Method: Compositional matrix adjust.
+ Identities = 41/89 (46%), Positives = 63/89 (71%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI+T +D+INKLGLHARA+ K++ V +++ S I +      +DAK+IM LLMLGA KG++
+Sbjct  1   MIETKLDIINKLGLHARAAAKVVSVASRYESRIHVIHNGKPIDAKSIMGLLMLGAAKGSS  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           +   ++G DE  A++E+  LFA +F E +
+Sbjct  61  VVFQVEGNDEAAAMDELTDLFARRFDEEE  89
+
+
+>WP_006387993.1 MULTISPECIES: phosphocarrier protein HPr [Achromobacter]
+Length=89
+
+ Score = 88.6 bits (218),  Expect = 2e-021, Method: Compositional matrix adjust.
+ Identities = 43/89 (48%), Positives = 63/89 (71%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M +T + + NKLGLHARA+ KL ++ +KF S I I +G   V+AK+IM ++ML AG G T
+Sbjct  1   MPNTDIVISNKLGLHARAAAKLTQLASKFSSEIFISRGAQRVNAKSIMGVMMLAAGLGVT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           ++L   G+D EQAL+E++ LF +KF E +
+Sbjct  61  VKLEASGSDAEQALSEIETLFDSKFGEQE  89
+
+
+>WP_042792966.1 MULTISPECIES: phosphocarrier protein HPr [Achromobacter]
+Length=89
+
+ Score = 88.6 bits (218),  Expect = 2e-021, Method: Compositional matrix adjust.
+ Identities = 43/89 (48%), Positives = 63/89 (71%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M +T + + NKLGLHARA+ KL ++ +KF S I I +G   V+AK+IM ++ML AG G T
+Sbjct  1   MPNTDIVISNKLGLHARAAAKLTQLASKFSSEIFISRGAQRVNAKSIMGVMMLAAGLGVT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           ++L   G D EQAL+E+++LF +KF E +
+Sbjct  61  VKLEASGNDAEQALSEIESLFDSKFGEQE  89
+
+
+>WP_013392913.1 MULTISPECIES: phosphocarrier protein HPr [Achromobacter]
+Length=89
+
+ Score = 88.2 bits (217),  Expect = 3e-021, Method: Compositional matrix adjust.
+ Identities = 43/89 (48%), Positives = 63/89 (71%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M +T + + NKLGLHARA+ KL ++ +KF S I I +G   V+AK+IM ++ML AG G T
+Sbjct  1   MPNTDIVISNKLGLHARAAAKLTQLASKFSSEIFISRGAQRVNAKSIMGVMMLAAGLGVT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           ++L   G D +QAL+E+Q+LF +KF E +
+Sbjct  61  VKLEASGNDADQALSEIQSLFDSKFGEQE  89
+
+
+>WP_044618509.1 phosphocarrier protein HPr [Gynuella sunshinyii]
+Length=89
+
+ Score = 88.2 bits (217),  Expect = 3e-021, Method: Compositional matrix adjust.
+ Identities = 43/89 (48%), Positives = 62/89 (70%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M++ +V +INKLGLHARA+ K + V ++F + I++ KG   VD K+IMS++ML A +GT 
+Sbjct  1   MVEESVTIINKLGLHARAAAKFVNVASQFGAQIRVIKGPKEVDGKSIMSVMMLAAAQGTE  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           L L IDG DE  AL  ++ L A +F EA+
+Sbjct  61  LSLRIDGKDELAALTAIKELIANRFDEAE  89
+
+
+>WP_035248097.1 phosphocarrier protein HPr [Alcanivorax jadensis]
+Length=89
+
+ Score = 88.2 bits (217),  Expect = 3e-021, Method: Compositional matrix adjust.
+ Identities = 41/89 (46%), Positives = 61/89 (69%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI+  +D+INKLGLHARA+ K++ V +++ S I +    + +DAK+IM LLMLGA KGT+
+Sbjct  1   MIEKQLDIINKLGLHARAAAKVVSVASRYESRIHVIHNGNPIDAKSIMGLLMLGAAKGTS  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           +   +DG DE  A+ E+  LF  +F E +
+Sbjct  61  VTFQVDGNDETAAMEELTDLFGRRFDEEE  89
+
+
+>WP_086078400.1 phosphocarrier protein HPr [Bordetella genomosp. 13]
+Length=89
+
+ Score = 88.2 bits (217),  Expect = 3e-021, Method: Compositional matrix adjust.
+ Identities = 43/87 (49%), Positives = 60/87 (69%), Gaps = 0/87 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M  + + + NKLGLHARA+ KL ++ ++F S I I +G   V+AK+IM ++ML AG G T
+Sbjct  1   MPSSDIVISNKLGLHARAAAKLTQLASRFSSEIYISRGAKRVNAKSIMGVMMLAAGMGVT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYE  87
+           +RL   G+D EQAL E+Q LF +KF E
+Sbjct  61  VRLDASGSDAEQALAEIQTLFDSKFGE  87
+
+
+>WP_027313828.1 phosphocarrier protein HPr [Balneatrix alpica]
+Length=90
+
+ Score = 87.8 bits (216),  Expect = 4e-021, Method: Compositional matrix adjust.
+ Identities = 43/90 (48%), Positives = 62/90 (69%), Gaps = 1/90 (1%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKG-DHLVDAKNIMSLLMLGAGKGT  59
+           M++  + +INKLGLHARA+ KLI VTT+F S I +G+  D LVDAK+IMS+++L A KGT
+Sbjct  1   MLEQRITLINKLGLHARATAKLINVTTQFSSKIMMGRSPDRLVDAKSIMSVMLLAASKGT  60
+
+Query  60  TLRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+            L   I+G DE +A   ++ +   +F E +
+Sbjct  61  ELYFQIEGNDETEAWQAIEEIILQRFGEEE  90
+
+
+>WP_027950682.1 phosphocarrier protein HPr [Haliea salexigens]
+Length=89
+
+ Score = 87.8 bits (216),  Expect = 4e-021, Method: Compositional matrix adjust.
+ Identities = 41/89 (46%), Positives = 60/89 (67%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI T + +INKLGLHARA+ K +  T  + SS++ G+   +VD K+IMS++ML AG+GT 
+Sbjct  1   MIQTQLTIINKLGLHARAAAKFVSCTAAYSSSVRAGRDGEMVDGKSIMSIMMLAAGQGTV  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           L + +DG DEE AL  ++ L   +F E +
+Sbjct  61  LDIEVDGHDEEAALEALRTLVENRFDEGE  89
+
+
+>WP_066659742.1 phosphocarrier protein HPr [Bordetella flabilis]
+Length=89
+
+ Score = 87.8 bits (216),  Expect = 5e-021, Method: Compositional matrix adjust.
+ Identities = 42/87 (48%), Positives = 60/87 (69%), Gaps = 0/87 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M +T + + NKLGLHARA+ KL ++ +KF S I I +G   V+AK+IM ++ML AG G T
+Sbjct  1   MPNTEITISNKLGLHARAAAKLTQLASKFNSDIYISRGAQRVNAKSIMGVMMLAAGMGVT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYE  87
+           ++L   G D E AL E+++LF +KF E
+Sbjct  61  VKLDASGPDAESALKEIESLFDSKFGE  87
+
+
+>WP_007150503.1 MULTISPECIES: phosphocarrier protein HPr [Alcanivorax]
+Length=89
+
+ Score = 87.4 bits (215),  Expect = 5e-021, Method: Compositional matrix adjust.
+ Identities = 41/89 (46%), Positives = 63/89 (71%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI+  +DVINKLGLHARA+ K++ V +++ S I +      +DAK+IM LLMLGA KG++
+Sbjct  1   MIEKKLDVINKLGLHARAAAKVVSVASRYDSRILVLHKSQTIDAKSIMGLLMLGAAKGSS  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           +   ++G DE+ A++E++ LFA  F E +
+Sbjct  61  VTFQVEGEDEQHAMDELEDLFARCFDEGE  89
+
+
+>WP_020409663.1 phosphocarrier protein HPr [Hahella ganghwensis]
+Length=89
+
+ Score = 87.4 bits (215),  Expect = 7e-021, Method: Compositional matrix adjust.
+ Identities = 41/89 (46%), Positives = 60/89 (67%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI   V +INKLGLHARA+ K +  + +F SSI++ KG   VD K+IM+++ML A KGT 
+Sbjct  1   MIQEKVTIINKLGLHARAAAKFVGTSGRFSSSIKVAKGSQQVDGKSIMAVMMLAASKGTE  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           L L+I+G+DE++A   ++ L    F E +
+Sbjct  61  LELMIEGSDEQEAFEAIKTLIDDYFGEGE  89
+
+
+>WP_056569687.1 phosphocarrier protein HPr [Achromobacter sp. Root565]
+Length=89
+
+ Score = 87.4 bits (215),  Expect = 7e-021, Method: Compositional matrix adjust.
+ Identities = 43/89 (48%), Positives = 62/89 (70%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M  T + + NKLGLHARA+ KL ++ +KF S I I +G   V+AK+IM ++ML AG G T
+Sbjct  1   MPTTDIVISNKLGLHARAAAKLTQLASKFASEIFISRGAQRVNAKSIMGVMMLAAGLGVT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           ++L   G+D EQAL+E++ LF +KF E +
+Sbjct  61  VKLEASGSDAEQALSEIETLFDSKFGEQE  89
+
+
+>WP_019142190.1 phosphocarrier protein HPr [Noviherbaspirillum massiliense]
+Length=89
+
+ Score = 87.4 bits (215),  Expect = 7e-021, Method: Compositional matrix adjust.
+ Identities = 40/87 (46%), Positives = 59/87 (68%), Gaps = 0/87 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI   +++INKLGLHARAS KL ++  KF+S + + + +  V+AK+IM ++ML AGKG T
+Sbjct  1   MIQQEIEIINKLGLHARASAKLTQLAAKFKSEVWLARNNRRVNAKSIMGVMMLAAGKGAT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYE  87
+           + L  DG DE++  N + AL   +F E
+Sbjct  61  VTLEADGVDEQECFNALVALINDRFGE  87
+
+
+>WP_025517656.1 phosphocarrier protein HPr [Bordetella trematum]
+Length=89
+
+ Score = 87.0 bits (214),  Expect = 8e-021, Method: Compositional matrix adjust.
+ Identities = 44/86 (51%), Positives = 60/86 (70%), Gaps = 2/86 (2%)
+
+Query  4   TTVDVI--NKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTTL  61
+            T+D++  NKLGLHARA+ KL ++ +KF S I I +G   V+AK+IM ++ML AG G T+
+Sbjct  2   PTLDIVISNKLGLHARAAAKLTQLASKFESEIFIARGAQRVNAKSIMGVMMLAAGPGVTV  61
+
+Query  62  RLVIDGTDEEQALNEVQALFAAKFYE  87
+           RL   G D +QAL E+Q+LF  KF E
+Sbjct  62  RLDASGNDADQALVEIQSLFDGKFGE  87
+
+
+>WP_055841312.1 phosphocarrier protein HPr [Xylophilus sp. Leaf220]
+Length=89
+
+ Score = 87.0 bits (214),  Expect = 8e-021, Method: Compositional matrix adjust.
+ Identities = 44/89 (49%), Positives = 59/89 (66%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI TT  + NKLGLHARAS KL ++   F   I I +GD  V+AK+IM ++ML AG GT 
+Sbjct  1   MIQTTTTISNKLGLHARASAKLTKLAGSFPCDIWIARGDRKVNAKSIMGVMMLAAGIGTQ  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           +RL  DG  E+QA++ + AL + KF E +
+Sbjct  61  VRLETDGAQEQQAMDALLALISDKFGEGE  89
+
+
+>WP_070119113.1 phosphocarrier protein HPr [Pseudohongiella acticola]
+Length=88
+
+ Score = 86.7 bits (213),  Expect = 1e-020, Method: Compositional matrix adjust.
+ Identities = 41/89 (46%), Positives = 61/89 (69%), Gaps = 1/89 (1%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI+ T+ + NK GLHARA+ +L+   ++F SS++IG  + LVD K+I+SL+ML A KGT 
+Sbjct  1   MIEATITICNKAGLHARAAARLVGTASQFNSSVRIGN-EKLVDGKSILSLMMLAASKGTV  59
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           L +++DG DE  AL  +Q L   +F E +
+Sbjct  60  LTIIVDGNDEADALQAIQDLVNNRFEEGE  88
+
+
+>WP_022984937.1 phosphocarrier protein HPr [Alcanivorax sp. P2S70]
+Length=89
+
+ Score = 86.7 bits (213),  Expect = 1e-020, Method: Compositional matrix adjust.
+ Identities = 41/89 (46%), Positives = 64/89 (72%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI+ ++DVINKLGLHARA+ K++ V +++ S+I +    + +DAK+IM LLMLGA KG+ 
+Sbjct  1   MIEQSLDVINKLGLHARAAAKVVSVASRYDSAIHVLHKGNRIDAKSIMGLLMLGAAKGSQ  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           +   ++G DE+ A+ E++ LFA  F E +
+Sbjct  61  VTFQVEGDDEDAAMAELEDLFARMFDEGE  89
+
+
+>WP_007226019.1 phosphocarrier protein HPr [marine gamma proteobacterium HTCC2143]
+Length=89
+
+ Score = 86.7 bits (213),  Expect = 1e-020, Method: Compositional matrix adjust.
+ Identities = 42/89 (47%), Positives = 59/89 (66%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI T + +INKLGLHARA+ K +     F  SI+ GK  ++VD K+IMS++ML A +GT 
+Sbjct  1   MIKTRITIINKLGLHARAASKFVTTAASFGCSIKAGKDGNMVDGKSIMSVMMLAASRGTD  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           L L  DG DE+QA++ V +L   +F E +
+Sbjct  61  LDLEFDGNDEQQAMDAVTSLINNRFDEGE  89
+
+
+>WP_028293186.1 phosphocarrier protein HPr [Oceanobacter kriegii]
+Length=89
+
+ Score = 86.3 bits (212),  Expect = 2e-020, Method: Compositional matrix adjust.
+ Identities = 38/89 (43%), Positives = 63/89 (71%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M+ TT+ +IN+LGLHARA+ KL+     + S++++G  D +VDAK+IM+++ML A KGT 
+Sbjct  1   MVSTTITIINRLGLHARAAAKLVSTAAAYGSTVKVGYPDRMVDAKSIMAVMMLAASKGTD  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           ++++ +G DE+ AL+ +  L   KF E +
+Sbjct  61  VQIIAEGDDEQAALDALCDLINRKFDEGE  89
+
+
+>WP_033461398.1 phosphocarrier protein HPr [Bordetella bronchiseptica]
+Length=89
+
+ Score = 85.9 bits (211),  Expect = 2e-020, Method: Compositional matrix adjust.
+ Identities = 42/89 (47%), Positives = 61/89 (69%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M  + + + NKLGLHARA+ KL ++ ++F S I I +G   V+AK+IM ++ML AG G T
+Sbjct  1   MPSSDIVISNKLGLHARAAAKLTQLASRFSSEIFISRGAQRVNAKSIMGVMMLAAGLGVT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           +RL   G+D +QAL+E+Q LF  KF E +
+Sbjct  61  VRLEASGSDADQALSEIQTLFDNKFGEQE  89
+
+
+>WP_014111781.1 phosphocarrier protein HPr [Taylorella asinigenitalis]
+Length=89
+
+ Score = 85.9 bits (211),  Expect = 2e-020, Method: Compositional matrix adjust.
+ Identities = 43/88 (49%), Positives = 64/88 (73%), Gaps = 2/88 (2%)
+
+Query  4   TTVDVI--NKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTTL  61
+           T V+V+  NKLGLHARA+ KL ++ +KF+S I I KG+  V+AK+IM +++L AGKG+T+
+Sbjct  2   TQVEVVISNKLGLHARAASKLTQLASKFKSEISISKGNQKVNAKSIMGVMLLAAGKGSTV  61
+
+Query  62  RLVIDGTDEEQALNEVQALFAAKFYEAD  89
+            L  +G D E+AL  ++ LF +KF E +
+Sbjct  62  ILNANGDDSEEALEAIKELFDSKFGEEE  89
+
+
+>WP_025135351.1 phosphocarrier protein HPr [Achromobacter sp. DH1f]
+Length=89
+
+ Score = 85.9 bits (211),  Expect = 2e-020, Method: Compositional matrix adjust.
+ Identities = 42/89 (47%), Positives = 62/89 (70%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M +T + + NKLGLHARA+ KL ++ +KF S I I +G   V+AK+IM ++ML AG G T
+Sbjct  1   MPNTDIVISNKLGLHARAAAKLTQLASKFSSEIFISRGAQRVNAKSIMGVMMLAAGLGVT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           ++L   G D +QAL+E++ LF +KF E +
+Sbjct  61  VKLEASGNDADQALSEIETLFDSKFGEQE  89
+
+
+>WP_019619899.1 phosphocarrier protein HPr [Amphritea japonica]
+Length=89
+
+ Score = 85.9 bits (211),  Expect = 2e-020, Method: Compositional matrix adjust.
+ Identities = 43/89 (48%), Positives = 59/89 (66%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M +  + +INKLGLHARA+ KLI VT+ F S IQ+ K    VD K+IMS++ML A KGT 
+Sbjct  1   MQEKQITIINKLGLHARAAAKLINVTSSFSSDIQLNKDGRQVDGKSIMSVMMLAASKGTE  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           L +   G DE+QAL+ ++ L   +F E +
+Sbjct  61  LTISTCGDDEQQALDAIEQLINNRFDEEE  89
+
+
+>WP_006226962.1 phosphocarrier protein HPr [Achromobacter piechaudii]
+Length=89
+
+ Score = 85.9 bits (211),  Expect = 2e-020, Method: Compositional matrix adjust.
+ Identities = 43/89 (48%), Positives = 61/89 (69%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M  T + + NKLGLHARA+ KL ++ +KF S I I +G   V+AK+IM ++ML AG G T
+Sbjct  1   MPTTDIVISNKLGLHARAAAKLTQLASKFSSEIFISRGAQRVNAKSIMGVMMLAAGLGVT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           ++L   G D EQAL+E++ LF +KF E +
+Sbjct  61  VKLEASGGDAEQALSEIETLFDSKFGEQE  89
+
+
+>WP_013260714.1 phosphocarrier protein HPr [gamma proteobacterium HdN1]
+Length=92
+
+ Score = 85.9 bits (211),  Expect = 2e-020, Method: Compositional matrix adjust.
+ Identities = 42/86 (49%), Positives = 58/86 (67%), Gaps = 0/86 (0%)
+
+Query  4   TTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTTLRL  63
+           T + +INKLGLHARA+ KL+ +  ++ S I + KG    DAKNIM++L+L A K TTL +
+Sbjct  7   TQITIINKLGLHARAASKLVAMANRYESRIILFKGAQQADAKNIMAVLLLAASKNTTLEI  66
+
+Query  64  VIDGTDEEQALNEVQALFAAKFYEAD  89
+             DG D E+AL E+ AL   +F EA+
+Sbjct  67  TADGRDWEKALEEITALINNRFGEAE  92
+
+
+>WP_085759020.1 phosphocarrier protein HPr [Oceanicoccus sagamiensis]
+Length=89
+
+ Score = 85.9 bits (211),  Expect = 3e-020, Method: Compositional matrix adjust.
+ Identities = 42/89 (47%), Positives = 58/89 (65%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI TT+ +INKLGLHARA+ K +   + F   I+ GK   +VD K+IMS++ML A KGT 
+Sbjct  1   MIKTTITIINKLGLHARAASKFVTTASAFGCDIKAGKDGKMVDGKSIMSVMMLAASKGTE  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           L L  DG DE++AL+ +  L   +F E +
+Sbjct  61  LDLEFDGNDEQKALDAISTLINNRFDEGE  89
+
+
+>WP_039407769.1 phosphocarrier protein HPr [Pandoraea pulmonicola]
+Length=89
+
+ Score = 85.9 bits (211),  Expect = 3e-020, Method: Compositional matrix adjust.
+ Identities = 39/89 (44%), Positives = 60/89 (67%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M+     ++NKLGLHARAS KL ++  KF+S + + +    ++AK+IM ++ML AG G+ 
+Sbjct  1   MLQQETTIVNKLGLHARASAKLTQLAAKFQSEVWLTRNGRRINAKSIMGVMMLAAGIGSK  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           + +  +G DEEQA+NE+ AL A KF E +
+Sbjct  61  VEVETEGPDEEQAMNEILALIANKFGEGE  89
+
+
+>WP_012417078.1 phosphocarrier protein HPr [Bordetella avium]
+Length=89
+
+ Score = 85.5 bits (210),  Expect = 3e-020, Method: Compositional matrix adjust.
+ Identities = 43/86 (50%), Positives = 61/86 (71%), Gaps = 2/86 (2%)
+
+Query  4   TTVDVI--NKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTTL  61
+            T+D++  NKLGLHARA+ KL ++ +KF S I I +G   V+AK+IM ++ML AG G T+
+Sbjct  2   PTLDIVISNKLGLHARAAAKLTQLASKFSSEIFIARGAQRVNAKSIMGVMMLAAGLGVTV  61
+
+Query  62  RLVIDGTDEEQALNEVQALFAAKFYE  87
+           ++   G+D EQAL E+Q+LF  KF E
+Sbjct  62  KVDASGSDAEQALAEIQSLFENKFGE  87
+
+
+>WP_027707871.1 phosphocarrier protein HPr [Zooshikella ganghwensis]
+Length=89
+
+ Score = 85.5 bits (210),  Expect = 3e-020, Method: Compositional matrix adjust.
+ Identities = 42/89 (47%), Positives = 61/89 (69%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI+  + +INKLGLHARA+ K +     F S+I++GK   +VD K+IMS++ML A +GTT
+Sbjct  1   MIEEQLIIINKLGLHARAAAKFVTTAAAFGSTIRVGKAGKMVDGKSIMSVMMLAASQGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           L ++I+G DEEQA   ++AL    F E +
+Sbjct  61  LDVLIEGKDEEQAFIALKALVDNYFEEGE  89
+
+
+>WP_067014856.1 phosphocarrier protein HPr [Marinomonas spartinae]
+Length=89
+
+ Score = 85.5 bits (210),  Expect = 3e-020, Method: Compositional matrix adjust.
+ Identities = 41/87 (47%), Positives = 60/87 (69%), Gaps = 0/87 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M++ +V +INKLGLHARA+GKL+E T++F   + I K    VD K+IM+++ML AGKGT 
+Sbjct  1   MLEESVTIINKLGLHARAAGKLVETTSRFSCDVTIEKDGRNVDGKSIMAMMMLAAGKGTD  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYE  87
+           + +  +G DEE A+  + AL   +F E
+Sbjct  61  ITIKTNGEDEEDAIKAIIALINERFGE  87
+
+
+>WP_038485523.1 HPr family phosphocarrier protein [Halomonas campaniensis]
+Length=89
+
+ Score = 85.5 bits (210),  Expect = 4e-020, Method: Compositional matrix adjust.
+ Identities = 41/87 (47%), Positives = 59/87 (68%), Gaps = 0/87 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M + T+ + N+ GLHARA+ KL++ + +F ++I + K   + DA NIMSLLML A  GT 
+Sbjct  1   MPERTLTLTNQRGLHARAATKLVKCSQQFSANIHVYKQQQMADAANIMSLLMLAAPCGTE  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYE  87
+           LR+  +G D EQAL  ++ALF A+F E
+Sbjct  61  LRVHAEGDDAEQALEAIEALFDARFDE  87
+
+
+>WP_068452852.1 MULTISPECIES: phosphocarrier protein HPr [Oleiphilus]
+Length=89
+
+ Score = 85.5 bits (210),  Expect = 4e-020, Method: Compositional matrix adjust.
+ Identities = 42/87 (48%), Positives = 58/87 (67%), Gaps = 0/87 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M+  TV++IN LGLHARA+ K +E T  F SS  I K    VD K+IMS++ML A KGT 
+Sbjct  1   MLCETVEIINDLGLHARAAAKFVECTCHFESSFLISKDGREVDGKSIMSVMMLAASKGTE  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYE  87
+           + + ++G DE +AL  ++AL + KF E
+Sbjct  61  ISIQVEGPDETKALAALKALISNKFGE  87
+
+
+>WP_024023061.1 phosphocarrier protein HPr [Marinomonas profundimaris]
+Length=89
+
+ Score = 85.5 bits (210),  Expect = 4e-020, Method: Compositional matrix adjust.
+ Identities = 41/87 (47%), Positives = 60/87 (69%), Gaps = 0/87 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M + ++ +INKLGLHARA+GKL+E T++F   I I K    VD K+IM+++ML AGKGT 
+Sbjct  1   MQEESITIINKLGLHARAAGKLVETTSRFSCDITIEKDGRNVDGKSIMAMMMLAAGKGTE  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYE  87
+           +R+  +G DE +A+  + AL   +F E
+Sbjct  61  IRVKTNGDDESEAIKAIIALINNRFGE  87
+
+
+>WP_077277624.1 phosphocarrier protein HPr [Thioalkalivibrio denitrificans]
+Length=89
+
+ Score = 85.5 bits (210),  Expect = 4e-020, Method: Compositional matrix adjust.
+ Identities = 36/89 (40%), Positives = 64/89 (72%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI   + +IN+LG+HARA+ + + + +++ S I++ KG+  V+ K+IM ++ML A +G+T
+Sbjct  1   MIQRELTIINRLGMHARAAARFVSLASRYDSEIELEKGNRRVNGKSIMGVMMLAASRGST  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           +RL+IDG DEE A++ +  L  ++F EA+
+Sbjct  61  VRLLIDGEDEESAMDALTDLIESRFGEAE  89
+
+
+>WP_002812792.1 phosphocarrier protein HPr [Nitrosococcus oceani]
+Length=89
+
+ Score = 85.5 bits (210),  Expect = 4e-020, Method: Compositional matrix adjust.
+ Identities = 39/89 (44%), Positives = 61/89 (69%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M  + V +INKLGLHARA+ K + + ++F+S I + KG   V+ K+IM ++ML A +GT 
+Sbjct  1   MTQSEVTIINKLGLHARAAAKFVTLASRFKSEICVRKGTKEVNGKSIMGVMMLAASQGTR  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           L +V+ G DE++AL ++QAL   +F E +
+Sbjct  61  LSIVVSGPDEKEALEQLQALVNKRFGEHE  89
+
+
+>WP_077733016.1 phosphocarrier protein HPr [Paenalcaligenes hominis]
+Length=89
+
+ Score = 85.5 bits (210),  Expect = 4e-020, Method: Compositional matrix adjust.
+ Identities = 41/87 (47%), Positives = 60/87 (69%), Gaps = 0/87 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M    +++ N+LGLHARA+ KL +V ++++S I I +GD  V+AK+IM ++ML AG G T
+Sbjct  1   MPSINIEITNQLGLHARAAAKLTKVASQYKSDIHIARGDRRVNAKSIMGVMMLAAGLGVT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYE  87
+           + L  +G D EQAL+ +  LFA KF E
+Sbjct  61  VTLDAEGDDAEQALDALATLFANKFDE  87
+
+
+>WP_076516411.1 phosphocarrier protein HPr [Oleibacter marinus]
+Length=89
+
+ Score = 85.5 bits (210),  Expect = 4e-020, Method: Compositional matrix adjust.
+ Identities = 42/87 (48%), Positives = 59/87 (68%), Gaps = 0/87 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI  +V +INKLGLHARA+ KL+   + F S ++IGK   +VD K+IMS++ML A KGT 
+Sbjct  1   MIQKSVLIINKLGLHARAAAKLVSTASAFSSQLKIGKDGRMVDCKSIMSVMMLAASKGTE  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYE  87
+           L L  +G+DEE A++ +  L   +F E
+Sbjct  61  LILTAEGSDEEAAVDAITDLIDRRFDE  87
+
+
+>WP_009721969.1 HPr family phosphocarrier protein [Halomonas sp. TD01]
+Length=89
+
+ Score = 85.5 bits (210),  Expect = 4e-020, Method: Compositional matrix adjust.
+ Identities = 43/87 (49%), Positives = 58/87 (67%), Gaps = 0/87 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M + T+ + NK GLHARA+ KL++   +F ++I I K   + DA NIMSLLML A  GT 
+Sbjct  1   MPERTLTLTNKRGLHARAATKLVKCGQQFSANIHIYKQQQMADAANIMSLLMLAAPCGTE  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYE  87
+           LR+  +G D EQAL  ++ALF A+F E
+Sbjct  61  LRVHAEGDDAEQALEAIEALFDARFDE  87
+
+
+>WP_025372908.1 phosphocarrier protein HPr [Advenella mimigardefordensis]
+Length=89
+
+ Score = 85.1 bits (209),  Expect = 4e-020, Method: Compositional matrix adjust.
+ Identities = 41/88 (47%), Positives = 62/88 (70%), Gaps = 2/88 (2%)
+
+Query  4   TTVDVI--NKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTTL  61
+            +VD++  NKLGLHARA+ KL ++ +KF+S I I +    V+AK+IM ++ML AGKG T+
+Sbjct  2   PSVDIVISNKLGLHARAAAKLTQLASKFKSEIFITRASQRVNAKSIMGVMMLAAGKGITV  61
+
+Query  62  RLVIDGTDEEQALNEVQALFAAKFYEAD  89
+            +  +G D +Q+L ++QALF  KF E +
+Sbjct  62  NIEAEGDDADQSLEQIQALFENKFGEPE  89
+
+
+>WP_009019205.1 phosphocarrier protein HPr [Luminiphilus syltensis]
+Length=89
+
+ Score = 85.1 bits (209),  Expect = 4e-020, Method: Compositional matrix adjust.
+ Identities = 45/89 (51%), Positives = 64/89 (72%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI+T +++INKLGLHARA+ KL++    + S + IG  D +VDAK+IMS++ML AGKGT 
+Sbjct  1   MIETEIEIINKLGLHARAAAKLVDCAAHYSSRVMIGNSDKMVDAKSIMSVMMLAAGKGTR  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           L+L +DG DE+ A   +  L A +F EA+
+Sbjct  61  LQLHVDGRDEDAAAAAIIELIADRFTEAE  89
+
+
+>WP_012249738.1 phosphocarrier protein HPr [Bordetella petrii]
+Length=89
+
+ Score = 85.1 bits (209),  Expect = 5e-020, Method: Compositional matrix adjust.
+ Identities = 43/87 (49%), Positives = 61/87 (70%), Gaps = 0/87 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M  + + + NKLGLHARA+ KL ++ +KF S I I +G   V+AK+IM ++ML AG+G T
+Sbjct  1   MPISDIVISNKLGLHARAAAKLTQLASKFGSEIFISRGAQRVNAKSIMGVMMLAAGQGVT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYE  87
+           +RL   G D +QAL+E+Q LF +KF E
+Sbjct  61  VRLEASGGDADQALSEIQNLFDSKFGE  87
+
+
+>WP_021478263.1 MULTISPECIES: phosphocarrier protein HPr [Chromobacteriaceae]
+Length=89
+
+ Score = 85.1 bits (209),  Expect = 5e-020, Method: Compositional matrix adjust.
+ Identities = 40/89 (45%), Positives = 61/89 (69%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M+ + V++INKLGLHARAS K  ++ ++++S I I + +  V+ K+IM ++ML A KG T
+Sbjct  1   MLRSEVEIINKLGLHARASSKFTQLASRYKSDIFISRNNRRVNGKSIMGVMMLAAAKGAT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           + L I G DE+QAL  + AL   +F EA+
+Sbjct  61  IELEISGDDEQQALEALTALINNRFDEAE  89
+
+
+>WP_014750774.1 phosphocarrier protein HPr [Advenella kashmirensis]
+Length=89
+
+ Score = 85.1 bits (209),  Expect = 5e-020, Method: Compositional matrix adjust.
+ Identities = 42/88 (48%), Positives = 62/88 (70%), Gaps = 2/88 (2%)
+
+Query  4   TTVDVI--NKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTTL  61
+            +VD++  NKLGLHARA+ KL ++ +KF+S I I +    V+AK+IM ++ML AGKG T+
+Sbjct  2   PSVDIVISNKLGLHARAAAKLTQLASKFKSEIFITRASQRVNAKSIMGVMMLAAGKGITV  61
+
+Query  62  RLVIDGTDEEQALNEVQALFAAKFYEAD  89
+            +  +G D +QAL ++QALF  KF E +
+Sbjct  62  NIEAEGDDADQALVQIQALFENKFGEPE  89
+
+
+>WP_048495737.1 phosphocarrier protein HPr [Marinobacter subterrani]
+Length=89
+
+ Score = 85.1 bits (209),  Expect = 6e-020, Method: Compositional matrix adjust.
+ Identities = 43/89 (48%), Positives = 57/89 (64%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI   + +INKLGLHARA+ KL+   +KF SS++I      VDAKNIM ++ML A KGT 
+Sbjct  1   MIRRPITIINKLGLHARATAKLVATASKFDSSVRISGKGRDVDAKNIMQVMMLAASKGTD  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           + L+ DG DEEQA+  +  L    F E +
+Sbjct  61  VELIADGPDEEQAVEALAELINDYFGEGE  89
+
+
+>WP_036130717.1 phosphocarrier protein HPr [Marinobacter nitratireducens]
+Length=89
+
+ Score = 85.1 bits (209),  Expect = 6e-020, Method: Compositional matrix adjust.
+ Identities = 43/90 (48%), Positives = 61/90 (68%), Gaps = 2/90 (2%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQI-GKGDHLVDAKNIMSLLMLGAGKGT  59
+           MI   + +INKLGLHARA+ KL+   ++F SS++I GKG   VDAKNIM ++ML A +GT
+Sbjct  1   MIRHPITIINKLGLHARATAKLVATASEFSSSVRISGKGRE-VDAKNIMQVMMLAASQGT  59
+
+Query  60  TLRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+            + L++DG DE+ A+N +  L    F E +
+Sbjct  60  EVELIVDGPDEQDAVNAISGLINDYFGEGE  89
+
+
+>WP_005882018.1 phosphocarrier protein HPr [Oxalobacter formigenes]
+Length=89
+
+ Score = 84.7 bits (208),  Expect = 7e-020, Method: Compositional matrix adjust.
+ Identities = 37/89 (42%), Positives = 62/89 (70%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M+ T +++INKLGLHARAS KL ++ +K+   + + + +  ++AK+IM ++ML AGKG+ 
+Sbjct  1   MVQTELEIINKLGLHARASAKLTQLASKYSCEVWMTRNNQRINAKSIMGVMMLAAGKGSK  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           + L  DG DEE+ ++ ++ L   KF EA+
+Sbjct  61  VLLETDGVDEEECMDALKKLINNKFGEAE  89
+
+
+>WP_026290010.1 phosphocarrier protein HPr [Thioalkalivibrio sulfidiphilus]
+Length=89
+
+ Score = 84.7 bits (208),  Expect = 7e-020, Method: Compositional matrix adjust.
+ Identities = 36/89 (40%), Positives = 64/89 (72%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M +  + +IN+LG+HARA+ K + + ++F+S I++ KG+  V+ K+IM ++ML A KG+T
+Sbjct  1   MAEREITIINRLGMHARAAAKFVGLASQFKSEIELEKGNRRVNGKSIMGVMMLAASKGST  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           +RL+ +G D  QA++ + AL  ++F EA+
+Sbjct  61  VRLLAEGEDANQAIDALSALIESRFGEAE  89
+
+
+>WP_009207122.1 MULTISPECIES: phosphocarrier protein HPr [Sulfuricella]
+Length=89
+
+ Score = 84.7 bits (208),  Expect = 7e-020, Method: Compositional matrix adjust.
+ Identities = 40/89 (45%), Positives = 61/89 (69%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M+   + ++NKLGLHARAS KL ++  +F+S I I + +  V+AK+IM ++ML A KG+T
+Sbjct  1   MLQQDIAIVNKLGLHARASAKLTQMAGQFKSEIWITRNERRVNAKSIMGVMMLAANKGST  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           + L IDG DE+ A+  + AL A +F E +
+Sbjct  61  IHLEIDGADEDAAMQALAALIADRFGEGE  89
+
+
+>WP_017430656.1 HPr family phosphocarrier protein [Halomonas jeotgali]
+Length=89
+
+ Score = 84.7 bits (208),  Expect = 7e-020, Method: Compositional matrix adjust.
+ Identities = 41/89 (46%), Positives = 57/89 (64%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M   T+ + N+ GLHARA+ KL+     F + + + KG    DA NIMSLL+L A +GT 
+Sbjct  1   MPCKTLTLTNRRGLHARAATKLVACCQPFAAGVHVYKGSQKADASNIMSLLILAAPRGTE  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           L +  DG D +QAL+ V+ALF A+F+E D
+Sbjct  61  LTVHADGEDADQALDAVEALFTARFHEDD  89
+
+
+>WP_054343582.1 phosphocarrier protein HPr [Neptunomonas antarctica]
+Length=89
+
+ Score = 84.7 bits (208),  Expect = 7e-020, Method: Compositional matrix adjust.
+ Identities = 42/87 (48%), Positives = 60/87 (69%), Gaps = 0/87 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M++  + +INKLGLHARA+ KLI +T +F S I++ K D  VDAK+IMS++ML A KGT 
+Sbjct  1   MLEQKIIIINKLGLHARAAAKLINITARFSSDIRLVKDDREVDAKSIMSVMMLAASKGTE  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYE  87
+           L +   G DE+ A+  ++AL   +F E
+Sbjct  61  LTIKATGIDEQDAMLAIEALINNRFDE  87
+
+
+>WP_086057848.1 phosphocarrier protein HPr [Bordetella genomosp. 9]
+Length=89
+
+ Score = 84.7 bits (208),  Expect = 8e-020, Method: Compositional matrix adjust.
+ Identities = 42/87 (48%), Positives = 59/87 (68%), Gaps = 0/87 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M  T + + NKLGLHARA+ KL ++ +KF S I I +G   V+AK+IM ++ML AG G T
+Sbjct  1   MPITEITISNKLGLHARAAAKLTQLASKFNSDIYISRGAQRVNAKSIMGVMMLAAGLGVT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYE  87
+           ++L   G D E AL E+++LF +KF E
+Sbjct  61  VKLDASGPDAEAALKEIESLFDSKFGE  87
+
+
+>WP_069183070.1 phosphocarrier protein HPr [Marinobacter adhaerens]
+Length=89
+
+ Score = 84.7 bits (208),  Expect = 8e-020, Method: Compositional matrix adjust.
+ Identities = 42/89 (47%), Positives = 57/89 (64%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI   + +INKLGLHARA+ KL+   ++F SS++I      VDAKNIM ++ML A KGT 
+Sbjct  1   MIRRPITIINKLGLHARATAKLVNTASRFDSSVRISGKGRDVDAKNIMQVMMLAASKGTD  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           + L+ DG DEEQA+  +  L    F E +
+Sbjct  61  VELIADGPDEEQAIEALAELINDYFGEGE  89
+
+
+>WP_036189272.1 phosphocarrier protein HPr [Marinobacterium sp. AK27]
+Length=89
+
+ Score = 84.7 bits (208),  Expect = 8e-020, Method: Compositional matrix adjust.
+ Identities = 42/89 (47%), Positives = 61/89 (69%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI+  + +INKLGLHARA+ KLI  T  + S I+I K   +VD K+IM+++ML A KGT 
+Sbjct  1   MIEKQLTIINKLGLHARAAAKLINTTGHYSSDIKIDKQGRVVDGKSIMAVMMLAASKGTD  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           L   I+G DEE+A++ ++ L   +F EA+
+Sbjct  61  LVFRIEGEDEEEAMSAIETLINNRFDEAE  89
+
+
+>WP_026641187.1 phosphocarrier protein HPr [Bordetella petrii]
+Length=89
+
+ Score = 84.7 bits (208),  Expect = 8e-020, Method: Compositional matrix adjust.
+ Identities = 42/87 (48%), Positives = 61/87 (70%), Gaps = 0/87 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M  + + + NKLGLHARA+ KL ++ ++F S I I +G   V+AK+IM ++ML AGKG T
+Sbjct  1   MPTSDIVISNKLGLHARAAAKLTQLASQFGSEIFISRGAKRVNAKSIMGVMMLAAGKGVT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYE  87
+           +RL   G D ++AL+E+Q LF +KF E
+Sbjct  61  VRLEASGADADRALSEIQNLFDSKFGE  87
+
+
+>WP_028358125.1 phosphocarrier protein HPr [Brackiella oedipodis]
+Length=89
+
+ Score = 84.3 bits (207),  Expect = 9e-020, Method: Compositional matrix adjust.
+ Identities = 42/89 (47%), Positives = 61/89 (69%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M    ++V NKLGLHARA+ KL ++ ++F S I I +G+  V+AK+IM ++ML AGKGTT
+Sbjct  1   MEKKAIEVSNKLGLHARAAAKLTQLASQFESEIFISRGEQRVNAKSIMGVMMLAAGKGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           + L  +G D+ QA+  + ALF  KF E +
+Sbjct  61  VVLDAEGNDQAQAIEALTALFNDKFGEGE  89
+
+
+>WP_043116522.1 phosphocarrier protein HPr [Pseudacidovorax intermedius]
+Length=89
+
+ Score = 84.3 bits (207),  Expect = 9e-020, Method: Compositional matrix adjust.
+ Identities = 41/89 (46%), Positives = 58/89 (65%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI T+V + NKLGLHARAS KL ++   F   + I +G+  V+AK+IM ++ML AG G T
+Sbjct  1   MIKTSVTISNKLGLHARASAKLTKLAGSFPCEVWIARGERRVNAKSIMGVMMLAAGLGAT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           + L  DG  E++A+N + AL   KF E +
+Sbjct  61  VELETDGPQEQEAMNAIVALMNDKFGEGE  89
+
+
+>WP_012070121.1 MULTISPECIES: phosphocarrier protein HPr [Marinomonas]
+Length=89
+
+ Score = 84.3 bits (207),  Expect = 9e-020, Method: Compositional matrix adjust.
+ Identities = 43/87 (49%), Positives = 58/87 (67%), Gaps = 0/87 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M + +V +INKLGLHARA+GKL+E TT+F   I I K    VD K+IM+++ML AGKGT 
+Sbjct  1   MQEESVTIINKLGLHARAAGKLVETTTRFSCDITIEKDSRNVDGKSIMAMMMLAAGKGTE  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYE  87
+           +R+  +G DE  A+  V  L   +F E
+Sbjct  61  IRIKTNGEDELDAIKAVIELINNRFGE  87
+
+
+>WP_003812598.1 MULTISPECIES: phosphocarrier protein HPr [Bordetella]
+ NP_880237.1 phosphocarrier protein HPr [Bordetella pertussis Tohama I]
+ YP_006895971.1 phosphocarrier protein HPr [Bordetella parapertussis Bpp5]
+ YP_006967435.1 phosphocarrier protein HPr [Bordetella bronchiseptica 253]
+Length=89
+
+ Score = 84.3 bits (207),  Expect = 9e-020, Method: Compositional matrix adjust.
+ Identities = 41/89 (46%), Positives = 61/89 (69%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M  + + + NKLGLHARA+ KL ++ ++F S I I +G   V+AK+IM ++ML AG G T
+Sbjct  1   MPSSDIVISNKLGLHARAAAKLTQLASRFSSEIFISRGAQRVNAKSIMGVMMLAAGLGVT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           ++L   G+D +QAL+E+Q LF  KF E +
+Sbjct  61  VKLEASGSDADQALSEIQTLFDNKFGEQE  89
+
+
+>WP_035231678.1 phosphocarrier protein HPr [Alcanivorax nanhaiticus]
+Length=89
+
+ Score = 84.3 bits (207),  Expect = 1e-019, Method: Compositional matrix adjust.
+ Identities = 41/89 (46%), Positives = 61/89 (69%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI+  +DVINKLGLHARA+ K++ V +++ S I +    + +DAK+IM LLMLGA KG+ 
+Sbjct  1   MIEKQLDVINKLGLHARAAAKVVSVASRYDSRILVIHNGNPIDAKSIMGLLMLGAAKGSK  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           +   ++G DE  A+ E++ LFA  F E +
+Sbjct  61  VTFQVEGPDEADAMAELEDLFARMFDEGE  89
+
+
+>WP_006218730.1 phosphocarrier protein HPr [Achromobacter piechaudii]
+Length=89
+
+ Score = 84.3 bits (207),  Expect = 1e-019, Method: Compositional matrix adjust.
+ Identities = 43/88 (49%), Positives = 61/88 (69%), Gaps = 2/88 (2%)
+
+Query  4   TTVDVI--NKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTTL  61
+            T D++  NKLGLHARA+ KL ++ +KF S I I +G   V+AK+IM ++ML AG G T+
+Sbjct  2   PTKDIVISNKLGLHARAAAKLTQLASKFSSEIFISRGAQRVNAKSIMGVMMLAAGLGVTV  61
+
+Query  62  RLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           +L   G D EQAL+E++ LF +KF E +
+Sbjct  62  KLEASGGDAEQALSEIETLFDSKFGEQE  89
+
+
+>WP_012698388.1 phosphocarrier protein HPr [Laribacter hongkongensis]
+Length=89
+
+ Score = 84.3 bits (207),  Expect = 1e-019, Method: Compositional matrix adjust.
+ Identities = 39/89 (44%), Positives = 62/89 (70%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI+  +++INKLGLHARAS K   +  +F+S I I + +  V+AK+IM ++ML AGKG++
+Sbjct  1   MIEKELEIINKLGLHARASSKFTRLAGQFKSDIWISRNNRRVNAKSIMGVMMLAAGKGSS  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           + + + G DE  AL+ ++AL   +F EA+
+Sbjct  61  VHIEVSGEDETAALSALEALINNRFDEAE  89
+
+
+>WP_039917492.1 phosphocarrier protein HPr [Cellvibrio mixtus]
+Length=90
+
+ Score = 84.3 bits (207),  Expect = 1e-019, Method: Compositional matrix adjust.
+ Identities = 41/91 (45%), Positives = 64/91 (70%), Gaps = 3/91 (3%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQ--IGKGDHLVDAKNIMSLLMLGAGKG  58
+           M+  T+D+INK GLHARA+ KL  +  +F++ +Q  +G+G+   DAK++MSL++L A  G
+Sbjct  1   MLTETLDIINKRGLHARAAAKLATLANQFKAKVQARVGEGN-WADAKSVMSLMLLAASCG  59
+
+Query  59  TTLRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           T L++ IDG D E A+N ++AL A +F E +
+Sbjct  60  TALQITIDGDDAEAAMNAIRALIADRFEEGE  90
+
+
+>WP_013219370.1 phosphocarrier protein HPr [Nitrosococcus watsonii]
+Length=89
+
+ Score = 84.3 bits (207),  Expect = 1e-019, Method: Compositional matrix adjust.
+ Identities = 39/89 (44%), Positives = 60/89 (67%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M    V +INKLGLHARA+ K + + ++F+S I+I +G   V+ K+IM ++ML A +GT 
+Sbjct  1   MTQNEVTIINKLGLHARAAAKFVTLASRFKSEIRIQRGTKEVNGKSIMGVMMLAASQGTR  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           L +V  G DE++AL ++QAL   +F E +
+Sbjct  61  LSIVASGPDEKEALEQLQALVNKRFGEHE  89
+
+
+>WP_017232712.1 phosphocarrier protein HPr [Pandoraea sp. B-6]
+Length=89
+
+ Score = 84.3 bits (207),  Expect = 1e-019, Method: Compositional matrix adjust.
+ Identities = 38/89 (43%), Positives = 61/89 (69%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M+     ++NKLGLHARAS KL ++  KF+S + + +    ++AK+IM ++ML AG G T
+Sbjct  1   MLRQETTIVNKLGLHARASAKLTQLAAKFQSEVWLTRNGRRINAKSIMGVMMLAAGIGAT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           + +  +G DE+QA++E+ AL A+KF E +
+Sbjct  61  VEVETEGADEQQAMDEILALIASKFGEGE  89
+
+
+>WP_053244586.1 phosphocarrier protein HPr [Achromobacter sp. DMS1]
+Length=89
+
+ Score = 84.0 bits (206),  Expect = 1e-019, Method: Compositional matrix adjust.
+ Identities = 41/89 (46%), Positives = 61/89 (69%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M +  + + NKLGLHARA+ KL ++ +KF S I I +G   V+AK+IM ++ML AG G T
+Sbjct  1   MPNKDIVISNKLGLHARAAAKLTQLASKFSSEIFISRGAQRVNAKSIMGVMMLAAGLGVT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           +R+   G+D +QAL E++ LF +KF E +
+Sbjct  61  VRIEASGSDADQALAEIETLFDSKFGEQE  89
+
+
+>WP_003800381.1 MULTISPECIES: phosphocarrier protein HPr [Alcaligenaceae]
+Length=89
+
+ Score = 84.0 bits (206),  Expect = 1e-019, Method: Compositional matrix adjust.
+ Identities = 41/87 (47%), Positives = 59/87 (68%), Gaps = 0/87 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M   ++ + NKLGLHARA+ KL ++  ++ S I I +G   V+AK+IM ++ML AG G T
+Sbjct  1   MPSVSITISNKLGLHARAAAKLTQLAGRYSSEIFIARGSQRVNAKSIMGVMMLAAGMGVT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYE  87
+           + +   G D +QALN++QALF AKF E
+Sbjct  61  VVVDAQGDDADQALNDIQALFDAKFGE  87
+
+
+>WP_013521292.1 phosphocarrier protein HPr [Taylorella equigenitalis]
+Length=89
+
+ Score = 84.0 bits (206),  Expect = 1e-019, Method: Compositional matrix adjust.
+ Identities = 42/88 (48%), Positives = 64/88 (73%), Gaps = 2/88 (2%)
+
+Query  4   TTVDVI--NKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTTL  61
+           T V+V+  NKLGLHARA+ KL ++ +KF+S I I KG+  V+AK+IM +++L AGKG+T+
+Sbjct  2   TQVEVVISNKLGLHARAASKLTQLASKFKSEISISKGNQKVNAKSIMGVMLLAAGKGSTI  61
+
+Query  62  RLVIDGTDEEQALNEVQALFAAKFYEAD  89
+            +  +G D E+AL  ++ LF +KF E +
+Sbjct  62  IVDANGDDSEEALVSIKELFDSKFGEVE  89
+
+
+>WP_008938950.1 phosphotransferase system, phosphocarrier protein Hpr [Marinobacter 
+santoriniensis]
+Length=89
+
+ Score = 84.0 bits (206),  Expect = 1e-019, Method: Compositional matrix adjust.
+ Identities = 38/74 (51%), Positives = 53/74 (72%), Gaps = 0/74 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI   V +INKLGLHARA+ KL+   + F SS++I + D  VDAKNIM ++ML A +GT 
+Sbjct  1   MIRRPVTIINKLGLHARATAKLVATASNFDSSLRIARNDREVDAKNIMQVMMLAASQGTE  60
+
+Query  61  LRLVIDGTDEEQAL  74
+           + L+ +G DEE+A+
+Sbjct  61  VELIAEGPDEEEAV  74
+
+
+>WP_038499261.1 phosphocarrier protein HPr [Basilea psittacipulmonis]
+Length=89
+
+ Score = 84.0 bits (206),  Expect = 1e-019, Method: Compositional matrix adjust.
+ Identities = 42/87 (48%), Positives = 61/87 (70%), Gaps = 2/87 (2%)
+
+Query  5   TVDVI--NKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTTLR  62
+           TVD++  NKLGLHARA+ KL ++   F+S I IG+    V+AK+IM ++ML AGKG T+ 
+Sbjct  3   TVDIVISNKLGLHARAASKLTQLANSFKSEIFIGRASQRVNAKSIMGVMMLAAGKGVTVT  62
+
+Query  63  LVIDGTDEEQALNEVQALFAAKFYEAD  89
+           +   G DEE+A+ +++ALF  KF E +
+Sbjct  63  VDATGEDEEEAVTQIKALFDDKFGEGE  89
+
+
+>WP_029580479.1 phosphocarrier protein HPr [Bordetella hinzii]
+Length=89
+
+ Score = 84.0 bits (206),  Expect = 1e-019, Method: Compositional matrix adjust.
+ Identities = 42/88 (48%), Positives = 61/88 (69%), Gaps = 2/88 (2%)
+
+Query  4   TTVDVI--NKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTTL  61
+            T+D++  NKLGLHARA+ KL ++ +KF S I I +G   V+AK+IM ++ML AG G T+
+Sbjct  2   PTLDIVISNKLGLHARAAAKLTQLASKFNSEIFIARGAQRVNAKSIMGVMMLAAGLGVTV  61
+
+Query  62  RLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           ++   G D +QAL E+Q+LF  KF E +
+Sbjct  62  KIDASGADADQALAEIQSLFENKFGEQE  89
+
+
+>WP_008810293.1 phosphocarrier protein HPr [Parasutterella excrementihominis]
+Length=89
+
+ Score = 84.0 bits (206),  Expect = 1e-019, Method: Compositional matrix adjust.
+ Identities = 41/84 (49%), Positives = 58/84 (69%), Gaps = 0/84 (0%)
+
+Query  6   VDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTTLRLVI  65
+           V+VIN+LGLHAR + KL +   +F S I+I K   +V+ K+IM +++L A KGT L++  
+Sbjct  6   VEVINRLGLHARPAAKLTQKANEFLSEIKIDKDGRVVNGKSIMGVMLLAASKGTVLKISA  65
+
+Query  66  DGTDEEQALNEVQALFAAKFYEAD  89
+           DGTDEE AL +++ LF  KF E D
+Sbjct  66  DGTDEESALQQLKELFDTKFGEQD  89
+
+
+>WP_058531542.1 phosphocarrier protein HPr [Legionella rubrilucens]
+Length=89
+
+ Score = 84.0 bits (206),  Expect = 2e-019, Method: Compositional matrix adjust.
+ Identities = 41/89 (46%), Positives = 56/89 (63%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI TTV +INKLGLHARAS K +   +KF+S I + KG   ++ K+IM ++ML A KGT 
+Sbjct  1   MIKTTVTIINKLGLHARASAKFVSTASKFQSHIDVTKGSQTINGKSIMGVMMLAASKGTE  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           L L ++G DEE     +  L   +F E +
+Sbjct  61  LTLQMEGPDEEHMEQALVELINNRFGEPE  89
+
+
+>WP_050448595.1 phosphocarrier protein HPr [Achromobacter spanius]
+Length=89
+
+ Score = 84.0 bits (206),  Expect = 2e-019, Method: Compositional matrix adjust.
+ Identities = 42/88 (48%), Positives = 61/88 (69%), Gaps = 2/88 (2%)
+
+Query  4   TTVDVI--NKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTTL  61
+            T D++  NKLGLHARA+ KL ++ +KF S + I +G   V+AK+IM ++ML AG G T+
+Sbjct  2   PTKDIVISNKLGLHARAAAKLTQLASKFSSEVFISRGAQRVNAKSIMGVMMLAAGLGVTV  61
+
+Query  62  RLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           +L   G D EQAL+E++ LF +KF E +
+Sbjct  62  KLDASGNDAEQALSEIETLFDSKFGEQE  89
+
+
+>WP_066634672.1 phosphocarrier protein HPr [Bordetella sp. H567]
+Length=89
+
+ Score = 84.0 bits (206),  Expect = 2e-019, Method: Compositional matrix adjust.
+ Identities = 41/87 (47%), Positives = 59/87 (68%), Gaps = 0/87 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M  + + + NKLGLHARA+ KL ++ +KF S I I +G   V+AK+IM ++ML AG G T
+Sbjct  1   MPISEITISNKLGLHARAAAKLTQLASKFNSDIYISRGAQRVNAKSIMGVMMLAAGLGVT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYE  87
+           ++L   G D E AL E+++LF +KF E
+Sbjct  61  VKLDASGPDAEHALKEIESLFDSKFGE  87
+
+
+>WP_030072267.1 HPr family phosphocarrier protein [Halomonas alkaliantarctica]
+Length=89
+
+ Score = 84.0 bits (206),  Expect = 2e-019, Method: Compositional matrix adjust.
+ Identities = 41/87 (47%), Positives = 58/87 (67%), Gaps = 0/87 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M + T+ + N+ GLHARA+ KL++   +F ++I + K   + DA NIMSLLML A  GT 
+Sbjct  1   MPERTLTLTNQRGLHARAATKLVKCGQQFSANIHVYKQQQMADAANIMSLLMLAAPCGTE  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYE  87
+           LR+  +G D EQAL  ++ALF A+F E
+Sbjct  61  LRIHAEGDDAEQALEAIEALFDARFDE  87
+
+
+>WP_043682145.1 phosphocarrier protein HPr [Castellaniella defragrans]
+Length=89
+
+ Score = 84.0 bits (206),  Expect = 2e-019, Method: Compositional matrix adjust.
+ Identities = 41/88 (47%), Positives = 62/88 (70%), Gaps = 2/88 (2%)
+
+Query  4   TTVDVI--NKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTTL  61
+            ++D++  NKLGLHARA+ KL ++  ++RS I I +G   V+AK+IM ++ML AG G T+
+Sbjct  2   PSIDLVISNKLGLHARAAAKLTQLAGRYRSDIFISRGAQRVNAKSIMGVMMLAAGLGVTV  61
+
+Query  62  RLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           R+   G DE QAL +++ALF  +F EA+
+Sbjct  62  RIDAQGEDEAQALADIRALFEGRFGEAE  89
+
+
+>WP_058377092.1 phosphocarrier protein HPr [Pandoraea norimbergensis]
+Length=89
+
+ Score = 84.0 bits (206),  Expect = 2e-019, Method: Compositional matrix adjust.
+ Identities = 38/89 (43%), Positives = 61/89 (69%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M+     ++NKLGLHARAS KL ++  KF+S + + +    ++AK+IM ++ML AG G+ 
+Sbjct  1   MLRQETTIVNKLGLHARASAKLTQLAAKFQSEVWLTRNGRRINAKSIMGVMMLAAGIGSK  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           + +  +GTDE+QA++E+ AL A KF E +
+Sbjct  61  VEVETEGTDEQQAMDEILALIAGKFGEGE  89
+
+
+>WP_083005825.1 HPr family phosphocarrier protein [Halomonas sp. GT]
+Length=89
+
+ Score = 83.6 bits (205),  Expect = 2e-019, Method: Compositional matrix adjust.
+ Identities = 41/87 (47%), Positives = 58/87 (67%), Gaps = 0/87 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M + T+ + N+ GLHARA+ KL++   +F ++I + K   + DA NIMSLLML A  GT 
+Sbjct  1   MPERTLTLTNQRGLHARAATKLVKCGQQFSANIHVYKQQQMADAANIMSLLMLAAPCGTE  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYE  87
+           LR+  +G D EQAL  ++ALF A+F E
+Sbjct  61  LRIHAEGDDAEQALEAIEALFDARFDE  87
+
+
+>WP_015555240.1 phosphocarrier protein HPr [Taylorella equigenitalis]
+Length=89
+
+ Score = 83.6 bits (205),  Expect = 2e-019, Method: Compositional matrix adjust.
+ Identities = 42/88 (48%), Positives = 64/88 (73%), Gaps = 2/88 (2%)
+
+Query  4   TTVDVI--NKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTTL  61
+           T V+V+  NKLGLHARA+ KL ++ +KF+S I I KG+  V+AK+IM +++L AGKG+T+
+Sbjct  2   TQVEVVISNKLGLHARAASKLTQLASKFKSEISISKGNQKVNAKSIMGVMLLAAGKGSTI  61
+
+Query  62  RLVIDGTDEEQALNEVQALFAAKFYEAD  89
+            +  +G D E+AL  ++ LF +KF E +
+Sbjct  62  IVDANGDDSEEALVSIKELFDSKFGEEE  89
+
+
+>WP_066610824.1 phosphocarrier protein HPr [Crenobacter luteus]
+Length=89
+
+ Score = 83.6 bits (205),  Expect = 2e-019, Method: Compositional matrix adjust.
+ Identities = 39/89 (44%), Positives = 60/89 (67%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI T V++INKLGLHARAS K  ++ ++++S + + +    V+ K+IM ++ML AGKG+T
+Sbjct  1   MIKTQVEIINKLGLHARASSKFTQLASRYKSEVWLARNARRVNGKSIMGVMMLAAGKGST  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           + L + G DE+ A   + AL   KF EA+
+Sbjct  61  VELEVSGDDEQAASEALIALIQNKFDEAE  89
+
+
+>WP_027832688.1 phosphocarrier protein HPr [Marinobacter sp. HL-58]
+Length=89
+
+ Score = 83.6 bits (205),  Expect = 2e-019, Method: Compositional matrix adjust.
+ Identities = 39/89 (44%), Positives = 57/89 (64%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI   + +INKLGLHARA+ KL+   ++F SS+ I + D  VDAK+IM ++ML A +GT 
+Sbjct  1   MIRRPITIINKLGLHARAAAKLVATASEFESSVHISRNDRKVDAKSIMPVMMLAASQGTE  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           + L+ DG DE +A+  +  L    F E +
+Sbjct  61  VELIADGPDEAEAIEALVELINNYFGEGE  89
+
+
+>WP_010322869.1 phosphocarrier protein HPr [Marinobacterium stanieri]
+Length=89
+
+ Score = 83.6 bits (205),  Expect = 2e-019, Method: Compositional matrix adjust.
+ Identities = 39/89 (44%), Positives = 59/89 (66%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M++  + +INKLGLHARA+ KL+    +F S I+I + D  +D K+IMS++ML A KGT 
+Sbjct  1   MVEKRLTIINKLGLHARAAAKLVTTANQFDSDIRIARDDREIDGKSIMSVMMLAASKGTE  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           + L I G DE  AL+ +++L   +F E +
+Sbjct  61  IELRIQGQDEHNALSALESLINNRFDEPE  89
+
+
+>WP_022523940.1 phosphocarrier protein NPr [Halomonas sp. A3H3]
+Length=89
+
+ Score = 83.6 bits (205),  Expect = 2e-019, Method: Compositional matrix adjust.
+ Identities = 41/87 (47%), Positives = 57/87 (66%), Gaps = 0/87 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M +  + + N+ GLHARA+ KL++   +F ++I++ K     DA NIMSLLML A  GT 
+Sbjct  1   MPERILTLTNQRGLHARAATKLVKCGQQFTANIRVYKQQQAADAANIMSLLMLAAPCGTE  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYE  87
+           LR+  +G D EQAL  +QALF A+F E
+Sbjct  61  LRITAEGDDAEQALEAIQALFDARFEE  87
+
+
+>WP_011399061.1 phosphocarrier protein HPr [Hahella chejuensis]
+Length=89
+
+ Score = 83.6 bits (205),  Expect = 2e-019, Method: Compositional matrix adjust.
+ Identities = 41/89 (46%), Positives = 58/89 (65%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI   V +INKLGLHARA+ K +  + +F S I++ K    VD K+IM+++ML A KGT 
+Sbjct  1   MIQEQVTIINKLGLHARAAAKFVSTSGRFASKIRVAKEGQEVDGKSIMAVMMLAASKGTL  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           L L I+G DEE+A + ++AL    F E +
+Sbjct  61  LTLKIEGPDEEEAFHAIKALIEDYFGEGE  89
+
+
+>WP_075172833.1 phosphocarrier protein HPr [Neptunomonas phycophila]
+Length=89
+
+ Score = 83.6 bits (205),  Expect = 2e-019, Method: Compositional matrix adjust.
+ Identities = 38/89 (43%), Positives = 61/89 (69%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M++  + +INKLGLHARA+ KLI  T++F   +++ K D  VD K+IMS++ML A +GT 
+Sbjct  1   MLEKKITIINKLGLHARAAAKLINTTSRFSCDVRLEKDDREVDGKSIMSVMMLAASRGTE  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           L +   G D+++AL+ ++AL   +F E +
+Sbjct  61  LTVKTQGEDQDEALSAIEALINNRFDEEE  89
+
+
+>WP_010804746.1 phosphocarrier protein HPr [Pandoraea sp. SD6-2]
+Length=89
+
+ Score = 83.6 bits (205),  Expect = 2e-019, Method: Compositional matrix adjust.
+ Identities = 38/89 (43%), Positives = 61/89 (69%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M+     ++NKLGLHARAS KL ++  KF+S + + +    ++AK+IM ++ML AG G+T
+Sbjct  1   MLRQETTIVNKLGLHARASAKLTQLAAKFQSEVWLTRNGRRINAKSIMGVMMLAAGIGST  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           + +  +G DE+QA++E+ AL A KF E +
+Sbjct  61  VEVETEGADEQQAMDEILALIANKFGEGE  89
+
+
+>WP_027960831.1 HPr family phosphocarrier protein [Halomonas halodenitrificans]
+Length=89
+
+ Score = 83.6 bits (205),  Expect = 2e-019, Method: Compositional matrix adjust.
+ Identities = 41/89 (46%), Positives = 55/89 (62%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M    + + NK GLHARA+ KL++    F + +++  GD   DA NIMSLLML A  GT 
+Sbjct  1   MPQRKLTLSNKRGLHARAATKLVQCCQPFAARVRVANGDRQGDADNIMSLLMLAAPCGTE  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           L +  DG+D E AL  +QALF ++F E D
+Sbjct  61  LTVSADGSDAEAALEAIQALFESRFEEDD  89
+
+
+>WP_019939336.1 phosphocarrier protein HPr [Bordetella sp. FB-8]
+Length=89
+
+ Score = 83.6 bits (205),  Expect = 2e-019, Method: Compositional matrix adjust.
+ Identities = 42/87 (48%), Positives = 60/87 (69%), Gaps = 0/87 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M  + + + NKLGLHARA+ KL ++ ++F S I I +G   V+AK+IM ++ML AG GTT
+Sbjct  1   MATSDIVISNKLGLHARAAAKLTQLASRFSSEIFISRGAQRVNAKSIMGVMMLAAGLGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYE  87
+           +RL   G D +QAL+++Q LF  KF E
+Sbjct  61  VRLEATGGDADQALSDIQTLFDEKFGE  87
+
+
+>WP_078087179.1 HPr family phosphocarrier protein [Halomonas sp. 'Soap Lake #7']
+Length=89
+
+ Score = 83.6 bits (205),  Expect = 2e-019, Method: Compositional matrix adjust.
+ Identities = 41/87 (47%), Positives = 58/87 (67%), Gaps = 0/87 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M + T+ + N+ GLHARA+ KL++   +F ++I + K   + DA NIMSLLML A  GT 
+Sbjct  1   MPERTLTLTNQRGLHARAATKLVKCGQQFSANIYVHKQQQIADAANIMSLLMLAAPCGTV  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYE  87
+           L++V +G D EQAL  +Q LF A+F E
+Sbjct  61  LKVVAEGDDAEQALEAIQNLFDARFDE  87
+
+
+>WP_048409415.1 phosphocarrier protein HPr [Chromobacterium sp. LK1]
+Length=89
+
+ Score = 83.6 bits (205),  Expect = 2e-019, Method: Compositional matrix adjust.
+ Identities = 39/89 (44%), Positives = 62/89 (70%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M+ T V++INKLGLHARAS K  ++ ++F+S I I + +  V+ K+IM ++ML A KG T
+Sbjct  1   MLRTEVEIINKLGLHARASSKFTQLASRFKSDIFIARNNRRVNGKSIMGVMMLAAAKGAT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           + L ++G DE+ A++ + AL   +F EA+
+Sbjct  61  VELEVNGEDEQLAMDALVALINNRFDEAE  89
+
+
+>WP_008105920.1 phosphocarrier protein HPr [Methylophilales bacterium HTCC2181]
+Length=89
+
+ Score = 83.6 bits (205),  Expect = 2e-019, Method: Compositional matrix adjust.
+ Identities = 40/87 (46%), Positives = 57/87 (66%), Gaps = 0/87 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI T V + NKLGLHAR S KL EV +KF + I I      ++AKN+M +LML +G  + 
+Sbjct  1   MIKTKVTISNKLGLHARPSSKLAEVCSKFDAEIWIKNDRKKINAKNMMDILMLASGYKSQ  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYE  87
+           + ++IDG DE+ A+ E++ LF  +F E
+Sbjct  61  IEILIDGEDEQAAMKEIKILFTNRFGE  87
+
+
+>WP_013796494.1 phosphocarrier protein HPr [Marinomonas posidonica]
+Length=89
+
+ Score = 83.6 bits (205),  Expect = 2e-019, Method: Compositional matrix adjust.
+ Identities = 42/87 (48%), Positives = 58/87 (67%), Gaps = 0/87 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M + T+ +INKLGLHARA+GKL+E T++F   I I K    VD K+IM+++ML AGKGT 
+Sbjct  1   MQEETITIINKLGLHARAAGKLVETTSRFSCDITIEKEGRNVDGKSIMAMMMLAAGKGTE  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYE  87
+           + +  +G DEE A+  V  L   +F E
+Sbjct  61  ILIKTNGEDEEDAIKAVVELINNRFGE  87
+
+
+>WP_035267690.1 phosphocarrier protein HPr [Alcaligenes faecalis]
+Length=89
+
+ Score = 83.6 bits (205),  Expect = 2e-019, Method: Compositional matrix adjust.
+ Identities = 40/87 (46%), Positives = 59/87 (68%), Gaps = 0/87 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M   ++ + NKLGLHARA+ KL ++  ++ S + I +G   V+AK+IM ++ML AG G T
+Sbjct  1   MPSVSITISNKLGLHARAAAKLTQLAGRYSSEVFIARGSQRVNAKSIMGVMMLAAGMGVT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYE  87
+           + +   G D +QALN++QALF AKF E
+Sbjct  61  VVVDAQGDDADQALNDIQALFDAKFGE  87
+
+
+>WP_028009391.1 phosphocarrier protein HPr [Solimonas flava]
+Length=88
+
+ Score = 83.2 bits (204),  Expect = 2e-019, Method: Compositional matrix adjust.
+ Identities = 39/86 (45%), Positives = 61/86 (71%), Gaps = 0/86 (0%)
+
+Query  2   IDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTTL  61
+           ++ TV ++N LGLHARA+ +L+ + +KF S I++ K    V  K+IM ++ML A KG+ +
+Sbjct  1   MERTVTIVNLLGLHARAAARLVTLASKFESDIRVRKDAREVSGKSIMGVMMLAAAKGSQI  60
+
+Query  62  RLVIDGTDEEQALNEVQALFAAKFYE  87
+            L+ +G+DE+QAL+E+ AL A KF E
+Sbjct  61  TLIAEGSDEQQALDELSALIADKFDE  86
+
+
+>WP_023597826.1 MULTISPECIES: phosphocarrier protein HPr [Pandoraea]
+Length=89
+
+ Score = 83.2 bits (204),  Expect = 2e-019, Method: Compositional matrix adjust.
+ Identities = 38/89 (43%), Positives = 61/89 (69%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M+     ++NKLGLHARAS KL ++  KF+S + + +    ++AK+IM ++ML AG G+T
+Sbjct  1   MLRQETTIVNKLGLHARASAKLTQLAAKFQSEVWLTRNGRRINAKSIMGVMMLAAGIGST  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           + +  +G DE+QA++E+ AL A KF E +
+Sbjct  61  IEVETEGEDEQQAMDEILALIANKFGEGE  89
+
+
+>WP_027959080.1 MULTISPECIES: HPr family phosphocarrier protein [Halomonas]
+Length=89
+
+ Score = 83.2 bits (204),  Expect = 2e-019, Method: Compositional matrix adjust.
+ Identities = 41/87 (47%), Positives = 56/87 (64%), Gaps = 0/87 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M +  + + N+ GLHARA+ KL++   +F + I++ K     DA NIMSLLML A  GT 
+Sbjct  1   MPERILTLTNQRGLHARAATKLVKCGQQFTAKIRVYKQQQAADAANIMSLLMLAAPCGTE  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYE  87
+           LR+  +G D EQAL  +QALF A+F E
+Sbjct  61  LRITAEGDDAEQALEAIQALFDARFEE  87
+
+
+>WP_069961020.1 phosphocarrier protein HPr [Lacunisphaera limnophila]
+Length=98
+
+ Score = 83.6 bits (205),  Expect = 2e-019, Method: Compositional matrix adjust.
+ Identities = 37/81 (46%), Positives = 56/81 (69%), Gaps = 0/81 (0%)
+
+Query  8   VINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTTLRLVIDG  67
+           V NK+G+HAR +  ++ VT KF++ + + K D  V+ K+IM L+ML A +G+T++ V  G
+Sbjct  18  VQNKMGIHARPAAMIVRVTNKFKAEVHVEKDDEQVNGKSIMGLMMLAAARGSTVKFVATG  77
+
+Query  68  TDEEQALNEVQALFAAKFYEA  88
+            D EQ L +++ALFA KF EA
+Sbjct  78  PDAEQMLTDLEALFAKKFDEA  98
+
+
+>WP_052569588.1 phosphocarrier protein HPr [Endomicrobium proavitum]
+Length=87
+
+ Score = 83.2 bits (204),  Expect = 3e-019, Method: Compositional matrix adjust.
+ Identities = 37/87 (43%), Positives = 62/87 (71%), Gaps = 0/87 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M +  + V NKLGLHAR +  L++ T+K+ ++++I K D+ VDAK+IM ++ L A  G++
+Sbjct  1   MKEKIITVSNKLGLHARPAALLVQTTSKYSATVKIYKDDYEVDAKSIMGVMTLAAALGSS  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYE  87
+           L+ + DG DE +AL++++ LF A F+E
+Sbjct  61  LKFIADGPDETEALDDIEKLFNAGFHE  87
+
+
+>WP_009576653.1 phosphocarrier protein HPr [gamma proteobacterium IMCC3088]
+Length=90
+
+ Score = 83.2 bits (204),  Expect = 3e-019, Method: Compositional matrix adjust.
+ Identities = 40/90 (44%), Positives = 60/90 (67%), Gaps = 1/90 (1%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGK-GDHLVDAKNIMSLLMLGAGKGT  59
+           MI+  +++INKLGLHARA+ K I  T +F S+ ++GK    LVD K+IM+++ML A KGT
+Sbjct  1   MIEAQIEIINKLGLHARAAAKFIACTGQFGSACRVGKDPKSLVDGKSIMAVMMLAAAKGT  60
+
+Query  60  TLRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+            L + I+G DE +A   ++ L   +F E +
+Sbjct  61  VLHVCIEGKDEAEAWEALKTLINKRFDEGE  90
+
+
+>WP_046807727.1 phosphocarrier protein HPr [Achromobacter sp. LC458]
+Length=89
+
+ Score = 83.2 bits (204),  Expect = 3e-019, Method: Compositional matrix adjust.
+ Identities = 42/88 (48%), Positives = 61/88 (69%), Gaps = 2/88 (2%)
+
+Query  4   TTVDVI--NKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTTL  61
+            T D++  NKLGLHARA+ KL ++ +KF S I I +G   V+AK+IM ++ML AG G T+
+Sbjct  2   PTKDIVISNKLGLHARAAAKLTQLASKFSSEIFISRGAQRVNAKSIMGVMMLAAGLGVTV  61
+
+Query  62  RLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           +L   G D +QAL+E++ LF +KF E +
+Sbjct  62  KLEASGNDADQALSEIETLFDSKFGEQE  89
+
+
+>WP_024005987.1 phosphocarrier protein HPr [Advenella kashmirensis]
+Length=89
+
+ Score = 83.2 bits (204),  Expect = 3e-019, Method: Compositional matrix adjust.
+ Identities = 40/89 (45%), Positives = 59/89 (66%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M    + + NKLGLHARA+ KL ++ +KF S I I +    V+AK+IM ++ML AGKG T
+Sbjct  1   MPSADIVISNKLGLHARAAAKLTQLASKFNSEIFITRASQRVNAKSIMGVMMLAAGKGIT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           + +  +G D +QAL +++ALF  KF E +
+Sbjct  61  VHIEAEGADADQALEQIEALFENKFGEPE  89
+
+
+>WP_009521028.1 phosphocarrier protein HPr [Ralstonia sp. PBA]
+Length=89
+
+ Score = 83.2 bits (204),  Expect = 3e-019, Method: Compositional matrix adjust.
+ Identities = 38/89 (43%), Positives = 61/89 (69%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M+   + +INKLGLHARAS KL ++  +++SS+++ +    VDAK+IM ++ML AG G+T
+Sbjct  1   MLQKDIPIINKLGLHARASAKLTQLAGRYKSSVKMSRNGRQVDAKSIMGVMMLAAGMGST  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           + L IDG DE+ A++ +  L   +F E +
+Sbjct  61  VTLQIDGPDEQDAMDALTELINNRFGEGE  89
+
+
+>WP_020649682.1 phosphocarrier protein HPr [Solimonas variicoloris]
+Length=88
+
+ Score = 83.2 bits (204),  Expect = 3e-019, Method: Compositional matrix adjust.
+ Identities = 39/86 (45%), Positives = 60/86 (70%), Gaps = 0/86 (0%)
+
+Query  2   IDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTTL  61
+           ++ TV ++N LGLHARA+ +L+ + +KF S I++ K    V  K+IM ++ML A KG+ +
+Sbjct  1   MERTVTIVNLLGLHARAAARLVTLASKFESEIRVRKDAREVSGKSIMGVMMLAAAKGSQI  60
+
+Query  62  RLVIDGTDEEQALNEVQALFAAKFYE  87
+            L+ +G DE+QAL+E+ AL A KF E
+Sbjct  61  TLIAEGPDEQQALDELAALIANKFDE  86
+
+
+>WP_067982540.1 phosphocarrier protein HPr [Neptuniibacter pectenicola]
+Length=89
+
+ Score = 83.2 bits (204),  Expect = 3e-019, Method: Compositional matrix adjust.
+ Identities = 42/80 (53%), Positives = 55/80 (69%), Gaps = 0/80 (0%)
+
+Query  8   VINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTTLRLVIDG  67
+           +INKLGLHARA+ KLI VT +F S I + K    VD K+IMS++ML A KGTTL + I G
+Sbjct  8   IINKLGLHARAAAKLINVTARFSSDISLEKDGRAVDGKSIMSVMMLAASKGTTLTVKITG  67
+
+Query  68  TDEEQALNEVQALFAAKFYE  87
+           +DEE A+  ++ L   +F E
+Sbjct  68  SDEESAMFAIEELINNRFDE  87
+
+
+>WP_042114247.1 phosphocarrier protein HPr [Pandoraea apista]
+Length=89
+
+ Score = 83.2 bits (204),  Expect = 3e-019, Method: Compositional matrix adjust.
+ Identities = 38/89 (43%), Positives = 61/89 (69%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M+     ++NKLGLHARAS KL ++  KF+S + + +    ++AK+IM ++ML AG G+ 
+Sbjct  1   MLRQETTIVNKLGLHARASAKLTQLAAKFQSEVWLTRNGRRINAKSIMGVMMLAAGIGSK  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           + +  +GTDE+QA++E+ AL A KF E +
+Sbjct  61  VEVETEGTDEQQAMDEILALIANKFGEGE  89
+
+
+>WP_040808906.1 phosphocarrier protein HPr [gamma proteobacterium NOR5-3]
+Length=89
+
+ Score = 83.2 bits (204),  Expect = 3e-019, Method: Compositional matrix adjust.
+ Identities = 40/87 (46%), Positives = 57/87 (66%), Gaps = 0/87 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI++ + +INKLGLHARA+ K +   ++F S IQ+ K    VD K+IMS++ML AGKG+T
+Sbjct  1   MIESELMIINKLGLHARAASKFVSCASRFGSKIQVSKDGQWVDGKSIMSVMMLAAGKGST  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYE  87
+           L L ++G DE +A   +  L    F E
+Sbjct  61  LNLRVEGADEAEASAAIHELVGDFFGE  87
+
+
+>WP_005013636.1 MULTISPECIES: phosphocarrier protein HPr [Alcaligenaceae]
+Length=89
+
+ Score = 83.2 bits (204),  Expect = 3e-019, Method: Compositional matrix adjust.
+ Identities = 42/86 (49%), Positives = 60/86 (70%), Gaps = 2/86 (2%)
+
+Query  4   TTVDVI--NKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTTL  61
+            T+D++  NKLGLHARA+ KL ++ +KF S I I +G   V+AK+IM ++ML AG G T+
+Sbjct  2   PTLDIVISNKLGLHARAAAKLTQLASKFNSEIFIARGAQRVNAKSIMGVMMLAAGLGVTV  61
+
+Query  62  RLVIDGTDEEQALNEVQALFAAKFYE  87
+           ++   G D +QAL E+Q+LF  KF E
+Sbjct  62  KIDASGADADQALAEIQSLFDNKFGE  87
+
+
+>WP_068834085.1 phosphocarrier protein HPr [Polaromonas jejuensis]
+Length=89
+
+ Score = 83.2 bits (204),  Expect = 3e-019, Method: Compositional matrix adjust.
+ Identities = 40/89 (45%), Positives = 62/89 (70%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI T+  + NKLGLHARAS KL ++   F S + + KG+  V+AK+IM ++ML AG G+T
+Sbjct  1   MIKTSTTINNKLGLHARASAKLTKLAGSFSSEVWMVKGERRVNAKSIMGVMMLAAGLGST  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           + +  DG DE++A++ ++AL + KF E +
+Sbjct  61  VEIETDGPDEQKAMDALRALISDKFGEGE  89
+
+
+>WP_041977171.1 HPr family phosphocarrier protein [Pyrinomonas methylaliphatogenes]
+Length=94
+
+ Score = 83.2 bits (204),  Expect = 3e-019, Method: Compositional matrix adjust.
+ Identities = 40/91 (44%), Positives = 64/91 (70%), Gaps = 2/91 (2%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGD--HLVDAKNIMSLLMLGAGKG  58
+           M++  V V N+LGLHARA+ +L+   ++F+S +++ + D     DAK+I+S+LML A  G
+Sbjct  1   MVERRVTVKNRLGLHARAAAQLVRTASEFQSIVRLERADGSAAADAKSILSVLMLAACCG  60
+
+Query  59  TTLRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           T LR++ DG DEE+A++ ++ALF   F E+D
+Sbjct  61  TELRIMADGVDEERAISALEALFQTGFGESD  91
+
+
+>WP_075879117.1 HPr family phosphocarrier protein [Halomonas sp. Marseille-P2426]
+Length=89
+
+ Score = 83.2 bits (204),  Expect = 3e-019, Method: Compositional matrix adjust.
+ Identities = 43/87 (49%), Positives = 55/87 (63%), Gaps = 0/87 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M + T+ + NK GLHARA+ KL+    +F + I + KG    DA NIM+LLML A  GT 
+Sbjct  1   MPERTLTLTNKRGLHARAATKLVNCGQQFSARINVYKGAQKADAANIMALLMLAAPCGTE  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYE  87
+           L +  +G D EQAL  VQALF A+F E
+Sbjct  61  LTVTAEGDDAEQALEAVQALFDARFDE  87
+
+
+>WP_086064307.1 phosphocarrier protein HPr [Bordetella genomosp. 8]
+Length=89
+
+ Score = 82.8 bits (203),  Expect = 4e-019, Method: Compositional matrix adjust.
+ Identities = 41/87 (47%), Positives = 59/87 (68%), Gaps = 0/87 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M  + + + NKLGLHARA+ KL ++ +KF S I I +G   V+AK+IM ++ML AG G T
+Sbjct  1   MPISEITISNKLGLHARAAAKLTQLASKFNSDIFISRGAQRVNAKSIMGVMMLAAGLGVT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYE  87
+           ++L   G D E AL E+++LF +KF E
+Sbjct  61  VKLDASGPDAENALKEIESLFDSKFGE  87
+
+
+>WP_011799671.1 phosphocarrier protein HPr [Polaromonas naphthalenivorans]
+Length=89
+
+ Score = 82.8 bits (203),  Expect = 4e-019, Method: Compositional matrix adjust.
+ Identities = 40/89 (45%), Positives = 59/89 (66%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI T   + NKLGLHARAS K  ++   FRS + + KG+  V+AK+IM ++ML AG G++
+Sbjct  1   MIKTRTTISNKLGLHARASAKFTKLAGSFRSEVWMSKGERRVNAKSIMGVMMLAAGMGSS  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           + +  DG DE+ A++ + AL A KF E +
+Sbjct  61  VEIETDGADEQAAMDALLALVADKFGEGE  89
+
+
+>WP_012637300.1 phosphocarrier protein HPr [Thioalkalivibrio sulfidiphilus]
+Length=89
+
+ Score = 82.8 bits (203),  Expect = 4e-019, Method: Compositional matrix adjust.
+ Identities = 37/89 (42%), Positives = 62/89 (70%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI+  V +IN+LG+HARA+ K + + ++F + I++ KG   V+ K+IM ++ML A +G+T
+Sbjct  1   MIEREVTIINRLGMHARAAAKFVSLASQFGAEIELEKGTRRVNGKSIMGVMMLAASRGST  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           +RL  DG D E A++ +  L A++F EA+
+Sbjct  61  VRLFADGEDAEDAVHALTELIASRFGEAE  89
+
+
+>WP_066739816.1 phosphocarrier protein HPr [Cupriavidus sp. D384]
+Length=89
+
+ Score = 82.8 bits (203),  Expect = 4e-019, Method: Compositional matrix adjust.
+ Identities = 41/87 (47%), Positives = 62/87 (71%), Gaps = 2/87 (2%)
+
+Query  3   DTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTTLR  62
+           DTT+  INKLGLHARAS KL ++   F+S +++ +    VDAK+IM ++ML AG G+T+ 
+Sbjct  5   DTTI--INKLGLHARASAKLTQLAGNFKSQVKMSRNGRQVDAKSIMGVMMLAAGIGSTVT  62
+
+Query  63  LVIDGTDEEQALNEVQALFAAKFYEAD  89
+           + IDG DE++A++ + AL A +F E +
+Sbjct  63  IEIDGPDEQEAMDALLALIANRFGEGE  89
+
+
+>WP_063334139.1 phosphocarrier protein HPr [Marinomonas sp. TW1]
+Length=89
+
+ Score = 82.8 bits (203),  Expect = 4e-019, Method: Compositional matrix adjust.
+ Identities = 41/87 (47%), Positives = 59/87 (68%), Gaps = 0/87 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M + ++ +INKLGLHARA+GKL+E T++F   I I K    VD K+IM+++ML AGKGT 
+Sbjct  1   MQEESITIINKLGLHARAAGKLVETTSRFSCDITIEKEGRNVDGKSIMAMMMLAAGKGTE  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYE  87
+           + +  +G DEE+A+  V  L   +F E
+Sbjct  61  ILVKTNGEDEEEAIKAVIELINNRFGE  87
+
+
+>WP_011134370.1 MULTISPECIES: phosphocarrier protein HPr [Chromobacterium]
+Length=89
+
+ Score = 82.8 bits (203),  Expect = 4e-019, Method: Compositional matrix adjust.
+ Identities = 39/89 (44%), Positives = 60/89 (67%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M+ + V++INKLGLHARAS K  ++ ++++S I I + +  V+ K+IM ++ML A KG  
+Sbjct  1   MLRSEVEIINKLGLHARASSKFTQLASRYKSDIFISRNNRRVNGKSIMGVMMLAAAKGAK  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           + L I G DE+QAL  + AL   +F EA+
+Sbjct  61  VELEISGDDEQQALEALTALINNRFDEAE  89
+
+
+>WP_068810406.1 MULTISPECIES: phosphocarrier protein HPr [Pseudohongiella]
+Length=88
+
+ Score = 82.8 bits (203),  Expect = 4e-019, Method: Compositional matrix adjust.
+ Identities = 40/87 (46%), Positives = 60/87 (69%), Gaps = 1/87 (1%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI+ ++ + NK GLHARA+ KL++V   F S +QIG+ D +VDA +I+SL+ML A KGT 
+Sbjct  1   MIEASITICNKAGLHARAASKLVKVAGHFDSKVQIGQ-DKMVDAHSILSLMMLAASKGTE  59
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYE  87
+           L++ +DG DE+ A + +  L   +F E
+Sbjct  60  LKITVDGHDEQAAFDAIVNLVNNRFDE  86
+
+
+>WP_012136296.1 phosphotransferase system, phosphocarrier protein Hpr [Marinobacter 
+lipolyticus]
+Length=89
+
+ Score = 82.8 bits (203),  Expect = 4e-019, Method: Compositional matrix adjust.
+ Identities = 46/90 (51%), Positives = 60/90 (67%), Gaps = 2/90 (2%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQI-GKGDHLVDAKNIMSLLMLGAGKGT  59
+           MI   V +INKLGLHARA+ KL+   + F SS++I GKG   VDAKNIM ++ML A +GT
+Sbjct  1   MIRRDVTIINKLGLHARATAKLVATASAFESSVKICGKGRE-VDAKNIMQVMMLAASQGT  59
+
+Query  60  TLRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+            + LV DG DEEQA++ +  L    F E +
+Sbjct  60  DVELVADGADEEQAIHALVELINDYFGEGE  89
+
+
+>WP_013146929.1 phosphocarrier protein HPr [Methylotenera versatilis]
+Length=89
+
+ Score = 82.8 bits (203),  Expect = 4e-019, Method: Compositional matrix adjust.
+ Identities = 43/89 (48%), Positives = 59/89 (66%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI T V++INKLGLHARAS KL +  +KF S I I +    V+AK+IM ++ML A KG+ 
+Sbjct  1   MISTEVEIINKLGLHARASTKLTQTASKFSSEIWITRNGRRVNAKSIMGVMMLAAAKGSF  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           + L  +G DE+ A+N + AL A  F E +
+Sbjct  61  VTLEANGADEKDAINGLTALIADYFGEGE  89
+
+
+>WP_007231489.1 phosphocarrier protein HPr [gamma proteobacterium HTCC2207]
+Length=89
+
+ Score = 82.8 bits (203),  Expect = 5e-019, Method: Compositional matrix adjust.
+ Identities = 41/89 (46%), Positives = 57/89 (64%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI   +D+INKLGLHARA+ KL     +F  +I+ GK + LVDAK++MSL+++ A KGT+
+Sbjct  1   MIQCQLDIINKLGLHARAATKLASTAGRFGCTIRTGKQEPLVDAKSVMSLMLMAASKGTS  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           L    DG DE +A   +  L A  F E +
+Sbjct  61  LIFEFDGEDEHEAQAAISELLANYFGEGE  89
+
+
+>WP_045847765.1 MULTISPECIES: phosphocarrier protein HPr [Aquitalea]
+Length=89
+
+ Score = 82.8 bits (203),  Expect = 5e-019, Method: Compositional matrix adjust.
+ Identities = 38/89 (43%), Positives = 60/89 (67%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M+   + +INKLGLHARAS K  ++ ++F+S + I +    V+ K+IM ++ML A KG T
+Sbjct  1   MLRVEIQIINKLGLHARASSKFTQLASRFKSDVGIARNGRRVNGKSIMGVMMLAAAKGAT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           + L +DG DE++AL+ + AL   +F EA+
+Sbjct  61  VELDVDGPDEQEALDALVALINNRFDEAE  89
+
+
+>WP_015488210.1 HPr family phosphocarrier protein [Thalassolituus oleivorans]
+Length=89
+
+ Score = 82.8 bits (203),  Expect = 5e-019, Method: Compositional matrix adjust.
+ Identities = 39/89 (44%), Positives = 59/89 (66%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI T + +INKLGLHARA+ KL+   + F S +++G    LVD K+IM+++ML A KGT 
+Sbjct  1   MISTQITIINKLGLHARAAAKLVSTASAFSSQVKVGYPGRLVDGKSIMAVMMLAASKGTE  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           ++L  +G+DE +A+  +Q L    F E +
+Sbjct  61  IQLQAEGSDEAEAITALQDLINRFFDEGE  89
+
+
+>WP_009666999.1 phosphocarrier protein HPr [Oxalobacteraceae bacterium IMCC9480]
+Length=89
+
+ Score = 82.8 bits (203),  Expect = 5e-019, Method: Compositional matrix adjust.
+ Identities = 40/89 (45%), Positives = 57/89 (64%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI   +++INKLGLHARAS KL ++  KF+S + + +    V+AK+IM ++ML AGKGT 
+Sbjct  1   MIQQELEIINKLGLHARASAKLTQLAAKFQSEVWLTRNKRRVNAKSIMGVMMLAAGKGTK  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           + L  DG DE+     +Q L   KF E +
+Sbjct  61  VLLETDGPDEQACFTALQELIDNKFGEGE  89
+
+
+>WP_066347767.1 phosphocarrier protein HPr [Bordetella bronchialis]
+Length=89
+
+ Score = 82.8 bits (203),  Expect = 5e-019, Method: Compositional matrix adjust.
+ Identities = 41/87 (47%), Positives = 58/87 (67%), Gaps = 0/87 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M  + + + NKLGLHARA+ KL ++ +KF S I I +G   V+AK+IM ++ML AG G T
+Sbjct  1   MPISEITISNKLGLHARAAAKLTQLASKFNSDIYISRGAQRVNAKSIMGVMMLAAGLGVT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYE  87
+           ++L   G D E AL E+++LF  KF E
+Sbjct  61  VKLDASGPDAEHALKEIESLFDNKFGE  87
+
+
+>WP_062781917.1 phosphocarrier protein HPr [Marinobacter sp. YWL01]
+Length=89
+
+ Score = 82.8 bits (203),  Expect = 5e-019, Method: Compositional matrix adjust.
+ Identities = 41/89 (46%), Positives = 57/89 (64%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI   + +INKLGLHARA+ KL+   +++ SS++I      VDAKNIM ++ML A KGT 
+Sbjct  1   MIRRPITIINKLGLHARATAKLVNTASEYDSSVRISGKGRDVDAKNIMQVMMLAASKGTD  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           + L+ DG DEEQA+  +  L    F E +
+Sbjct  61  VELIADGPDEEQAIEALVELINNYFGEGE  89
+
+
+>WP_056178857.1 phosphocarrier protein HPr [Pseudorhodoferax sp. Leaf267]
+Length=89
+
+ Score = 82.4 bits (202),  Expect = 5e-019, Method: Compositional matrix adjust.
+ Identities = 41/89 (46%), Positives = 59/89 (66%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI  T  + NKLGLHARAS KL ++   F   + + KG+  V+AK+IM ++ML AGKG+ 
+Sbjct  1   MIKATTTINNKLGLHARASAKLTKLAGSFPCEVWMAKGERRVNAKSIMGVMMLAAGKGSE  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           + L  +G  E+QA++ + AL A KF EA+
+Sbjct  61  VTLDTEGPQEQQAMDALLALIADKFGEAE  89
+
+
+>WP_011289803.1 phosphocarrier protein HPr [Dechloromonas aromatica]
+Length=89
+
+ Score = 82.4 bits (202),  Expect = 5e-019, Method: Compositional matrix adjust.
+ Identities = 39/89 (44%), Positives = 59/89 (66%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M+ T  ++INKLGLHARAS KL ++  K++  + + KG   ++AK+IM ++ML AGKG+ 
+Sbjct  1   MLTTETEIINKLGLHARASAKLTQLAGKYKCEVWMSKGTRRINAKSIMGVMMLAAGKGSK  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           + L  DG DE +A+  + AL A  F E +
+Sbjct  61  VTLETDGADEAEAMEALLALIADYFGEGE  89
+
+
+>WP_025280567.1 phosphocarrier protein HPr [Ectothiorhodospira haloalkaliphila]
+Length=89
+
+ Score = 82.4 bits (202),  Expect = 5e-019, Method: Compositional matrix adjust.
+ Identities = 35/89 (39%), Positives = 59/89 (66%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M    V++INKLG+HARA+ K + + + + + +++ KG   V+ K+IM ++ML A +GTT
+Sbjct  1   MPTREVEIINKLGMHARAAAKFVNLASSYAADLEVEKGSRRVNGKSIMGIMMLAASRGTT  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           +RL+ +G D EQAL  ++ L   +F E +
+Sbjct  61  VRLIAEGEDAEQALEALEGLIGERFGEPE  89
+
+
+>WP_067379345.1 phosphocarrier protein HPr [Marinobacterium sp. ST58-10]
+Length=89
+
+ Score = 82.4 bits (202),  Expect = 5e-019, Method: Compositional matrix adjust.
+ Identities = 45/89 (51%), Positives = 58/89 (65%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI+  V +INKLGLHARA+ KLI  T KF S I+I K    VD K+IMS++ML A KGT 
+Sbjct  1   MIEKHVTIINKLGLHARAAAKLISTTGKFSSQIRINKDGREVDGKSIMSVMMLAASKGTE  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           L +  +G DE+ A++ V AL    F E +
+Sbjct  61  LLIRAEGEDEQAAIDAVTALIDDYFGEGE  89
+
+
+>WP_054422328.1 phosphocarrier protein HPr [Achromobacter sp. ATCC31444]
+Length=89
+
+ Score = 82.4 bits (202),  Expect = 5e-019, Method: Compositional matrix adjust.
+ Identities = 42/88 (48%), Positives = 61/88 (69%), Gaps = 2/88 (2%)
+
+Query  4   TTVDVI--NKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTTL  61
+            T D++  NKLGLHARA+ KL ++ +KF S I I +G   V+AK+IM ++ML AG G T+
+Sbjct  2   PTKDIVISNKLGLHARAAAKLTQLASKFSSEIFISRGAQRVNAKSIMGVMMLAAGLGVTV  61
+
+Query  62  RLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           +L   G D +QAL+E++ LF +KF E +
+Sbjct  62  KLEASGGDADQALSEIETLFDSKFGEQE  89
+
+
+>WP_039365441.1 phosphocarrier protein HPr [Pandoraea pnomenusa]
+Length=89
+
+ Score = 82.4 bits (202),  Expect = 6e-019, Method: Compositional matrix adjust.
+ Identities = 38/89 (43%), Positives = 60/89 (67%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M+     ++NKLGLHARAS KL ++  KF+S + + +    ++AK+IM ++ML AG G  
+Sbjct  1   MLRQETTIVNKLGLHARASAKLTQLAAKFQSEVWLTRNGRRINAKSIMGVMMLAAGIGAK  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           + +  +GTDE+QA++E+ AL A KF E +
+Sbjct  61  VEVETEGTDEQQAMDEILALIANKFGEGE  89
+
+
+>WP_043576934.1 MULTISPECIES: phosphocarrier protein HPr [Chromobacterium]
+Length=89
+
+ Score = 82.4 bits (202),  Expect = 6e-019, Method: Compositional matrix adjust.
+ Identities = 39/89 (44%), Positives = 60/89 (67%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M+ + V++INKLGLHARAS K  ++ ++++S I I + +  V+ K+IM ++ML A KG  
+Sbjct  1   MLRSEVEIINKLGLHARASSKFTQLASRYKSDIFIARNNRRVNGKSIMGVMMLAAAKGAK  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           + L I G DE+QAL  + AL   +F EA+
+Sbjct  61  VELEISGEDEQQALEALIALINNRFDEAE  89
+
+
+>WP_046016823.1 phosphocarrier protein HPr [Marinomonas sp. S3726]
+Length=89
+
+ Score = 82.4 bits (202),  Expect = 6e-019, Method: Compositional matrix adjust.
+ Identities = 40/89 (45%), Positives = 58/89 (65%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M++  + +INKLGLHARA+GKL+E T++F   I I K    VD K+IM+++ML A KGT 
+Sbjct  1   MLEQEITIINKLGLHARAAGKLVETTSRFSCDITIDKEGRNVDGKSIMAMMMLAASKGTN  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           + +  +G DE  AL  + AL   +F E +
+Sbjct  61  ITIKTNGEDEAAALEAITALINNRFDEEE  89
+
+
+>WP_028079710.1 phosphocarrier protein HPr [Solimonas soli]
+Length=88
+
+ Score = 82.4 bits (202),  Expect = 6e-019, Method: Compositional matrix adjust.
+ Identities = 39/86 (45%), Positives = 59/86 (69%), Gaps = 0/86 (0%)
+
+Query  2   IDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTTL  61
+           ++ TV ++N LGLHARA+ +L+ + +KF S ++I K    V  K+IM ++ML A KG+ +
+Sbjct  1   MERTVPIVNMLGLHARAAARLVTLASKFESDVRIRKDGREVSGKSIMGVMMLAAAKGSNI  60
+
+Query  62  RLVIDGTDEEQALNEVQALFAAKFYE  87
+            L+ +G DE QAL+E+ AL A KF E
+Sbjct  61  TLIAEGPDEAQALDELVALIANKFDE  86
+
+
+>WP_057292353.1 phosphocarrier protein HPr [Noviherbaspirillum sp. Root189]
+Length=89
+
+ Score = 82.4 bits (202),  Expect = 7e-019, Method: Compositional matrix adjust.
+ Identities = 40/89 (45%), Positives = 58/89 (65%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI   +++INKLGLHARAS KL ++  KF+S + + +    V+AK+IM ++ML AGKG  
+Sbjct  1   MIQQEIEIINKLGLHARASAKLTQLAAKFQSEVWLSRNARRVNAKSIMGVMMLAAGKGAK  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           + L  DGTDE+ A + +  L   KF E +
+Sbjct  61  VTLEADGTDEKAAFDALVELIQNKFGEGE  89
+
+
+>WP_008170151.1 MULTISPECIES: phosphocarrier protein HPr [Marinobacter]
+Length=89
+
+ Score = 82.0 bits (201),  Expect = 7e-019, Method: Compositional matrix adjust.
+ Identities = 41/89 (46%), Positives = 57/89 (64%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI   + +INKLGLHARA+ KL+   +++ SS++I      VDAKNIM ++ML A KGT 
+Sbjct  1   MIRRPITIINKLGLHARATAKLVNTASEYDSSVRISGKGRDVDAKNIMQVMMLAASKGTD  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           + L+ DG DEEQA+  +  L    F E +
+Sbjct  61  VELIADGPDEEQAIEALVELINDYFGEGE  89
+
+
+>WP_020683099.1 HPr family phosphocarrier protein [Marinobacterium rhizophilum]
+Length=89
+
+ Score = 82.0 bits (201),  Expect = 7e-019, Method: Compositional matrix adjust.
+ Identities = 43/89 (48%), Positives = 58/89 (65%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI+  + +INKLGLHARA+ KLI  T KF S I+I K    VD K+IMS++ML A KGT 
+Sbjct  1   MIEKHITIINKLGLHARAAAKLISTTGKFSSQIRINKDGREVDGKSIMSVMMLAASKGTE  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           L +  +G DE+ A++ + AL    F E +
+Sbjct  61  LLIRAEGEDEQAAMDAITALIEDYFGEGE  89
+
+
+>WP_035489519.1 phosphocarrier protein HPr [Gammaproteobacteria bacterium MOLA455]
+Length=89
+
+ Score = 82.0 bits (201),  Expect = 7e-019, Method: Compositional matrix adjust.
+ Identities = 41/87 (47%), Positives = 57/87 (66%), Gaps = 0/87 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI   +D+INKLGLHARA+ KL     +F  +I+ GK + LVDAK++MSL+++ A KGT+
+Sbjct  1   MIYCQLDIINKLGLHARAATKLASTAGRFGCTIRTGKQEPLVDAKSVMSLMLMAASKGTS  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYE  87
+           L    DG DE++A   +  L A  F E
+Sbjct  61  LVFEFDGEDEQEAQAAISELLADYFGE  87
+
+
+>WP_020749798.1 HPr family phosphocarrier protein [Ralstonia solanacearum]
+Length=89
+
+ Score = 82.0 bits (201),  Expect = 8e-019, Method: Compositional matrix adjust.
+ Identities = 40/89 (45%), Positives = 62/89 (70%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M+   + +INKLGLHARAS KL ++ +KF S I++ +    VDAK+IM ++ML AG G+T
+Sbjct  1   MLQRDITIINKLGLHARASAKLTQLASKFDSQIKMSRNGRQVDAKSIMGVMMLAAGIGST  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           + L I+G+DE+ A++ + AL   +F E +
+Sbjct  61  VTLEIEGSDEQAAMDGLVALIGDRFGEGE  89
+
+
+>WP_013660934.1 phosphocarrier protein HPr [Marinomonas mediterranea]
+Length=89
+
+ Score = 82.0 bits (201),  Expect = 8e-019, Method: Compositional matrix adjust.
+ Identities = 41/89 (46%), Positives = 60/89 (67%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           M + TV ++NKLGLHARA+ KL+E TT+F   I I K    VD K+IM+++ML A KGT 
+Sbjct  1   MQEKTVTIVNKLGLHARAASKLVETTTRFSCDITIEKDGRNVDGKSIMAMMMLAASKGTD  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           L++  +G DE  A++ +  + A +F EA+
+Sbjct  61  LKIKANGDDEIDAMDAIVEVIANRFGEAE  89
+
+
+>WP_067868936.1 phosphocarrier protein HPr [Neptuniibacter marinus]
+Length=89
+
+ Score = 82.0 bits (201),  Expect = 9e-019, Method: Compositional matrix adjust.
+ Identities = 40/82 (49%), Positives = 58/82 (71%), Gaps = 0/82 (0%)
+
+Query  8   VINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTTLRLVIDG  67
+           +INKLGLHARA+ KLI VT++F S + + K    VD K+IMS++ML A KGTTL + + G
+Sbjct  8   IINKLGLHARAAAKLIGVTSRFSSEVLMEKDGRAVDGKSIMSVMMLAASKGTTLTVKVTG  67
+
+Query  68  TDEEQALNEVQALFAAKFYEAD  89
+           +DEE A++ ++ L   +F E +
+Sbjct  68  SDEETAISAIEELINNRFDEEE  89
+
+
+>WP_011979400.1 MULTISPECIES: phosphocarrier protein HPr [Oxalobacteraceae]
+Length=89
+
+ Score = 82.0 bits (201),  Expect = 9e-019, Method: Compositional matrix adjust.
+ Identities = 37/89 (42%), Positives = 59/89 (66%), Gaps = 0/89 (0%)
+
+Query  1   MIDTTVDVINKLGLHARASGKLIEVTTKFRSSIQIGKGDHLVDAKNIMSLLMLGAGKGTT  60
+           MI+  +++INKLGLHARAS KL ++  K++S + + +    V+AK+IM ++ML AGKG  
+Sbjct  1   MIEQEIEIINKLGLHARASAKLTQLAAKYKSEVWMTRNKRRVNAKSIMGVMMLAAGKGAK  60
+
+Query  61  LRLVIDGTDEEQALNEVQALFAAKFYEAD  89
+           + L  DG DE++  + ++ L   KF E +
+Sbjct  61  VTLETDGPDEKECFDALELLIQNKFGEGE  89
+
+
+
+Lambda      K        H
+   0.318    0.135    0.360 
+
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+
+Effective search space used: 768225544058
+
+
+  Database: NCBI Protein Reference Sequences
+    Posted date:  May 29, 2017 12:00 AM
+  Number of letters in database: 31,412,196,622
+  Number of sequences in database:  82,027,677
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40

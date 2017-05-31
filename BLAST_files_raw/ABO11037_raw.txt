@@ -1,0 +1,4553 @@
+BLASTP 2.6.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: NCBI Protein Reference Sequences
+           82,027,677 sequences; 31,412,196,622 total letters
+
+
+
+Query= embl-cds:ABO11037 3-methyl-2-oxobutanoate hydroxymethyltransferase
+OS=Acinetobacter baumannii (strain ATCC 17978 / CIP 53.77 / LMG 1025
+/ NCDC KC755 / 5377) GN=A1S_0586 SV=1 UP=UP000006737:Chromosome
+
+Length=72
+
+RID: JU7HNKYB014
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+WP_060513589.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  145     4e-044
+WP_032065575.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  144     5e-044
+WP_031973898.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  147     9e-043
+WP_002054550.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  147     9e-043
+WP_031989036.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  147     9e-043
+WP_004842463.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  147     9e-043
+WP_000624763.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  147     1e-042
+WP_042076260.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  147     1e-042
+WP_031995397.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  147     1e-042
+WP_031979654.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  147     1e-042
+WP_032047472.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  145     3e-042
+WP_002131758.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  145     4e-042
+WP_005302408.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  145     6e-042
+WP_000624764.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  145     6e-042
+WP_002117298.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  145     6e-042
+WP_032032916.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  145     6e-042
+WP_017391238.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  145     6e-042
+WP_031947379.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  145     6e-042
+WP_016142180.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  145     6e-042
+WP_004794557.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  145     7e-042
+WP_032057515.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  145     7e-042
+WP_004906704.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  144     1e-041
+WP_005403726.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  144     1e-041
+WP_063098125.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  144     2e-041
+WP_016139225.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  144     2e-041
+WP_032035268.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  144     3e-041
+WP_004760826.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  143     3e-041
+WP_004678322.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  143     3e-041
+WP_004798275.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  143     3e-041
+WP_031962612.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  143     4e-041
+WP_004698602.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  143     5e-041
+WP_004681703.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  143     5e-041
+WP_017387618.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  142     5e-041
+WP_004756053.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  142     5e-041
+WP_005044745.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  142     1e-040
+WP_004764106.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  142     1e-040
+WP_003655024.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  142     1e-040
+WP_009390809.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  142     1e-040
+WP_042894984.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  142     1e-040
+WP_026070453.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  141     2e-040
+WP_004637954.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  141     2e-040
+WP_004672503.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  141     2e-040
+WP_005164364.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  141     2e-040
+WP_004854828.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  141     2e-040
+WP_005228749.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  141     3e-040
+WP_004774685.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  141     3e-040
+WP_038344502.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  141     3e-040
+WP_062847863.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  141     3e-040
+WP_047431726.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  140     3e-040
+WP_005184787.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  140     3e-040
+WP_005051640.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  140     3e-040
+WP_005146585.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  140     3e-040
+WP_004804462.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  140     4e-040
+WP_004655682.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  140     4e-040
+WP_005214586.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  140     4e-040
+WP_018677538.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  140     4e-040
+WP_004664191.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  139     2e-039
+WP_044435037.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  139     2e-039
+WP_010588722.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  138     3e-039
+WP_053578772.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  136     1e-038
+WP_065994385.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  136     2e-038
+WP_004945386.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  136     2e-038
+WP_004940501.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  136     2e-038
+WP_061396908.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  136     2e-038
+WP_026094163.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  136     2e-038
+WP_004881770.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  136     2e-038
+XP_007455061.1  PREDICTED: probable 3-methyl-2-oxobutanoate hydro...  135     3e-038
+WP_016166139.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  135     4e-038
+WP_005016216.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  135     5e-038
+WP_026444146.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  135     5e-038
+WP_005023504.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  135     5e-038
+WP_005405953.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  135     5e-038
+WP_075040866.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  135     5e-038
+WP_086204068.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  135     6e-038
+WP_007479518.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  134     9e-038
+WP_068973290.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  134     1e-037
+WP_061392077.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  134     1e-037
+WP_031234833.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  134     1e-037
+XP_005970929.1  PREDICTED: probable 3-methyl-2-oxobutanoate hydro...  133     2e-037
+WP_004924492.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  133     2e-037
+WP_004725927.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  133     3e-037
+WP_010113783.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  133     3e-037
+WP_067866438.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  133     3e-037
+WP_054580222.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  133     3e-037
+WP_086205833.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  133     3e-037
+WP_068885416.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  133     4e-037
+WP_086181137.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  132     5e-037
+WP_086190433.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  132     6e-037
+WP_067655993.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  132     6e-037
+WP_075175123.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  132     7e-037
+WP_005182412.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  132     7e-037
+WP_086192914.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  132     8e-037
+WP_067721987.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  132     8e-037
+WP_070154830.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  131     1e-036
+WP_035265341.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  131     1e-036
+WP_004975120.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  131     1e-036
+WP_039621067.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  131     2e-036
+WP_009584378.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  130     4e-036
+WP_058971743.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  130     4e-036
+WP_086165003.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  130     4e-036
+WP_004824979.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  130     5e-036
+WP_005033852.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  130     5e-036
+WP_063454474.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  130     6e-036
+WP_004649824.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  130     6e-036
+WP_074943566.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  130     6e-036
+WP_062033375.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  130     6e-036
+WP_010325933.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  130     6e-036
+WP_004692301.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  130     7e-036
+WP_019836307.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  129     9e-036
+WP_086195381.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  129     1e-035
+WP_086187125.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  129     2e-035
+WP_045795984.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  129     2e-035
+WP_086209851.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  129     2e-035
+WP_086175844.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  127     7e-035
+WP_005007510.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  126     2e-034
+WP_004782128.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  125     6e-034
+WP_005232106.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  125     6e-034
+WP_034169912.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  125     6e-034
+WP_071850421.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  123     3e-033
+WP_004278337.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  123     3e-033
+WP_064094765.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  123     3e-033
+WP_085064509.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  123     3e-033
+WP_004733026.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  123     3e-033
+WP_086198362.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  122     4e-033
+WP_071320439.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  122     7e-033
+WP_086212823.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  122     7e-033
+WP_004813084.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  122     8e-033
+WP_078189597.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  121     1e-032
+WP_064102286.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  121     1e-032
+WP_078192649.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  121     1e-032
+WP_005172651.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  120     3e-032
+WP_074384037.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  120     3e-032
+WP_005095698.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  120     3e-032
+WP_034587214.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  120     5e-032
+WP_067728431.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  120     5e-032
+WP_086179232.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  119     6e-032
+WP_067763497.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  118     2e-031
+WP_045794195.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  118     2e-031
+WP_008303417.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  118     2e-031
+WP_067666352.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  117     3e-031
+WP_004903435.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  117     4e-031
+WP_004753690.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  117     8e-031
+WP_070070936.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  116     1e-030
+WP_023272744.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  114     8e-030
+WP_016657427.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  113     2e-029
+WP_067557000.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  111     8e-029
+WP_026471440.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  107     5e-027
+WP_068907770.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  103     1e-025
+WP_076879001.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  100     3e-024
+WP_028299609.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  88.6    6e-020
+WP_058339899.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  85.9    6e-019
+WP_068453683.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  85.9    7e-019
+WP_077379469.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  84.3    3e-018
+WP_019952569.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  84.0    3e-018
+WP_072325641.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  84.0    3e-018
+WP_045493853.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  84.0    4e-018
+WP_009833019.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  84.0    4e-018
+WP_072424246.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  83.6    5e-018
+WP_022990230.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  83.6    6e-018
+WP_056841984.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  82.8    9e-018
+WP_027849085.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  82.8    1e-017
+WP_039181345.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  82.8    1e-017
+WP_016915934.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  82.8    1e-017
+WP_035476183.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  82.8    1e-017
+WP_025164711.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  82.0    2e-017
+WP_058397511.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  82.0    2e-017
+WP_061241017.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  82.0    2e-017
+WP_058427640.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  82.0    2e-017
+WP_024683852.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  82.0    2e-017
+WP_010625691.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  82.0    2e-017
+WP_010196315.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  80.9    2e-017
+WP_063313414.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  82.0    2e-017
+WP_058399304.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  82.0    2e-017
+WP_065088355.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  82.0    2e-017
+WP_024660963.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  82.0    2e-017
+WP_024641213.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  82.0    2e-017
+WP_024664032.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  82.0    2e-017
+WP_058400366.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  82.0    2e-017
+WP_003423024.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  82.0    2e-017
+WP_016567182.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  82.0    2e-017
+WP_003371340.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  82.0    2e-017
+WP_008733346.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  81.6    2e-017
+WP_044310150.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  81.6    2e-017
+WP_058408998.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  81.6    2e-017
+WP_054077623.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  81.6    2e-017
+WP_005732360.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  81.6    2e-017
+WP_054071507.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  81.6    3e-017
+WP_057460461.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  81.6    3e-017
+WP_032613674.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  81.6    3e-017
+WP_057425837.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  81.6    3e-017
+WP_004658626.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  81.6    3e-017
+WP_057402629.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  81.6    3e-017
+WP_010428589.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  81.6    3e-017
+WP_002552055.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  81.6    3e-017
+WP_027830833.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  81.6    3e-017
+WP_071493552.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  81.6    3e-017
+WP_044344227.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  81.6    3e-017
+WP_022966347.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  81.6    3e-017
+WP_019740915.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  81.6    3e-017
+WP_013716976.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  81.6    3e-017
+WP_004409996.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  81.3    3e-017
+WP_004412363.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  81.3    3e-017
+WP_017363702.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  81.3    4e-017
+XP_001617578.1  hypothetical protein NEMVEDRAFT_v1g225966 [Nemato...  81.3    4e-017
+WP_024692079.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  81.3    4e-017
+WP_027850752.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  81.3    4e-017
+WP_043512946.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  81.3    4e-017
+WP_054992625.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  81.3    4e-017
+WP_044318578.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  81.3    4e-017
+WP_079204793.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  81.3    4e-017
+WP_041159438.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  81.3    4e-017
+WP_005745516.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  81.3    4e-017
+WP_064121061.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  80.9    4e-017
+WP_069897957.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  81.3    4e-017
+WP_043530865.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  80.9    5e-017
+WP_017675315.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  80.9    6e-017
+WP_039603018.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  80.9    6e-017
+WP_045736381.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  80.5    7e-017
+WP_075179327.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  80.5    7e-017
+WP_075173063.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  80.5    7e-017
+WP_059392570.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  80.5    7e-017
+WP_046788164.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  80.5    7e-017
+WP_080987005.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  78.6    7e-017
+WP_021489318.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  80.5    7e-017
+WP_027349605.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  80.5    7e-017
+WP_003406643.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  80.5    8e-017
+WP_011266658.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  80.5    8e-017
+WP_074956285.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  80.5    9e-017
+WP_046016039.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  80.5    9e-017
+WP_041332649.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  80.1    9e-017
+WP_058416315.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  80.1    9e-017
+WP_063339442.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  80.5    9e-017
+WP_007153476.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  80.1    9e-017
+WP_037050780.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  80.1    9e-017
+WP_029654479.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  80.1    9e-017
+WP_008940622.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  80.1    1e-016
+WP_084335406.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  80.1    1e-016
+WP_014869885.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  80.1    1e-016
+WP_057407146.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  80.1    1e-016
+WP_045199705.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  80.1    1e-016
+WP_010222996.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  80.1    1e-016
+WP_012346209.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  80.5    1e-016
+WP_044387755.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  80.1    1e-016
+WP_039009050.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  80.1    1e-016
+WP_040259370.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  80.1    1e-016
+WP_035231932.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  80.1    1e-016
+WP_054986788.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  80.1    1e-016
+WP_083726806.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  80.1    1e-016
+WP_055005655.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  80.1    1e-016
+WP_064702378.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  79.7    1e-016
+WP_006578923.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  80.1    1e-016
+WP_054903518.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  79.7    1e-016
+WP_064700535.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  79.7    1e-016
+WP_029103617.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  80.1    1e-016
+WP_053822468.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  80.1    1e-016
+WP_079323980.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  80.1    1e-016
+WP_078274742.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  79.7    1e-016
+WP_024639807.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  79.7    1e-016
+WP_048384279.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  79.7    2e-016
+WP_081569380.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  79.7    2e-016
+WP_084855465.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  79.7    2e-016
+WP_058090695.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  79.3    2e-016
+WP_012312666.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  79.3    2e-016
+WP_064228542.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  79.3    2e-016
+WP_013262069.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  79.3    2e-016
+WP_061333538.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  79.3    2e-016
+WP_065988299.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  79.3    2e-016
+WP_037001530.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  79.3    2e-016
+WP_002923649.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  79.3    2e-016
+WP_074892630.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  79.3    2e-016
+WP_074759215.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  79.3    2e-016
+WP_027595012.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  79.3    2e-016
+WP_085274233.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  79.3    2e-016
+WP_017936861.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  79.3    2e-016
+WP_020293213.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  79.3    2e-016
+WP_074679505.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  79.3    2e-016
+WP_076725733.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  79.0    2e-016
+WP_083182382.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  79.0    3e-016
+WP_004339737.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  79.0    3e-016
+WP_065836070.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  79.0    3e-016
+WP_031385277.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  79.0    3e-016
+WP_055000968.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  79.0    3e-016
+WP_007251694.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  79.0    3e-016
+WP_054084916.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  79.0    3e-016
+WP_074813892.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  79.0    3e-016
+WP_070970645.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  79.0    3e-016
+WP_064648591.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  79.0    3e-016
+WP_038606805.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  79.0    3e-016
+WP_083831600.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  79.3    3e-016
+WP_003657219.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  79.0    3e-016
+WP_004424360.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  79.0    3e-016
+WP_030074106.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  79.0    3e-016
+WP_064646707.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  79.0    3e-016
+WP_003672601.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  79.0    3e-016
+WP_063537606.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.4    3e-016
+WP_068482517.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  78.6    3e-016
+WP_084342149.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  79.0    3e-016
+WP_071695114.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  78.6    3e-016
+WP_071490006.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  79.0    3e-016
+WP_009287936.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  78.6    4e-016
+WP_024672205.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  78.6    4e-016
+WP_022520694.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  78.6    4e-016
+WP_018917547.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  78.6    4e-016
+WP_036203228.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  78.6    4e-016
+WP_023378641.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  78.6    4e-016
+WP_078254727.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  78.6    4e-016
+WP_004578860.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  78.6    4e-016
+WP_033701569.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  78.6    4e-016
+WP_048497697.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  78.6    4e-016
+WP_035582964.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  78.6    4e-016
+WP_072794790.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  78.6    4e-016
+WP_011784197.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  78.6    4e-016
+WP_047588189.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  78.6    4e-016
+WP_032624979.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  78.6    4e-016
+WP_027958256.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  78.6    5e-016
+WP_038998680.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  78.6    5e-016
+WP_062500952.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  78.6    5e-016
+WP_077522908.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  78.2    5e-016
+WP_062385080.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  78.2    5e-016
+WP_073172179.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  78.2    5e-016
+WP_074974080.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  78.2    5e-016
+WP_043308780.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  78.2    5e-016
+WP_028944510.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  78.2    5e-016
+WP_076952850.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  78.2    5e-016
+WP_008169652.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  78.2    5e-016
+WP_044403339.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  78.2    5e-016
+WP_024695668.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  78.2    5e-016
+WP_074865661.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  78.2    6e-016
+WP_045182793.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  78.2    6e-016
+WP_069519536.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  78.2    6e-016
+WP_074397684.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  78.2    6e-016
+WP_061718535.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  78.2    6e-016
+WP_085920166.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  78.2    6e-016
+WP_060481619.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  78.2    6e-016
+WP_073435134.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  78.2    6e-016
+WP_011587632.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  77.8    6e-016
+WP_029613936.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  78.2    7e-016
+WP_028632611.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  78.2    7e-016
+WP_078320586.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.8    7e-016
+WP_018609700.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  78.2    7e-016
+WP_068999673.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.8    7e-016
+WP_025870820.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.8    7e-016
+WP_064234905.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.8    7e-016
+WP_068634971.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  78.2    7e-016
+WP_004879941.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  77.8    7e-016
+WP_008641973.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  78.2    7e-016
+WP_069184799.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.8    7e-016
+WP_014340242.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  77.8    8e-016
+WP_025996637.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.8    8e-016
+WP_066316101.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.8    8e-016
+WP_012139300.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.8    8e-016
+WP_043304147.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.8    8e-016
+WP_060413016.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.8    8e-016
+WP_042556247.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.8    8e-016
+WP_066732146.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.8    8e-016
+WP_005614845.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  77.8    8e-016
+WP_003457239.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.8    8e-016
+WP_060509325.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.8    8e-016
+WP_008107626.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.8    8e-016
+WP_057416019.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.8    9e-016
+WP_053187346.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.8    9e-016
+WP_057428438.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.8    9e-016
+WP_019332684.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.8    9e-016
+WP_005770519.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  77.8    9e-016
+WP_003382272.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.8    9e-016
+WP_005736050.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  77.8    9e-016
+WP_024685482.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.8    9e-016
+WP_063240226.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.8    9e-016
+WP_071871833.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.8    9e-016
+WP_005895735.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  77.8    9e-016
+WP_022955540.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.4    1e-015
+WP_055464506.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.8    1e-015
+WP_009723728.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.4    1e-015
+WP_075803514.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.4    1e-015
+WP_053486211.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.4    1e-015
+WP_009101428.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.4    1e-015
+WP_039593861.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  77.4    1e-015
+WP_030140242.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.4    1e-015
+WP_085677223.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  77.4    1e-015
+WP_054885624.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.4    1e-015
+WP_016391806.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.4    1e-015
+WP_027858323.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.4    1e-015
+WP_049609584.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.4    1e-015
+WP_058068043.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.4    1e-015
+WP_008958806.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.4    1e-015
+WP_016494749.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.4    1e-015
+WP_003244641.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.4    1e-015
+WP_028302934.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.4    1e-015
+WP_038414574.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.4    1e-015
+WP_084312669.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.4    1e-015
+WP_040266045.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.4    1e-015
+WP_024646914.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.4    1e-015
+WP_058824639.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.4    1e-015
+WP_044874092.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.0    1e-015
+WP_079226485.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.0    1e-015
+WP_084306239.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.0    1e-015
+WP_011298926.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.0    1e-015
+WP_049071334.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.0    1e-015
+WP_063520252.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.0    1e-015
+WP_078088860.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.0    1e-015
+WP_084919801.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.0    1e-015
+WP_007149944.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.0    1e-015
+WP_070887612.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.0    1e-015
+WP_047760329.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.0    2e-015
+WP_065875680.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.0    2e-015
+WP_025258516.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.0    2e-015
+WP_027705434.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.0    2e-015
+WP_023632697.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.0    2e-015
+WP_043255267.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.0    2e-015
+WP_078317357.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.0    2e-015
+WP_027917673.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  77.0    2e-015
+WP_027900340.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.0    2e-015
+WP_083000738.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.0    2e-015
+WP_085697500.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  77.0    2e-015
+WP_050706972.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.0    2e-015
+WP_075148241.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.0    2e-015
+WP_075934726.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  77.0    2e-015
+WP_071173624.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.6    2e-015
+WP_021441864.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.6    2e-015
+WP_007111817.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.6    2e-015
+WP_028695142.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.6    2e-015
+WP_073267086.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.6    2e-015
+WP_027909096.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.6    2e-015
+WP_019019070.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.6    2e-015
+WP_049256195.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.6    2e-015
+WP_016773162.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  76.6    2e-015
+WP_057291892.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.6    2e-015
+WP_027915401.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  76.6    2e-015
+WP_021819217.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.6    2e-015
+WP_060740587.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.6    2e-015
+WP_072411753.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.6    2e-015
+WP_027337662.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.6    2e-015
+WP_068499856.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.6    2e-015
+WP_068828222.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.6    2e-015
+WP_053100226.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.6    2e-015
+WP_053102782.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.6    2e-015
+WP_046034293.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.6    3e-015
+WP_015885907.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.6    3e-015
+WP_026035385.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.6    3e-015
+WP_004300561.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  76.6    3e-015
+WP_069085630.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.3    3e-015
+WP_025857121.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.3    3e-015
+WP_064052104.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.3    3e-015
+WP_043746270.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.6    3e-015
+WP_013817076.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.3    3e-015
+WP_040667603.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.3    3e-015
+WP_085416756.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.3    3e-015
+WP_005881696.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.3    3e-015
+WP_078050209.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.3    3e-015
+WP_019957405.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.3    3e-015
+WP_034107049.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.3    3e-015
+WP_028604593.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.6    3e-015
+WP_040658992.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.3    3e-015
+WP_028630030.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.3    3e-015
+WP_076580513.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.3    3e-015
+WP_067208464.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.3    3e-015
+WP_044629482.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.3    3e-015
+WP_076425928.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.3    3e-015
+WP_064118694.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.3    3e-015
+WP_055129261.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.3    3e-015
+WP_024309399.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.3    3e-015
+WP_054640976.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.3    3e-015
+WP_021700406.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.3    3e-015
+WP_062372893.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.3    3e-015
+WP_019520649.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.3    3e-015
+WP_047698284.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.3    3e-015
+WP_008092317.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.3    3e-015
+WP_005877939.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.3    3e-015
+WP_049841271.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.3    3e-015
+WP_021219323.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.3    3e-015
+WP_062360564.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  75.9    3e-015
+WP_029048939.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.3    3e-015
+WP_065758280.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.3    4e-015
+WP_008080862.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.3    4e-015
+WP_053125307.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  75.9    4e-015
+WP_053153512.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  75.9    4e-015
+WP_011535756.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  75.9    4e-015
+WP_060784837.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.3    4e-015
+WP_024569080.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  76.3    4e-015
+WP_009404315.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  75.9    4e-015
+WP_019141815.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.3    4e-015
+WP_011517463.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  76.3    4e-015
+WP_083353584.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  75.9    4e-015
+WP_078745892.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  75.9    4e-015
+WP_065615672.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  75.9    4e-015
+WP_042610469.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  75.9    4e-015
+WP_049851189.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  75.9    4e-015
+WP_004373862.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  75.9    4e-015
+WP_064584365.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  75.9    4e-015
+WP_021784789.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  75.9    4e-015
+WP_067215228.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  75.9    4e-015
+WP_066451846.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  75.9    4e-015
+WP_041477826.1  MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymeth...  75.9    4e-015
+WP_067030355.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  75.9    5e-015
+WP_060550391.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  75.9    5e-015
+WP_065256487.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  75.9    5e-015
+WP_025731802.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  75.5    5e-015
+WP_049858679.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  75.5    5e-015
+WP_015372962.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  75.5    5e-015
+WP_077574568.1  3-methyl-2-oxobutanoate hydroxymethyltransferase ...  75.5    5e-015
+
+
+>WP_060513589.1 3-methyl-2-oxobutanoate hydroxymethyltransferase, partial [Acinetobacter 
+baumannii]
+Length=95
+
+ Score = 145 bits (366),  Expect = 4e-044, Method: Compositional matrix adjust.
+ Identities = 71/72 (99%), Positives = 72/72 (100%), Gaps = 0/72 (0%)
+
+Query  1   MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+           +IGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS
+Sbjct  24  VIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  83
+
+Query  61  FPAKEHTFQVEL  72
+           FPAKEHTFQVEL
+Sbjct  84  FPAKEHTFQVEL  95
+
+
+>WP_032065575.1 3-methyl-2-oxobutanoate hydroxymethyltransferase, partial [Acinetobacter 
+baumannii]
+Length=79
+
+ Score = 144 bits (364),  Expect = 5e-044, Method: Compositional matrix adjust.
+ Identities = 71/72 (99%), Positives = 72/72 (100%), Gaps = 0/72 (0%)
+
+Query  1   MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+           +IGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS
+Sbjct  8   VIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  67
+
+Query  61  FPAKEHTFQVEL  72
+           FPAKEHTFQVEL
+Sbjct  68  FPAKEHTFQVEL  79
+
+
+>WP_031973898.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+baumannii]
+Length=269
+
+ Score = 147 bits (371),  Expect = 9e-043, Method: Compositional matrix adjust.
+ Identities = 71/72 (99%), Positives = 72/72 (100%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS
+Sbjct  198  VIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_002054550.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Acinetobacter calcoaceticus/baumannii complex]
+Length=269
+
+ Score = 147 bits (371),  Expect = 9e-043, Method: Compositional matrix adjust.
+ Identities = 71/72 (99%), Positives = 72/72 (100%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS
+Sbjct  198  VIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_031989036.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+baumannii]
+Length=269
+
+ Score = 147 bits (371),  Expect = 9e-043, Method: Compositional matrix adjust.
+ Identities = 71/72 (99%), Positives = 72/72 (100%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS
+Sbjct  198  VIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_004842463.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+baumannii]
+Length=269
+
+ Score = 147 bits (371),  Expect = 9e-043, Method: Compositional matrix adjust.
+ Identities = 71/72 (99%), Positives = 72/72 (100%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS
+Sbjct  198  VIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_000624763.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Acinetobacter calcoaceticus/baumannii complex]
+Length=269
+
+ Score = 147 bits (371),  Expect = 1e-042, Method: Compositional matrix adjust.
+ Identities = 71/72 (99%), Positives = 72/72 (100%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS
+Sbjct  198  VIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_042076260.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+nosocomialis]
+Length=269
+
+ Score = 147 bits (371),  Expect = 1e-042, Method: Compositional matrix adjust.
+ Identities = 71/72 (99%), Positives = 72/72 (100%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS
+Sbjct  198  VIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_031995397.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+baumannii]
+Length=269
+
+ Score = 147 bits (371),  Expect = 1e-042, Method: Compositional matrix adjust.
+ Identities = 71/72 (99%), Positives = 72/72 (100%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS
+Sbjct  198  VIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_031979654.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+baumannii]
+Length=269
+
+ Score = 147 bits (371),  Expect = 1e-042, Method: Compositional matrix adjust.
+ Identities = 71/72 (99%), Positives = 72/72 (100%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS
+Sbjct  198  VIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_032047472.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Acinetobacter calcoaceticus/baumannii complex]
+Length=269
+
+ Score = 145 bits (367),  Expect = 3e-042, Method: Compositional matrix adjust.
+ Identities = 70/72 (97%), Positives = 72/72 (100%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGNATDGQVLVVQDMLGLTFG+VARFVRNFMKEQSGETAILDAFKAFHAAVQDQS
+Sbjct  198  VIGIGAGNATDGQVLVVQDMLGLTFGKVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_002131758.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+baumannii]
+Length=269
+
+ Score = 145 bits (367),  Expect = 4e-042, Method: Compositional matrix adjust.
+ Identities = 70/72 (97%), Positives = 71/72 (99%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIG GNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS
+Sbjct  198  VIGIGVGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_005302408.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. NIPH 542]
+Length=269
+
+ Score = 145 bits (366),  Expect = 6e-042, Method: Compositional matrix adjust.
+ Identities = 70/72 (97%), Positives = 71/72 (99%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS
+Sbjct  198  VIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTF VEL
+Sbjct  258  FPAKEHTFHVEL  269
+
+
+>WP_000624764.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+baumannii]
+Length=269
+
+ Score = 145 bits (366),  Expect = 6e-042, Method: Compositional matrix adjust.
+ Identities = 70/72 (97%), Positives = 71/72 (99%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGNATDGQVLVVQDMLGLTFGRV RFVRNFMKEQSGETAILDAFKAFHAAVQDQS
+Sbjct  198  VIGIGAGNATDGQVLVVQDMLGLTFGRVGRFVRNFMKEQSGETAILDAFKAFHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_002117298.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Acinetobacter]
+ YP_004997760.1 3-methyl-2-oxobutanoate hydroxymethyltransferase (ketopantoate 
+hydroxymethyltransferase) [Acinetobacter pittii PHEA-2]
+Length=269
+
+ Score = 145 bits (366),  Expect = 6e-042, Method: Compositional matrix adjust.
+ Identities = 70/72 (97%), Positives = 71/72 (99%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS
+Sbjct  198  VIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTF VEL
+Sbjct  258  FPAKEHTFHVEL  269
+
+
+>WP_032032916.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. 723929]
+Length=269
+
+ Score = 145 bits (366),  Expect = 6e-042, Method: Compositional matrix adjust.
+ Identities = 70/72 (97%), Positives = 71/72 (99%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS
+Sbjct  198  VIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTF VEL
+Sbjct  258  FPAKEHTFHVEL  269
+
+
+>WP_017391238.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+calcoaceticus]
+Length=269
+
+ Score = 145 bits (366),  Expect = 6e-042, Method: Compositional matrix adjust.
+ Identities = 70/72 (97%), Positives = 71/72 (99%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS
+Sbjct  198  VIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTF VEL
+Sbjct  258  FPAKEHTFHVEL  269
+
+
+>WP_031947379.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+baumannii]
+Length=269
+
+ Score = 145 bits (366),  Expect = 6e-042, Method: Compositional matrix adjust.
+ Identities = 70/72 (97%), Positives = 71/72 (99%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS
+Sbjct  198  VIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTF VEL
+Sbjct  258  FPAKEHTFHVEL  269
+
+
+>WP_016142180.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+pittii]
+Length=269
+
+ Score = 145 bits (366),  Expect = 6e-042, Method: Compositional matrix adjust.
+ Identities = 70/72 (97%), Positives = 71/72 (99%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS
+Sbjct  198  VIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTF VEL
+Sbjct  258  FPAKEHTFHVEL  269
+
+
+>WP_004794557.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Acinetobacter]
+Length=269
+
+ Score = 145 bits (366),  Expect = 7e-042, Method: Compositional matrix adjust.
+ Identities = 70/72 (97%), Positives = 71/72 (99%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS
+Sbjct  198  VIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTF VEL
+Sbjct  258  FPAKEHTFHVEL  269
+
+
+>WP_032057515.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Acinetobacter calcoaceticus/baumannii complex]
+Length=269
+
+ Score = 145 bits (365),  Expect = 7e-042, Method: Compositional matrix adjust.
+ Identities = 70/72 (97%), Positives = 71/72 (99%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS
+Sbjct  198  VIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTF VEL
+Sbjct  258  FPAKEHTFHVEL  269
+
+
+>WP_004906704.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+junii]
+Length=269
+
+ Score = 144 bits (364),  Expect = 1e-041, Method: Compositional matrix adjust.
+ Identities = 69/72 (96%), Positives = 71/72 (99%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGN TDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKA+HAAVQDQS
+Sbjct  198  VIGIGAGNQTDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAYHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_005403726.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+junii]
+Length=269
+
+ Score = 144 bits (364),  Expect = 1e-041, Method: Compositional matrix adjust.
+ Identities = 69/72 (96%), Positives = 71/72 (99%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGN TDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKA+HAAVQDQS
+Sbjct  198  VIGIGAGNQTDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAYHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_063098125.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+pittii]
+Length=269
+
+ Score = 144 bits (362),  Expect = 2e-041, Method: Compositional matrix adjust.
+ Identities = 69/72 (96%), Positives = 70/72 (97%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFH AVQDQS
+Sbjct  198  VIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHTAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTF VEL
+Sbjct  258  FPAKEHTFHVEL  269
+
+
+>WP_016139225.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+calcoaceticus]
+Length=269
+
+ Score = 144 bits (362),  Expect = 2e-041, Method: Compositional matrix adjust.
+ Identities = 69/72 (96%), Positives = 70/72 (97%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFH AVQDQS
+Sbjct  198  VIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHTAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTF VEL
+Sbjct  258  FPAKEHTFHVEL  269
+
+
+>WP_032035268.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Acinetobacter calcoaceticus/baumannii complex]
+Length=269
+
+ Score = 144 bits (362),  Expect = 3e-041, Method: Compositional matrix adjust.
+ Identities = 69/72 (96%), Positives = 70/72 (97%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFH AVQDQS
+Sbjct  198  VIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHVAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTF VEL
+Sbjct  258  FPAKEHTFHVEL  269
+
+
+>WP_004760826.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. CIP 102129]
+Length=269
+
+ Score = 143 bits (361),  Expect = 3e-041, Method: Compositional matrix adjust.
+ Identities = 68/72 (94%), Positives = 71/72 (99%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGN TDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILD+FKA+HAAVQDQS
+Sbjct  198  VIGIGAGNETDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDSFKAYHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_004678322.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+parvus]
+Length=269
+
+ Score = 143 bits (361),  Expect = 3e-041, Method: Compositional matrix adjust.
+ Identities = 68/72 (94%), Positives = 71/72 (99%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGN TDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILD+FKA+HAAVQDQS
+Sbjct  198  VIGIGAGNETDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDSFKAYHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_004798275.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. CIP 102637]
+Length=269
+
+ Score = 143 bits (361),  Expect = 3e-041, Method: Compositional matrix adjust.
+ Identities = 68/72 (94%), Positives = 71/72 (99%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGN TDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILD+FKA+HAAVQDQS
+Sbjct  198  VIGIGAGNETDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDSFKAYHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_031962612.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+baumannii]
+Length=269
+
+ Score = 143 bits (360),  Expect = 4e-041, Method: Compositional matrix adjust.
+ Identities = 70/72 (97%), Positives = 71/72 (99%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS
+Sbjct  198  VIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            F AKEHTFQVEL
+Sbjct  258  FQAKEHTFQVEL  269
+
+
+>WP_004698602.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Acinetobacter]
+Length=269
+
+ Score = 143 bits (360),  Expect = 5e-041, Method: Compositional matrix adjust.
+ Identities = 68/72 (94%), Positives = 71/72 (99%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGNATDGQVLVVQDMLGLTFG+VARFVRNFMKEQSGETAILDAFK+FHAAVQDQS
+Sbjct  198  VIGIGAGNATDGQVLVVQDMLGLTFGKVARFVRNFMKEQSGETAILDAFKSFHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTF VEL
+Sbjct  258  FPAKEHTFNVEL  269
+
+
+>WP_004681703.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+parvus]
+Length=269
+
+ Score = 143 bits (360),  Expect = 5e-041, Method: Compositional matrix adjust.
+ Identities = 68/72 (94%), Positives = 71/72 (99%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGN TDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAF+A+HAAVQDQS
+Sbjct  198  VIGIGAGNETDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFQAYHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_017387618.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Acinetobacter]
+Length=269
+
+ Score = 142 bits (359),  Expect = 5e-041, Method: Compositional matrix adjust.
+ Identities = 69/72 (96%), Positives = 70/72 (97%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGNATDGQVLVVQDMLGLTFGRVARFV NFMKEQSGETAILDAFKAFHAAVQDQS
+Sbjct  198  VIGIGAGNATDGQVLVVQDMLGLTFGRVARFVHNFMKEQSGETAILDAFKAFHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTF VEL
+Sbjct  258  FPAKEHTFHVEL  269
+
+
+>WP_004756053.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Acinetobacter]
+Length=269
+
+ Score = 142 bits (359),  Expect = 5e-041, Method: Compositional matrix adjust.
+ Identities = 68/72 (94%), Positives = 71/72 (99%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGN TDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAF+A+HAAVQDQS
+Sbjct  198  VIGIGAGNETDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFQAYHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_005044745.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+calcoaceticus]
+Length=269
+
+ Score = 142 bits (357),  Expect = 1e-040, Method: Compositional matrix adjust.
+ Identities = 68/72 (94%), Positives = 70/72 (97%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKA+HAAV DQS
+Sbjct  198  VIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAYHAAVLDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTF VEL
+Sbjct  258  FPAKEHTFHVEL  269
+
+
+>WP_004764106.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Acinetobacter]
+Length=269
+
+ Score = 142 bits (357),  Expect = 1e-040, Method: Compositional matrix adjust.
+ Identities = 67/72 (93%), Positives = 71/72 (99%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGN TDGQVLVVQDMLGLTFGRVARFVRNF+KEQSGETAILD+FKA+HAAVQDQS
+Sbjct  198  VIGIGAGNETDGQVLVVQDMLGLTFGRVARFVRNFIKEQSGETAILDSFKAYHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_003655024.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Acinetobacter]
+Length=269
+
+ Score = 142 bits (357),  Expect = 1e-040, Method: Compositional matrix adjust.
+ Identities = 68/72 (94%), Positives = 70/72 (97%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKA+HAAV DQS
+Sbjct  198  VIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAYHAAVLDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTF VEL
+Sbjct  258  FPAKEHTFHVEL  269
+
+
+>WP_009390809.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. WC-141]
+Length=269
+
+ Score = 142 bits (357),  Expect = 1e-040, Method: Compositional matrix adjust.
+ Identities = 68/72 (94%), Positives = 70/72 (97%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKA+HAAV DQS
+Sbjct  198  VIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAYHAAVLDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTF VEL
+Sbjct  258  FPAKEHTFHVEL  269
+
+
+>WP_042894984.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Acinetobacter]
+Length=269
+
+ Score = 142 bits (357),  Expect = 1e-040, Method: Compositional matrix adjust.
+ Identities = 68/72 (94%), Positives = 70/72 (97%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKA+HAAV DQS
+Sbjct  198  VIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAYHAAVLDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTF VEL
+Sbjct  258  FPAKEHTFHVEL  269
+
+
+>WP_026070453.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+haemolyticus]
+Length=269
+
+ Score = 141 bits (356),  Expect = 2e-040, Method: Compositional matrix adjust.
+ Identities = 67/72 (93%), Positives = 70/72 (97%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGN TDGQVLV QDMLGLTFGRVARFVRNFMKEQ+GETAILDAFKA+HAAVQDQS
+Sbjct  198  VIGIGAGNETDGQVLVAQDMLGLTFGRVARFVRNFMKEQAGETAILDAFKAYHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_004637954.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Acinetobacter]
+Length=269
+
+ Score = 141 bits (356),  Expect = 2e-040, Method: Compositional matrix adjust.
+ Identities = 67/72 (93%), Positives = 70/72 (97%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGN TDGQVLV QDMLGLTFGRVARFVRNFMKEQ+GETAILDAFKA+HAAVQDQS
+Sbjct  198  VIGIGAGNETDGQVLVAQDMLGLTFGRVARFVRNFMKEQAGETAILDAFKAYHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_004672503.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Acinetobacter]
+Length=269
+
+ Score = 141 bits (356),  Expect = 2e-040, Method: Compositional matrix adjust.
+ Identities = 67/72 (93%), Positives = 70/72 (97%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGN TDGQVLV QDMLGLTFGRVARFVRNFMKEQ+GETAILDAFKA+HAAVQDQS
+Sbjct  198  VIGIGAGNETDGQVLVAQDMLGLTFGRVARFVRNFMKEQAGETAILDAFKAYHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_005164364.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. NIPH 284]
+Length=269
+
+ Score = 141 bits (355),  Expect = 2e-040, Method: Compositional matrix adjust.
+ Identities = 67/72 (93%), Positives = 71/72 (99%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGN TDGQVLVVQDMLGLTFGRVARFVRNFMKEQ+GETAILDAFKA+HAAVQ+QS
+Sbjct  198  VIGIGAGNETDGQVLVVQDMLGLTFGRVARFVRNFMKEQAGETAILDAFKAYHAAVQNQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_004854828.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+gerneri]
+Length=269
+
+ Score = 141 bits (355),  Expect = 2e-040, Method: Compositional matrix adjust.
+ Identities = 68/72 (94%), Positives = 70/72 (97%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKA+HAAVQDQS
+Sbjct  198  VIGIGAGVETDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAYHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_005228749.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Acinetobacter]
+Length=269
+
+ Score = 141 bits (355),  Expect = 3e-040, Method: Compositional matrix adjust.
+ Identities = 67/72 (93%), Positives = 71/72 (99%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG+ TDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAI+DAFKA+HAAVQDQS
+Sbjct  198  VIGIGAGHETDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAIVDAFKAYHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_004774685.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Acinetobacter]
+Length=269
+
+ Score = 141 bits (355),  Expect = 3e-040, Method: Compositional matrix adjust.
+ Identities = 66/72 (92%), Positives = 71/72 (99%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGN TDGQVLVVQDMLGLTFGRVARFVRNFMKEQ+GETAI+DAFK++HAAVQDQS
+Sbjct  198  VIGIGAGNETDGQVLVVQDMLGLTFGRVARFVRNFMKEQAGETAIVDAFKSYHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_038344502.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. A47]
+Length=269
+
+ Score = 141 bits (355),  Expect = 3e-040, Method: Compositional matrix adjust.
+ Identities = 66/72 (92%), Positives = 71/72 (99%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGN TDGQVLVVQDMLGLTFGRVARFVRNFMKEQ+GETAI+DAFK++HAAVQDQS
+Sbjct  198  VIGIGAGNETDGQVLVVQDMLGLTFGRVARFVRNFMKEQAGETAIVDAFKSYHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_062847863.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. NRRL B-65365]
+Length=269
+
+ Score = 141 bits (355),  Expect = 3e-040, Method: Compositional matrix adjust.
+ Identities = 66/72 (92%), Positives = 71/72 (99%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGN TDGQVLVVQDMLGLTFGRVARFVRNFMKEQ+GETAI+DAFK++HAAVQDQS
+Sbjct  198  VIGIGAGNETDGQVLVVQDMLGLTFGRVARFVRNFMKEQAGETAIVDAFKSYHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_047431726.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. neg1]
+Length=269
+
+ Score = 140 bits (354),  Expect = 3e-040, Method: Compositional matrix adjust.
+ Identities = 66/72 (92%), Positives = 71/72 (99%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGN TDGQVLVVQDMLGLTFGRVARFVRNFMKEQ+GETAI+DAFK++HAAVQDQS
+Sbjct  198  VIGIGAGNETDGQVLVVQDMLGLTFGRVARFVRNFMKEQAGETAIVDAFKSYHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_005184787.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Acinetobacter]
+Length=269
+
+ Score = 140 bits (354),  Expect = 3e-040, Method: Compositional matrix adjust.
+ Identities = 66/72 (92%), Positives = 71/72 (99%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGN TDGQVLVVQDMLGLTFGRVARFVRNFMKEQ+GETAI+DAFK++HAAVQDQS
+Sbjct  198  VIGIGAGNETDGQVLVVQDMLGLTFGRVARFVRNFMKEQAGETAIVDAFKSYHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_005051640.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+beijerinckii]
+Length=269
+
+ Score = 140 bits (354),  Expect = 3e-040, Method: Compositional matrix adjust.
+ Identities = 66/72 (92%), Positives = 71/72 (99%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGN TDGQVLVVQDMLGLTFGRVARFVRNFMKEQ+GETAI+DAFK++HAAVQDQS
+Sbjct  198  VIGIGAGNETDGQVLVVQDMLGLTFGRVARFVRNFMKEQAGETAIVDAFKSYHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_005146585.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. ANC 3929]
+Length=269
+
+ Score = 140 bits (354),  Expect = 3e-040, Method: Compositional matrix adjust.
+ Identities = 66/72 (92%), Positives = 71/72 (99%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGN TDGQVLVVQDMLGLTFGRVARFVRNFMKEQ+GETAI+DAFK++HAAVQDQS
+Sbjct  198  VIGIGAGNETDGQVLVVQDMLGLTFGRVARFVRNFMKEQAGETAIVDAFKSYHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_004804462.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. CIP 56.2]
+Length=269
+
+ Score = 140 bits (354),  Expect = 4e-040, Method: Compositional matrix adjust.
+ Identities = 66/72 (92%), Positives = 71/72 (99%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGN TDGQVLVVQDMLGLTFGRVARFVRNFMKEQ+GETAI+DAFK++HAAVQDQS
+Sbjct  198  VIGIGAGNETDGQVLVVQDMLGLTFGRVARFVRNFMKEQAGETAIVDAFKSYHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_004655682.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Acinetobacter]
+Length=269
+
+ Score = 140 bits (354),  Expect = 4e-040, Method: Compositional matrix adjust.
+ Identities = 66/72 (92%), Positives = 71/72 (99%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGN TDGQVLVVQDMLGLTFGRVARFVRNFMKEQ+GETAI+DAFK++HAAVQDQS
+Sbjct  198  VIGIGAGNETDGQVLVVQDMLGLTFGRVARFVRNFMKEQAGETAIVDAFKSYHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_005214586.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. ANC 3862]
+Length=269
+
+ Score = 140 bits (354),  Expect = 4e-040, Method: Compositional matrix adjust.
+ Identities = 66/72 (92%), Positives = 71/72 (99%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGN TDGQVLVVQDMLGLTFGRVARFVRNFMKEQ+GETAI+DAFK++HAAVQDQS
+Sbjct  198  VIGIGAGNETDGQVLVVQDMLGLTFGRVARFVRNFMKEQAGETAIVDAFKSYHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_018677538.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+tjernbergiae]
+Length=269
+
+ Score = 140 bits (354),  Expect = 4e-040, Method: Compositional matrix adjust.
+ Identities = 66/72 (92%), Positives = 71/72 (99%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGN TDGQVLVVQDMLGLTFGRVARFVRNFMKEQ+GETAI+DAFK++HAAVQDQS
+Sbjct  198  VIGIGAGNQTDGQVLVVQDMLGLTFGRVARFVRNFMKEQAGETAIIDAFKSYHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_004664191.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Acinetobacter]
+Length=269
+
+ Score = 139 bits (349),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 65/72 (90%), Positives = 71/72 (99%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGN TDGQVLVVQDMLGLTFGRVARFVRNFMKEQ+GETAI+DAFK++HAAVQ+QS
+Sbjct  198  VIGIGAGNETDGQVLVVQDMLGLTFGRVARFVRNFMKEQAGETAIVDAFKSYHAAVQNQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_044435037.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+ursingii]
+Length=269
+
+ Score = 139 bits (349),  Expect = 2e-039, Method: Compositional matrix adjust.
+ Identities = 66/72 (92%), Positives = 70/72 (97%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG+ TDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAI+DAFKA+HAAVQDQS
+Sbjct  198  VIGIGAGHQTDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAIVDAFKAYHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPA EHTFQVEL
+Sbjct  258  FPAPEHTFQVEL  269
+
+
+>WP_010588722.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Acinetobacter]
+Length=269
+
+ Score = 138 bits (348),  Expect = 3e-039, Method: Compositional matrix adjust.
+ Identities = 66/72 (92%), Positives = 70/72 (97%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG+ TDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAI+DAFKA+HAAVQDQS
+Sbjct  198  VIGIGAGHQTDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAIVDAFKAYHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPA EHTFQVEL
+Sbjct  258  FPAPEHTFQVEL  269
+
+
+>WP_053578772.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. TTH0-4]
+Length=269
+
+ Score = 136 bits (343),  Expect = 1e-038, Method: Compositional matrix adjust.
+ Identities = 66/72 (92%), Positives = 69/72 (96%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGLTFGRVA+FVRNFMKEQSGETAILDAFKA+HAAVQD S
+Sbjct  198  VIGIGAGVDTDGQVLVVQDMLGLTFGRVAKFVRNFMKEQSGETAILDAFKAYHAAVQDAS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_065994385.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. WCHA30]
+Length=269
+
+ Score = 136 bits (342),  Expect = 2e-038, Method: Compositional matrix adjust.
+ Identities = 65/72 (90%), Positives = 69/72 (96%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGLTFGRVARFVRNFMKEQ+GETAI+DAFKA+HAAVQDQS
+Sbjct  198  VIGIGAGVETDGQVLVVQDMLGLTFGRVARFVRNFMKEQAGETAIIDAFKAYHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPA EHTFQVEL
+Sbjct  258  FPAAEHTFQVEL  269
+
+
+>WP_004945386.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+soli]
+Length=269
+
+ Score = 136 bits (342),  Expect = 2e-038, Method: Compositional matrix adjust.
+ Identities = 64/72 (89%), Positives = 69/72 (96%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGN TDGQVLVVQDMLGLTFG++ARFVRNFMKEQSGETAI+DA KA+HAAVQDQS
+Sbjct  198  VIGIGAGNQTDGQVLVVQDMLGLTFGKLARFVRNFMKEQSGETAIVDAMKAYHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPA EHTFQVEL
+Sbjct  258  FPAPEHTFQVEL  269
+
+
+>WP_004940501.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Acinetobacter]
+Length=269
+
+ Score = 136 bits (342),  Expect = 2e-038, Method: Compositional matrix adjust.
+ Identities = 64/72 (89%), Positives = 69/72 (96%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGN TDGQVLVVQDMLGLTFG++ARFVRNFMKEQSGETAI+DA KA+HAAVQDQS
+Sbjct  198  VIGIGAGNQTDGQVLVVQDMLGLTFGKLARFVRNFMKEQSGETAIVDAMKAYHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPA EHTFQVEL
+Sbjct  258  FPAPEHTFQVEL  269
+
+
+>WP_061396908.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+haemolyticus]
+Length=269
+
+ Score = 136 bits (342),  Expect = 2e-038, Method: Compositional matrix adjust.
+ Identities = 64/72 (89%), Positives = 70/72 (97%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG+ TDGQVLVVQDMLGLTFG+VARFVRNFMKEQ+GETAI+DA KA+HAAVQDQS
+Sbjct  198  VIGIGAGHETDGQVLVVQDMLGLTFGKVARFVRNFMKEQAGETAIVDAIKAYHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_026094163.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+venetianus]
+Length=269
+
+ Score = 136 bits (342),  Expect = 2e-038, Method: Compositional matrix adjust.
+ Identities = 64/72 (89%), Positives = 70/72 (97%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG+ TDGQVLVVQDMLGLTFG+VARFVRNFMKEQ+GETAI+DA KA+HAAVQDQS
+Sbjct  198  VIGIGAGHETDGQVLVVQDMLGLTFGKVARFVRNFMKEQAGETAIVDAIKAYHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_004881770.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+venetianus]
+Length=269
+
+ Score = 136 bits (342),  Expect = 2e-038, Method: Compositional matrix adjust.
+ Identities = 64/72 (89%), Positives = 70/72 (97%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG+ TDGQVLVVQDMLGLTFG+VARFVRNFMKEQ+GETAI+DA KA+HAAVQDQS
+Sbjct  198  VIGIGAGHETDGQVLVVQDMLGLTFGKVARFVRNFMKEQAGETAIVDAIKAYHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>XP_007455061.1 PREDICTED: probable 3-methyl-2-oxobutanoate hydroxymethyltransferase-like 
+[Lipotes vexillifer]
+Length=243
+
+ Score = 135 bits (340),  Expect = 3e-038, Method: Compositional matrix adjust.
+ Identities = 64/72 (89%), Positives = 69/72 (96%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGL+FGRVARFVRNFMKEQSGETAILDAFKA+H AVQ+QS
+Sbjct  172  VIGIGAGAETDGQVLVVQDMLGLSFGRVARFVRNFMKEQSGETAILDAFKAYHQAVQNQS  231
+
+Query  61   FPAKEHTFQVEL  72
+            FPA+EHTFQVEL
+Sbjct  232  FPAREHTFQVEL  243
+
+
+>WP_016166139.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+tandoii]
+Length=269
+
+ Score = 135 bits (340),  Expect = 4e-038, Method: Compositional matrix adjust.
+ Identities = 65/72 (90%), Positives = 69/72 (96%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGLTFGRVA+FVRNFMKEQ+GETAILDAFKA+HAAV DQS
+Sbjct  198  VIGIGAGVETDGQVLVVQDMLGLTFGRVAKFVRNFMKEQAGETAILDAFKAYHAAVLDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_005016216.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Acinetobacter]
+Length=269
+
+ Score = 135 bits (340),  Expect = 5e-038, Method: Compositional matrix adjust.
+ Identities = 64/72 (89%), Positives = 69/72 (96%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGL+FGRVARFVRNFMKEQSGETAILDAFKA+H AVQ+QS
+Sbjct  198  VIGIGAGAETDGQVLVVQDMLGLSFGRVARFVRNFMKEQSGETAILDAFKAYHQAVQNQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPA+EHTFQVEL
+Sbjct  258  FPAREHTFQVEL  269
+
+
+>WP_026444146.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Acinetobacter]
+Length=269
+
+ Score = 135 bits (340),  Expect = 5e-038, Method: Compositional matrix adjust.
+ Identities = 64/72 (89%), Positives = 69/72 (96%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGL+FGRVARFVRNFMKEQSGETAILDAFKA+H AVQ+QS
+Sbjct  198  VIGIGAGAETDGQVLVVQDMLGLSFGRVARFVRNFMKEQSGETAILDAFKAYHQAVQNQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPA+EHTFQVEL
+Sbjct  258  FPAREHTFQVEL  269
+
+
+>WP_005023504.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Acinetobacter]
+Length=269
+
+ Score = 135 bits (340),  Expect = 5e-038, Method: Compositional matrix adjust.
+ Identities = 64/72 (89%), Positives = 69/72 (96%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGL+FGRVARFVRNFMKEQSGETAILDAFKA+H AVQ+QS
+Sbjct  198  VIGIGAGAETDGQVLVVQDMLGLSFGRVARFVRNFMKEQSGETAILDAFKAYHQAVQNQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPA+EHTFQVEL
+Sbjct  258  FPAREHTFQVEL  269
+
+
+>WP_005405953.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Acinetobacter]
+Length=269
+
+ Score = 135 bits (340),  Expect = 5e-038, Method: Compositional matrix adjust.
+ Identities = 64/72 (89%), Positives = 69/72 (96%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGL+FGRVARFVRNFMKEQSGETAILDAFKA+H AVQ+QS
+Sbjct  198  VIGIGAGAETDGQVLVVQDMLGLSFGRVARFVRNFMKEQSGETAILDAFKAYHQAVQNQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPA+EHTFQVEL
+Sbjct  258  FPAREHTFQVEL  269
+
+
+>WP_075040866.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+radioresistens]
+Length=269
+
+ Score = 135 bits (340),  Expect = 5e-038, Method: Compositional matrix adjust.
+ Identities = 64/72 (89%), Positives = 69/72 (96%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGL+FGRVARFVRNFMKEQSGETAILDAFKA+H AVQ+QS
+Sbjct  198  VIGIGAGAETDGQVLVVQDMLGLSFGRVARFVRNFMKEQSGETAILDAFKAYHQAVQNQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPA+EHTFQVEL
+Sbjct  258  FPAREHTFQVEL  269
+
+
+>WP_086204068.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. ANC 4999]
+Length=269
+
+ Score = 135 bits (339),  Expect = 6e-038, Method: Compositional matrix adjust.
+ Identities = 64/72 (89%), Positives = 69/72 (96%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG ATDGQVLVVQDMLGLTFG+VARFVRNFMKEQ+GETAI+DAFKA+H AV DQS
+Sbjct  198  VIGIGAGVATDGQVLVVQDMLGLTFGKVARFVRNFMKEQAGETAIMDAFKAYHVAVLDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_007479518.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Acinetobacter]
+Length=269
+
+ Score = 134 bits (338),  Expect = 9e-038, Method: Compositional matrix adjust.
+ Identities = 63/72 (88%), Positives = 69/72 (96%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG+ TDGQVLVVQDMLGLTFG+VARFVRNFMKEQ+GETAI+DA KA+H AVQDQS
+Sbjct  198  VIGIGAGHETDGQVLVVQDMLGLTFGKVARFVRNFMKEQAGETAIVDAIKAYHVAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_068973290.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. WCHA60]
+Length=269
+
+ Score = 134 bits (338),  Expect = 1e-037, Method: Compositional matrix adjust.
+ Identities = 65/72 (90%), Positives = 69/72 (96%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGLTFG+VARFVRNFMKEQ+GETAI+DAFKAFHAAV DQS
+Sbjct  198  VIGIGAGVETDGQVLVVQDMLGLTFGKVARFVRNFMKEQAGETAIVDAFKAFHAAVLDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_061392077.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+venetianus]
+Length=269
+
+ Score = 134 bits (338),  Expect = 1e-037, Method: Compositional matrix adjust.
+ Identities = 63/72 (88%), Positives = 69/72 (96%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG+ TDGQVLVVQDMLGLTFG+VARFVRNFMKEQ+GETAI+DA KA+H AVQDQS
+Sbjct  198  VIGIGAGHETDGQVLVVQDMLGLTFGKVARFVRNFMKEQAGETAIVDAIKAYHVAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_031234833.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Acinetobacter]
+Length=269
+
+ Score = 134 bits (338),  Expect = 1e-037, Method: Compositional matrix adjust.
+ Identities = 63/72 (88%), Positives = 69/72 (96%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG+ TDGQVLVVQDMLGLTFG+VARFVRNFMKEQ+GETAI+DA KA+H AVQDQS
+Sbjct  198  VIGIGAGHETDGQVLVVQDMLGLTFGKVARFVRNFMKEQAGETAIVDAIKAYHVAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>XP_005970929.1 PREDICTED: probable 3-methyl-2-oxobutanoate hydroxymethyltransferase-like 
+[Pantholops hodgsonii]
+Length=243
+
+ Score = 133 bits (334),  Expect = 2e-037, Method: Compositional matrix adjust.
+ Identities = 63/72 (88%), Positives = 69/72 (96%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGLTFG+VARFVRNFMKEQ+GETAI+DAFKA+H AVQ+QS
+Sbjct  172  VIGIGAGADTDGQVLVVQDMLGLTFGKVARFVRNFMKEQAGETAIVDAFKAYHVAVQEQS  231
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  232  FPAKEHTFQVEL  243
+
+
+>WP_004924492.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Acinetobacter]
+Length=269
+
+ Score = 133 bits (335),  Expect = 2e-037, Method: Compositional matrix adjust.
+ Identities = 62/72 (86%), Positives = 69/72 (96%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLV QDMLGL+FG+VARFVRNFMKEQ+GETAI+DAFKA+HAAVQDQS
+Sbjct  198  VIGIGAGKETDGQVLVAQDMLGLSFGKVARFVRNFMKEQAGETAIVDAFKAYHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPA+EHTFQVEL
+Sbjct  258  FPAREHTFQVEL  269
+
+
+>WP_004725927.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Acinetobacter]
+Length=269
+
+ Score = 133 bits (335),  Expect = 3e-037, Method: Compositional matrix adjust.
+ Identities = 63/72 (88%), Positives = 69/72 (96%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGLTFG+VARFVRNFMKEQ+GETAI+DAFKA+H AVQ+QS
+Sbjct  198  VIGIGAGADTDGQVLVVQDMLGLTFGKVARFVRNFMKEQAGETAIVDAFKAYHVAVQEQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_010113783.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. P8-3-8]
+Length=269
+
+ Score = 133 bits (335),  Expect = 3e-037, Method: Compositional matrix adjust.
+ Identities = 63/72 (88%), Positives = 69/72 (96%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGLTFG+VARFVRNFMKEQ+GETAI+DAFKA+H AVQDQS
+Sbjct  198  VIGIGAGVETDGQVLVVQDMLGLTFGKVARFVRNFMKEQAGETAIVDAFKAYHVAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPA+EHTFQVEL
+Sbjct  258  FPAQEHTFQVEL  269
+
+
+>WP_067866438.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. SFB]
+Length=269
+
+ Score = 133 bits (335),  Expect = 3e-037, Method: Compositional matrix adjust.
+ Identities = 64/72 (89%), Positives = 69/72 (96%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGLTFGRVA+FVRNFMKEQ+GETAILDAFKA+HAAVQ+ S
+Sbjct  198  VIGIGAGADTDGQVLVVQDMLGLTFGRVAKFVRNFMKEQAGETAILDAFKAYHAAVQEGS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_054580222.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+equi]
+Length=269
+
+ Score = 133 bits (335),  Expect = 3e-037, Method: Compositional matrix adjust.
+ Identities = 64/72 (89%), Positives = 68/72 (94%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGN TDGQVLVVQDMLGLTFGRVA+FVRNFMKEQ+GETAILDAFKA+H AVQD S
+Sbjct  198  VIGIGAGNDTDGQVLVVQDMLGLTFGRVAKFVRNFMKEQAGETAILDAFKAYHQAVQDGS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKE TFQVEL
+Sbjct  258  FPAKEQTFQVEL  269
+
+
+>WP_086205833.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. ANC 4648]
+Length=269
+
+ Score = 133 bits (334),  Expect = 3e-037, Method: Compositional matrix adjust.
+ Identities = 63/72 (88%), Positives = 68/72 (94%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG ATDGQVLVVQDMLGLTFG+VARFVRNFMKEQ+GETAI+DAFKA+H AV DQS
+Sbjct  198  VIGIGAGVATDGQVLVVQDMLGLTFGKVARFVRNFMKEQAGETAIMDAFKAYHVAVLDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPA EHTFQVEL
+Sbjct  258  FPAPEHTFQVEL  269
+
+
+>WP_068885416.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+celticus]
+Length=269
+
+ Score = 133 bits (334),  Expect = 4e-037, Method: Compositional matrix adjust.
+ Identities = 63/72 (88%), Positives = 68/72 (94%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGLTFGRVA+FVRNFMKEQSGETAILDAFKA+H AV +QS
+Sbjct  198  VIGIGAGVDTDGQVLVVQDMLGLTFGRVAKFVRNFMKEQSGETAILDAFKAYHVAVMEQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQ+EL
+Sbjct  258  FPAKEHTFQIEL  269
+
+
+>WP_086181137.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. ANC 4558]
+Length=269
+
+ Score = 132 bits (333),  Expect = 5e-037, Method: Compositional matrix adjust.
+ Identities = 64/72 (89%), Positives = 68/72 (94%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGLTFGRVA+FVRNFMKEQSGETAI+DAFKAFH AVQD S
+Sbjct  198  VIGIGAGLETDGQVLVVQDMLGLTFGRVAKFVRNFMKEQSGETAIVDAFKAFHLAVQDGS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPA+EHTFQVEL
+Sbjct  258  FPAREHTFQVEL  269
+
+
+>WP_086190433.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. ANC 3832]
+Length=269
+
+ Score = 132 bits (332),  Expect = 6e-037, Method: Compositional matrix adjust.
+ Identities = 62/72 (86%), Positives = 68/72 (94%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGLTFG+VARFVRNFMKEQ+GETAI+DAFKA+H AVQDQS
+Sbjct  198  VIGIGAGVETDGQVLVVQDMLGLTFGKVARFVRNFMKEQAGETAIMDAFKAYHVAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPA EH+FQVEL
+Sbjct  258  FPAPEHSFQVEL  269
+
+
+>WP_067655993.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. TGL-Y2]
+Length=269
+
+ Score = 132 bits (332),  Expect = 6e-037, Method: Compositional matrix adjust.
+ Identities = 64/72 (89%), Positives = 67/72 (93%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLV QDMLGLTFGRVARFVRNFMKEQSGETAI+DAFKA+H AVQDQS
+Sbjct  198  VIGIGAGVDTDGQVLVSQDMLGLTFGRVARFVRNFMKEQSGETAIVDAFKAYHLAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEH FQVEL
+Sbjct  258  FPAKEHMFQVEL  269
+
+
+>WP_075175123.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+indicus]
+Length=269
+
+ Score = 132 bits (332),  Expect = 7e-037, Method: Compositional matrix adjust.
+ Identities = 64/72 (89%), Positives = 68/72 (94%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGLTFGRVA+FVRNFMKEQSGETAILDAFKA+HAAVQD S
+Sbjct  198  VIGIGAGADTDGQVLVVQDMLGLTFGRVAKFVRNFMKEQSGETAILDAFKAYHAAVQDGS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPA+E TFQVEL
+Sbjct  258  FPAREQTFQVEL  269
+
+
+>WP_005182412.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Acinetobacter]
+Length=269
+
+ Score = 132 bits (332),  Expect = 7e-037, Method: Compositional matrix adjust.
+ Identities = 64/72 (89%), Positives = 68/72 (94%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGLTFGRVA+FVRNFMKEQSGETAILDAFKA+HAAVQD S
+Sbjct  198  VIGIGAGADTDGQVLVVQDMLGLTFGRVAKFVRNFMKEQSGETAILDAFKAYHAAVQDGS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPA+E TFQVEL
+Sbjct  258  FPAREQTFQVEL  269
+
+
+>WP_086192914.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. ANC 4655]
+Length=269
+
+ Score = 132 bits (332),  Expect = 8e-037, Method: Compositional matrix adjust.
+ Identities = 64/72 (89%), Positives = 68/72 (94%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGLTFGRVA+FVRNFMKEQ+GETAILDAFKA+HAAVQD S
+Sbjct  198  VIGIGAGADTDGQVLVVQDMLGLTFGRVAKFVRNFMKEQAGETAILDAFKAYHAAVQDGS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKE TFQVEL
+Sbjct  258  FPAKEQTFQVEL  269
+
+
+>WP_067721987.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. SFC]
+Length=269
+
+ Score = 132 bits (332),  Expect = 8e-037, Method: Compositional matrix adjust.
+ Identities = 64/72 (89%), Positives = 68/72 (94%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGLTFGRVA+FVRNFMKEQ+GETAILDAFKA+HAAVQD S
+Sbjct  198  VIGIGAGADTDGQVLVVQDMLGLTFGRVAKFVRNFMKEQAGETAILDAFKAYHAAVQDGS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKE TFQVEL
+Sbjct  258  FPAKEQTFQVEL  269
+
+
+>WP_070154830.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+towneri]
+Length=269
+
+ Score = 131 bits (330),  Expect = 1e-036, Method: Compositional matrix adjust.
+ Identities = 63/72 (88%), Positives = 68/72 (94%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGLTFGRVA+FVRNFMKEQ+GETAILDAFKA+HAAVQD S
+Sbjct  198  VIGIGAGADTDGQVLVVQDMLGLTFGRVAKFVRNFMKEQAGETAILDAFKAYHAAVQDGS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPA+E TFQVEL
+Sbjct  258  FPAREQTFQVEL  269
+
+
+>WP_035265341.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. Ver3]
+Length=269
+
+ Score = 131 bits (330),  Expect = 1e-036, Method: Compositional matrix adjust.
+ Identities = 63/72 (88%), Positives = 66/72 (92%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGL FGRVARFVRNFMKEQSGETAILDA K++H AV DQS
+Sbjct  198  VIGIGAGAQTDGQVLVVQDMLGLNFGRVARFVRNFMKEQSGETAILDAIKSYHVAVLDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_004975120.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+towneri]
+Length=269
+
+ Score = 131 bits (330),  Expect = 1e-036, Method: Compositional matrix adjust.
+ Identities = 63/72 (88%), Positives = 68/72 (94%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGLTFGRVA+FVRNFMKEQ+GETAILDAFKA+HAAVQD S
+Sbjct  198  VIGIGAGADTDGQVLVVQDMLGLTFGRVAKFVRNFMKEQAGETAILDAFKAYHAAVQDGS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPA+E TFQVEL
+Sbjct  258  FPAREQTFQVEL  269
+
+
+>WP_039621067.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+harbinensis]
+Length=269
+
+ Score = 131 bits (330),  Expect = 2e-036, Method: Compositional matrix adjust.
+ Identities = 63/72 (88%), Positives = 69/72 (96%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGLTFGRVA+FVRNFMKEQ+GETAILDAFKA+HAAVQ+ S
+Sbjct  198  VIGIGAGVDTDGQVLVVQDMLGLTFGRVAKFVRNFMKEQAGETAILDAFKAYHAAVQEGS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPA+EHTFQVEL
+Sbjct  258  FPAQEHTFQVEL  269
+
+
+>WP_009584378.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Acinetobacter]
+Length=269
+
+ Score = 130 bits (327),  Expect = 4e-036, Method: Compositional matrix adjust.
+ Identities = 61/72 (85%), Positives = 68/72 (94%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGLTFG+VARFVRNFM EQ+GETAI+DAFKA+H AVQD+S
+Sbjct  198  IIGIGAGADTDGQVLVVQDMLGLTFGKVARFVRNFMTEQTGETAIVDAFKAYHLAVQDKS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FP+KEHTFQVEL
+Sbjct  258  FPSKEHTFQVEL  269
+
+
+>WP_058971743.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+bereziniae]
+Length=269
+
+ Score = 130 bits (327),  Expect = 4e-036, Method: Compositional matrix adjust.
+ Identities = 61/72 (85%), Positives = 68/72 (94%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGLTFG+VARFVRNFM EQ+GETAI+DAFKA+H AVQD+S
+Sbjct  198  VIGIGAGADTDGQVLVVQDMLGLTFGKVARFVRNFMTEQTGETAIVDAFKAYHLAVQDKS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FP+KEHTFQVEL
+Sbjct  258  FPSKEHTFQVEL  269
+
+
+>WP_086165003.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. ANC 4654]
+Length=269
+
+ Score = 130 bits (327),  Expect = 4e-036, Method: Compositional matrix adjust.
+ Identities = 63/72 (88%), Positives = 68/72 (94%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGLTFGRVA+FVRNFMKEQ+GETAILDAFKA+HAAV + S
+Sbjct  198  VIGIGAGVDTDGQVLVVQDMLGLTFGRVAKFVRNFMKEQAGETAILDAFKAYHAAVLEGS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_004824979.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Acinetobacter]
+Length=269
+
+ Score = 130 bits (327),  Expect = 5e-036, Method: Compositional matrix adjust.
+ Identities = 61/72 (85%), Positives = 68/72 (94%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGLTFG+VARFVRNFM EQ+GETAI+DAFKA+H AVQD+S
+Sbjct  198  VIGIGAGADTDGQVLVVQDMLGLTFGKVARFVRNFMTEQTGETAIVDAFKAYHLAVQDKS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FP+KEHTFQVEL
+Sbjct  258  FPSKEHTFQVEL  269
+
+
+>WP_005033852.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+bereziniae]
+Length=269
+
+ Score = 130 bits (327),  Expect = 5e-036, Method: Compositional matrix adjust.
+ Identities = 61/72 (85%), Positives = 68/72 (94%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGLTFG+VARFVRNFM EQ+GETAI+DAFKA+H AVQD+S
+Sbjct  198  VIGIGAGADTDGQVLVVQDMLGLTFGKVARFVRNFMTEQTGETAIVDAFKAYHLAVQDKS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FP+KEHTFQVEL
+Sbjct  258  FPSKEHTFQVEL  269
+
+
+>WP_063454474.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+johnsonii]
+Length=269
+
+ Score = 130 bits (326),  Expect = 6e-036, Method: Compositional matrix adjust.
+ Identities = 63/72 (88%), Positives = 67/72 (93%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGLTFGRVA+FVRNFMKEQ+GETAILDAFKA+HAAV D S
+Sbjct  198  VIGIGAGVDTDGQVLVVQDMLGLTFGRVAKFVRNFMKEQAGETAILDAFKAYHAAVLDSS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKE TFQVEL
+Sbjct  258  FPAKEQTFQVEL  269
+
+
+>WP_004649824.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+bohemicus]
+Length=269
+
+ Score = 130 bits (326),  Expect = 6e-036, Method: Compositional matrix adjust.
+ Identities = 63/72 (88%), Positives = 67/72 (93%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGLTFGRVA+FVRNFMKEQ+GETAILDAFKA+HAAV D S
+Sbjct  198  VIGIGAGVDTDGQVLVVQDMLGLTFGRVAKFVRNFMKEQAGETAILDAFKAYHAAVLDSS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKE TFQVEL
+Sbjct  258  FPAKEQTFQVEL  269
+
+
+>WP_074943566.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+bohemicus]
+Length=269
+
+ Score = 130 bits (326),  Expect = 6e-036, Method: Compositional matrix adjust.
+ Identities = 63/72 (88%), Positives = 67/72 (93%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGLTFGRVA+FVRNFMKEQ+GETAILDAFKA+HAAV D S
+Sbjct  198  VIGIGAGVDTDGQVLVVQDMLGLTFGRVAKFVRNFMKEQAGETAILDAFKAYHAAVLDSS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKE TFQVEL
+Sbjct  258  FPAKEQTFQVEL  269
+
+
+>WP_062033375.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. BMW17]
+Length=269
+
+ Score = 130 bits (326),  Expect = 6e-036, Method: Compositional matrix adjust.
+ Identities = 63/72 (88%), Positives = 67/72 (93%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGLTFGRVA+FVRNFMKEQ+GETAILDAFKA+HAAV D S
+Sbjct  198  VIGIGAGVDTDGQVLVVQDMLGLTFGRVAKFVRNFMKEQAGETAILDAFKAYHAAVLDSS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKE TFQVEL
+Sbjct  258  FPAKEQTFQVEL  269
+
+
+>WP_010325933.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Acinetobacter]
+Length=269
+
+ Score = 130 bits (326),  Expect = 6e-036, Method: Compositional matrix adjust.
+ Identities = 63/72 (88%), Positives = 67/72 (93%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGLTFGRVA+FVRNFMKEQ+GETAILDAFKA+HAAV D S
+Sbjct  198  VIGIGAGVDTDGQVLVVQDMLGLTFGRVAKFVRNFMKEQAGETAILDAFKAYHAAVLDSS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKE TFQVEL
+Sbjct  258  FPAKEQTFQVEL  269
+
+
+>WP_004692301.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Acinetobacter]
+Length=269
+
+ Score = 130 bits (326),  Expect = 7e-036, Method: Compositional matrix adjust.
+ Identities = 63/72 (88%), Positives = 67/72 (93%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGLTFGRVA+FVRNFMKEQ+GETAILDAFKA+HAAV D S
+Sbjct  198  VIGIGAGVDTDGQVLVVQDMLGLTFGRVAKFVRNFMKEQAGETAILDAFKAYHAAVLDSS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKE TFQVEL
+Sbjct  258  FPAKEQTFQVEL  269
+
+
+>WP_019836307.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. MDS7A]
+Length=269
+
+ Score = 129 bits (325),  Expect = 9e-036, Method: Compositional matrix adjust.
+ Identities = 62/72 (86%), Positives = 67/72 (93%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGLTFGRVA+FVRNFMKEQ+GE AILDAFKA+HAAVQD S
+Sbjct  198  VIGIGAGADTDGQVLVVQDMLGLTFGRVAKFVRNFMKEQAGENAILDAFKAYHAAVQDGS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPA+E TFQVEL
+Sbjct  258  FPAREQTFQVEL  269
+
+
+>WP_086195381.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. ANC 4218]
+Length=269
+
+ Score = 129 bits (324),  Expect = 1e-035, Method: Compositional matrix adjust.
+ Identities = 63/72 (88%), Positives = 67/72 (93%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGLT G VA+FVRNFMKEQ+GETAILDAFKA+HAAVQDQS
+Sbjct  198  VIGIGAGADTDGQVLVVQDMLGLTGGHVAKFVRNFMKEQAGETAILDAFKAYHAAVQDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKE TFQVEL
+Sbjct  258  FPAKEQTFQVEL  269
+
+
+>WP_086187125.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. ANC 4470]
+Length=269
+
+ Score = 129 bits (323),  Expect = 2e-035, Method: Compositional matrix adjust.
+ Identities = 62/72 (86%), Positives = 67/72 (93%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGLTFGRVA+FVRNFMKEQ+GETAILDAFKA+H AV + S
+Sbjct  198  VIGIGAGVDTDGQVLVVQDMLGLTFGRVAKFVRNFMKEQAGETAILDAFKAYHTAVLEGS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQVEL
+Sbjct  258  FPAKEHTFQVEL  269
+
+
+>WP_045795984.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+indicus]
+Length=269
+
+ Score = 129 bits (323),  Expect = 2e-035, Method: Compositional matrix adjust.
+ Identities = 63/72 (88%), Positives = 66/72 (92%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGLTFGRVA+FVRNFMKEQSGE AILDAFKA+HAAVQD S
+Sbjct  198  VIGIGAGADTDGQVLVVQDMLGLTFGRVAKFVRNFMKEQSGEMAILDAFKAYHAAVQDGS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPA E TFQVEL
+Sbjct  258  FPAHEQTFQVEL  269
+
+
+>WP_086209851.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. ANC 4204]
+Length=269
+
+ Score = 129 bits (323),  Expect = 2e-035, Method: Compositional matrix adjust.
+ Identities = 62/72 (86%), Positives = 67/72 (93%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGLTFGRVA+FVRNFMKEQ+GETAILDAFKA+H AV D+S
+Sbjct  198  VIGIGAGVDTDGQVLVVQDMLGLTFGRVAKFVRNFMKEQAGETAILDAFKAYHTAVLDRS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKE TFQVEL
+Sbjct  258  FPAKEQTFQVEL  269
+
+
+>WP_086175844.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. ANC 3903]
+Length=269
+
+ Score = 127 bits (319),  Expect = 7e-035, Method: Compositional matrix adjust.
+ Identities = 62/72 (86%), Positives = 66/72 (92%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGLT G VA+FVRNFMKEQ+GETAILDAFKA+HAAVQD S
+Sbjct  198  VIGIGAGADTDGQVLVVQDMLGLTGGHVAKFVRNFMKEQAGETAILDAFKAYHAAVQDHS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKE TFQVEL
+Sbjct  258  FPAKEQTFQVEL  269
+
+
+>WP_005007510.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+bouvetii]
+Length=269
+
+ Score = 126 bits (316),  Expect = 2e-034, Method: Compositional matrix adjust.
+ Identities = 60/72 (83%), Positives = 65/72 (90%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGL F  VA+FVRNFMKEQ+GETAILDAFKA+HAAVQD S
+Sbjct  198  VIGIGAGAETDGQVLVVQDMLGLNFSHVAKFVRNFMKEQAGETAILDAFKAYHAAVQDGS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPA EHTFQ+EL
+Sbjct  258  FPAVEHTFQIEL  269
+
+
+>WP_004782128.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. NIPH 899]
+Length=269
+
+ Score = 125 bits (313),  Expect = 6e-034, Method: Compositional matrix adjust.
+ Identities = 61/72 (85%), Positives = 64/72 (89%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG ATDGQVLVVQDMLGLTFG  A+FVRNFMKEQSG TAILDAFKA+HAAV D S
+Sbjct  198  VIGIGAGAATDGQVLVVQDMLGLTFGHTAKFVRNFMKEQSGATAILDAFKAYHAAVLDGS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPA E TFQVEL
+Sbjct  258  FPAPEQTFQVEL  269
+
+
+>WP_005232106.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. NIPH 2171]
+Length=269
+
+ Score = 125 bits (313),  Expect = 6e-034, Method: Compositional matrix adjust.
+ Identities = 61/72 (85%), Positives = 64/72 (89%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG ATDGQVLVVQDMLGLTFG  A+FVRNFMKEQSG TAILDAFKA+HAAV D S
+Sbjct  198  VIGIGAGAATDGQVLVVQDMLGLTFGHTAKFVRNFMKEQSGATAILDAFKAYHAAVLDGS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPA E TFQVEL
+Sbjct  258  FPAPEQTFQVEL  269
+
+
+>WP_034169912.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Acinetobacter]
+Length=269
+
+ Score = 125 bits (313),  Expect = 6e-034, Method: Compositional matrix adjust.
+ Identities = 61/72 (85%), Positives = 64/72 (89%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG ATDGQVLVVQDMLGLTFG  A+FVRNFMKEQSG TAILDAFKA+HAAV D S
+Sbjct  198  VIGIGAGAATDGQVLVVQDMLGLTFGHTAKFVRNFMKEQSGATAILDAFKAYHAAVLDGS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPA E TFQVEL
+Sbjct  258  FPAPEQTFQVEL  269
+
+
+>WP_071850421.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. AR2-3]
+Length=269
+
+ Score = 123 bits (308),  Expect = 3e-033, Method: Compositional matrix adjust.
+ Identities = 60/72 (83%), Positives = 64/72 (89%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG ATDGQVLVVQDMLGLTFG  A+FVRNFM+EQSG TAILDAFKA+HAAV D S
+Sbjct  198  VIGIGAGAATDGQVLVVQDMLGLTFGHTAKFVRNFMQEQSGATAILDAFKAYHAAVLDGS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPA E TFQVEL
+Sbjct  258  FPAPEQTFQVEL  269
+
+
+>WP_004278337.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Acinetobacter]
+Length=269
+
+ Score = 123 bits (308),  Expect = 3e-033, Method: Compositional matrix adjust.
+ Identities = 60/72 (83%), Positives = 64/72 (89%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG ATDGQVLVVQDMLGLTFG  A+FVRNFM+EQSG TAILDAFKA+HAAV D S
+Sbjct  198  VIGIGAGAATDGQVLVVQDMLGLTFGHTAKFVRNFMQEQSGATAILDAFKAYHAAVLDGS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPA E TFQVEL
+Sbjct  258  FPAPEQTFQVEL  269
+
+
+>WP_064094765.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. SFD]
+Length=269
+
+ Score = 123 bits (308),  Expect = 3e-033, Method: Compositional matrix adjust.
+ Identities = 60/72 (83%), Positives = 64/72 (89%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG ATDGQVLVVQDMLGLTFG  A+FVRNFM+EQSG TAILDAFKA+HAAV D S
+Sbjct  198  VIGIGAGAATDGQVLVVQDMLGLTFGHTAKFVRNFMQEQSGATAILDAFKAYHAAVLDGS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPA E TFQVEL
+Sbjct  258  FPAPEQTFQVEL  269
+
+
+>WP_085064509.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. 51m]
+Length=269
+
+ Score = 123 bits (308),  Expect = 3e-033, Method: Compositional matrix adjust.
+ Identities = 60/72 (83%), Positives = 64/72 (89%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG ATDGQVLVVQDMLGLTFG  A+FVRNFM+EQSG TAILDAFKA+HAAV D S
+Sbjct  198  VIGIGAGAATDGQVLVVQDMLGLTFGHTAKFVRNFMQEQSGATAILDAFKAYHAAVLDGS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPA E TFQVEL
+Sbjct  258  FPAPEQTFQVEL  269
+
+
+>WP_004733026.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+lwoffii]
+Length=269
+
+ Score = 123 bits (308),  Expect = 3e-033, Method: Compositional matrix adjust.
+ Identities = 60/72 (83%), Positives = 64/72 (89%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG ATDGQVLVVQDMLGLTFG  A+FVRNFM+EQSG TAILDAFKA+HAAV D S
+Sbjct  198  VIGIGAGAATDGQVLVVQDMLGLTFGHTAKFVRNFMQEQSGATAILDAFKAYHAAVLDGS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPA E TFQVEL
+Sbjct  258  FPAPEQTFQVEL  269
+
+
+>WP_086198362.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. ANC 4169]
+Length=269
+
+ Score = 122 bits (307),  Expect = 4e-033, Method: Compositional matrix adjust.
+ Identities = 60/72 (83%), Positives = 65/72 (90%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGLT G VA+FVRNFMKEQ+GETAILDAFKA+H AVQ+ S
+Sbjct  198  VIGIGAGADTDGQVLVVQDMLGLTGGHVAKFVRNFMKEQAGETAILDAFKAYHTAVQEGS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKE TFQVEL
+Sbjct  258  FPAKEQTFQVEL  269
+
+
+>WP_071320439.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. LCT-H3]
+Length=269
+
+ Score = 122 bits (305),  Expect = 7e-033, Method: Compositional matrix adjust.
+ Identities = 59/72 (82%), Positives = 62/72 (86%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGL FG  A+FVRNFMKEQSG  AILDAFKA+HAAV D S
+Sbjct  198  VIGIGAGVDTDGQVLVVQDMLGLNFGHTAKFVRNFMKEQSGANAILDAFKAYHAAVLDSS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPA EHTFQVEL
+Sbjct  258  FPAPEHTFQVEL  269
+
+
+>WP_086212823.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. ANC 3813]
+Length=269
+
+ Score = 122 bits (305),  Expect = 7e-033, Method: Compositional matrix adjust.
+ Identities = 59/72 (82%), Positives = 64/72 (89%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGLTFG VA+FVRNFM EQSG TAILDAFKA+HAAV + S
+Sbjct  198  VIGIGAGADTDGQVLVVQDMLGLTFGHVAKFVRNFMVEQSGATAILDAFKAYHAAVNEGS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPA EHTFQ+EL
+Sbjct  258  FPAVEHTFQIEL  269
+
+
+>WP_004813084.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Acinetobacter]
+Length=269
+
+ Score = 122 bits (305),  Expect = 8e-033, Method: Compositional matrix adjust.
+ Identities = 59/72 (82%), Positives = 62/72 (86%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGL FG  A+FVRNFMKEQSG  AILDAFKA+HAAV D S
+Sbjct  198  VIGIGAGVDTDGQVLVVQDMLGLNFGHTAKFVRNFMKEQSGANAILDAFKAYHAAVLDSS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPA EHTFQVEL
+Sbjct  258  FPAPEHTFQVEL  269
+
+
+>WP_078189597.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. ANC 4945]
+Length=269
+
+ Score = 121 bits (304),  Expect = 1e-032, Method: Compositional matrix adjust.
+ Identities = 58/72 (81%), Positives = 64/72 (89%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TD QVLV QDMLGLTF  VA+FVRNFMKEQ+GETAI+DAFKA+HAAV D S
+Sbjct  198  VIGIGAGAETDAQVLVQQDMLGLTFSHVAKFVRNFMKEQAGETAIVDAFKAYHAAVLDGS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQ+EL
+Sbjct  258  FPAKEHTFQIEL  269
+
+
+>WP_064102286.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. SFA]
+Length=269
+
+ Score = 121 bits (303),  Expect = 1e-032, Method: Compositional matrix adjust.
+ Identities = 59/72 (82%), Positives = 63/72 (88%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG ATDGQVLVVQDMLGLTFG  A+FVRNFM+EQSG TAILDAFK +HAAV D S
+Sbjct  198  VIGIGAGAATDGQVLVVQDMLGLTFGHTAKFVRNFMQEQSGATAILDAFKVYHAAVLDGS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPA E TFQVEL
+Sbjct  258  FPAPEQTFQVEL  269
+
+
+>WP_078192649.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. ANC 5600]
+Length=269
+
+ Score = 121 bits (303),  Expect = 1e-032, Method: Compositional matrix adjust.
+ Identities = 58/72 (81%), Positives = 64/72 (89%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TD QVLV QDMLGLTF  VA+FVRNFMKEQ+GETAI+DAFKA+HAAV D S
+Sbjct  198  VIGIGAGADTDAQVLVQQDMLGLTFSHVAKFVRNFMKEQAGETAIVDAFKAYHAAVLDGS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQ+EL
+Sbjct  258  FPAKEHTFQIEL  269
+
+
+>WP_005172651.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. NIPH 713]
+Length=269
+
+ Score = 120 bits (302),  Expect = 3e-032, Method: Compositional matrix adjust.
+ Identities = 59/72 (82%), Positives = 63/72 (88%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG ATDGQVLVVQDMLGLTFG  A+FVRNFM+EQSG TAILDAFKA+HAAV D S
+Sbjct  198  VIGIGAGAATDGQVLVVQDMLGLTFGHTAKFVRNFMQEQSGATAILDAFKAYHAAVLDGS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPA   TFQVEL
+Sbjct  258  FPAPAQTFQVEL  269
+
+
+>WP_074384037.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+lwoffii]
+Length=269
+
+ Score = 120 bits (301),  Expect = 3e-032, Method: Compositional matrix adjust.
+ Identities = 59/72 (82%), Positives = 63/72 (88%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG ATDGQVLVVQDMLGLTFG  A+FVRNFM+EQSG TAILDAFKA+HAAV D S
+Sbjct  198  VIGIGAGAATDGQVLVVQDMLGLTFGHTAKFVRNFMQEQSGATAILDAFKAYHAAVLDGS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPA   TFQVEL
+Sbjct  258  FPAPAQTFQVEL  269
+
+
+>WP_005095698.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+lwoffii]
+Length=269
+
+ Score = 120 bits (301),  Expect = 3e-032, Method: Compositional matrix adjust.
+ Identities = 59/72 (82%), Positives = 63/72 (88%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG ATDGQVLVVQDMLGLTFG  A+FVRNFM+EQSG TAILDAFKA+HAAV D S
+Sbjct  198  VIGIGAGAATDGQVLVVQDMLGLTFGHTAKFVRNFMQEQSGATAILDAFKAYHAAVLDGS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPA   TFQVEL
+Sbjct  258  FPAPAQTFQVEL  269
+
+
+>WP_034587214.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. HR7]
+Length=269
+
+ Score = 120 bits (300),  Expect = 5e-032, Method: Compositional matrix adjust.
+ Identities = 58/72 (81%), Positives = 62/72 (86%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGL FG  A+FVRNFM+EQSG  AILDAFKA+HAAV D S
+Sbjct  198  VIGIGAGADTDGQVLVVQDMLGLNFGHTAKFVRNFMQEQSGANAILDAFKAYHAAVLDGS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPA EHTFQVEL
+Sbjct  258  FPAPEHTFQVEL  269
+
+
+>WP_067728431.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. NCu2D-2]
+Length=269
+
+ Score = 120 bits (300),  Expect = 5e-032, Method: Compositional matrix adjust.
+ Identities = 58/72 (81%), Positives = 62/72 (86%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGL FG  A+FVRNFM EQSG TAI+DA KA+HAAV DQS
+Sbjct  198  VIGIGAGAETDGQVLVVQDMLGLNFGHTAKFVRNFMVEQSGATAIVDAIKAYHAAVLDQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPA EHTFQVEL
+Sbjct  258  FPAPEHTFQVEL  269
+
+
+>WP_086179232.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. ANC 5054]
+Length=269
+
+ Score = 119 bits (299),  Expect = 6e-032, Method: Compositional matrix adjust.
+ Identities = 57/72 (79%), Positives = 64/72 (89%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGL F  VA+FVRNFMKEQ+GETAI+DAFKA+HAAV + S
+Sbjct  198  VIGIGAGAETDGQVLVVQDMLGLNFSHVAKFVRNFMKEQAGETAIVDAFKAYHAAVLNGS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPA EHTFQ+EL
+Sbjct  258  FPAIEHTFQIEL  269
+
+
+>WP_067763497.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+gandensis]
+Length=269
+
+ Score = 118 bits (296),  Expect = 2e-031, Method: Compositional matrix adjust.
+ Identities = 56/72 (78%), Positives = 63/72 (88%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TD QVLV QDMLGLTF  VA+FVRNFMKEQ+GETAI+DAFKA+HAAV D +
+Sbjct  198  VIGIGAGAETDAQVLVQQDMLGLTFSHVAKFVRNFMKEQAGETAIVDAFKAYHAAVLDGT  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPA EHTFQ+EL
+Sbjct  258  FPAPEHTFQIEL  269
+
+
+>WP_045794195.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+brisouii]
+Length=269
+
+ Score = 118 bits (296),  Expect = 2e-031, Method: Compositional matrix adjust.
+ Identities = 57/72 (79%), Positives = 63/72 (88%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGLTFG+VA+FVRNFM EQSGE AI+DA KA+H AV +QS
+Sbjct  198  VIGIGAGKDTDGQVLVVQDMLGLTFGKVAKFVRNFMAEQSGEHAIVDALKAYHQAVLEQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FP  EHTFQVEL
+Sbjct  258  FPNIEHTFQVEL  269
+
+
+>WP_008303417.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. HA]
+Length=269
+
+ Score = 118 bits (295),  Expect = 2e-031, Method: Compositional matrix adjust.
+ Identities = 58/72 (81%), Positives = 61/72 (85%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGL FG  A+FVRNFMKEQ G  AILDAFKA+HAAV D S
+Sbjct  198  VIGIGAGVDTDGQVLVVQDMLGLNFGHTAKFVRNFMKEQLGANAILDAFKAYHAAVLDGS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPA EHTFQVEL
+Sbjct  258  FPAPEHTFQVEL  269
+
+
+>WP_067666352.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. ANC 4149]
+Length=269
+
+ Score = 117 bits (294),  Expect = 3e-031, Method: Compositional matrix adjust.
+ Identities = 56/72 (78%), Positives = 63/72 (88%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGL F  VA+FVRNFMKEQ+GETAI+DAFKA+H AV   +
+Sbjct  198  VIGIGAGAETDGQVLVVQDMLGLNFSHVAKFVRNFMKEQAGETAIVDAFKAYHDAVLAGT  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQ+EL
+Sbjct  258  FPAKEHTFQIEL  269
+
+
+>WP_004903435.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+brisouii]
+Length=269
+
+ Score = 117 bits (294),  Expect = 4e-031, Method: Compositional matrix adjust.
+ Identities = 56/72 (78%), Positives = 63/72 (88%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGLTFG+VA+FVRNFM EQSGE AI+DA K++H AV +QS
+Sbjct  198  VIGIGAGKDTDGQVLVVQDMLGLTFGKVAKFVRNFMAEQSGEHAIVDALKSYHQAVLEQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FP  EHTFQVEL
+Sbjct  258  FPNIEHTFQVEL  269
+
+
+>WP_004753690.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. ANC 3789]
+Length=269
+
+ Score = 117 bits (292),  Expect = 8e-031, Method: Compositional matrix adjust.
+ Identities = 56/72 (78%), Positives = 63/72 (88%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGLTFG+VA+FVRNFM EQSGE AI++A KA+H AV +QS
+Sbjct  198  VIGIGAGKDTDGQVLVVQDMLGLTFGKVAKFVRNFMAEQSGEHAIVNALKAYHQAVLEQS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FP  EHTFQVEL
+Sbjct  258  FPNIEHTFQVEL  269
+
+
+>WP_070070936.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+qingfengensis]
+Length=270
+
+ Score = 116 bits (290),  Expect = 1e-030, Method: Compositional matrix adjust.
+ Identities = 56/72 (78%), Positives = 63/72 (88%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGL FG+VARFVRNFM+EQSGE AI++A KA+H AV +Q 
+Sbjct  197  VIGIGAGADTDGQVLVVQDMLGLNFGKVARFVRNFMREQSGEHAIVNAIKAYHDAVINQE  256
+
+Query  61   FPAKEHTFQVEL  72
+            FPA EHTFQVEL
+Sbjct  257  FPAIEHTFQVEL  268
+
+
+>WP_023272744.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+nectaris]
+Length=269
+
+ Score = 114 bits (285),  Expect = 8e-030, Method: Compositional matrix adjust.
+ Identities = 54/72 (75%), Positives = 62/72 (86%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGLTFGRVA+FVRNFM EQSG  AIL+A +A+H AV ++ 
+Sbjct  198  VIGIGAGADTDGQVLVVQDMLGLTFGRVAKFVRNFMVEQSGSQAILNALQAYHQAVHEKE  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPA EHTF+VEL
+Sbjct  258  FPAAEHTFRVEL  269
+
+
+>WP_016657427.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+rudis]
+Length=269
+
+ Score = 113 bits (283),  Expect = 2e-029, Method: Compositional matrix adjust.
+ Identities = 56/72 (78%), Positives = 59/72 (82%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGL  G VARFVRNFM+EQSG  AI DAFKA+H AVQ   
+Sbjct  198  VIGIGAGADTDGQVLVVQDMLGLNLGHVARFVRNFMQEQSGANAIHDAFKAYHQAVQTAE  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPA EHTFQVEL
+Sbjct  258  FPAIEHTFQVEL  269
+
+
+>WP_067557000.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+larvae]
+Length=269
+
+ Score = 111 bits (278),  Expect = 8e-029, Method: Compositional matrix adjust.
+ Identities = 54/72 (75%), Positives = 60/72 (83%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGL  G VARFV+NFM EQ+GE AI DAFKA+H AVQ  +
+Sbjct  198  VIGIGAGRGTDGQVLVVQDMLGLNAGHVARFVKNFMAEQAGEHAIRDAFKAYHLAVQAGT  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPA +HTFQVEL
+Sbjct  258  FPAPQHTFQVEL  269
+
+
+>WP_026471440.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Alkanindiges 
+illinoisensis]
+Length=268
+
+ Score = 107 bits (266),  Expect = 5e-027, Method: Compositional matrix adjust.
+ Identities = 47/72 (65%), Positives = 62/72 (86%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG   DGQVLV+QDMLGLTFG+ ARFVRNF+++Q GE  I++AFK++H AV++ +
+Sbjct  197  VIGIGAGLHCDGQVLVMQDMLGLTFGKSARFVRNFLQDQQGENPIVEAFKSYHQAVREGT  256
+
+Query  61   FPAKEHTFQVEL  72
+            +PA EHTFQ+EL
+Sbjct  257  YPAPEHTFQIEL  268
+
+
+>WP_068907770.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter 
+sp. WCHA34]
+Length=269
+
+ Score = 103 bits (256),  Expect = 1e-025, Method: Compositional matrix adjust.
+ Identities = 58/72 (81%), Positives = 64/72 (89%), Gaps = 0/72 (0%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVVQDMLGL FG VA+FVRNFMKEQ+G  AI DAFKA+HAAVQ+ S
+Sbjct  198  VIGIGAGADTDGQVLVVQDMLGLNFGHVAKFVRNFMKEQAGAAAIADAFKAYHAAVQEGS  257
+
+Query  61   FPAKEHTFQVEL  72
+            FPAKEHTFQ+EL
+Sbjct  258  FPAKEHTFQIEL  269
+
+
+>WP_076879001.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Alkanindiges 
+sp. H1]
+Length=272
+
+ Score = 100 bits (248),  Expect = 3e-024, Method: Compositional matrix adjust.
+ Identities = 47/76 (62%), Positives = 60/76 (79%), Gaps = 4/76 (5%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKE----QSGETAILDAFKAFHAAV  56
+            +IGIGAG   DGQVLV+QDMLGL FG+ ARFVRNF+++    Q  E  I+DAFK++H AV
+Sbjct  197  VIGIGAGLHCDGQVLVMQDMLGLNFGKSARFVRNFLQDQFHGQQSENPIVDAFKSYHQAV  256
+
+Query  57   QDQSFPAKEHTFQVEL  72
+            ++ S+PA EHTFQ+EL
+Sbjct  257  REGSYPAPEHTFQIEL  272
+
+
+>WP_028299609.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Oceanospirillum 
+beijerinckii]
+Length=263
+
+ Score = 88.6 bits (218),  Expect = 6e-020, Method: Compositional matrix adjust.
+ Identities = 41/68 (60%), Positives = 52/68 (76%), Gaps = 3/68 (4%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQ+LV+QDMLG+T GR ARFVRNFM +     +I +A K +H AV+D S
+Sbjct  199  VIGIGAGPHTDGQILVLQDMLGITMGRTARFVRNFMVDAQ---SIPEALKHYHQAVKDNS  255
+
+Query  61   FPAKEHTF  68
+            FP++EH F
+Sbjct  256  FPSEEHCF  263
+
+
+>WP_058339899.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Marinobacter 
+sp. P4B1]
+Length=264
+
+ Score = 85.9 bits (211),  Expect = 6e-019, Method: Compositional matrix adjust.
+ Identities = 41/69 (59%), Positives = 53/69 (77%), Gaps = 3/69 (4%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGN TDGQVLV+ DMLG+T GR  RFV+NF+ E     +I +A  A+  AV+D+S
+Sbjct  198  VIGIGAGNGTDGQVLVLHDMLGVTTGRKPRFVKNFLAETD---SIPEAIAAYAKAVKDRS  254
+
+Query  61   FPAKEHTFQ  69
+            FPA+EHTF+
+Sbjct  255  FPAEEHTFK  263
+
+
+>WP_068453683.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Oleiphilus]
+Length=262
+
+ Score = 85.9 bits (211),  Expect = 7e-019, Method: Compositional matrix adjust.
+ Identities = 40/68 (59%), Positives = 52/68 (76%), Gaps = 3/68 (4%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGN TDGQVLVV DMLG+T G++ RFV+NFM+E      + +A KA+  AV+D S
+Sbjct  198  VIGIGAGNVTDGQVLVVHDMLGMTPGKLPRFVKNFMEEAD---TVQEALKAYDQAVKDGS  254
+
+Query  61   FPAKEHTF  68
+            FP+ EH+F
+Sbjct  255  FPSTEHSF  262
+
+
+>WP_077379469.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Cobetia]
+Length=263
+
+ Score = 84.3 bits (207),  Expect = 3e-018, Method: Compositional matrix adjust.
+ Identities = 41/68 (60%), Positives = 51/68 (75%), Gaps = 3/68 (4%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG   DGQ+LV+ DML LT GR  RFV+NFM E S   ++ DAF A+H AV+++S
+Sbjct  199  VIGIGAGVEVDGQILVMHDMLDLTPGRKPRFVKNFMAEAS---SVQDAFAAYHRAVKERS  255
+
+Query  61   FPAKEHTF  68
+            FPA EHTF
+Sbjct  256  FPATEHTF  263
+
+
+>WP_019952569.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Kushneria aurantia]
+Length=264
+
+ Score = 84.0 bits (206),  Expect = 3e-018, Method: Compositional matrix adjust.
+ Identities = 39/68 (57%), Positives = 51/68 (75%), Gaps = 3/68 (4%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG   DGQ+LV+ DMLG T GRV RFVRNF+   +G  ++ DAF+A+H AV+++ 
+Sbjct  200  VIGIGAGPEVDGQILVMHDMLGATSGRVPRFVRNFL---AGSGSLQDAFRAYHEAVRERR  256
+
+Query  61   FPAKEHTF  68
+            FPA EH F
+Sbjct  257  FPADEHCF  264
+
+
+>WP_072325641.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Marinospirillum 
+alkaliphilum]
+Length=263
+
+ Score = 84.0 bits (206),  Expect = 3e-018, Method: Compositional matrix adjust.
+ Identities = 39/69 (57%), Positives = 52/69 (75%), Gaps = 3/69 (4%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLV+ DMLG+T G+ A+FV+NFM E +   +I DA  A+H AV+  +
+Sbjct  198  VIGIGAGPDTDGQVLVLHDMLGVTVGKTAKFVKNFMAESN---SIADALAAYHQAVKSGT  254
+
+Query  61   FPAKEHTFQ  69
+            FPA+EH F+
+Sbjct  255  FPAEEHCFK  263
+
+
+>WP_045493853.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+sp. StFLB209]
+Length=266
+
+ Score = 84.0 bits (206),  Expect = 4e-018, Method: Compositional matrix adjust.
+ Identities = 45/70 (64%), Positives = 52/70 (74%), Gaps = 4/70 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ TDGQVLV+ DMLGL+  GRVARFVRNFM    G+  I  A  A+ AAV+D 
+Sbjct  199  VIGIGAGSGTDGQVLVLHDMLGLSISGRVARFVRNFM---VGQPDIPSAISAYVAAVKDL  255
+
+Query  60   SFPAKEHTFQ  69
+            SFPA EH FQ
+Sbjct  256  SFPALEHGFQ  265
+
+
+>WP_009833019.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Marinomonas 
+sp. MED121]
+Length=274
+
+ Score = 84.0 bits (206),  Expect = 4e-018, Method: Compositional matrix adjust.
+ Identities = 41/68 (60%), Positives = 52/68 (76%), Gaps = 3/68 (4%)
+
+Query  2    IGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQSF  61
+            IGIGAG  TDGQVLV+ DMLG+  GR  RFV+NF+   +GE +I  AF+AF   V+DQSF
+Sbjct  210  IGIGAGPHTDGQVLVLHDMLGINLGRRPRFVKNFL---TGERSIQMAFEAFVDEVKDQSF  266
+
+Query  62   PAKEHTFQ  69
+            PA+EH+F+
+Sbjct  267  PAQEHSFE  274
+
+
+>WP_072424246.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+sp. NFACC19-2]
+Length=266
+
+ Score = 83.6 bits (205),  Expect = 5e-018, Method: Compositional matrix adjust.
+ Identities = 43/69 (62%), Positives = 53/69 (77%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLV  DMLGL+  GR  +FVRNFM+   G+++I DAF A+  AV+D 
+Sbjct  199  VIGIGAGSATDGQVLVQHDMLGLSLSGRAPKFVRNFME---GQSSIQDAFSAYVQAVKDG  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPAAEHGF  264
+
+
+>WP_022990230.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Marinobacter 
+sp. ES-1]
+Length=264
+
+ Score = 83.6 bits (205),  Expect = 6e-018, Method: Compositional matrix adjust.
+ Identities = 40/69 (58%), Positives = 52/69 (75%), Gaps = 3/69 (4%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAGN TDGQVLV+ DMLG T GR  RFV+NF+ +     +I +A  A+  AV+D+S
+Sbjct  198  VIGIGAGNGTDGQVLVLHDMLGATTGRKPRFVKNFLADTG---SISEAIAAYAKAVKDRS  254
+
+Query  61   FPAKEHTFQ  69
+            FPA+EHTF+
+Sbjct  255  FPAEEHTFK  263
+
+
+>WP_056841984.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+sp. Leaf127]
+Length=266
+
+ Score = 82.8 bits (203),  Expect = 9e-018, Method: Compositional matrix adjust.
+ Identities = 43/70 (61%), Positives = 52/70 (74%), Gaps = 4/70 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAGNATDGQVLV+ DMLGL+  GRV +FVRNFM    G+  I  A +A+ +AV+D 
+Sbjct  199  VIGIGAGNATDGQVLVLHDMLGLSISGRVPKFVRNFMI---GQPDIQSAIQAYVSAVKDT  255
+
+Query  60   SFPAKEHTFQ  69
+            SFPA EH F 
+Sbjct  256  SFPAPEHGFS  265
+
+
+>WP_027849085.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Marinospirillum 
+minutulum]
+Length=263
+
+ Score = 82.8 bits (203),  Expect = 1e-017, Method: Compositional matrix adjust.
+ Identities = 38/69 (55%), Positives = 52/69 (75%), Gaps = 3/69 (4%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLV+ DMLG+T G+ A+FV+NFM+   G T+I +A  A+H  V+  +
+Sbjct  198  VIGIGAGPKTDGQVLVLHDMLGITVGKTAKFVKNFMQ---GATSIPEALAAYHQQVKSGA  254
+
+Query  61   FPAKEHTFQ  69
+            FPA+EH F+
+Sbjct  255  FPAEEHCFK  263
+
+
+>WP_039181345.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Halomonas hydrothermalis]
+Length=263
+
+ Score = 82.8 bits (203),  Expect = 1e-017, Method: Compositional matrix adjust.
+ Identities = 39/68 (57%), Positives = 51/68 (75%), Gaps = 3/68 (4%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQ+LV+ D+LG+T GR  RFV+NFM E S   +I  AF+A+H AV+ ++
+Sbjct  199  VIGIGAGPDTDGQILVMHDVLGVTHGRTPRFVKNFMSEAS---SIQGAFEAYHQAVKHRT  255
+
+Query  61   FPAKEHTF  68
+            FPA EH F
+Sbjct  256  FPATEHCF  263
+
+
+>WP_016915934.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Halomonas]
+Length=263
+
+ Score = 82.8 bits (203),  Expect = 1e-017, Method: Compositional matrix adjust.
+ Identities = 39/68 (57%), Positives = 51/68 (75%), Gaps = 3/68 (4%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQ+LV+ D+LG+T GR  RFV+NFM E S   +I  AF+A+H AV+ ++
+Sbjct  199  VIGIGAGPDTDGQILVMHDVLGVTHGRTPRFVKNFMSEAS---SIQGAFEAYHQAVKHRT  255
+
+Query  61   FPAKEHTF  68
+            FPA EH F
+Sbjct  256  FPATEHCF  263
+
+
+>WP_035476183.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Gammaproteobacteria 
+bacterium MFB021]
+Length=263
+
+ Score = 82.8 bits (203),  Expect = 1e-017, Method: Compositional matrix adjust.
+ Identities = 39/68 (57%), Positives = 52/68 (76%), Gaps = 3/68 (4%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG   DGQ+LV+ D+LGL  G V RFV+NF+   SG  +I DAF+A+H AV+ ++
+Sbjct  199  VIGIGAGAEVDGQILVMHDVLGLNSGYVPRFVKNFL---SGRDSIADAFRAYHEAVKART  255
+
+Query  61   FPAKEHTF  68
+            FPA+EHTF
+Sbjct  256  FPAEEHTF  263
+
+
+>WP_025164711.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+taeanensis]
+Length=266
+
+ Score = 82.0 bits (201),  Expect = 2e-017, Method: Compositional matrix adjust.
+ Identities = 41/69 (59%), Positives = 52/69 (75%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFG-RVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAGNATDGQVLV+ DMLGL+   R  +FV+NFM   +G+++I  A  A+  AV+DQ
+Sbjct  199  VIGIGAGNATDGQVLVLHDMLGLSLSDRTPKFVKNFM---AGQSSIQTALSAYVKAVKDQ  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPAAEHGF  264
+
+
+>WP_058397511.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+syringae]
+Length=266
+
+ Score = 82.0 bits (201),  Expect = 2e-017, Method: Compositional matrix adjust.
+ Identities = 42/69 (61%), Positives = 53/69 (77%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLV+ DMLGL+  GRV +FV+NFM   +G+  I  A +A+ AAV+D 
+Sbjct  199  VIGIGAGSATDGQVLVLHDMLGLSITGRVPKFVKNFM---TGQPDIQSAIRAYVAAVKDV  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPASEHGF  264
+
+
+>WP_061241017.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+composti]
+Length=266
+
+ Score = 82.0 bits (201),  Expect = 2e-017, Method: Compositional matrix adjust.
+ Identities = 43/69 (62%), Positives = 53/69 (77%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLV  DMLGL+  GRVA+FVRNFM+   G+++I  A  A+  AV+D 
+Sbjct  199  VIGIGAGSATDGQVLVQHDMLGLSLSGRVAKFVRNFME---GQSSIQGALDAYVKAVKDG  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPAAEHGF  264
+
+
+>WP_058427640.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+fluorescens]
+Length=266
+
+ Score = 82.0 bits (201),  Expect = 2e-017, Method: Compositional matrix adjust.
+ Identities = 42/70 (60%), Positives = 53/70 (76%), Gaps = 4/70 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLVV DMLGL+  GRV +FV+NFM   +G+T+I DA  A+ A V+  
+Sbjct  199  VIGIGAGSATDGQVLVVHDMLGLSISGRVPKFVKNFM---AGQTSIHDALSAYVAEVKSV  255
+
+Query  60   SFPAKEHTFQ  69
+            +FPA EH F 
+Sbjct  256  TFPAAEHGFS  265
+
+
+>WP_024683852.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+syringae]
+Length=266
+
+ Score = 82.0 bits (201),  Expect = 2e-017, Method: Compositional matrix adjust.
+ Identities = 42/69 (61%), Positives = 53/69 (77%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLV+ DMLGL+  GRV +FV+NFM   +G+  I  A +A+ AAV+D 
+Sbjct  199  VIGIGAGSATDGQVLVLHDMLGLSITGRVPKFVKNFM---TGQPDIQSAIRAYVAAVKDV  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPATEHGF  264
+
+
+>WP_010625691.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Halomonas sp. 
+KM-1]
+Length=263
+
+ Score = 82.0 bits (201),  Expect = 2e-017, Method: Compositional matrix adjust.
+ Identities = 38/68 (56%), Positives = 51/68 (75%), Gaps = 3/68 (4%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQ+LV+ D+LG+T GR  RFV+NF+ E +    I DAF+ +H AV+ + 
+Sbjct  199  VIGIGAGPDTDGQILVMHDVLGVTHGRTPRFVKNFLAEAND---IPDAFRRYHEAVKARR  255
+
+Query  61   FPAKEHTF  68
+            FPAKEH+F
+Sbjct  256  FPAKEHSF  263
+
+
+>WP_010196315.1 3-methyl-2-oxobutanoate hydroxymethyltransferase, partial [Pseudomonas 
+amygdali]
+Length=213
+
+ Score = 80.9 bits (198),  Expect = 2e-017, Method: Compositional matrix adjust.
+ Identities = 42/69 (61%), Positives = 53/69 (77%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLV+ DMLGL+  GRV +FV+NFM   +G+  I  A +A+ AAV+D 
+Sbjct  146  VIGIGAGSATDGQVLVLHDMLGLSISGRVPKFVKNFM---TGQPDIQSAIQAYVAAVKDV  202
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  203  SFPATEHGF  211
+
+
+>WP_063313414.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+syringae]
+Length=266
+
+ Score = 82.0 bits (201),  Expect = 2e-017, Method: Compositional matrix adjust.
+ Identities = 42/69 (61%), Positives = 53/69 (77%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLV+ DMLGL+  GRV +FV+NFM   +G+  I  A +A+ AAV+D 
+Sbjct  199  VIGIGAGSATDGQVLVLHDMLGLSITGRVPKFVKNFM---TGQPDIQSAIRAYVAAVKDV  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPATEHGF  264
+
+
+>WP_058399304.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+syringae]
+Length=266
+
+ Score = 82.0 bits (201),  Expect = 2e-017, Method: Compositional matrix adjust.
+ Identities = 42/69 (61%), Positives = 53/69 (77%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLV+ DMLGL+  GRV +FV+NFM   +G+  I  A +A+ AAV+D 
+Sbjct  199  VIGIGAGSATDGQVLVLHDMLGLSITGRVPKFVKNFM---TGQPDIQSAIRAYVAAVKDL  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPATEHGF  264
+
+
+>WP_065088355.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+syringae]
+Length=266
+
+ Score = 82.0 bits (201),  Expect = 2e-017, Method: Compositional matrix adjust.
+ Identities = 42/69 (61%), Positives = 53/69 (77%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLV+ DMLGL+  GRV +FV+NFM   +G+  I  A +A+ AAV+D 
+Sbjct  199  VIGIGAGSATDGQVLVLHDMLGLSITGRVPKFVKNFM---TGQPDIQSAIRAYVAAVKDV  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPATEHGF  264
+
+
+>WP_024660963.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+syringae]
+Length=266
+
+ Score = 82.0 bits (201),  Expect = 2e-017, Method: Compositional matrix adjust.
+ Identities = 42/69 (61%), Positives = 53/69 (77%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLV+ DMLGL+  GRV +FV+NFM   +G+  I  A +A+ AAV+D 
+Sbjct  199  VIGIGAGSATDGQVLVLHDMLGLSITGRVPKFVKNFM---TGQADIQSAIRAYVAAVKDL  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPATEHGF  264
+
+
+>WP_024641213.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+syringae]
+Length=266
+
+ Score = 82.0 bits (201),  Expect = 2e-017, Method: Compositional matrix adjust.
+ Identities = 42/69 (61%), Positives = 53/69 (77%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLV+ DMLGL+  GRV +FV+NFM   +G+  I  A +A+ AAV+D 
+Sbjct  199  VIGIGAGSATDGQVLVLHDMLGLSITGRVPKFVKNFM---TGQPDIQSAIRAYVAAVKDL  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPATEHGF  264
+
+
+>WP_024664032.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+syringae]
+Length=266
+
+ Score = 82.0 bits (201),  Expect = 2e-017, Method: Compositional matrix adjust.
+ Identities = 42/69 (61%), Positives = 53/69 (77%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLV+ DMLGL+  GRV +FV+NFM   +G+  I  A +A+ AAV+D 
+Sbjct  199  VIGIGAGSATDGQVLVLHDMLGLSITGRVPKFVKNFM---TGQPDIQSAIRAYVAAVKDV  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPATEHGF  264
+
+
+>WP_058400366.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+syringae]
+Length=266
+
+ Score = 82.0 bits (201),  Expect = 2e-017, Method: Compositional matrix adjust.
+ Identities = 42/69 (61%), Positives = 53/69 (77%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLV+ DMLGL+  GRV +FV+NFM   +G+  I  A +A+ AAV+D 
+Sbjct  199  VIGIGAGSATDGQVLVLHDMLGLSISGRVPKFVKNFM---TGQPDIQSAIRAYVAAVKDV  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPATEHGF  264
+
+
+>WP_003423024.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Pseudomonas]
+Length=266
+
+ Score = 82.0 bits (201),  Expect = 2e-017, Method: Compositional matrix adjust.
+ Identities = 42/69 (61%), Positives = 53/69 (77%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLV+ DMLGL+  GRV +FV+NFM   +G+  I  A +A+ AAV+D 
+Sbjct  199  VIGIGAGSATDGQVLVLHDMLGLSITGRVPKFVKNFM---TGQPDIQSAIRAYVAAVKDV  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPATEHGF  264
+
+
+>WP_016567182.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+syringae]
+Length=266
+
+ Score = 82.0 bits (201),  Expect = 2e-017, Method: Compositional matrix adjust.
+ Identities = 42/69 (61%), Positives = 53/69 (77%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLV+ DMLGL+  GRV +FV+NFM   +G+  I  A +A+ AAV+D 
+Sbjct  199  VIGIGAGSATDGQVLVLHDMLGLSITGRVPKFVKNFM---TGQPDIQSAIRAYVAAVKDV  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPATEHGF  264
+
+
+>WP_003371340.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Pseudomonas]
+Length=266
+
+ Score = 82.0 bits (201),  Expect = 2e-017, Method: Compositional matrix adjust.
+ Identities = 42/69 (61%), Positives = 53/69 (77%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLV+ DMLGL+  GRV +FV+NFM   +G+  I  A +A+ AAV+D 
+Sbjct  199  VIGIGAGSATDGQVLVLHDMLGLSITGRVPKFVKNFM---TGQPDIQSAIRAYVAAVKDV  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPATEHGF  264
+
+
+>WP_008733346.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Alcanivorax 
+pacificus]
+Length=263
+
+ Score = 81.6 bits (200),  Expect = 2e-017, Method: Compositional matrix adjust.
+ Identities = 40/68 (59%), Positives = 49/68 (72%), Gaps = 2/68 (3%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGA    DGQVLV+QD+LG+T G+ ARFV+NFM E  G+ A   A KA+  AV+D S
+Sbjct  198  VIGIGAAPECDGQVLVIQDVLGITQGKTARFVKNFMAEAGGDIAA--AIKAYDTAVKDGS  255
+
+Query  61   FPAKEHTF  68
+            FPA EH F
+Sbjct  256  FPAAEHCF  263
+
+
+>WP_044310150.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+syringae]
+Length=266
+
+ Score = 81.6 bits (200),  Expect = 2e-017, Method: Compositional matrix adjust.
+ Identities = 42/69 (61%), Positives = 53/69 (77%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLV+ DMLGL+  GRV +FV+NFM   +G+  I  A +A+ AAV+D 
+Sbjct  199  VIGIGAGSATDGQVLVLHDMLGLSITGRVPKFVKNFM---TGQPDIQSAIRAYVAAVKDV  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPATEHGF  264
+
+
+>WP_058408998.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Pseudomonas]
+Length=266
+
+ Score = 81.6 bits (200),  Expect = 2e-017, Method: Compositional matrix adjust.
+ Identities = 42/69 (61%), Positives = 53/69 (77%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLV+ DMLGL+  GRV +FV+NFM   +G+  I  A +A+ AAV+D 
+Sbjct  199  VIGIGAGSATDGQVLVLHDMLGLSISGRVPKFVKNFM---TGQPDIQSAIRAYVAAVKDV  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPATEHGF  264
+
+
+>WP_054077623.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+amygdali]
+Length=266
+
+ Score = 81.6 bits (200),  Expect = 2e-017, Method: Compositional matrix adjust.
+ Identities = 42/69 (61%), Positives = 53/69 (77%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLV+ DMLGL+  GRV +FV+NFM   +G+  I  A +A+ AAV+D 
+Sbjct  199  VIGIGAGSATDGQVLVLHDMLGLSISGRVPKFVKNFM---TGQPDIQSAIRAYVAAVKDV  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPATEHGF  264
+
+
+>WP_005732360.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+amygdali]
+Length=266
+
+ Score = 81.6 bits (200),  Expect = 2e-017, Method: Compositional matrix adjust.
+ Identities = 42/69 (61%), Positives = 53/69 (77%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLV+ DMLGL+  GRV +FV+NFM   +G+  I  A +A+ AAV+D 
+Sbjct  199  VIGIGAGSATDGQVLVLHDMLGLSISGRVPKFVKNFM---TGQPDIQSAIRAYVAAVKDV  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPATEHGF  264
+
+
+>WP_054071507.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Pseudomonas syringae group]
+Length=266
+
+ Score = 81.6 bits (200),  Expect = 3e-017, Method: Compositional matrix adjust.
+ Identities = 42/69 (61%), Positives = 53/69 (77%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLV+ DMLGL+  GRV +FV+NFM   +G+  I  A +A+ AAV+D 
+Sbjct  199  VIGIGAGSATDGQVLVLHDMLGLSITGRVPKFVKNFM---TGQPDIQSAIRAYVAAVKDV  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPATEHGF  264
+
+
+>WP_057460461.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+syringae]
+Length=266
+
+ Score = 81.6 bits (200),  Expect = 3e-017, Method: Compositional matrix adjust.
+ Identities = 42/69 (61%), Positives = 53/69 (77%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLV+ DMLGL+  GRV +FV+NFM   +G+  I  A +A+ AAV+D 
+Sbjct  199  VIGIGAGSATDGQVLVLHDMLGLSITGRVPKFVKNFM---TGQPDIQSAIRAYVAAVKDV  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPATEHGF  264
+
+
+>WP_032613674.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+syringae]
+Length=266
+
+ Score = 81.6 bits (200),  Expect = 3e-017, Method: Compositional matrix adjust.
+ Identities = 42/69 (61%), Positives = 53/69 (77%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLV+ DMLGL+  GRV +FV+NFM   +G+  I  A +A+ AAV+D 
+Sbjct  199  VIGIGAGSATDGQVLVLHDMLGLSITGRVPKFVKNFM---TGQPDIQSAIRAYVAAVKDV  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPATEHGF  264
+
+
+>WP_057425837.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+amygdali]
+Length=266
+
+ Score = 81.6 bits (200),  Expect = 3e-017, Method: Compositional matrix adjust.
+ Identities = 42/69 (61%), Positives = 53/69 (77%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLV+ DMLGL+  GRV +FV+NFM   +G+  I  A +A+ AAV+D 
+Sbjct  199  VIGIGAGSATDGQVLVLHDMLGLSITGRVPKFVKNFM---TGQPDIQSAIRAYVAAVKDV  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPATEHGF  264
+
+
+>WP_004658626.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Pseudomonas syringae group]
+Length=266
+
+ Score = 81.6 bits (200),  Expect = 3e-017, Method: Compositional matrix adjust.
+ Identities = 42/69 (61%), Positives = 53/69 (77%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLV+ DMLGL+  GRV +FV+NFM   +G+  I  A +A+ AAV+D 
+Sbjct  199  VIGIGAGSATDGQVLVLHDMLGLSISGRVPKFVKNFM---TGQPDIQSAIRAYVAAVKDV  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPATEHGF  264
+
+
+>WP_057402629.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Pseudomonas syringae group]
+Length=266
+
+ Score = 81.6 bits (200),  Expect = 3e-017, Method: Compositional matrix adjust.
+ Identities = 42/69 (61%), Positives = 53/69 (77%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLV+ DMLGL+  GRV +FV+NFM   +G+  I  A +A+ AAV+D 
+Sbjct  199  VIGIGAGSATDGQVLVLHDMLGLSISGRVPKFVKNFM---TGQPDIQSAIRAYVAAVKDV  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPATEHGF  264
+
+
+>WP_010428589.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+syringae]
+Length=266
+
+ Score = 81.6 bits (200),  Expect = 3e-017, Method: Compositional matrix adjust.
+ Identities = 42/69 (61%), Positives = 53/69 (77%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLV+ DMLGL+  GRV +FV+NFM   +G+  I  A +A+ AAV+D 
+Sbjct  199  VIGIGAGSATDGQVLVLHDMLGLSITGRVPKFVKNFM---TGQPDIQSAIRAYVAAVKDV  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPATEHGF  264
+
+
+>WP_002552055.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Pseudomonas syringae group]
+Length=266
+
+ Score = 81.6 bits (200),  Expect = 3e-017, Method: Compositional matrix adjust.
+ Identities = 42/69 (61%), Positives = 53/69 (77%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLV+ DMLGL+  GRV +FV+NFM   +G+  I  A +A+ AAV+D 
+Sbjct  199  VIGIGAGSATDGQVLVLHDMLGLSITGRVPKFVKNFM---TGQPDIQSAIRAYVAAVKDV  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPATEHGF  264
+
+
+>WP_027830833.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Marinobacter 
+sp. HL-58]
+Length=264
+
+ Score = 81.6 bits (200),  Expect = 3e-017, Method: Compositional matrix adjust.
+ Identities = 40/69 (58%), Positives = 53/69 (77%), Gaps = 3/69 (4%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVV DMLG+T GR  RFV++F+ E     ++  A +A+ AAV+D+S
+Sbjct  198  VIGIGAGADTDGQVLVVHDMLGMTTGRKPRFVKDFLAESG---SVKGAIEAYVAAVRDRS  254
+
+Query  61   FPAKEHTFQ  69
+            FPA+EHTF+
+Sbjct  255  FPAEEHTFK  263
+
+
+>WP_071493552.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+azotoformans]
+Length=266
+
+ Score = 81.6 bits (200),  Expect = 3e-017, Method: Compositional matrix adjust.
+ Identities = 42/69 (61%), Positives = 53/69 (77%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLVV DMLGL+  GRV +FV+NFM   +G+T+I DA  A+ A V+  
+Sbjct  199  VIGIGAGSATDGQVLVVHDMLGLSISGRVPKFVKNFM---TGQTSIHDALSAYVAEVKGV  255
+
+Query  60   SFPAKEHTF  68
+            +FPA EH F
+Sbjct  256  TFPAAEHGF  264
+
+
+>WP_044344227.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Pseudomonas syringae group genomosp. 2]
+Length=266
+
+ Score = 81.6 bits (200),  Expect = 3e-017, Method: Compositional matrix adjust.
+ Identities = 42/69 (61%), Positives = 53/69 (77%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLV+ DMLGL+  GRV +FV+NFM   +G+  I  A +A+ AAV+D 
+Sbjct  199  VIGIGAGSATDGQVLVLHDMLGLSISGRVPKFVKNFM---TGQPNIQSAIQAYVAAVKDV  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPATEHGF  264
+
+
+>WP_022966347.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+caeni]
+Length=266
+
+ Score = 81.6 bits (200),  Expect = 3e-017, Method: Compositional matrix adjust.
+ Identities = 40/70 (57%), Positives = 52/70 (74%), Gaps = 4/70 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG  TDGQVLV+ DMLGL+  GR  +FVRNFM+   G+++I DA   +  +V+DQ
+Sbjct  199  VIGIGAGADTDGQVLVLHDMLGLSLSGRTPKFVRNFMQ---GQSSIADAISLYSRSVKDQ  255
+
+Query  60   SFPAKEHTFQ  69
+            SFPA EH F+
+Sbjct  256  SFPAAEHEFR  265
+
+
+>WP_019740915.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+savastanoi]
+Length=266
+
+ Score = 81.6 bits (200),  Expect = 3e-017, Method: Compositional matrix adjust.
+ Identities = 42/69 (61%), Positives = 53/69 (77%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLV+ DMLGL+  GRV +FV+NFM   +G+  I  A +A+ AAV+D 
+Sbjct  199  VIGIGAGSATDGQVLVLHDMLGLSISGRVPKFVKNFM---TGQPDIQSAIRAYVAAVKDI  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPATEHGF  264
+
+
+>WP_013716976.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+mendocina]
+Length=266
+
+ Score = 81.6 bits (200),  Expect = 3e-017, Method: Compositional matrix adjust.
+ Identities = 42/69 (61%), Positives = 52/69 (75%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG  TDGQVLV+ DMLGL+  GRVA+FVRNFM+   G+++I  A  A+  AV+D 
+Sbjct  199  VIGIGAGPGTDGQVLVLHDMLGLSLSGRVAKFVRNFME---GQSSIQGALNAYVKAVKDG  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPAAEHGF  264
+
+
+>WP_004409996.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Pseudomonas syringae group]
+Length=266
+
+ Score = 81.3 bits (199),  Expect = 3e-017, Method: Compositional matrix adjust.
+ Identities = 42/69 (61%), Positives = 53/69 (77%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLV+ DMLGL+  GRV +FV+NFM   +G+  I  A +A+ AAV+D 
+Sbjct  199  VIGIGAGSATDGQVLVLHDMLGLSITGRVPKFVKNFM---TGQPDIQSAIQAYVAAVKDV  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPATEHGF  264
+
+
+>WP_004412363.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+syringae]
+Length=266
+
+ Score = 81.3 bits (199),  Expect = 3e-017, Method: Compositional matrix adjust.
+ Identities = 42/69 (61%), Positives = 53/69 (77%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLV+ DMLGL+  GRV +FV+NFM   +G+  I  A +A+ AAV+D 
+Sbjct  199  VIGIGAGSATDGQVLVLHDMLGLSITGRVPKFVKNFM---TGQPDIQSAIQAYVAAVKDV  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPATEHGF  264
+
+
+>WP_017363702.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+mendocina]
+Length=266
+
+ Score = 81.3 bits (199),  Expect = 4e-017, Method: Compositional matrix adjust.
+ Identities = 42/69 (61%), Positives = 52/69 (75%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG  TDGQVLV+ DMLGL+  GRVA+FVRNFM+   G+++I  A  A+  AV+D 
+Sbjct  199  VIGIGAGPGTDGQVLVLHDMLGLSLSGRVAKFVRNFME---GQSSIQGALNAYVKAVKDG  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPAAEHGF  264
+
+
+>XP_001617578.1 hypothetical protein NEMVEDRAFT_v1g225966 [Nematostella vectensis]
+Length=266
+
+ Score = 81.3 bits (199),  Expect = 4e-017, Method: Compositional matrix adjust.
+ Identities = 41/69 (59%), Positives = 53/69 (77%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG ATDGQVLV+ DMLGL+  GR+ +FV+NFM   +G+++I  A  A+  AV+DQ
+Sbjct  199  VIGIGAGAATDGQVLVLHDMLGLSLSGRMPKFVKNFM---AGQSSIQHAISAYVKAVKDQ  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPAAEHGF  264
+
+
+>WP_024692079.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+syringae]
+Length=266
+
+ Score = 81.3 bits (199),  Expect = 4e-017, Method: Compositional matrix adjust.
+ Identities = 41/69 (59%), Positives = 52/69 (75%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAGN+TDGQVLV+ DMLGL+  GRV +FV+NFM   +G+  I  A +A+  AV+D 
+Sbjct  199  VIGIGAGNSTDGQVLVLHDMLGLSITGRVPKFVKNFM---TGQPDIQSAIRAYVTAVKDV  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPATEHGF  264
+
+
+>WP_027850752.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Marinospirillum 
+insulare]
+Length=263
+
+ Score = 81.3 bits (199),  Expect = 4e-017, Method: Compositional matrix adjust.
+ Identities = 38/69 (55%), Positives = 50/69 (72%), Gaps = 3/69 (4%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLV+ DMLG+T G+ A+FV+NFM E S   +I +A  A+H  V+   
+Sbjct  198  VIGIGAGPKTDGQVLVLHDMLGITVGKTAKFVKNFMLEAS---SIPEALAAYHKEVKSGE  254
+
+Query  61   FPAKEHTFQ  69
+            FPA+EH F+
+Sbjct  255  FPAEEHCFK  263
+
+
+>WP_043512946.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Halomonas sp. 
+BC04]
+Length=263
+
+ Score = 81.3 bits (199),  Expect = 4e-017, Method: Compositional matrix adjust.
+ Identities = 38/68 (56%), Positives = 51/68 (75%), Gaps = 3/68 (4%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG+ TDGQ+LV+ D+LG+T GRV RFV+NFM E      I DAF+ +H  V+ + 
+Sbjct  199  VIGIGAGSDTDGQILVMHDVLGVTHGRVPRFVKNFMAEADD---IPDAFRRYHEDVKARR  255
+
+Query  61   FPAKEHTF  68
+            FPA+EH+F
+Sbjct  256  FPAEEHSF  263
+
+
+>WP_054992625.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+congelans]
+Length=266
+
+ Score = 81.3 bits (199),  Expect = 4e-017, Method: Compositional matrix adjust.
+ Identities = 42/69 (61%), Positives = 53/69 (77%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLV+ DMLGL+  GRV +FV+NFM   +G+  I  A +A+ AAV+D 
+Sbjct  199  VIGIGAGSATDGQVLVLHDMLGLSITGRVPKFVKNFM---TGQPDIQSAIQAYVAAVKDV  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPATEHGF  264
+
+
+>WP_044318578.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Pseudomonas syringae group]
+Length=266
+
+ Score = 81.3 bits (199),  Expect = 4e-017, Method: Compositional matrix adjust.
+ Identities = 42/69 (61%), Positives = 53/69 (77%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLV+ DMLGL+  GRV +FV+NFM   +G+  I  A +A+ AAV+D 
+Sbjct  199  VIGIGAGSATDGQVLVLHDMLGLSISGRVPKFVKNFM---TGQPDIQSAIQAYVAAVKDV  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPATEHGF  264
+
+
+>WP_079204793.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+sp. CC6-YY-74]
+Length=266
+
+ Score = 81.3 bits (199),  Expect = 4e-017, Method: Compositional matrix adjust.
+ Identities = 41/69 (59%), Positives = 52/69 (75%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG ATDGQVLV+ DMLGL+  GR+ +FV+NFM   +G++ I DA  A+  AV+D 
+Sbjct  199  VIGIGAGGATDGQVLVLHDMLGLSLSGRMPKFVKNFM---AGQSNIQDALSAYVKAVKDC  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPASEHGF  264
+
+
+>WP_041159438.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Halomonas sp. 
+KHS3]
+Length=263
+
+ Score = 81.3 bits (199),  Expect = 4e-017, Method: Compositional matrix adjust.
+ Identities = 38/68 (56%), Positives = 51/68 (75%), Gaps = 3/68 (4%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQ+LV+ D+LG+T GR  RFV+NFM E     +I  AF+A+H AV+ ++
+Sbjct  199  VIGIGAGPDTDGQILVMHDVLGITHGRTPRFVKNFMAEAD---SIQAAFQAYHEAVKTRA  255
+
+Query  61   FPAKEHTF  68
+            FPA+EH F
+Sbjct  256  FPAQEHCF  263
+
+
+>WP_005745516.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+amygdali]
+Length=266
+
+ Score = 81.3 bits (199),  Expect = 4e-017, Method: Compositional matrix adjust.
+ Identities = 42/69 (61%), Positives = 53/69 (77%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLV+ DMLGL+  GRV +FV+NFM   +G+  I  A +A+ AAV+D 
+Sbjct  199  VIGIGAGSATDGQVLVLHDMLGLSISGRVPKFVKNFM---TGQPDIQSAIQAYVAAVKDV  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPATEHGF  264
+
+
+>WP_064121061.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Halotalea alkalilenta]
+Length=263
+
+ Score = 80.9 bits (198),  Expect = 4e-017, Method: Compositional matrix adjust.
+ Identities = 38/68 (56%), Positives = 50/68 (74%), Gaps = 3/68 (4%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG   DGQ+LV+ DMLG + GRV RFV+NF+    GE +I +AF A+H AV ++ 
+Sbjct  199  VIGIGAGPDVDGQILVMHDMLGASLGRVPRFVKNFLI---GEASIQEAFAAYHEAVVNRE  255
+
+Query  61   FPAKEHTF  68
+            FPA+EH F
+Sbjct  256  FPAEEHCF  263
+
+
+>WP_069897957.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Pseudomonas]
+Length=266
+
+ Score = 81.3 bits (199),  Expect = 4e-017, Method: Compositional matrix adjust.
+ Identities = 41/69 (59%), Positives = 53/69 (77%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG ATDGQVLV+ DMLG++  GR  +FV+NFM+   G+++I  A  A+ AAV+DQ
+Sbjct  199  VIGIGAGAATDGQVLVMHDMLGMSLSGRSPKFVKNFME---GQSSIQAAMSAYVAAVKDQ  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPAAEHGF  264
+
+
+>WP_043530865.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Halomonas xinjiangensis]
+Length=263
+
+ Score = 80.9 bits (198),  Expect = 5e-017, Method: Compositional matrix adjust.
+ Identities = 40/68 (59%), Positives = 49/68 (72%), Gaps = 3/68 (4%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG   DGQ+LV+ D+LG+T GRV RFV+NFM E      I  AFKAFH  V+ + 
+Sbjct  199  VIGIGAGADVDGQILVMHDILGITHGRVPRFVKNFMAEADD---IQGAFKAFHEEVKTRR  255
+
+Query  61   FPAKEHTF  68
+            FPA+EHTF
+Sbjct  256  FPAEEHTF  263
+
+
+>WP_017675315.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Pseudomonas]
+Length=266
+
+ Score = 80.9 bits (198),  Expect = 6e-017, Method: Compositional matrix adjust.
+ Identities = 42/69 (61%), Positives = 52/69 (75%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLV  DMLGL+  GR  +FVRNFM+   G+++I  AF A+  AV+D 
+Sbjct  199  VIGIGAGSATDGQVLVQHDMLGLSLSGRAPKFVRNFME---GQSSIQGAFSAYVKAVKDG  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPAAEHGF  264
+
+
+>WP_039603018.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+putida]
+Length=266
+
+ Score = 80.9 bits (198),  Expect = 6e-017, Method: Compositional matrix adjust.
+ Identities = 42/70 (60%), Positives = 50/70 (71%), Gaps = 4/70 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAGNATDGQVLV+ DMLGL+  GRV +FV+NFM    G+  I  A  A+  AV+D 
+Sbjct  199  VIGIGAGNATDGQVLVLHDMLGLSLSGRVPKFVKNFM---VGQPDIASALAAYVKAVKDV  255
+
+Query  60   SFPAKEHTFQ  69
+            SFPA EH F 
+Sbjct  256  SFPASEHGFS  265
+
+
+>WP_045736381.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+pseudoalcaligenes]
+Length=266
+
+ Score = 80.5 bits (197),  Expect = 7e-017, Method: Compositional matrix adjust.
+ Identities = 42/69 (61%), Positives = 52/69 (75%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLV  DMLGL+  GR  +FVRNFM+   G+++I  AF A+  AV+D 
+Sbjct  199  VIGIGAGSATDGQVLVQHDMLGLSLSGRAPKFVRNFME---GQSSIQGAFSAYVQAVKDG  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPAAEHGF  264
+
+
+>WP_075179327.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Neptunomonas 
+phycophila]
+Length=264
+
+ Score = 80.5 bits (197),  Expect = 7e-017, Method: Compositional matrix adjust.
+ Identities = 41/69 (59%), Positives = 53/69 (77%), Gaps = 3/69 (4%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG ATDGQVLVV DMLGLT  R  +FV+NFM + +G+  +  A +A+  AV+D S
+Sbjct  199  VIGIGAGAATDGQVLVVHDMLGLTPKRTPKFVKNFMVD-TGD--VQSALRAYAIAVKDGS  255
+
+Query  61   FPAKEHTFQ  69
+            FPA+EHTF+
+Sbjct  256  FPAEEHTFK  264
+
+
+>WP_075173063.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Neptunomonas 
+phycophila]
+Length=264
+
+ Score = 80.5 bits (197),  Expect = 7e-017, Method: Compositional matrix adjust.
+ Identities = 41/69 (59%), Positives = 53/69 (77%), Gaps = 3/69 (4%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG ATDGQVLVV DMLGLT  R  +FV+NFM + +G+  +  A +A+  AV+D S
+Sbjct  199  VIGIGAGAATDGQVLVVHDMLGLTPKRTPKFVKNFMVD-TGD--VQSALRAYAIAVKDGS  255
+
+Query  61   FPAKEHTFQ  69
+            FPA+EHTF+
+Sbjct  256  FPAEEHTFK  264
+
+
+>WP_059392570.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Pseudomonas]
+Length=266
+
+ Score = 80.5 bits (197),  Expect = 7e-017, Method: Compositional matrix adjust.
+ Identities = 42/69 (61%), Positives = 52/69 (75%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLV  DMLGL+  GR  +FVRNFM+   G+++I  AF A+  AV+D 
+Sbjct  199  VIGIGAGSATDGQVLVQHDMLGLSLSGRAPKFVRNFME---GQSSIQGAFSAYVQAVKDG  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPAAEHGF  264
+
+
+>WP_046788164.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+putida]
+Length=266
+
+ Score = 80.5 bits (197),  Expect = 7e-017, Method: Compositional matrix adjust.
+ Identities = 42/70 (60%), Positives = 50/70 (71%), Gaps = 4/70 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAGNATDGQVLV+ DMLGL+  GRV +FV+NFM    G+  I  A  A+  AV+D 
+Sbjct  199  VIGIGAGNATDGQVLVLHDMLGLSLSGRVPKFVKNFM---VGQPDIASALTAYVKAVKDV  255
+
+Query  60   SFPAKEHTFQ  69
+            SFPA EH F 
+Sbjct  256  SFPASEHGFS  265
+
+
+>WP_080987005.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Yersinia kristensenii]
+Length=163
+
+ Score = 78.6 bits (192),  Expect = 7e-017, Method: Compositional matrix adjust.
+ Identities = 40/69 (58%), Positives = 50/69 (72%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG  TDGQVLV+ DMLGL+  GR  +FV+NFMK   G+  I  A K++ AAV+D 
+Sbjct  96   VIGIGAGPDTDGQVLVLHDMLGLSITGRAPKFVKNFMK---GQDDIQGAIKSYSAAVKDG  152
+
+Query  60   SFPAKEHTF  68
+            SFPA EH +
+Sbjct  153  SFPAPEHCY  161
+
+
+>WP_021489318.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+mendocina]
+Length=266
+
+ Score = 80.5 bits (197),  Expect = 7e-017, Method: Compositional matrix adjust.
+ Identities = 42/69 (61%), Positives = 52/69 (75%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLV  DMLGL+  GR  +FVRNFM+   G+++I  AF A+  AV+D 
+Sbjct  199  VIGIGAGSATDGQVLVQHDMLGLSLSGRAPKFVRNFME---GQSSIQGAFSAYVQAVKDG  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPAAEHGF  264
+
+
+>WP_027349605.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Halotalea alkalilenta]
+Length=263
+
+ Score = 80.5 bits (197),  Expect = 7e-017, Method: Compositional matrix adjust.
+ Identities = 38/68 (56%), Positives = 49/68 (72%), Gaps = 3/68 (4%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG   DGQ+LV+ DMLG + GRV RFV+NF+    GE +I +AF A+H AV  + 
+Sbjct  199  VIGIGAGPDVDGQILVMHDMLGASLGRVPRFVKNFLI---GEASIQEAFAAYHEAVVSRE  255
+
+Query  61   FPAKEHTF  68
+            FPA+EH F
+Sbjct  256  FPAEEHCF  263
+
+
+>WP_003406643.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+syringae]
+Length=266
+
+ Score = 80.5 bits (197),  Expect = 8e-017, Method: Compositional matrix adjust.
+ Identities = 42/69 (61%), Positives = 52/69 (75%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLV+ DMLGL+  GRV +FV+NFM    G+  I  A +A+ AAV+D 
+Sbjct  199  VIGIGAGSATDGQVLVLHDMLGLSITGRVPKFVKNFMI---GQPDIQSAIRAYVAAVKDL  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPATEHGF  264
+
+
+>WP_011266658.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+syringae]
+ YP_233924.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+syringae pv. syringae B728a]
+Length=266
+
+ Score = 80.5 bits (197),  Expect = 8e-017, Method: Compositional matrix adjust.
+ Identities = 41/69 (59%), Positives = 52/69 (75%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLV+ DMLGL+  GRV +FV+NFM   +G+  I  A +A+  AV+D 
+Sbjct  199  VIGIGAGSATDGQVLVLHDMLGLSITGRVPKFVKNFM---TGQPDIQSAIRAYVTAVKDL  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPATEHGF  264
+
+
+>WP_074956285.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+syringae]
+Length=266
+
+ Score = 80.5 bits (197),  Expect = 9e-017, Method: Compositional matrix adjust.
+ Identities = 41/69 (59%), Positives = 52/69 (75%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLV+ DMLGL+  GRV +FV+NFM   +G+  I  A +A+  AV+D 
+Sbjct  199  VIGIGAGSATDGQVLVLHDMLGLSITGRVPKFVKNFM---TGQPDIQSAIRAYVTAVKDV  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPATEHGF  264
+
+
+>WP_046016039.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Marinomonas 
+sp. S3726]
+Length=274
+
+ Score = 80.5 bits (197),  Expect = 9e-017, Method: Compositional matrix adjust.
+ Identities = 39/68 (57%), Positives = 51/68 (75%), Gaps = 3/68 (4%)
+
+Query  2    IGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQSF  61
+            IGIGAG  TDGQVLV+ DMLG+  GR  RFV+NF+    GE +I  AF+A+   V+DQ+F
+Sbjct  210  IGIGAGPHTDGQVLVLHDMLGINLGRRPRFVKNFL---IGERSIQMAFEAYVDEVKDQTF  266
+
+Query  62   PAKEHTFQ  69
+            PA+EH+F+
+Sbjct  267  PAQEHSFE  274
+
+
+>WP_041332649.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Marinobacter]
+Length=264
+
+ Score = 80.1 bits (196),  Expect = 9e-017, Method: Compositional matrix adjust.
+ Identities = 40/69 (58%), Positives = 52/69 (75%), Gaps = 3/69 (4%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVV DMLG+  GR  RFV++F+ E     +I  A +A+ AAV+D+S
+Sbjct  198  VIGIGAGADTDGQVLVVHDMLGMVTGRKPRFVKDFLAESG---SIKGAIEAYVAAVRDRS  254
+
+Query  61   FPAKEHTFQ  69
+            FPA+EHTF+
+Sbjct  255  FPAEEHTFK  263
+
+
+>WP_058416315.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+sp. ICMP 10191]
+Length=266
+
+ Score = 80.1 bits (196),  Expect = 9e-017, Method: Compositional matrix adjust.
+ Identities = 41/69 (59%), Positives = 52/69 (75%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLV+ DMLGL+  GRV +FV+NFM   +G+  I  A + + AAV+D 
+Sbjct  199  VIGIGAGSATDGQVLVLHDMLGLSITGRVPKFVKNFM---TGQPDIQSAIRTYVAAVKDV  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPATEHGF  264
+
+
+>WP_063339442.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Marinomonas]
+Length=274
+
+ Score = 80.5 bits (197),  Expect = 9e-017, Method: Compositional matrix adjust.
+ Identities = 39/68 (57%), Positives = 51/68 (75%), Gaps = 3/68 (4%)
+
+Query  2    IGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQSF  61
+            IGIGAG  TDGQVLV+ DMLG+  GR  RFV+NF+    GE +I  AF+A+   V+DQ+F
+Sbjct  210  IGIGAGPHTDGQVLVLHDMLGINLGRRPRFVKNFL---IGERSIQMAFEAYVDEVKDQTF  266
+
+Query  62   PAKEHTFQ  69
+            PA+EH+F+
+Sbjct  267  PAQEHSFE  274
+
+
+>WP_007153476.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Marinobacter 
+algicola]
+Length=264
+
+ Score = 80.1 bits (196),  Expect = 9e-017, Method: Compositional matrix adjust.
+ Identities = 40/69 (58%), Positives = 52/69 (75%), Gaps = 3/69 (4%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVV DMLG+  GR  RFV++F+ E     +I  A +A+ AAV+D+S
+Sbjct  198  VIGIGAGADTDGQVLVVHDMLGMVTGRKPRFVKDFLAESG---SIKGAIEAYVAAVRDRS  254
+
+Query  61   FPAKEHTFQ  69
+            FPA+EHTF+
+Sbjct  255  FPAEEHTFK  263
+
+
+>WP_037050780.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+oleovorans]
+Length=266
+
+ Score = 80.1 bits (196),  Expect = 9e-017, Method: Compositional matrix adjust.
+ Identities = 42/69 (61%), Positives = 52/69 (75%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG ATDGQVLV+ DMLGL+  GR  +FVRNFM+   G+++I  AF A+  AV+D 
+Sbjct  199  VIGIGAGAATDGQVLVLHDMLGLSLSGRAPKFVRNFME---GQSSIQGAFGAYVQAVKDG  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPAAEHGF  264
+
+
+>WP_029654479.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Marinobacter 
+daepoensis]
+Length=264
+
+ Score = 80.1 bits (196),  Expect = 9e-017, Method: Compositional matrix adjust.
+ Identities = 38/69 (55%), Positives = 53/69 (77%), Gaps = 3/69 (4%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG+ TDGQVLV+ DMLG+T GR  RFV+NF+ +     +I +A  A+  AV+++S
+Sbjct  198  VIGIGAGSDTDGQVLVLHDMLGVTTGRKPRFVKNFLADTG---SIPEAITAYAKAVKERS  254
+
+Query  61   FPAKEHTFQ  69
+            FPA+EHTF+
+Sbjct  255  FPAEEHTFK  263
+
+
+>WP_008940622.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Marinobacter 
+santoriniensis]
+Length=264
+
+ Score = 80.1 bits (196),  Expect = 1e-016, Method: Compositional matrix adjust.
+ Identities = 39/69 (57%), Positives = 52/69 (75%), Gaps = 3/69 (4%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVV DMLGLT GR  RFV+NF+ E     ++ +A KA+   V++++
+Sbjct  198  VIGIGAGADTDGQVLVVHDMLGLTTGRKPRFVKNFLAETD---SVQNAIKAYVEQVRNRT  254
+
+Query  61   FPAKEHTFQ  69
+            FPA+EHTF+
+Sbjct  255  FPAEEHTFK  263
+
+
+>WP_084335406.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+indica]
+Length=266
+
+ Score = 80.1 bits (196),  Expect = 1e-016, Method: Compositional matrix adjust.
+ Identities = 41/69 (59%), Positives = 51/69 (74%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAGNATDGQVLV+ DMLGL+  GR  +FV+NFM+   G ++I  A  A+  AV+D 
+Sbjct  199  VIGIGAGNATDGQVLVLHDMLGLSLSGRTPKFVKNFME---GRSSIQAAIGAYVKAVKDT  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPAAEHGF  264
+
+
+>WP_014869885.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Marinobacter 
+sp. BSs20148]
+Length=264
+
+ Score = 80.1 bits (196),  Expect = 1e-016, Method: Compositional matrix adjust.
+ Identities = 38/69 (55%), Positives = 51/69 (74%), Gaps = 3/69 (4%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLVV DMLG+T GR  RFV+NF+ E     ++ +A  A+  AV +++
+Sbjct  198  VIGIGAGADTDGQVLVVHDMLGMTPGRKPRFVKNFLAENG---SVTNALAAYAKAVSERT  254
+
+Query  61   FPAKEHTFQ  69
+            FPA+EHTF+
+Sbjct  255  FPAEEHTFK  263
+
+
+>WP_057407146.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+syringae]
+Length=266
+
+ Score = 80.1 bits (196),  Expect = 1e-016, Method: Compositional matrix adjust.
+ Identities = 42/69 (61%), Positives = 51/69 (74%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLV+ DMLGL+  GRV +FV+NFM  Q     I  A +A+ AAV+D 
+Sbjct  199  VIGIGAGSATDGQVLVLHDMLGLSITGRVPKFVKNFMTCQPD---IQSAIRAYVAAVKDV  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPATEHGF  264
+
+
+>WP_045199705.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+sp. 2(2015)]
+Length=266
+
+ Score = 80.1 bits (196),  Expect = 1e-016, Method: Compositional matrix adjust.
+ Identities = 41/69 (59%), Positives = 53/69 (77%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLV+ DMLGL+  GRV +FV+NFM   +G++ I  A KA+  AV++ 
+Sbjct  199  VIGIGAGSATDGQVLVLHDMLGLSLTGRVPKFVKNFM---AGQSDIQGALKAYVTAVKEV  255
+
+Query  60   SFPAKEHTF  68
+            SFPA EH F
+Sbjct  256  SFPASEHGF  264
+
+
+>WP_010222996.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Pseudomonas]
+Length=266
+
+ Score = 80.1 bits (196),  Expect = 1e-016, Method: Compositional matrix adjust.
+ Identities = 41/69 (59%), Positives = 52/69 (75%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLV+ DMLGL+  GRV +FV+NFM   +G++ I  A KA+  AV+D 
+Sbjct  199  VIGIGAGSATDGQVLVLHDMLGLSLTGRVPKFVKNFM---AGQSDIQGALKAYVTAVKDV  255
+
+Query  60   SFPAKEHTF  68
+            SFP  EH F
+Sbjct  256  SFPGSEHGF  264
+
+
+>WP_012346209.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Leptothrix 
+cholodnii]
+Length=289
+
+ Score = 80.5 bits (197),  Expect = 1e-016, Method: Compositional matrix adjust.
+ Identities = 39/62 (63%), Positives = 49/62 (79%), Gaps = 1/62 (2%)
+
+Query  2    IGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGET-AILDAFKAFHAAVQDQS  60
+            IGIGAG AT GQVLVV DMLGLT G++ RFVRNFM  ++G+  ++ DA +A+ AAV+D S
+Sbjct  217  IGIGAGPATAGQVLVVHDMLGLTRGKLPRFVRNFMHSEAGQNLSVEDAIRAYVAAVKDAS  276
+
+Query  61   FP  62
+            FP
+Sbjct  277  FP  278
+
+
+>WP_044387755.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Marinobacter 
+excellens]
+Length=264
+
+ Score = 80.1 bits (196),  Expect = 1e-016, Method: Compositional matrix adjust.
+ Identities = 39/69 (57%), Positives = 51/69 (74%), Gaps = 3/69 (4%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQVLV+ DMLG+T GR  RFV+NF+ E +   +I +A  A+  AV+ +S
+Sbjct  198  VIGIGAGCDTDGQVLVLHDMLGITTGRKPRFVKNFLAETN---SIPEAIAAYATAVKQRS  254
+
+Query  61   FPAKEHTFQ  69
+            FPA EHTF+
+Sbjct  255  FPAAEHTFK  263
+
+
+>WP_039009050.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Cupriavidus 
+sp. IDO]
+Length=273
+
+ Score = 80.1 bits (196),  Expect = 1e-016, Method: Compositional matrix adjust.
+ Identities = 41/67 (61%), Positives = 51/67 (76%), Gaps = 3/67 (4%)
+
+Query  2    IGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQSF  61
+            IGIGAG    GQVLV+QDML +  GR A+FVRNFM+   G+T+I  A +A+ AAV+D+SF
+Sbjct  208  IGIGAGVDCSGQVLVLQDMLNVYPGRKAKFVRNFME---GQTSIEGAVRAYVAAVKDRSF  264
+
+Query  62   PAKEHTF  68
+            PA EHTF
+Sbjct  265  PAAEHTF  271
+
+
+>WP_040259370.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+sp. CB1]
+Length=266
+
+ Score = 80.1 bits (196),  Expect = 1e-016, Method: Compositional matrix adjust.
+ Identities = 41/70 (59%), Positives = 51/70 (73%), Gaps = 4/70 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG ATDGQVLV+ DMLGL+  GRV +FV+NFM   +G+  I  A  A+ +AV+D 
+Sbjct  199  VIGIGAGPATDGQVLVLHDMLGLSLTGRVPKFVKNFM---AGQADIPSALSAYVSAVKDG  255
+
+Query  60   SFPAKEHTFQ  69
+            SFPA EH F 
+Sbjct  256  SFPAPEHGFN  265
+
+
+>WP_035231932.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Alcanivorax 
+nanhaiticus]
+Length=262
+
+ Score = 80.1 bits (196),  Expect = 1e-016, Method: Compositional matrix adjust.
+ Identities = 39/68 (57%), Positives = 49/68 (72%), Gaps = 3/68 (4%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGA    DGQVLV+ DMLG++ G+ ARFV+NFM + S    I  AFKA+H AV + S
+Sbjct  198  VIGIGAAPECDGQVLVMHDMLGISPGKPARFVKNFMTDASD---IPSAFKAYHEAVLNVS  254
+
+Query  61   FPAKEHTF  68
+            FPA+EH F
+Sbjct  255  FPAEEHCF  262
+
+
+>WP_054986788.1 MULTISPECIES: 3-methyl-2-oxobutanoate hydroxymethyltransferase 
+[Pseudomonas syringae group]
+Length=266
+
+ Score = 80.1 bits (196),  Expect = 1e-016, Method: Compositional matrix adjust.
+ Identities = 41/70 (59%), Positives = 53/70 (76%), Gaps = 4/70 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLV+ DMLGL+  GRV +FV+NFM   +G+  I  A +A+ AAV++ 
+Sbjct  199  VIGIGAGSATDGQVLVLHDMLGLSISGRVPKFVKNFM---TGQPDIQSAIRAYVAAVKNV  255
+
+Query  60   SFPAKEHTFQ  69
+            SFPA EH F 
+Sbjct  256  SFPATEHGFS  265
+
+
+>WP_083726806.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+pachastrellae]
+Length=264
+
+ Score = 80.1 bits (196),  Expect = 1e-016, Method: Compositional matrix adjust.
+ Identities = 42/69 (61%), Positives = 51/69 (74%), Gaps = 4/69 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ TDGQVLVV DMLGL+  GRV RFV+NFM   SG+  I  A +A+ AAV++ 
+Sbjct  199  VIGIGAGSGTDGQVLVVHDMLGLSLSGRVPRFVKNFM---SGQPDIPAAIRAYVAAVKNV  255
+
+Query  60   SFPAKEHTF  68
+             FPA EH F
+Sbjct  256  EFPAAEHEF  264
+
+
+>WP_055005655.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Pseudomonas 
+syringae group genomosp. 7]
+Length=266
+
+ Score = 80.1 bits (196),  Expect = 1e-016, Method: Compositional matrix adjust.
+ Identities = 41/70 (59%), Positives = 53/70 (76%), Gaps = 4/70 (6%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTF-GRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQ  59
+            +IGIGAG+ATDGQVLV+ DMLGL+  GRV +FV+NFM   +G+  I  A +A+ AAV++ 
+Sbjct  199  VIGIGAGSATDGQVLVLHDMLGLSISGRVPKFVKNFM---TGQPDIQSAIRAYVAAVKNV  255
+
+Query  60   SFPAKEHTFQ  69
+            SFPA EH F 
+Sbjct  256  SFPATEHGFS  265
+
+
+>WP_064702378.1 3-methyl-2-oxobutanoate hydroxymethyltransferase [Halomonas caseinilytica]
+Length=263
+
+ Score = 79.7 bits (195),  Expect = 1e-016, Method: Compositional matrix adjust.
+ Identities = 38/68 (56%), Positives = 49/68 (72%), Gaps = 3/68 (4%)
+
+Query  1    MIGIGAGNATDGQVLVVQDMLGLTFGRVARFVRNFMKEQSGETAILDAFKAFHAAVQDQS  60
+            +IGIGAG  TDGQ+LV+ D+LG+T GR  RFV+NFM E      I DAF+ +H AV+ + 
+Sbjct  199  VIGIGAGPDTDGQILVMHDILGVTRGRSPRFVKNFMAEAED---IPDAFRRYHDAVKTRR  255
+
+Query  61   FPAKEHTF  68
+            FPA+EH F
+Sbjct  256  FPAEEHCF  263
+
+
+
+Lambda      K        H
+   0.324    0.137    0.385 
+
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+
+Effective search space used: 778483407352
+
+
+  Database: NCBI Protein Reference Sequences
+    Posted date:  May 29, 2017 12:00 AM
+  Number of letters in database: 31,412,196,622
+  Number of sequences in database:  82,027,677
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40

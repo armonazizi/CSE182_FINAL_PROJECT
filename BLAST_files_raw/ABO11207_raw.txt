@@ -1,0 +1,4168 @@
+BLASTP 2.6.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: NCBI Protein Reference Sequences
+           82,027,677 sequences; 31,412,196,622 total letters
+
+
+
+Query= embl-cds:ABO11207 Excalibur OS=Acinetobacter baumannii (strain ATCC
+17978 / CIP 53.77 / LMG 1025 / NCDC KC755 / 5377) GN=A1S_0767 SV=1
+UP=UP000006737:Chromosome
+
+Length=115
+
+RID: JVP7W8KK015
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+WP_000242890.1  calcium-binding protein [Acinetobacter baumannii]     243     1e-081
+WP_064480084.1  calcium-binding protein [Acinetobacter baumannii]     242     1e-081
+WP_000242889.1  hypothetical protein [Acinetobacter baumannii]        241     4e-081
+WP_000242892.1  calcium-binding protein [Acinetobacter baumannii]     241     4e-081
+WP_000242891.1  calcium-binding protein [Acinetobacter baumannii]     241     4e-081
+WP_000242893.1  hypothetical protein [Acinetobacter baumannii]        240     1e-080
+WP_000242888.1  calcium-binding protein [Acinetobacter baumannii]     240     1e-080
+WP_000242887.1  calcium-binding protein [Acinetobacter baumannii]     240     1e-080
+WP_072618668.1  calcium-binding protein [Acinetobacter baumannii]     239     3e-080
+WP_032043940.1  calcium-binding protein [Acinetobacter baumannii]     237     2e-079
+WP_024438900.1  calcium-binding protein [Acinetobacter baumannii]     235     1e-078
+WP_077163847.1  calcium-binding protein [Acinetobacter genomosp. ...  228     2e-075
+WP_002050349.1  MULTISPECIES: excalibur domain protein [Acinetoba...  220     1e-072
+WP_031225352.1  calcium-binding protein [Acinetobacter nosocomialis]  218     6e-072
+WP_009499923.1  MULTISPECIES: excalibur domain protein [Acinetoba...  218     6e-072
+WP_025469632.1  calcium-binding protein [Acinetobacter nosocomialis]  218     8e-072
+WP_025466188.1  MULTISPECIES: calcium-binding protein [Acinetobac...  218     9e-072
+WP_068936188.1  calcium-binding protein [Acinetobacter seifertii]     214     2e-070
+WP_025469194.1  calcium-binding protein [Acinetobacter seifertii]     214     3e-070
+WP_077164672.1  calcium-binding protein [Acinetobacter genomosp. ...  211     6e-069
+WP_006581141.1  MULTISPECIES: calcium-binding protein [Acinetobac...  192     1e-061
+WP_032041322.1  calcium-binding protein [Acinetobacter baumannii]     192     2e-061
+WP_025465077.1  calcium-binding protein [Acinetobacter sp. GG2]       191     2e-061
+WP_039251673.1  calcium-binding protein [Acinetobacter baumannii]     191     3e-061
+WP_025465647.1  calcium-binding protein [Acinetobacter nosocomialis]  191     5e-061
+WP_042075603.1  calcium-binding protein [Acinetobacter nosocomialis]  189     2e-060
+WP_032047852.1  MULTISPECIES: calcium-binding protein [Acinetobac...  189     3e-060
+WP_046812199.1  calcium-binding protein [Acinetobacter pittii]        187     9e-060
+WP_019385117.1  DNA-binding protein [Acinetobacter venetianus]        134     3e-037
+WP_061524574.1  DNA-binding protein [Acinetobacter venetianus]        134     3e-037
+WP_004881309.1  hypothetical protein [Acinetobacter venetianus]       134     4e-037
+WP_023013072.1  DNA-binding protein [Acinetobacter sp. COS3]          132     1e-036
+WP_061518381.1  DNA-binding protein [Acinetobacter venetianus]        132     1e-036
+WP_061393337.1  DNA-binding protein [Acinetobacter venetianus]        132     1e-036
+WP_061398054.1  DNA-binding protein [Acinetobacter haemolyticus]      132     1e-036
+WP_007480967.1  MULTISPECIES: DNA-binding protein [Acinetobacter]     132     1e-036
+WP_004960305.1  hypothetical protein [Acinetobacter junii]            123     5e-033
+WP_005403159.1  DNA-binding protein [Acinetobacter junii]             123     7e-033
+WP_004952468.1  hypothetical protein [Acinetobacter junii]            123     8e-033
+WP_075696146.1  DNA-binding protein [Acinetobacter junii]             122     1e-032
+WP_004914271.1  hypothetical protein [Acinetobacter junii]            122     1e-032
+WP_034427536.1  DNA-binding protein [Acinetobacter sp. CIP 102143]    120     6e-032
+WP_065343563.1  DNA-binding protein [Acinetobacter gyllenbergii]      116     2e-030
+WP_045794050.1  hypothetical protein [Acinetobacter brisouii]         113     4e-030
+WP_004901911.1  hypothetical protein [Acinetobacter brisouii]         113     5e-030
+WP_004750677.1  hypothetical protein [Acinetobacter sp. ANC 3789]     112     1e-029
+WP_062846463.1  DNA-binding protein [Acinetobacter sp. NRRL B-65365]  114     1e-029
+WP_032862306.1  DNA-binding protein [Acinetobacter sp. NIPH 2036]     114     1e-029
+WP_008941869.1  MULTISPECIES: DNA-binding protein [Acinetobacter]     113     5e-029
+WP_005256174.1  hypothetical protein [Acinetobacter sp. NIPH 2168]    113     6e-029
+WP_032868070.1  DNA-binding protein [Acinetobacter baumannii]         112     1e-028
+WP_005091564.1  hypothetical protein [Acinetobacter haemolyticus]     112     1e-028
+WP_017395956.1  DNA-binding protein [Acinetobacter haemolyticus]      112     1e-028
+WP_005081345.1  hypothetical protein [Acinetobacter haemolyticus]     111     2e-028
+WP_047430901.1  DNA-binding protein [Acinetobacter sp. neg1]          110     4e-028
+WP_004638063.1  DNA-binding protein [Acinetobacter haemolyticus]      110     9e-028
+WP_005228931.1  hypothetical protein [Acinetobacter sp. NIPH 1847]    109     1e-027
+WP_032874855.1  DNA-binding protein [Acinetobacter baumannii]         109     1e-027
+WP_023270728.1  hypothetical protein [Acinetobacter gyllenbergii]     108     2e-027
+WP_016660439.1  hypothetical protein [Acinetobacter gyllenbergii]     108     2e-027
+WP_005239453.1  DNA-binding protein [Acinetobacter sp. CIP 64.2]      108     5e-027
+WP_050041286.1  DNA-binding protein [Acinetobacter parvus]            108     5e-027
+WP_018677942.1  hypothetical protein [Acinetobacter tjernbergiae]     108     6e-027
+WP_034602639.1  DNA-binding protein [Acinetobacter sp. NIPH 284]      107     9e-027
+WP_005283670.1  hypothetical protein [Acinetobacter sp. NIPH 3623]    107     1e-026
+WP_086199177.1  DNA-binding protein [Acinetobacter sp. ANC 4169]      106     2e-026
+WP_034432633.1  DNA-binding protein [Acinetobacter sp. CIP 102129]    106     3e-026
+WP_086203679.1  hypothetical protein [Acinetobacter sp. ANC 4999]     106     3e-026
+WP_004669870.1  hypothetical protein [Acinetobacter sp. CIP-A165]     105     4e-026
+WP_005273062.1  hypothetical protein [Acinetobacter sp. NIPH 1859]    104     9e-026
+WP_016659365.1  hypothetical protein [Acinetobacter indicus]          104     1e-025
+WP_005218103.1  hypothetical protein [Acinetobacter sp. ANC 3862]     104     1e-025
+WP_078191092.1  hypothetical protein [Acinetobacter sp. ANC 4945]     105     1e-025
+WP_004663738.1  hypothetical protein [Acinetobacter sp. NIPH 236]     103     2e-025
+WP_058870136.1  DNA-binding protein [Acinetobacter johnsonii]         103     3e-025
+WP_086205744.1  hypothetical protein [Acinetobacter sp. ANC 4648]     103     3e-025
+WP_005198289.1  hypothetical protein [Acinetobacter sp. NIPH 298]     103     5e-025
+WP_078389998.1  DNA-binding protein [Acinetobacter sp. MF4640]        103     5e-025
+WP_067870265.1  DNA-binding protein [Acinetobacter sp. SFB]           102     6e-025
+WP_010327352.1  MULTISPECIES: cold-shock protein [Acinetobacter]      102     7e-025
+WP_062034072.1  DNA-binding protein [Acinetobacter sp. BMW17]         102     9e-025
+WP_086212648.1  DNA-binding protein [Acinetobacter sp. ANC 3813]      102     1e-024
+WP_004695405.1  hypothetical protein [Acinetobacter johnsonii]        102     1e-024
+WP_004732058.1  hypothetical protein [Acinetobacter lwoffii]          101     2e-024
+WP_039621343.1  DNA-binding protein [Acinetobacter harbinensis]       101     3e-024
+WP_039890001.1  DNA-binding protein [Acinetobacter johnsonii]         100     3e-024
+WP_005247884.1  hypothetical protein [Acinetobacter sp. CIP 51.11]    100     4e-024
+WP_005106214.1  hypothetical protein [Acinetobacter lwoffii]          100     5e-024
+WP_086196025.1  DNA-binding protein [Acinetobacter sp. ANC 4218]      100     9e-024
+WP_004982897.1  hypothetical protein [Acinetobacter johnsonii]        99.8    1e-023
+WP_044111069.1  DNA-binding protein [Acinetobacter idrijaensis]       99.4    1e-023
+WP_005057668.1  hypothetical protein [Acinetobacter beijerinckii]     99.0    2e-023
+WP_005056721.1  hypothetical protein [Acinetobacter beijerinckii]     99.0    2e-023
+WP_004280762.1  MULTISPECIES: DNA-binding protein [Acinetobacter]     99.0    2e-023
+WP_005252662.1  hypothetical protein [Acinetobacter sp. CIP 102136]   98.6    3e-023
+WP_086194305.1  DNA-binding protein [Acinetobacter sp. ANC 4655]      98.6    4e-023
+WP_043970801.1  DNA-binding protein [Acinetobacter sp. NBRC 110496]   98.2    4e-023
+WP_070680700.1  cold-shock protein [Neisseria sp. HMSC055H02]         97.8    4e-023
+WP_004682946.1  MULTISPECIES: hypothetical protein [Acinetobacter]    97.8    5e-023
+WP_005265970.1  MULTISPECIES: hypothetical protein [Acinetobacter]    97.4    8e-023
+WP_036499191.1  calcium-binding protein [Nitrosococcus oceani]        94.4    1e-022
+WP_086208142.1  DNA-binding protein [Acinetobacter sp. ANC 4204]      97.1    1e-022
+WP_013221548.1  calcium-binding protein [Nitrosococcus watsonii]      93.6    2e-022
+WP_034702024.1  DNA-binding protein [Acinetobacter baumannii]         95.5    4e-022
+WP_064096450.1  DNA-binding protein [Acinetobacter sp. SFD]           95.5    5e-022
+WP_064102493.1  DNA-binding protein [Acinetobacter sp. SFA]           95.5    5e-022
+WP_016166014.1  hypothetical protein [Acinetobacter tandoii]          95.5    6e-022
+WP_084708362.1  calcium-binding protein [Marinobacter psychrophilus]  91.7    1e-021
+WP_071850792.1  DNA-binding protein [Acinetobacter sp. AR2-3]         94.0    2e-021
+WP_005007978.1  hypothetical protein [Acinetobacter bouvetii]         94.0    2e-021
+WP_053578559.1  DNA-binding protein [Acinetobacter sp. TTH0-4]        93.6    2e-021
+WP_063882339.1  MULTISPECIES: calcium-binding protein [Shewanella]    89.4    3e-021
+WP_082817481.1  hypothetical protein [Microbulbifer thermotolerans]   89.7    4e-021
+WP_086179780.1  DNA-binding protein [Acinetobacter sp. ANC 5054]      93.2    4e-021
+WP_036972650.1  hypothetical protein [Pseudoalteromonas lipolytica]   88.6    8e-021
+WP_049239227.1  cold-shock protein [Morococcus cerebrosus]            90.5    1e-020
+WP_049226044.1  cold-shock protein [Morococcus cerebrosus]            90.9    1e-020
+WP_009173348.1  cold-shock protein [Neisseria sp. oral taxon 014]     91.7    1e-020
+WP_039407587.1  MULTISPECIES: cold-shock protein [Neisseriaceae]      90.9    2e-020
+WP_070860191.1  MULTISPECIES: cold-shock protein [Neisseria]          90.9    2e-020
+WP_060975670.1  cold-shock protein [Porphyrobacter donghaensis]       90.9    2e-020
+WP_016688386.1  cold-shock protein [Neisseria sicca]                  90.9    2e-020
+WP_070865808.1  cold-shock protein [Neisseria sp. HMSC064F04]         90.9    2e-020
+WP_011847847.1  calcium-binding protein [Shewanella baltica]          87.4    2e-020
+WP_034581914.1  cold-shock protein [Acinetobacter sp. HR7]            89.7    3e-020
+WP_067665244.1  DNA-binding protein [Acinetobacter sp. ANC 4149]      90.5    4e-020
+WP_049227921.1  cold-shock protein [Morococcus cerebrosus]            90.1    4e-020
+WP_083847066.1  calcium-binding protein [Marinobacter sp. BSs20148]   87.8    4e-020
+WP_084708417.1  hypothetical protein [Marinobacter psychrophilus]     86.3    4e-020
+WP_003740681.1  cold-shock protein [Neisseria mucosa]                 89.7    5e-020
+WP_070540871.1  MULTISPECIES: cold-shock protein [Neisseria]          89.7    5e-020
+WP_070613293.1  cold-shock protein [Neisseria sp. HMSC055F11]         89.7    5e-020
+WP_008167721.1  cold-shock protein [Pseudoalteromonas sp. BSi20652]   89.4    5e-020
+WP_070656512.1  cold-shock protein [Neisseria sp. HMSC072F04]         89.7    5e-020
+WP_070689131.1  cold-shock protein [Neisseria sp. HMSC067H09]         89.7    5e-020
+WP_070492811.1  cold-shock protein [Neisseria sp. HMSC15C08]          89.7    5e-020
+WP_081695436.1  hypothetical protein [Psychromonas sp. SP041]         86.7    6e-020
+WP_086164476.1  cold-shock protein [Acinetobacter sp. ANC 4654]       89.0    6e-020
+WP_024593603.1  cold-shock protein [Pseudoalteromonas sp. TB13]       89.0    8e-020
+WP_033039085.1  cold-shock protein [Pseudoalteromonas sp. S3431]      89.0    8e-020
+WP_008135205.1  cold-shock protein [Pseudoalteromonas sp. BSi20495]   89.0    8e-020
+WP_082054947.1  DNA-binding protein [Cupriavidus basilensis]          87.8    1e-019
+WP_053911646.1  hypothetical protein [Pseudoalteromonas sp. SW010...  87.4    2e-019
+WP_086185144.1  hypothetical protein [Acinetobacter sp. ANC 4973]     84.7    2e-019
+WP_015840084.1  calcium-binding protein [Pectobacterium carotovorum]  85.1    2e-019
+WP_024604296.1  MULTISPECIES: cold-shock protein [Pseudoalteromonas]  87.8    2e-019
+WP_024598365.1  cold-shock protein [Pseudoalteromonas sp. TAE56]      87.0    4e-019
+WP_070497007.1  cold-shock protein [Neisseria sp. HMSC064E01]         87.4    4e-019
+WP_070513819.1  cold-shock protein [Neisseria sp. HMSC077D05]         87.4    5e-019
+WP_055253636.1  cold-shock protein [Pseudoalteromonas sp. P1-11]      86.7    5e-019
+WP_029773624.1  cold-shock protein [Pseudoalteromonas sp. TB51]       86.7    5e-019
+WP_068379527.1  hypothetical protein [Paraglaciecola sp. S66]         86.3    5e-019
+WP_067726415.1  DNA-binding protein [Acinetobacter sp. SFC]           87.4    6e-019
+WP_011330325.1  calcium-binding protein [Nitrosococcus oceani]        84.7    7e-019
+WP_082218613.1  hypothetical protein [Pectobacterium parmentieri]     83.6    7e-019
+WP_025096086.1  MULTISPECIES: hypothetical protein [Acinetobacter]    86.3    8e-019
+WP_008043972.1  putative cold-shock DNA-binding domain [Reinekea ...  83.2    9e-019
+WP_045978793.1  hypothetical protein [Pseudoalteromonas ruthenica]    85.5    9e-019
+WP_084164460.1  hypothetical protein [Rheinheimera texasensis]        82.0    1e-018
+WP_022944207.1  cold-shock protein [Pseudoalteromonas ruthenica]      85.1    1e-018
+WP_070603413.1  cold-shock protein [Neisseria sp. HMSC074B07]         86.3    1e-018
+WP_084708261.1  calcium-binding protein [Marinobacter psychrophilus]  84.0    1e-018
+WP_003757775.1  MULTISPECIES: cold-shock protein [Neisseria]          85.9    2e-018
+WP_028867551.1  hypothetical protein [Psychromonas arctica]           84.0    2e-018
+WP_085297361.1  hypothetical protein [Colwellia mytili]               85.5    2e-018
+WP_005030879.1  hypothetical protein [Acinetobacter bereziniae]       86.3    2e-018
+WP_072034233.1  calcium-binding protein [Pectobacterium carotovorum]  82.4    2e-018
+WP_086188488.1  DNA-binding protein [Acinetobacter sp. ANC 4470]      85.9    2e-018
+WP_081759769.1  hypothetical protein [Pseudoalteromonas lipolytica]   82.8    2e-018
+WP_026291916.1  calcium-binding protein [Marinobacterium rhizophi...  82.0    2e-018
+WP_081181231.1  hypothetical protein [Colwellia sp. PAMC 21821]       84.7    3e-018
+WP_046761441.1  calcium-binding protein [Acinetobacter sp. Ag2]       85.5    3e-018
+WP_083870886.1  hypothetical protein [Marinobacter santoriniensis]    81.6    3e-018
+WP_032096677.1  MULTISPECIES: hypothetical protein [Alteromonas]      84.0    4e-018
+WP_058373450.1  cold-shock protein [Pseudoalteromonas translucida]    84.3    5e-018
+WP_042090145.1  calcium-binding protein [Acinetobacter bereziniae]    85.1    5e-018
+WP_083447048.1  hypothetical protein [Azoarcus sp. CIB]               81.3    5e-018
+WP_024160760.1  MULTISPECIES: cold-shock protein [Acinetobacter]      83.2    6e-018
+WP_004827964.1  hypothetical protein [Acinetobacter bereziniae]       85.1    6e-018
+WP_082446211.1  calcium-binding protein [Marinobacter lipolyticus]    81.3    6e-018
+WP_054982535.1  cold-shock protein [Pseudoalteromonas sp. P1-30]      84.0    6e-018
+WP_014615451.1  calcium-binding protein [Shewanella baltica]          84.7    6e-018
+WP_004586626.1  cold-shock protein [Pseudoalteromonas agarivorans]    84.0    6e-018
+WP_083422906.1  hypothetical protein [Pseudoalteromonas lipolytica]   81.6    6e-018
+WP_071531091.1  calcium-binding protein [Pectobacterium wasabiae]     81.3    7e-018
+WP_024033586.1  cold-shock protein [Pseudoalteromonas sp. NW 4327]    83.6    7e-018
+WP_076774559.1  hypothetical protein [Enhydrobacter sp. H5]           84.0    7e-018
+WP_038350031.1  MULTISPECIES: hypothetical protein [Acinetobacter]    82.8    7e-018
+WP_006087383.1  calcium-binding protein [Shewanella baltica]          84.3    8e-018
+WP_083202773.1  MULTISPECIES: hypothetical protein [Pseudoalterom...  81.3    8e-018
+WP_082081291.1  calcium-binding protein [Methylococcaceae bacteri...  80.5    9e-018
+WP_024603530.1  cold-shock protein [Pseudoalteromonas sp. TB25]       82.0    9e-018
+WP_024613001.1  cold-shock protein [Pseudoalteromonas sp. TB64]       83.6    1e-017
+WP_005006047.1  MULTISPECIES: hypothetical protein [Acinetobacter]    82.4    1e-017
+WP_058550083.1  cold-shock protein [Pseudoalteromonas sp. H103]       83.6    1e-017
+WP_009585550.1  MULTISPECIES: excalibur domain protein [Acinetoba...  84.3    1e-017
+WP_005028541.1  hypothetical protein [Acinetobacter bereziniae]       82.4    1e-017
+WP_068523935.1  MULTISPECIES: hypothetical protein [Acinetobacter]    82.4    1e-017
+WP_044619430.1  hypothetical protein [Gynuella sunshinyii]            80.5    1e-017
+WP_084271269.1  hypothetical protein [Shewanella haliotis]            79.0    1e-017
+WP_072062034.1  calcium-binding protein [Pectobacterium carotovorum]  80.5    1e-017
+WP_039487910.1  MULTISPECIES: cold-shock protein [Pseudoalteromonas]  83.2    1e-017
+WP_081737176.1  MULTISPECIES: hypothetical protein [Shewanella]       78.6    2e-017
+WP_081149718.1  hypothetical protein [Colwellia sp. NB097-1]          82.8    2e-017
+WP_078192287.1  DNA-binding protein [Acinetobacter sp. ANC 5600]      83.6    2e-017
+WP_011328278.1  cold-shock protein [Pseudoalteromonas haloplanktis]   82.4    2e-017
+WP_082014378.1  MULTISPECIES: hypothetical protein [Shewanella]       78.2    3e-017
+WP_012197958.1  calcium-binding protein [Shewanella baltica]          82.8    3e-017
+WP_081933500.1  hypothetical protein [Shewanella mangrovi]            79.7    3e-017
+WP_055019731.1  cold-shock protein [Pseudoalteromonas sp. P1-7a]      82.4    3e-017
+WP_024597201.1  cold-shock protein [Pseudoalteromonas sp. AC163]      82.0    3e-017
+WP_005169639.1  hypothetical protein [Acinetobacter sp. NIPH 713]     79.0    3e-017
+WP_058428874.1  MULTISPECIES: cold-shock protein [Pseudoalteromonas]  82.0    3e-017
+WP_007586763.1  cold-shock protein [Pseudoalteromonas sp. BSi20429]   82.0    3e-017
+WP_084609811.1  calcium-binding protein [Sedimenticola selenatire...  79.0    4e-017
+WP_026861138.1  hypothetical protein [Idiomarina sediminum]           79.0    4e-017
+WP_043317156.1  hypothetical protein [Microbulbifer sp. HZ11]         79.3    5e-017
+WP_049756045.1  hypothetical protein [Aggregatibacter aphrophilus]    78.6    5e-017
+WP_004819341.1  hypothetical protein [Acinetobacter guillouiae]       82.4    6e-017
+WP_056514683.1  calcium-binding protein [Acinetobacter sp. Root1280]  82.0    7e-017
+WP_010552750.1  cold-shock protein [Pseudoalteromonas arctica]        81.3    7e-017
+WP_071979914.1  hypothetical protein [Alteromonas sp. RW2A1]          80.5    8e-017
+WP_074498943.1  hypothetical protein [Thalassotalea sp. PP2-459]      80.5    9e-017
+WP_004722817.1  hypothetical protein [Acinetobacter guillouiae]       81.6    9e-017
+WP_055014827.1  cold-shock protein [Pseudoalteromonas sp. P1-13-1a]   80.9    1e-016
+WP_025255780.1  hypothetical protein [Alteromonas sp. ALT199]         77.8    1e-016
+WP_043135110.1  calcium-binding protein [Pectobacterium atrosepti...  78.2    1e-016
+WP_011094020.1  calcium-binding protein [Pectobacterium atrosepti...  78.2    1e-016
+WP_033031877.1  MULTISPECIES: cold-shock protein [Pseudoalteromonas]  80.5    1e-016
+WP_075278085.1  calcium-binding protein [Pectobacterium carotovorum]  77.8    1e-016
+WP_067764659.1  hypothetical protein [Acinetobacter gandensis]        81.3    1e-016
+WP_064228292.1  MULTISPECIES: calcium-binding protein [Marinobacter]  77.4    2e-016
+WP_034611073.1  calcium-binding protein [Acinetobacter sp. ETR1]      80.9    2e-016
+WP_034774739.1  hypothetical protein [Idiomarina salinarum]           77.0    3e-016
+WP_072035883.1  calcium-binding protein [Pectobacterium carotovorum]  77.0    3e-016
+WP_072010372.1  calcium-binding protein [Pectobacterium carotovorum]  77.0    3e-016
+WP_024608652.1  cold-shock protein [Pseudoalteromonas sp. TAB23]      79.3    3e-016
+WP_034279893.1  hypothetical protein [Alkanindiges illinoisensis]     79.0    4e-016
+WP_081698872.1  hypothetical protein [Marinobacter sp. EN3]           75.1    4e-016
+WP_070177397.1  hypothetical protein [Alteromonas lipolytica]         78.6    4e-016
+WP_055017653.1  cold-shock protein [Pseudoalteromonas sp. P1-25]      79.3    4e-016
+WP_050659456.1  hypothetical protein [Gallaecimonas pentaromativo...  76.3    5e-016
+WP_082361919.1  hypothetical protein [beta proteobacterium AAP51]     77.4    5e-016
+WP_007986490.1  hypothetical protein [Paraglaciecola chathamensis]    76.3    6e-016
+WP_013753988.1  calcium-binding protein [Glaciecola sp. 4H-3-7+YE-5]  76.3    6e-016
+WP_003750571.1  DNA-binding protein [Neisseria polysaccharea]         78.6    6e-016
+WP_033112692.1  DNA-binding protein [Aeromonas lacus]                 79.0    7e-016
+WP_003681678.1  DNA-binding protein [Neisseria flavescens]            78.2    7e-016
+WP_024589306.1  MULTISPECIES: cold-shock protein [Pseudoalteromonas]  78.2    8e-016
+WP_055250470.1  hypothetical protein [Xanthomonas sp. Mitacek01]      75.5    9e-016
+WP_076921296.1  cold-shock protein [Pseudoalteromonas sp. SK20]       77.8    1e-015
+WP_006990828.1  MULTISPECIES: hypothetical protein [Alteromonadales]  75.9    1e-015
+WP_082897285.1  hypothetical protein [Thalassotalea sp. LPB0090]      75.1    1e-015
+WP_064663958.1  cold-shock protein [Pseudoalteromonas sp. MQS005]     77.8    1e-015
+WP_083494351.1  hypothetical protein [Colwellia sp. MT41]             73.9    1e-015
+WP_021138184.1  cold-shock protein [Aeromonas salmonicida]            78.2    1e-015
+WP_013346575.1  excalibur domain-containing protein [Ferrimonas b...  75.1    2e-015
+WP_013802607.1  calcium-binding protein [Delftia sp. Cs1-4]           75.1    2e-015
+WP_043821350.1  hypothetical protein [Delftia sp. RIT313]             74.7    2e-015
+WP_059168366.1  DNA-binding protein [Aeromonas salmonicida]           77.8    2e-015
+WP_022991941.1  MULTISPECIES: hypothetical protein [Marinobacter]     75.5    2e-015
+WP_008305946.1  hypothetical protein [Paraglaciecola agarilytica]     74.7    2e-015
+WP_005317310.1  DNA-binding protein [Aeromonas salmonicida]           77.4    2e-015
+WP_058393797.1  DNA-binding protein [Aeromonas salmonicida]           77.4    2e-015
+WP_025458226.1  DNA-binding protein [Neisseria polysaccharea]         77.0    3e-015
+WP_086191243.1  hypothetical protein [Acinetobacter sp. ANC 3832]     78.2    3e-015
+WP_042467803.1  DNA-binding protein [Aeromonas salmonicida]           77.4    3e-015
+WP_063333964.1  hypothetical protein [Marinomonas sp. TW1]            74.7    3e-015
+WP_085363252.1  hypothetical protein [Neisseria zoodegmatis]          74.3    3e-015
+WP_085331618.1  hypothetical protein [Colwellia sediminilitoris]      76.6    3e-015
+WP_019621988.1  hypothetical protein [Amphritea japonica]             74.3    3e-015
+WP_013449638.1  DNA-binding protein [Neisseria lactamica]             76.6    4e-015
+WP_085303562.1  hypothetical protein [Colwellia polaris]              76.6    4e-015
+WP_019498889.1  hypothetical protein [Pseudanabaena sp. PCC 6802]     73.9    4e-015
+WP_011575134.1  calcium-binding protein [Pseudoalteromonas atlant...  74.3    4e-015
+WP_047533580.1  hypothetical protein [Methylotenera sp. N17]          73.6    5e-015
+WP_076920555.1  cold-shock protein [Pseudoalteromonas sp. SK18]       75.9    5e-015
+WP_083538144.1  hypothetical protein [Fibrobacter sp. UWH9]           73.6    6e-015
+WP_010390043.1  cold-shock protein [Pseudoalteromonas undina]         75.9    7e-015
+WP_006158063.1  DNA-binding protein [Cupriavidus basilensis]          75.9    7e-015
+WP_013802085.1  calcium-binding protein [Delftia sp. Cs1-4]           73.2    8e-015
+WP_084183418.1  hypothetical protein [Nevskia soli]                   73.6    8e-015
+WP_033029872.1  MULTISPECIES: hypothetical protein [Pseudoalterom...  73.2    8e-015
+WP_019837526.1  hypothetical protein [Acinetobacter sp. MDS7A]        75.5    8e-015
+WP_019272034.1  DNA-binding protein [Neisseria lactamica]             75.5    9e-015
+WP_039219432.1  hypothetical protein [Alteromonas marina]             72.8    9e-015
+WP_008113864.1  MULTISPECIES: cold-shock protein [Pseudoalteromonas]  75.5    9e-015
+WP_052000846.1  hypothetical protein [Marinobacter sp. C1S70]         72.4    9e-015
+WP_080554210.1  hypothetical protein [Comamonas testosteroni]         72.0    1e-014
+WP_060389955.1  DNA-binding protein [Aeromonas hydrophila]            75.5    1e-014
+WP_039215602.1  DNA-binding protein [Aeromonas hydrophila]            75.5    1e-014
+WP_076096685.1  cold-shock protein [Azonexus hydrophilus]             75.5    1e-014
+WP_029304244.1  DNA-binding protein [Aeromonas hydrophila]            75.5    1e-014
+WP_034395069.1  hypothetical protein [Delftia acidovorans]            72.8    1e-014
+WP_076360387.1  MULTISPECIES: DNA-binding protein [Aeromonas]         75.5    1e-014
+WP_049048171.1  DNA-binding protein [Aeromonas hydrophila]            75.5    1e-014
+WP_081007879.1  calcium-binding protein [Comamonas testosteroni]      72.4    1e-014
+WP_070646480.1  DNA-binding protein [Neisseria sp. HMSC073G10]        75.1    1e-014
+WP_070584420.1  DNA-binding protein [Neisseria sp. HMSC072C05]        75.1    1e-014
+WP_054200957.1  cold-shock protein [Pseudoalteromonas tetraodonis]    75.1    1e-014
+WP_081033923.1  hypothetical protein [Comamonas testosteroni]         71.6    1e-014
+WP_055012128.1  cold-shock protein [Pseudoalteromonas sp. P1-16-1b]   75.1    1e-014
+WP_066085786.1  hypothetical protein [Hydrogenophaga sp. LPB0072]     75.1    2e-014
+WP_073351310.1  DNA-binding protein [Aeromonas aquatica]              75.5    2e-014
+WP_039050405.1  hypothetical protein [Comamonas testosteroni]         72.4    2e-014
+WP_013783748.1  cold-shock protein [Alteromonas naphthalenivorans]    72.0    2e-014
+WP_075169211.1  cold-shock protein [Pseudoalteromonas haloplanktis]   74.7    2e-014
+WP_033137514.1  DNA-binding protein [Aeromonas finlandiensis]         75.5    2e-014
+WP_070873677.1  DNA-binding protein [Neisseria sp. HMSC078H04]        74.7    2e-014
+WP_083518151.1  hypothetical protein [Dechloromonas denitrificans]    72.4    2e-014
+WP_054580021.1  hypothetical protein [Acinetobacter equi]             71.2    2e-014
+WP_017409241.1  DNA-binding protein [Aeromonas hydrophila]            75.1    2e-014
+WP_082723357.1  hypothetical protein [Lysobacter capsici]             74.7    2e-014
+WP_013464965.1  MULTISPECIES: cold-shock protein [Pseudoalteromonas]  74.7    2e-014
+WP_057832307.1  hypothetical protein [Colwellia sp. TT2012]           72.4    2e-014
+WP_033103431.1  MULTISPECIES: cold-shock protein [Alteromonadales]    74.7    2e-014
+WP_082627208.1  hypothetical protein [Colwellia sp. TT2012]           71.2    2e-014
+WP_007103788.1  hypothetical protein [Paraglaciecola polaris]         72.4    2e-014
+WP_084224414.1  DNA-binding protein [Stenoxybacter acetivorans]       71.6    3e-014
+WP_069077671.1  calcium-binding protein [Pseudomonas fluorescens]     71.6    3e-014
+WP_075932138.1  MULTISPECIES: calcium-binding protein [Pseudomonas]   72.4    3e-014
+WP_068978056.1  DNA-binding protein [Aeromonas sp. EERV15]            74.7    3e-014
+WP_057638538.1  hypothetical protein [Stenotrophomonas ginsengisoli]  73.9    3e-014
+WP_085389413.1  hypothetical protein [Neisseria animaloris]           74.7    3e-014
+WP_081756099.1  hypothetical protein [Candidatus Contendobacter o...  71.6    3e-014
+WP_045750146.1  DNA-binding protein [Neisseria lactamica]             73.9    3e-014
+WP_083930850.1  DNA-binding protein [Solimonas variicoloris]          71.2    3e-014
+WP_075113471.1  DNA-binding protein [Aeromonas sp. YN13HZO-058]       74.7    3e-014
+WP_081601594.1  calcium-binding protein [Thiobacillus denitrificans]  71.6    3e-014
+WP_002240229.1  DNA-binding protein [Neisseria meningitidis]          73.9    4e-014
+WP_005029382.1  hypothetical protein [Acinetobacter bereziniae]       73.9    4e-014
+WP_064340812.1  DNA-binding protein [Aeromonas veronii]               74.3    4e-014
+WP_019027749.1  hypothetical protein [Colwellia piezophila]           71.6    4e-014
+WP_029299330.1  DNA-binding protein [Aeromonas hydrophila]            74.3    4e-014
+WP_027906050.1  calcium-binding protein [Pseudomonas sp. URMO17WK...  72.0    4e-014
+WP_036469414.1  DNA-binding protein [Neisseria lactamica]             73.6    4e-014
+WP_063665123.1  hypothetical protein [Comamonas thiooxydans]          71.2    4e-014
+WP_045840609.1  hypothetical protein [Comamonas thiooxydans]          71.2    4e-014
+WP_054552227.1  hypothetical protein [Pseudoalteromonas lipolytica]   71.2    5e-014
+WP_080745930.1  hypothetical protein [Comamonas testosteroni]         70.1    5e-014
+WP_034170092.1  cold-shock protein [Acinetobacter sp. YZS-X1-1]       73.6    5e-014
+WP_080583047.1  calcium-binding protein [Pseudomonas stutzeri]        71.2    5e-014
+WP_058068797.1  calcium-binding protein [Pseudomonas sp. TTU2014-...  71.6    5e-014
+WP_054545391.1  DNA-binding protein [Aeromonas hydrophila]            73.9    5e-014
+WP_084785865.1  hypothetical protein [Psychrobacter urativorans]      70.1    5e-014
+WP_072924602.1  DNA-binding protein [Microcystis aeruginosa]          71.6    5e-014
+WP_009427095.1  hypothetical protein [Neisseria sp. oral taxon 020]   71.2    5e-014
+WP_071838741.1  hypothetical protein [Tolypothrix campylonemoides]    71.2    5e-014
+WP_042658582.1  DNA-binding protein [Aeromonas allosaccharophila]     74.3    5e-014
+WP_045789195.1  DNA-binding protein [Aeromonas hydrophila]            73.9    5e-014
+WP_003281955.1  calcium-binding protein [Pseudomonas stutzeri]        70.9    6e-014
+WP_070630453.1  DNA-binding protein [Neisseria sp. HMSC069H12]        73.6    6e-014
+WP_076495949.1  calcium-binding protein [Neptunomonas antarctica]     70.9    6e-014
+WP_081428708.1  hypothetical protein [Colwellia psychrerythraea]      70.9    6e-014
+WP_082755148.1  hypothetical protein [Variovorax sp. PAMC 28711]      70.9    6e-014
+WP_017780559.1  DNA-binding protein [Aeromonas hydrophila]            73.9    6e-014
+WP_070461036.1  DNA-binding protein [Neisseria sp. HMSC15G01]         73.2    6e-014
+WP_065016811.1  DNA-binding protein [Aeromonas dhakensis]             73.9    6e-014
+WP_017781576.1  DNA-binding protein [Aeromonas hydrophila]            73.9    6e-014
+WP_049231380.1  DNA-binding protein [Neisseria lactamica]             73.6    7e-014
+WP_028835220.1  MULTISPECIES: cold-shock protein [Pseudoalteromonas]  73.2    7e-014
+WP_012265359.1  DNA-binding protein [Microcystis aeruginosa]          71.2    7e-014
+WP_031437515.1  hypothetical protein [Methylobacter tundripaludum]    73.2    7e-014
+WP_042006932.1  DNA-binding protein [Aeromonas dhakensis]             73.6    7e-014
+WP_083494349.1  hypothetical protein [Colwellia sp. MT41]             69.7    7e-014
+WP_082925097.1  hypothetical protein [Alteromonadaceae bacterium ...  69.7    7e-014
+WP_080613520.1  DNA-binding protein [Neisseria sicca]                 73.2    7e-014
+WP_076420320.1  hypothetical protein [Colwellia sp. UCD-KL20]         70.9    7e-014
+WP_083203069.1  hypothetical protein [Marinomonas gallaica]           70.9    7e-014
+WP_083839917.1  hypothetical protein [Burkholderiales bacterium J...  70.5    7e-014
+WP_002736899.1  excalibur calcium-binding domain protein [Microcy...  70.9    8e-014
+WP_013790024.1  calcium-binding protein [Pseudomonas fulva]           71.2    8e-014
+WP_084387298.1  hypothetical protein [Psychrobacter alimentarius]     71.2    9e-014
+WP_002781698.1  hypothetical protein [Microcystis aeruginosa]         70.9    9e-014
+WP_017764963.1  MULTISPECIES: DNA-binding protein [Aeromonas]         73.6    9e-014
+WP_031431990.1  hypothetical protein [Methylomicrobium agile]         73.2    9e-014
+WP_004831072.1  hypothetical protein [Acinetobacter bereziniae]       72.8    1e-013
+WP_061005286.1  cold-shock protein [Aliivibrio wodanis]               72.0    1e-013
+WP_061014450.1  cold-shock protein [Aliivibrio wodanis]               72.0    1e-013
+WP_082866090.1  hypothetical protein [Marinomonas gallaica]           70.5    1e-013
+WP_065641228.1  cold-shock protein [Aliivibrio fischeri]              72.0    1e-013
+WP_022965041.1  cold-shock protein [Pseudomonas caeni]                70.5    1e-013
+WP_065593012.1  MULTISPECIES: cold-shock protein [Aliivibrio]         72.0    1e-013
+WP_019649943.1  calcium-binding protein [Pseudomonas sp. 45MFCol3.1]  70.1    1e-013
+WP_027909067.1  calcium-binding protein [Pseudomonas sp. URMO17WK...  70.9    1e-013
+WP_070047872.1  hypothetical protein [Rheinheimera salexigens]        70.1    1e-013
+WP_082367450.1  hypothetical protein [beta proteobacterium AAP121]    70.1    1e-013
+WP_053423172.1  hypothetical protein [Rheinheimera sp. KL1]           72.8    1e-013
+WP_070590047.1  DNA-binding protein [Neisseria sp. HMSC068C04]        72.4    1e-013
+WP_082606479.1  hypothetical protein [Colwellia sp. MT2012]           68.9    1e-013
+WP_042644029.1  DNA-binding protein [Aeromonas eucrenophila]          72.4    2e-013
+WP_002778602.1  DNA-binding protein [Microcystis aeruginosa]          70.1    2e-013
+WP_017057323.1  hypothetical protein [Vibrio kanaloae]                71.6    2e-013
+WP_042577976.1  hypothetical protein [Variovorax paradoxus]           69.7    2e-013
+WP_081528233.1  calcium-binding protein [Rubrivivax gelatinosus]      71.6    2e-013
+WP_002798855.1  DNA-binding protein [Microcystis aeruginosa]          70.1    2e-013
+WP_069652118.1  DNA-binding protein [Aeromonas caviae]                72.4    2e-013
+WP_004159012.1  DNA-binding protein [Microcystis aeruginosa]          70.1    2e-013
+WP_025201280.1  DNA-binding protein [Aeromonas hydrophila]            72.8    2e-013
+WP_004651047.1  hypothetical protein [Acinetobacter bohemicus]        72.4    2e-013
+WP_002803267.1  DNA-binding protein [Microcystis aeruginosa]          70.1    2e-013
+WP_045358342.1  DNA-binding protein [Microcystis aeruginosa]          70.1    2e-013
+WP_002742928.1  DNA-binding protein [Microcystis aeruginosa]          70.1    2e-013
+WP_084227920.1  hypothetical protein [Lysobacter sp. A03]             70.1    2e-013
+WP_076493624.1  DNA-binding protein [Aeromonas veronii]               72.4    2e-013
+WP_058058872.1  DNA-binding protein [Aeromonas veronii]               72.8    2e-013
+WP_011296726.1  DNA-binding protein [Cupriavidus pinatubonensis]      72.0    2e-013
+WP_085986507.1  hypothetical protein [Methylomonas sp. MK1]           69.3    2e-013
+WP_058057153.1  DNA-binding protein [Aeromonas veronii]               72.4    2e-013
+WP_085366191.1  hypothetical protein [Neisseria dentiae]              72.8    2e-013
+WP_058052743.1  DNA-binding protein [Aeromonas allosaccharophila]     72.4    2e-013
+WP_051669815.1  hypothetical protein [Methylomonas sp. LW13]          70.5    2e-013
+WP_005372866.1  DNA-binding protein [Methylomicrobium agile]          69.3    3e-013
+WP_070748683.1  DNA-binding protein [Neisseria sp. HMSC056A03]        71.6    3e-013
+WP_042082719.1  DNA-binding protein [Aeromonas veronii]               72.0    3e-013
+WP_005298269.1  DNA-binding protein [Aeromonas hydrophila]            72.0    3e-013
+WP_042054722.1  DNA-binding protein [Aeromonas veronii]               72.0    3e-013
+WP_081484397.1  hypothetical protein [Pasteurella bettyae]            69.3    3e-013
+WP_079246776.1  calcium-binding protein [Pseudomonas fluorescens]     69.3    3e-013
+WP_043822223.1  DNA-binding protein [Aeromonas veronii]               72.0    3e-013
+WP_082643989.1  calcium-binding protein [Pseudomonas sp. TTU2014-...  69.3    3e-013
+WP_082606467.1  hypothetical protein [Colwellia sp. MT2012]           68.2    3e-013
+WP_010552760.1  cold-shock protein [Pseudoalteromonas arctica]        71.6    3e-013
+WP_017785915.1  DNA-binding protein [Aeromonas hydrophila]            72.0    3e-013
+WP_041215651.1  DNA-binding protein [Aeromonas caviae]                72.0    3e-013
+WP_082041919.1  hypothetical protein [Mannheimia massilioguelmaen...  68.9    3e-013
+WP_043171220.1  MULTISPECIES: DNA-binding protein [Aeromonas]         72.0    3e-013
+WP_005362357.1  DNA-binding protein [Aeromonas veronii]               72.0    3e-013
+WP_017787982.1  DNA-binding protein [Aeromonas hydrophila]            72.0    3e-013
+WP_024941192.1  DNA-binding protein [Aeromonas hydrophila]            72.0    3e-013
+WP_042022846.1  DNA-binding protein [Aeromonas sobria]                72.0    3e-013
+WP_042049683.1  DNA-binding protein [Aeromonas dhakensis]             72.0    4e-013
+WP_021229754.1  DNA-binding protein [Aeromonas veronii]               71.6    4e-013
+WP_054598673.1  hypothetical protein [Neisseria sp. 74A18]            68.9    4e-013
+WP_015767950.1  DNA-binding protein [Candidatus Accumulibacter ph...  68.9    4e-013
+WP_081626508.1  MULTISPECIES: calcium-binding protein [Pseudomonas]   68.9    4e-013
+WP_084606278.1  hypothetical protein [Psychrobacter aquaticus]        68.9    4e-013
+WP_049253413.1  hypothetical protein [Neisseria elongata]             71.2    4e-013
+WP_064335668.1  DNA-binding protein [Aeromonas veronii]               71.6    4e-013
+WP_081622042.1  hypothetical protein [Endozoicomonas elysicola]       68.6    4e-013
+WP_082885637.1  hypothetical protein [Methylomonas koyamae]           69.7    4e-013
+WP_069526426.1  MULTISPECIES: DNA-binding protein [Aeromonas]         71.6    4e-013
+WP_083955096.1  hypothetical protein [Xylophilus ampelinus]           68.6    5e-013
+WP_033130970.1  DNA-binding protein [Aeromonas aquatica]              71.6    5e-013
+WP_021024679.1  calcium-binding protein [Comamonas sp. B-9]           68.9    5e-013
+WP_043153190.1  DNA-binding protein [Aeromonas sp. HZM]               71.2    5e-013
+WP_082368735.1  hypothetical protein [Ideonella sakaiensis]           70.9    5e-013
+WP_049636559.1  DNA-binding protein [Aeromonas caviae]                71.2    5e-013
+WP_061240691.1  calcium-binding protein [Pseudomonas composti]        68.9    6e-013
+WP_009855727.1  hypothetical protein [Rubrivivax benzoatilyticus]     70.1    7e-013
+WP_082894299.1  hypothetical protein [Psychrobacter sp. SHUES1]       67.8    7e-013
+WP_085752114.1  hypothetical protein [Rhizobacter gummiphilus]        70.5    7e-013
+WP_083468437.1  DNA-binding protein [[Pseudomonas] pictorum]          68.2    8e-013
+WP_081015033.1  calcium-binding protein [Pseudomonas fluorescens]     67.8    8e-013
+WP_084611959.1  hypothetical protein [Ferriphaselus amnicola]         68.2    8e-013
+WP_016514519.1  Excalibur calcium-binding domain protein [Microcy...  68.2    8e-013
+WP_065596726.1  cold-shock protein [Aliivibrio fischeri]              69.7    9e-013
+WP_046759806.1  MULTISPECIES: cold-shock protein [Acinetobacter]      70.5    9e-013
+WP_058154633.1  cold-shock protein [Pseudoalteromonas issachenkonii]  70.1    9e-013
+WP_017019814.1  hypothetical protein [Aliivibrio fischeri]            69.7    1e-012
+WP_018973302.1  hypothetical protein [Rudaea cellulosilytica]         69.7    1e-012
+WP_069295522.1  hypothetical protein [Methylophaga muralis]           70.1    1e-012
+WP_065600791.1  cold-shock protein [Aliivibrio sp. 1S128]             69.7    1e-012
+WP_027021988.1  hypothetical protein [Conchiformibius steedae]        67.8    1e-012
+WP_052736468.1  hypothetical protein [Aquincola tertiaricarbonis]     68.2    1e-012
+WP_064006951.1  hypothetical protein [Methylomonas methanica]         68.9    1e-012
+WP_005335126.1  DNA-binding protein [Aeromonas veronii]               70.5    1e-012
+WP_025651218.1  MULTISPECIES: hypothetical protein [Psychrobacter]    68.6    1e-012
+WP_081763626.1  hypothetical protein [Thiorhodococcus sp. AK35]       67.8    1e-012
+WP_026602200.1  hypothetical protein [Methylomonas sp. 11b]           68.9    1e-012
+WP_047438017.1  DNA-binding protein [Aeromonas sp. ZOR0001]           70.9    1e-012
+WP_051543122.1  hypothetical protein [Thiothrix lacustris]            70.9    1e-012
+WP_083386208.1  hypothetical protein [Methylomonas sp. LWB]           67.0    1e-012
+WP_034614488.1  cold-shock protein [Acinetobacter sp. ETR1]           70.1    1e-012
+WP_033021511.1  cold-shock protein [Pseudoalteromonas haloplanktis]   69.7    1e-012
+WP_084312820.1  hypothetical protein [Desulfobulbus elongatus]        66.2    1e-012
+WP_082787275.1  hypothetical protein [Psychrobacter sp. P11G5]        66.6    1e-012
+WP_027103198.1  DNA-binding protein [Comamonadaceae bacterium URH...  67.4    1e-012
+WP_006891714.1  Excalibur domain protein [Methylobacter tundripal...  69.7    2e-012
+WP_082879991.1  hypothetical protein [Methylomonas methanica]         67.0    2e-012
+WP_066273569.1  hypothetical protein [Hydrogenophaga palleronii]      70.1    2e-012
+WP_014159181.1  DNA-binding protein [Pseudoxanthomonas spadix]        67.0    2e-012
+WP_041977091.1  calcium-binding protein [Pseudomonas mendocina]       67.8    2e-012
+WP_065622176.1  cold-shock protein [Aliivibrio fischeri]              68.9    2e-012
+WP_074935893.1  calcium-binding protein [Pseudomonas composti]        67.8    2e-012
+WP_053288738.1  DNA-binding protein [Aeromonas caviae]                69.7    2e-012
+WP_083994804.1  calcium-binding protein [Comamonas sp. E6]            67.0    2e-012
+WP_081492840.1  calcium-binding protein [Pseudomonas donghuensis]     67.0    2e-012
+WP_082647891.1  hypothetical protein [Lysobacter antibioticus]        69.7    2e-012
+WP_031373197.1  hypothetical protein [Lysobacter antibioticus]        69.7    2e-012
+WP_008954746.1  DNA-binding protein [Pseudogulbenkiania ferrooxid...  67.0    2e-012
+WP_037004714.1  calcium-binding protein [Pseudomonas pseudoalcali...  67.4    2e-012
+WP_057647950.1  cold-shock protein [Stenotrophomonas panacihumi]      68.9    2e-012
+WP_082889580.1  hypothetical protein [Methylomonas koyamae]           67.8    2e-012
+WP_038983425.1  MULTISPECIES: calcium-binding protein [Pseudomonas]   67.0    2e-012
+WP_082409659.1  hypothetical protein [Methylomonas koyamae]           67.8    2e-012
+WP_020164214.1  hypothetical protein [Methyloversatilis discipulo...  68.9    2e-012
+WP_032830181.1  calcium-binding protein [Pseudomonas sp. GM79]        66.6    2e-012
+WP_024298051.1  calcium-binding protein [Methylosarcina lacus]        69.3    2e-012
+WP_002766479.1  DNA-binding protein [Microcystis aeruginosa]          67.0    3e-012
+
+
+>WP_000242890.1 calcium-binding protein [Acinetobacter baumannii]
+Length=115
+
+ Score = 243 bits (619),  Expect = 1e-081, Method: Compositional matrix adjust.
+ Identities = 115/115 (100%), Positives = 115/115 (100%), Gaps = 0/115 (0%)
+
+Query  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVP  60
+            MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVP
+Sbjct  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVP  60
+
+Query  61   ERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+            ERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH
+Sbjct  61   ERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+
+
+>WP_064480084.1 calcium-binding protein [Acinetobacter baumannii]
+Length=115
+
+ Score = 242 bits (618),  Expect = 1e-081, Method: Compositional matrix adjust.
+ Identities = 114/115 (99%), Positives = 115/115 (100%), Gaps = 0/115 (0%)
+
+Query  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVP  60
+            MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVP
+Sbjct  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVP  60
+
+Query  61   ERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+            ER+NDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH
+Sbjct  61   ERINDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+
+
+>WP_000242889.1 hypothetical protein [Acinetobacter baumannii]
+Length=115
+
+ Score = 241 bits (615),  Expect = 4e-081, Method: Compositional matrix adjust.
+ Identities = 114/115 (99%), Positives = 115/115 (100%), Gaps = 0/115 (0%)
+
+Query  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVP  60
+            MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVP
+Sbjct  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVP  60
+
+Query  61   ERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+            ERVNDETSAFQCDGREYCTQMHSL+EARWFVRNCPNTKMDGDRDGEPCENDSRWH
+Sbjct  61   ERVNDETSAFQCDGREYCTQMHSLDEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+
+
+>WP_000242892.1 calcium-binding protein [Acinetobacter baumannii]
+Length=115
+
+ Score = 241 bits (615),  Expect = 4e-081, Method: Compositional matrix adjust.
+ Identities = 114/115 (99%), Positives = 114/115 (99%), Gaps = 0/115 (0%)
+
+Query  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVP  60
+            MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQR ALGKLPDVQLSEKTKKALALTSEKVP
+Sbjct  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRTALGKLPDVQLSEKTKKALALTSEKVP  60
+
+Query  61   ERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+            ERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH
+Sbjct  61   ERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+
+
+>WP_000242891.1 calcium-binding protein [Acinetobacter baumannii]
+Length=115
+
+ Score = 241 bits (615),  Expect = 4e-081, Method: Compositional matrix adjust.
+ Identities = 114/115 (99%), Positives = 114/115 (99%), Gaps = 0/115 (0%)
+
+Query  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVP  60
+            MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKK LALTSEKVP
+Sbjct  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKTLALTSEKVP  60
+
+Query  61   ERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+            ERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH
+Sbjct  61   ERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+
+
+>WP_000242893.1 hypothetical protein [Acinetobacter baumannii]
+Length=115
+
+ Score = 240 bits (613),  Expect = 1e-080, Method: Compositional matrix adjust.
+ Identities = 114/115 (99%), Positives = 114/115 (99%), Gaps = 0/115 (0%)
+
+Query  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVP  60
+            MVLHYRQQAQQRASHEKVQLLIQQQKT IEAQRAALGKLPDVQLSEKTKKALALTSEKVP
+Sbjct  1    MVLHYRQQAQQRASHEKVQLLIQQQKTSIEAQRAALGKLPDVQLSEKTKKALALTSEKVP  60
+
+Query  61   ERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+            ERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH
+Sbjct  61   ERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+
+
+>WP_000242888.1 calcium-binding protein [Acinetobacter baumannii]
+Length=115
+
+ Score = 240 bits (613),  Expect = 1e-080, Method: Compositional matrix adjust.
+ Identities = 114/115 (99%), Positives = 115/115 (100%), Gaps = 0/115 (0%)
+
+Query  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVP  60
+            MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVP
+Sbjct  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVP  60
+
+Query  61   ERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+            ERVNDETSAFQCDGRE+CTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH
+Sbjct  61   ERVNDETSAFQCDGREHCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+
+
+>WP_000242887.1 calcium-binding protein [Acinetobacter baumannii]
+Length=115
+
+ Score = 240 bits (612),  Expect = 1e-080, Method: Compositional matrix adjust.
+ Identities = 114/115 (99%), Positives = 114/115 (99%), Gaps = 0/115 (0%)
+
+Query  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVP  60
+            MVLHYRQQAQQRA HEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVP
+Sbjct  1    MVLHYRQQAQQRALHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVP  60
+
+Query  61   ERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+            ERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH
+Sbjct  61   ERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+
+
+>WP_072618668.1 calcium-binding protein [Acinetobacter baumannii]
+Length=115
+
+ Score = 239 bits (610),  Expect = 3e-080, Method: Compositional matrix adjust.
+ Identities = 113/115 (98%), Positives = 114/115 (99%), Gaps = 0/115 (0%)
+
+Query  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVP  60
+            MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEK KKALALTSEKVP
+Sbjct  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKMKKALALTSEKVP  60
+
+Query  61   ERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+            ERVNDETSAFQCDGREYCTQMHSL+EARWFVRNCPNTKMDGDRDGEPCENDSRWH
+Sbjct  61   ERVNDETSAFQCDGREYCTQMHSLDEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+
+
+>WP_032043940.1 calcium-binding protein [Acinetobacter baumannii]
+Length=115
+
+ Score = 237 bits (605),  Expect = 2e-079, Method: Compositional matrix adjust.
+ Identities = 113/115 (98%), Positives = 114/115 (99%), Gaps = 0/115 (0%)
+
+Query  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVP  60
+            MVLHYRQQAQQ ASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVP
+Sbjct  1    MVLHYRQQAQQCASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVP  60
+
+Query  61   ERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+            ERVNDETSAFQCDGREYCTQMHSL+EARWFVRNCPNTKMDGDRDGEPCENDSRWH
+Sbjct  61   ERVNDETSAFQCDGREYCTQMHSLDEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+
+
+>WP_024438900.1 calcium-binding protein [Acinetobacter baumannii]
+Length=115
+
+ Score = 235 bits (599),  Expect = 1e-078, Method: Compositional matrix adjust.
+ Identities = 112/115 (97%), Positives = 113/115 (98%), Gaps = 0/115 (0%)
+
+Query  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVP  60
+            MVLHYRQQAQQ ASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVP
+Sbjct  1    MVLHYRQQAQQCASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVP  60
+
+Query  61   ERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+            ERVNDETSAFQCD REYCTQMHSL+EARWFVRNCPNTKMDGDRDGEPCENDSRWH
+Sbjct  61   ERVNDETSAFQCDSREYCTQMHSLDEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+
+
+>WP_077163847.1 calcium-binding protein [Acinetobacter genomosp. 33YU]
+Length=151
+
+ Score = 228 bits (581),  Expect = 2e-075, Method: Compositional matrix adjust.
+ Identities = 106/114 (93%), Positives = 109/114 (96%), Gaps = 0/114 (0%)
+
+Query  2    VLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVPE  61
+            VLHYRQQAQQRASHEKV LLIQQQKTIIEAQRAALG LPDVQLSEKTKKALALTSE+ PE
+Sbjct  38   VLHYRQQAQQRASHEKVHLLIQQQKTIIEAQRAALGNLPDVQLSEKTKKALALTSERAPE  97
+
+Query  62   RVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+            RVNDETSAF CDGRE+C+QMHSLEEARWFVRNCPNTKMDGD DGEPCENDSRWH
+Sbjct  98   RVNDETSAFHCDGREHCSQMHSLEEARWFVRNCPNTKMDGDHDGEPCENDSRWH  151
+
+
+>WP_002050349.1 MULTISPECIES: excalibur domain protein [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=122
+
+ Score = 220 bits (560),  Expect = 1e-072, Method: Compositional matrix adjust.
+ Identities = 105/122 (86%), Positives = 109/122 (89%), Gaps = 7/122 (6%)
+
+Query  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKV-  59
+            MVLHYRQ+AQQRASHEKVQLLIQQQK IIEAQRAALGKLPD+QLSEKTKKALA T + V 
+Sbjct  1    MVLHYRQEAQQRASHEKVQLLIQQQKKIIEAQRAALGKLPDIQLSEKTKKALAFTPQTVA  60
+
+Query  60   ------PERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSR  113
+                  PERVNDETS FQCDGREYC+QMHSLEEARWFVRNCPNTKMDGD DGEPCENDSR
+Sbjct  61   SQTAPVPERVNDETSVFQCDGREYCSQMHSLEEARWFVRNCPNTKMDGDHDGEPCENDSR  120
+
+Query  114  WH  115
+            WH
+Sbjct  121  WH  122
+
+
+>WP_031225352.1 calcium-binding protein [Acinetobacter nosocomialis]
+Length=122
+
+ Score = 218 bits (556),  Expect = 6e-072, Method: Compositional matrix adjust.
+ Identities = 104/122 (85%), Positives = 108/122 (89%), Gaps = 7/122 (6%)
+
+Query  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKV-  59
+            MVLHYRQ+AQQRASHEKVQLLIQQQK IIEAQRAALGKLPD+QLSEKTKKALA TS+ V 
+Sbjct  1    MVLHYRQEAQQRASHEKVQLLIQQQKKIIEAQRAALGKLPDIQLSEKTKKALAFTSQTVA  60
+
+Query  60   ------PERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSR  113
+                  PERVNDETS F CDG EYC+QMHSLEEARWFVRNCPNTKMDGD DGEPCENDSR
+Sbjct  61   SQTAPAPERVNDETSVFHCDGSEYCSQMHSLEEARWFVRNCPNTKMDGDHDGEPCENDSR  120
+
+Query  114  WH  115
+            WH
+Sbjct  121  WH  122
+
+
+>WP_009499923.1 MULTISPECIES: excalibur domain protein [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=122
+
+ Score = 218 bits (556),  Expect = 6e-072, Method: Compositional matrix adjust.
+ Identities = 104/122 (85%), Positives = 108/122 (89%), Gaps = 7/122 (6%)
+
+Query  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKV-  59
+            MVLHYRQ+AQQRASHEKVQLLIQQQK IIEAQRAALGKLPD+QLSEKTKKALA T + V 
+Sbjct  1    MVLHYRQEAQQRASHEKVQLLIQQQKKIIEAQRAALGKLPDIQLSEKTKKALAFTPQTVA  60
+
+Query  60   ------PERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSR  113
+                  PERVNDETS F CDGREYC+QMHSLEEARWFVRNCPNTKMDGD DGEPCENDSR
+Sbjct  61   SQTAPAPERVNDETSVFHCDGREYCSQMHSLEEARWFVRNCPNTKMDGDHDGEPCENDSR  120
+
+Query  114  WH  115
+            WH
+Sbjct  121  WH  122
+
+
+>WP_025469632.1 calcium-binding protein [Acinetobacter nosocomialis]
+Length=117
+
+ Score = 218 bits (554),  Expect = 8e-072, Method: Compositional matrix adjust.
+ Identities = 103/117 (88%), Positives = 107/117 (91%), Gaps = 2/117 (2%)
+
+Query  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVP  60
+            MVLHYRQ+AQQRASHEKVQLLIQQQK IIEAQRAALGKLPD+QLSEKTKKALA T +  P
+Sbjct  1    MVLHYRQEAQQRASHEKVQLLIQQQKKIIEAQRAALGKLPDIQLSEKTKKALAFTPQTAP  60
+
+Query  61   --ERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+              ERVNDETS F CDGREYC+QMHSLEEARWFVRNCPNTKMDGD DGEPCENDSRWH
+Sbjct  61   APERVNDETSVFHCDGREYCSQMHSLEEARWFVRNCPNTKMDGDHDGEPCENDSRWH  117
+
+
+>WP_025466188.1 MULTISPECIES: calcium-binding protein [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=115
+
+ Score = 218 bits (554),  Expect = 9e-072, Method: Compositional matrix adjust.
+ Identities = 102/115 (89%), Positives = 107/115 (93%), Gaps = 0/115 (0%)
+
+Query  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVP  60
+            MVLHYRQ+AQQRASHEKVQLLIQQQK IIEAQRAALGKLPD+QL+EKTKKALA T E+  
+Sbjct  1    MVLHYRQEAQQRASHEKVQLLIQQQKKIIEAQRAALGKLPDIQLTEKTKKALAFTPERPT  60
+
+Query  61   ERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+            ERVNDETS FQCDGREYC+QMHSLEEARWFVRNCPNTKMDGD DGE CENDSRWH
+Sbjct  61   ERVNDETSVFQCDGREYCSQMHSLEEARWFVRNCPNTKMDGDHDGELCENDSRWH  115
+
+
+>WP_068936188.1 calcium-binding protein [Acinetobacter seifertii]
+Length=122
+
+ Score = 214 bits (546),  Expect = 2e-070, Method: Compositional matrix adjust.
+ Identities = 103/122 (84%), Positives = 108/122 (89%), Gaps = 7/122 (6%)
+
+Query  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKV-  59
+            MVLHYRQQAQQRASHEKVQLLI+QQK II+ QRAALGKLPD+QLSEKTKKALA T + V 
+Sbjct  1    MVLHYRQQAQQRASHEKVQLLIEQQKQIIKEQRAALGKLPDIQLSEKTKKALAFTPQTVA  60
+
+Query  60   ------PERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSR  113
+                  PERVNDETSAF CDGREYCTQM+SLEEARWFVRNCPNTKMDGD DGEPCENDSR
+Sbjct  61   SQTAPAPERVNDETSAFHCDGREYCTQMNSLEEARWFVRNCPNTKMDGDHDGEPCENDSR  120
+
+Query  114  WH  115
+            WH
+Sbjct  121  WH  122
+
+
+>WP_025469194.1 calcium-binding protein [Acinetobacter seifertii]
+Length=122
+
+ Score = 214 bits (545),  Expect = 3e-070, Method: Compositional matrix adjust.
+ Identities = 102/122 (84%), Positives = 107/122 (88%), Gaps = 7/122 (6%)
+
+Query  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKV-  59
+            MVLHYRQQAQQRASHEKVQLLI+QQK II+ QRAALGKLPD+QLSEKTKKAL  T + V 
+Sbjct  1    MVLHYRQQAQQRASHEKVQLLIEQQKQIIKEQRAALGKLPDIQLSEKTKKALVFTPQTVA  60
+
+Query  60   ------PERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSR  113
+                  PERVN+ETSAF CDGREYCTQMHSLEEARWFVRNCPNTKMDGD DGEPCENDSR
+Sbjct  61   SQTAPAPERVNNETSAFHCDGREYCTQMHSLEEARWFVRNCPNTKMDGDHDGEPCENDSR  120
+
+Query  114  WH  115
+            WH
+Sbjct  121  WH  122
+
+
+>WP_077164672.1 calcium-binding protein [Acinetobacter genomosp. 33YU]
+Length=122
+
+ Score = 211 bits (536),  Expect = 6e-069, Method: Compositional matrix adjust.
+ Identities = 101/122 (83%), Positives = 107/122 (88%), Gaps = 7/122 (6%)
+
+Query  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVP  60
+            MVLHYRQQAQQRASHEKVQLLI+QQK II+ QRAALGKLPD+QLSEKTKKALA T + V 
+Sbjct  1    MVLHYRQQAQQRASHEKVQLLIEQQKQIIKEQRAALGKLPDIQLSEKTKKALAFTPQTVA  60
+
+Query  61   -------ERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSR  113
+                   ERVNDETSAF CDGRE+C+QMHSLEEARWFVRNCPNTKMDGD DGEPCENDSR
+Sbjct  61   SQTAPASERVNDETSAFHCDGREHCSQMHSLEEARWFVRNCPNTKMDGDHDGEPCENDSR  120
+
+Query  114  WH  115
+            WH
+Sbjct  121  WH  122
+
+
+>WP_006581141.1 MULTISPECIES: calcium-binding protein [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=122
+
+ Score = 192 bits (488),  Expect = 1e-061, Method: Compositional matrix adjust.
+ Identities = 102/122 (84%), Positives = 107/122 (88%), Gaps = 7/122 (6%)
+
+Query  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKV-  59
+            MVLHYRQ+AQQRASHEKVQLLIQQQK II+ QRAALGKLPD+QLSEKTKKALA T + V 
+Sbjct  1    MVLHYRQEAQQRASHEKVQLLIQQQKQIIKEQRAALGKLPDIQLSEKTKKALAFTPQTVA  60
+
+Query  60   ------PERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSR  113
+                  PERVNDETS F CDGREYC+QMHSLEEARWFVRNCPNTKMDGD DGEPCENDSR
+Sbjct  61   SQTAPAPERVNDETSVFHCDGREYCSQMHSLEEARWFVRNCPNTKMDGDHDGEPCENDSR  120
+
+Query  114  WH  115
+            WH
+Sbjct  121  WH  122
+
+
+>WP_032041322.1 calcium-binding protein [Acinetobacter baumannii]
+Length=122
+
+ Score = 192 bits (487),  Expect = 2e-061, Method: Compositional matrix adjust.
+ Identities = 102/122 (84%), Positives = 107/122 (88%), Gaps = 7/122 (6%)
+
+Query  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKV-  59
+            MVLHYRQ+AQQRASHEKVQLLIQQQK II+ QRAALGKLPD+QLSEKTKKALA T + V 
+Sbjct  1    MVLHYRQEAQQRASHEKVQLLIQQQKQIIKEQRAALGKLPDIQLSEKTKKALAFTPQTVA  60
+
+Query  60   ------PERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSR  113
+                  PERVNDETS FQCDGREYC+QMHSLEEARWFVRNCPNTKMDGD D EPCENDSR
+Sbjct  61   SQTAPAPERVNDETSVFQCDGREYCSQMHSLEEARWFVRNCPNTKMDGDHDSEPCENDSR  120
+
+Query  114  WH  115
+            WH
+Sbjct  121  WH  122
+
+
+>WP_025465077.1 calcium-binding protein [Acinetobacter sp. GG2]
+Length=117
+
+ Score = 191 bits (486),  Expect = 2e-061, Method: Compositional matrix adjust.
+ Identities = 101/117 (86%), Positives = 107/117 (91%), Gaps = 2/117 (2%)
+
+Query  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVP  60
+            MVLHYRQQAQQRASHEKVQLLIQQQK II+ QRAALGKLPD+QLSEKTKKALA T +  P
+Sbjct  1    MVLHYRQQAQQRASHEKVQLLIQQQKQIIKEQRAALGKLPDIQLSEKTKKALAFTPQTAP  60
+
+Query  61   --ERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+              ERVN+ETSAF CDGRE+C+QMHSLEEARWFVRNCPNTKMDGD DGEPCENDSRWH
+Sbjct  61   ASERVNNETSAFHCDGREHCSQMHSLEEARWFVRNCPNTKMDGDHDGEPCENDSRWH  117
+
+
+>WP_039251673.1 calcium-binding protein [Acinetobacter baumannii]
+Length=117
+
+ Score = 191 bits (485),  Expect = 3e-061, Method: Compositional matrix adjust.
+ Identities = 101/117 (86%), Positives = 107/117 (91%), Gaps = 2/117 (2%)
+
+Query  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSE--K  58
+            MVLHYRQQAQQRASHEKVQLLIQQQK II+ QRAALGKLPD+QLSEKTKKALA T +   
+Sbjct  1    MVLHYRQQAQQRASHEKVQLLIQQQKQIIKEQRAALGKLPDIQLSEKTKKALAFTPQTAP  60
+
+Query  59   VPERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+             PERVN+ETSAF CDGRE+C+QMHSLEEARWFVRNCPNTKMDGD DGEPCENDSRWH
+Sbjct  61   APERVNNETSAFHCDGREHCSQMHSLEEARWFVRNCPNTKMDGDHDGEPCENDSRWH  117
+
+
+>WP_025465647.1 calcium-binding protein [Acinetobacter nosocomialis]
+Length=122
+
+ Score = 191 bits (484),  Expect = 5e-061, Method: Compositional matrix adjust.
+ Identities = 102/122 (84%), Positives = 107/122 (88%), Gaps = 7/122 (6%)
+
+Query  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKV-  59
+            MVLHYRQ+AQQRASHEKVQLLIQQQK II+ QRAALGKLPD+QLSEKTKKALA T + V 
+Sbjct  1    MVLHYRQEAQQRASHEKVQLLIQQQKQIIKEQRAALGKLPDIQLSEKTKKALAFTPQTVA  60
+
+Query  60   ------PERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSR  113
+                  PERVNDETS FQCDGREYC+QMHSLEEARWFVRNCPNTKMDGD DGEPCEN SR
+Sbjct  61   SQTAPAPERVNDETSVFQCDGREYCSQMHSLEEARWFVRNCPNTKMDGDHDGEPCENVSR  120
+
+Query  114  WH  115
+            WH
+Sbjct  121  WH  122
+
+
+>WP_042075603.1 calcium-binding protein [Acinetobacter nosocomialis]
+Length=122
+
+ Score = 189 bits (481),  Expect = 2e-060, Method: Compositional matrix adjust.
+ Identities = 101/122 (83%), Positives = 106/122 (87%), Gaps = 7/122 (6%)
+
+Query  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKV-  59
+            MVLHYRQ+AQQRASHEKVQLLIQQQK II+ QRAALGKLPD+QLSEKTKKALA T + V 
+Sbjct  1    MVLHYRQEAQQRASHEKVQLLIQQQKQIIKEQRAALGKLPDIQLSEKTKKALAFTPQTVA  60
+
+Query  60   ------PERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSR  113
+                  PERVNDET  F CDGREYC+QMHSLEEARWFVRNCPNTKMDGD DGEPCENDSR
+Sbjct  61   SQTAPAPERVNDETLVFHCDGREYCSQMHSLEEARWFVRNCPNTKMDGDHDGEPCENDSR  120
+
+Query  114  WH  115
+            WH
+Sbjct  121  WH  122
+
+
+>WP_032047852.1 MULTISPECIES: calcium-binding protein [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=122
+
+ Score = 189 bits (479),  Expect = 3e-060, Method: Compositional matrix adjust.
+ Identities = 100/122 (82%), Positives = 106/122 (87%), Gaps = 7/122 (6%)
+
+Query  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKV-  59
+            MVLHYRQ+AQQRASHEKV+LLIQQQK II+ QRAALGKLPDVQL+EKTKKALA T + V 
+Sbjct  1    MVLHYRQEAQQRASHEKVKLLIQQQKQIIKEQRAALGKLPDVQLTEKTKKALAFTPQTVA  60
+
+Query  60   ------PERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSR  113
+                  PERVNDET  F CDGREYC+QMHSLEEARWFVRNCPNTKMDGD DGEPCENDSR
+Sbjct  61   SQTAPAPERVNDETLVFHCDGREYCSQMHSLEEARWFVRNCPNTKMDGDHDGEPCENDSR  120
+
+Query  114  WH  115
+            WH
+Sbjct  121  WH  122
+
+
+>WP_046812199.1 calcium-binding protein [Acinetobacter pittii]
+Length=120
+
+ Score = 187 bits (475),  Expect = 9e-060, Method: Compositional matrix adjust.
+ Identities = 99/120 (83%), Positives = 106/120 (88%), Gaps = 5/120 (4%)
+
+Query  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALT-----  55
+            MVLHYRQQ QQRASHEKVQLLIQQQK II+ QRAALGKLPD+QLSEKTKKALA       
+Sbjct  1    MVLHYRQQDQQRASHEKVQLLIQQQKQIIKEQRAALGKLPDIQLSEKTKKALAFNPQTVA  60
+
+Query  56   SEKVPERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+            S+  PERVND+T++F CDGREYCTQMHSLEEARWFVRNCPNTKMDG+ DGEPCENDSRWH
+Sbjct  61   SQTAPERVNDKTTSFHCDGREYCTQMHSLEEARWFVRNCPNTKMDGNHDGEPCENDSRWH  120
+
+
+>WP_019385117.1 DNA-binding protein [Acinetobacter venetianus]
+Length=234
+
+ Score = 134 bits (337),  Expect = 3e-037, Method: Compositional matrix adjust.
+ Identities = 66/117 (56%), Positives = 82/117 (70%), Gaps = 4/117 (3%)
+
+Query  2    VLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVPE  61
+            ++  + Q  Q+A   K   LI++QK I+E QR A+G+LP+V+LSEKT+ AL   S    +
+Sbjct  117  LVFQKYQTFQQAKALKTAQLIEEQKRIVEQQREAVGELPEVKLSEKTEHALKAPSTPPVQ  176
+
+Query  62   RVN----DETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+              N      T  F CDGR++C+QM SLEEARWFVRNCPNTKMDGD DGEPCENDSRW
+Sbjct  177  TYNASPVTATQKFSCDGRQHCSQMRSLEEARWFVRNCPNTKMDGDNDGEPCENDSRW  233
+
+
+>WP_061524574.1 DNA-binding protein [Acinetobacter venetianus]
+Length=234
+
+ Score = 134 bits (337),  Expect = 3e-037, Method: Compositional matrix adjust.
+ Identities = 66/117 (56%), Positives = 82/117 (70%), Gaps = 4/117 (3%)
+
+Query  2    VLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVPE  61
+            ++  + Q  Q+A   K   LI++QK I+E QR A+G+LP+V+LSEKT+ AL   S    +
+Sbjct  117  LVFQKYQTFQQAKALKTAQLIEEQKRIVEQQREAVGELPEVKLSEKTEHALKAPSTPPVQ  176
+
+Query  62   RVN----DETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+              N      T  F CDGR++C+QM SLEEARWFVRNCPNTKMDGD DGEPCENDSRW
+Sbjct  177  TYNASPVTATQKFSCDGRQHCSQMRSLEEARWFVRNCPNTKMDGDNDGEPCENDSRW  233
+
+
+>WP_004881309.1 hypothetical protein [Acinetobacter venetianus]
+Length=234
+
+ Score = 134 bits (336),  Expect = 4e-037, Method: Compositional matrix adjust.
+ Identities = 66/117 (56%), Positives = 82/117 (70%), Gaps = 4/117 (3%)
+
+Query  2    VLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVPE  61
+            ++  + Q  Q+A   K   LI++QK I+E QR A+G+LP+V+LSEKT+ AL   S    +
+Sbjct  117  LVFQKYQTFQQAKALKTAQLIEEQKRIVEQQREAVGELPEVKLSEKTEHALKAPSTPQVQ  176
+
+Query  62   RVN----DETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+              N      T  F CDGR++C+QM SLEEARWFVRNCPNTKMDGD DGEPCENDSRW
+Sbjct  177  TYNASPVTATQKFSCDGRQHCSQMRSLEEARWFVRNCPNTKMDGDNDGEPCENDSRW  233
+
+
+>WP_023013072.1 DNA-binding protein [Acinetobacter sp. COS3]
+Length=234
+
+ Score = 132 bits (333),  Expect = 1e-036, Method: Compositional matrix adjust.
+ Identities = 65/113 (58%), Positives = 79/113 (70%), Gaps = 4/113 (4%)
+
+Query  6    RQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVPERVN-  64
+            + Q  Q+A   K   LI++QK I+E QR A+G+LP+V+LSEKT+ AL        +  N 
+Sbjct  121  KYQTFQQAKALKTAQLIEEQKRIVEQQREAVGELPEVKLSEKTEHALKAPPTPSVQTFNA  180
+
+Query  65   ---DETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+                 T  F CDGR++C+QM SLEEARWFVRNCPNTKMDGD DGEPCENDSRW
+Sbjct  181  SPVTATQKFSCDGRQHCSQMRSLEEARWFVRNCPNTKMDGDNDGEPCENDSRW  233
+
+
+>WP_061518381.1 DNA-binding protein [Acinetobacter venetianus]
+Length=234
+
+ Score = 132 bits (333),  Expect = 1e-036, Method: Compositional matrix adjust.
+ Identities = 66/113 (58%), Positives = 79/113 (70%), Gaps = 4/113 (4%)
+
+Query  6    RQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVPERVN-  64
+            + QA Q+A   K   LI +QK I+E QR A+G+LP+V+LSEKT+ AL        +  N 
+Sbjct  121  KYQAFQQAKVLKTAQLIDEQKRIVEQQREAVGELPEVKLSEKTEHALKAPPTPPVQTYNA  180
+
+Query  65   ---DETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+                 T  F CDGR++C+QM SLEEARWFVRNCPNTKMDGD DGEPCENDSRW
+Sbjct  181  SPVTATQKFSCDGRQHCSQMSSLEEARWFVRNCPNTKMDGDNDGEPCENDSRW  233
+
+
+>WP_061393337.1 DNA-binding protein [Acinetobacter venetianus]
+Length=234
+
+ Score = 132 bits (333),  Expect = 1e-036, Method: Compositional matrix adjust.
+ Identities = 66/113 (58%), Positives = 79/113 (70%), Gaps = 4/113 (4%)
+
+Query  6    RQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVPERVN-  64
+            + QA Q+A   K   LI +QK I+E QR A+G+LP+V+LSEKT+ AL        +  N 
+Sbjct  121  KYQAFQQAKVLKTAQLIDEQKRIVEQQREAVGELPEVKLSEKTEHALKAPPTPPVQTYNA  180
+
+Query  65   ---DETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+                 T  F CDGR++C+QM SLEEARWFVRNCPNTKMDGD DGEPCENDSRW
+Sbjct  181  SPVTATQKFSCDGRQHCSQMRSLEEARWFVRNCPNTKMDGDNDGEPCENDSRW  233
+
+
+>WP_061398054.1 DNA-binding protein [Acinetobacter haemolyticus]
+Length=234
+
+ Score = 132 bits (333),  Expect = 1e-036, Method: Compositional matrix adjust.
+ Identities = 66/113 (58%), Positives = 79/113 (70%), Gaps = 4/113 (4%)
+
+Query  6    RQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVPERVND  65
+            + QA Q+A   K   LI +QK I+E QR A+G+LP+V+LSEKT+ AL        +  N 
+Sbjct  121  KYQAFQQAKVLKTAQLIDEQKRIVEQQREAVGELPEVKLSEKTEHALKAPPTPPVQTYNA  180
+
+Query  66   E----TSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+                 T  F CDGR++C+QM SLEEARWFVRNCPNTKMDGD DGEPCENDSRW
+Sbjct  181  SPVTATQKFSCDGRQHCSQMRSLEEARWFVRNCPNTKMDGDNDGEPCENDSRW  233
+
+
+>WP_007480967.1 MULTISPECIES: DNA-binding protein [Acinetobacter]
+Length=234
+
+ Score = 132 bits (333),  Expect = 1e-036, Method: Compositional matrix adjust.
+ Identities = 65/117 (56%), Positives = 81/117 (69%), Gaps = 4/117 (3%)
+
+Query  2    VLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVPE  61
+            ++  + Q  Q+A   K   LI++QK I+E QR A+G+LP+V+LSEKT+ AL        +
+Sbjct  117  LVFQKYQTFQQAKALKTAQLIEEQKRIVEQQREAVGELPEVKLSEKTEHALKAPPTPPVQ  176
+
+Query  62   RVN----DETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+              N      T  F CDGR++C+QM SLEEARWFVRNCPNTKMDGD DGEPCENDSRW
+Sbjct  177  TYNASPVTATQKFSCDGRQHCSQMRSLEEARWFVRNCPNTKMDGDNDGEPCENDSRW  233
+
+
+>WP_004960305.1 hypothetical protein [Acinetobacter junii]
+Length=235
+
+ Score = 123 bits (309),  Expect = 5e-033, Method: Compositional matrix adjust.
+ Identities = 59/99 (60%), Positives = 77/99 (78%), Gaps = 5/99 (5%)
+
+Query  21   LIQQQKTIIEAQRAALGKLPDVQLSEKTKKAL-ALTSEKVPERVNDETSA----FQCDGR  75
+            LI +QK I++ QR ALG+LP+++LS+KT+ AL A TS  V    + +++A    F+CDGR
+Sbjct  137  LIAEQKKIVQQQRDALGELPEIKLSQKTENALQASTSVPVMNNQSQQSTANQTQFKCDGR  196
+
+Query  76   EYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            ++C+QM S EEA +FVRNCPNTKMDGD DGEPCENDSRW
+Sbjct  197  QHCSQMRSREEAEFFVRNCPNTKMDGDNDGEPCENDSRW  235
+
+
+>WP_005403159.1 DNA-binding protein [Acinetobacter junii]
+Length=235
+
+ Score = 123 bits (308),  Expect = 7e-033, Method: Compositional matrix adjust.
+ Identities = 59/99 (60%), Positives = 77/99 (78%), Gaps = 5/99 (5%)
+
+Query  21   LIQQQKTIIEAQRAALGKLPDVQLSEKTKKAL-ALTSEKVPERVNDETSA----FQCDGR  75
+            LI +QK I++ QR ALG+LP+++LS+KT+ AL A TS  V    + +++A    F+CDGR
+Sbjct  137  LIAEQKKIVQQQRDALGELPEIKLSQKTENALQASTSVPVMNNRSQQSTANQTQFKCDGR  196
+
+Query  76   EYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            ++C+QM S EEA +FVRNCPNTKMDGD DGEPCENDSRW
+Sbjct  197  QHCSQMRSREEAEFFVRNCPNTKMDGDNDGEPCENDSRW  235
+
+
+>WP_004952468.1 hypothetical protein [Acinetobacter junii]
+Length=235
+
+ Score = 123 bits (308),  Expect = 8e-033, Method: Compositional matrix adjust.
+ Identities = 59/99 (60%), Positives = 77/99 (78%), Gaps = 5/99 (5%)
+
+Query  21   LIQQQKTIIEAQRAALGKLPDVQLSEKTKKAL-ALTSEKVPERVNDETSA----FQCDGR  75
+            LI +QK I++ QR ALG+LP+++LS+KT+ AL A TS  V    + +++A    F+CDGR
+Sbjct  137  LIAEQKKIVQQQRDALGELPEIKLSQKTENALQASTSVPVMNNQSRQSTANQTQFKCDGR  196
+
+Query  76   EYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            ++C+QM S EEA +FVRNCPNTKMDGD DGEPCENDSRW
+Sbjct  197  QHCSQMRSREEAEFFVRNCPNTKMDGDNDGEPCENDSRW  235
+
+
+>WP_075696146.1 DNA-binding protein [Acinetobacter junii]
+Length=235
+
+ Score = 122 bits (306),  Expect = 1e-032, Method: Compositional matrix adjust.
+ Identities = 59/99 (60%), Positives = 76/99 (77%), Gaps = 5/99 (5%)
+
+Query  21   LIQQQKTIIEAQRAALGKLPDVQLSEKTKKAL-ALTSEKVPERVNDETSA----FQCDGR  75
+            LI +QK I++ QR ALG+LP+++LS+KT+ AL A TS  V    + + +A    F+CDGR
+Sbjct  137  LIAEQKKIVQQQRDALGELPEIKLSQKTENALQASTSVPVMNNQSQQLTANQTQFKCDGR  196
+
+Query  76   EYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            ++C+QM S EEA +FVRNCPNTKMDGD DGEPCENDSRW
+Sbjct  197  QHCSQMRSREEAEFFVRNCPNTKMDGDNDGEPCENDSRW  235
+
+
+>WP_004914271.1 hypothetical protein [Acinetobacter junii]
+Length=235
+
+ Score = 122 bits (306),  Expect = 1e-032, Method: Compositional matrix adjust.
+ Identities = 59/99 (60%), Positives = 76/99 (77%), Gaps = 5/99 (5%)
+
+Query  21   LIQQQKTIIEAQRAALGKLPDVQLSEKTKKAL-ALTSEKVPERVNDETSA----FQCDGR  75
+            LI +QK I++ QR ALG+LP+++LS+KT+ AL A TS  V    + + +A    F+CDGR
+Sbjct  137  LIAEQKKIVQQQRDALGELPEIKLSQKTENALQASTSVPVMNNQSQQLTANQTQFKCDGR  196
+
+Query  76   EYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            ++C+QM S EEA +FVRNCPNTKMDGD DGEPCENDSRW
+Sbjct  197  QHCSQMRSREEAEFFVRNCPNTKMDGDNDGEPCENDSRW  235
+
+
+>WP_034427536.1 DNA-binding protein [Acinetobacter sp. CIP 102143]
+Length=230
+
+ Score = 120 bits (301),  Expect = 6e-032, Method: Compositional matrix adjust.
+ Identities = 56/99 (57%), Positives = 75/99 (76%), Gaps = 7/99 (7%)
+
+Query  21   LIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVPERVNDETSA-----FQCDGR  75
+            LI++QK I+EAQR ALG LP+++ SEKT+ AL  ++   P  ++ + SA     F CDGR
+Sbjct  134  LIEEQKRIVEAQRQALGDLPEIKRSEKTENALKASA--TPAFIDTQQSAISQTQFSCDGR  191
+
+Query  76   EYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+             +C+QM+S EEA +F+RNCPNT+MDG+ DGEPCENDSRW
+Sbjct  192  THCSQMNSYEEALFFLRNCPNTQMDGNNDGEPCENDSRW  230
+
+
+>WP_065343563.1 DNA-binding protein [Acinetobacter gyllenbergii]
+Length=225
+
+ Score = 116 bits (291),  Expect = 2e-030, Method: Compositional matrix adjust.
+ Identities = 59/118 (50%), Positives = 80/118 (68%), Gaps = 5/118 (4%)
+
+Query  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVP  60
+            +++  + Q+  ++   K   LI+QQK I+E QR  +G LP V+LSEKT++AL    E+ P
+Sbjct  109  VLVFQKYQSYLQSEQLKTAQLIEQQKRIVEEQRKKIGDLPVVKLSEKTERALQYDPER-P  167
+
+Query  61   ERVNDETSA----FQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+             +    T+A    F CDGRE+C+QM+S  EA +F +NCPNTKMDGD DG PCENDSRW
+Sbjct  168  IQAARSTTAVGAQFSCDGREHCSQMNSRAEAEFFNKNCPNTKMDGDHDGIPCENDSRW  225
+
+
+>WP_045794050.1 hypothetical protein [Acinetobacter brisouii]
+Length=144
+
+ Score = 113 bits (283),  Expect = 4e-030, Method: Compositional matrix adjust.
+ Identities = 56/116 (48%), Positives = 75/116 (65%), Gaps = 4/116 (3%)
+
+Query  2    VLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALA--LTSEKV  59
+            + + R Q  ++   +  Q LIQ+QK +I+ QR  LG +PD    +KT+  +A  + S   
+Sbjct  21   ITYLRLQQHEQMREQYTQQLIQEQKQLIDEQRKKLGHVPDQLPEQKTQVNVAPSIVSRPA  80
+
+Query  60   PER--VNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSR  113
+            P +  +      F+CDGR+YC+QMHSL EARWFV NCPNTKMDG+ DGEPCE DSR
+Sbjct  81   PAQKPMPSPLGYFKCDGRQYCSQMHSLAEARWFVHNCPNTKMDGNADGEPCEKDSR  136
+
+
+>WP_004901911.1 hypothetical protein [Acinetobacter brisouii]
+Length=144
+
+ Score = 113 bits (282),  Expect = 5e-030, Method: Compositional matrix adjust.
+ Identities = 56/116 (48%), Positives = 75/116 (65%), Gaps = 4/116 (3%)
+
+Query  2    VLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALA--LTSEKV  59
+            + + R Q  ++   +  Q LIQ+QK +I+ QR  LG +PD    +KT+  +A  + S   
+Sbjct  21   ITYLRLQQHEQMRGQYTQQLIQEQKQLIDEQRKKLGHVPDQLPEQKTQVNVAPSIVSRPA  80
+
+Query  60   PER--VNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSR  113
+            P +  +      F+CDGR+YC+QMHSL EARWFV NCPNTKMDG+ DGEPCE DSR
+Sbjct  81   PAQKPMPSPLGYFKCDGRQYCSQMHSLAEARWFVHNCPNTKMDGNADGEPCEKDSR  136
+
+
+>WP_004750677.1 hypothetical protein [Acinetobacter sp. ANC 3789]
+Length=138
+
+ Score = 112 bits (280),  Expect = 1e-029, Method: Compositional matrix adjust.
+ Identities = 55/114 (48%), Positives = 75/114 (66%), Gaps = 6/114 (5%)
+
+Query  2    VLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALA--LTSEKV  59
+            + + R Q  ++   +  Q LIQ+QK +I+ QR  LG +PD    +KT+  +A  + S   
+Sbjct  21   ITYLRLQQHEQMRGQYTQQLIQEQKQLIDEQRKKLGHVPDQLPEQKTQVNVAPSIVSRPA  80
+
+Query  60   PERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSR  113
+            P     +   F+CDGR+YC+QM SL EARWF+ NCPNTKMDG+RDGEPCE+DSR
+Sbjct  81   PA----QKPMFKCDGRQYCSQMRSLAEARWFIHNCPNTKMDGNRDGEPCESDSR  130
+
+
+>WP_062846463.1 DNA-binding protein [Acinetobacter sp. NRRL B-65365]
+Length=231
+
+ Score = 114 bits (286),  Expect = 1e-029, Method: Compositional matrix adjust.
+ Identities = 61/114 (54%), Positives = 81/114 (71%), Gaps = 9/114 (8%)
+
+Query  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVP  60
+            +V H + QA Q++   K   LI++Q+ I+E QR A+G+LP+V+LSEKTK+AL   S  V 
+Sbjct  117  LVFH-KYQAYQQSKKLKAAQLIEEQRKIVEQQRKAIGELPEVKLSEKTKRALE--SSHV-  172
+
+Query  61   ERVNDETSA-----FQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCE  109
+            + V +E S      FQCDGRE+C+QM S EEA +F++NCPNTKMDGD DG PCE
+Sbjct  173  QSVQNEPSTKANNQFQCDGREHCSQMSSYEEALFFLKNCPNTKMDGDGDGIPCE  226
+
+
+>WP_032862306.1 DNA-binding protein [Acinetobacter sp. NIPH 2036]
+Length=235
+
+ Score = 114 bits (286),  Expect = 1e-029, Method: Compositional matrix adjust.
+ Identities = 54/97 (56%), Positives = 71/97 (73%), Gaps = 8/97 (8%)
+
+Query  21   LIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTS--------EKVPERVNDETSAFQC  72
+            LI++QK I+EAQR ALG LP+V+LSEKT++AL            +++ ++     + F C
+Sbjct  134  LIEEQKRIVEAQRQALGDLPEVKLSEKTEQALKAIPTPPVHHDQKRLEQQAATAQTQFSC  193
+
+Query  73   DGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCE  109
+            DGR +C+QM SLEEARWFVRNCPNT+MDG+ DGEPCE
+Sbjct  194  DGRTHCSQMRSLEEARWFVRNCPNTQMDGNNDGEPCE  230
+
+
+>WP_008941869.1 MULTISPECIES: DNA-binding protein [Acinetobacter]
+Length=232
+
+ Score = 113 bits (282),  Expect = 5e-029, Method: Compositional matrix adjust.
+ Identities = 58/113 (51%), Positives = 78/113 (69%), Gaps = 4/113 (4%)
+
+Query  6    RQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALT---SEKVPER  62
+            + QA Q++   KV+ LI++QK II+AQR A+G LPDV+LSEKT+ AL  T      + ++
+Sbjct  121  KYQAYQQSQQLKVEQLIEEQKRIIDAQRQAIGDLPDVKLSEKTENALKSTHNSGVSIQQQ  180
+
+Query  63   VNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+            V  E + F CDGR +C+QM S +EA +F+RNCPNT+MDGD DG PCE     H
+Sbjct  181  VASE-NQFSCDGRTHCSQMRSYDEAVFFLRNCPNTQMDGDGDGIPCERQFARH  232
+
+
+>WP_005256174.1 hypothetical protein [Acinetobacter sp. NIPH 2168]
+Length=231
+
+ Score = 113 bits (282),  Expect = 6e-029, Method: Compositional matrix adjust.
+ Identities = 59/113 (52%), Positives = 77/113 (68%), Gaps = 7/113 (6%)
+
+Query  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVP  60
+            +V H  Q  QQ    +  QL I++Q+ I+E QR A+G+LP+V+LSEKTK+AL   S  V 
+Sbjct  117  LVFHKYQSYQQSKKLKAAQL-IEEQRKIVEQQRQAIGELPEVKLSEKTKRALE--SSHVQ  173
+
+Query  61   ERVNDETSA----FQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCE  109
+               N  ++     FQCDGRE+C+QM S EEA +F++NCPNTKMDGD DG PCE
+Sbjct  174  SVQNKSSTKANHQFQCDGREHCSQMSSYEEALFFLKNCPNTKMDGDGDGIPCE  226
+
+
+>WP_032868070.1 DNA-binding protein [Acinetobacter baumannii]
+Length=232
+
+ Score = 112 bits (280),  Expect = 1e-028, Method: Compositional matrix adjust.
+ Identities = 55/117 (47%), Positives = 80/117 (68%), Gaps = 5/117 (4%)
+
+Query  2    VLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVPE  61
+            ++  + Q+ Q++   K   L ++Q  IIE QR A+G+LP ++ SEKT++AL    +  P 
+Sbjct  117  LVFQKYQSYQQSKQLKAARLAEEQSRIIEQQRKAIGELPKLKFSEKTERALQ-HQQVQPM  175
+
+Query  62   RVNDETSA----FQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            +    TSA    F+CDGR++C+QM+S  EA +F++NCP+TKMDGD DG PCENDSRW
+Sbjct  176  QATRSTSATNTQFRCDGRQHCSQMNSRAEAEFFIKNCPDTKMDGDNDGIPCENDSRW  232
+
+
+>WP_005091564.1 hypothetical protein [Acinetobacter haemolyticus]
+Length=232
+
+ Score = 112 bits (280),  Expect = 1e-028, Method: Compositional matrix adjust.
+ Identities = 58/113 (51%), Positives = 77/113 (68%), Gaps = 4/113 (4%)
+
+Query  6    RQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALT---SEKVPER  62
+            + QA Q++   KV  LI++QK II+AQR A+G LPDV+LSEKT+ AL  T      + ++
+Sbjct  121  KYQAYQQSQQLKVGQLIEEQKRIIDAQRQAIGDLPDVKLSEKTENALKSTHNFGVSIQQQ  180
+
+Query  63   VNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+            V  E + F CDGR +C+QM S +EA +F+RNCPNT+MDGD DG PCE     H
+Sbjct  181  VASE-NQFSCDGRTHCSQMRSYDEAVFFLRNCPNTQMDGDGDGIPCERQFARH  232
+
+
+>WP_017395956.1 DNA-binding protein [Acinetobacter haemolyticus]
+Length=232
+
+ Score = 112 bits (280),  Expect = 1e-028, Method: Compositional matrix adjust.
+ Identities = 58/113 (51%), Positives = 76/113 (67%), Gaps = 4/113 (4%)
+
+Query  6    RQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALT---SEKVPER  62
+            + QA Q++   KV  LI++QK II+AQR A+G LPDV+LSEKT+ AL  T      + ++
+Sbjct  121  KYQAYQQSQQLKVGQLIEEQKRIIDAQRQAIGDLPDVKLSEKTENALKSTHNSGVSIQQQ  180
+
+Query  63   VNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+            V  E   F CDGR +C+QM S +EA +F+RNCPNT+MDGD DG PCE     H
+Sbjct  181  VASENQ-FSCDGRTHCSQMRSYDEAVFFLRNCPNTQMDGDGDGIPCERQFARH  232
+
+
+>WP_005081345.1 hypothetical protein [Acinetobacter haemolyticus]
+Length=232
+
+ Score = 111 bits (278),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 58/113 (51%), Positives = 76/113 (67%), Gaps = 4/113 (4%)
+
+Query  6    RQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALT---SEKVPER  62
+            + QA Q++   KV  LI++QK II+AQR A+G LPDV+LSEKT+ AL  T      + ++
+Sbjct  121  KYQAYQQSQQLKVGQLIEEQKRIIDAQRQAIGDLPDVKLSEKTENALKSTHNSGVSIQQQ  180
+
+Query  63   VNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+            V  E   F CDGR +C+QM S +EA +F+RNCPNT+MDGD DG PCE     H
+Sbjct  181  VASENQ-FSCDGRIHCSQMRSYDEAVFFLRNCPNTQMDGDGDGIPCERQFARH  232
+
+
+>WP_047430901.1 DNA-binding protein [Acinetobacter sp. neg1]
+Length=231
+
+ Score = 110 bits (276),  Expect = 4e-028, Method: Compositional matrix adjust.
+ Identities = 56/112 (50%), Positives = 78/112 (70%), Gaps = 6/112 (5%)
+
+Query  2    VLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVPE  61
+            ++  + Q+ Q++   K   LI++Q+ I+E QR A+G+LP V+LSEKTK+AL   S  V  
+Sbjct  117  LVFQKYQSYQQSKKLKAAQLIEEQRKIVEQQRKAIGELPQVKLSEKTKRALE--SSHVQS  174
+
+Query  62   RVNDET----SAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCE  109
+              N+ +    + FQCDGRE+C+QM S EEA +F++NCPNTKMDGD DG PCE
+Sbjct  175  FQNESSIKANNQFQCDGREHCSQMSSYEEALFFLKNCPNTKMDGDGDGIPCE  226
+
+
+>WP_004638063.1 DNA-binding protein [Acinetobacter haemolyticus]
+Length=231
+
+ Score = 110 bits (274),  Expect = 9e-028, Method: Compositional matrix adjust.
+ Identities = 57/112 (51%), Positives = 77/112 (69%), Gaps = 3/112 (3%)
+
+Query  6    RQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVP--ERV  63
+            + QA Q++   KV  LI++QK II+AQR A+G LPDV+LSEKT+ AL   +  V   ++V
+Sbjct  121  KYQAYQQSQQLKVGQLIEEQKRIIDAQRQAIGDLPDVKLSEKTENALKTHNSVVSIQQQV  180
+
+Query  64   NDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+              E + F CDGR +C+QM S +EA +F+RNCPNT++DGD DG PCE     H
+Sbjct  181  ASE-NQFSCDGRTHCSQMRSYDEAVFFLRNCPNTQIDGDGDGIPCERQFARH  231
+
+
+>WP_005228931.1 hypothetical protein [Acinetobacter sp. NIPH 1847]
+Length=232
+
+ Score = 109 bits (273),  Expect = 1e-027, Method: Compositional matrix adjust.
+ Identities = 51/116 (44%), Positives = 77/116 (66%), Gaps = 3/116 (3%)
+
+Query  2    VLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALA---LTSEK  58
+            ++  + Q+ Q++   K   L ++Q  IIE QR A+G+LP ++ SEKT++AL    +   +
+Sbjct  117  LVFQKYQSYQQSKQFKAARLAEEQSRIIEQQRKAIGELPKLKFSEKTERALQHQQVQPMQ  176
+
+Query  59   VPERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+                     + F+CDGR++C+QM+S  EA +F++NCP+TKMDGD DG PCENDSRW
+Sbjct  177  ATRSSGAANTQFRCDGRQHCSQMNSRAEAEFFIKNCPDTKMDGDNDGIPCENDSRW  232
+
+
+>WP_032874855.1 DNA-binding protein [Acinetobacter baumannii]
+Length=232
+
+ Score = 109 bits (273),  Expect = 1e-027, Method: Compositional matrix adjust.
+ Identities = 51/116 (44%), Positives = 77/116 (66%), Gaps = 3/116 (3%)
+
+Query  2    VLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALA---LTSEK  58
+            ++  + Q+ Q++   K   L ++Q  IIE QR A+G+LP ++ SEKT++AL    +   +
+Sbjct  117  LVFQKYQSYQQSKQFKAARLAEEQSRIIEQQRKAIGELPKLKFSEKTERALQHQQVQPMQ  176
+
+Query  59   VPERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+                     + F+CDGR++C+QM+S  EA +F++NCP+TKMDGD DG PCENDSRW
+Sbjct  177  ATRSSGAANTQFRCDGRQHCSQMNSRAEAEFFIKNCPDTKMDGDNDGIPCENDSRW  232
+
+
+>WP_023270728.1 hypothetical protein [Acinetobacter gyllenbergii]
+Length=225
+
+ Score = 108 bits (271),  Expect = 2e-027, Method: Compositional matrix adjust.
+ Identities = 54/93 (58%), Positives = 67/93 (72%), Gaps = 5/93 (5%)
+
+Query  21   LIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVPERVNDETSA----FQCDGRE  76
+            LI+QQK I+E QR  +G LP V+LSEKT++AL     + P +    T+A    F CDGRE
+Sbjct  129  LIEQQKRIVEEQRKKIGDLPVVKLSEKTERALQHDPAR-PIQAARSTTAVGAQFSCDGRE  187
+
+Query  77   YCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCE  109
+            +C+QMHS EEA +F+RNCPNTKMDGD DG PCE
+Sbjct  188  HCSQMHSYEEAVFFLRNCPNTKMDGDHDGIPCE  220
+
+
+>WP_016660439.1 hypothetical protein [Acinetobacter gyllenbergii]
+Length=225
+
+ Score = 108 bits (271),  Expect = 2e-027, Method: Compositional matrix adjust.
+ Identities = 54/93 (58%), Positives = 67/93 (72%), Gaps = 5/93 (5%)
+
+Query  21   LIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVPERVNDETSA----FQCDGRE  76
+            LI+QQK I+E QR  +G LP V+LSEKT++AL     + P +    T+A    F CDGRE
+Sbjct  129  LIEQQKRIVEEQRKKIGDLPVVKLSEKTERALQHDPAR-PIQAARSTTAVGAQFSCDGRE  187
+
+Query  77   YCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCE  109
+            +C+QMHS EEA +F+RNCPNTKMDGD DG PCE
+Sbjct  188  HCSQMHSYEEAVFFLRNCPNTKMDGDHDGIPCE  220
+
+
+>WP_005239453.1 DNA-binding protein [Acinetobacter sp. CIP 64.2]
+Length=232
+
+ Score = 108 bits (269),  Expect = 5e-027, Method: Compositional matrix adjust.
+ Identities = 57/109 (52%), Positives = 75/109 (69%), Gaps = 10/109 (9%)
+
+Query  5    YRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVPERVN  64
+            Y+Q  + RA+      LI++QK II  QR A+G LP+V+LS KT++AL    ++ P +V 
+Sbjct  125  YQQSKKLRAAQ-----LIEEQKQIIAEQRKAVGDLPEVKLSAKTERALQ-HDQRQPTQVA  178
+
+Query  65   DETSA----FQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCE  109
+              T+A    F CDGREYC+QM S EEA +F+R+CPNTKMDGD DG PCE
+Sbjct  179  PATTAVATQFSCDGREYCSQMRSYEEAVFFLRHCPNTKMDGDGDGIPCE  227
+
+
+>WP_050041286.1 DNA-binding protein [Acinetobacter parvus]
+Length=235
+
+ Score = 108 bits (269),  Expect = 5e-027, Method: Compositional matrix adjust.
+ Identities = 56/119 (47%), Positives = 81/119 (68%), Gaps = 6/119 (5%)
+
+Query  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKAL-ALTSEKV  59
+            +++  + Q+ Q++   K   LI++QK I+ AQR ALG LP+V+LSEKT++AL A+ + + 
+Sbjct  116  VLVFKKYQSYQQSQKLKAAQLIEEQKKIVIAQRQALGDLPEVKLSEKTEQALKAIPTPRH  175
+
+Query  60   PERVNDETSA-----FQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSR  113
+             ++  +E  A     F CDGR +C+QM S EEA +F+RNCPN KMDG+ DGEPCE   R
+Sbjct  176  DQKRLEEQPATAQTQFSCDGRTHCSQMRSYEEAVFFLRNCPNVKMDGNNDGEPCERQFR  234
+
+
+>WP_018677942.1 hypothetical protein [Acinetobacter tjernbergiae]
+Length=233
+
+ Score = 108 bits (269),  Expect = 6e-027, Method: Compositional matrix adjust.
+ Identities = 52/97 (54%), Positives = 70/97 (72%), Gaps = 4/97 (4%)
+
+Query  21   LIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTS----EKVPERVNDETSAFQCDGRE  76
+            LI++QK I+ AQR ALG LP+++LSEKT++ L + S    +   E+     + F CDGR+
+Sbjct  136  LIEEQKKIVIAQRQALGDLPEIKLSEKTEQVLDVPSTPHHKMQAEQPVKAQAQFSCDGRK  195
+
+Query  77   YCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSR  113
+            +C+QMHS EEA +F++NCPNTKMDGD DGEPCE   R
+Sbjct  196  HCSQMHSREEAIFFLKNCPNTKMDGDNDGEPCEQQFR  232
+
+
+>WP_034602639.1 DNA-binding protein [Acinetobacter sp. NIPH 284]
+Length=235
+
+ Score = 107 bits (267),  Expect = 9e-027, Method: Compositional matrix adjust.
+ Identities = 53/117 (45%), Positives = 78/117 (67%), Gaps = 8/117 (7%)
+
+Query  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTS----  56
+            +++  + Q+ Q++   K   LI++QK I+EAQR ALG LP+V+LSEKT++AL        
+Sbjct  116  VLVFKKYQSYQQSQRLKAAQLIEEQKRIVEAQRQALGDLPEVKLSEKTEQALKAIPTPAI  175
+
+Query  57   ----EKVPERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCE  109
+                +++ ++     + F CDGR +C+QM S EEA +F+RNCPN KMDG+ DGEPCE
+Sbjct  176  HHDQKRLEQQPATAQTQFSCDGRTHCSQMRSYEEAVFFLRNCPNVKMDGNNDGEPCE  232
+
+
+>WP_005283670.1 hypothetical protein [Acinetobacter sp. NIPH 3623]
+Length=231
+
+ Score = 107 bits (266),  Expect = 1e-026, Method: Compositional matrix adjust.
+ Identities = 54/110 (49%), Positives = 73/110 (66%), Gaps = 2/110 (2%)
+
+Query  2    VLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVP-  60
+            ++  + Q+ Q++   K   L ++Q  IIE QR A+G+LP V+LSEKT +AL  +  +   
+Sbjct  117  LVFQKYQSYQQSKQLKAARLAEEQSRIIEQQRKAIGELPQVKLSEKTTRALEPSHVQSVQ  176
+
+Query  61   -ERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCE  109
+             E      + FQCDGRE+C+QM S EEA +F+RNCPNTKMDGD DG PCE
+Sbjct  177  NESFTKANNQFQCDGREHCSQMGSYEEALFFLRNCPNTKMDGDGDGIPCE  226
+
+
+>WP_086199177.1 DNA-binding protein [Acinetobacter sp. ANC 4169]
+Length=243
+
+ Score = 106 bits (265),  Expect = 2e-026, Method: Compositional matrix adjust.
+ Identities = 58/124 (47%), Positives = 79/124 (64%), Gaps = 19/124 (15%)
+
+Query  5    YRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALT--------S  56
+            YR   QQ+A     QL+I+QQ+ I+  QR ALG LP+  LSE+ ++ LA          S
+Sbjct  125  YRTAEQQKAQ----QLIIEQQR-IVSEQREALGDLPEAVLSEQGQRNLAADTYNTNKPRS  179
+
+Query  57   EKVPERVNDE------TSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCEN  110
+            EK+   ++ +      T+ F+CD R++C+QM+S  EA W+V+NCPN KMDGD DG PCEN
+Sbjct  180  EKISASIDQQNGIKLATTQFKCDERQHCSQMNSRAEAVWYVQNCPNHKMDGDGDGIPCEN  239
+
+Query  111  DSRW  114
+            DSRW
+Sbjct  240  DSRW  243
+
+
+>WP_034432633.1 DNA-binding protein [Acinetobacter sp. CIP 102129]
+Length=230
+
+ Score = 106 bits (264),  Expect = 3e-026, Method: Compositional matrix adjust.
+ Identities = 50/94 (53%), Positives = 69/94 (73%), Gaps = 7/94 (7%)
+
+Query  21   LIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVPERVNDETSA-----FQCDGR  75
+            LI++QK I+EAQR ALG LP+++ SEKT+ AL  ++   P  ++ + S      F CDGR
+Sbjct  134  LIEEQKRIVEAQRQALGYLPEIKRSEKTENALKASA--TPAVIHTQQSTISQTQFSCDGR  191
+
+Query  76   EYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCE  109
+             +C+QM+S EEA +F+RNCPNT+MDG+ DGEPCE
+Sbjct  192  THCSQMNSYEEALFFLRNCPNTQMDGNNDGEPCE  225
+
+
+>WP_086203679.1 hypothetical protein [Acinetobacter sp. ANC 4999]
+Length=242
+
+ Score = 106 bits (264),  Expect = 3e-026, Method: Compositional matrix adjust.
+ Identities = 55/113 (49%), Positives = 73/113 (65%), Gaps = 17/113 (15%)
+
+Query  17   KVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVP-------------ERV  63
+            KVQ L+QQQ+ II  QR A+G++  +  SEK+K+AL  T+  VP             + V
+Sbjct  130  KVQTLMQQQQEIIAMQRKAVGEVKSIDFSEKSKRALD-TTRAVPIHTATAMNVHTSDDHV  188
+
+Query  64   NDET---SAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSR  113
+            N +T   + F CDGR++C+QM S EEA +F+RNCPNTKMDG+RDG PCE   R
+Sbjct  189  NKKTVTQAEFSCDGRQHCSQMRSYEEALFFIRNCPNTKMDGNRDGIPCEKQFR  241
+
+
+>WP_004669870.1 hypothetical protein [Acinetobacter sp. CIP-A165]
+Length=235
+
+ Score = 105 bits (263),  Expect = 4e-026, Method: Compositional matrix adjust.
+ Identities = 53/115 (46%), Positives = 74/115 (64%), Gaps = 7/115 (6%)
+
+Query  2    VLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALA-------L  54
+            ++  + Q+ Q++   K   LI++QK IIE QR A+G LP+V+ +EK++ AL        L
+Sbjct  116  LVFKKYQSYQQSQKIKTAQLIEEQKRIIEEQRKAIGDLPEVKFTEKSQNALMSLGNKNDL  175
+
+Query  55   TSEKVPERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCE  109
+            T      + N  +S F CDGR +C+QM S EEA +F+RNCPNT+MDGD DG PCE
+Sbjct  176  TQNHQSAQKNTVSSEFSCDGRRHCSQMRSYEEAVFFLRNCPNTEMDGDGDGIPCE  230
+
+
+>WP_005273062.1 hypothetical protein [Acinetobacter sp. NIPH 1859]
+Length=232
+
+ Score = 104 bits (260),  Expect = 9e-026, Method: Compositional matrix adjust.
+ Identities = 57/113 (50%), Positives = 74/113 (65%), Gaps = 10/113 (9%)
+
+Query  5    YRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVPERVN  64
+            Y+Q  + RA+      LI++QK II  QR A+G LP+V+LS KT++AL    +  P +  
+Sbjct  125  YQQSKKLRAAQ-----LIEEQKQIIAEQRKAIGDLPEVKLSAKTERALH-HDQIQPMQAA  178
+
+Query  65   DETSA----FQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSR  113
+              T+A    F CDGRE+C+QM S EEA +F+RNCPNTKMDGD DG PCE   R
+Sbjct  179  PSTTAVATQFTCDGREHCSQMGSYEEAVFFLRNCPNTKMDGDGDGIPCERQFR  231
+
+
+>WP_016659365.1 hypothetical protein [Acinetobacter indicus]
+Length=233
+
+ Score = 104 bits (260),  Expect = 1e-025, Method: Compositional matrix adjust.
+ Identities = 56/112 (50%), Positives = 75/112 (67%), Gaps = 8/112 (7%)
+
+Query  5    YRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVPERVN  64
+            Y+ Q QQ+      +L+I QQ+ + E QRA  G+LP++ LSEK KK L    E V + + 
+Sbjct  127  YQAQKQQKLE----ELMIAQQQIVAE-QRAVHGELPELGLSEKGKKNLENVQENVEQALP  181
+
+Query  65   DETSA---FQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSR  113
+              +S+   F+CDGRE+C+QM S EEA +F+RNCPNTKMDGD DG PCE+  R
+Sbjct  182  VSSSSSEQFKCDGREHCSQMKSYEEALFFIRNCPNTKMDGDGDGIPCESQFR  233
+
+
+>WP_005218103.1 hypothetical protein [Acinetobacter sp. ANC 3862]
+Length=237
+
+ Score = 104 bits (260),  Expect = 1e-025, Method: Compositional matrix adjust.
+ Identities = 55/121 (45%), Positives = 81/121 (67%), Gaps = 8/121 (7%)
+
+Query  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKAL-ALTSEKV  59
+            +++  + Q+ Q++   K   LI++QK I+ AQR ALG LP+V+LSEKT++AL A+ +  V
+Sbjct  116  VLVFKKYQSYQQSQKLKAAQLIEEQKKIVIAQRQALGDLPEVKLSEKTEQALKAIPTPPV  175
+
+Query  60   ---PERVNDETSA----FQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDS  112
+                +R+  + +     F CDGR +C++M S EEA +F+RNCPN KMDG+ DGEPCE   
+Sbjct  176  HYDQKRLEQQPATAQTQFSCDGRTHCSEMRSYEEAVFFLRNCPNVKMDGNNDGEPCERQF  235
+
+Query  113  R  113
+            R
+Sbjct  236  R  236
+
+
+>WP_078191092.1 hypothetical protein [Acinetobacter sp. ANC 4945]
+Length=250
+
+ Score = 105 bits (261),  Expect = 1e-025, Method: Compositional matrix adjust.
+ Identities = 53/112 (47%), Positives = 71/112 (63%), Gaps = 15/112 (13%)
+
+Query  18   VQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTS---------EKVPERVND---  65
+            +Q L+Q+ + I++ QR A G LPD  LSE+ +K L  T+         + VP   +    
+Sbjct  139  LQQLMQENENIVKEQRKAQGDLPDRVLSEQGEKNLYGTASTQAQSVVRDTVPAHASSDSP  198
+
+Query  66   ---ETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+               E S F CDGR++C+QM S +EA+WF++NCPNTKMDGD DG  CENDSRW
+Sbjct  199  RAAEKSQFSCDGRQHCSQMRSRDEAQWFIKNCPNTKMDGDNDGIACENDSRW  250
+
+
+>WP_004663738.1 hypothetical protein [Acinetobacter sp. NIPH 236]
+Length=237
+
+ Score = 103 bits (258),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 52/121 (43%), Positives = 78/121 (64%), Gaps = 8/121 (7%)
+
+Query  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTS----  56
+            +++  + Q+ Q++   K   LI++QK I+ AQR ALG LP+V+LSEKT++AL        
+Sbjct  116  VLVFKKYQSYQQSQKLKAAQLIEEQKKIVIAQRQALGDLPEVKLSEKTEQALKAIPPPAV  175
+
+Query  57   ----EKVPERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDS  112
+                +++ ++     + F CDGR +C+QM S +EA +F+RNCPN KMDG+ DGEPCE   
+Sbjct  176  HHDQKRLEQQPATAQTQFSCDGRTHCSQMRSYKEAVFFLRNCPNVKMDGNNDGEPCERQF  235
+
+Query  113  R  113
+            R
+Sbjct  236  R  236
+
+
+>WP_058870136.1 DNA-binding protein [Acinetobacter johnsonii]
+Length=243
+
+ Score = 103 bits (258),  Expect = 3e-025, Method: Compositional matrix adjust.
+ Identities = 54/106 (51%), Positives = 71/106 (67%), Gaps = 16/106 (15%)
+
+Query  19   QLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALT--------SEKVPERVNDE----  66
+            QL+++QQ+ I+E QR ALGKLPD  LSE+ K+ L           SE+V E ++ +    
+Sbjct  134  QLMLEQQQ-IVEEQRKALGKLPDQILSEQGKRNLDAGLHQTNQPRSERVTESIDKQHGRL  192
+
+Query  67   ---TSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCE  109
+               T  F+CDGR +C+QM S EEA +F+RNCPNTKMDG+ DGEPCE
+Sbjct  193  PVSTGQFKCDGRTHCSQMRSYEEALYFLRNCPNTKMDGNNDGEPCE  238
+
+
+>WP_086205744.1 hypothetical protein [Acinetobacter sp. ANC 4648]
+Length=242
+
+ Score = 103 bits (258),  Expect = 3e-025, Method: Compositional matrix adjust.
+ Identities = 53/108 (49%), Positives = 69/108 (64%), Gaps = 15/108 (14%)
+
+Query  17   KVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKAL------------ALTSEKVPERVN  64
+            KVQ L+QQQ+ II  QR A+G+L  +  SEK+K+AL            A+  +     VN
+Sbjct  130  KVQTLMQQQQDIIVEQRKAVGELKSIPFSEKSKRALDTTRAAPIHTTTAMNIDTSDGSVN  189
+
+Query  65   DETSA---FQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCE  109
+             +  A   F CDGR++C QMHS EEA +F+RNCPNTKMDG++DG PCE
+Sbjct  190  KKNVAQAEFSCDGRQHCGQMHSYEEALFFIRNCPNTKMDGNQDGIPCE  237
+
+
+>WP_005198289.1 hypothetical protein [Acinetobacter sp. NIPH 298]
+Length=235
+
+ Score = 103 bits (256),  Expect = 5e-025, Method: Compositional matrix adjust.
+ Identities = 52/115 (45%), Positives = 73/115 (63%), Gaps = 7/115 (6%)
+
+Query  2    VLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALA-------L  54
+            ++  + Q+ Q++   K   LI++QK IIE QR A+G LP+V+ +EK++KAL        L
+Sbjct  116  LVFKKYQSYQQSQKIKTAQLIEEQKRIIEEQRKAIGNLPEVKFTEKSQKALMSLGNNNDL  175
+
+Query  55   TSEKVPERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCE  109
+            T      + N   S F CDG ++C+QM S EEA +F+RNCPNT+MDG  DG PCE
+Sbjct  176  TQNHQSAQTNTVNSEFSCDGCKHCSQMRSYEEAVFFLRNCPNTEMDGGGDGIPCE  230
+
+
+>WP_078389998.1 DNA-binding protein [Acinetobacter sp. MF4640]
+Length=243
+
+ Score = 103 bits (256),  Expect = 5e-025, Method: Compositional matrix adjust.
+ Identities = 56/121 (46%), Positives = 78/121 (64%), Gaps = 20/121 (17%)
+
+Query  4    HYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALT--------  55
+            +Y  + Q++A H    L+++QQ+ I+E QR ALGKLPD  LSE+ K+ L           
+Sbjct  123  NYSVEKQRKAEH----LMLEQQQ-IVEEQRKALGKLPDQILSEQGKRNLDAGLHQTNQPR  177
+
+Query  56   SEKVPERVNDE-------TSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPC  108
+            SE+V E ++ +       T  F+CDGR +C+QM S EEA +F+RNCPNT+MDG+ DGEPC
+Sbjct  178  SERVTESIDKQNGRLPVSTGQFKCDGRTHCSQMRSYEEAVYFLRNCPNTQMDGNNDGEPC  237
+
+Query  109  E  109
+            E
+Sbjct  238  E  238
+
+
+>WP_067870265.1 DNA-binding protein [Acinetobacter sp. SFB]
+Length=242
+
+ Score = 102 bits (255),  Expect = 6e-025, Method: Compositional matrix adjust.
+ Identities = 53/105 (50%), Positives = 67/105 (64%), Gaps = 11/105 (10%)
+
+Query  22   IQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKV--PERVN---------DETSAF  70
+            +Q+Q  I+E QR ALG LPD  LSE+ +K L   S +    E +N           TS F
+Sbjct  138  MQEQTQIVEQQRKALGILPDQILSEQGQKNLDHISSQSLRTEVINVAATTTPAQGTTSPF  197
+
+Query  71   QCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+            +CDGRE+C+QMHS EEA +F++NCPNTKMDGD DG PCE+    H
+Sbjct  198  KCDGREHCSQMHSYEEAVFFIKNCPNTKMDGDHDGIPCEDQFGHH  242
+
+
+>WP_010327352.1 MULTISPECIES: cold-shock protein [Acinetobacter]
+Length=244
+
+ Score = 102 bits (255),  Expect = 7e-025, Method: Compositional matrix adjust.
+ Identities = 56/121 (46%), Positives = 78/121 (64%), Gaps = 20/121 (17%)
+
+Query  4    HYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALT--------  55
+            +Y  + Q++A     QL+++QQ+ I+E QR ALGKLPD  LSE+ K+ L           
+Sbjct  124  YYSAEKQRKAE----QLMLEQQQ-IVEEQRKALGKLPDQILSEQGKRNLDAGLHQTNQPR  178
+
+Query  56   SEKVPERVNDE-------TSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPC  108
+            SE+V E ++ +       T  F+CDGR +C+QM S EEA +F+RNCPNT+MDG+ DGEPC
+Sbjct  179  SERVTESIDKQNGRLPVSTGQFKCDGRTHCSQMRSYEEAVYFLRNCPNTQMDGNNDGEPC  238
+
+Query  109  E  109
+            E
+Sbjct  239  E  239
+
+
+>WP_062034072.1 DNA-binding protein [Acinetobacter sp. BMW17]
+Length=243
+
+ Score = 102 bits (254),  Expect = 9e-025, Method: Compositional matrix adjust.
+ Identities = 53/106 (50%), Positives = 71/106 (67%), Gaps = 16/106 (15%)
+
+Query  19   QLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALT--------SEKVPERVNDE----  66
+            QL+++QQ+ I+E QR ALGKLPD  LSE+ K+ L           SE+V E ++ +    
+Sbjct  134  QLMLEQQQ-IVEEQRKALGKLPDQILSEQGKRNLDAGLHQTNQPRSERVTESIDKQHGRL  192
+
+Query  67   ---TSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCE  109
+               T  F+CDGR +C+QM S EEA +F+RNCPNT+MDG+ DGEPCE
+Sbjct  193  PVSTGQFKCDGRTHCSQMRSYEEAVYFLRNCPNTQMDGNNDGEPCE  238
+
+
+>WP_086212648.1 DNA-binding protein [Acinetobacter sp. ANC 3813]
+Length=248
+
+ Score = 102 bits (254),  Expect = 1e-024, Method: Compositional matrix adjust.
+ Identities = 54/117 (46%), Positives = 73/117 (62%), Gaps = 17/117 (15%)
+
+Query  5    YRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKAL--ALTSEKVP--  60
+            YR+Q Q R     V+ L+Q+Q+ I+  QR ALG LP+  LSE  K+ L  A  ++ VP  
+Sbjct  132  YREQKQAR-----VKQLMQEQQNIVAEQRKALGDLPEQVLSESGKQNLKSASDTDAVPAS  186
+
+Query  61   --------ERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCE  109
+                    + +    S F+CDGR +C+QM S EEA +F+RNCPNT+MDG+ DGEPCE
+Sbjct  187  LHRPAGSVQSIEQTASGFKCDGRTHCSQMRSYEEAVFFIRNCPNTQMDGNNDGEPCE  243
+
+
+>WP_004695405.1 hypothetical protein [Acinetobacter johnsonii]
+Length=243
+
+ Score = 102 bits (254),  Expect = 1e-024, Method: Compositional matrix adjust.
+ Identities = 53/106 (50%), Positives = 71/106 (67%), Gaps = 16/106 (15%)
+
+Query  19   QLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALT--------SEKVPERVNDE----  66
+            QL+++QQ+ I+E QR ALGKLPD  LSE+ K+ L           SE+V E ++ +    
+Sbjct  134  QLMLEQQQ-IVEEQRKALGKLPDQILSEQGKRNLDAGLHQTNQPRSERVTESIDKQNGRL  192
+
+Query  67   ---TSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCE  109
+               T  F+CDGR +C+QM S EEA +F+RNCPNT+MDG+ DGEPCE
+Sbjct  193  PVSTGQFKCDGRTHCSQMRSYEEALYFLRNCPNTQMDGNNDGEPCE  238
+
+
+>WP_004732058.1 hypothetical protein [Acinetobacter lwoffii]
+Length=240
+
+ Score = 101 bits (252),  Expect = 2e-024, Method: Compositional matrix adjust.
+ Identities = 52/121 (43%), Positives = 75/121 (62%), Gaps = 11/121 (9%)
+
+Query  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKAL--------  52
+            ++++ + Q+ Q    +K++ L+ +Q+ I+  QRAA G LP   LSE+ +K L        
+Sbjct  118  VLVYNKYQSYQVQKQQKLEGLMVEQQRIVAEQRAAQGDLPMQGLSEQGRKNLENRGTELR  177
+
+Query  53   ---ALTSEKVPERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCE  109
+                L + K  E  +   S F+CDGRE+C+QM S EEA +F+RNCPNTKMDGD DG PCE
+Sbjct  178  SQSNLVNPKTSETASPSVSQFKCDGREHCSQMGSYEEALFFIRNCPNTKMDGDGDGIPCE  237
+
+Query  110  N  110
+            +
+Sbjct  238  S  238
+
+
+>WP_039621343.1 DNA-binding protein [Acinetobacter harbinensis]
+Length=239
+
+ Score = 101 bits (251),  Expect = 3e-024, Method: Compositional matrix adjust.
+ Identities = 53/124 (43%), Positives = 78/124 (63%), Gaps = 9/124 (7%)
+
+Query  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALAL------  54
+            M+++ + Q  ++  H K Q L++QQ  I++ QR ALG LPD  LS++ ++ L L      
+Sbjct  116  MLVYQKYQHYRQTQHLKTQQLMEQQAHIVDQQRKALGDLPDRVLSKQAEQRLNLPDSSSF  175
+
+Query  55   TSEKVP---ERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCEND  111
+             +  VP     V   ++ F+CDGR++C+QM S EEA +F+RNCP+TKMDGD DG PCE+ 
+Sbjct  176  NNNVVPATRSSVAQVSAQFKCDGRQHCSQMGSYEEAVFFLRNCPSTKMDGDNDGIPCEDQ  235
+
+Query  112  SRWH  115
+               H
+Sbjct  236  FGRH  239
+
+
+>WP_039890001.1 DNA-binding protein [Acinetobacter johnsonii]
+Length=243
+
+ Score = 100 bits (250),  Expect = 3e-024, Method: Compositional matrix adjust.
+ Identities = 53/106 (50%), Positives = 71/106 (67%), Gaps = 16/106 (15%)
+
+Query  19   QLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALT--------SEKVPERVNDE----  66
+            QL+++QQ+ I+E QR ALGKLPD  LSE+ K+ L           SE+V E ++ +    
+Sbjct  134  QLMLEQQQ-IVEEQRKALGKLPDQILSEQGKRNLDAGLHQTNQPRSERVTESIDKQNGRL  192
+
+Query  67   ---TSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCE  109
+               T  F+CDGR +C+QM S EEA +F+RNCPNT+MDG+ DGEPCE
+Sbjct  193  PVSTGQFKCDGRIHCSQMRSYEEAVYFLRNCPNTQMDGNNDGEPCE  238
+
+
+>WP_005247884.1 hypothetical protein [Acinetobacter sp. CIP 51.11]
+Length=240
+
+ Score = 100 bits (250),  Expect = 4e-024, Method: Compositional matrix adjust.
+ Identities = 52/120 (43%), Positives = 74/120 (62%), Gaps = 11/120 (9%)
+
+Query  2    VLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALA--------  53
+            +++ + Q+ Q    +K++ L+ +Q+ I+  QRAA G LP   LSE+ +K L         
+Sbjct  119  LVYNKYQSYQVQKQQKLEELMVEQQRIVAEQRAAQGDLPMQGLSEQGRKNLENRGTELRS  178
+
+Query  54   ---LTSEKVPERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCEN  110
+               L + K  E  +   S F+CDGRE+C+QM S EEA +F+RNCPNTKMDGD DG PCE+
+Sbjct  179  QSNLVNPKTSETASPSVSQFKCDGREHCSQMGSYEEALFFIRNCPNTKMDGDGDGIPCES  238
+
+
+>WP_005106214.1 hypothetical protein [Acinetobacter lwoffii]
+Length=240
+
+ Score = 100 bits (249),  Expect = 5e-024, Method: Compositional matrix adjust.
+ Identities = 53/121 (44%), Positives = 77/121 (64%), Gaps = 11/121 (9%)
+
+Query  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALA-----LT  55
+            ++++ + Q+ Q    +K++ L+ +Q+ I+  QRAA G LP   LSE+ +K+L      L 
+Sbjct  118  VLVYNKYQSYQVQKQQKLEGLMVEQQRIVAEQRAAQGDLPMQGLSEQGRKSLENQGTELR  177
+
+Query  56   SEKVP------ERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCE  109
+            S+  P      E  +   S F+CDGRE+C+QM S EEA +F+RNCPNTKMDGD DG PCE
+Sbjct  178  SQSNPVNSKTSETTSPSVSQFKCDGREHCSQMGSYEEALFFIRNCPNTKMDGDGDGIPCE  237
+
+Query  110  N  110
+            +
+Sbjct  238  S  238
+
+
+>WP_086196025.1 DNA-binding protein [Acinetobacter sp. ANC 4218]
+Length=244
+
+ Score = 100 bits (248),  Expect = 9e-024, Method: Compositional matrix adjust.
+ Identities = 53/116 (46%), Positives = 73/116 (63%), Gaps = 14/116 (12%)
+
+Query  13   ASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALT--------SEKVPERVN  64
+            A   K Q LI +Q+ I+  QR ALG LP+  LSE+ ++ LA          SEK+   ++
+Sbjct  129  AEQLKAQQLIIEQQRIVSEQREALGDLPEAVLSEQGQRNLAGETYNTTKPRSEKINASID  188
+
+Query  65   DE------TSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+             +      T+ F+CD R++C+QM+S  EA W+V+NCP+ KMDGD DG PCENDSRW
+Sbjct  189  QQNGVRLATAQFKCDERQHCSQMNSRAEAVWYVQNCPHHKMDGDGDGIPCENDSRW  244
+
+
+>WP_004982897.1 hypothetical protein [Acinetobacter johnsonii]
+Length=243
+
+ Score = 99.8 bits (247),  Expect = 1e-023, Method: Compositional matrix adjust.
+ Identities = 53/106 (50%), Positives = 70/106 (66%), Gaps = 16/106 (15%)
+
+Query  19   QLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALT--------SEKVPERVNDE----  66
+            QL+++QQ+ I+E QR ALGKLPD  LSE+ K+ L           SE V E ++ +    
+Sbjct  134  QLMLEQQQ-IVEEQRKALGKLPDQILSEQGKRNLDAGLHQTNQPRSECVTESIDKQNGRL  192
+
+Query  67   ---TSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCE  109
+               T  F+CDGR +C+QM S EEA +F+RNCPNT+MDG+ DGEPCE
+Sbjct  193  PVSTGQFKCDGRTHCSQMRSYEEAVYFLRNCPNTQMDGNNDGEPCE  238
+
+
+>WP_044111069.1 DNA-binding protein [Acinetobacter idrijaensis]
+Length=240
+
+ Score = 99.4 bits (246),  Expect = 1e-023, Method: Compositional matrix adjust.
+ Identities = 53/121 (44%), Positives = 76/121 (63%), Gaps = 11/121 (9%)
+
+Query  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALA-----LT  55
+            ++++ + Q+ Q    +K++ L+ +Q+ I+  QRAA G LP   LSE+ +K L      L 
+Sbjct  118  VLVYNKYQSYQVQKQQKLEGLMVEQQRIVAEQRAAQGDLPMQGLSEQGRKNLENQGTELR  177
+
+Query  56   SEKVP------ERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCE  109
+            S+  P      E  +   S F+CDGRE+C+QM S EEA +F+RNCPNTKMDGD DG PCE
+Sbjct  178  SQSNPVNSKTSETTSPSVSQFKCDGREHCSQMGSYEEALFFIRNCPNTKMDGDGDGIPCE  237
+
+Query  110  N  110
+            +
+Sbjct  238  S  238
+
+
+>WP_005057668.1 hypothetical protein [Acinetobacter beijerinckii]
+Length=230
+
+ Score = 99.0 bits (245),  Expect = 2e-023, Method: Compositional matrix adjust.
+ Identities = 50/110 (45%), Positives = 71/110 (65%), Gaps = 2/110 (2%)
+
+Query  2    VLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALT--SEKV  59
+            ++  + Q+ Q+A   K   LI++QK II  QR A+G LP+V+ SEKT  A+     S   
+Sbjct  116  LIFQKYQSYQQAQQLKTIRLIEEQKQIIAHQREAIGDLPEVKRSEKTTDAIKTNTGSSAS  175
+
+Query  60   PERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCE  109
+             ++     + F CDGR +C+QM S +EA +F+RNCPNT+MDG+ DGEPCE
+Sbjct  176  SQQPIAAKAQFSCDGRIHCSQMRSYDEALFFLRNCPNTQMDGNNDGEPCE  225
+
+
+>WP_005056721.1 hypothetical protein [Acinetobacter beijerinckii]
+Length=230
+
+ Score = 99.0 bits (245),  Expect = 2e-023, Method: Compositional matrix adjust.
+ Identities = 50/110 (45%), Positives = 71/110 (65%), Gaps = 2/110 (2%)
+
+Query  2    VLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALT--SEKV  59
+            ++  + Q+ Q+A   K   LI++QK II  QR A+G LP+V+ SEKT  A+     S   
+Sbjct  116  LIFQKYQSYQQAQQLKTIQLIEEQKQIIAHQREAIGDLPEVKRSEKTTDAIKTNTGSSAS  175
+
+Query  60   PERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCE  109
+             ++     + F CDGR +C+QM S +EA +F+RNCPNT+MDG+ DGEPCE
+Sbjct  176  SQQPIAAKAQFSCDGRIHCSQMRSYDEALFFLRNCPNTQMDGNNDGEPCE  225
+
+
+>WP_004280762.1 MULTISPECIES: DNA-binding protein [Acinetobacter]
+Length=240
+
+ Score = 99.0 bits (245),  Expect = 2e-023, Method: Compositional matrix adjust.
+ Identities = 54/121 (45%), Positives = 76/121 (63%), Gaps = 11/121 (9%)
+
+Query  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALA-----LT  55
+            ++++ + Q+ Q    +K++ LI +Q+ I+  QRAA G L    LSE+ +K L      L 
+Sbjct  118  VLIYNKYQSYQVQKQQKLEGLIVEQQRIVAEQRAAQGDLAMQGLSEQGRKNLENRGTELR  177
+
+Query  56   SEKVP------ERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCE  109
+            S+  P      E V+   S F+CDGRE+C+QM S EEA +F+RNCPNTKMDGD DG PCE
+Sbjct  178  SQNNPINSKTSETVSPSMSQFKCDGREHCSQMGSYEEALFFIRNCPNTKMDGDGDGIPCE  237
+
+Query  110  N  110
+            +
+Sbjct  238  S  238
+
+
+>WP_005252662.1 hypothetical protein [Acinetobacter sp. CIP 102136]
+Length=240
+
+ Score = 98.6 bits (244),  Expect = 3e-023, Method: Compositional matrix adjust.
+ Identities = 53/120 (44%), Positives = 75/120 (63%), Gaps = 11/120 (9%)
+
+Query  2    VLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALA-----LTS  56
+            +++ + Q+ Q    +K++ L+ +Q+ I+  QRAA G LP   LSE+ +K L      L S
+Sbjct  119  LVYNKYQSYQIQKQQKLEGLMVEQQRIVAEQRAAQGDLPMQGLSEQGRKNLENHGTELRS  178
+
+Query  57   E------KVPERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCEN  110
+            +      K+ E  +   S F+CDGRE+C QM S EEA +F+RNCPNTKMDGD DG PCE+
+Sbjct  179  QSNPINPKISETASPSVSQFKCDGREHCGQMGSYEEALFFIRNCPNTKMDGDGDGIPCES  238
+
+
+>WP_086194305.1 DNA-binding protein [Acinetobacter sp. ANC 4655]
+Length=245
+
+ Score = 98.6 bits (244),  Expect = 4e-023, Method: Compositional matrix adjust.
+ Identities = 53/124 (43%), Positives = 76/124 (61%), Gaps = 15/124 (12%)
+
+Query  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKAL--------  52
+            ++++ + Q  + A   K Q LI+QQ  I+E QR ALG LP+  LSE+ ++ L        
+Sbjct  117  VLVYNKYQDYRHAQQLKAQQLIEQQAQIVEQQREALGDLPEEVLSEQGQRNLEDQTYSTN  176
+
+Query  53   ALTSEKVPERVNDE-------TSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDG  105
+               SEKV   ++ +       +S F+CDGR +C+QM S EEA +F+RNCP T+MDG+RDG
+Sbjct  177  KPRSEKVSASIDKQNGVQHQQSSQFKCDGRTHCSQMRSYEEAVFFIRNCPGTEMDGNRDG  236
+
+Query  106  EPCE  109
+             PCE
+Sbjct  237  VPCE  240
+
+
+>WP_043970801.1 DNA-binding protein [Acinetobacter sp. NBRC 110496]
+Length=232
+
+ Score = 98.2 bits (243),  Expect = 4e-023, Method: Compositional matrix adjust.
+ Identities = 52/108 (48%), Positives = 68/108 (63%), Gaps = 8/108 (7%)
+
+Query  5    YRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALA---LTSEKVPE  61
+            Y+Q  + RA+      LI++QK II  QR A+  LP+V+LS KT++AL        +   
+Sbjct  125  YQQSKKLRAAQ-----LIEEQKQIIAEQRNAVSDLPEVKLSAKTERALQHDQRQPTQAAP  179
+
+Query  62   RVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCE  109
+                  + F CDGRE+C+QM S EEA +F+RNCPNTKMDGD DG PCE
+Sbjct  180  ATTAVATQFSCDGREHCSQMRSYEEAVFFLRNCPNTKMDGDGDGIPCE  227
+
+
+>WP_070680700.1 cold-shock protein [Neisseria sp. HMSC055H02]
+Length=221
+
+ Score = 97.8 bits (242),  Expect = 4e-023, Method: Compositional matrix adjust.
+ Identities = 48/111 (43%), Positives = 68/111 (61%), Gaps = 5/111 (5%)
+
+Query  5    YRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVPERVN  64
+            YR+Q Q+  +   V ++ +    + E  +A      D   S +T      T+      + 
+Sbjct  116  YRRQTQEATAAAPVTMVSE----VAEKMKAERKAWKDAA-SGRTAFKHGSTASTGSAAIT  170
+
+Query  65   DETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+              T+AF+CDGR++C+QM+SLEEA +F++NCPNTKMDGD DG PCENDSRWH
+Sbjct  171  GTTTAFKCDGRQHCSQMNSLEEAEFFIKNCPNTKMDGDHDGIPCENDSRWH  221
+
+
+>WP_004682946.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=225
+
+ Score = 97.8 bits (242),  Expect = 5e-023, Method: Compositional matrix adjust.
+ Identities = 39/52 (75%), Positives = 45/52 (87%), Gaps = 0/52 (0%)
+
+Query  63   VNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            V+   + FQCDGR +C+QM SLEEARWFVRNCPNT+MDG+ DGEPCENDSRW
+Sbjct  174  VSSNPNHFQCDGRTHCSQMRSLEEARWFVRNCPNTQMDGNNDGEPCENDSRW  225
+
+
+>WP_005265970.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=240
+
+ Score = 97.4 bits (241),  Expect = 8e-023, Method: Compositional matrix adjust.
+ Identities = 55/123 (45%), Positives = 77/123 (63%), Gaps = 15/123 (12%)
+
+Query  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALA-----LT  55
+            ++++ + Q+ Q    +K++ L+ +Q+ I+  QRAA G LP   LSE+ +K L      L 
+Sbjct  118  VLVYNKYQSYQVQKQQKLERLMVEQQRIVAEQRAAQGDLPMQGLSEQGRKNLENRGTELR  177
+
+Query  56   SEKVPERVNDETSA--------FQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEP  107
+            S+  P  VN +TS         F+CDGRE+C QM S EEA +F+RNCPNTKMDGD DG P
+Sbjct  178  SQSNP--VNPKTSETAAPSVSQFKCDGREHCGQMGSYEEALFFIRNCPNTKMDGDGDGIP  235
+
+Query  108  CEN  110
+            CE+
+Sbjct  236  CES  238
+
+
+>WP_036499191.1 calcium-binding protein [Nitrosococcus oceani]
+Length=134
+
+ Score = 94.4 bits (233),  Expect = 1e-022, Method: Compositional matrix adjust.
+ Identities = 52/112 (46%), Positives = 67/112 (60%), Gaps = 10/112 (9%)
+
+Query  6    RQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKA-LALTSEKVPERVN  64
+            R+ A    S+E+V       K I +  R   G LP   + EK +    +LT +K      
+Sbjct  30   REFANGFGSNEQV-------KCITKDGRVLYGDLPQGTVCEKVEPIEGSLTVQKFSILKG  82
+
+Query  65   DE--TSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            D+  +S F+CDGR+YC+QM S  EA +FVRNCPNTKMDGD DG PCENDSR+
+Sbjct  83   DDYKSSGFRCDGRQYCSQMKSRAEAEFFVRNCPNTKMDGDHDGVPCENDSRF  134
+
+
+>WP_086208142.1 DNA-binding protein [Acinetobacter sp. ANC 4204]
+Length=243
+
+ Score = 97.1 bits (240),  Expect = 1e-022, Method: Compositional matrix adjust.
+ Identities = 51/110 (46%), Positives = 72/110 (65%), Gaps = 16/110 (15%)
+
+Query  15   HEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALT--------SEKVPERVNDE  66
+            H+  QL+++QQ+ I+E QR ALG+LPD  L+E+ K+ L           SE+V + ++ +
+Sbjct  130  HKAEQLMLEQQQ-IVEEQRKALGELPDQVLTEQGKQNLDAELHQTNQPRSERVTQSIDKQ  188
+
+Query  67   -------TSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCE  109
+                   T  F+CDGR + +QM S EEA +F+RNCPNTKMDG+ DGEPCE
+Sbjct  189  NGRLPVSTGKFKCDGRTHGSQMRSYEEALYFLRNCPNTKMDGNNDGEPCE  238
+
+
+>WP_013221548.1 calcium-binding protein [Nitrosococcus watsonii]
+Length=134
+
+ Score = 93.6 bits (231),  Expect = 2e-022, Method: Compositional matrix adjust.
+ Identities = 44/95 (46%), Positives = 60/95 (63%), Gaps = 3/95 (3%)
+
+Query  23   QQQKTIIEAQRAALGKLPDVQLSEKTK---KALALTSEKVPERVNDETSAFQCDGREYCT  79
+            +Q K I +  R   G +P   + EK +    +L +    + +R + + S F+CDGR+YC+
+Sbjct  40   EQVKCITKDGRVLYGDIPQGTVCEKVEPIEGSLTVQKFSILKRDDHKASGFRCDGRQYCS  99
+
+Query  80   QMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            QM S  EA +F RNCPNTKMDGD DG PCENDSR+
+Sbjct  100  QMKSRAEAEFFARNCPNTKMDGDHDGVPCENDSRF  134
+
+
+>WP_034702024.1 DNA-binding protein [Acinetobacter baumannii]
+Length=243
+
+ Score = 95.5 bits (236),  Expect = 4e-022, Method: Compositional matrix adjust.
+ Identities = 49/110 (45%), Positives = 72/110 (65%), Gaps = 10/110 (9%)
+
+Query  4    HYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVPERV  63
+            +Y+ Q QQ+  H     L+Q+QK ++  QRAALG LP+  LSE+ +K L +++   P R 
+Sbjct  126  NYKIQKQQQLEH-----LMQEQKRLVSEQRAALGNLPEQGLSEQGRKNLEVSTN-TPIRS  179
+
+Query  64   NDETS----AFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCE  109
+               ++     +QCDGR +C+QM S +EA +F+RNCP T+MDG+ DG PCE
+Sbjct  180  TASSTSVSSPYQCDGRTHCSQMRSYDEAVFFLRNCPGTQMDGNHDGVPCE  229
+
+
+>WP_064096450.1 DNA-binding protein [Acinetobacter sp. SFD]
+Length=240
+
+ Score = 95.5 bits (236),  Expect = 5e-022, Method: Compositional matrix adjust.
+ Identities = 56/120 (47%), Positives = 73/120 (61%), Gaps = 12/120 (10%)
+
+Query  3    LHYRQ-QAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALA-----LTS  56
+            L Y Q Q+ Q    +K++ LI +Q+ I+  QRAA G LP   LSE+ +K L      L S
+Sbjct  119  LVYNQYQSYQIQKQQKLEELILEQQRIVAEQRAAQGDLPIQGLSEQGRKNLENHGTDLRS  178
+
+Query  57   E------KVPERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCEN  110
+            +      K  E  +   S F+CDGRE+C+QM S EEA +F+RNC NTKMDGD DG PCE+
+Sbjct  179  QVNSVNLKTSEMTSPSVSQFKCDGREHCSQMSSYEEALFFIRNCANTKMDGDGDGIPCES  238
+
+
+>WP_064102493.1 DNA-binding protein [Acinetobacter sp. SFA]
+Length=240
+
+ Score = 95.5 bits (236),  Expect = 5e-022, Method: Compositional matrix adjust.
+ Identities = 56/120 (47%), Positives = 73/120 (61%), Gaps = 12/120 (10%)
+
+Query  3    LHYRQ-QAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALA-----LTS  56
+            L Y Q Q+ Q    +K++ LI +Q+ I+  QRAA G LP   LSE+ +K L      L S
+Sbjct  119  LVYNQYQSYQIQKQQKLEELILEQQRIVAEQRAAQGDLPIQGLSEQGRKNLENHGTDLRS  178
+
+Query  57   E------KVPERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCEN  110
+            +      K  E  +   S F+CDGRE+C+QM S EEA +F+RNC NTKMDGD DG PCE+
+Sbjct  179  QVNSVNLKTSEMTSPSVSQFKCDGREHCSQMSSYEEALFFIRNCANTKMDGDGDGIPCES  238
+
+
+>WP_016166014.1 hypothetical protein [Acinetobacter tandoii]
+Length=251
+
+ Score = 95.5 bits (236),  Expect = 6e-022, Method: Compositional matrix adjust.
+ Identities = 53/132 (40%), Positives = 74/132 (56%), Gaps = 19/132 (14%)
+
+Query  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKV-  59
+             V + + Q  + A   K + LI++QK I+E QR ALG LPD  LS + +K L      V 
+Sbjct  119  FVAYQKVQDHRVAKQLKAEQLIKEQKRIVEQQREALGHLPDRILSVQGRKNLDTVGYAVN  178
+
+Query  60   ---------PE---------RVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDG  101
+                     P+         + N+  + F+CDGR +C+QM S +EA +F+RNCPNT+MDG
+Sbjct  179  TQQRNISVSPQSEASKLAIVQKNEPIADFKCDGRTHCSQMRSYDEAVFFIRNCPNTQMDG  238
+
+Query  102  DRDGEPCENDSR  113
+            + DGEPCE   R
+Sbjct  239  NHDGEPCEKQFR  250
+
+
+>WP_084708362.1 calcium-binding protein [Marinobacter psychrophilus]
+Length=137
+
+ Score = 91.7 bits (226),  Expect = 1e-021, Method: Compositional matrix adjust.
+ Identities = 44/98 (45%), Positives = 63/98 (64%), Gaps = 6/98 (6%)
+
+Query  23   QQQKTIIEAQRAALGKLPDVQLSEK---TKKALALTSEKV---PERVNDETSAFQCDGRE  76
+            +Q K I +  R   G +P   + E+    K +L + S +     +  N + S+F+CDGR+
+Sbjct  40   EQLKCITKDGRVLYGSVPQGTVCERRESVKGSLTIVSSEAVSANQSSNQKKSSFKCDGRQ  99
+
+Query  77   YCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            +C+QM+S  EA +FV+NCPNTKMDGD DG PCENDSR+
+Sbjct  100  HCSQMNSKAEAEYFVKNCPNTKMDGDHDGVPCENDSRF  137
+
+
+>WP_071850792.1 DNA-binding protein [Acinetobacter sp. AR2-3]
+Length=240
+
+ Score = 94.0 bits (232),  Expect = 2e-021, Method: Compositional matrix adjust.
+ Identities = 52/120 (43%), Positives = 73/120 (61%), Gaps = 11/120 (9%)
+
+Query  2    VLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALA-----LTS  56
+            +++ + Q+ Q    +K++ L+ +Q+ I+  QRAA G L    LSE+ +K L      L S
+Sbjct  119  LVYNKYQSYQIQKQQKLERLMVEQQRIVAEQRAAQGDLAMQGLSEQGRKNLENRGTELRS  178
+
+Query  57   EKVP------ERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCEN  110
+            +  P      E  +   S F+CDGRE+C QM S EEA +F+RNCPNTKMDGD DG PCE+
+Sbjct  179  QSNPVNPKTSETASPSVSQFKCDGREHCGQMGSYEEALFFIRNCPNTKMDGDGDGIPCES  238
+
+
+>WP_005007978.1 hypothetical protein [Acinetobacter bouvetii]
+Length=245
+
+ Score = 94.0 bits (232),  Expect = 2e-021, Method: Compositional matrix adjust.
+ Identities = 49/107 (46%), Positives = 67/107 (63%), Gaps = 18/107 (17%)
+
+Query  20   LLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKV-----PERV-----------  63
+            L+++QQ+ IIE QR A GKLPD  L+E+ +K LA   E++     P R            
+Sbjct  135  LMLEQQR-IIEEQRQAQGKLPDQVLTEQGRKNLASRPEQIQAGRLPSRAPAEQGNARPAA  193
+
+Query  64   -NDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCE  109
+             +++   F+CDGR +C+QM S EEA +F+RNCP TKMDG+ DG PCE
+Sbjct  194  DSNQAPVFKCDGRTHCSQMRSYEEAVFFIRNCPGTKMDGNHDGVPCE  240
+
+
+>WP_053578559.1 DNA-binding protein [Acinetobacter sp. TTH0-4]
+Length=240
+
+ Score = 93.6 bits (231),  Expect = 2e-021, Method: Compositional matrix adjust.
+ Identities = 46/107 (43%), Positives = 68/107 (64%), Gaps = 10/107 (9%)
+
+Query  17   KVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTK--------KALALTSEKVPERVNDETS  68
+            K Q  + +Q  I++ QR ALG LPD  LS+++K        +++A+    + E+   + S
+Sbjct  133  KAQQFMHEQAQIVKQQRQALGNLPDQVLSKESKAHLENRSNQSVAVKGSPITEKEYPQVS  192
+
+Query  69   --AFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSR  113
+              AF+CDGR +C+QM S +EA +F+RNCP T+MDG+ DGEPCE   R
+Sbjct  193  VSAFKCDGRTHCSQMRSYDEAVFFLRNCPGTQMDGNHDGEPCERQFR  239
+
+
+>WP_063882339.1 MULTISPECIES: calcium-binding protein [Shewanella]
+Length=97
+
+ Score = 89.4 bits (220),  Expect = 3e-021, Method: Compositional matrix adjust.
+ Identities = 45/89 (51%), Positives = 55/89 (62%), Gaps = 11/89 (12%)
+
+Query  26   KTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVPERVNDETSAFQCDGREYCTQMHSLE  85
+            K   E+  AA   + D Q  +K K+A A+ S             F+CDGR+YC+QM S  
+Sbjct  20   KAEYESYEAAQEPIIDSQAIDKAKEAAAIMSNN-----------FRCDGRQYCSQMTSRA  68
+
+Query  86   EARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            EA +FV+ CPNTKMDGD DGEPCENDSRW
+Sbjct  69   EAEFFVKYCPNTKMDGDHDGEPCENDSRW  97
+
+
+>WP_082817481.1 hypothetical protein [Microbulbifer thermotolerans]
+Length=110
+
+ Score = 89.7 bits (221),  Expect = 4e-021, Method: Compositional matrix adjust.
+ Identities = 44/94 (47%), Positives = 59/94 (63%), Gaps = 1/94 (1%)
+
+Query  22   IQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVPERV-NDETSAFQCDGREYCTQ  80
+            I Q+K +    R    K+  + +S    + + L+  K   +  +D   AF+CDGR+YC+Q
+Sbjct  17   IYQEKVMSHGARWGDYKVEKIGVSADGMETIKLSPTKGTAKSRHDSYQAFKCDGRQYCSQ  76
+
+Query  81   MHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            M S EEA +F RNCPNTKMDGD DG PCENDSR+
+Sbjct  77   MTSREEAVFFTRNCPNTKMDGDGDGIPCENDSRF  110
+
+
+>WP_086179780.1 DNA-binding protein [Acinetobacter sp. ANC 5054]
+Length=238
+
+ Score = 93.2 bits (230),  Expect = 4e-021, Method: Compositional matrix adjust.
+ Identities = 47/101 (47%), Positives = 66/101 (65%), Gaps = 8/101 (8%)
+
+Query  17   KVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKAL-------ALTSEKVPERVNDET-S  68
+            ++Q L+Q+ + I++ QR ALG      LSE+ +K L        L +  + E V  +  S
+Sbjct  132  RLQELMQKNENIVKGQRKALGDFQSEGLSEQGRKNLYGDSATNTLNNTDMREPVQKQVIS  191
+
+Query  69   AFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCE  109
+             F+CDGR++CTQM S +EA +F+RNCP+TKMDGDRDG PCE
+Sbjct  192  QFKCDGRQHCTQMRSYDEAVFFLRNCPDTKMDGDRDGIPCE  232
+
+
+>WP_036972650.1 hypothetical protein [Pseudoalteromonas lipolytica]
+Length=103
+
+ Score = 88.6 bits (218),  Expect = 8e-021, Method: Compositional matrix adjust.
+ Identities = 33/47 (70%), Positives = 42/47 (89%), Gaps = 0/47 (0%)
+
+Query  69   AFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+            +F+CDGR+YC++M SL EA +F+RNCPNTKMDGD DG PCEND+R+H
+Sbjct  57   SFKCDGRQYCSEMKSLAEANYFIRNCPNTKMDGDNDGRPCENDTRFH  103
+
+
+>WP_049239227.1 cold-shock protein, partial [Morococcus cerebrosus]
+Length=184
+
+ Score = 90.5 bits (223),  Expect = 1e-020, Method: Compositional matrix adjust.
+ Identities = 49/111 (44%), Positives = 68/111 (61%), Gaps = 5/111 (5%)
+
+Query  5    YRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVPERVN  64
+            YR+Q Q+  +   V ++ +    + E  +A      D   S +T      T+        
+Sbjct  79   YRRQVQETTAAAPVTMVSE----VAEKMKAERKAWKDAA-SGRTAFKHGSTASTGSAATT  133
+
+Query  65   DETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+            D T+AF+CDGR++C+QM+SLEEA +F++NCPNTKMDGD DG PCENDSRWH
+Sbjct  134  DTTTAFKCDGRQHCSQMNSLEEAEFFIKNCPNTKMDGDHDGIPCENDSRWH  184
+
+
+>WP_049226044.1 cold-shock protein, partial [Morococcus cerebrosus]
+Length=192
+
+ Score = 90.9 bits (224),  Expect = 1e-020, Method: Compositional matrix adjust.
+ Identities = 49/111 (44%), Positives = 69/111 (62%), Gaps = 5/111 (5%)
+
+Query  5    YRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVPERVN  64
+            YR+Q Q+  +   V + + +    ++A+R A         S +T      T+        
+Sbjct  87   YRRQVQETTAAAPVTM-VSEVAEKMKAERKAWKD----AASGRTAFKHGSTASTGSAATT  141
+
+Query  65   DETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+            D T+AF+CDGR++C+QM+SLEEA +F++NCPNTKMDGD DG PCENDSRWH
+Sbjct  142  DTTTAFKCDGRQHCSQMNSLEEAEFFIKNCPNTKMDGDHDGIPCENDSRWH  192
+
+
+>WP_009173348.1 cold-shock protein [Neisseria sp. oral taxon 014]
+Length=231
+
+ Score = 91.7 bits (226),  Expect = 1e-020, Method: Compositional matrix adjust.
+ Identities = 47/111 (42%), Positives = 70/111 (63%), Gaps = 12/111 (11%)
+
+Query  15   HEKVQLLIQQQKTIIEAQRAAL---------GKL--PDVQLSEKTKKALALTSEKVPERV  63
+            H++ +++++Q    I A R A          GK    + Q  EK K   ++   ++ +  
+Sbjct  121  HQQNEVIVKQVAEQIHADRQAWKAAVSGSGHGKAVKTESQPQEKAKADDSIGG-RIMQLF  179
+
+Query  64   NDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            N E   ++CDGR+YC++M SL+EAR+FV++CPNTKMDGD DGEPCE+DSRW
+Sbjct  180  NKEEGRYKCDGRQYCSEMTSLDEARYFVKHCPNTKMDGDHDGEPCESDSRW  230
+
+
+>WP_039407587.1 MULTISPECIES: cold-shock protein [Neisseriaceae]
+Length=221
+
+ Score = 90.9 bits (224),  Expect = 2e-020, Method: Compositional matrix adjust.
+ Identities = 49/111 (44%), Positives = 68/111 (61%), Gaps = 5/111 (5%)
+
+Query  5    YRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVPERVN  64
+            YR+Q Q+  +   V ++ +    + E  +A      D   S +T      T+        
+Sbjct  116  YRRQVQETTAAAPVTMVSE----VAEKMKAERKAWKDAA-SGRTAFKHGSTASTGSAATT  170
+
+Query  65   DETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+            D T+AF+CDGR++C+QM+SLEEA +F++NCPNTKMDGD DG PCENDSRWH
+Sbjct  171  DTTTAFKCDGRQHCSQMNSLEEAEFFIKNCPNTKMDGDHDGIPCENDSRWH  221
+
+
+>WP_070860191.1 MULTISPECIES: cold-shock protein [Neisseria]
+Length=221
+
+ Score = 90.9 bits (224),  Expect = 2e-020, Method: Compositional matrix adjust.
+ Identities = 49/111 (44%), Positives = 68/111 (61%), Gaps = 5/111 (5%)
+
+Query  5    YRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVPERVN  64
+            YR+Q Q+  +   V ++ +    + E  +A      D   S +T      T+        
+Sbjct  116  YRRQVQETTAAAPVTMVSE----VAEKMKAERKAWKDAA-SGRTAFKHGSTASTGSAAAT  170
+
+Query  65   DETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+            D T+AF+CDGR++C+QM+SLEEA +F++NCPNTKMDGD DG PCENDSRWH
+Sbjct  171  DTTTAFKCDGRQHCSQMNSLEEAEFFIKNCPNTKMDGDHDGIPCENDSRWH  221
+
+
+>WP_060975670.1 cold-shock protein [Porphyrobacter donghaensis]
+Length=221
+
+ Score = 90.9 bits (224),  Expect = 2e-020, Method: Compositional matrix adjust.
+ Identities = 49/111 (44%), Positives = 68/111 (61%), Gaps = 5/111 (5%)
+
+Query  5    YRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVPERVN  64
+            YR+Q Q+  +   V ++ +    + E  +A      D   S +T      T+        
+Sbjct  116  YRRQVQETTAAAPVTMVSE----VAEKMKAERKAWKDAA-SGRTAFKHGSTASTGSAATT  170
+
+Query  65   DETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+            D T+AF+CDGR++C+QM+SLEEA +F++NCPNTKMDGD DG PCENDSRWH
+Sbjct  171  DTTTAFKCDGRQHCSQMNSLEEAEFFIKNCPNTKMDGDHDGIPCENDSRWH  221
+
+
+>WP_016688386.1 cold-shock protein [Neisseria sicca]
+Length=221
+
+ Score = 90.9 bits (224),  Expect = 2e-020, Method: Compositional matrix adjust.
+ Identities = 49/111 (44%), Positives = 68/111 (61%), Gaps = 5/111 (5%)
+
+Query  5    YRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVPERVN  64
+            YR+Q Q+  +   V ++ +    + E  +A      D   S +T      T+        
+Sbjct  116  YRRQVQETTAAAPVTMVSE----VAEKMKAERKAWKDAA-SGRTAFKHGSTASTGSAAAT  170
+
+Query  65   DETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+            D T+AF+CDGR++C+QM+SLEEA +F++NCPNTKMDGD DG PCENDSRWH
+Sbjct  171  DTTTAFKCDGRQHCSQMNSLEEAEFFIKNCPNTKMDGDHDGIPCENDSRWH  221
+
+
+>WP_070865808.1 cold-shock protein [Neisseria sp. HMSC064F04]
+Length=221
+
+ Score = 90.9 bits (224),  Expect = 2e-020, Method: Compositional matrix adjust.
+ Identities = 48/111 (43%), Positives = 68/111 (61%), Gaps = 5/111 (5%)
+
+Query  5    YRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVPERVN  64
+            YR+Q Q+  +   V ++ +    + E  +A      D   S +T      T+        
+Sbjct  116  YRRQVQETTAAAPVTMVSE----VAEKMKAERKAWKDAA-SGRTAFKHGSTASTGSAATT  170
+
+Query  65   DETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+            D T++F+CDGR++C+QM+SLEEA +F++NCPNTKMDGD DG PCENDSRWH
+Sbjct  171  DTTTSFKCDGRQHCSQMNSLEEAEFFIKNCPNTKMDGDHDGIPCENDSRWH  221
+
+
+>WP_011847847.1 calcium-binding protein [Shewanella baltica]
+Length=97
+
+ Score = 87.4 bits (215),  Expect = 2e-020, Method: Compositional matrix adjust.
+ Identities = 41/76 (54%), Positives = 51/76 (67%), Gaps = 11/76 (14%)
+
+Query  39   LPDVQLSEKTKKALALTSEKVPERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTK  98
+            + D Q  +K K+A A+ S           + F+CDGR+YC+QM S  EA +FV+ CPNTK
+Sbjct  33   IIDSQAIDKAKEAAAIMS-----------NYFRCDGRQYCSQMTSRAEAEFFVKYCPNTK  81
+
+Query  99   MDGDRDGEPCENDSRW  114
+            MDGD DGEPCENDSRW
+Sbjct  82   MDGDHDGEPCENDSRW  97
+
+
+>WP_034581914.1 cold-shock protein [Acinetobacter sp. HR7]
+Length=192
+
+ Score = 89.7 bits (221),  Expect = 3e-020, Method: Compositional matrix adjust.
+ Identities = 35/45 (78%), Positives = 40/45 (89%), Gaps = 0/45 (0%)
+
+Query  70   FQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            F CDGR++C+QM+S EEA WF+RNCPNTKMDGD DG PCENDSRW
+Sbjct  148  FSCDGRQHCSQMNSREEAEWFIRNCPNTKMDGDGDGIPCENDSRW  192
+
+
+>WP_067665244.1 DNA-binding protein [Acinetobacter sp. ANC 4149]
+Length=249
+
+ Score = 90.5 bits (223),  Expect = 4e-020, Method: Compositional matrix adjust.
+ Identities = 50/128 (39%), Positives = 69/128 (54%), Gaps = 14/128 (11%)
+
+Query  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALA-------  53
+             +L+ + Q       E+VQ ++ +Q+ II  QR A G LPD  LSE+  K L        
+Sbjct  122  FLLYGKIQEYNAHKAERVQQMVLEQEKIIAKQRQAQGNLPDRVLSEQGHKNLENHPEVLI  181
+
+Query  54   -------LTSEKVPERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGE  106
+                   + + ++ ++ + +    +C  R  C QM S  EA WFVRNCPN +MDGD DG 
+Sbjct  182  GTRPKQDVKNNEITKQASSKPIDPKCYERTRCGQMTSRSEAEWFVRNCPNNEMDGDGDGR  241
+
+Query  107  PCENDSRW  114
+            PCENDSRW
+Sbjct  242  PCENDSRW  249
+
+
+>WP_049227921.1 cold-shock protein [Morococcus cerebrosus]
+Length=221
+
+ Score = 90.1 bits (222),  Expect = 4e-020, Method: Compositional matrix adjust.
+ Identities = 35/46 (76%), Positives = 43/46 (93%), Gaps = 0/46 (0%)
+
+Query  70   FQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+            F+CDGR++C+QM+SLEEA +F++NCPNTKMDGD DG PCENDSRWH
+Sbjct  176  FKCDGRQHCSQMNSLEEAEFFIKNCPNTKMDGDHDGIPCENDSRWH  221
+
+
+>WP_083847066.1 calcium-binding protein [Marinobacter sp. BSs20148]
+Length=137
+
+ Score = 87.8 bits (216),  Expect = 4e-020, Method: Compositional matrix adjust.
+ Identities = 42/98 (43%), Positives = 60/98 (61%), Gaps = 6/98 (6%)
+
+Query  23   QQQKTIIEAQRAALGKLPDVQLSEK---TKKALALTSE---KVPERVNDETSAFQCDGRE  76
+            +Q K I +  R   G +P   + E+    K +L + S       +  N + S+F+CDGR+
+Sbjct  40   EQLKCITKDGRVLYGSVPQGTVCERRESVKGSLTIVSSGAVSANQSSNQKNSSFKCDGRQ  99
+
+Query  77   YCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            +C+QM+S  EA +FV+NCPN KMDGD DG PCEND R+
+Sbjct  100  HCSQMNSRAEAEYFVKNCPNIKMDGDHDGIPCENDFRF  137
+
+
+>WP_084708417.1 hypothetical protein [Marinobacter psychrophilus]
+Length=93
+
+ Score = 86.3 bits (212),  Expect = 4e-020, Method: Compositional matrix adjust.
+ Identities = 42/88 (48%), Positives = 60/88 (68%), Gaps = 6/88 (7%)
+
+Query  33   RAALGKLPDVQLSEK---TKKALAL-TSEKVP--ERVNDETSAFQCDGREYCTQMHSLEE  86
+            R   G +P   + E+    K +L + +SE V   +  N + S+F+CDGR++C+QM+S  E
+Sbjct  6    RVLYGSVPQGTVCERRESVKGSLTIVSSEAVSANQGSNQKNSSFKCDGRQHCSQMNSRVE  65
+
+Query  87   ARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            A +FV+NCPNTKMDGD DG PC+NDSR+
+Sbjct  66   AEYFVKNCPNTKMDGDHDGVPCKNDSRF  93
+
+
+>WP_003740681.1 cold-shock protein [Neisseria mucosa]
+Length=221
+
+ Score = 89.7 bits (221),  Expect = 5e-020, Method: Compositional matrix adjust.
+ Identities = 35/46 (76%), Positives = 43/46 (93%), Gaps = 0/46 (0%)
+
+Query  70   FQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+            F+CDGR++C+QM+SLEEA +F++NCPNTKMDGD DG PCENDSRWH
+Sbjct  176  FKCDGRQHCSQMNSLEEAEFFIKNCPNTKMDGDHDGIPCENDSRWH  221
+
+
+>WP_070540871.1 MULTISPECIES: cold-shock protein [Neisseria]
+Length=221
+
+ Score = 89.7 bits (221),  Expect = 5e-020, Method: Compositional matrix adjust.
+ Identities = 35/46 (76%), Positives = 43/46 (93%), Gaps = 0/46 (0%)
+
+Query  70   FQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+            F+CDGR++C+QM+SLEEA +F++NCPNTKMDGD DG PCENDSRWH
+Sbjct  176  FKCDGRQHCSQMNSLEEAEFFIKNCPNTKMDGDHDGIPCENDSRWH  221
+
+
+>WP_070613293.1 cold-shock protein [Neisseria sp. HMSC055F11]
+Length=221
+
+ Score = 89.7 bits (221),  Expect = 5e-020, Method: Compositional matrix adjust.
+ Identities = 35/46 (76%), Positives = 43/46 (93%), Gaps = 0/46 (0%)
+
+Query  70   FQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+            F+CDGR++C+QM+SLEEA +F++NCPNTKMDGD DG PCENDSRWH
+Sbjct  176  FKCDGRQHCSQMNSLEEAEFFIKNCPNTKMDGDHDGIPCENDSRWH  221
+
+
+>WP_008167721.1 cold-shock protein [Pseudoalteromonas sp. BSi20652]
+Length=195
+
+ Score = 89.4 bits (220),  Expect = 5e-020, Method: Compositional matrix adjust.
+ Identities = 41/68 (60%), Positives = 48/68 (71%), Gaps = 1/68 (1%)
+
+Query  48   TKKALALTSEKVPERV-NDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGE  106
+            T   LA   EK P+ V    T  F CDGR+YCT+M S EEA +F+ NCPNTKMDGD DG+
+Sbjct  128  TNDDLATFDEKYPKVVIPKNTQNFTCDGRQYCTEMRSREEAVFFINNCPNTKMDGDGDGK  187
+
+Query  107  PCENDSRW  114
+            PCENDSR+
+Sbjct  188  PCENDSRF  195
+
+
+>WP_070656512.1 cold-shock protein [Neisseria sp. HMSC072F04]
+Length=221
+
+ Score = 89.7 bits (221),  Expect = 5e-020, Method: Compositional matrix adjust.
+ Identities = 35/46 (76%), Positives = 43/46 (93%), Gaps = 0/46 (0%)
+
+Query  70   FQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+            F+CDGR++C+QM+SLEEA +F++NCPNTKMDGD DG PCENDSRWH
+Sbjct  176  FKCDGRQHCSQMNSLEEAEFFIKNCPNTKMDGDHDGIPCENDSRWH  221
+
+
+>WP_070689131.1 cold-shock protein [Neisseria sp. HMSC067H09]
+Length=221
+
+ Score = 89.7 bits (221),  Expect = 5e-020, Method: Compositional matrix adjust.
+ Identities = 35/46 (76%), Positives = 43/46 (93%), Gaps = 0/46 (0%)
+
+Query  70   FQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+            F+CDGR++C+QM+SLEEA +F++NCPNTKMDGD DG PCENDSRWH
+Sbjct  176  FKCDGRQHCSQMNSLEEAEFFIKNCPNTKMDGDHDGIPCENDSRWH  221
+
+
+>WP_070492811.1 cold-shock protein [Neisseria sp. HMSC15C08]
+Length=221
+
+ Score = 89.7 bits (221),  Expect = 5e-020, Method: Compositional matrix adjust.
+ Identities = 35/46 (76%), Positives = 43/46 (93%), Gaps = 0/46 (0%)
+
+Query  70   FQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+            F+CDGR++C+QM+SLEEA +F++NCPNTKMDGD DG PCENDSRWH
+Sbjct  176  FKCDGRQHCSQMNSLEEAEFFIKNCPNTKMDGDHDGIPCENDSRWH  221
+
+
+>WP_081695436.1 hypothetical protein [Psychromonas sp. SP041]
+Length=109
+
+ Score = 86.7 bits (213),  Expect = 6e-020, Method: Compositional matrix adjust.
+ Identities = 46/104 (44%), Positives = 58/104 (56%), Gaps = 15/104 (14%)
+
+Query  26   KTIIEAQRAALGKLPDVQLSEK-------------TKKALALTSEKVPERVND--ETSAF  70
+            K I +  R   GK+PD  + E+              KK    TS +  + +N   + S F
+Sbjct  6    KCITKEGRILYGKVPDDVVCERRESVKASIVILSSDKKTSNKTSNQKSDNINSGFQYSEF  65
+
+Query  71   QCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            QCDGR YC+QM S  EA +F+ NCPNTKMDGD DG PCE DSR+
+Sbjct  66   QCDGRTYCSQMTSRAEAEFFINNCPNTKMDGDYDGIPCEGDSRF  109
+
+
+>WP_086164476.1 cold-shock protein [Acinetobacter sp. ANC 4654]
+Length=197
+
+ Score = 89.0 bits (219),  Expect = 6e-020, Method: Compositional matrix adjust.
+ Identities = 45/109 (41%), Positives = 62/109 (57%), Gaps = 2/109 (2%)
+
+Query  6    RQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVPERVND  65
+            R +A+Q      +   I     I+       GK    QL+++   A+A     V + ++ 
+Sbjct  91   RSKAKQAKQGSGLFTTIIGFVIIVGLAYMVYGKYQRWQLAQQP--AIAPAQTLVTQPIDS  148
+
+Query  66   ETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+              + ++CDGR +C QM+S EEARWFV NC  TKMDG+ DGEPCENDSRW
+Sbjct  149  NPNGYRCDGRIHCGQMNSREEARWFVSNCSGTKMDGNNDGEPCENDSRW  197
+
+
+>WP_024593603.1 cold-shock protein [Pseudoalteromonas sp. TB13]
+Length=203
+
+ Score = 89.0 bits (219),  Expect = 8e-020, Method: Compositional matrix adjust.
+ Identities = 41/76 (54%), Positives = 52/76 (68%), Gaps = 1/76 (1%)
+
+Query  40   PDVQLSEKTKKALALTSEKVPERVNDETS-AFQCDGREYCTQMHSLEEARWFVRNCPNTK  98
+            P +     T   LA   EK P+ V  +T+  F CDGR+YCT+M S EEA +F+ NCPNTK
+Sbjct  124  PIITNDLATNDDLATFDEKYPKLVIPKTTQNFTCDGRQYCTEMRSREEAVYFINNCPNTK  183
+
+Query  99   MDGDRDGEPCENDSRW  114
+            MDGD DG+PCEND+R+
+Sbjct  184  MDGDGDGKPCENDTRF  199
+
+
+>WP_033039085.1 cold-shock protein [Pseudoalteromonas sp. S3431]
+Length=204
+
+ Score = 89.0 bits (219),  Expect = 8e-020, Method: Compositional matrix adjust.
+ Identities = 41/68 (60%), Positives = 48/68 (71%), Gaps = 1/68 (1%)
+
+Query  48   TKKALALTSEKVPERV-NDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGE  106
+            T   LA   EK P+ V    T  F CDGR+YCT+M S EEA +F+ NCPNTKMDGD DG+
+Sbjct  133  TNADLATFDEKYPKVVIPKNTQNFTCDGRQYCTEMRSREEAVFFINNCPNTKMDGDGDGK  192
+
+Query  107  PCENDSRW  114
+            PCENDSR+
+Sbjct  193  PCENDSRF  200
+
+
+>WP_008135205.1 cold-shock protein [Pseudoalteromonas sp. BSi20495]
+Length=204
+
+ Score = 89.0 bits (219),  Expect = 8e-020, Method: Compositional matrix adjust.
+ Identities = 41/68 (60%), Positives = 48/68 (71%), Gaps = 1/68 (1%)
+
+Query  48   TKKALALTSEKVPERV-NDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGE  106
+            T   LA   EK P+ V    T  F CDGR+YCT+M S EEA +F+ NCPNTKMDGD DG+
+Sbjct  133  TNADLATFDEKYPKVVIPKNTQNFTCDGRQYCTEMRSREEAVFFINNCPNTKMDGDGDGK  192
+
+Query  107  PCENDSRW  114
+            PCENDSR+
+Sbjct  193  PCENDSRF  200
+
+
+>WP_082054947.1 DNA-binding protein [Cupriavidus basilensis]
+Length=190
+
+ Score = 87.8 bits (216),  Expect = 1e-019, Method: Compositional matrix adjust.
+ Identities = 38/64 (59%), Positives = 51/64 (80%), Gaps = 2/64 (3%)
+
+Query  51   ALALTSEKVPERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCEN  110
+            +LA  S +VP  V+  +S FQCDGR+YC+QM S +EA++F++NCPNT+MDGDRDG PCE 
+Sbjct  122  SLASDSTQVPVSVSMASSPFQCDGRKYCSQMTSCKEAKYFLKNCPNTEMDGDRDGIPCE-  180
+
+Query  111  DSRW  114
+             S+W
+Sbjct  181  -SQW  183
+
+
+>WP_053911646.1 hypothetical protein [Pseudoalteromonas sp. SW0106-04]
+Length=176
+
+ Score = 87.4 bits (215),  Expect = 2e-019, Method: Compositional matrix adjust.
+ Identities = 36/60 (60%), Positives = 47/60 (78%), Gaps = 2/60 (3%)
+
+Query  57   EKVPERVNDETS--AFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            +++P+   D T    F+CDGR+YC+QM S EEA +F+RNCPNTKMDGD DG PCE+DSR+
+Sbjct  117  QQIPDTAFDTTPRQTFKCDGRQYCSQMRSREEAVFFIRNCPNTKMDGDNDGNPCESDSRF  176
+
+
+>WP_086185144.1 hypothetical protein [Acinetobacter sp. ANC 4973]
+Length=79
+
+ Score = 84.7 bits (208),  Expect = 2e-019, Method: Compositional matrix adjust.
+ Identities = 36/66 (55%), Positives = 47/66 (71%), Gaps = 0/66 (0%)
+
+Query  49   KKALALTSEKVPERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPC  108
+            + A+A     V + ++   + ++CDGR +C QM+S EEARWFV NCP TKMDG+ D EPC
+Sbjct  14   QPAIAPAQTIVTQPIDSNPNGYRCDGRIHCGQMNSREEARWFVSNCPGTKMDGNNDVEPC  73
+
+Query  109  ENDSRW  114
+            ENDSRW
+Sbjct  74   ENDSRW  79
+
+
+>WP_015840084.1 calcium-binding protein [Pectobacterium carotovorum]
+Length=102
+
+ Score = 85.1 bits (209),  Expect = 2e-019, Method: Compositional matrix adjust.
+ Identities = 35/49 (71%), Positives = 42/49 (86%), Gaps = 0/49 (0%)
+
+Query  66   ETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            ET+ F CDGR+YC+QM S EEA +F+ NCPNT+MDGDRDG PCENDSR+
+Sbjct  46   ETNRFVCDGRQYCSQMRSREEAYFFIENCPNTRMDGDRDGIPCENDSRF  94
+
+
+>WP_024604296.1 MULTISPECIES: cold-shock protein [Pseudoalteromonas]
+Length=195
+
+ Score = 87.8 bits (216),  Expect = 2e-019, Method: Compositional matrix adjust.
+ Identities = 39/64 (61%), Positives = 47/64 (73%), Gaps = 1/64 (2%)
+
+Query  52   LALTSEKVPERV-NDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCEN  110
+            LA   E+ P+ V    T  F CDGR+YCT+M S EEA +F+ NCPNTKMDGD DG+PCEN
+Sbjct  132  LATFDEQYPKFVIPKSTQNFTCDGRQYCTEMRSREEAVYFINNCPNTKMDGDGDGKPCEN  191
+
+Query  111  DSRW  114
+            DSR+
+Sbjct  192  DSRF  195
+
+
+>WP_024598365.1 cold-shock protein [Pseudoalteromonas sp. TAE56]
+Length=199
+
+ Score = 87.0 bits (214),  Expect = 4e-019, Method: Compositional matrix adjust.
+ Identities = 40/68 (59%), Positives = 48/68 (71%), Gaps = 1/68 (1%)
+
+Query  48   TKKALALTSEKVPERV-NDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGE  106
+            T   LA   E+ P+ V    T  F CDGR+YCT+M S EEA +F+ NCPNTKMDGD DG+
+Sbjct  128  TNDDLATFDEQYPKVVIPKSTQNFTCDGRQYCTEMRSREEAVFFINNCPNTKMDGDGDGK  187
+
+Query  107  PCENDSRW  114
+            PCENDSR+
+Sbjct  188  PCENDSRF  195
+
+
+>WP_070497007.1 cold-shock protein [Neisseria sp. HMSC064E01]
+Length=226
+
+ Score = 87.4 bits (215),  Expect = 4e-019, Method: Compositional matrix adjust.
+ Identities = 36/48 (75%), Positives = 41/48 (85%), Gaps = 0/48 (0%)
+
+Query  68   SAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+            S F+CDGR+YC+QM SL EA +FV+ CPNTKMDGD DG PCENDSRWH
+Sbjct  179  SEFKCDGRQYCSQMTSLSEAEFFVKFCPNTKMDGDHDGIPCENDSRWH  226
+
+
+>WP_070513819.1 cold-shock protein [Neisseria sp. HMSC077D05]
+Length=226
+
+ Score = 87.4 bits (215),  Expect = 5e-019, Method: Compositional matrix adjust.
+ Identities = 36/48 (75%), Positives = 41/48 (85%), Gaps = 0/48 (0%)
+
+Query  68   SAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+            S F+CDGR+YC+QM SL EA +FV+ CPNTKMDGD DG PCENDSRWH
+Sbjct  179  SEFKCDGRQYCSQMTSLSEAEFFVKFCPNTKMDGDHDGIPCENDSRWH  226
+
+
+>WP_055253636.1 cold-shock protein [Pseudoalteromonas sp. P1-11]
+Length=198
+
+ Score = 86.7 bits (213),  Expect = 5e-019, Method: Compositional matrix adjust.
+ Identities = 45/89 (51%), Positives = 56/89 (63%), Gaps = 9/89 (10%)
+
+Query  35   ALGKLPDVQLSEK--------TKKALALTSEKVPERVNDE-TSAFQCDGREYCTQMHSLE  85
+            AL K    Q SE+        T   LA   EK P+ V  + T  F CDGR++C+QM S  
+Sbjct  110  ALNKYNHYQSSEQFNNQTPVITNADLATFDEKYPKIVIPQNTQNFTCDGRQHCSQMTSRA  169
+
+Query  86   EARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            EA +F+ NCPNTKMDGDRDG+PCEND+R+
+Sbjct  170  EAVFFINNCPNTKMDGDRDGDPCENDTRF  198
+
+
+>WP_029773624.1 cold-shock protein [Pseudoalteromonas sp. TB51]
+Length=198
+
+ Score = 86.7 bits (213),  Expect = 5e-019, Method: Compositional matrix adjust.
+ Identities = 39/68 (57%), Positives = 49/68 (72%), Gaps = 1/68 (1%)
+
+Query  48   TKKALALTSEKVPERVNDE-TSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGE  106
+            T   LA   EK P+ V  + T  F CDGR++C+QM S  EA +F+ NCPNTKMDGDRDG+
+Sbjct  131  TNADLATFDEKYPKIVIPQNTQNFTCDGRQHCSQMTSRAEAVFFINNCPNTKMDGDRDGD  190
+
+Query  107  PCENDSRW  114
+            PCEND+R+
+Sbjct  191  PCENDTRF  198
+
+
+>WP_068379527.1 hypothetical protein [Paraglaciecola sp. S66]
+Length=186
+
+ Score = 86.3 bits (212),  Expect = 5e-019, Method: Compositional matrix adjust.
+ Identities = 35/56 (63%), Positives = 45/56 (80%), Gaps = 0/56 (0%)
+
+Query  59   VPERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            VP  + + +S F CDGR +C+QM+S EEA +F+ NCP+TKMDGDRDG PCENDSR+
+Sbjct  131  VPSIIEEPSSNFVCDGRTHCSQMNSREEAVFFINNCPDTKMDGDRDGIPCENDSRF  186
+
+
+>WP_067726415.1 DNA-binding protein [Acinetobacter sp. SFC]
+Length=245
+
+ Score = 87.4 bits (215),  Expect = 6e-019, Method: Compositional matrix adjust.
+ Identities = 46/103 (45%), Positives = 62/103 (60%), Gaps = 15/103 (15%)
+
+Query  22   IQQQKTIIEAQRAALGKLPDVQLSEKTKKAL--------ALTSEKVPERVNDE-------  66
+            I+QQ   +E QR ALG LP   LSE+  + L           SEKV   ++ +       
+Sbjct  138  IEQQAQFVEQQREALGNLPVEVLSEQGHRNLEDQTYSTNKPRSEKVSASIDKQNGVQHQQ  197
+
+Query  67   TSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCE  109
+            +S F+CDGR +C+QM S EEA +F+RNCP T+MDG+ DG+PCE
+Sbjct  198  SSQFKCDGRTHCSQMRSYEEAVFFLRNCPGTQMDGNNDGQPCE  240
+
+
+>WP_011330325.1 calcium-binding protein [Nitrosococcus oceani]
+Length=134
+
+ Score = 84.7 bits (208),  Expect = 7e-019, Method: Compositional matrix adjust.
+ Identities = 47/112 (42%), Positives = 65/112 (58%), Gaps = 10/112 (9%)
+
+Query  6    RQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKA-LALTSEKVP--ER  62
+            R+ A    S+E V       K + +  R   G +P   + EK +    +LT +K    +R
+Sbjct  30   REFANGFGSNEPV-------KCMTKDGRVLYGDIPQGIICEKVEPVEGSLTVQKFSTLKR  82
+
+Query  63   VNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+             + + S F+CDGR+YC+QM S  EA +F RNC NTKMDGD DG PCENDS++
+Sbjct  83   DDHKASGFRCDGRQYCSQMKSRAEAEFFARNCSNTKMDGDHDGVPCENDSQF  134
+
+
+>WP_082218613.1 hypothetical protein [Pectobacterium parmentieri]
+Length=102
+
+ Score = 83.6 bits (205),  Expect = 7e-019, Method: Compositional matrix adjust.
+ Identities = 33/45 (73%), Positives = 40/45 (89%), Gaps = 0/45 (0%)
+
+Query  70   FQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            F CDGR+YCTQM S EEA +F++NCPNTKMDGD DG+PCEND+R+
+Sbjct  52   FVCDGRQYCTQMRSKEEAIFFIQNCPNTKMDGDNDGDPCENDTRF  96
+
+
+>WP_025096086.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=202
+
+ Score = 86.3 bits (212),  Expect = 8e-019, Method: Compositional matrix adjust.
+ Identities = 35/52 (67%), Positives = 42/52 (81%), Gaps = 0/52 (0%)
+
+Query  63   VNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            V+ ET  F+CDGR +C+QM+S  EA WFV+NCP TKMDGD DG+ CENDSRW
+Sbjct  151  VSSETQNFKCDGRIHCSQMNSKAEADWFVKNCPGTKMDGDSDGDACENDSRW  202
+
+
+>WP_008043972.1 putative cold-shock DNA-binding domain [Reinekea blandensis]
+Length=96
+
+ Score = 83.2 bits (204),  Expect = 9e-019, Method: Compositional matrix adjust.
+ Identities = 45/91 (49%), Positives = 56/91 (62%), Gaps = 4/91 (4%)
+
+Query  28   IIEAQRAALGKLPDVQLSEKTKKALALTSEKVPERVN--DETSA--FQCDGREYCTQMHS  83
+            I+     AL +L    L      A++  SE V +  N  +ET +  F CDGREYC+QM S
+Sbjct  6    IVIVVIFALSRLVPSYLDNGRTPAVSEPSEIVKQYENTLNETVSQRFVCDGREYCSQMTS  65
+
+Query  84   LEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+              EA +F R+CPNTKMDGD DG PCE+DSRW
+Sbjct  66   RAEAVYFTRHCPNTKMDGDGDGIPCESDSRW  96
+
+
+>WP_045978793.1 hypothetical protein [Pseudoalteromonas ruthenica]
+Length=176
+
+ Score = 85.5 bits (210),  Expect = 9e-019, Method: Compositional matrix adjust.
+ Identities = 35/60 (58%), Positives = 47/60 (78%), Gaps = 2/60 (3%)
+
+Query  57   EKVPERVNDETS--AFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            +++P+   + T    F+CDGR+YC+QM S EEA +F+RNCPNTKMDGD DG PCE+DSR+
+Sbjct  117  QQIPDTAVNTTPRQTFKCDGRQYCSQMRSREEAVFFIRNCPNTKMDGDNDGTPCESDSRF  176
+
+
+>WP_084164460.1 hypothetical protein [Rheinheimera texasensis]
+Length=62
+
+ Score = 82.0 bits (201),  Expect = 1e-018, Method: Compositional matrix adjust.
+ Identities = 33/46 (72%), Positives = 40/46 (87%), Gaps = 0/46 (0%)
+
+Query  69   AFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            +FQCDGR++C+QM S  EA +FV NCPNTK+DGDRDG PCEND+RW
+Sbjct  17   SFQCDGRQHCSQMRSRAEAEFFVANCPNTKLDGDRDGIPCENDTRW  62
+
+
+>WP_022944207.1 cold-shock protein [Pseudoalteromonas ruthenica]
+Length=176
+
+ Score = 85.1 bits (209),  Expect = 1e-018, Method: Compositional matrix adjust.
+ Identities = 33/46 (72%), Positives = 40/46 (87%), Gaps = 0/46 (0%)
+
+Query  69   AFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+             F+CDGR+YC+QM S EEA +F+RNCPNTKMDGD DG PCE+DSR+
+Sbjct  131  TFKCDGRQYCSQMRSREEAVFFIRNCPNTKMDGDNDGNPCESDSRF  176
+
+
+>WP_070603413.1 cold-shock protein [Neisseria sp. HMSC074B07]
+Length=226
+
+ Score = 86.3 bits (212),  Expect = 1e-018, Method: Compositional matrix adjust.
+ Identities = 35/46 (76%), Positives = 40/46 (87%), Gaps = 0/46 (0%)
+
+Query  70   FQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+            F+CDGR+YC+QM SL EA +FV+ CPNTKMDGD DG PCENDSRWH
+Sbjct  181  FKCDGRQYCSQMTSLSEAEFFVKFCPNTKMDGDHDGIPCENDSRWH  226
+
+
+>WP_084708261.1 calcium-binding protein [Marinobacter psychrophilus]
+Length=137
+
+ Score = 84.0 bits (206),  Expect = 1e-018, Method: Compositional matrix adjust.
+ Identities = 41/98 (42%), Positives = 60/98 (61%), Gaps = 6/98 (6%)
+
+Query  23   QQQKTIIEAQRAALGKLPDVQLSEK---TKKALALTSEKVPERVNDET---SAFQCDGRE  76
+            +Q K I +  +   G +P   + E+    + +L + S +      D     S+F+CDGR+
+Sbjct  40   EQVKCITKDGKVLYGSVPQGTICERREPVEGSLTIVSSESFSSNKDNIHSGSSFKCDGRQ  99
+
+Query  77   YCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            +C+QM+S  EA +FV+NC NTKMDGD DG PCENDSR+
+Sbjct  100  HCSQMNSRAEAVYFVKNCSNTKMDGDHDGVPCENDSRF  137
+
+
+>WP_003757775.1 MULTISPECIES: cold-shock protein [Neisseria]
+Length=226
+
+ Score = 85.9 bits (211),  Expect = 2e-018, Method: Compositional matrix adjust.
+ Identities = 35/46 (76%), Positives = 40/46 (87%), Gaps = 0/46 (0%)
+
+Query  70   FQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRWH  115
+            F+CDGR+YC+QM SL EA +FV+ CPNTKMDGD DG PCENDSRWH
+Sbjct  181  FKCDGRQYCSQMTSLSEAEFFVKFCPNTKMDGDHDGIPCENDSRWH  226
+
+
+>WP_028867551.1 hypothetical protein [Psychromonas arctica]
+Length=145
+
+ Score = 84.0 bits (206),  Expect = 2e-018, Method: Compositional matrix adjust.
+ Identities = 43/96 (45%), Positives = 58/96 (60%), Gaps = 14/96 (15%)
+
+Query  33   RAALGKLPDVQLSEKTKKA----LALTSEKVPER------VNDET----SAFQCDGREYC  78
+            R   GK+PD  + E+ +      + L SE   ER       N ++    S ++CDGR YC
+Sbjct  50   RILYGKVPDGVICERLESVKGSIIILPSETKSERKASINLFNKKSELANSKYRCDGRTYC  109
+
+Query  79   TQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            ++M S  EA +F+ NCPNTKMDGD DGEPCE+DSR+
+Sbjct  110  SEMRSKAEAIFFIENCPNTKMDGDHDGEPCESDSRF  145
+
+
+>WP_085297361.1 hypothetical protein [Colwellia mytili]
+Length=203
+
+ Score = 85.5 bits (210),  Expect = 2e-018, Method: Compositional matrix adjust.
+ Identities = 45/115 (39%), Positives = 64/115 (56%), Gaps = 15/115 (13%)
+
+Query  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEK-TKKALALTSEKV  59
+            M++     + QR      +  IQQ  +I          +P+   SE  + +A + T+  +
+Sbjct  100  MIIGIGAFSYQRLGLSPTRTPIQQTPSI---------TVPNTIPSEPLSNRAFSDTNADI  150
+
+Query  60   PERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+                 D  S F CDGR+YC+QM S  EA +F+ +CPNTKMDGDRDG PCEND+R+
+Sbjct  151  -----DTNSQFSCDGRQYCSQMTSRAEAVYFINHCPNTKMDGDRDGIPCENDTRF  200
+
+
+>WP_005030879.1 hypothetical protein [Acinetobacter bereziniae]
+Length=245
+
+ Score = 86.3 bits (212),  Expect = 2e-018, Method: Compositional matrix adjust.
+ Identities = 51/121 (42%), Positives = 72/121 (60%), Gaps = 16/121 (13%)
+
+Query  8    QAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKAL---------------  52
+            Q+ Q+    K +L  QQQK I+  QR  +G +  V+ SEK++ AL               
+Sbjct  125  QSYQKDQLAKFELFEQQQKQIVAQQRKEVGYVKPVKFSEKSENALNGKNEVLRVQNAPAV  184
+
+Query  53   ALTSEKVPERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDS  112
+            A+T+   P   +  TS ++CDGR +C+QM+S EEA +F+RNCPNT+MDGD DG+PCE   
+Sbjct  185  AMTAN-TPAVASTNTSPYRCDGRTHCSQMNSYEEALFFIRNCPNTQMDGDHDGQPCERQF  243
+
+Query  113  R  113
+            R
+Sbjct  244  R  244
+
+
+>WP_072034233.1 calcium-binding protein [Pectobacterium carotovorum]
+Length=102
+
+ Score = 82.4 bits (202),  Expect = 2e-018, Method: Compositional matrix adjust.
+ Identities = 33/45 (73%), Positives = 40/45 (89%), Gaps = 0/45 (0%)
+
+Query  70   FQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            F CDGR+YC+QM+S EEA +F++NCPNTKMDGD DG PCENDSR+
+Sbjct  50   FVCDGRQYCSQMNSREEASFFIQNCPNTKMDGDNDGIPCENDSRF  94
+
+
+>WP_086188488.1 DNA-binding protein [Acinetobacter sp. ANC 4470]
+Length=240
+
+ Score = 85.9 bits (211),  Expect = 2e-018, Method: Compositional matrix adjust.
+ Identities = 58/123 (47%), Positives = 78/123 (63%), Gaps = 10/123 (8%)
+
+Query  1    MVLHYRQQAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKV-  59
+            M+++Y+ Q  ++A   K Q L+QQQ  I+E QR ALG LPD  LSE+ ++ L  TS +  
+Sbjct  117  MLVYYKYQDYRQAQQLKAQQLMQQQAQIVEQQRKALGDLPDRVLSEQGQRHLDNTSSQSL  176
+
+Query  60   -PERVND--------ETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCEN  110
+              E +N          TS F+CDGR +C+QM S EEA +F+RNCP T+MDG+ DGEPCE 
+Sbjct  177  RAEVINGAENTQAQVTTSQFKCDGRIHCSQMRSYEEAVFFLRNCPGTQMDGNNDGEPCER  236
+
+Query  111  DSR  113
+              R
+Sbjct  237  QFR  239
+
+
+>WP_081759769.1 hypothetical protein [Pseudoalteromonas lipolytica]
+Length=112
+
+ Score = 82.8 bits (203),  Expect = 2e-018, Method: Compositional matrix adjust.
+ Identities = 33/46 (72%), Positives = 40/46 (87%), Gaps = 0/46 (0%)
+
+Query  68   SAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSR  113
+            S F CDGR+YC++M SLEEA +F++NCPNT MDGD DGEPCEND+R
+Sbjct  64   SKFVCDGRQYCSEMTSLEEALFFIKNCPNTDMDGDYDGEPCENDTR  109
+
+
+>WP_026291916.1 calcium-binding protein [Marinobacterium rhizophilum]
+Length=95
+
+ Score = 82.0 bits (201),  Expect = 2e-018, Method: Compositional matrix adjust.
+ Identities = 37/54 (69%), Positives = 43/54 (80%), Gaps = 1/54 (2%)
+
+Query  61   ERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            +R   ET  F+CDGR+YC+QM S  EA +FVRNCPNTKMDGD DG PCENDSR+
+Sbjct  43   DRAQPETD-FRCDGRQYCSQMTSRAEAEFFVRNCPNTKMDGDHDGIPCENDSRF  95
+
+
+>WP_081181231.1 hypothetical protein [Colwellia sp. PAMC 21821]
+Length=187
+
+ Score = 84.7 bits (208),  Expect = 3e-018, Method: Compositional matrix adjust.
+ Identities = 39/75 (52%), Positives = 51/75 (68%), Gaps = 13/75 (17%)
+
+Query  40   PDVQLSEKTKKALALTSEKVPERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKM  99
+            P++ LS+KT     ++S +        ++ F CDGR+YC+QM S  EA +F R CPNTKM
+Sbjct  126  PNITLSDKT-----ISSSR--------STQFICDGRQYCSQMTSRAEAEFFTRQCPNTKM  172
+
+Query  100  DGDRDGEPCENDSRW  114
+            DGDRDG PCENDSR+
+Sbjct  173  DGDRDGIPCENDSRF  187
+
+
+>WP_046761441.1 calcium-binding protein [Acinetobacter sp. Ag2]
+Length=245
+
+ Score = 85.5 bits (210),  Expect = 3e-018, Method: Compositional matrix adjust.
+ Identities = 50/117 (43%), Positives = 71/117 (61%), Gaps = 16/117 (14%)
+
+Query  8    QAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKAL---------------  52
+            Q+ Q+    K +L  QQQK I+  QR  +G +  V+ SEK++ AL               
+Sbjct  125  QSYQKDQLAKFELFEQQQKQIVAQQRKEVGYVKPVKFSEKSENALNGKNEALRVQNAPAV  184
+
+Query  53   ALTSEKVPERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCE  109
+            A+T+   P   +  TS ++CDGR +C+QM+S EEA +F+RNCPNT+MDGD DG+PCE
+Sbjct  185  AMTAN-TPAVASTNTSPYRCDGRTHCSQMNSYEEALFFIRNCPNTQMDGDHDGQPCE  240
+
+
+>WP_083870886.1 hypothetical protein [Marinobacter santoriniensis]
+Length=88
+
+ Score = 81.6 bits (200),  Expect = 3e-018, Method: Compositional matrix adjust.
+ Identities = 35/55 (64%), Positives = 43/55 (78%), Gaps = 0/55 (0%)
+
+Query  60   PERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            P   + + S F+CDGR+YC+QM S EEA +F R+CPNTKMDGD DG PCENDSR+
+Sbjct  34   PTESSSQPSRFKCDGRQYCSQMTSREEAVFFTRHCPNTKMDGDHDGIPCENDSRF  88
+
+
+>WP_032096677.1 MULTISPECIES: hypothetical protein [Alteromonas]
+Length=185
+
+ Score = 84.0 bits (206),  Expect = 4e-018, Method: Compositional matrix adjust.
+ Identities = 33/49 (67%), Positives = 42/49 (86%), Gaps = 0/49 (0%)
+
+Query  66   ETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            E + F CDGR++C+QM+S  EA +F+RNCPNTKMDGD DG+PCENDSR+
+Sbjct  137  ENTQFTCDGRQHCSQMNSRAEAVFFIRNCPNTKMDGDNDGKPCENDSRF  185
+
+
+>WP_058373450.1 cold-shock protein [Pseudoalteromonas translucida]
+Length=203
+
+ Score = 84.3 bits (207),  Expect = 5e-018, Method: Compositional matrix adjust.
+ Identities = 38/68 (56%), Positives = 47/68 (69%), Gaps = 1/68 (1%)
+
+Query  48   TKKALALTSEKVPERVNDE-TSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGE  106
+            T   L   +EK P+ V  + T  F CDGR++C+QM S  EA +F+ NCPNTKMDGD DG 
+Sbjct  136  TNADLTTFAEKYPKIVTPKNTQNFSCDGRQHCSQMTSRAEAVFFINNCPNTKMDGDNDGI  195
+
+Query  107  PCENDSRW  114
+            PCENDSR+
+Sbjct  196  PCENDSRF  203
+
+
+>WP_042090145.1 calcium-binding protein [Acinetobacter bereziniae]
+Length=245
+
+ Score = 85.1 bits (209),  Expect = 5e-018, Method: Compositional matrix adjust.
+ Identities = 49/116 (42%), Positives = 69/116 (59%), Gaps = 14/116 (12%)
+
+Query  8    QAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKV--------  59
+            Q+ Q+    K +L  QQQK I+  QR  +G +  V+ SEK++ AL   +E +        
+Sbjct  125  QSYQKDQLAKFELFEQQQKQIVAQQRKEVGYVKPVKFSEKSENALNGKNEALRIQNAPAV  184
+
+Query  60   ------PERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCE  109
+                  P   +  TS ++CDGR +C+QM S EEA +F+RNCPNT+MDGD DG+PCE
+Sbjct  185  AMTVNTPTLASTNTSPYRCDGRTHCSQMSSYEEALFFIRNCPNTQMDGDHDGQPCE  240
+
+
+>WP_083447048.1 hypothetical protein [Azoarcus sp. CIB]
+Length=94
+
+ Score = 81.3 bits (199),  Expect = 5e-018, Method: Compositional matrix adjust.
+ Identities = 33/45 (73%), Positives = 38/45 (84%), Gaps = 0/45 (0%)
+
+Query  70   FQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            F CDGR++C+QM S  EA +FVRNCPNTKMDGD DG PCENDSR+
+Sbjct  50   FSCDGRQHCSQMRSRAEAEYFVRNCPNTKMDGDNDGIPCENDSRF  94
+
+
+>WP_024160760.1 MULTISPECIES: cold-shock protein [Acinetobacter]
+Length=165
+
+ Score = 83.2 bits (204),  Expect = 6e-018, Method: Compositional matrix adjust.
+ Identities = 40/101 (40%), Positives = 57/101 (56%), Gaps = 5/101 (5%)
+
+Query  14   SHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVPERVNDETSAFQCD  73
+            +H+K + L      I  +    +  L  +QL     K       +    +  +  A++CD
+Sbjct  70   THDKQKSLPLYLWIIFISIAIGVAYLGSIQL-----KKYLYKDNQTTNAIYQKPVAYKCD  124
+
+Query  74   GREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            GR++C+QM S EEA WFV+NCP+T MDGD DG+ CENDSRW
+Sbjct  125  GRKHCSQMRSKEEADWFVKNCPDTMMDGDGDGDACENDSRW  165
+
+
+>WP_004827964.1 hypothetical protein [Acinetobacter bereziniae]
+Length=245
+
+ Score = 85.1 bits (209),  Expect = 6e-018, Method: Compositional matrix adjust.
+ Identities = 49/116 (42%), Positives = 69/116 (59%), Gaps = 14/116 (12%)
+
+Query  8    QAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKV--------  59
+            Q+ Q+    K +L  QQQK I+  QR  +G +  V+ SEK++ AL   +E +        
+Sbjct  125  QSYQKDQLAKFELFEQQQKQIVAQQRKEVGYVKPVKFSEKSENALNGKNEALRIQNAPAV  184
+
+Query  60   ------PERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCE  109
+                  P   +  TS ++CDGR +C+QM S EEA +F+RNCPNT+MDGD DG+PCE
+Sbjct  185  AMTVNTPTVASTNTSPYRCDGRTHCSQMSSYEEALFFIRNCPNTQMDGDHDGQPCE  240
+
+
+>WP_082446211.1 calcium-binding protein [Marinobacter lipolyticus]
+Length=95
+
+ Score = 81.3 bits (199),  Expect = 6e-018, Method: Compositional matrix adjust.
+ Identities = 33/52 (63%), Positives = 43/52 (83%), Gaps = 0/52 (0%)
+
+Query  63   VNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            V +  ++F CDGR++C+QM S  EA +F+RNCPNT+MDGDRDG PCENDSR+
+Sbjct  44   VYNSQTSFSCDGRQHCSQMTSRAEAEFFIRNCPNTRMDGDRDGIPCENDSRF  95
+
+
+>WP_054982535.1 cold-shock protein [Pseudoalteromonas sp. P1-30]
+Length=202
+
+ Score = 84.0 bits (206),  Expect = 6e-018, Method: Compositional matrix adjust.
+ Identities = 39/68 (57%), Positives = 48/68 (71%), Gaps = 1/68 (1%)
+
+Query  48   TKKALALTSEKVPERVNDE-TSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGE  106
+            T   LA   EK P+ V  + T  F CDGR++C+QM S  EA +F+ NCPNTKMDGDRDG+
+Sbjct  131  TNADLATFDEKYPKIVIPQNTQNFTCDGRQHCSQMTSRAEAVFFINNCPNTKMDGDRDGD  190
+
+Query  107  PCENDSRW  114
+            PCE DSR+
+Sbjct  191  PCERDSRF  198
+
+
+>WP_014615451.1 calcium-binding protein [Shewanella baltica]
+Length=231
+
+ Score = 84.7 bits (208),  Expect = 6e-018, Method: Compositional matrix adjust.
+ Identities = 41/98 (42%), Positives = 56/98 (57%), Gaps = 7/98 (7%)
+
+Query  17   KVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVPERVNDETSAFQCDGRE  76
+             V LL+    T+    + +    P V  +  TK  +     + P     + +AF CDGR 
+Sbjct  141  SVGLLLAFYSTLTTVWQPSY---PPVLTTFATKHLV----TQTPLTSTPKQTAFHCDGRT  193
+
+Query  77   YCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            +C+QM+S  EA +F+ +CPNTKMDGD DG PCENDSRW
+Sbjct  194  HCSQMNSRAEAVYFINHCPNTKMDGDNDGIPCENDSRW  231
+
+
+>WP_004586626.1 cold-shock protein [Pseudoalteromonas agarivorans]
+Length=202
+
+ Score = 84.0 bits (206),  Expect = 6e-018, Method: Compositional matrix adjust.
+ Identities = 39/68 (57%), Positives = 48/68 (71%), Gaps = 1/68 (1%)
+
+Query  48   TKKALALTSEKVPERVNDE-TSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGE  106
+            T   LA   EK P+ V  + T  F CDGR++C+QM S  EA +F+ NCPNTKMDGDRDG+
+Sbjct  131  TNADLATFDEKYPKIVIPQNTQNFTCDGRQHCSQMTSRAEAIFFINNCPNTKMDGDRDGD  190
+
+Query  107  PCENDSRW  114
+            PCE DSR+
+Sbjct  191  PCERDSRF  198
+
+
+>WP_083422906.1 hypothetical protein [Pseudoalteromonas lipolytica]
+Length=112
+
+ Score = 81.6 bits (200),  Expect = 6e-018, Method: Compositional matrix adjust.
+ Identities = 32/46 (70%), Positives = 40/46 (87%), Gaps = 0/46 (0%)
+
+Query  68   SAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSR  113
+            S F CDGR+YC++M SLEEA +F++NCPNT MDGD DG+PCEND+R
+Sbjct  64   SKFVCDGRQYCSEMTSLEEALFFIKNCPNTDMDGDYDGDPCENDTR  109
+
+
+>WP_071531091.1 calcium-binding protein [Pectobacterium wasabiae]
+Length=102
+
+ Score = 81.3 bits (199),  Expect = 7e-018, Method: Compositional matrix adjust.
+ Identities = 33/49 (67%), Positives = 41/49 (84%), Gaps = 0/49 (0%)
+
+Query  66   ETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            E + F CDGR+YCTQM S EEA +F++NCP+T+MDGD DG PCENDSR+
+Sbjct  46   ENNRFVCDGRQYCTQMRSREEAYFFIQNCPHTEMDGDNDGIPCENDSRF  94
+
+
+>WP_024033586.1 cold-shock protein [Pseudoalteromonas sp. NW 4327]
+Length=198
+
+ Score = 83.6 bits (205),  Expect = 7e-018, Method: Compositional matrix adjust.
+ Identities = 38/68 (56%), Positives = 48/68 (71%), Gaps = 1/68 (1%)
+
+Query  48   TKKALALTSEKVPERVNDETS-AFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGE  106
+            T   LA   E+ P+ V  + S  F CDGR++C+QM S  EA +F+ NCPNTKMDGDRDG+
+Sbjct  131  TNADLATLDEQYPKIVIPQNSQNFTCDGRQHCSQMTSRAEAVFFINNCPNTKMDGDRDGD  190
+
+Query  107  PCENDSRW  114
+            PCE DSR+
+Sbjct  191  PCERDSRF  198
+
+
+>WP_076774559.1 hypothetical protein [Enhydrobacter sp. H5]
+Length=214
+
+ Score = 84.0 bits (206),  Expect = 7e-018, Method: Compositional matrix adjust.
+ Identities = 32/48 (67%), Positives = 42/48 (88%), Gaps = 0/48 (0%)
+
+Query  67   TSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+             + F+CDGR++C+QM+S EEA WF +NCP+TKMDGD+DG+ CENDSRW
+Sbjct  167  NTNFKCDGRQHCSQMNSREEAEWFSQNCPDTKMDGDKDGDVCENDSRW  214
+
+
+>WP_038350031.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=165
+
+ Score = 82.8 bits (203),  Expect = 7e-018, Method: Compositional matrix adjust.
+ Identities = 40/101 (40%), Positives = 57/101 (56%), Gaps = 5/101 (5%)
+
+Query  14   SHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVPERVNDETSAFQCD  73
+            +H+K + L      I  +    +  L  +QL     K       +    +  +  A++CD
+Sbjct  70   THDKQKSLPLYLWIIFISIAIGVAYLGSIQL-----KKYLYKDNQTTNVIYQKPVAYKCD  124
+
+Query  74   GREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            GR++C+QM S EEA WFV+NCP+T MDGD DG+ CENDSRW
+Sbjct  125  GRKHCSQMRSKEEADWFVKNCPDTMMDGDGDGDACENDSRW  165
+
+
+>WP_006087383.1 calcium-binding protein [Shewanella baltica]
+Length=231
+
+ Score = 84.3 bits (207),  Expect = 8e-018, Method: Compositional matrix adjust.
+ Identities = 41/104 (39%), Positives = 60/104 (58%), Gaps = 7/104 (7%)
+
+Query  11   QRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVPERVNDETSAF  70
+            Q  +   V LL+    T+    + +    P V  +  TK  +     ++P     + +AF
+Sbjct  135  QNRTLVSVGLLLAFYSTLTTVWQPSY---PPVLTTFATKHLV----TQIPLTSTPKQTAF  187
+
+Query  71   QCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            +CDGR +C+QM+S  EA +F+ +CPNTKMDGD +G PCENDSRW
+Sbjct  188  RCDGRTHCSQMNSRAEAVYFINHCPNTKMDGDNNGIPCENDSRW  231
+
+
+>WP_083202773.1 MULTISPECIES: hypothetical protein [Pseudoalteromonas]
+Length=112
+
+ Score = 81.3 bits (199),  Expect = 8e-018, Method: Compositional matrix adjust.
+ Identities = 32/46 (70%), Positives = 40/46 (87%), Gaps = 0/46 (0%)
+
+Query  68   SAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSR  113
+            S F CDGR+YC++M SLEEA +F++NCPNT MDGD DG+PCEND+R
+Sbjct  64   SKFICDGRQYCSEMTSLEEALFFIKNCPNTDMDGDYDGDPCENDTR  109
+
+
+>WP_082081291.1 calcium-binding protein [Methylococcaceae bacterium Sn10-6]
+Length=94
+
+ Score = 80.5 bits (197),  Expect = 9e-018, Method: Compositional matrix adjust.
+ Identities = 32/52 (62%), Positives = 41/52 (79%), Gaps = 0/52 (0%)
+
+Query  63   VNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            +   T +F CDGR++C+QM S  EA +F+R+CPNTKMDGD DG PCENDSR+
+Sbjct  43   ITQPTESFSCDGRQHCSQMRSRAEAEYFLRSCPNTKMDGDHDGIPCENDSRF  94
+
+
+>WP_024603530.1 cold-shock protein, partial [Pseudoalteromonas sp. TB25]
+Length=149
+
+ Score = 82.0 bits (201),  Expect = 9e-018, Method: Compositional matrix adjust.
+ Identities = 32/48 (67%), Positives = 40/48 (83%), Gaps = 0/48 (0%)
+
+Query  67   TSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            T  F CDGR++C+QM S  EA +F+ NCPNTKMDGDRDG+PCEND+R+
+Sbjct  98   TQNFTCDGRQHCSQMTSRAEAVFFINNCPNTKMDGDRDGDPCENDTRF  145
+
+
+>WP_024613001.1 cold-shock protein [Pseudoalteromonas sp. TB64]
+Length=210
+
+ Score = 83.6 bits (205),  Expect = 1e-017, Method: Compositional matrix adjust.
+ Identities = 33/48 (69%), Positives = 41/48 (85%), Gaps = 0/48 (0%)
+
+Query  67   TSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            T  F CDGR++C+QM S +EA +F+ NCPNTKMDGDRDG+PCENDSR+
+Sbjct  159  TQNFTCDGRQHCSQMTSKDEAIFFINNCPNTKMDGDRDGDPCENDSRF  206
+
+
+>WP_005006047.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=165
+
+ Score = 82.4 bits (202),  Expect = 1e-017, Method: Compositional matrix adjust.
+ Identities = 32/46 (70%), Positives = 40/46 (87%), Gaps = 0/46 (0%)
+
+Query  69   AFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            A++CDGR++C+QM S EEA WFV+NCP+T MDGD DG+ CENDSRW
+Sbjct  120  AYKCDGRKHCSQMRSKEEADWFVKNCPDTMMDGDGDGDACENDSRW  165
+
+
+>WP_058550083.1 cold-shock protein [Pseudoalteromonas sp. H103]
+Length=203
+
+ Score = 83.6 bits (205),  Expect = 1e-017, Method: Compositional matrix adjust.
+ Identities = 38/73 (52%), Positives = 48/73 (66%), Gaps = 6/73 (8%)
+
+Query  48   TKKALALTSEKVPERV------NDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDG  101
+            T   LA   E+ P+ V         T  F CDGR++C+QM S  EA +F+ NCPNTKMDG
+Sbjct  131  TNADLATFDEQYPKIVIPKSVIPKSTQNFTCDGRQHCSQMTSRAEAVFFINNCPNTKMDG  190
+
+Query  102  DRDGEPCENDSRW  114
+            DRDG+PCEND+R+
+Sbjct  191  DRDGDPCENDTRF  203
+
+
+>WP_009585550.1 MULTISPECIES: excalibur domain protein [Acinetobacter]
+Length=245
+
+ Score = 84.3 bits (207),  Expect = 1e-017, Method: Compositional matrix adjust.
+ Identities = 50/121 (41%), Positives = 72/121 (60%), Gaps = 16/121 (13%)
+
+Query  8    QAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKAL---------------  52
+            Q+ Q+    K +L  QQQK I+  QR  +G +  V+ SEK++ AL               
+Sbjct  125  QSYQKDQLAKFELFEQQQKQIVAQQRKEVGYVKPVKFSEKSENALNGKNEALRVQNAPAV  184
+
+Query  53   ALTSEKVPERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDS  112
+            A+T+   P   +  TS ++CDGR +C+QM+S EEA +F+RNCPNT+M+GD DG+PCE   
+Sbjct  185  AMTAN-TPAVASTNTSPYRCDGRTHCSQMNSYEEALFFIRNCPNTQMNGDHDGQPCERQF  243
+
+Query  113  R  113
+            R
+Sbjct  244  R  244
+
+
+>WP_005028541.1 hypothetical protein [Acinetobacter bereziniae]
+Length=165
+
+ Score = 82.4 bits (202),  Expect = 1e-017, Method: Compositional matrix adjust.
+ Identities = 32/46 (70%), Positives = 40/46 (87%), Gaps = 0/46 (0%)
+
+Query  69   AFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            A++CDGR++C+QM S EEA WFV+NCP+T MDGD DG+ CENDSRW
+Sbjct  120  AYKCDGRKHCSQMRSKEEADWFVKNCPDTMMDGDGDGDACENDSRW  165
+
+
+>WP_068523935.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=165
+
+ Score = 82.4 bits (202),  Expect = 1e-017, Method: Compositional matrix adjust.
+ Identities = 32/46 (70%), Positives = 40/46 (87%), Gaps = 0/46 (0%)
+
+Query  69   AFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            A++CDGR++C+QM S EEA WFV+NCP+T MDGD DG+ CENDSRW
+Sbjct  120  AYKCDGRKHCSQMRSKEEADWFVKNCPDTMMDGDGDGDACENDSRW  165
+
+
+>WP_044619430.1 hypothetical protein [Gynuella sunshinyii]
+Length=95
+
+ Score = 80.5 bits (197),  Expect = 1e-017, Method: Compositional matrix adjust.
+ Identities = 33/45 (73%), Positives = 38/45 (84%), Gaps = 0/45 (0%)
+
+Query  70   FQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            + CDGR YC+QM S  EA +F+RNCPNTKMDGDRDG PCENDSR+
+Sbjct  51   YTCDGRVYCSQMRSRAEAVFFIRNCPNTKMDGDRDGIPCENDSRF  95
+
+
+>WP_084271269.1 hypothetical protein [Shewanella haliotis]
+Length=49
+
+ Score = 79.0 bits (193),  Expect = 1e-017, Method: Compositional matrix adjust.
+ Identities = 33/47 (70%), Positives = 37/47 (79%), Gaps = 0/47 (0%)
+
+Query  68   SAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            + F CDGR+YC+QM S  EA +F R CPNTKMDGD DG PCENDSRW
+Sbjct  3    AGFHCDGRQYCSQMTSRAEAEYFNRYCPNTKMDGDNDGHPCENDSRW  49
+
+
+>WP_072062034.1 calcium-binding protein [Pectobacterium carotovorum]
+Length=102
+
+ Score = 80.5 bits (197),  Expect = 1e-017, Method: Compositional matrix adjust.
+ Identities = 32/45 (71%), Positives = 39/45 (87%), Gaps = 0/45 (0%)
+
+Query  70   FQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            F CDGR+YC+QM+S EEA +F++NCPNTKMDGD DG PCE DSR+
+Sbjct  50   FVCDGRQYCSQMNSREEAYFFIQNCPNTKMDGDHDGVPCERDSRF  94
+
+
+>WP_039487910.1 MULTISPECIES: cold-shock protein [Pseudoalteromonas]
+Length=200
+
+ Score = 83.2 bits (204),  Expect = 1e-017, Method: Compositional matrix adjust.
+ Identities = 37/68 (54%), Positives = 47/68 (69%), Gaps = 1/68 (1%)
+
+Query  48   TKKALALTSEKVPERV-NDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGE  106
+            T   LA   E+ P+ V    T  F CDGR+YCT+M+S  EA +F+ NCPNTKMDGD DG+
+Sbjct  133  TNADLATFDEQYPKIVIPKSTQNFTCDGRQYCTEMNSRAEAVFFINNCPNTKMDGDGDGD  192
+
+Query  107  PCENDSRW  114
+            PCE D+R+
+Sbjct  193  PCERDTRF  200
+
+
+>WP_081737176.1 MULTISPECIES: hypothetical protein [Shewanella]
+Length=49
+
+ Score = 78.6 bits (192),  Expect = 2e-017, Method: Compositional matrix adjust.
+ Identities = 33/47 (70%), Positives = 37/47 (79%), Gaps = 0/47 (0%)
+
+Query  68   SAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            + F CDGR+YC+QM S  EA +F R CPNTKMDGD DG PCENDSRW
+Sbjct  3    AGFHCDGRQYCSQMTSRAEAEYFNRYCPNTKMDGDNDGRPCENDSRW  49
+
+
+>WP_081149718.1 hypothetical protein [Colwellia sp. NB097-1]
+Length=212
+
+ Score = 82.8 bits (203),  Expect = 2e-017, Method: Compositional matrix adjust.
+ Identities = 42/102 (41%), Positives = 60/102 (59%), Gaps = 1/102 (1%)
+
+Query  9    AQQRASHEKVQLLIQQQKT-IIEAQRAALGKLPDVQLSEKTKKALALTSEKVPERVNDET  67
+            A QR + +  Q+  QQ K  + EA  A     P  +   + +    +T    P +V    
+Sbjct  105  AYQRLNIKTQQVPTQQYKAPVTEAIPAGQYTAPIKETMPQQQYKAPITETIPPRQVTKPK  164
+
+Query  68   SAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCE  109
+             +F CDGR++C+QM S +EA++F++NCPNTKMDGDRDG PCE
+Sbjct  165  PSFSCDGRQHCSQMSSYDEAKYFLQNCPNTKMDGDRDGIPCE  206
+
+
+>WP_078192287.1 DNA-binding protein [Acinetobacter sp. ANC 5600]
+Length=250
+
+ Score = 83.6 bits (205),  Expect = 2e-017, Method: Compositional matrix adjust.
+ Identities = 44/107 (41%), Positives = 62/107 (58%), Gaps = 15/107 (14%)
+
+Query  18   VQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVPERV--------------  63
+            +Q L+Q+ + I++ QR A G LPD  LSE+ +K L  T+    + V              
+Sbjct  139  LQQLMQENENIVKEQRKAQGDLPDRVLSEQGEKNLYGTASTQAQSVVQYAAQAPSSSDTP  198
+
+Query  64   -NDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCE  109
+               E + F CDGR +C+QM S EEA +F+++CP TKMDG+ DG PCE
+Sbjct  199  RAAEKAQFSCDGRTHCSQMKSYEEAVYFLQHCPGTKMDGNNDGIPCE  245
+
+
+>WP_011328278.1 cold-shock protein [Pseudoalteromonas haloplanktis]
+Length=203
+
+ Score = 82.4 bits (202),  Expect = 2e-017, Method: Compositional matrix adjust.
+ Identities = 38/68 (56%), Positives = 46/68 (68%), Gaps = 1/68 (1%)
+
+Query  48   TKKALALTSEKVPERV-NDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGE  106
+            T   L    EK P+ V    T  F CDGR++C+QM S  EA +F++NCPNTKMDGD DG 
+Sbjct  136  TNADLTTFDEKDPKAVIPKNTQNFSCDGRQHCSQMTSRAEAVFFIKNCPNTKMDGDNDGI  195
+
+Query  107  PCENDSRW  114
+            PCENDSR+
+Sbjct  196  PCENDSRF  203
+
+
+>WP_082014378.1 MULTISPECIES: hypothetical protein [Shewanella]
+Length=49
+
+ Score = 78.2 bits (191),  Expect = 3e-017, Method: Compositional matrix adjust.
+ Identities = 33/47 (70%), Positives = 36/47 (77%), Gaps = 0/47 (0%)
+
+Query  68   SAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            + F CDGR YC+QM S  EA +F R CPNTKMDGD DG PCENDSRW
+Sbjct  3    TGFHCDGRRYCSQMTSRAEAEYFNRYCPNTKMDGDNDGRPCENDSRW  49
+
+
+>WP_012197958.1 calcium-binding protein [Shewanella baltica]
+Length=231
+
+ Score = 82.8 bits (203),  Expect = 3e-017, Method: Compositional matrix adjust.
+ Identities = 40/98 (41%), Positives = 56/98 (57%), Gaps = 7/98 (7%)
+
+Query  17   KVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVPERVNDETSAFQCDGRE  76
+             V LL+    T+    + +    P V  +  TK  +     + P     + +AF CDGR 
+Sbjct  141  SVGLLLAFYSTLTTVWQPSY---PPVLTTFATKHLV----TQTPLTSTPKQTAFHCDGRT  193
+
+Query  77   YCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            +C+QM+S  EA +F+ +CPNTKMDGD +G PCENDSRW
+Sbjct  194  HCSQMNSRAEAVYFINHCPNTKMDGDNNGIPCENDSRW  231
+
+
+>WP_081933500.1 hypothetical protein [Shewanella mangrovi]
+Length=102
+
+ Score = 79.7 bits (195),  Expect = 3e-017, Method: Compositional matrix adjust.
+ Identities = 34/73 (47%), Positives = 52/73 (71%), Gaps = 2/73 (3%)
+
+Query  42   VQLSEKTKKALALTSEKVPERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDG  101
+            V+L ++    +   +E++P+  + +   F+CDGR+YC++M S  EA +F++NCP T+MDG
+Sbjct  32   VKLKQELTDVIEQEAERLPKYGSQQQ--FRCDGRKYCSEMRSRAEAEFFLKNCPGTRMDG  89
+
+Query  102  DRDGEPCENDSRW  114
+            D DG PCENDSRW
+Sbjct  90   DNDGIPCENDSRW  102
+
+
+>WP_055019731.1 cold-shock protein [Pseudoalteromonas sp. P1-7a]
+Length=202
+
+ Score = 82.4 bits (202),  Expect = 3e-017, Method: Compositional matrix adjust.
+ Identities = 37/68 (54%), Positives = 49/68 (72%), Gaps = 1/68 (1%)
+
+Query  48   TKKALALTSEKVPERVNDETS-AFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGE  106
+            T   LA   E+ P+ V  ++S  F CDGR++C+QM S  EA +F+ NCPNTKMDGD DG+
+Sbjct  131  TNADLATFDEQYPKIVIPQSSQNFTCDGRQHCSQMTSRAEAVFFINNCPNTKMDGDGDGK  190
+
+Query  107  PCENDSRW  114
+            PCEND+R+
+Sbjct  191  PCENDTRF  198
+
+
+>WP_024597201.1 cold-shock protein [Pseudoalteromonas sp. AC163]
+Length=202
+
+ Score = 82.0 bits (201),  Expect = 3e-017, Method: Compositional matrix adjust.
+ Identities = 32/48 (67%), Positives = 40/48 (83%), Gaps = 0/48 (0%)
+
+Query  67   TSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            T  F CDGR++C+QM S  EA +F+ NCPNTKMDGDRDG+PCEND+R+
+Sbjct  151  TQNFTCDGRQHCSQMTSRAEAVFFINNCPNTKMDGDRDGDPCENDTRF  198
+
+
+>WP_005169639.1 hypothetical protein [Acinetobacter sp. NIPH 713]
+Length=85
+
+ Score = 79.0 bits (193),  Expect = 3e-017, Method: Compositional matrix adjust.
+ Identities = 32/52 (62%), Positives = 40/52 (77%), Gaps = 0/52 (0%)
+
+Query  59   VPERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCEN  110
+            + E  +   S F+CDGRE+C+QM S EEA +F+RNCPNTKMDGD DG PCE+
+Sbjct  32   IKETASQSISQFKCDGREHCSQMGSYEEALFFIRNCPNTKMDGDSDGIPCES  83
+
+
+>WP_058428874.1 MULTISPECIES: cold-shock protein [Pseudoalteromonas]
+Length=201
+
+ Score = 82.0 bits (201),  Expect = 3e-017, Method: Compositional matrix adjust.
+ Identities = 37/68 (54%), Positives = 46/68 (68%), Gaps = 1/68 (1%)
+
+Query  48   TKKALALTSEKVPERV-NDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGE  106
+            T   L    E+ P+ V    T  F CDGR++C+QM S  EA +F+ NCPNTKMDGDRDG+
+Sbjct  131  TNADLVTFDEQYPKTVIPKSTQNFTCDGRQHCSQMTSRAEAVFFINNCPNTKMDGDRDGD  190
+
+Query  107  PCENDSRW  114
+            PCE DSR+
+Sbjct  191  PCERDSRF  198
+
+
+>WP_007586763.1 cold-shock protein [Pseudoalteromonas sp. BSi20429]
+Length=211
+
+ Score = 82.0 bits (201),  Expect = 3e-017, Method: Compositional matrix adjust.
+ Identities = 37/68 (54%), Positives = 48/68 (71%), Gaps = 1/68 (1%)
+
+Query  48   TKKALALTSEKVPERV-NDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGE  106
+            T   LA    + P+ V    T  F CDGR++C+QM+S EEA +F+ NCPNTKMDGD DG+
+Sbjct  133  TNADLATFDAQYPKVVIPKNTQNFTCDGRQHCSQMNSREEAVFFINNCPNTKMDGDGDGK  192
+
+Query  107  PCENDSRW  114
+            PCE+DSR+
+Sbjct  193  PCESDSRF  200
+
+
+>WP_084609811.1 calcium-binding protein [Sedimenticola selenatireducens]
+Length=98
+
+ Score = 79.0 bits (193),  Expect = 4e-017, Method: Compositional matrix adjust.
+ Identities = 32/47 (68%), Positives = 39/47 (83%), Gaps = 0/47 (0%)
+
+Query  68   SAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            S F+CDGR+YC+QM S  EA +F++NCPNTKMDGD DG PCE DSR+
+Sbjct  52   SRFRCDGRQYCSQMTSRAEAVFFIKNCPNTKMDGDYDGIPCERDSRF  98
+
+
+>WP_026861138.1 hypothetical protein [Idiomarina sediminum]
+Length=92
+
+ Score = 79.0 bits (193),  Expect = 4e-017, Method: Compositional matrix adjust.
+ Identities = 32/47 (68%), Positives = 38/47 (81%), Gaps = 0/47 (0%)
+
+Query  68   SAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            S F+CDGR +C+QM S  EA +F+RNCP TKMDGD DG PCENDSR+
+Sbjct  46   SGFKCDGRTHCSQMTSRAEAEFFIRNCPGTKMDGDYDGIPCENDSRF  92
+
+
+>WP_043317156.1 hypothetical protein [Microbulbifer sp. HZ11]
+Length=110
+
+ Score = 79.3 bits (194),  Expect = 5e-017, Method: Compositional matrix adjust.
+ Identities = 32/45 (71%), Positives = 39/45 (87%), Gaps = 0/45 (0%)
+
+Query  70   FQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            F+CDGR++C+QM S EEA +F+ NCPNTKMDGD DG PCENDSR+
+Sbjct  66   FKCDGRQHCSQMTSREEAVFFINNCPNTKMDGDHDGVPCENDSRF  110
+
+
+>WP_049756045.1 hypothetical protein [Aggregatibacter aphrophilus]
+Length=88
+
+ Score = 78.6 bits (192),  Expect = 5e-017, Method: Compositional matrix adjust.
+ Identities = 30/41 (73%), Positives = 38/41 (93%), Gaps = 0/41 (0%)
+
+Query  70   FQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCEN  110
+            F CDGR+YC++M+S EEAR+F+RNCPNTKMDGD DG+PCE+
+Sbjct  44   FSCDGRQYCSEMNSCEEARYFLRNCPNTKMDGDNDGKPCED  84
+
+
+>WP_004819341.1 hypothetical protein [Acinetobacter guillouiae]
+Length=246
+
+ Score = 82.4 bits (202),  Expect = 6e-017, Method: Compositional matrix adjust.
+ Identities = 49/117 (42%), Positives = 67/117 (57%), Gaps = 15/117 (13%)
+
+Query  8    QAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKAL---------------  52
+            Q  Q   H K  LL QQQK I+E QR  +G +  V+ SEK++ AL               
+Sbjct  125  QTYQEEQHAKFALLEQQQKQIVEQQRKEIGYVKPVKFSEKSQNALNSHHHSVQKQNEAES  184
+
+Query  53   ALTSEKVPERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCE  109
+              ++  V    + E S +QCDGR +C+QM S +EA +F++NCPNT+MDG+ DG PCE
+Sbjct  185  VQSNTAVSTTASTEKSPYQCDGRTHCSQMTSYDEAVFFIKNCPNTQMDGNHDGRPCE  241
+
+
+>WP_056514683.1 calcium-binding protein [Acinetobacter sp. Root1280]
+Length=246
+
+ Score = 82.0 bits (201),  Expect = 7e-017, Method: Compositional matrix adjust.
+ Identities = 49/117 (42%), Positives = 67/117 (57%), Gaps = 15/117 (13%)
+
+Query  8    QAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKAL---------------  52
+            Q  Q   H K  LL QQQK I+E QR  +G +  V+ SEK++ AL               
+Sbjct  125  QTYQEEQHAKFALLEQQQKQIVEQQRKDIGYVKPVKFSEKSQNALNSHHHSAQKEDEAVS  184
+
+Query  53   ALTSEKVPERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCE  109
+              ++  V    + E S +QCDGR +C+QM S +EA +F++NCPNT+MDG+ DG PCE
+Sbjct  185  VQSNTTVSTTASTEKSPYQCDGRTHCSQMTSYDEAVFFIKNCPNTQMDGNHDGRPCE  241
+
+
+>WP_010552750.1 cold-shock protein [Pseudoalteromonas arctica]
+Length=202
+
+ Score = 81.3 bits (199),  Expect = 7e-017, Method: Compositional matrix adjust.
+ Identities = 38/73 (52%), Positives = 47/73 (64%), Gaps = 6/73 (8%)
+
+Query  48   TKKALALTSEKVPERV------NDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDG  101
+            T   LA   E+ P+ V         T  F CDGR++C+QM S  EA +F+ NCPNTKMDG
+Sbjct  128  TNDDLATFDEQYPKVVIPKIVIPKSTQNFTCDGRQHCSQMTSRAEAVFFINNCPNTKMDG  187
+
+Query  102  DRDGEPCENDSRW  114
+            D DG+PCENDSR+
+Sbjct  188  DGDGKPCENDSRF  200
+
+
+>WP_071979914.1 hypothetical protein [Alteromonas sp. RW2A1]
+Length=178
+
+ Score = 80.5 bits (197),  Expect = 8e-017, Method: Compositional matrix adjust.
+ Identities = 31/45 (69%), Positives = 37/45 (82%), Gaps = 0/45 (0%)
+
+Query  70   FQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            F CDGR+YC+QM S  EA +F+ NCPN+KMDGD DG PCENDSR+
+Sbjct  134  FVCDGRQYCSQMRSRREAEFFISNCPNSKMDGDNDGIPCENDSRF  178
+
+
+>WP_074498943.1 hypothetical protein [Thalassotalea sp. PP2-459]
+Length=177
+
+ Score = 80.5 bits (197),  Expect = 9e-017, Method: Compositional matrix adjust.
+ Identities = 33/48 (69%), Positives = 39/48 (81%), Gaps = 0/48 (0%)
+
+Query  67   TSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            T  F CDGR++C+QM S EEA +F R+CPNTKMDGD DG PCENDSR+
+Sbjct  130  TQHFTCDGRQHCSQMTSREEAEFFTRHCPNTKMDGDNDGIPCENDSRF  177
+
+
+>WP_004722817.1 hypothetical protein [Acinetobacter guillouiae]
+Length=246
+
+ Score = 81.6 bits (200),  Expect = 9e-017, Method: Compositional matrix adjust.
+ Identities = 51/117 (44%), Positives = 67/117 (57%), Gaps = 15/117 (13%)
+
+Query  8    QAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVPERVNDET  67
+            Q  Q   H K  LL QQQK IIE QR  +G +  V+ SEK++ AL      V ++   E+
+Sbjct  125  QTYQEEQHAKFALLEQQQKQIIEQQRKEIGYVKPVKFSEKSQNALNSHHHSVQKQNEVES  184
+
+Query  68   ---------------SAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCE  109
+                           S +QCDGR +C+QM S +EA +F+RNCPNT+MDG+ DG PCE
+Sbjct  185  VQSNTTVSTTASTAKSPYQCDGRTHCSQMTSYDEAVFFIRNCPNTQMDGNHDGRPCE  241
+
+
+>WP_055014827.1 cold-shock protein [Pseudoalteromonas sp. P1-13-1a]
+Length=207
+
+ Score = 80.9 bits (198),  Expect = 1e-016, Method: Compositional matrix adjust.
+ Identities = 38/73 (52%), Positives = 47/73 (64%), Gaps = 6/73 (8%)
+
+Query  48   TKKALALTSEKVPERV------NDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDG  101
+            T   LA   E+ P+ V         T  F CDGR++C+QM S  EA +F+ NCPNTKMDG
+Sbjct  131  TNADLATFDEQYPKIVIPKSVIPKSTQNFTCDGRQHCSQMTSRAEAIFFINNCPNTKMDG  190
+
+Query  102  DRDGEPCENDSRW  114
+            DRDG+PCE DSR+
+Sbjct  191  DRDGDPCERDSRF  203
+
+
+>WP_025255780.1 hypothetical protein [Alteromonas sp. ALT199]
+Length=96
+
+ Score = 77.8 bits (190),  Expect = 1e-016, Method: Compositional matrix adjust.
+ Identities = 30/45 (67%), Positives = 39/45 (87%), Gaps = 0/45 (0%)
+
+Query  69   AFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSR  113
+            +F+CDGR+YC+QM S EEA++F++NCPNTKMDGD DG PCE+  R
+Sbjct  49   SFRCDGRQYCSQMASYEEAKYFLKNCPNTKMDGDDDGIPCESQFR  93
+
+
+>WP_043135110.1 calcium-binding protein [Pectobacterium atrosepticum]
+Length=102
+
+ Score = 78.2 bits (191),  Expect = 1e-016, Method: Compositional matrix adjust.
+ Identities = 31/45 (69%), Positives = 38/45 (84%), Gaps = 0/45 (0%)
+
+Query  70   FQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            F CDGR+YC+QM+S EEA +F++NCP TKMDGD DG PCE DSR+
+Sbjct  50   FVCDGRQYCSQMNSREEAYFFIQNCPKTKMDGDHDGVPCERDSRF  94
+
+
+>WP_011094020.1 calcium-binding protein [Pectobacterium atrosepticum]
+Length=102
+
+ Score = 78.2 bits (191),  Expect = 1e-016, Method: Compositional matrix adjust.
+ Identities = 31/45 (69%), Positives = 38/45 (84%), Gaps = 0/45 (0%)
+
+Query  70   FQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            F CDGR+YC+QM+S EEA +F++NCP TKMDGD DG PCE DSR+
+Sbjct  50   FVCDGRQYCSQMNSREEAYFFIQNCPKTKMDGDHDGVPCERDSRF  94
+
+
+>WP_033031877.1 MULTISPECIES: cold-shock protein [Pseudoalteromonas]
+Length=200
+
+ Score = 80.5 bits (197),  Expect = 1e-016, Method: Compositional matrix adjust.
+ Identities = 36/68 (53%), Positives = 47/68 (69%), Gaps = 1/68 (1%)
+
+Query  48   TKKALALTSEKVPERV-NDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGE  106
+            T   LA   E+ P+ V    T  F CDGR++C+QM+S  EA +F+ NCPNTKMDGD DG+
+Sbjct  133  TNADLATFDEQYPKLVIPKNTQNFTCDGRQHCSQMNSRAEAVFFINNCPNTKMDGDGDGD  192
+
+Query  107  PCENDSRW  114
+            PCE D+R+
+Sbjct  193  PCERDTRF  200
+
+
+>WP_075278085.1 calcium-binding protein [Pectobacterium carotovorum]
+Length=102
+
+ Score = 77.8 bits (190),  Expect = 1e-016, Method: Compositional matrix adjust.
+ Identities = 32/47 (68%), Positives = 39/47 (83%), Gaps = 0/47 (0%)
+
+Query  68   SAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            S F CDGR+YC+QM+S EEA +F++NCP TKMDGD DG PCE DSR+
+Sbjct  48   SRFVCDGRQYCSQMNSREEAYFFIQNCPKTKMDGDHDGVPCERDSRF  94
+
+
+>WP_067764659.1 hypothetical protein [Acinetobacter gandensis]
+Length=250
+
+ Score = 81.3 bits (199),  Expect = 1e-016, Method: Compositional matrix adjust.
+ Identities = 46/95 (48%), Positives = 53/95 (56%), Gaps = 13/95 (14%)
+
+Query  28   IIEAQRAALGKLPDVQLSEKTKKALALTSEKVPER-VNDET------------SAFQCDG  74
+            I+E QR A G LPD  LSE+    L  T      R V D T            + F CDG
+Sbjct  150  IVEEQRKAQGDLPDQVLSEQGLHNLHGTGTSELRRDVVDVTPKSTQAVQQAAPAKFSCDG  209
+
+Query  75   REYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCE  109
+            R +C+QM S EEA +F  NCPNTKMDG+ DGEPCE
+Sbjct  210  RTHCSQMRSYEEAVFFNNNCPNTKMDGNNDGEPCE  244
+
+
+>WP_064228292.1 MULTISPECIES: calcium-binding protein [Marinobacter]
+Length=94
+
+ Score = 77.4 bits (189),  Expect = 2e-016, Method: Compositional matrix adjust.
+ Identities = 30/48 (63%), Positives = 39/48 (81%), Gaps = 0/48 (0%)
+
+Query  67   TSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+             ++F CDGR++C+QM S  E  +F++NCPNTKMDGD DG PCENDSR+
+Sbjct  47   VTSFHCDGRQHCSQMTSRAETEFFIQNCPNTKMDGDGDGIPCENDSRF  94
+
+
+>WP_034611073.1 calcium-binding protein [Acinetobacter sp. ETR1]
+Length=246
+
+ Score = 80.9 bits (198),  Expect = 2e-016, Method: Compositional matrix adjust.
+ Identities = 50/117 (43%), Positives = 67/117 (57%), Gaps = 15/117 (13%)
+
+Query  8    QAQQRASHEKVQLLIQQQKTIIEAQRAALGKLPDVQLSEKTKKALALTSEKVPERVNDET  67
+            Q  Q   H K  LL QQQK I+E QR  +G +  V+ SEK++ AL      V ++   E+
+Sbjct  125  QTYQEEQHAKFALLEQQQKQIVEQQRKEIGYVKPVKFSEKSQNALNSHHHSVQKQNEVES  184
+
+Query  68   ---------------SAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCE  109
+                           S +QCDGR +C+QM S +EA +F++NCPNT+MDGD DG PCE
+Sbjct  185  VQSNTTVSTTASTAKSPYQCDGRTHCSQMTSYDEAVFFIKNCPNTQMDGDHDGRPCE  241
+
+
+>WP_034774739.1 hypothetical protein [Idiomarina salinarum]
+Length=102
+
+ Score = 77.0 bits (188),  Expect = 3e-016, Method: Compositional matrix adjust.
+ Identities = 34/61 (56%), Positives = 46/61 (75%), Gaps = 1/61 (2%)
+
+Query  54   LTSEKVPERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSR  113
+            + + K P R   + SAF+CDGR+YC+QM+S  EA +F+ +CP+ KMDGD DG PCENDSR
+Sbjct  43   VLTGKAP-RYAAKQSAFRCDGRQYCSQMNSRAEAEFFLNHCPDVKMDGDGDGVPCENDSR  101
+
+Query  114  W  114
+            +
+Sbjct  102  F  102
+
+
+>WP_072035883.1 calcium-binding protein [Pectobacterium carotovorum]
+Length=102
+
+ Score = 77.0 bits (188),  Expect = 3e-016, Method: Compositional matrix adjust.
+ Identities = 31/45 (69%), Positives = 38/45 (84%), Gaps = 0/45 (0%)
+
+Query  70   FQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            F CDGR+YC+QM+S EEA +F++NCP TKMDGD DG PCE DSR+
+Sbjct  50   FVCDGRQYCSQMNSREEAYFFIQNCPKTKMDGDHDGVPCERDSRF  94
+
+
+>WP_072010372.1 calcium-binding protein [Pectobacterium carotovorum]
+Length=102
+
+ Score = 77.0 bits (188),  Expect = 3e-016, Method: Compositional matrix adjust.
+ Identities = 31/45 (69%), Positives = 38/45 (84%), Gaps = 0/45 (0%)
+
+Query  70   FQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            F CDGR+YC+QM+S EEA +F++NCP TKMDGD DG PCE DSR+
+Sbjct  50   FVCDGRQYCSQMNSREEAYFFIQNCPKTKMDGDHDGVPCERDSRF  94
+
+
+>WP_024608652.1 cold-shock protein [Pseudoalteromonas sp. TAB23]
+Length=204
+
+ Score = 79.3 bits (194),  Expect = 3e-016, Method: Compositional matrix adjust.
+ Identities = 36/69 (52%), Positives = 46/69 (67%), Gaps = 6/69 (9%)
+
+Query  52   LALTSEKVPERVNDETSA------FQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDG  105
+            LA   EK P+ V  +         F CDG ++C+QM+S  EA +F+ NCPNTKMDGD DG
+Sbjct  132  LATFDEKYPKVVIPKIVTPKSMQNFTCDGMQHCSQMNSRAEAVFFINNCPNTKMDGDSDG  191
+
+Query  106  EPCENDSRW  114
+            +PCENDSR+
+Sbjct  192  KPCENDSRF  200
+
+
+>WP_034279893.1 hypothetical protein [Alkanindiges illinoisensis]
+Length=192
+
+ Score = 79.0 bits (193),  Expect = 4e-016, Method: Compositional matrix adjust.
+ Identities = 36/71 (51%), Positives = 45/71 (63%), Gaps = 3/71 (4%)
+
+Query  43   QLSEKTKKALALTSEKVPERVN---DETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKM  99
+            Q S+  K+ +   S   P  V      TS F CDGR++C+QMHS EEA +F+ +CP TKM
+Sbjct  120  QRSQLAKQPVTSPSVSTPVEVTHIPSSTSQFSCDGRQHCSQMHSYEEAVFFINHCPGTKM  179
+
+Query  100  DGDRDGEPCEN  110
+            DGD DGEPCE 
+Sbjct  180  DGDNDGEPCEG  190
+
+
+>WP_081698872.1 hypothetical protein [Marinobacter sp. EN3]
+Length=47
+
+ Score = 75.1 bits (183),  Expect = 4e-016, Method: Compositional matrix adjust.
+ Identities = 32/45 (71%), Positives = 36/45 (80%), Gaps = 0/45 (0%)
+
+Query  70   FQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            F CDGREYC++M S  EA +F R CPNTKMDGD DG PCENDSR+
+Sbjct  3    FTCDGREYCSEMTSRAEAEYFNRYCPNTKMDGDNDGIPCENDSRF  47
+
+
+>WP_070177397.1 hypothetical protein [Alteromonas lipolytica]
+Length=176
+
+ Score = 78.6 bits (192),  Expect = 4e-016, Method: Compositional matrix adjust.
+ Identities = 33/55 (60%), Positives = 42/55 (76%), Gaps = 3/55 (5%)
+
+Query  60   PERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCENDSRW  114
+            PE +   T  F+CDGR+YC QM+S  EA +F+ NCP+TKMDGD DG PCEND+R+
+Sbjct  125  PESI---TQHFKCDGRQYCGQMNSRAEAEFFLANCPDTKMDGDDDGIPCENDTRF  176
+
+
+>WP_055017653.1 cold-shock protein [Pseudoalteromonas sp. P1-25]
+Length=202
+
+ Score = 79.3 bits (194),  Expect = 4e-016, Method: Compositional matrix adjust.
+ Identities = 36/68 (53%), Positives = 47/68 (69%), Gaps = 1/68 (1%)
+
+Query  48   TKKALALTSEKVPERVNDETS-AFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGE  106
+            T   LA   E+ P+ V  + S  F CDGR++C+QM S  EA +F+ NCPNTKMDGD DG+
+Sbjct  131  TNTDLATFDEQYPKIVIPQNSQNFTCDGRQHCSQMTSRAEAVFFINNCPNTKMDGDGDGD  190
+
+Query  107  PCENDSRW  114
+            PCE D+R+
+Sbjct  191  PCERDTRF  198
+
+
+>WP_050659456.1 hypothetical protein [Gallaecimonas pentaromativorans]
+Length=93
+
+ Score = 76.3 bits (186),  Expect = 5e-016, Method: Compositional matrix adjust.
+ Identities = 38/86 (44%), Positives = 53/86 (62%), Gaps = 6/86 (7%)
+
+Query  34   AALGKLPDVQLSEKTKKALA-----LTSEKVPERVNDETSAFQCDGREYCTQMHSLEEAR  88
+             A+  L  VQ   + KK  A     + ++K+P +   +  AF+C+G+ YC+QM S  EA 
+Sbjct  9    GAIAVLGTVQYLYQHKKVSASSLPPVLADKLPAKPVPK-PAFRCEGKVYCSQMTSRAEAE  67
+
+Query  89   WFVRNCPNTKMDGDRDGEPCENDSRW  114
+            +++ NCP TKMDGD DG PCE DSRW
+Sbjct  68   FYLANCPGTKMDGDHDGIPCERDSRW  93
+
+
+>WP_082361919.1 hypothetical protein [beta proteobacterium AAP51]
+Length=140
+
+ Score = 77.4 bits (189),  Expect = 5e-016, Method: Compositional matrix adjust.
+ Identities = 32/58 (55%), Positives = 39/58 (67%), Gaps = 0/58 (0%)
+
+Query  53   ALTSEKVPERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCEN  110
+            A T   +P R   + + F+CDGR YCTQM S  EAR+F+  CP  KMDGDRDG PCE+
+Sbjct  66   ARTGPALPSRAPAQDTGFRCDGRTYCTQMRSCAEARYFLAQCPGVKMDGDRDGIPCED  123
+
+
+>WP_007986490.1 hypothetical protein [Paraglaciecola chathamensis]
+Length=101
+
+ Score = 76.3 bits (186),  Expect = 6e-016, Method: Compositional matrix adjust.
+ Identities = 33/71 (46%), Positives = 49/71 (69%), Gaps = 3/71 (4%)
+
+Query  44   LSEKTKKALALTSEKVPERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDR  103
+            L+ + ++   LTS + P  +      F+CDGR+YC QM S  EA +F+ +CP+T+MDGD+
+Sbjct  34   LASRVEEPKKLTSPRKPAPM---VMNFRCDGRQYCGQMTSRAEAEYFIAHCPDTRMDGDK  90
+
+Query  104  DGEPCENDSRW  114
+            DG PCEND+R+
+Sbjct  91   DGIPCENDTRF  101
+
+
+>WP_013753988.1 calcium-binding protein [Glaciecola sp. 4H-3-7+YE-5]
+Length=101
+
+ Score = 76.3 bits (186),  Expect = 6e-016, Method: Compositional matrix adjust.
+ Identities = 33/71 (46%), Positives = 49/71 (69%), Gaps = 3/71 (4%)
+
+Query  44   LSEKTKKALALTSEKVPERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDR  103
+            L+ + ++   LTS + P  +      F+CDGR+YC QM S  EA +F+ +CP+T+MDGD+
+Sbjct  34   LASRVEEPKKLTSPRKPAPM---VMNFRCDGRQYCGQMTSRAEAEYFIAHCPDTRMDGDK  90
+
+Query  104  DGEPCENDSRW  114
+            DG PCEND+R+
+Sbjct  91   DGIPCENDTRF  101
+
+
+>WP_003750571.1 DNA-binding protein [Neisseria polysaccharea]
+Length=191
+
+ Score = 78.6 bits (192),  Expect = 6e-016, Method: Compositional matrix adjust.
+ Identities = 34/59 (58%), Positives = 46/59 (78%), Gaps = 2/59 (3%)
+
+Query  54   LTSEKVPE--RVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCEN  110
+            + ++ +PE  R   ++S ++CDGR+YC+QM S EEA+WFVRNC +TKMDGD DG PCEN
+Sbjct  128  VKTQVLPEIKRQQPDSSPYRCDGRQYCSQMTSCEEAKWFVRNCSDTKMDGDGDGIPCEN  186
+
+
+>WP_033112692.1 DNA-binding protein [Aeromonas lacus]
+Length=216
+
+ Score = 79.0 bits (193),  Expect = 7e-016, Method: Compositional matrix adjust.
+ Identities = 36/69 (52%), Positives = 46/69 (67%), Gaps = 6/69 (9%)
+
+Query  42   VQLSEKTKKALALTSEKVPERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDG  101
+            V   E    + A T+  +P R      ++QCDGR+YC+QM S EEA WF++NCPNTKMDG
+Sbjct  149  VSSGESRMGSSADTTASLPTR------SYQCDGRQYCSQMTSCEEATWFLQNCPNTKMDG  202
+
+Query  102  DRDGEPCEN  110
+            + DG PCEN
+Sbjct  203  EGDGIPCEN  211
+
+
+>WP_003681678.1 DNA-binding protein [Neisseria flavescens]
+Length=191
+
+ Score = 78.2 bits (191),  Expect = 7e-016, Method: Compositional matrix adjust.
+ Identities = 34/59 (58%), Positives = 46/59 (78%), Gaps = 2/59 (3%)
+
+Query  54   LTSEKVPE--RVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGEPCEN  110
+            + ++ +PE  R   ++S ++CDGR+YC+QM S EEA+WFVRNC +TKMDGD DG PCEN
+Sbjct  128  VKTQVLPEIKRQQPDSSPYRCDGRQYCSQMTSCEEAKWFVRNCSDTKMDGDGDGIPCEN  186
+
+
+>WP_024589306.1 MULTISPECIES: cold-shock protein [Pseudoalteromonas]
+Length=196
+
+ Score = 78.2 bits (191),  Expect = 8e-016, Method: Compositional matrix adjust.
+ Identities = 37/68 (54%), Positives = 47/68 (69%), Gaps = 3/68 (4%)
+
+Query  48   TKKALALTSEKVPERV-NDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKMDGDRDGE  106
+            T   LA   ++ P+ V    T  F CDGR+YCT+M S +EA +F+ NCPNTKMDG  DG+
+Sbjct  127  TNDDLATFDKQYPKIVITKSTQNFTCDGRQYCTEMRSRDEAVFFINNCPNTKMDG--DGK  184
+
+Query  107  PCENDSRW  114
+            PCENDSR+
+Sbjct  185  PCENDSRF  192
+
+
+>WP_055250470.1 hypothetical protein [Xanthomonas sp. Mitacek01]
+Length=97
+
+ Score = 75.5 bits (184),  Expect = 9e-016, Method: Compositional matrix adjust.
+ Identities = 36/75 (48%), Positives = 47/75 (63%), Gaps = 3/75 (4%)
+
+Query  40   PDVQLSEKTKKALALTSEKVPERVNDETSAFQCDGREYCTQMHSLEEARWFVRNCPNTKM  99
+            PD  L+E     +A  +      +     +FQCDGR++C +M S EEA +F+RNCPNTKM
+Sbjct  24   PDPTLTEPLAP-IASPTPAASRVLPTPAQSFQCDGRQHCAEMRSCEEATFFIRNCPNTKM  82
+
+Query  100  DGDRDGEPCENDSRW  114
+            DGD DG PCE  S+W
+Sbjct  83   DGDNDGVPCE--SQW  95
+
+
+
+Lambda      K        H
+   0.315    0.128    0.381 
+
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+
+Effective search space used: 787324781792
+
+
+  Database: NCBI Protein Reference Sequences
+    Posted date:  May 29, 2017 12:00 AM
+  Number of letters in database: 31,412,196,622
+  Number of sequences in database:  82,027,677
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40

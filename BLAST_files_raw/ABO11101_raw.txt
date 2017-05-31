@@ -1,0 +1,4317 @@
+BLASTP 2.6.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: NCBI Protein Reference Sequences
+           82,027,677 sequences; 31,412,196,622 total letters
+
+
+
+Query= embl-cds:ABO11101 putative ferrous iron transport protein A
+OS=Acinetobacter baumannii (strain ATCC 17978 / CIP 53.77 / LMG 1025
+/ NCDC KC755 / 5377) GN=A1S_0652 SV=1 UP=UP000006737:Chromosome
+
+Length=77
+
+RID: JUPCSD2V014
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+WP_000281347.1  MULTISPECIES: ferrous iron transport protein A [A...  156     8e-049
+WP_058952368.1  iron transporter [Acinetobacter johnsonii]            145     4e-044
+WP_068908063.1  ferrous iron transport protein A [Acinetobacter s...  99.4    8e-026
+WP_005013373.1  ferrous iron transport protein A [Acinetobacter b...  97.8    3e-025
+WP_067672746.1  ferrous iron transport protein A [Acinetobacter s...  97.8    3e-025
+WP_004787267.1  MULTISPECIES: ferrous iron transport protein A [A...  96.7    8e-025
+WP_064094654.1  MULTISPECIES: ferrous iron transport protein A [A...  96.3    1e-024
+WP_004810128.1  MULTISPECIES: ferrous iron transport protein A [A...  95.9    1e-024
+WP_005248420.1  ferrous iron transport protein A [Acinetobacter s...  95.5    2e-024
+WP_035264089.1  ferrous iron transport protein A [Acinetobacter s...  95.5    2e-024
+WP_004281065.1  MULTISPECIES: ferrous iron transport protein A [A...  95.5    2e-024
+WP_068889306.1  ferrous iron transport protein A [Acinetobacter c...  95.5    2e-024
+WP_005101473.1  MULTISPECIES: ferrous iron transport protein A [A...  95.5    3e-024
+WP_086174140.1  ferrous iron transport protein A [Acinetobacter s...  95.1    3e-024
+WP_034169774.1  ferrous iron transport protein A [Acinetobacter s...  94.7    5e-024
+WP_067731740.1  ferrous iron transport protein A [Acinetobacter s...  94.7    5e-024
+WP_005233486.1  ferrous iron transport protein A [Acinetobacter s...  94.4    6e-024
+WP_054580482.1  ferrous iron transport protein A [Acinetobacter e...  94.0    8e-024
+WP_086195419.1  ferrous iron transport protein A [Acinetobacter s...  94.0    1e-023
+WP_034587559.1  ferrous iron transport protein A [Acinetobacter s...  93.6    1e-023
+WP_086191742.1  ferrous iron transport protein A [Acinetobacter s...  93.6    1e-023
+WP_053580266.1  ferrous iron transport protein A [Acinetobacter s...  93.2    2e-023
+WP_065995143.1  ferrous iron transport protein A [Acinetobacter s...  92.8    3e-023
+WP_005017133.1  MULTISPECIES: ferrous iron transport protein A [A...  92.4    4e-023
+WP_086199582.1  ferrous iron transport protein A [Acinetobacter s...  92.8    4e-023
+WP_004975713.1  ferrous iron transport protein A [Acinetobacter t...  92.4    4e-023
+WP_086214481.1  ferrous iron transport protein A [Acinetobacter s...  92.0    5e-023
+WP_004868148.1  ferrous iron transport protein A [Acinetobacter g...  91.7    1e-022
+WP_004902555.1  ferrous iron transport protein A [Acinetobacter b...  91.3    1e-022
+WP_045793271.1  ferrous iron transport protein A [Acinetobacter b...  91.3    1e-022
+WP_067558136.1  ferrous iron transport protein A [Acinetobacter l...  90.9    1e-022
+WP_086202545.1  ferrous iron transport protein A [Acinetobacter s...  91.3    1e-022
+WP_010591216.1  MULTISPECIES: ferrous iron transport protein A [A...  90.9    2e-022
+WP_004749922.1  ferrous iron transport protein A [Acinetobacter s...  90.5    2e-022
+WP_019838134.1  MULTISPECIES: ferrous iron transport protein A [A...  90.5    3e-022
+WP_081406178.1  ferrous iron transport protein A [Acinetobacter s...  91.3    3e-022
+WP_016168477.1  ferrous iron transport protein A [Acinetobacter t...  90.1    4e-022
+WP_081408373.1  ferrous iron transport protein A [Acinetobacter s...  90.5    4e-022
+WP_086182845.1  ferrous iron transport protein A [Acinetobacter s...  89.7    5e-022
+WP_067655155.1  ferrous iron transport protein A [Acinetobacter s...  89.7    5e-022
+WP_005001807.1  ferrous iron transport protein A [Acinetobacter u...  89.4    6e-022
+WP_086193079.1  ferrous iron transport protein A [Acinetobacter s...  90.1    6e-022
+WP_078189444.1  MULTISPECIES: ferrous iron transport protein A [A...  89.4    7e-022
+WP_086179803.1  ferrous iron transport protein A [Acinetobacter s...  89.4    7e-022
+WP_004718380.1  MULTISPECIES: ferrous iron transport protein A [A...  89.4    7e-022
+WP_004650053.1  ferrous iron transport protein A [Acinetobacter b...  89.7    9e-022
+WP_067763128.1  ferrous iron transport protein A [Acinetobacter g...  89.0    9e-022
+WP_034594829.1  MULTISPECIES: ferrous iron transport protein A [A...  89.0    1e-021
+WP_004995342.1  MULTISPECIES: ferrous iron transport protein A [A...  89.0    1e-021
+WP_086322678.1  Fe2+ transporter protein A [Acinetobacter sp. WCH...  89.7    1e-021
+WP_074946996.1  ferrous iron transport protein A [Acinetobacter b...  89.7    1e-021
+WP_038343481.1  ferrous iron transport protein A [Acinetobacter s...  88.2    2e-021
+WP_086207078.1  ferrous iron transport protein A [Acinetobacter s...  88.2    2e-021
+WP_004920704.1  MULTISPECIES: ferrous iron transport protein A [A...  87.8    3e-021
+WP_086187340.1  ferrous iron transport protein A [Acinetobacter s...  88.6    3e-021
+WP_004674296.1  MULTISPECIES: ferrous iron transport protein A [A...  87.8    3e-021
+WP_004762363.1  ferrous iron transport protein A [Acinetobacter s...  87.8    3e-021
+WP_017394530.1  MULTISPECIES: ferrous iron transport protein A [A...  87.4    3e-021
+WP_029574464.1  ferrous iron transport protein A [Acinetobacter s...  87.4    4e-021
+WP_017395045.1  ferrous iron transport protein A [Acinetobacter h...  87.0    5e-021
+WP_023273556.1  ferrous iron transport protein A [Acinetobacter n...  87.0    5e-021
+WP_005181588.1  MULTISPECIES: ferrous iron transport protein A [A...  87.0    6e-021
+WP_045796496.1  ferrous iron transport protein A [Acinetobacter i...  86.7    6e-021
+WP_086209766.1  ferrous iron transport protein A [Acinetobacter s...  87.8    6e-021
+WP_005050848.1  ferrous iron transport protein A [Acinetobacter b...  86.7    6e-021
+WP_075167822.1  ferrous iron transport protein A [Acinetobacter i...  86.7    7e-021
+WP_005226344.1  MULTISPECIES: ferrous iron transport protein A [A...  86.7    7e-021
+WP_004876359.1  ferrous iron transport protein A [Acinetobacter v...  86.7    8e-021
+WP_004692826.1  MULTISPECIES: ferrous iron transport protein A [A...  87.4    8e-021
+WP_007480191.1  MULTISPECIES: ferrous iron transport protein A [A...  86.7    8e-021
+WP_034600743.1  MULTISPECIES: ferrous iron transport protein A [A...  86.3    9e-021
+WP_034602880.1  ferrous iron transport protein A [Acinetobacter s...  86.3    9e-021
+WP_018679148.1  ferrous iron transport protein A [Acinetobacter t...  86.3    9e-021
+WP_061874341.1  ferrous iron transport protein A [Acinetobacter d...  85.9    2e-020
+WP_004656347.1  MULTISPECIES: ferrous iron transport protein A [A...  85.5    2e-020
+WP_004773968.1  MULTISPECIES: ferrous iron transport protein A [A...  85.5    2e-020
+WP_077165240.1  ferrous iron transport protein A [Acinetobacter g...  85.5    2e-020
+WP_031946450.1  MULTISPECIES: ferrous iron transport protein A [A...  85.1    2e-020
+WP_020899909.1  ferrous iron transport protein A [Acinetobacter j...  85.1    3e-020
+WP_005154750.1  MULTISPECIES: ferrous iron transport protein A [A...  85.1    3e-020
+WP_061397009.1  ferrous iron transport protein A [Acinetobacter h...  85.1    3e-020
+WP_019457010.1  ferrous iron transport protein A [Acinetobacter s...  85.1    3e-020
+WP_002053176.1  MULTISPECIES: ferrous iron transport protein A [A...  85.1    3e-020
+WP_035366538.1  iron transporter [Acinetobacter calcoaceticus]        85.1    3e-020
+WP_023270940.1  ferrous iron transport protein A [Acinetobacter g...  85.1    3e-020
+WP_078210375.1  ferrous iron transport protein A [Acinetobacter p...  85.1    3e-020
+WP_002121198.1  MULTISPECIES: ferrous iron transport protein A [A...  85.1    3e-020
+WP_004932278.1  MULTISPECIES: ferrous iron transport protein A [A...  84.7    4e-020
+WP_081404807.1  ferrous iron transport protein A [Acinetobacter s...  84.7    4e-020
+WP_004699241.1  ferrous iron transport protein A [Acinetobacter s...  84.7    4e-020
+WP_005240215.1  MULTISPECIES: ferrous iron transport protein A [A...  84.7    4e-020
+WP_039254224.1  MULTISPECIES: ferrous iron transport protein A [A...  84.7    4e-020
+WP_024434168.1  iron transporter [Acinetobacter baumannii]            84.7    4e-020
+WP_013199126.1  MULTISPECIES: ferrous iron transport protein A [A...  84.7    4e-020
+WP_001991212.1  MULTISPECIES: ferrous iron transport protein A [A...  84.3    5e-020
+WP_081032098.1  MULTISPECIES: ferrous iron transport protein A [A...  84.3    6e-020
+WP_086266944.1  ferrous iron transport protein A [Acinetobacter b...  84.3    7e-020
+WP_009505587.1  ferrous iron transport protein A [Acinetobacter s...  84.0    7e-020
+WP_039245557.1  ferrous iron transport protein A [Acinetobacter b...  84.3    9e-020
+WP_081406903.1  ferrous iron transport protein A [Acinetobacter h...  84.7    1e-019
+WP_031952215.1  ferrous iron transport protein A [Acinetobacter b...  83.6    1e-019
+WP_016801736.1  MULTISPECIES: ferrous iron transport protein A [A...  83.2    2e-019
+WP_005065729.1  ferrous iron transport protein A [Acinetobacter p...  83.2    2e-019
+WP_050441651.1  ferrous iron transport protein A [Acinetobacter b...  82.8    3e-019
+WP_000288741.1  ferrous iron transport protein A [Acinetobacter b...  82.8    3e-019
+WP_009392243.1  ferrous iron transport protein A [Acinetobacter s...  82.4    3e-019
+WP_032069074.1  ferrous iron transport protein A [Acinetobacter b...  82.8    4e-019
+WP_000288742.1  ferrous iron transport protein A [Acinetobacter b...  82.8    4e-019
+WP_057052407.1  ferrous iron transport protein A [Acinetobacter b...  82.8    4e-019
+WP_000288743.1  MULTISPECIES: ferrous iron transport protein A [A...  82.8    4e-019
+WP_075431228.1  MULTISPECIES: ferrous iron transport protein A [A...  81.3    1e-018
+WP_016654716.1  ferrous iron transport protein A [Acinetobacter r...  79.3    9e-018
+WP_026471626.1  ferrous iron transport protein A [Alkanindiges il...  77.0    7e-017
+WP_070070863.1  ferrous iron transport protein A [Acinetobacter q...  74.3    5e-016
+WP_034103765.1  ferrous iron transport protein A [Pseudomonas flu...  73.9    6e-016
+WP_039602276.1  ferrous iron transport protein A [Pseudomonas put...  73.9    7e-016
+WP_053256056.1  ferrous iron transport protein A [Pseudomonas flu...  73.9    7e-016
+WP_074901556.1  ferrous iron transport protein A [Stenotrophomona...  73.6    9e-016
+WP_069552127.1  ferrous iron transport protein A [Pseudomonas sp....  73.2    1e-015
+WP_076878764.1  hypothetical protein [Alkanindiges sp. H1]            73.6    1e-015
+WP_017357247.1  ferrous iron transport protein A [Stenotrophomona...  73.2    2e-015
+WP_010482534.1  ferrous iron transport protein A [Stenotrophomona...  72.8    2e-015
+WP_065854000.1  iron transporter FeoA [Ralstonia pickettii]           73.2    3e-015
+WP_009240368.1  MULTISPECIES: iron transporter FeoA [Ralstonia]       72.8    3e-015
+WP_023457413.1  ferrous iron transport protein A [Asticcacaulis s...  72.0    3e-015
+WP_049464336.1  MULTISPECIES: ferrous iron transport protein A [S...  72.4    3e-015
+WP_084910419.1  ferrous iron transport protein A [[Pseudomonas] m...  72.0    3e-015
+WP_005409473.1  MULTISPECIES: ferrous iron transport protein A [S...  72.0    4e-015
+WP_032128790.1  ferrous iron transport protein A [Stenotrophomona...  72.0    4e-015
+WP_053519514.1  ferrous iron transport protein A [Stenotrophomona...  72.0    4e-015
+WP_038688583.1  ferrous iron transport protein A [Stenotrophomona...  72.0    5e-015
+WP_008265355.1  ferrous iron transport protein A [Stenotrophomona...  71.6    5e-015
+WP_005416370.1  MULTISPECIES: ferrous iron transport protein A [P...  71.6    6e-015
+WP_028534277.1  ferrous iron transport protein A [Paludibacterium...  71.6    6e-015
+WP_079221735.1  ferrous iron transport protein A [Stenotrophomona...  71.6    6e-015
+WP_021204543.1  ferrous iron transport protein A [Stenotrophomona...  71.6    6e-015
+WP_049416284.1  ferrous iron transport protein A [Stenotrophomona...  71.2    8e-015
+WP_057509132.1  ferrous iron transport protein A [Stenotrophomona...  71.2    8e-015
+WP_053462674.1  ferrous iron transport protein A [Stenotrophomona...  71.2    9e-015
+WP_034219925.1  ferrous iron transport protein A [Arenimonas dong...  70.9    1e-014
+WP_065198715.1  ferrous iron transport protein A [Stenotrophomona...  70.9    1e-014
+WP_019182966.1  MULTISPECIES: ferrous iron transport protein A [S...  70.9    1e-014
+WP_027679437.1  iron transporter FeoA [Ralstonia sp. UNC404CL21Col]   71.2    1e-014
+WP_024978288.1  iron transporter FeoA [Ralstonia pickettii]           71.2    1e-014
+WP_004627969.1  iron transporter FeoA [Ralstonia pickettii]           71.2    1e-014
+WP_068097785.1  MULTISPECIES: ferrous iron transport protein A [R...  70.5    2e-014
+WP_019661455.1  ferrous iron transport protein A [Stenotrophomona...  70.5    2e-014
+WP_068858123.1  ferrous iron transport protein A [Perlucidibaca s...  70.5    2e-014
+WP_083840351.1  ferrous iron transport protein A [Ralstonia sp. PBA]  70.1    2e-014
+WP_054656730.1  ferrous iron transport protein A [[Pseudomonas] p...  70.5    2e-014
+WP_045205397.1  iron transporter FeoA [Burkholderiaceae bacterium...  70.9    2e-014
+WP_056386392.1  ferrous iron transport protein A [Rhodanobacter s...  70.1    2e-014
+WP_007510622.1  MULTISPECIES: ferrous iron transport protein A [R...  70.1    2e-014
+WP_027489864.1  ferrous iron transport protein A [Rhodanobacter s...  70.1    3e-014
+WP_042612821.1  ferrous iron transport protein A [Stenotrophomona...  70.1    3e-014
+WP_018082506.1  ferrous iron transport protein A [Asticcacaulis b...  69.7    3e-014
+WP_057639807.1  ferrous iron transport protein A [Stenotrophomona...  69.7    3e-014
+WP_041676681.1  ferrous iron transport protein A [Rhodanobacter d...  69.7    3e-014
+WP_007804835.1  MULTISPECIES: ferrous iron transport protein A [R...  69.3    5e-014
+WP_025874743.1  MULTISPECIES: ferrous iron transport protein A [S...  69.3    5e-014
+WP_079227365.1  ferrous iron transport protein A [Pseudomonas put...  68.9    5e-014
+WP_057501495.1  ferrous iron transport protein A [Stenotrophomona...  69.3    5e-014
+WP_055773139.1  MULTISPECIES: ferrous iron transport protein A [S...  68.9    6e-014
+WP_071017547.1  MULTISPECIES: ferrous iron transport protein A [C...  69.7    6e-014
+WP_059286519.1  ferrous iron transport protein A [Aquitalea magnu...  68.9    7e-014
+WP_072895896.1  ferrous iron transport protein A [Hydrocarbonipha...  68.9    7e-014
+WP_039953653.1  ferrous iron transport protein A [Rhodanobacter t...  68.6    9e-014
+WP_069261715.1  ferrous iron transport protein A [Paraburkholderi...  68.6    9e-014
+WP_026033908.1  ferrous iron transport protein A [Dyella japonica]    68.6    9e-014
+WP_061957658.1  ferrous iron transport protein A [Cupriavidus pau...  68.9    9e-014
+WP_019449849.1  ferrous iron transport protein A [Cupriavidus sp....  68.9    1e-013
+WP_020206086.1  ferrous iron transport protein A [Cupriavidus sp....  68.9    1e-013
+WP_059412062.1  ferrous iron transport protein A [Cupriavidus bas...  68.9    1e-013
+WP_054666005.1  ferrous iron transport protein A [Stenotrophomona...  68.2    1e-013
+WP_059533149.1  MULTISPECIES: ferrous iron transport protein A [B...  68.2    1e-013
+WP_027493010.1  ferrous iron transport protein A [Rhodanobacter s...  68.2    1e-013
+WP_057628640.1  MULTISPECIES: ferrous iron transport protein A [S...  68.2    1e-013
+WP_057636787.1  ferrous iron transport protein A [Stenotrophomona...  67.8    2e-013
+WP_072760566.1  ferrous iron transport protein A [Rhodanobacter s...  67.8    2e-013
+WP_079725740.1  ferrous iron transport protein A [Pseudoxanthomon...  67.8    2e-013
+WP_077439911.1  ferrous iron transport protein A [Rhodanobacter s...  67.8    2e-013
+WP_057664347.1  ferrous iron transport protein A [Stenotrophomona...  67.8    2e-013
+WP_013479430.1  ferrous iron transport protein A [Asticcacaulis e...  67.4    2e-013
+WP_057631949.1  ferrous iron transport protein A [Stenotrophomona...  67.4    2e-013
+WP_035862617.1  ferrous iron transport protein A [Cupriavidus sp....  68.2    2e-013
+WP_077514260.1  ferrous iron transport protein A [Rhodanobacter s...  67.4    2e-013
+WP_068851506.1  ferrous iron transport protein A [Stenotrophomona...  67.4    3e-013
+WP_046972307.1  ferrous iron transport protein A [Dyella japonica]    67.4    3e-013
+WP_028770232.1  ferrous iron transport protein A [Silanimonas lenta]  67.0    4e-013
+WP_045240923.1  ferrous iron transport protein A [Burkholderiacea...  67.4    4e-013
+WP_043290498.1  ferrous iron transport protein A [Pseudoxanthomon...  67.0    4e-013
+WP_063394076.1  iron transporter FeoA [Ralstonia mannitolilytica]     67.4    4e-013
+WP_045219442.1  iron transporter FeoA [Ralstonia mannitolilytica]     67.4    4e-013
+WP_019399512.1  MULTISPECIES: ferrous iron transport protein A [P...  67.0    4e-013
+WP_038491703.1  ferrous iron transport protein A [Collimonas arenae]  66.6    5e-013
+WP_077554992.1  ferrous iron transport protein A [Rhodanobacter s...  66.6    5e-013
+WP_008212175.1  ferrous iron transport protein A [Rhodanobacter s...  66.6    5e-013
+WP_057647587.1  ferrous iron transport protein A [Stenotrophomona...  66.6    6e-013
+WP_027803744.1  ferrous iron transport protein A [Paraburkholderi...  66.6    6e-013
+WP_049622140.1  ferrous iron transport protein A [Dyella-like sp....  66.6    6e-013
+WP_027795083.1  ferrous iron transport protein A [Paraburkholderi...  66.6    6e-013
+WP_043551859.1  ferrous iron transport protein A [Acetobacter mal...  67.0    6e-013
+WP_077517665.1  ferrous iron transport protein A [Rhodanobacter s...  66.2    7e-013
+WP_010514220.1  MULTISPECIES: ferrous iron transport protein A [K...  66.2    7e-013
+WP_006158310.1  ferrous iron transport protein A [Cupriavidus bas...  67.0    7e-013
+WP_084711349.1  hypothetical protein [Nevskia ramosa]                 67.4    7e-013
+WP_078198726.1  iron transporter FeoA [Cupriavidus necator]           66.6    9e-013
+WP_065057684.1  ferrous iron transport protein A [Paraburkholderi...  66.2    9e-013
+WP_039597926.1  iron transporter FeoA [Ralstonia sp. A12]             66.6    1e-012
+WP_022955160.1  ferrous iron transport protein A [Perlucidibaca p...  65.9    1e-012
+WP_042550196.1  iron transporter FeoA [Ralstonia solanacearum]        66.6    1e-012
+WP_007397025.1  ferrous iron transport protein A [Gluconacetobact...  65.9    1e-012
+WP_028220727.1  ferrous iron transport protein A [Paraburkholderi...  65.9    1e-012
+WP_075453863.1  iron transporter FeoA [Ralstonia solanacearum]        66.2    1e-012
+WP_039572262.1  iron transporter FeoA [Ralstonia solanacearum]        66.2    1e-012
+WP_003264367.1  iron transporter FeoA [Ralstonia solanacearum]        66.2    1e-012
+WP_013207594.1  ferrous iron transporter A (feoA) [Ralstonia sola...  66.2    1e-012
+WP_043352761.1  ferrous iron transport protein A [Cupriavidus bas...  66.2    1e-012
+WP_034926933.1  ferrous iron transport protein A [Komagataeibacte...  65.9    1e-012
+WP_048933719.1  iron transporter FeoA [Ralstonia sp. MD27]            66.2    1e-012
+WP_039736290.1  ferrous iron transport protein A [Komagataeibacte...  65.9    1e-012
+WP_074549948.1  ferrous iron transport protein A [Dyella jiangnin...  65.9    1e-012
+WP_014105918.1  ferrous iron transport protein A [Komagataeibacte...  65.9    1e-012
+WP_043103335.1  ferrous iron transport protein A [Oleiagrimonas s...  65.5    1e-012
+WP_066732618.1  ferrous iron transport protein A [Cupriavidus sp....  66.2    1e-012
+WP_072320764.1  ferrous iron transport protein A [Luteibacter sp....  65.5    2e-012
+WP_056003314.1  ferrous iron transport protein A [Frateuria sp. S...  65.5    2e-012
+WP_014618555.1  iron transporter FeoA [Ralstonia solanacearum]        65.9    2e-012
+WP_023263727.1  MULTISPECIES: ferrous iron transport protein A [C...  65.5    2e-012
+WP_029922125.1  iron transporter [Nevskia soli]                       65.1    2e-012
+WP_041228503.1  ferrous iron transport protein A [Cupriavidus nec...  65.9    2e-012
+WP_026200498.1  ferrous iron transport protein A [Cupriavidus sp....  65.9    2e-012
+WP_039580020.1  ferrous iron transport protein A [Xanthomonas pha...  65.1    2e-012
+WP_085316234.1  ferrous iron transport protein A [Derxia lacustris]   65.1    2e-012
+WP_061508345.1  ferrous iron transport protein A [Acetobacter mal...  65.5    2e-012
+WP_031328763.1  MULTISPECIES: iron transporter FeoA [Ralstonia]       65.5    2e-012
+WP_077930349.1  hypothetical protein [Acetobacter persici]            65.5    2e-012
+WP_048835843.1  ferrous iron transport protein A [Acetobacter orl...  65.5    2e-012
+WP_041680328.1  ferrous iron transport protein A [Cupriavidus pin...  65.5    2e-012
+WP_035820831.1  MULTISPECIES: ferrous iron transport protein A [B...  65.5    2e-012
+WP_026107420.1  ferrous iron transport protein A [Dyella ginsengi...  65.1    2e-012
+WP_027817020.1  ferrous iron transport protein A [Paraburkholderi...  65.1    2e-012
+WP_061505364.1  ferrous iron transport protein A [Acetobacter mal...  65.5    2e-012
+WP_028209673.1  ferrous iron transport protein A [Paraburkholderi...  65.1    2e-012
+WP_042880540.1  ferrous iron transport protein A [Cupriavidus nec...  65.5    2e-012
+WP_014630830.1  ferrous iron transporter A (feoA) [Ralstonia sola...  65.5    2e-012
+WP_063907888.1  ferrous iron transport protein A [Acetobacter mal...  65.1    2e-012
+WP_061491413.1  ferrous iron transport protein A [Acetobacter mal...  65.5    2e-012
+WP_062273889.1  ferrous iron transport protein A [Acetobacter cer...  65.5    3e-012
+WP_062142559.1  ferrous iron transport protein A [Acetobacter cer...  65.5    3e-012
+WP_025813674.1  ferrous iron transport protein A [Komagataeibacte...  64.7    3e-012
+WP_025829297.1  ferrous iron transport protein A [Acetobacter per...  65.5    3e-012
+WP_072572840.1  ferrous iron transport protein A [Granulibacter b...  64.7    3e-012
+WP_062809746.1  MULTISPECIES: ferrous iron transport protein A [K...  65.1    3e-012
+WP_043693742.1  ferrous iron transport protein A [Luteibacter sp....  64.7    3e-012
+WP_026636069.1  ferrous iron transport protein A [Dyella japonica]    64.7    3e-012
+WP_011003566.1  iron transporter FeoA [Ralstonia solanacearum]        65.1    3e-012
+WP_036113574.1  MULTISPECIES: ferrous iron transport protein A [L...  64.7    3e-012
+WP_045830410.1  ferrous iron transport protein A [Luteibacter yeo...  64.3    4e-012
+WP_040511287.1  ferrous iron transport protein A [Komagataeibacte...  64.7    4e-012
+WP_018604766.1  ferrous iron transport protein A [Uliginosibacter...  64.7    4e-012
+WP_046966652.1  ferrous iron transport protein A [Luteibacter rhi...  64.3    4e-012
+WP_028202605.1  ferrous iron transport protein A [Paraburkholderi...  64.3    4e-012
+WP_039415340.1  ferrous iron transport protein A [Xanthomonas can...  64.3    5e-012
+WP_010508194.1  ferrous iron transport protein A [Komagataeibacte...  64.3    5e-012
+WP_039007033.1  ferrous iron transport protein A [Cupriavidus sp....  64.7    5e-012
+WP_063674388.1  ferrous iron transport protein A [Dyella thiooxyd...  63.9    5e-012
+WP_072755780.1  ferrous iron transport protein A [Thermomonas hyd...  63.9    5e-012
+WP_013535315.1  ferrous iron transport protein A [Pseudoxanthomon...  63.9    6e-012
+WP_011632320.1  ferrous iron transport protein A [Granulibacter b...  63.9    6e-012
+WP_007081932.1  MULTISPECIES: ferrous iron transport protein A [R...  63.9    6e-012
+WP_002806424.1  ferrous iron transport protein A [Xanthomonas fra...  63.9    6e-012
+WP_025287024.1  ferrous iron transport protein A [Granulibacter b...  63.9    6e-012
+WP_055846464.1  ferrous iron transport protein A [Xanthomonas sp....  63.9    7e-012
+WP_003486267.1  MULTISPECIES: ferrous iron transport protein A [X...  63.9    7e-012
+WP_010367126.1  MULTISPECIES: ferrous iron transport protein A [X...  63.9    7e-012
+WP_039585314.1  ferrous iron transport protein A [Xanthomonas pha...  63.9    7e-012
+WP_039521376.1  ferrous iron transport protein A [Xanthomonas arb...  63.9    7e-012
+WP_075256187.1  ferrous iron transport protein A [Herbaspirillum ...  63.9    7e-012
+WP_051378946.1  ferrous iron transport protein A [Derxia gummosa]     63.9    7e-012
+WP_064050839.1  iron transporter FeoA [Ralstonia solanacearum]        64.3    7e-012
+WP_064634959.1  ferrous iron transport protein A [Xanthomonas sp....  63.9    7e-012
+WP_039421445.1  ferrous iron transport protein A [Xanthomonas ves...  63.9    7e-012
+WP_011518099.1  ferrous iron transport protein A [Cupriavidus met...  64.3    7e-012
+WP_029219700.1  ferrous iron transport protein A [Xanthomonas cas...  63.5    7e-012
+WP_016904358.1  MULTISPECIES: ferrous iron transport protein A [X...  63.5    7e-012
+WP_036141014.1  ferrous iron transport protein A [Luteibacter sp....  63.5    7e-012
+WP_019299991.1  ferrous iron transport protein A [Xanthomonas ory...  63.5    8e-012
+WP_024745421.1  ferrous iron transport protein A [Xanthomonas ory...  63.5    8e-012
+WP_013232135.1  ferrous iron transport protein A [Herbaspirillum ...  63.5    8e-012
+WP_077444712.1  ferrous iron transport protein A [Rhodanobacter s...  63.5    8e-012
+WP_043909609.1  ferrous iron transport protein A [Xanthomonas gar...  63.5    8e-012
+WP_038620204.1  ferrous iron transport protein A [Dyella jiangnin...  63.5    9e-012
+WP_008646172.1  MULTISPECIES: ferrous iron transport protein A [C...  63.9    9e-012
+WP_053823348.1  ferrous iron transport protein A [Cupriavidus gil...  63.5    1e-011
+WP_023451309.1  iron transporter [Asticcacaulis sp. AC402]            63.2    1e-011
+WP_070206771.1  ferrous iron transport protein A [Stenotrophomona...  63.5    1e-011
+WP_055823484.1  ferrous iron transport protein A [Xanthomonas sp....  63.2    1e-011
+WP_056880482.1  ferrous iron transport protein A [Pseudoxanthomon...  63.2    1e-011
+WP_010667156.1  ferrous iron transport protein A [Acetobacter aceti]  63.2    1e-011
+WP_011871000.1  ferrous iron transport protein A [Herminiimonas a...  63.9    1e-011
+WP_043889187.1  ferrous iron transport protein A [Xanthomonas hor...  63.2    1e-011
+WP_025439729.1  ferrous iron transport protein A [Komagataeibacte...  63.2    1e-011
+WP_026293132.1  iron transporter [Rudaea cellulosilytica]             63.2    1e-011
+WP_017909134.1  MULTISPECIES: iron transporter [Xanthomonas]          63.2    1e-011
+WP_077482169.1  ferrous iron transport protein A [Rhodanobacter s...  63.2    1e-011
+WP_072563530.1  ferrous iron transport protein A [Granulibacter b...  63.2    1e-011
+WP_017916265.1  MULTISPECIES: iron transporter [Xanthomonas]          62.8    1e-011
+WP_061275937.1  ferrous iron transport protein A [Komagataeibacte...  63.2    1e-011
+WP_053501713.1  ferrous iron transport protein A [Xanthomonas cam...  63.2    1e-011
+WP_011408865.1  ferrous iron transport protein A [Xanthomonas ory...  63.2    1e-011
+WP_019801429.1  iron transporter [Xanthomonas sacchari]               62.8    1e-011
+WP_069372715.1  ferrous iron transport protein A [Herbaspirillum ...  62.8    1e-011
+WP_026398333.1  ferrous iron transport protein A [Acetobacter nit...  62.8    2e-011
+WP_014503196.1  ferrous iron transport protein A [Xanthomonas ory...  62.8    2e-011
+WP_041687895.1  ferrous iron transport protein A [Cupriavidus nec...  63.5    2e-011
+WP_008486231.1  ferrous iron transport protein A [Gallaecimonas x...  62.8    2e-011
+WP_005312191.1  ferrous iron transport protein A [Acinetobacter s...  62.8    2e-011
+WP_013209309.1  iron transporter FeoA [Ralstonia solanacearum]        63.2    2e-011
+WP_078221948.1  iron transporter FeoA [blood disease bacterium A2...  63.2    2e-011
+WP_004281857.1  MULTISPECIES: ferrous iron transport protein A [A...  62.8    2e-011
+WP_055942540.1  ferrous iron transport protein A [Pseudoxanthomon...  62.8    2e-011
+WP_025320320.1  ferrous iron transport protein A [Granulibacter b...  62.8    2e-011
+WP_062248597.1  ferrous iron transport protein A [Acetobacter cer...  63.2    2e-011
+WP_062804019.1  ferrous iron transport protein A [Cupriavidus nan...  63.2    2e-011
+WP_023461749.1  ferrous iron transport protein A [Asticcacaulis s...  62.4    2e-011
+WP_078525774.1  ferrous iron transport protein A [Komagataeibacte...  62.4    2e-011
+WP_083664362.1  iron transporter [Herminiimonas sp. AS8]              62.8    2e-011
+WP_047011936.1  ferrous iron transport protein A [Spongiibacter s...  62.4    2e-011
+WP_005012519.1  ferrous iron transport protein A [Acinetobacter b...  62.4    2e-011
+WP_061534153.1  ferrous iron transport protein A [Collimonas arenae]  62.4    2e-011
+WP_001048221.1  MULTISPECIES: ferrous iron transport protein A [A...  62.4    2e-011
+WP_009690701.1  MULTISPECIES: ferrous iron transport protein A [B...  62.4    2e-011
+WP_026471970.1  ferrous iron transport protein A [Alkanindiges il...  62.4    2e-011
+WP_077811781.1  iron transporter [Acetobacter aceti]                  62.4    2e-011
+WP_065469297.1  ferrous iron transport protein A [Xanthomonas bromi]  62.4    3e-011
+WP_060246431.1  ferrous iron transport protein A [Burkholderia ps...  62.4    3e-011
+WP_050657581.1  ferrous iron transport protein A [Gallaecimonas p...  62.4    3e-011
+WP_031402528.1  MULTISPECIES: ferrous iron transport protein A [B...  62.4    3e-011
+WP_041741369.1  ferrous iron transport protein A [Collimonas fung...  62.4    3e-011
+WP_009585673.1  ferrous iron transport protein A [Acinetobacter s...  62.4    3e-011
+WP_043178562.1  ferrous iron transport protein A [Burkholderia ce...  62.4    3e-011
+WP_043799800.1  ferrous iron transport protein A [Arenimonas malt...  62.0    3e-011
+WP_035527804.1  ferrous iron transport protein A [Paraburkholderi...  62.4    3e-011
+WP_084593401.1  ferrous iron transport protein A [Acetobacter ind...  63.2    3e-011
+WP_039435182.1  ferrous iron transport protein A [Xanthomonas vas...  62.0    3e-011
+WP_028081564.1  ferrous iron transport protein A [Solimonas soli]     62.0    4e-011
+WP_006465337.1  MULTISPECIES: ferrous iron transport protein A [H...  62.0    4e-011
+WP_064508778.1  ferrous iron transport protein A [Xanthomonas sp....  62.0    4e-011
+WP_046962549.1  ferrous iron transport protein A [Xanthomonas pisi]   62.0    4e-011
+WP_086178442.1  ferrous iron transport protein A [Acinetobacter s...  62.0    4e-011
+WP_058951572.1  MULTISPECIES: ferrous iron transport protein A [A...  62.0    4e-011
+WP_063573239.1  ferrous iron transport protein A [Luteibacter rhi...  61.6    4e-011
+WP_082065163.1  ferrous iron transport protein A [Xanthomonas sp....  61.6    5e-011
+WP_023452714.1  ferrous iron transport protein A [Asticcacaulis s...  61.6    5e-011
+WP_026164180.1  ferrous iron transport protein A [Cupriavidus tai...  62.0    5e-011
+WP_062356082.1  iron transporter [Pseudoxanthomonas mexicana]         61.6    5e-011
+WP_045727715.1  ferrous iron transport protein A [Xanthomonas sp....  61.2    5e-011
+WP_034332290.1  MULTISPECIES: ferrous iron transport protein A [H...  61.6    6e-011
+WP_058988412.1  ferrous iron transport protein A [Acetobacter sen...  62.4    6e-011
+WP_012079689.1  iron transporter [Janthinobacterium sp. Marseille]    61.6    6e-011
+WP_006557492.1  ferrous iron transport protein A [Acetobacter tro...  62.4    6e-011
+WP_004722330.1  MULTISPECIES: ferrous iron transport protein A [A...  61.6    6e-011
+WP_052051161.1  ferrous iron transport protein A [Acetobacter tro...  62.4    6e-011
+WP_082786139.1  hypothetical protein [Acetobacter tropicalis]         62.4    6e-011
+WP_058893835.1  ferrous iron transport protein A [Herbaspirillum ...  61.6    6e-011
+WP_006273855.1  ferrous iron transport protein A [Asticcacaulis b...  61.2    6e-011
+WP_048837634.1  ferrous iron transport protein A [Acetobacter cib...  61.2    6e-011
+WP_061472290.1  ferrous iron transport protein A [Acetobacter sen...  62.4    7e-011
+WP_082741288.1  ferrous iron transport protein A [Acetobacter tro...  62.4    7e-011
+WP_061789874.1  ferrous iron transport protein A [Herbaspirillum ...  61.2    7e-011
+WP_029890765.1  ferrous iron transport protein A [Polycyclovorans...  61.2    7e-011
+WP_029045071.1  ferrous iron transport protein A [Cupriavidus sp....  62.0    7e-011
+WP_005220165.1  MULTISPECIES: ferrous iron transport protein A [A...  61.2    7e-011
+WP_012354936.1  ferrous iron transport protein A [Cupriavidus tai...  61.6    7e-011
+WP_008334004.1  ferrous iron transport protein A [Herbaspirillum ...  61.2    8e-011
+WP_008850202.1  ferrous iron transport protein A [Gluconobacter m...  60.8    8e-011
+WP_017511158.1  MULTISPECIES: ferrous iron transport protein A [C...  61.6    8e-011
+WP_004699719.1  MULTISPECIES: ferrous iron transport protein A [A...  61.2    8e-011
+WP_004655745.1  MULTISPECIES: ferrous iron transport protein A [A...  61.2    9e-011
+WP_005401419.1  ferrous iron transport protein A [Acinetobacter j...  61.2    9e-011
+WP_061942725.1  ferrous iron transport protein A [Collimonas prat...  60.8    9e-011
+WP_007481186.1  MULTISPECIES: ferrous iron transport protein A [A...  60.8    9e-011
+WP_079217356.1  ferrous iron transport protein A [Herbaspirillum ...  60.8    1e-010
+WP_057656405.1  iron transporter [Bordetella sp. N]                   60.8    1e-010
+WP_028838204.1  iron transporter [Thermomonas fusca]                  60.8    1e-010
+WP_004665962.1  MULTISPECIES: ferrous iron transport protein A [A...  60.8    1e-010
+WP_031339093.1  ferrous iron transport protein A [Xanthomonas mal...  60.8    1e-010
+WP_036136344.1  ferrous iron transport protein A [Lysobacter daej...  61.2    1e-010
+WP_063237701.1  ferrous iron transport protein A [Cupriavidus oxa...  61.2    1e-010
+WP_063454770.1  MULTISPECIES: ferrous iron transport protein A [A...  60.8    1e-010
+WP_042841140.1  ferrous iron transport protein A [Xanthomonas euv...  60.8    1e-010
+WP_081760145.1  ferrous iron transport protein A [Pseudoxanthomon...  60.8    1e-010
+WP_018679540.1  ferrous iron transport protein A [Acinetobacter t...  60.8    1e-010
+WP_005062735.1  ferrous iron transport protein A [Acinetobacter b...  60.8    1e-010
+WP_007185414.1  ferrous iron transport protein A [Hydrocarbonipha...  60.5    1e-010
+WP_011037004.1  ferrous iron transport protein A [Xanthomonas cam...  60.5    2e-010
+WP_016944573.1  ferrous iron transport protein A [Xanthomonas cam...  60.5    2e-010
+WP_048489085.1  iron transporter [Xanthomonas sp. NCPPB1128]          60.1    2e-010
+WP_028920259.1  ferrous iron transport protein A [Pseudoxanthomon...  60.5    2e-010
+WP_001048219.1  MULTISPECIES: ferrous iron transport protein A [A...  60.5    2e-010
+WP_006581705.1  ferrous iron transport protein A [Acinetobacter n...  60.5    2e-010
+WP_022967762.1  ferrous iron transport protein A [Arenimonas oryz...  60.1    2e-010
+WP_061539237.1  ferrous iron transport protein A [Collimonas fung...  60.1    2e-010
+WP_017452676.1  MULTISPECIES: ferrous iron transport protein A [H...  60.1    2e-010
+WP_001048216.1  MULTISPECIES: ferrous iron transport protein A [A...  60.1    2e-010
+WP_001048220.1  MULTISPECIES: ferrous iron transport protein A [A...  60.1    2e-010
+WP_001048218.1  MULTISPECIES: ferrous iron transport protein A [A...  60.1    2e-010
+WP_017385097.1  MULTISPECIES: ferrous iron transport protein A [A...  60.1    2e-010
+WP_009390681.1  ferrous iron transport protein A [Acinetobacter s...  60.1    2e-010
+WP_077806529.1  iron transporter [Neoasaia chiangmaiensis]            60.1    2e-010
+WP_032042369.1  MULTISPECIES: ferrous iron transport protein A [A...  60.1    2e-010
+WP_041270918.1  ferrous iron transport protein A [Frateuria auran...  60.1    2e-010
+WP_057049529.1  ferrous iron transport protein A [Acinetobacter b...  60.1    2e-010
+WP_081678096.1  hypothetical protein [Comamonadaceae bacterium UR...  60.5    2e-010
+WP_051235417.1  ferrous iron transport protein A [Lysobacter sp. ...  60.5    2e-010
+WP_047135237.1  hypothetical protein [Luteimonas sp. FCS-9]           59.7    3e-010
+WP_050468785.1  ferrous iron transport protein A [Herbaspirillum ...  59.7    3e-010
+WP_021358454.1  iron transporter [Xylella fastidiosa]                 59.3    3e-010
+WP_071838860.1  ferrous iron transport protein A [Tolypothrix cam...  59.3    4e-010
+WP_066095470.1  ferrous iron transport protein A [Xanthomonas mas...  59.3    4e-010
+WP_057657295.1  ferrous iron transport protein A [Pseudoxanthomon...  59.3    4e-010
+WP_029954062.1  ferrous iron transport protein A [Achromobacter s...  59.3    4e-010
+WP_020650178.1  ferrous iron transport protein A [Solimonas varii...  59.3    4e-010
+WP_061071227.1  ferrous iron transport protein A [Achromobacter x...  59.3    4e-010
+WP_034340931.1  ferrous iron transport protein A [Commensalibacte...  59.3    4e-010
+WP_081044376.1  ferrous iron transport protein A [Xylella fastidi...  58.9    5e-010
+WP_053833946.1  iron transporter [Xanthomonas translucens]            58.9    5e-010
+WP_003472012.1  ferrous iron transporter [Xanthomonas translucens]    58.9    5e-010
+WP_057972203.1  ferrous iron transport protein A [Lysobacter anti...  59.3    5e-010
+WP_003475128.1  ferrous iron transporter A [Xanthomonas translucens]  58.9    5e-010
+WP_053837864.1  iron transporter [Xanthomonas translucens]            58.9    5e-010
+WP_039005105.1  iron transporter [Xanthomonas translucens]            58.9    5e-010
+WP_010893451.1  iron transporter [Xylella fastidiosa]                 58.9    6e-010
+WP_070401838.1  ferrous iron transport protein A [Kozakia baliensis]  58.9    6e-010
+WP_044528010.1  ferrous iron transport protein A [Herbaspirillum ...  58.9    6e-010
+WP_001048217.1  ferrous iron transport protein A [Acinetobacter b...  58.9    6e-010
+WP_048841865.1  hypothetical protein [Acetobacter orientalis]         59.3    6e-010
+WP_009603527.1  ferrous iron transport protein A [Xanthomonas tra...  58.5    7e-010
+WP_053841058.1  iron transporter [Xanthomonas translucens]            58.5    7e-010
+WP_057918408.1  ferrous iron transport protein A [Lysobacter anti...  58.9    7e-010
+WP_072794932.1  ferrous iron transport protein A [Marinobacter an...  59.3    7e-010
+WP_064541951.1  iron transporter [Xanthomonas translucens]            58.5    7e-010
+WP_080939563.1  ferrous iron transport protein A [Xylella fastidi...  58.5    8e-010
+WP_039624324.1  ferrous iron transport protein A [Acinetobacter h...  58.5    8e-010
+WP_048387281.1  ferrous iron transport protein A [Marinobacter ps...  58.9    9e-010
+WP_031373349.1  ferrous iron transport protein A [Lysobacter anti...  58.5    9e-010
+WP_062309044.1  ferrous iron transport protein A [Polynucleobacte...  58.2    1e-009
+WP_038270479.1  iron transporter [Xylella taiwanensis]                58.2    1e-009
+WP_034212397.1  ferrous iron transport protein A [Arenimonas meta...  58.2    1e-009
+WP_067646357.1  ferrous iron transport protein A [Dokdonella kore...  58.2    1e-009
+WP_080928076.1  ferrous iron transport protein A [Xanthomonas alb...  58.2    1e-009
+WP_029603846.1  ferrous iron transport protein A [Kozakia baliensis]  58.2    1e-009
+WP_056803402.1  MULTISPECIES: ferrous iron transport protein A [R...  58.2    1e-009
+WP_075968116.1  hypothetical protein [Immundisolibacter cernigliae]   58.2    1e-009
+WP_004999929.1  ferrous iron transport protein A [Acinetobacter u...  57.8    2e-009
+WP_084282868.1  hypothetical protein [Polynucleobacter sp. VK13]      57.4    2e-009
+WP_081107367.1  iron transporter [Gluconobacter oxydans]              57.4    2e-009
+WP_073468805.1  ferrous iron transport protein A [Rhizobacter sp....  57.8    2e-009
+WP_082679928.1  hypothetical protein [Paucibacter sp. KCTC 42545]     57.8    2e-009
+WP_011252249.1  ferrous iron transport protein A [Gluconobacter o...  57.4    2e-009
+WP_064273487.1  ferrous iron transport protein A [Gluconobacter c...  57.4    2e-009
+WP_078996976.1  ferrous iron transport protein A [Lysobacter enzy...  57.0    3e-009
+WP_028006842.1  ferrous iron transport protein A [Solimonas flava]    57.0    3e-009
+WP_012486803.1  ferrous iron transport protein A [Cellvibrio japo...  57.4    3e-009
+WP_054019718.1  ferrous iron transport protein A [Ideonella sakai...  57.8    3e-009
+WP_046900211.1  ferrous iron transport protein A [Gluconobacter o...  57.0    3e-009
+WP_056130446.1  ferrous iron transport protein A [Lysobacter sp. ...  57.0    4e-009
+WP_025860985.1  ferrous iron transport protein A [Acetobacter pap...  57.4    4e-009
+WP_042115927.1  ferrous iron transport protein A [Pandoraea apista]   56.6    4e-009
+WP_058362242.1  iron transporter [Xanthomonas translucens]            56.6    4e-009
+WP_047589125.1  ferrous iron transport protein A [Methylibium sp....  56.6    4e-009
+WP_082793410.1  hypothetical protein [Ramlibacter tataouinensis]      57.0    4e-009
+WP_079494531.1  ferrous iron transport protein A [Burkholderia sp...  56.6    5e-009
+WP_019938165.1  hypothetical protein [Bordetella sp. FB-8]            57.0    5e-009
+WP_008854424.1  ferrous iron transport protein A [Commensalibacte...  56.6    5e-009
+WP_084073557.1  ferrous iron transport protein A [Lysobacter dokd...  56.6    6e-009
+WP_047508431.1  ferrous iron transport protein A [Methylibium sp....  56.2    6e-009
+WP_033846910.1  MULTISPECIES: ferrous iron transport protein A [A...  56.2    7e-009
+WP_055910229.1  MULTISPECIES: ferrous iron transport protein A [L...  56.2    8e-009
+WP_020851590.1  FeoA [Xylella fastidiosa]                             55.8    8e-009
+WP_009856802.1  ferrous iron transport protein A [Rubrivivax benz...  57.0    8e-009
+WP_007283472.1  MULTISPECIES: ferrous iron transporter A [Glucono...  55.8    8e-009
+WP_074867205.1  ferrous iron transport protein A [Lysobacter enzy...  55.8    9e-009
+WP_084635517.1  ferrous iron transport protein A [Pseudoxanthomon...  56.2    9e-009
+WP_050985573.1  ferrous iron transport protein A [Rubrivivax gela...  56.6    9e-009
+WP_017879555.1  ferrous iron transport protein A [Janthinobacteri...  56.2    9e-009
+WP_057942571.1  ferrous iron transport protein A [Lysobacter gumm...  55.8    1e-008
+WP_057947167.1  ferrous iron transport protein A [Lysobacter enzy...  55.8    1e-008
+WP_012735133.1  ferrous iron transport protein A [Burkholderia gl...  55.8    1e-008
+WP_036108417.1  ferrous iron transport protein A [Lysobacter caps...  55.5    1e-008
+WP_046656967.1  MULTISPECIES: ferrous iron transport protein A [L...  55.5    1e-008
+WP_019923636.1  ferrous iron transport protein A [Duganella zoogl...  55.5    2e-008
+WP_050465347.1  ferrous iron transport protein A [Herbaspirillum ...  55.5    2e-008
+WP_056173873.1  MULTISPECIES: ferrous iron transport protein A [L...  55.1    2e-008
+WP_042624327.1  MULTISPECIES: iron transporter [Burkholderia]         55.1    2e-008
+WP_082790610.1  iron transporter [Gluconobacter albidus]              54.7    2e-008
+WP_037339476.1  ferrous iron transport protein A [Salinisphaera h...  54.7    2e-008
+WP_025840529.1  ferrous iron transport protein A [Asaia platycodi]    54.7    2e-008
+WP_077802161.1  iron transporter [Gluconobacter albidus]              54.7    2e-008
+
+
+>WP_000281347.1 MULTISPECIES: ferrous iron transport protein A [Acinetobacter]
+Length=77
+
+ Score = 156 bits (395),  Expect = 8e-049, Method: Compositional matrix adjust.
+ Identities = 77/77 (100%), Positives = 77/77 (100%), Gaps = 0/77 (0%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGFTRF  60
+           MYLSDLNAQQRAIVTKVQASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGFTRF
+Sbjct  1   MYLSDLNAQQRAIVTKVQASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGFTRF  60
+
+Query  61  ALRKSEAKCIYVEGLNS  77
+           ALRKSEAKCIYVEGLNS
+Sbjct  61  ALRKSEAKCIYVEGLNS  77
+
+
+>WP_058952368.1 iron transporter [Acinetobacter johnsonii]
+Length=77
+
+ Score = 145 bits (365),  Expect = 4e-044, Method: Compositional matrix adjust.
+ Identities = 69/77 (90%), Positives = 74/77 (96%), Gaps = 0/77 (0%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGFTRF  60
+           MYLSDLNAQQRAIVTKVQ S IL+NRLETLGFIP AEVRVITKGIFGGDPILVQ+GFTRF
+Sbjct  1   MYLSDLNAQQRAIVTKVQGSSILTNRLETLGFIPHAEVRVITKGIFGGDPILVQVGFTRF  60
+
+Query  61  ALRKSEAKCIYVEGLNS  77
+           ALRKSEA+CI+VEGL+S
+Sbjct  61  ALRKSEAQCIHVEGLSS  77
+
+
+>WP_068908063.1 ferrous iron transport protein A [Acinetobacter sp. WCHA34]
+Length=85
+
+ Score = 99.4 bits (246),  Expect = 8e-026, Method: Compositional matrix adjust.
+ Identities = 51/82 (62%), Positives = 62/82 (76%), Gaps = 8/82 (10%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ--------ASLILSNRLETLGFIPQAEVRVITKGIFGGDPIL  52
+           M LSDL  +Q AI+ KV          + I+++RLETLGFIP  EV+VITKGIFGGDPIL
+Sbjct  1   MRLSDLKVKQSAIIQKVHRIQNGQNSQADIVASRLETLGFIPGTEVQVITKGIFGGDPIL  60
+
+Query  53  VQIGFTRFALRKSEAKCIYVEG  74
+           +QIGFTRFALRK+EA+ I +EG
+Sbjct  61  IQIGFTRFALRKTEAEKIEIEG  82
+
+
+>WP_005013373.1 ferrous iron transport protein A [Acinetobacter bouvetii]
+Length=84
+
+ Score = 97.8 bits (242),  Expect = 3e-025, Method: Compositional matrix adjust.
+ Identities = 52/82 (63%), Positives = 62/82 (76%), Gaps = 9/82 (11%)
+
+Query  1   MYLSDLNAQQRAIVTKV--------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPIL  52
+           M LSDL  +Q AI+ KV        QA L+ + RLETLGFIP  +V+VITKGIFGGDPIL
+Sbjct  1   MRLSDLKVKQSAIIQKVHRIEDERSQADLV-AGRLETLGFIPGTKVQVITKGIFGGDPIL  59
+
+Query  53  VQIGFTRFALRKSEAKCIYVEG  74
+           +QIGFTRFALRK+EA+ I +EG
+Sbjct  60  IQIGFTRFALRKAEAQKIEIEG  81
+
+
+>WP_067672746.1 ferrous iron transport protein A [Acinetobacter sp. ANC 4149]
+Length=84
+
+ Score = 97.8 bits (242),  Expect = 3e-025, Method: Compositional matrix adjust.
+ Identities = 52/82 (63%), Positives = 62/82 (76%), Gaps = 9/82 (11%)
+
+Query  1   MYLSDLNAQQRAIVTKV--------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPIL  52
+           M LSDL  +Q AI+ KV        QA L+ + RLETLGFIP  +V+VITKGIFGGDPIL
+Sbjct  1   MRLSDLKVKQSAIIQKVHRIEDERSQADLV-AGRLETLGFIPGTKVQVITKGIFGGDPIL  59
+
+Query  53  VQIGFTRFALRKSEAKCIYVEG  74
+           +QIGFTRFALRK+EA+ I +EG
+Sbjct  60  IQIGFTRFALRKAEAEKIEIEG  81
+
+
+>WP_004787267.1 MULTISPECIES: ferrous iron transport protein A [Acinetobacter]
+Length=86
+
+ Score = 96.7 bits (239),  Expect = 8e-025, Method: Compositional matrix adjust.
+ Identities = 48/81 (59%), Positives = 61/81 (75%), Gaps = 8/81 (10%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASL--------ILSNRLETLGFIPQAEVRVITKGIFGGDPIL  52
+           M LSDL A+Q AI+ KV  +         ++++RLETLGF+P  +V+VITKGIFGGDPIL
+Sbjct  1   MRLSDLKAKQTAIIRKVNRTTDGKGASHDVVASRLETLGFVPGTQVQVITKGIFGGDPIL  60
+
+Query  53  VQIGFTRFALRKSEAKCIYVE  73
+           +Q+GFTRFALRKSEA  I +E
+Sbjct  61  IQVGFTRFALRKSEAAKIEIE  81
+
+
+>WP_064094654.1 MULTISPECIES: ferrous iron transport protein A [Acinetobacter]
+Length=86
+
+ Score = 96.3 bits (238),  Expect = 1e-024, Method: Compositional matrix adjust.
+ Identities = 48/81 (59%), Positives = 61/81 (75%), Gaps = 8/81 (10%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASL--------ILSNRLETLGFIPQAEVRVITKGIFGGDPIL  52
+           M LSDL A+Q AI+ KV  +         ++++RLETLGF+P  +V+VITKGIFGGDPIL
+Sbjct  1   MRLSDLKAKQTAIIRKVSRTADGEGALNDVVASRLETLGFVPGTKVQVITKGIFGGDPIL  60
+
+Query  53  VQIGFTRFALRKSEAKCIYVE  73
+           +Q+GFTRFALRKSEA  I +E
+Sbjct  61  IQVGFTRFALRKSEAAKIEIE  81
+
+
+>WP_004810128.1 MULTISPECIES: ferrous iron transport protein A [Acinetobacter]
+Length=86
+
+ Score = 95.9 bits (237),  Expect = 1e-024, Method: Compositional matrix adjust.
+ Identities = 48/81 (59%), Positives = 60/81 (74%), Gaps = 8/81 (10%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASL--------ILSNRLETLGFIPQAEVRVITKGIFGGDPIL  52
+           M LSDL  +Q AI+ KV  +         ++++RLETLGF+P  EV+VITKGIFGGDPIL
+Sbjct  1   MRLSDLKVKQTAIIRKVNRTTDGEGAQHDVVASRLETLGFVPGTEVQVITKGIFGGDPIL  60
+
+Query  53  VQIGFTRFALRKSEAKCIYVE  73
+           +Q+GFTRFALRKSEA  I +E
+Sbjct  61  IQVGFTRFALRKSEAAKIEIE  81
+
+
+>WP_005248420.1 ferrous iron transport protein A [Acinetobacter sp. CIP 51.11]
+Length=86
+
+ Score = 95.5 bits (236),  Expect = 2e-024, Method: Compositional matrix adjust.
+ Identities = 48/81 (59%), Positives = 61/81 (75%), Gaps = 8/81 (10%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASL--------ILSNRLETLGFIPQAEVRVITKGIFGGDPIL  52
+           M LSDL A+Q AI+ KV  +         ++++RLETLGF+P  +V+VITKGIFGGDPIL
+Sbjct  1   MRLSDLKAKQIAIIRKVSRTTDGESALHDVVASRLETLGFVPGTQVQVITKGIFGGDPIL  60
+
+Query  53  VQIGFTRFALRKSEAKCIYVE  73
+           +Q+GFTRFALRKSEA  I +E
+Sbjct  61  IQVGFTRFALRKSEAAKIEIE  81
+
+
+>WP_035264089.1 ferrous iron transport protein A [Acinetobacter sp. Ver3]
+Length=83
+
+ Score = 95.5 bits (236),  Expect = 2e-024, Method: Compositional matrix adjust.
+ Identities = 45/83 (54%), Positives = 66/83 (80%), Gaps = 6/83 (7%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASL------ILSNRLETLGFIPQAEVRVITKGIFGGDPILVQ  54
+           M LSDL  +Q AI+T+V  ++      ++++RLETLGF+   +V+VITKG+FGGDPIL+Q
+Sbjct  1   MRLSDLKVKQSAIITQVHRTVDGTSTDMVASRLETLGFVAGTKVQVITKGLFGGDPILIQ  60
+
+Query  55  IGFTRFALRKSEAKCIYVEGLNS  77
+           +GFTRFALRK+EA+ I +EG+++
+Sbjct  61  VGFTRFALRKNEAQKIEIEGVSA  83
+
+
+>WP_004281065.1 MULTISPECIES: ferrous iron transport protein A [Acinetobacter]
+Length=86
+
+ Score = 95.5 bits (236),  Expect = 2e-024, Method: Compositional matrix adjust.
+ Identities = 48/81 (59%), Positives = 61/81 (75%), Gaps = 8/81 (10%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASL--------ILSNRLETLGFIPQAEVRVITKGIFGGDPIL  52
+           M LSDL A+Q AI+ KV  +         ++++RLETLGF+P  +V+VITKGIFGGDPIL
+Sbjct  1   MRLSDLKAKQIAIIRKVSRTTDGESALHDVVASRLETLGFVPGTKVQVITKGIFGGDPIL  60
+
+Query  53  VQIGFTRFALRKSEAKCIYVE  73
+           +Q+GFTRFALRKSEA  I +E
+Sbjct  61  IQVGFTRFALRKSEAAKIEIE  81
+
+
+>WP_068889306.1 ferrous iron transport protein A [Acinetobacter celticus]
+Length=85
+
+ Score = 95.5 bits (236),  Expect = 2e-024, Method: Compositional matrix adjust.
+ Identities = 53/83 (64%), Positives = 60/83 (72%), Gaps = 10/83 (12%)
+
+Query  1   MYLSDLNAQQRAIVTKV---------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPI  51
+           M LSDL  +Q AI+ KV         QA L+ S RLETLGFIP   V+VITKGIFGGDPI
+Sbjct  1   MRLSDLKVKQSAIIQKVHRLENEQNAQADLVAS-RLETLGFIPGTTVQVITKGIFGGDPI  59
+
+Query  52  LVQIGFTRFALRKSEAKCIYVEG  74
+           L+QIGFTRFALRK EA+ I +EG
+Sbjct  60  LIQIGFTRFALRKIEAEKIEIEG  82
+
+
+>WP_005101473.1 MULTISPECIES: ferrous iron transport protein A [Acinetobacter]
+Length=86
+
+ Score = 95.5 bits (236),  Expect = 3e-024, Method: Compositional matrix adjust.
+ Identities = 48/81 (59%), Positives = 61/81 (75%), Gaps = 8/81 (10%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASL--------ILSNRLETLGFIPQAEVRVITKGIFGGDPIL  52
+           M LSDL A+Q AI+ KV  +         ++++RLETLGF+P  +V+VITKGIFGGDPIL
+Sbjct  1   MRLSDLKAKQIAIIRKVSRTADGESALHDVVASRLETLGFVPGTKVQVITKGIFGGDPIL  60
+
+Query  53  VQIGFTRFALRKSEAKCIYVE  73
+           +Q+GFTRFALRKSEA  I +E
+Sbjct  61  IQVGFTRFALRKSEAAKIEIE  81
+
+
+>WP_086174140.1 ferrous iron transport protein A [Acinetobacter sp. ANC 3903]
+Length=86
+
+ Score = 95.1 bits (235),  Expect = 3e-024, Method: Compositional matrix adjust.
+ Identities = 47/81 (58%), Positives = 62/81 (77%), Gaps = 8/81 (10%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASL--------ILSNRLETLGFIPQAEVRVITKGIFGGDPIL  52
+           M LSDL  +Q AI++KV  +L        ++++RLETLGF+P  +V+VITKGIFGGDPIL
+Sbjct  1   MRLSDLKVKQTAIISKVNRTLDGDTAQTDLVASRLETLGFVPGTKVQVITKGIFGGDPIL  60
+
+Query  53  VQIGFTRFALRKSEAKCIYVE  73
+           +Q+GFTRFALRK EA+ I +E
+Sbjct  61  IQVGFTRFALRKVEAEKIEIE  81
+
+
+>WP_034169774.1 ferrous iron transport protein A [Acinetobacter sp. YZS-X1-1]
+Length=86
+
+ Score = 94.7 bits (234),  Expect = 5e-024, Method: Compositional matrix adjust.
+ Identities = 47/81 (58%), Positives = 60/81 (74%), Gaps = 8/81 (10%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASL--------ILSNRLETLGFIPQAEVRVITKGIFGGDPIL  52
+           M LSDL  +Q AI+ KV  +         ++++RLETLGF+P  +V+VITKGIFGGDPIL
+Sbjct  1   MRLSDLKVKQTAIIRKVNRTTDGKGASHDVVASRLETLGFVPGTQVQVITKGIFGGDPIL  60
+
+Query  53  VQIGFTRFALRKSEAKCIYVE  73
+           +Q+GFTRFALRKSEA  I +E
+Sbjct  61  IQVGFTRFALRKSEAAKIEIE  81
+
+
+>WP_067731740.1 ferrous iron transport protein A [Acinetobacter sp. NCu2D-2]
+Length=85
+
+ Score = 94.7 bits (234),  Expect = 5e-024, Method: Compositional matrix adjust.
+ Identities = 47/80 (59%), Positives = 62/80 (78%), Gaps = 7/80 (9%)
+
+Query  1   MYLSDLNAQQRAIVTKVQAS-------LILSNRLETLGFIPQAEVRVITKGIFGGDPILV  53
+           M LS+L A+Q AI+ KV  +        ++++RLETLGF+P  +V+VITKGIFGGDPIL+
+Sbjct  1   MRLSELKAKQTAIIRKVNRANGEGNHHDVVASRLETLGFVPGTQVQVITKGIFGGDPILI  60
+
+Query  54  QIGFTRFALRKSEAKCIYVE  73
+           Q+GFTRFALRKSEA+ I +E
+Sbjct  61  QVGFTRFALRKSEAEKIEIE  80
+
+
+>WP_005233486.1 ferrous iron transport protein A [Acinetobacter sp. NIPH 2171]
+Length=86
+
+ Score = 94.4 bits (233),  Expect = 6e-024, Method: Compositional matrix adjust.
+ Identities = 47/81 (58%), Positives = 60/81 (74%), Gaps = 8/81 (10%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASL--------ILSNRLETLGFIPQAEVRVITKGIFGGDPIL  52
+           M LSDL  +Q AI+ KV  +         ++++RLETLGF+P  +V+VITKGIFGGDPIL
+Sbjct  1   MRLSDLKVKQTAIIRKVNRTTDGKGAFHDVVASRLETLGFVPGTQVQVITKGIFGGDPIL  60
+
+Query  53  VQIGFTRFALRKSEAKCIYVE  73
+           +Q+GFTRFALRKSEA  I +E
+Sbjct  61  IQVGFTRFALRKSEAAKIEIE  81
+
+
+>WP_054580482.1 ferrous iron transport protein A [Acinetobacter equi]
+Length=85
+
+ Score = 94.0 bits (232),  Expect = 8e-024, Method: Compositional matrix adjust.
+ Identities = 45/85 (53%), Positives = 63/85 (74%), Gaps = 8/85 (9%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASL--------ILSNRLETLGFIPQAEVRVITKGIFGGDPIL  52
+           M LSDL  +Q A++ KV  +         ++++RLETLGF+P  +V+VITKGIFGGDPIL
+Sbjct  1   MRLSDLKVKQTAVIQKVHRTTGGSNSETDLIASRLETLGFVPGTKVQVITKGIFGGDPIL  60
+
+Query  53  VQIGFTRFALRKSEAKCIYVEGLNS  77
+           +Q+GFTRFALRK EA+ + +EG ++
+Sbjct  61  IQVGFTRFALRKIEAEKVEIEGASA  85
+
+
+>WP_086195419.1 ferrous iron transport protein A [Acinetobacter sp. ANC 4218]
+Length=86
+
+ Score = 94.0 bits (232),  Expect = 1e-023, Method: Compositional matrix adjust.
+ Identities = 47/81 (58%), Positives = 61/81 (75%), Gaps = 8/81 (10%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASL--------ILSNRLETLGFIPQAEVRVITKGIFGGDPIL  52
+           M LSDL  +Q AI+ KV  +L        ++++RLETLGF+P  +V+VITKGIFGGDPIL
+Sbjct  1   MRLSDLKVKQTAIIRKVNRTLNGDTAQTDLVASRLETLGFVPGTKVQVITKGIFGGDPIL  60
+
+Query  53  VQIGFTRFALRKSEAKCIYVE  73
+           +Q+GFTRFALRK EA+ I +E
+Sbjct  61  IQVGFTRFALRKVEAEKIEIE  81
+
+
+>WP_034587559.1 ferrous iron transport protein A [Acinetobacter sp. HR7]
+Length=86
+
+ Score = 93.6 bits (231),  Expect = 1e-023, Method: Compositional matrix adjust.
+ Identities = 47/81 (58%), Positives = 60/81 (74%), Gaps = 8/81 (10%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASL--------ILSNRLETLGFIPQAEVRVITKGIFGGDPIL  52
+           M LS+L  +Q AI+ K+  +         ++++RLETLGF+P  EV+VITKGIFGGDPIL
+Sbjct  1   MRLSELKVKQTAIIRKINRTTDGEGAQHNVVASRLETLGFVPGTEVQVITKGIFGGDPIL  60
+
+Query  53  VQIGFTRFALRKSEAKCIYVE  73
+           +QIGFTRFALRKSEA  I +E
+Sbjct  61  IQIGFTRFALRKSEAAKIEIE  81
+
+
+>WP_086191742.1 ferrous iron transport protein A [Acinetobacter sp. ANC 3832]
+Length=93
+
+ Score = 93.6 bits (231),  Expect = 1e-023, Method: Compositional matrix adjust.
+ Identities = 49/80 (61%), Positives = 60/80 (75%), Gaps = 8/80 (10%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASL--------ILSNRLETLGFIPQAEVRVITKGIFGGDPIL  52
+           M LS+L  +Q AI+TKV  +L        ++++RLETLGFIP A V+VITKGIFGGDPIL
+Sbjct  1   MRLSELKVKQTAIITKVNRALDDDSSHPDLVASRLETLGFIPGASVQVITKGIFGGDPIL  60
+
+Query  53  VQIGFTRFALRKSEAKCIYV  72
+           +QIGFTRFALRK EA  I +
+Sbjct  61  IQIGFTRFALRKVEAGKIEI  80
+
+
+>WP_053580266.1 ferrous iron transport protein A [Acinetobacter sp. TTH0-4]
+Length=87
+
+ Score = 93.2 bits (230),  Expect = 2e-023, Method: Compositional matrix adjust.
+ Identities = 46/81 (57%), Positives = 61/81 (75%), Gaps = 8/81 (10%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASL--------ILSNRLETLGFIPQAEVRVITKGIFGGDPIL  52
+           M LSDL  +Q AI++KV  +L        ++++RLETLGF+P  +V+VITKGIFGGDPIL
+Sbjct  1   MRLSDLKVKQTAIISKVNRTLEAGISEHDLVASRLETLGFVPGTKVQVITKGIFGGDPIL  60
+
+Query  53  VQIGFTRFALRKSEAKCIYVE  73
+           +Q+GFTRFALRK EA+ I + 
+Sbjct  61  IQVGFTRFALRKVEAEKIDIH  81
+
+
+>WP_065995143.1 ferrous iron transport protein A [Acinetobacter sp. WCHA30]
+Length=89
+
+ Score = 92.8 bits (229),  Expect = 3e-023, Method: Compositional matrix adjust.
+ Identities = 46/81 (57%), Positives = 61/81 (75%), Gaps = 8/81 (10%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASL--------ILSNRLETLGFIPQAEVRVITKGIFGGDPIL  52
+           M LS+L  +Q AI+TKV  +L        ++++RLETLGF+P   V+VITKGIFGGDPIL
+Sbjct  1   MRLSELKVKQTAIITKVNRTLADNTSQTDLVASRLETLGFVPGTTVQVITKGIFGGDPIL  60
+
+Query  53  VQIGFTRFALRKSEAKCIYVE  73
+           +QIGFTRFALRK EA+ + ++
+Sbjct  61  IQIGFTRFALRKVEAEKVEID  81
+
+
+>WP_005017133.1 MULTISPECIES: ferrous iron transport protein A [Acinetobacter]
+Length=87
+
+ Score = 92.4 bits (228),  Expect = 4e-023, Method: Compositional matrix adjust.
+ Identities = 45/80 (56%), Positives = 62/80 (78%), Gaps = 8/80 (10%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASL--------ILSNRLETLGFIPQAEVRVITKGIFGGDPIL  52
+           M LS+L  +Q AI+TKV  +L        ++++RLETLGF+P  +V+VITKG+FGGDPIL
+Sbjct  1   MRLSELKVKQTAIITKVNRTLDGTSEQSDLVASRLETLGFVPGTQVQVITKGLFGGDPIL  60
+
+Query  53  VQIGFTRFALRKSEAKCIYV  72
+           +QIGFTRFALR++EA+ I +
+Sbjct  61  IQIGFTRFALRRAEAEKIEI  80
+
+
+>WP_086199582.1 ferrous iron transport protein A [Acinetobacter sp. ANC 4169]
+Length=105
+
+ Score = 92.8 bits (229),  Expect = 4e-023, Method: Compositional matrix adjust.
+ Identities = 46/79 (58%), Positives = 61/79 (77%), Gaps = 8/79 (10%)
+
+Query  3   LSDLNAQQRAIVTKVQASL--------ILSNRLETLGFIPQAEVRVITKGIFGGDPILVQ  54
+           LSDL  +Q AI++KV  +L        ++++RLETLGF+P  +V+VITKGIFGGDPIL+Q
+Sbjct  22  LSDLKVKQTAIISKVNRTLDGDTAQTDLVASRLETLGFVPGTKVQVITKGIFGGDPILIQ  81
+
+Query  55  IGFTRFALRKSEAKCIYVE  73
+           +GFTRFALRK EA+ I +E
+Sbjct  82  VGFTRFALRKVEAEKIEIE  100
+
+
+>WP_004975713.1 ferrous iron transport protein A [Acinetobacter towneri]
+Length=86
+
+ Score = 92.4 bits (228),  Expect = 4e-023, Method: Compositional matrix adjust.
+ Identities = 47/81 (58%), Positives = 61/81 (75%), Gaps = 8/81 (10%)
+
+Query  1   MYLSDLNAQQRAIVTKV--------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPIL  52
+           M LS+L A+Q AI+ +V          S +++NRLETLGF+P  +V+VITKGIFGGDPIL
+Sbjct  1   MRLSELKAKQTAIIRQVLRTADGGTSLSDLVANRLETLGFVPGTQVQVITKGIFGGDPIL  60
+
+Query  53  VQIGFTRFALRKSEAKCIYVE  73
+           +Q+GFTRFALRK EA+ I +E
+Sbjct  61  IQVGFTRFALRKVEAERIEIE  81
+
+
+>WP_086214481.1 ferrous iron transport protein A [Acinetobacter sp. ANC 3813]
+Length=86
+
+ Score = 92.0 bits (227),  Expect = 5e-023, Method: Compositional matrix adjust.
+ Identities = 45/80 (56%), Positives = 62/80 (78%), Gaps = 7/80 (9%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASL-------ILSNRLETLGFIPQAEVRVITKGIFGGDPILV  53
+           M LSDL  +Q AI++KV  +L       ++++RLETLGF+   +V+VITKGIFGGDPIL+
+Sbjct  1   MRLSDLKVKQTAIISKVNRTLDGETQTDLVASRLETLGFVAGTKVQVITKGIFGGDPILI  60
+
+Query  54  QIGFTRFALRKSEAKCIYVE  73
+           Q+GFTRFALRK+EA+ I ++
+Sbjct  61  QVGFTRFALRKAEAEKIEIQ  80
+
+
+>WP_004868148.1 ferrous iron transport protein A [Acinetobacter gerneri]
+Length=89
+
+ Score = 91.7 bits (226),  Expect = 1e-022, Method: Compositional matrix adjust.
+ Identities = 47/79 (59%), Positives = 61/79 (77%), Gaps = 7/79 (9%)
+
+Query  1   MYLSDLNAQQRAIVTKV------QASL-ILSNRLETLGFIPQAEVRVITKGIFGGDPILV  53
+           M LS+L  +Q A +TKV      + SL ++++RLETLGF+P  +V+VITKG FGGDPIL+
+Sbjct  1   MRLSELKVKQTATITKVNRLNDAETSLDMVASRLETLGFVPGTQVKVITKGFFGGDPILI  60
+
+Query  54  QIGFTRFALRKSEAKCIYV  72
+           QIGFTRFALRKSEA+ I +
+Sbjct  61  QIGFTRFALRKSEAEKIEI  79
+
+
+>WP_004902555.1 ferrous iron transport protein A [Acinetobacter brisouii]
+Length=86
+
+ Score = 91.3 bits (225),  Expect = 1e-022, Method: Compositional matrix adjust.
+ Identities = 48/80 (60%), Positives = 59/80 (74%), Gaps = 9/80 (11%)
+
+Query  1   MYLSDLNAQQRAIVTKV--------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPIL  52
+           M LSDL  +Q A++TKV        +A LI S RLETLGFIP   V+V+ KGIFGGDP+L
+Sbjct  1   MRLSDLKVKQTAVITKVNRQTVDDGKADLIAS-RLETLGFIPGTPVKVVAKGIFGGDPLL  59
+
+Query  53  VQIGFTRFALRKSEAKCIYV  72
+           +QIGFTRFALRK+EA+ I +
+Sbjct  60  IQIGFTRFALRKAEAQKIEI  79
+
+
+>WP_045793271.1 ferrous iron transport protein A [Acinetobacter brisouii]
+Length=85
+
+ Score = 91.3 bits (225),  Expect = 1e-022, Method: Compositional matrix adjust.
+ Identities = 48/80 (60%), Positives = 59/80 (74%), Gaps = 9/80 (11%)
+
+Query  1   MYLSDLNAQQRAIVTKV--------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPIL  52
+           M LSDL  +Q A++TKV        +A LI S RLETLGFIP   V+V+ KGIFGGDP+L
+Sbjct  1   MRLSDLKVKQAAVITKVNRETVDDGKADLIAS-RLETLGFIPGTPVKVVAKGIFGGDPLL  59
+
+Query  53  VQIGFTRFALRKSEAKCIYV  72
+           +QIGFTRFALRK+EA+ I +
+Sbjct  60  IQIGFTRFALRKAEAQKIEI  79
+
+
+>WP_067558136.1 ferrous iron transport protein A [Acinetobacter larvae]
+Length=87
+
+ Score = 90.9 bits (224),  Expect = 1e-022, Method: Compositional matrix adjust.
+ Identities = 46/83 (55%), Positives = 61/83 (73%), Gaps = 7/83 (8%)
+
+Query  1   MYLSDLNAQQRAIVTKV------QASL-ILSNRLETLGFIPQAEVRVITKGIFGGDPILV  53
+           M LSDL  +Q A++T+V       + L ++++RLETLGF+P   VRVITKGIFGGDPIL+
+Sbjct  1   MRLSDLKVKQTAVITEVLRDSESDSHLDMIASRLETLGFVPGTRVRVITKGIFGGDPILI  60
+
+Query  54  QIGFTRFALRKSEAKCIYVEGLN  76
+           Q+GFTRFALRK EA  I +  ++
+Sbjct  61  QVGFTRFALRKVEAAKIKITDVD  83
+
+
+>WP_086202545.1 ferrous iron transport protein A [Acinetobacter sp. ANC 4999]
+Length=93
+
+ Score = 91.3 bits (225),  Expect = 1e-022, Method: Compositional matrix adjust.
+ Identities = 45/80 (56%), Positives = 60/80 (75%), Gaps = 8/80 (10%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASL--------ILSNRLETLGFIPQAEVRVITKGIFGGDPIL  52
+           M LS+L  +Q AI++KV  +L        ++++RLETLGF+P   V+VITKGIFGGDPIL
+Sbjct  1   MRLSELKVKQTAIISKVNRTLSDNSSSPDLIASRLETLGFVPGTSVQVITKGIFGGDPIL  60
+
+Query  53  VQIGFTRFALRKSEAKCIYV  72
+           +Q+GFTRFALRK EA+ I +
+Sbjct  61  IQVGFTRFALRKVEAEKIEI  80
+
+
+>WP_010591216.1 MULTISPECIES: ferrous iron transport protein A [Acinetobacter]
+Length=89
+
+ Score = 90.9 bits (224),  Expect = 2e-022, Method: Compositional matrix adjust.
+ Identities = 49/82 (60%), Positives = 58/82 (71%), Gaps = 10/82 (12%)
+
+Query  1   MYLSDLNAQQRAIVTKV---------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPI  51
+           M LSDL  +Q AI++KV         Q  L+ S RLETLGF+P   V+VITKGIFGGDPI
+Sbjct  1   MRLSDLKVKQTAIISKVSRTSEDNVNQPDLVAS-RLETLGFVPGTRVQVITKGIFGGDPI  59
+
+Query  52  LVQIGFTRFALRKSEAKCIYVE  73
+           L+QIGFTRFALRK EA+ I + 
+Sbjct  60  LIQIGFTRFALRKVEAQKIEIH  81
+
+
+>WP_004749922.1 ferrous iron transport protein A [Acinetobacter sp. ANC 3789]
+Length=86
+
+ Score = 90.5 bits (223),  Expect = 2e-022, Method: Compositional matrix adjust.
+ Identities = 47/80 (59%), Positives = 59/80 (74%), Gaps = 9/80 (11%)
+
+Query  1   MYLSDLNAQQRAIVTKV--------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPIL  52
+           M LSDL  +Q A++TKV        +A LI S RLETLGFIP   V+V+ KG+FGGDP+L
+Sbjct  1   MRLSDLKVKQAAVITKVNRQTVDDGKADLIAS-RLETLGFIPGTPVKVVAKGVFGGDPLL  59
+
+Query  53  VQIGFTRFALRKSEAKCIYV  72
+           +QIGFTRFALRK+EA+ I +
+Sbjct  60  IQIGFTRFALRKAEAQKIEI  79
+
+
+>WP_019838134.1 MULTISPECIES: ferrous iron transport protein A [Acinetobacter]
+Length=86
+
+ Score = 90.5 bits (223),  Expect = 3e-022, Method: Compositional matrix adjust.
+ Identities = 48/81 (59%), Positives = 61/81 (75%), Gaps = 8/81 (10%)
+
+Query  1   MYLSDLNAQQRAIVTKV------QASL--ILSNRLETLGFIPQAEVRVITKGIFGGDPIL  52
+           M LS+L A+Q AI+ +V        SL  +++NRLETLGF+P   V+VITKGIFGGDPIL
+Sbjct  1   MRLSELKAKQTAIIRQVLRTADGATSLNDLVANRLETLGFVPGTPVQVITKGIFGGDPIL  60
+
+Query  53  VQIGFTRFALRKSEAKCIYVE  73
+           +Q+GFTRFALRK EA+ I +E
+Sbjct  61  IQVGFTRFALRKVEAQRIEIE  81
+
+
+>WP_081406178.1 ferrous iron transport protein A [Acinetobacter sp. SFC]
+Length=114
+
+ Score = 91.3 bits (225),  Expect = 3e-022, Method: Compositional matrix adjust.
+ Identities = 45/79 (57%), Positives = 61/79 (77%), Gaps = 8/79 (10%)
+
+Query  3    LSDLNAQQRAIVTKVQASL--------ILSNRLETLGFIPQAEVRVITKGIFGGDPILVQ  54
+            LSDL  +Q AI++KV  +L        ++++RLETLGF+P  +V+VITKGIFGGDPIL+Q
+Sbjct  30   LSDLKVKQTAIISKVNRTLDGNNSQNDLVASRLETLGFVPGTKVQVITKGIFGGDPILIQ  89
+
+Query  55   IGFTRFALRKSEAKCIYVE  73
+            +GFTRFALRK EA+ I ++
+Sbjct  90   VGFTRFALRKVEAEKIEID  108
+
+
+>WP_016168477.1 ferrous iron transport protein A [Acinetobacter tandoii]
+Length=87
+
+ Score = 90.1 bits (222),  Expect = 4e-022, Method: Compositional matrix adjust.
+ Identities = 45/81 (56%), Positives = 58/81 (72%), Gaps = 8/81 (10%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASL--------ILSNRLETLGFIPQAEVRVITKGIFGGDPIL  52
+           M LSDL  +Q AI+  V+  +        ++++RLETLGF+P   V+V+TKGIFGGDPIL
+Sbjct  1   MLLSDLKVKQTAIIRNVKRHVDGDAVQTDLIASRLETLGFVPGTSVQVVTKGIFGGDPIL  60
+
+Query  53  VQIGFTRFALRKSEAKCIYVE  73
+           +Q+GFTRFALRK EA  I VE
+Sbjct  61  IQVGFTRFALRKVEAAKIEVE  81
+
+
+>WP_081408373.1 ferrous iron transport protein A [Acinetobacter sp. SFB]
+Length=114
+
+ Score = 90.5 bits (223),  Expect = 4e-022, Method: Compositional matrix adjust.
+ Identities = 44/79 (56%), Positives = 60/79 (76%), Gaps = 8/79 (10%)
+
+Query  3    LSDLNAQQRAIVTKVQASL--------ILSNRLETLGFIPQAEVRVITKGIFGGDPILVQ  54
+            LSDL  +Q AI++KV  +L        ++++RLETLGF+P  +V+VITKG+FGGDPIL+Q
+Sbjct  30   LSDLKVKQTAIISKVNKTLDGNISQNDLVASRLETLGFVPGTKVKVITKGVFGGDPILIQ  89
+
+Query  55   IGFTRFALRKSEAKCIYVE  73
+            +GFTRFALRK EA+ I + 
+Sbjct  90   VGFTRFALRKVEAEKIEIN  108
+
+
+>WP_086182845.1 ferrous iron transport protein A [Acinetobacter sp. ANC 4558]
+Length=87
+
+ Score = 89.7 bits (221),  Expect = 5e-022, Method: Compositional matrix adjust.
+ Identities = 47/80 (59%), Positives = 56/80 (70%), Gaps = 8/80 (10%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASLILSN--------RLETLGFIPQAEVRVITKGIFGGDPIL  52
+           M LSDL  +Q AI+ KV  S   SN        RLETLGF+P   V+VITKGIFGGDPIL
+Sbjct  1   MRLSDLKVKQTAIIQKVHRSENSSNSEADLIASRLETLGFVPGTTVQVITKGIFGGDPIL  60
+
+Query  53  VQIGFTRFALRKSEAKCIYV  72
+           +Q+GFTRFALRK EA+ + +
+Sbjct  61  IQVGFTRFALRKIEAEKVEI  80
+
+
+>WP_067655155.1 ferrous iron transport protein A [Acinetobacter sp. TGL-Y2]
+Length=86
+
+ Score = 89.7 bits (221),  Expect = 5e-022, Method: Compositional matrix adjust.
+ Identities = 48/82 (59%), Positives = 58/82 (71%), Gaps = 10/82 (12%)
+
+Query  1   MYLSDLNAQQRAIVTKV---------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPI  51
+           M LSDL  +++ ++ KV         Q  L+ S RLETLGFIP   V+VITKGIFGGDPI
+Sbjct  1   MRLSDLKVKEKGVIVKVNRHSQDAQTQPDLVAS-RLETLGFIPGTAVQVITKGIFGGDPI  59
+
+Query  52  LVQIGFTRFALRKSEAKCIYVE  73
+           L+QIGFTRFALRK EA+ I +E
+Sbjct  60  LIQIGFTRFALRKIEAEKIEIE  81
+
+
+>WP_005001807.1 ferrous iron transport protein A [Acinetobacter ursingii]
+Length=88
+
+ Score = 89.4 bits (220),  Expect = 6e-022, Method: Compositional matrix adjust.
+ Identities = 45/80 (56%), Positives = 60/80 (75%), Gaps = 8/80 (10%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASL--------ILSNRLETLGFIPQAEVRVITKGIFGGDPIL  52
+           M LS+L  +Q AI+TKV  ++        ++++RLETLGF+P  +V VITKG+FGGDPIL
+Sbjct  1   MRLSELKVKQTAIITKVNRTVDGNADQQDLVASRLETLGFVPGEKVEVITKGVFGGDPIL  60
+
+Query  53  VQIGFTRFALRKSEAKCIYV  72
+           VQ+GFTRFALRK EA+ I +
+Sbjct  61  VQLGFTRFALRKIEAEKIEI  80
+
+
+>WP_086193079.1 ferrous iron transport protein A [Acinetobacter sp. ANC 4655]
+Length=114
+
+ Score = 90.1 bits (222),  Expect = 6e-022, Method: Compositional matrix adjust.
+ Identities = 45/79 (57%), Positives = 60/79 (76%), Gaps = 8/79 (10%)
+
+Query  3    LSDLNAQQRAIVTKVQASL--------ILSNRLETLGFIPQAEVRVITKGIFGGDPILVQ  54
+            LSDL  +Q AI++KV  +L        ++++RLETLGF+P  +V+VITKGIFGGDPIL+Q
+Sbjct  30   LSDLKVKQTAIISKVNRTLDGNNSQNDLVASRLETLGFVPGTKVQVITKGIFGGDPILIQ  89
+
+Query  55   IGFTRFALRKSEAKCIYVE  73
+            +GFTRFALRK EA+ I + 
+Sbjct  90   VGFTRFALRKVEAEKIEIN  108
+
+
+>WP_078189444.1 MULTISPECIES: ferrous iron transport protein A [Acinetobacter]
+Length=87
+
+ Score = 89.4 bits (220),  Expect = 7e-022, Method: Compositional matrix adjust.
+ Identities = 43/80 (54%), Positives = 59/80 (74%), Gaps = 8/80 (10%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ--------ASLILSNRLETLGFIPQAEVRVITKGIFGGDPIL  52
+           M LSDL  +Q A++ KV          + ++++RLETLGF+P  +V+VITKGIFGGDPIL
+Sbjct  1   MRLSDLKVKQSAVIHKVHRNQNGNNAPADLVASRLETLGFVPGTKVQVITKGIFGGDPIL  60
+
+Query  53  VQIGFTRFALRKSEAKCIYV  72
+           +Q+GFTRFALRK EA+ + +
+Sbjct  61  IQVGFTRFALRKVEAEKVEI  80
+
+
+>WP_086179803.1 ferrous iron transport protein A [Acinetobacter sp. ANC 5054]
+Length=87
+
+ Score = 89.4 bits (220),  Expect = 7e-022, Method: Compositional matrix adjust.
+ Identities = 44/80 (55%), Positives = 59/80 (74%), Gaps = 8/80 (10%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ--------ASLILSNRLETLGFIPQAEVRVITKGIFGGDPIL  52
+           M LSDL  +Q A++ KV          + ++++RLETLGF+P  +V+VITKGIFGGDPIL
+Sbjct  1   MRLSDLKVKQSAVIHKVHRNQNGNDVQTDLVASRLETLGFVPGTKVQVITKGIFGGDPIL  60
+
+Query  53  VQIGFTRFALRKSEAKCIYV  72
+           +QIGFTRFALRK EA+ + +
+Sbjct  61  IQIGFTRFALRKIEAEKVEI  80
+
+
+>WP_004718380.1 MULTISPECIES: ferrous iron transport protein A [Acinetobacter]
+Length=89
+
+ Score = 89.4 bits (220),  Expect = 7e-022, Method: Compositional matrix adjust.
+ Identities = 48/82 (59%), Positives = 57/82 (70%), Gaps = 10/82 (12%)
+
+Query  1   MYLSDLNAQQRAIVTKV---------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPI  51
+           M LSDL  +Q AI+ KV         Q  L+ S RLETLGF+P   V+VITKG+FGGDPI
+Sbjct  1   MRLSDLKVKQTAIIAKVNRTSQDNVNQPDLVAS-RLETLGFVPGTRVQVITKGVFGGDPI  59
+
+Query  52  LVQIGFTRFALRKSEAKCIYVE  73
+           L+QIGFTRFALRK EA+ I + 
+Sbjct  60  LIQIGFTRFALRKIEAEKIEIH  81
+
+
+>WP_004650053.1 ferrous iron transport protein A [Acinetobacter bohemicus]
+Length=114
+
+ Score = 89.7 bits (221),  Expect = 9e-022, Method: Compositional matrix adjust.
+ Identities = 45/78 (58%), Positives = 59/78 (76%), Gaps = 8/78 (10%)
+
+Query  3    LSDLNAQQRAIVTKVQASL--------ILSNRLETLGFIPQAEVRVITKGIFGGDPILVQ  54
+            LSDL  +Q AI+ KV  +L        ++++RLETLGF+P  +V+VITKGIFGGDPIL+Q
+Sbjct  30   LSDLKVKQTAIIHKVNRTLDGNLAQNDVVASRLETLGFVPGTKVQVITKGIFGGDPILIQ  89
+
+Query  55   IGFTRFALRKSEAKCIYV  72
+            +GFTRFALRK EA+ I +
+Sbjct  90   VGFTRFALRKVEAEKIEI  107
+
+
+>WP_067763128.1 ferrous iron transport protein A [Acinetobacter gandensis]
+Length=87
+
+ Score = 89.0 bits (219),  Expect = 9e-022, Method: Compositional matrix adjust.
+ Identities = 43/80 (54%), Positives = 59/80 (74%), Gaps = 8/80 (10%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ--------ASLILSNRLETLGFIPQAEVRVITKGIFGGDPIL  52
+           M LSDL  +Q A++ KV          + ++++RLETLGF+P  +V+VITKGIFGGDPIL
+Sbjct  1   MRLSDLKVKQNAVIHKVHRNQNGDGSQTDMVASRLETLGFVPGTKVQVITKGIFGGDPIL  60
+
+Query  53  VQIGFTRFALRKSEAKCIYV  72
+           +Q+GFTRFALRK EA+ + +
+Sbjct  61  IQVGFTRFALRKIEAEKVEI  80
+
+
+>WP_034594829.1 MULTISPECIES: ferrous iron transport protein A [Acinetobacter]
+Length=86
+
+ Score = 89.0 bits (219),  Expect = 1e-021, Method: Compositional matrix adjust.
+ Identities = 44/80 (55%), Positives = 60/80 (75%), Gaps = 7/80 (9%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASL-------ILSNRLETLGFIPQAEVRVITKGIFGGDPILV  53
+           M LS L  +Q A++TKV  S+       +++ RLE+LGF+P  +V+V+TKGIFGGDPIL+
+Sbjct  1   MRLSALKVKQTAMITKVNRSVDETEHADLVAVRLESLGFVPGTQVQVVTKGIFGGDPILI  60
+
+Query  54  QIGFTRFALRKSEAKCIYVE  73
+           QIGFTRFALRK+EA  I ++
+Sbjct  61  QIGFTRFALRKAEADKIEIQ  80
+
+
+>WP_004995342.1 MULTISPECIES: ferrous iron transport protein A [Acinetobacter]
+Length=88
+
+ Score = 89.0 bits (219),  Expect = 1e-021, Method: Compositional matrix adjust.
+ Identities = 44/80 (55%), Positives = 60/80 (75%), Gaps = 8/80 (10%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASL--------ILSNRLETLGFIPQAEVRVITKGIFGGDPIL  52
+           M LS+L  +Q AI+TKV  ++        ++++RLETLGF+P  ++ VITKG+FGGDPIL
+Sbjct  1   MRLSELKVKQTAIITKVNRTVDGNADQQDLVASRLETLGFVPGEKIEVITKGVFGGDPIL  60
+
+Query  53  VQIGFTRFALRKSEAKCIYV  72
+           VQ+GFTRFALRK EA+ I +
+Sbjct  61  VQLGFTRFALRKIEAEKIEI  80
+
+
+>WP_086322678.1 Fe2+ transporter protein A [Acinetobacter sp. WCHA60]
+Length=119
+
+ Score = 89.7 bits (221),  Expect = 1e-021, Method: Compositional matrix adjust.
+ Identities = 45/79 (57%), Positives = 60/79 (76%), Gaps = 8/79 (10%)
+
+Query  3    LSDLNAQQRAIVTKVQASL--------ILSNRLETLGFIPQAEVRVITKGIFGGDPILVQ  54
+            LSDL  +Q AI++KV  ++        ++++RLETLGF+P  +V+VITKGIFGGDPIL+Q
+Sbjct  33   LSDLKVKQTAIISKVNRTVSDNVNQPDLVASRLETLGFVPGTQVQVITKGIFGGDPILIQ  92
+
+Query  55   IGFTRFALRKSEAKCIYVE  73
+            IGFTRFALRK EA  I ++
+Sbjct  93   IGFTRFALRKVEAARIEIQ  111
+
+
+>WP_074946996.1 ferrous iron transport protein A [Acinetobacter bohemicus]
+Length=114
+
+ Score = 89.7 bits (221),  Expect = 1e-021, Method: Compositional matrix adjust.
+ Identities = 45/78 (58%), Positives = 59/78 (76%), Gaps = 8/78 (10%)
+
+Query  3    LSDLNAQQRAIVTKVQASL--------ILSNRLETLGFIPQAEVRVITKGIFGGDPILVQ  54
+            LSDL  +Q AI+ KV  +L        ++++RLETLGF+P  +V+VITKGIFGGDPIL+Q
+Sbjct  30   LSDLKVKQTAIIHKVNRTLDGNLAQNDVVASRLETLGFVPGTKVQVITKGIFGGDPILIQ  89
+
+Query  55   IGFTRFALRKSEAKCIYV  72
+            +GFTRFALRK EA+ I +
+Sbjct  90   VGFTRFALRKVEAEKIEI  107
+
+
+>WP_038343481.1 ferrous iron transport protein A [Acinetobacter sp. A47]
+Length=86
+
+ Score = 88.2 bits (217),  Expect = 2e-021, Method: Compositional matrix adjust.
+ Identities = 45/81 (56%), Positives = 60/81 (74%), Gaps = 9/81 (11%)
+
+Query  1   MYLSDLNAQQRAIVTKV--------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPIL  52
+           M LS L  +QRA++TKV        Q  L+ + RLE+LGF+P  +V+V+TKGIFGGDPIL
+Sbjct  1   MRLSALKVKQRAVITKVNRLVDETGQPDLV-AVRLESLGFVPGTQVQVVTKGIFGGDPIL  59
+
+Query  53  VQIGFTRFALRKSEAKCIYVE  73
+           +Q+GFTRFALRK+EA  I ++
+Sbjct  60  IQLGFTRFALRKAEADKIEIQ  80
+
+
+>WP_086207078.1 ferrous iron transport protein A [Acinetobacter sp. ANC 4648]
+Length=93
+
+ Score = 88.2 bits (217),  Expect = 2e-021, Method: Compositional matrix adjust.
+ Identities = 44/80 (55%), Positives = 59/80 (74%), Gaps = 8/80 (10%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ--------ASLILSNRLETLGFIPQAEVRVITKGIFGGDPIL  52
+           M LS+L  +Q AI++KV         +  ++++RLETLGF+P   V+VITKGIFGGDPIL
+Sbjct  1   MRLSELKVKQTAIISKVNRTSDDNLSSPDLIASRLETLGFVPGTAVQVITKGIFGGDPIL  60
+
+Query  53  VQIGFTRFALRKSEAKCIYV  72
+           +Q+GFTRFALRK EA+ I +
+Sbjct  61  IQVGFTRFALRKVEAEKIEI  80
+
+
+>WP_004920704.1 MULTISPECIES: ferrous iron transport protein A [Acinetobacter]
+Length=87
+
+ Score = 87.8 bits (216),  Expect = 3e-021, Method: Compositional matrix adjust.
+ Identities = 44/80 (55%), Positives = 58/80 (73%), Gaps = 8/80 (10%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASL--------ILSNRLETLGFIPQAEVRVITKGIFGGDPIL  52
+           M LS+L  +Q AI+T V  +L         ++NRLETLGF+P  +V+++TKG+FGGDPIL
+Sbjct  1   MRLSELRVKQTAIITAVDHTLDGNTDQRDPIANRLETLGFVPGEKVQIVTKGVFGGDPIL  60
+
+Query  53  VQIGFTRFALRKSEAKCIYV  72
+           VQ+GFTRFALRK EA  I +
+Sbjct  61  VQLGFTRFALRKVEAAKIQI  80
+
+
+>WP_086187340.1 ferrous iron transport protein A [Acinetobacter sp. ANC 4470]
+Length=114
+
+ Score = 88.6 bits (218),  Expect = 3e-021, Method: Compositional matrix adjust.
+ Identities = 45/78 (58%), Positives = 59/78 (76%), Gaps = 8/78 (10%)
+
+Query  3    LSDLNAQQRAIVTKVQASL--------ILSNRLETLGFIPQAEVRVITKGIFGGDPILVQ  54
+            LSDL  +Q A ++KV  +L        ++++RLETLGF+P  +V+VITKGIFGGDPIL+Q
+Sbjct  30   LSDLKVKQTATISKVNRTLDGNLVQNDVVASRLETLGFVPGIKVQVITKGIFGGDPILIQ  89
+
+Query  55   IGFTRFALRKSEAKCIYV  72
+            IGFTRFALRK EA+ I +
+Sbjct  90   IGFTRFALRKVEAEKIEI  107
+
+
+>WP_004674296.1 MULTISPECIES: ferrous iron transport protein A [Acinetobacter]
+Length=86
+
+ Score = 87.8 bits (216),  Expect = 3e-021, Method: Compositional matrix adjust.
+ Identities = 46/81 (57%), Positives = 60/81 (74%), Gaps = 9/81 (11%)
+
+Query  1   MYLSDLNAQQRAIVTKV--------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPIL  52
+           M LS L  +Q AI+TKV        Q  L+ + RLE+LGF+P  +V+VITKG+FGGDPIL
+Sbjct  1   MRLSALKVKQTAIITKVNRLVDETGQPDLV-AVRLESLGFVPGTQVQVITKGVFGGDPIL  59
+
+Query  53  VQIGFTRFALRKSEAKCIYVE  73
+           +QIGFTRFALRK+EA+ I ++
+Sbjct  60  IQIGFTRFALRKTEAEKIEIQ  80
+
+
+>WP_004762363.1 ferrous iron transport protein A [Acinetobacter sp. CIP 102129]
+Length=86
+
+ Score = 87.8 bits (216),  Expect = 3e-021, Method: Compositional matrix adjust.
+ Identities = 46/81 (57%), Positives = 60/81 (74%), Gaps = 9/81 (11%)
+
+Query  1   MYLSDLNAQQRAIVTKV--------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPIL  52
+           M LS L  +Q AI+TKV        Q  L+ + RLE+LGF+P  +V+VITKG+FGGDPIL
+Sbjct  1   MRLSALKVKQTAIITKVNRLIDETGQPDLV-AVRLESLGFVPGTQVQVITKGVFGGDPIL  59
+
+Query  53  VQIGFTRFALRKSEAKCIYVE  73
+           +QIGFTRFALRK+EA+ I ++
+Sbjct  60  IQIGFTRFALRKTEAEKIEIQ  80
+
+
+>WP_017394530.1 MULTISPECIES: ferrous iron transport protein A [Acinetobacter]
+Length=86
+
+ Score = 87.4 bits (215),  Expect = 3e-021, Method: Compositional matrix adjust.
+ Identities = 44/80 (55%), Positives = 60/80 (75%), Gaps = 7/80 (9%)
+
+Query  1   MYLSDLNAQQRAIVTKV-------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILV  53
+           M LS L  +Q A++TKV       + + +++ RLE+LGF+P  +V+VITKGIFGGDPIL+
+Sbjct  1   MRLSALKVKQTAMITKVNRLVDDTEQTDLVAVRLESLGFVPGTQVQVITKGIFGGDPILI  60
+
+Query  54  QIGFTRFALRKSEAKCIYVE  73
+           QIGFTRFALRK+EA  I ++
+Sbjct  61  QIGFTRFALRKAEADKIEIQ  80
+
+
+>WP_029574464.1 ferrous iron transport protein A [Acinetobacter sp. P8-3-8]
+Length=89
+
+ Score = 87.4 bits (215),  Expect = 4e-021, Method: Compositional matrix adjust.
+ Identities = 44/81 (54%), Positives = 58/81 (72%), Gaps = 8/81 (10%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASL--------ILSNRLETLGFIPQAEVRVITKGIFGGDPIL  52
+           M LSDL  +Q AI++KV  +         ++++RLETLGF+    V+VITKG+FGGDPIL
+Sbjct  1   MRLSDLKVKQTAIISKVNRTTEDNDNQPDLVASRLETLGFVAGTRVQVITKGVFGGDPIL  60
+
+Query  53  VQIGFTRFALRKSEAKCIYVE  73
+           +Q+GFTRFALRK EA  I +E
+Sbjct  61  IQVGFTRFALRKIEAAKIEIE  81
+
+
+>WP_017395045.1 ferrous iron transport protein A [Acinetobacter haemolyticus]
+Length=86
+
+ Score = 87.0 bits (214),  Expect = 5e-021, Method: Compositional matrix adjust.
+ Identities = 43/80 (54%), Positives = 60/80 (75%), Gaps = 7/80 (9%)
+
+Query  1   MYLSDLNAQQRAIVTKV-------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILV  53
+           M LS L  +Q A++TKV       + + +++ RLE+LGF+P  +V+VITKG+FGGDPIL+
+Sbjct  1   MRLSALKVKQTAMITKVNRLVDDTEQTDLVAVRLESLGFVPGTQVQVITKGVFGGDPILI  60
+
+Query  54  QIGFTRFALRKSEAKCIYVE  73
+           QIGFTRFALRK+EA  I ++
+Sbjct  61  QIGFTRFALRKAEADKIEIQ  80
+
+
+>WP_023273556.1 ferrous iron transport protein A [Acinetobacter nectaris]
+Length=86
+
+ Score = 87.0 bits (214),  Expect = 5e-021, Method: Compositional matrix adjust.
+ Identities = 45/86 (52%), Positives = 62/86 (72%), Gaps = 9/86 (10%)
+
+Query  1   MYLSDLNAQQRAIVTKV-------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILV  53
+           M LS+L  +Q A++ K+       +   ++++RLETLGF+P   V++I +GIFGGDPIL+
+Sbjct  1   MLLSELKVKQAAVIQKINHLDSTDEKGDLIASRLETLGFLPGTLVKIIARGIFGGDPILI  60
+
+Query  54  QIGFTRFALRKSEAKCIYV--EGLNS  77
+           QIGFTRFALRKSEA+ I V  EG +S
+Sbjct  61  QIGFTRFALRKSEAEKIEVNKEGAHS  86
+
+
+>WP_005181588.1 MULTISPECIES: ferrous iron transport protein A [Acinetobacter]
+Length=86
+
+ Score = 87.0 bits (214),  Expect = 6e-021, Method: Compositional matrix adjust.
+ Identities = 42/81 (52%), Positives = 60/81 (74%), Gaps = 8/81 (10%)
+
+Query  1   MYLSDLNAQQRAIVTKV--------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPIL  52
+           M LS+L  +Q AI+ ++          + ++++RLETLGF+P   V+VITKG+FGGDPIL
+Sbjct  1   MRLSELKVKQTAIIRQIIRQDEGGESHNDLVASRLETLGFVPGTRVQVITKGVFGGDPIL  60
+
+Query  53  VQIGFTRFALRKSEAKCIYVE  73
+           +Q+GFTRFALRK+EA+ I +E
+Sbjct  61  IQVGFTRFALRKNEAEKIEIE  81
+
+
+>WP_045796496.1 ferrous iron transport protein A [Acinetobacter indicus]
+Length=86
+
+ Score = 86.7 bits (213),  Expect = 6e-021, Method: Compositional matrix adjust.
+ Identities = 42/81 (52%), Positives = 60/81 (74%), Gaps = 8/81 (10%)
+
+Query  1   MYLSDLNAQQRAIVTKV--------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPIL  52
+           M LS+L  +Q AI+ ++          + ++++RLETLGF+P   V+VITKG+FGGDPIL
+Sbjct  1   MRLSELKVKQTAIIRQIIRQGEGGESHNDLVASRLETLGFVPGTRVQVITKGVFGGDPIL  60
+
+Query  53  VQIGFTRFALRKSEAKCIYVE  73
+           +Q+GFTRFALRK+EA+ I +E
+Sbjct  61  IQVGFTRFALRKNEAEKIEIE  81
+
+
+>WP_086209766.1 ferrous iron transport protein A [Acinetobacter sp. ANC 4204]
+Length=113
+
+ Score = 87.8 bits (216),  Expect = 6e-021, Method: Compositional matrix adjust.
+ Identities = 43/78 (55%), Positives = 60/78 (77%), Gaps = 7/78 (9%)
+
+Query  3    LSDLNAQQRAIVTKVQASL-------ILSNRLETLGFIPQAEVRVITKGIFGGDPILVQI  55
+            LSDL  +Q AI++KV  +L       ++++RLETLGF+   +V+VITKG+FGGDPIL+Q+
+Sbjct  30   LSDLKVKQTAIISKVNRTLDGEAQTDLVASRLETLGFVAGTKVQVITKGVFGGDPILIQV  89
+
+Query  56   GFTRFALRKSEAKCIYVE  73
+            GFTRFALRK EA+ I ++
+Sbjct  90   GFTRFALRKVEAEKIEIQ  107
+
+
+>WP_005050848.1 ferrous iron transport protein A [Acinetobacter beijerinckii]
+Length=86
+
+ Score = 86.7 bits (213),  Expect = 6e-021, Method: Compositional matrix adjust.
+ Identities = 44/80 (55%), Positives = 59/80 (74%), Gaps = 7/80 (9%)
+
+Query  1   MYLSDLNAQQRAIVTKV-------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILV  53
+           M LS L  +Q A++TKV       +   +++ RLE+LGF+P  +V+VITKGIFGGDPIL+
+Sbjct  1   MRLSALKVKQTAMITKVNRLVDEAEQPDLVAVRLESLGFVPGTQVQVITKGIFGGDPILI  60
+
+Query  54  QIGFTRFALRKSEAKCIYVE  73
+           QIGFTRFALRK+EA  I ++
+Sbjct  61  QIGFTRFALRKTEADKIEIQ  80
+
+
+>WP_075167822.1 ferrous iron transport protein A [Acinetobacter indicus]
+Length=86
+
+ Score = 86.7 bits (213),  Expect = 7e-021, Method: Compositional matrix adjust.
+ Identities = 42/81 (52%), Positives = 59/81 (73%), Gaps = 8/81 (10%)
+
+Query  1   MYLSDLNAQQRAIVTKV--------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPIL  52
+           M LS+L  +Q AI+  +          + ++++RLETLGF+P   V+VITKG+FGGDPIL
+Sbjct  1   MRLSELKVKQTAIIRHIIRQDEGGESHNDLVASRLETLGFVPGTRVQVITKGVFGGDPIL  60
+
+Query  53  VQIGFTRFALRKSEAKCIYVE  73
+           +Q+GFTRFALRK+EA+ I +E
+Sbjct  61  IQVGFTRFALRKNEAEKIEIE  81
+
+
+>WP_005226344.1 MULTISPECIES: ferrous iron transport protein A [Acinetobacter]
+Length=86
+
+ Score = 86.7 bits (213),  Expect = 7e-021, Method: Compositional matrix adjust.
+ Identities = 44/80 (55%), Positives = 59/80 (74%), Gaps = 7/80 (9%)
+
+Query  1   MYLSDLNAQQRAIVTKV-------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILV  53
+           M LS L  +Q A++TKV       Q   +++ RLE+LGF+P  +V+VITKGIFGGDPIL+
+Sbjct  1   MRLSALKVKQIAVITKVDRLVDETQQPDLVAVRLESLGFVPGTQVQVITKGIFGGDPILI  60
+
+Query  54  QIGFTRFALRKSEAKCIYVE  73
+           Q+GFTRFALRK+EA  I ++
+Sbjct  61  QLGFTRFALRKAEADKIEIQ  80
+
+
+>WP_004876359.1 ferrous iron transport protein A [Acinetobacter venetianus]
+Length=86
+
+ Score = 86.7 bits (213),  Expect = 8e-021, Method: Compositional matrix adjust.
+ Identities = 43/80 (54%), Positives = 60/80 (75%), Gaps = 7/80 (9%)
+
+Query  1   MYLSDLNAQQRAIVTKV-------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILV  53
+           M LS L  +Q A++TKV       +   +++ RLE+LGF+P  +V+VITKG+FGGDPIL+
+Sbjct  1   MRLSALKVKQTAMITKVNRLVDDSEQPDLVAIRLESLGFVPGTQVQVITKGVFGGDPILI  60
+
+Query  54  QIGFTRFALRKSEAKCIYVE  73
+           QIGFTRFALRK+EA+ I ++
+Sbjct  61  QIGFTRFALRKTEAEKIEIQ  80
+
+
+>WP_004692826.1 MULTISPECIES: ferrous iron transport protein A [Acinetobacter]
+Length=113
+
+ Score = 87.4 bits (215),  Expect = 8e-021, Method: Compositional matrix adjust.
+ Identities = 43/78 (55%), Positives = 59/78 (76%), Gaps = 7/78 (9%)
+
+Query  3    LSDLNAQQRAIVTKVQASL-------ILSNRLETLGFIPQAEVRVITKGIFGGDPILVQI  55
+            LSDL  +Q AI+ KV  +L       ++++RLETLGF+   +V+VITKG+FGGDPIL+Q+
+Sbjct  30   LSDLKVKQTAIINKVNHTLDGEAQTDLVASRLETLGFVAGTKVQVITKGVFGGDPILIQV  89
+
+Query  56   GFTRFALRKSEAKCIYVE  73
+            GFTRFALRK EA+ I ++
+Sbjct  90   GFTRFALRKVEAEKIEIQ  107
+
+
+>WP_007480191.1 MULTISPECIES: ferrous iron transport protein A [Acinetobacter]
+Length=86
+
+ Score = 86.7 bits (213),  Expect = 8e-021, Method: Compositional matrix adjust.
+ Identities = 43/80 (54%), Positives = 60/80 (75%), Gaps = 7/80 (9%)
+
+Query  1   MYLSDLNAQQRAIVTKV-------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILV  53
+           M LS L  +Q A++TKV       +   +++ RLE+LGF+P  +V+VITKG+FGGDPIL+
+Sbjct  1   MRLSALKVKQTAMITKVNRLVDDSEQPDLVAIRLESLGFVPGTQVQVITKGVFGGDPILI  60
+
+Query  54  QIGFTRFALRKSEAKCIYVE  73
+           QIGFTRFALRK+EA+ I ++
+Sbjct  61  QIGFTRFALRKTEAEKIEIQ  80
+
+
+>WP_034600743.1 MULTISPECIES: ferrous iron transport protein A [Acinetobacter]
+Length=86
+
+ Score = 86.3 bits (212),  Expect = 9e-021, Method: Compositional matrix adjust.
+ Identities = 44/80 (55%), Positives = 59/80 (74%), Gaps = 7/80 (9%)
+
+Query  1   MYLSDLNAQQRAIVTKV-------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILV  53
+           M LS L  +Q A++TKV       +   +++ RLE+LGF+P  +V+VITKGIFGGDPIL+
+Sbjct  1   MRLSALKVKQTAMITKVNRLVDDTEQPDLVAIRLESLGFVPGTQVQVITKGIFGGDPILI  60
+
+Query  54  QIGFTRFALRKSEAKCIYVE  73
+           QIGFTRFALRK+EA  I ++
+Sbjct  61  QIGFTRFALRKTEADKIEIQ  80
+
+
+>WP_034602880.1 ferrous iron transport protein A [Acinetobacter sp. NIPH 284]
+Length=86
+
+ Score = 86.3 bits (212),  Expect = 9e-021, Method: Compositional matrix adjust.
+ Identities = 44/80 (55%), Positives = 59/80 (74%), Gaps = 7/80 (9%)
+
+Query  1   MYLSDLNAQQRAIVTKV-------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILV  53
+           M LS L  +Q A++TKV       +   +++ RLE+LGF+P  +V+VITKGIFGGDPIL+
+Sbjct  1   MRLSALKVKQTAMITKVNRLVDDAEQPDLVAIRLESLGFVPGTQVQVITKGIFGGDPILI  60
+
+Query  54  QIGFTRFALRKSEAKCIYVE  73
+           QIGFTRFALRK+EA  I ++
+Sbjct  61  QIGFTRFALRKTEADKIEIQ  80
+
+
+>WP_018679148.1 ferrous iron transport protein A [Acinetobacter tjernbergiae]
+Length=86
+
+ Score = 86.3 bits (212),  Expect = 9e-021, Method: Compositional matrix adjust.
+ Identities = 44/80 (55%), Positives = 59/80 (74%), Gaps = 7/80 (9%)
+
+Query  1   MYLSDLNAQQRAIVTKV-------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILV  53
+           M LS L  +Q A++TKV       +   +++ RLE+LGF+P  +V+VITKGIFGGDPIL+
+Sbjct  1   MRLSALKVKQTAMITKVNRLVDDAEQPDLVAIRLESLGFVPGTQVQVITKGIFGGDPILI  60
+
+Query  54  QIGFTRFALRKSEAKCIYVE  73
+           QIGFTRFALRK+EA  I ++
+Sbjct  61  QIGFTRFALRKAEADKIEIQ  80
+
+
+>WP_061874341.1 ferrous iron transport protein A [Acinetobacter dijkshoorniae]
+Length=86
+
+ Score = 85.9 bits (211),  Expect = 2e-020, Method: Compositional matrix adjust.
+ Identities = 46/79 (58%), Positives = 55/79 (70%), Gaps = 6/79 (8%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASLILSN------RLETLGFIPQAEVRVITKGIFGGDPILVQ  54
+           M LS L  +Q A +TKV    I S       RLE+LGF+P   V VITKGIFGGDPIL+Q
+Sbjct  1   MRLSALKVKQAATITKVNRIEIESEQDLVAIRLESLGFVPGTRVEVITKGIFGGDPILIQ  60
+
+Query  55  IGFTRFALRKSEAKCIYVE  73
+           IGFTRFALRK+EA+ I ++
+Sbjct  61  IGFTRFALRKAEAEKIEIQ  79
+
+
+>WP_004656347.1 MULTISPECIES: ferrous iron transport protein A [Acinetobacter]
+Length=86
+
+ Score = 85.5 bits (210),  Expect = 2e-020, Method: Compositional matrix adjust.
+ Identities = 43/80 (54%), Positives = 59/80 (74%), Gaps = 7/80 (9%)
+
+Query  1   MYLSDLNAQQRAIVTKV-------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILV  53
+           M LS L  +Q A++TKV       +   +++ RLE+LGF+P  +V+VITKGIFGGDPIL+
+Sbjct  1   MRLSALKVKQTAMITKVNRVVDETEQPDLVAVRLESLGFVPGTQVQVITKGIFGGDPILI  60
+
+Query  54  QIGFTRFALRKSEAKCIYVE  73
+           Q+GFTRFALRK+EA  I ++
+Sbjct  61  QLGFTRFALRKAEADKIEIQ  80
+
+
+>WP_004773968.1 MULTISPECIES: ferrous iron transport protein A [Acinetobacter]
+Length=86
+
+ Score = 85.5 bits (210),  Expect = 2e-020, Method: Compositional matrix adjust.
+ Identities = 43/80 (54%), Positives = 59/80 (74%), Gaps = 7/80 (9%)
+
+Query  1   MYLSDLNAQQRAIVTKV-------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILV  53
+           M LS L  +Q A++TKV       +   +++ RLE+LGF+P  +V+VITKGIFGGDPIL+
+Sbjct  1   MRLSALKVKQVAVITKVNRLVDETEQPDLVAVRLESLGFVPGTQVQVITKGIFGGDPILI  60
+
+Query  54  QIGFTRFALRKSEAKCIYVE  73
+           Q+GFTRFALRK+EA  I ++
+Sbjct  61  QLGFTRFALRKAEADKIEIQ  80
+
+
+>WP_077165240.1 ferrous iron transport protein A [Acinetobacter genomosp. 33YU]
+Length=87
+
+ Score = 85.5 bits (210),  Expect = 2e-020, Method: Compositional matrix adjust.
+ Identities = 45/80 (56%), Positives = 55/80 (69%), Gaps = 7/80 (9%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASLILSN-------RLETLGFIPQAEVRVITKGIFGGDPILV  53
+           M LS L  +Q A +TKV    I S        RLE+LGF+P   V VITKG+FGGDPIL+
+Sbjct  1   MRLSALKVKQAATITKVNRMEIESEQQDLVAIRLESLGFVPGTRVEVITKGVFGGDPILI  60
+
+Query  54  QIGFTRFALRKSEAKCIYVE  73
+           QIGFTRFALRK+EA+ I ++
+Sbjct  61  QIGFTRFALRKAEAEKIEIQ  80
+
+
+>WP_031946450.1 MULTISPECIES: ferrous iron transport protein A [Acinetobacter]
+Length=86
+
+ Score = 85.1 bits (209),  Expect = 2e-020, Method: Compositional matrix adjust.
+ Identities = 45/79 (57%), Positives = 55/79 (70%), Gaps = 6/79 (8%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASLILSN------RLETLGFIPQAEVRVITKGIFGGDPILVQ  54
+           M LS L  +Q A +TKV    + S       RLE+LGF+P   V VITKGIFGGDPIL+Q
+Sbjct  1   MRLSALKVKQAATITKVNRIEVESEQDLVAIRLESLGFVPGTRVEVITKGIFGGDPILIQ  60
+
+Query  55  IGFTRFALRKSEAKCIYVE  73
+           IGFTRFALRK+EA+ I ++
+Sbjct  61  IGFTRFALRKAEAEKIEIQ  79
+
+
+>WP_020899909.1 ferrous iron transport protein A [Acinetobacter junii]
+Length=86
+
+ Score = 85.1 bits (209),  Expect = 3e-020, Method: Compositional matrix adjust.
+ Identities = 46/81 (57%), Positives = 58/81 (72%), Gaps = 9/81 (11%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASLILSN--------RLETLGFIPQAEVRVITKGIFGGDPIL  52
+           M LS L  +Q A +T+V   L+  N        RLE+LGF+P A+V+VITKG+FGGDPIL
+Sbjct  1   MRLSALKVKQTAKITQVN-RLVNDNDEPDLVAIRLESLGFVPGAQVQVITKGVFGGDPIL  59
+
+Query  53  VQIGFTRFALRKSEAKCIYVE  73
+           +QIGFTRFALRKSEA  I ++
+Sbjct  60  IQIGFTRFALRKSEADKIEIQ  80
+
+
+>WP_005154750.1 MULTISPECIES: ferrous iron transport protein A [Acinetobacter]
+Length=86
+
+ Score = 85.1 bits (209),  Expect = 3e-020, Method: Compositional matrix adjust.
+ Identities = 43/80 (54%), Positives = 59/80 (74%), Gaps = 7/80 (9%)
+
+Query  1   MYLSDLNAQQRAIVTKV-------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILV  53
+           M LS L  +Q A++TKV       +   +++ RLE+LGF+P  +V+VITKGIFGGDPIL+
+Sbjct  1   MRLSALKVKQIAVITKVNRLVDETEQPDLVAVRLESLGFVPGTQVQVITKGIFGGDPILI  60
+
+Query  54  QIGFTRFALRKSEAKCIYVE  73
+           Q+GFTRFALRK+EA  I ++
+Sbjct  61  QLGFTRFALRKAEADKIEIQ  80
+
+
+>WP_061397009.1 ferrous iron transport protein A [Acinetobacter haemolyticus]
+Length=86
+
+ Score = 85.1 bits (209),  Expect = 3e-020, Method: Compositional matrix adjust.
+ Identities = 42/80 (53%), Positives = 60/80 (75%), Gaps = 7/80 (9%)
+
+Query  1   MYLSDLNAQQRAIVTKV-------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILV  53
+           M LS L  +Q A++TKV       +   +++ RLE+LGF+P  +V++ITKG+FGGDPIL+
+Sbjct  1   MRLSALKVKQTAMITKVNRLVDDSEQPDLVAIRLESLGFVPGTQVQLITKGVFGGDPILI  60
+
+Query  54  QIGFTRFALRKSEAKCIYVE  73
+           QIGFTRFALRK+EA+ I ++
+Sbjct  61  QIGFTRFALRKTEAEKIEIQ  80
+
+
+>WP_019457010.1 ferrous iron transport protein A [Acinetobacter sp. GG2]
+Length=86
+
+ Score = 85.1 bits (209),  Expect = 3e-020, Method: Compositional matrix adjust.
+ Identities = 44/80 (55%), Positives = 55/80 (69%), Gaps = 7/80 (9%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASLILSN-------RLETLGFIPQAEVRVITKGIFGGDPILV  53
+           M LS L  +Q A +TKV     +S        RLE+LGF+P   + VITKGIFGGDPIL+
+Sbjct  1   MRLSALKVKQAATITKVDRMTQMSEQEDLVAIRLESLGFVPGTRIEVITKGIFGGDPILI  60
+
+Query  54  QIGFTRFALRKSEAKCIYVE  73
+           QIGFTRFALRK+EA+ I ++
+Sbjct  61  QIGFTRFALRKAEAEKIEIQ  80
+
+
+>WP_002053176.1 MULTISPECIES: ferrous iron transport protein A [Acinetobacter 
+calcoaceticus/baumannii complex]
+Length=86
+
+ Score = 85.1 bits (209),  Expect = 3e-020, Method: Compositional matrix adjust.
+ Identities = 44/80 (55%), Positives = 57/80 (71%), Gaps = 7/80 (9%)
+
+Query  1   MYLSDLNAQQRAIVTKV-------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILV  53
+           M LS L  +Q A +TKV       +   +++ RLE+LGF+P   V VITKGIFGGDPIL+
+Sbjct  1   MRLSALKVKQAATITKVDRMTQTSEQQDLVAIRLESLGFVPGTRVEVITKGIFGGDPILI  60
+
+Query  54  QIGFTRFALRKSEAKCIYVE  73
+           QIGFTRFALRK+EA+ I ++
+Sbjct  61  QIGFTRFALRKAEAEKIEIQ  80
+
+
+>WP_035366538.1 iron transporter [Acinetobacter calcoaceticus]
+Length=87
+
+ Score = 85.1 bits (209),  Expect = 3e-020, Method: Compositional matrix adjust.
+ Identities = 44/80 (55%), Positives = 57/80 (71%), Gaps = 7/80 (9%)
+
+Query  1   MYLSDLNAQQRAIVTKV-------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILV  53
+           M LS L  +Q A +TKV       +   +++ RLE+LGF+P   V VITKGIFGGDPIL+
+Sbjct  1   MRLSALKVKQAATITKVNRISVESEQQDLVAIRLESLGFVPGTRVEVITKGIFGGDPILI  60
+
+Query  54  QIGFTRFALRKSEAKCIYVE  73
+           QIGFTRFALRK+EA+ I ++
+Sbjct  61  QIGFTRFALRKAEAEKIEIQ  80
+
+
+>WP_023270940.1 ferrous iron transport protein A [Acinetobacter gyllenbergii]
+Length=86
+
+ Score = 85.1 bits (209),  Expect = 3e-020, Method: Compositional matrix adjust.
+ Identities = 42/80 (53%), Positives = 59/80 (74%), Gaps = 7/80 (9%)
+
+Query  1   MYLSDLNAQQRAIVTKV-------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILV  53
+           M LS L  +Q A++TKV       +   +++ RLE+LGF+P  +++VITKGIFGGDPIL+
+Sbjct  1   MRLSALKVKQTAMITKVNRVVDETEQPDLVAVRLESLGFVPGTQIQVITKGIFGGDPILI  60
+
+Query  54  QIGFTRFALRKSEAKCIYVE  73
+           Q+GFTRFALRK+EA  I ++
+Sbjct  61  QLGFTRFALRKAEADKIEIQ  80
+
+
+>WP_078210375.1 ferrous iron transport protein A [Acinetobacter pittii]
+Length=87
+
+ Score = 85.1 bits (209),  Expect = 3e-020, Method: Compositional matrix adjust.
+ Identities = 44/80 (55%), Positives = 57/80 (71%), Gaps = 7/80 (9%)
+
+Query  1   MYLSDLNAQQRAIVTKV-------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILV  53
+           M LS L  +Q A +TKV       +   +++ RLE+LGF+P   V VITKGIFGGDPIL+
+Sbjct  1   MRLSALKVKQAATITKVNRIELESEQQDLVAIRLESLGFVPGTRVEVITKGIFGGDPILI  60
+
+Query  54  QIGFTRFALRKSEAKCIYVE  73
+           QIGFTRFALRK+EA+ I ++
+Sbjct  61  QIGFTRFALRKAEAEKIEIQ  80
+
+
+>WP_002121198.1 MULTISPECIES: ferrous iron transport protein A [Acinetobacter]
+ YP_004997421.1 putative ferrous iron transport protein A (FeoA) [Acinetobacter 
+pittii PHEA-2]
+Length=87
+
+ Score = 85.1 bits (209),  Expect = 3e-020, Method: Compositional matrix adjust.
+ Identities = 44/80 (55%), Positives = 57/80 (71%), Gaps = 7/80 (9%)
+
+Query  1   MYLSDLNAQQRAIVTKV-------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILV  53
+           M LS L  +Q A +TKV       +   +++ RLE+LGF+P   V VITKGIFGGDPIL+
+Sbjct  1   MRLSALKVKQAATITKVNRIELESEQQDLVAIRLESLGFVPGTRVEVITKGIFGGDPILI  60
+
+Query  54  QIGFTRFALRKSEAKCIYVE  73
+           QIGFTRFALRK+EA+ I ++
+Sbjct  61  QIGFTRFALRKAEAEKIEIQ  80
+
+
+>WP_004932278.1 MULTISPECIES: ferrous iron transport protein A [Acinetobacter]
+Length=87
+
+ Score = 84.7 bits (208),  Expect = 4e-020, Method: Compositional matrix adjust.
+ Identities = 42/80 (53%), Positives = 57/80 (71%), Gaps = 8/80 (10%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASL--------ILSNRLETLGFIPQAEVRVITKGIFGGDPIL  52
+           M LS+L  +Q AI+T V  +L         ++NRLETLGF+   +V+++TKG+FGGDPIL
+Sbjct  1   MRLSELRVKQTAIITAVDHTLDGSPDQQDPIANRLETLGFVAGEKVQIVTKGVFGGDPIL  60
+
+Query  53  VQIGFTRFALRKSEAKCIYV  72
+           VQ+GFTRFALRK EA  + +
+Sbjct  61  VQLGFTRFALRKEEAARVQI  80
+
+
+>WP_081404807.1 ferrous iron transport protein A [Acinetobacter sp. 826659]
+Length=87
+
+ Score = 84.7 bits (208),  Expect = 4e-020, Method: Compositional matrix adjust.
+ Identities = 45/80 (56%), Positives = 55/80 (69%), Gaps = 7/80 (9%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASLILSN-------RLETLGFIPQAEVRVITKGIFGGDPILV  53
+           M LS L  +Q A +TKV    I S        RLE+LGF+P   V VITKG+FGGDPIL+
+Sbjct  1   MRLSALKVKQAATITKVNRIEIESEQQDLVAIRLESLGFVPGTRVEVITKGVFGGDPILI  60
+
+Query  54  QIGFTRFALRKSEAKCIYVE  73
+           QIGFTRFALRK+EA+ I ++
+Sbjct  61  QIGFTRFALRKAEAEKIEIQ  80
+
+
+>WP_004699241.1 ferrous iron transport protein A [Acinetobacter seifertii]
+Length=86
+
+ Score = 84.7 bits (208),  Expect = 4e-020, Method: Compositional matrix adjust.
+ Identities = 43/80 (54%), Positives = 57/80 (71%), Gaps = 7/80 (9%)
+
+Query  1   MYLSDLNAQQRAIVTKV-------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILV  53
+           M LS L  +Q A +TKV       +   +++ RLE+LGF+P   + VITKGIFGGDPIL+
+Sbjct  1   MRLSALKVKQAATITKVDRMTETSEQEDLVAIRLESLGFVPGTRIEVITKGIFGGDPILI  60
+
+Query  54  QIGFTRFALRKSEAKCIYVE  73
+           QIGFTRFALRK+EA+ I ++
+Sbjct  61  QIGFTRFALRKAEAEKIEIQ  80
+
+
+>WP_005240215.1 MULTISPECIES: ferrous iron transport protein A [Acinetobacter]
+Length=86
+
+ Score = 84.7 bits (208),  Expect = 4e-020, Method: Compositional matrix adjust.
+ Identities = 41/80 (51%), Positives = 59/80 (74%), Gaps = 7/80 (9%)
+
+Query  1   MYLSDLNAQQRAIVTKV-------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILV  53
+           M LS L  +Q A++TKV       +   +++ RLE+LGF+P  +V+V+TKG+FGGDPIL+
+Sbjct  1   MRLSALKVKQTAMITKVNRVVDETEQPDLVAVRLESLGFVPGTQVQVVTKGVFGGDPILI  60
+
+Query  54  QIGFTRFALRKSEAKCIYVE  73
+           Q+GFTRFALRK+EA  I ++
+Sbjct  61  QLGFTRFALRKAEADKIEIQ  80
+
+
+>WP_039254224.1 MULTISPECIES: ferrous iron transport protein A [Acinetobacter]
+Length=86
+
+ Score = 84.7 bits (208),  Expect = 4e-020, Method: Compositional matrix adjust.
+ Identities = 43/80 (54%), Positives = 57/80 (71%), Gaps = 7/80 (9%)
+
+Query  1   MYLSDLNAQQRAIVTKV-------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILV  53
+           M LS L  +Q A +TKV       +   +++ RLE+LGF+P   + VITKGIFGGDPIL+
+Sbjct  1   MRLSALKVKQAATITKVDRMTQTSEQEDLVAIRLESLGFVPGTRIEVITKGIFGGDPILI  60
+
+Query  54  QIGFTRFALRKSEAKCIYVE  73
+           QIGFTRFALRK+EA+ I ++
+Sbjct  61  QIGFTRFALRKAEAEKIEIQ  80
+
+
+>WP_024434168.1 iron transporter [Acinetobacter baumannii]
+Length=87
+
+ Score = 84.7 bits (208),  Expect = 4e-020, Method: Compositional matrix adjust.
+ Identities = 43/80 (54%), Positives = 57/80 (71%), Gaps = 7/80 (9%)
+
+Query  1   MYLSDLNAQQRAIVTKV-------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILV  53
+           M LS L  +Q A +TKV       +   +++ RLE+LGF+P   V VITKG+FGGDPIL+
+Sbjct  1   MRLSALKVKQAATITKVNRIEVESEEQDLVAIRLESLGFVPGTRVEVITKGVFGGDPILI  60
+
+Query  54  QIGFTRFALRKSEAKCIYVE  73
+           QIGFTRFALRK+EA+ I ++
+Sbjct  61  QIGFTRFALRKAEAEKIEIQ  80
+
+
+>WP_013199126.1 MULTISPECIES: ferrous iron transport protein A [Acinetobacter]
+Length=87
+
+ Score = 84.7 bits (208),  Expect = 4e-020, Method: Compositional matrix adjust.
+ Identities = 44/79 (56%), Positives = 56/79 (71%), Gaps = 7/79 (9%)
+
+Query  1   MYLSDLNAQQRAIVTKV-------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILV  53
+           M LS L  +Q A +TKV       +   +++ RLE+LGF+P   V VITKGIFGGDPIL+
+Sbjct  1   MRLSALKVKQAATITKVNRIEVESEQQDLVAIRLESLGFVPGTRVEVITKGIFGGDPILI  60
+
+Query  54  QIGFTRFALRKSEAKCIYV  72
+           QIGFTRFALRK+EA+ I +
+Sbjct  61  QIGFTRFALRKAEAEKIEI  79
+
+
+>WP_001991212.1 MULTISPECIES: ferrous iron transport protein A [Acinetobacter 
+calcoaceticus/baumannii complex]
+Length=87
+
+ Score = 84.3 bits (207),  Expect = 5e-020, Method: Compositional matrix adjust.
+ Identities = 43/80 (54%), Positives = 57/80 (71%), Gaps = 7/80 (9%)
+
+Query  1   MYLSDLNAQQRAIVTKV-------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILV  53
+           M LS L  +Q A +TKV       +   +++ RLE+LGF+P   V VITKG+FGGDPIL+
+Sbjct  1   MRLSALKVKQAATITKVNRIEVESEQQDLVAIRLESLGFVPGTRVEVITKGVFGGDPILI  60
+
+Query  54  QIGFTRFALRKSEAKCIYVE  73
+           QIGFTRFALRK+EA+ I ++
+Sbjct  61  QIGFTRFALRKAEAEKIEIQ  80
+
+
+>WP_081032098.1 MULTISPECIES: ferrous iron transport protein A [Acinetobacter 
+calcoaceticus/baumannii complex]
+Length=87
+
+ Score = 84.3 bits (207),  Expect = 6e-020, Method: Compositional matrix adjust.
+ Identities = 43/80 (54%), Positives = 57/80 (71%), Gaps = 7/80 (9%)
+
+Query  1   MYLSDLNAQQRAIVTKV-------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILV  53
+           M LS L  +Q A +TKV       +   +++ RLE+LGF+P   V VITKG+FGGDPIL+
+Sbjct  1   MRLSALKVKQAATITKVNRIELESEQQDLVAIRLESLGFVPGTRVEVITKGVFGGDPILI  60
+
+Query  54  QIGFTRFALRKSEAKCIYVE  73
+           QIGFTRFALRK+EA+ I ++
+Sbjct  61  QIGFTRFALRKAEAEKIEIQ  80
+
+
+>WP_086266944.1 ferrous iron transport protein A [Acinetobacter baumannii]
+Length=87
+
+ Score = 84.3 bits (207),  Expect = 7e-020, Method: Compositional matrix adjust.
+ Identities = 43/80 (54%), Positives = 57/80 (71%), Gaps = 7/80 (9%)
+
+Query  1   MYLSDLNAQQRAIVTKV-------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILV  53
+           M LS L  +Q A +TKV       +   +++ RLE+LGF+P   V VITKG+FGGDPIL+
+Sbjct  1   MRLSALKVKQAATITKVNRIEVEFEQQDLVAIRLESLGFVPGTRVEVITKGVFGGDPILI  60
+
+Query  54  QIGFTRFALRKSEAKCIYVE  73
+           QIGFTRFALRK+EA+ I ++
+Sbjct  61  QIGFTRFALRKAEAEKIEIQ  80
+
+
+>WP_009505587.1 ferrous iron transport protein A [Acinetobacter sp. WC-487]
+Length=86
+
+ Score = 84.0 bits (206),  Expect = 7e-020, Method: Compositional matrix adjust.
+ Identities = 43/80 (54%), Positives = 57/80 (71%), Gaps = 7/80 (9%)
+
+Query  1   MYLSDLNAQQRAIVTKV-------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILV  53
+           M L+ L  +Q A +TKV       +   +++ RLE+LGF+P   V VITKGIFGGDPIL+
+Sbjct  1   MRLTALKVKQAATITKVDRMTQTSEQQDLVAIRLESLGFVPGTRVEVITKGIFGGDPILI  60
+
+Query  54  QIGFTRFALRKSEAKCIYVE  73
+           QIGFTRFALRK+EA+ I ++
+Sbjct  61  QIGFTRFALRKAEAEKIEIQ  80
+
+
+>WP_039245557.1 ferrous iron transport protein A [Acinetobacter baumannii]
+Length=99
+
+ Score = 84.3 bits (207),  Expect = 9e-020, Method: Compositional matrix adjust.
+ Identities = 42/78 (54%), Positives = 57/78 (73%), Gaps = 7/78 (9%)
+
+Query  3   LSDLNAQQRAIVTKV-------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQI  55
+           LS L  +Q A +TKV       +  ++++ RLE+LGF+P   V VITKG+FGGDPIL+QI
+Sbjct  15  LSALKVKQAATITKVNRIEVESEQQVLVAIRLESLGFVPGTRVEVITKGVFGGDPILIQI  74
+
+Query  56  GFTRFALRKSEAKCIYVE  73
+           GFTRFALRK+EA+ I ++
+Sbjct  75  GFTRFALRKAEAEKIEIQ  92
+
+
+>WP_081406903.1 ferrous iron transport protein A [Acinetobacter harbinensis]
+Length=114
+
+ Score = 84.7 bits (208),  Expect = 1e-019, Method: Compositional matrix adjust.
+ Identities = 43/78 (55%), Positives = 58/78 (74%), Gaps = 8/78 (10%)
+
+Query  3    LSDLNAQQRAIVTKVQASL--------ILSNRLETLGFIPQAEVRVITKGIFGGDPILVQ  54
+            LSDL  +Q AI+ KV  ++        ++++RLETLGF+   +V+VITKGIFGGDPIL+Q
+Sbjct  30   LSDLKVKQTAIICKVNRAITNDSTQNDMVASRLETLGFVSGTKVQVITKGIFGGDPILIQ  89
+
+Query  55   IGFTRFALRKSEAKCIYV  72
+            +GFTRFALRK EA+ I +
+Sbjct  90   VGFTRFALRKVEAEKIEI  107
+
+
+>WP_031952215.1 ferrous iron transport protein A [Acinetobacter baumannii]
+Length=86
+
+ Score = 83.6 bits (205),  Expect = 1e-019, Method: Compositional matrix adjust.
+ Identities = 43/80 (54%), Positives = 56/80 (70%), Gaps = 7/80 (9%)
+
+Query  1   MYLSDLNAQQRAIVTKV-------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILV  53
+           M LS L  +Q A +TKV       +   +++ R E+LGF+P   V VITKGIFGGDPIL+
+Sbjct  1   MRLSALKVKQAATITKVDRMTQTSEQQDLVAIRFESLGFVPGTRVEVITKGIFGGDPILI  60
+
+Query  54  QIGFTRFALRKSEAKCIYVE  73
+           QIGFTRFALRK+EA+ I ++
+Sbjct  61  QIGFTRFALRKAEAEKIEIQ  80
+
+
+>WP_016801736.1 MULTISPECIES: ferrous iron transport protein A [Acinetobacter]
+Length=87
+
+ Score = 83.2 bits (204),  Expect = 2e-019, Method: Compositional matrix adjust.
+ Identities = 43/80 (54%), Positives = 56/80 (70%), Gaps = 7/80 (9%)
+
+Query  1   MYLSDLNAQQRAIVTKV-------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILV  53
+           M LS L  +Q A ++KV       +   +++ RLE+LGF+P   V VITKGIFGGDPIL+
+Sbjct  1   MRLSALKVKQAATISKVNRISVESEQQDLVAIRLESLGFVPGTRVEVITKGIFGGDPILI  60
+
+Query  54  QIGFTRFALRKSEAKCIYVE  73
+           QIGFTRFALRK+EA  I ++
+Sbjct  61  QIGFTRFALRKAEADKIEIQ  80
+
+
+>WP_005065729.1 ferrous iron transport protein A [Acinetobacter pittii]
+Length=99
+
+ Score = 83.2 bits (204),  Expect = 2e-019, Method: Compositional matrix adjust.
+ Identities = 43/78 (55%), Positives = 56/78 (72%), Gaps = 7/78 (9%)
+
+Query  3   LSDLNAQQRAIVTKV-------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQI  55
+           LS L  +Q A +TKV       +   +++ RLE+LGF+P   V VITKGIFGGDPIL+QI
+Sbjct  15  LSALKVKQAATITKVNRIELESEQQDLVAIRLESLGFVPGTRVEVITKGIFGGDPILIQI  74
+
+Query  56  GFTRFALRKSEAKCIYVE  73
+           GFTRFALRK+EA+ I ++
+Sbjct  75  GFTRFALRKAEAEKIEIQ  92
+
+
+>WP_050441651.1 ferrous iron transport protein A, partial [Acinetobacter baumannii]
+Length=94
+
+ Score = 82.8 bits (203),  Expect = 3e-019, Method: Compositional matrix adjust.
+ Identities = 42/78 (54%), Positives = 56/78 (72%), Gaps = 7/78 (9%)
+
+Query  3   LSDLNAQQRAIVTKV-------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQI  55
+           LS L  +Q A +TKV       +   +++ RLE+LGF+P   V VITKG+FGGDPIL+QI
+Sbjct  15  LSALKVKQAATITKVNRIEVESEQQDLVAIRLESLGFVPGTRVEVITKGVFGGDPILIQI  74
+
+Query  56  GFTRFALRKSEAKCIYVE  73
+           GFTRFALRK+EA+ I ++
+Sbjct  75  GFTRFALRKAEAEKIEIQ  92
+
+
+>WP_000288741.1 ferrous iron transport protein A [Acinetobacter baumannii]
+Length=99
+
+ Score = 82.8 bits (203),  Expect = 3e-019, Method: Compositional matrix adjust.
+ Identities = 42/78 (54%), Positives = 56/78 (72%), Gaps = 7/78 (9%)
+
+Query  3   LSDLNAQQRAIVTKV-------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQI  55
+           LS L  +Q A +TKV       +   +++ RLE+LGF+P   V VITKG+FGGDPIL+QI
+Sbjct  15  LSALKVKQAATITKVNRIEVESEEQDLVAIRLESLGFVPGTRVEVITKGVFGGDPILIQI  74
+
+Query  56  GFTRFALRKSEAKCIYVE  73
+           GFTRFALRK+EA+ I ++
+Sbjct  75  GFTRFALRKAEAEKIEIQ  92
+
+
+>WP_009392243.1 ferrous iron transport protein A [Acinetobacter sp. WC-141]
+Length=87
+
+ Score = 82.4 bits (202),  Expect = 3e-019, Method: Compositional matrix adjust.
+ Identities = 42/80 (53%), Positives = 56/80 (70%), Gaps = 7/80 (9%)
+
+Query  1   MYLSDLNAQQRAIVTKV-------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILV  53
+           M LS L  +Q A +T V       +   +++ RLE+LGF+P   V VITKG+FGGDPIL+
+Sbjct  1   MRLSALKVKQAATITNVNRISVESEQQDLVAIRLESLGFVPGTRVEVITKGVFGGDPILI  60
+
+Query  54  QIGFTRFALRKSEAKCIYVE  73
+           QIGFTRFALRK+EA+ I ++
+Sbjct  61  QIGFTRFALRKAEAEKIEIQ  80
+
+
+>WP_032069074.1 ferrous iron transport protein A [Acinetobacter baumannii]
+Length=99
+
+ Score = 82.8 bits (203),  Expect = 4e-019, Method: Compositional matrix adjust.
+ Identities = 42/78 (54%), Positives = 56/78 (72%), Gaps = 7/78 (9%)
+
+Query  3   LSDLNAQQRAIVTKV-------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQI  55
+           LS L  +Q A +TKV       +   +++ RLE+LGF+P   V VITKG+FGGDPIL+QI
+Sbjct  15  LSALKVKQAATITKVNRIEVESEQQDLVAIRLESLGFVPGTRVEVITKGVFGGDPILIQI  74
+
+Query  56  GFTRFALRKSEAKCIYVE  73
+           GFTRFALRK+EA+ I ++
+Sbjct  75  GFTRFALRKAEAEKIEIQ  92
+
+
+>WP_000288742.1 ferrous iron transport protein A [Acinetobacter baumannii]
+Length=99
+
+ Score = 82.8 bits (203),  Expect = 4e-019, Method: Compositional matrix adjust.
+ Identities = 42/78 (54%), Positives = 56/78 (72%), Gaps = 7/78 (9%)
+
+Query  3   LSDLNAQQRAIVTKV-------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQI  55
+           LS L  +Q A +TKV       +   +++ RLE+LGF+P   V VITKG+FGGDPIL+QI
+Sbjct  15  LSALKVKQAATITKVNRIEVESEQQDLVAIRLESLGFVPGTRVEVITKGVFGGDPILIQI  74
+
+Query  56  GFTRFALRKSEAKCIYVE  73
+           GFTRFALRK+EA+ I ++
+Sbjct  75  GFTRFALRKAEAEKIEIQ  92
+
+
+>WP_057052407.1 ferrous iron transport protein A [Acinetobacter baumannii]
+Length=99
+
+ Score = 82.8 bits (203),  Expect = 4e-019, Method: Compositional matrix adjust.
+ Identities = 42/78 (54%), Positives = 56/78 (72%), Gaps = 7/78 (9%)
+
+Query  3   LSDLNAQQRAIVTKV-------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQI  55
+           LS L  +Q A +TKV       +   +++ RLE+LGF+P   V VITKG+FGGDPIL+QI
+Sbjct  15  LSALKVKQAATITKVNRIEVESEQQDLVAIRLESLGFVPGTRVEVITKGVFGGDPILIQI  74
+
+Query  56  GFTRFALRKSEAKCIYVE  73
+           GFTRFALRK+EA+ I ++
+Sbjct  75  GFTRFALRKAEAEKIEIQ  92
+
+
+>WP_000288743.1 MULTISPECIES: ferrous iron transport protein A [Acinetobacter 
+calcoaceticus/baumannii complex]
+Length=99
+
+ Score = 82.8 bits (203),  Expect = 4e-019, Method: Compositional matrix adjust.
+ Identities = 42/78 (54%), Positives = 56/78 (72%), Gaps = 7/78 (9%)
+
+Query  3   LSDLNAQQRAIVTKV-------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQI  55
+           LS L  +Q A +TKV       +   +++ RLE+LGF+P   V VITKG+FGGDPIL+QI
+Sbjct  15  LSALKVKQAATITKVNRIEVESEQQDLVAIRLESLGFVPGTRVEVITKGVFGGDPILIQI  74
+
+Query  56  GFTRFALRKSEAKCIYVE  73
+           GFTRFALRK+EA+ I ++
+Sbjct  75  GFTRFALRKAEAEKIEIQ  92
+
+
+>WP_075431228.1 MULTISPECIES: ferrous iron transport protein A [Acinetobacter]
+Length=99
+
+ Score = 81.3 bits (199),  Expect = 1e-018, Method: Compositional matrix adjust.
+ Identities = 42/78 (54%), Positives = 55/78 (71%), Gaps = 7/78 (9%)
+
+Query  3   LSDLNAQQRAIVTKV-------QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQI  55
+           LS L  +Q A ++KV       +   +++ RLE+LGF+P   V VITKGIFGGDPIL+QI
+Sbjct  15  LSALKVKQAATISKVNRISVESEQQDLVAIRLESLGFVPGTRVEVITKGIFGGDPILIQI  74
+
+Query  56  GFTRFALRKSEAKCIYVE  73
+           GFTRFALRK+EA  I ++
+Sbjct  75  GFTRFALRKAEADKIEIQ  92
+
+
+>WP_016654716.1 ferrous iron transport protein A [Acinetobacter rudis]
+Length=106
+
+ Score = 79.3 bits (194),  Expect = 9e-018, Method: Compositional matrix adjust.
+ Identities = 42/83 (51%), Positives = 60/83 (72%), Gaps = 10/83 (12%)
+
+Query  3    LSDLNAQQRAIVTKVQASL-------ILSNRLETLGFIPQAEVRVITKGIFGGDPILVQI  55
+            LS+L  +Q A VTKV  +        ++++RLETLGF+    V+V+TKGIFGGDPIL+++
+Sbjct  24   LSELKVRQTATVTKVSRNSDENGHPDLIASRLETLGFVAGTRVQVVTKGIFGGDPILIKV  83
+
+Query  56   GFTRFALRKSEAKCI---YVEGL  75
+            GFT+FALRK+EA+ +    VEG+
+Sbjct  84   GFTQFALRKAEAEKVEINQVEGV  106
+
+
+>WP_026471626.1 ferrous iron transport protein A [Alkanindiges illinoisensis]
+Length=99
+
+ Score = 77.0 bits (188),  Expect = 7e-017, Method: Compositional matrix adjust.
+ Identities = 43/96 (45%), Positives = 55/96 (57%), Gaps = 23/96 (24%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASLI-----------------------LSNRLETLGFIPQAE  37
+           M LS L   Q+AI+T V +++                        +  RL+TLGFIP  +
+Sbjct  1   MRLSQLKRHQQAIITAVTSAVTPATITAMQDSVLQDSASTPQADPIGRRLQTLGFIPGEQ  60
+
+Query  38  VRVITKGIFGGDPILVQIGFTRFALRKSEAKCIYVE  73
+           V V+  G+FGGDP+LVQIGFTRFALR+SEA  I VE
+Sbjct  61  VTVLALGLFGGDPVLVQIGFTRFALRRSEADRIQVE  96
+
+
+>WP_070070863.1 ferrous iron transport protein A [Acinetobacter qingfengensis]
+Length=81
+
+ Score = 74.3 bits (181),  Expect = 5e-016, Method: Compositional matrix adjust.
+ Identities = 37/80 (46%), Positives = 54/80 (68%), Gaps = 7/80 (9%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASLI-------LSNRLETLGFIPQAEVRVITKGIFGGDPILV  53
+           M LSDL  +Q+A ++ V   L        ++ RL +LGF+    V VITKG+FGG+PILV
+Sbjct  1   MRLSDLKTKQQATISHVHQLLDGSSSTDNIAKRLRSLGFVTGEHVEVITKGLFGGEPILV  60
+
+Query  54  QIGFTRFALRKSEAKCIYVE  73
+           ++G +RFALR++EA+ I V+
+Sbjct  61  KVGLSRFALRRNEAERIEVD  80
+
+
+>WP_034103765.1 ferrous iron transport protein A [Pseudomonas fluorescens]
+Length=79
+
+ Score = 73.9 bits (180),  Expect = 6e-016, Method: Compositional matrix adjust.
+ Identities = 35/76 (46%), Positives = 52/76 (68%), Gaps = 3/76 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQAS---LILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M L DL  +Q+A VT V+ +     LS RL+ +GF+P   V V+ +  +GGDP+L+Q+G 
+Sbjct  1   MRLCDLPRRQKACVTHVEGTGNADPLSQRLQDIGFVPGEPVTVVARAPWGGDPVLIQVGG  60
+
+Query  58  TRFALRKSEAKCIYVE  73
+           +RFALR++EA  I+VE
+Sbjct  61  SRFALRRNEAHMIFVE  76
+
+
+>WP_039602276.1 ferrous iron transport protein A [Pseudomonas putida]
+Length=79
+
+ Score = 73.9 bits (180),  Expect = 7e-016, Method: Compositional matrix adjust.
+ Identities = 38/76 (50%), Positives = 50/76 (66%), Gaps = 3/76 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKV---QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           MYL DL  QQ+A VT+V     +  LS RL+ +GF+P   V V+ +  +G DPILVQ+  
+Sbjct  1   MYLCDLPHQQKAFVTEVLKADTTDCLSQRLQDIGFVPGEPVAVVARAPWGADPILVQVAG  60
+
+Query  58  TRFALRKSEAKCIYVE  73
+           TRFALR++EA  I VE
+Sbjct  61  TRFALRRNEAMRIVVE  76
+
+
+>WP_053256056.1 ferrous iron transport protein A [Pseudomonas fluorescens]
+Length=79
+
+ Score = 73.9 bits (180),  Expect = 7e-016, Method: Compositional matrix adjust.
+ Identities = 35/76 (46%), Positives = 53/76 (70%), Gaps = 3/76 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQAS---LILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M L DL  +Q+A VT V+ +     LS RL+ +GF+P  +V V+ +  +GGDP+L+Q+G 
+Sbjct  1   MRLCDLPHRQKACVTHVEGTGNADPLSQRLQDIGFVPGEQVTVVARAPWGGDPVLIQVGG  60
+
+Query  58  TRFALRKSEAKCIYVE  73
+           +RFALR++EA+ I VE
+Sbjct  61  SRFALRRNEAQMILVE  76
+
+
+>WP_074901556.1 ferrous iron transport protein A [Stenotrophomonas maltophilia]
+Length=84
+
+ Score = 73.6 bits (179),  Expect = 9e-016, Method: Compositional matrix adjust.
+ Identities = 37/77 (48%), Positives = 52/77 (68%), Gaps = 3/77 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L     A+V  VQ   A+ +++ RL  LGF+   EVR++ KG  GG+P+LVQ+GF
+Sbjct  1   MTLSELPLHTSAVVDSVQDLHANDVIARRLRELGFVKGEEVRLVAKGPLGGEPLLVQVGF  60
+
+Query  58  TRFALRKSEAKCIYVEG  74
+           TRFALR SEAK + ++ 
+Sbjct  61  TRFALRISEAKRVLIDA  77
+
+
+>WP_069552127.1 ferrous iron transport protein A [Pseudomonas sp. AP19]
+Length=79
+
+ Score = 73.2 bits (178),  Expect = 1e-015, Method: Compositional matrix adjust.
+ Identities = 35/76 (46%), Positives = 53/76 (70%), Gaps = 3/76 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQAS---LILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M L DL  +Q+A VT V+ +     LS RL+ +GF+P  +V V+ +  +GGDP+L+Q+G 
+Sbjct  1   MRLVDLPHRQKACVTHVEGTGNADPLSQRLQDIGFVPGEQVTVVARAPWGGDPVLIQVGG  60
+
+Query  58  TRFALRKSEAKCIYVE  73
+           +RFALR++EA+ I VE
+Sbjct  61  SRFALRRNEAQMILVE  76
+
+
+>WP_076878764.1 hypothetical protein [Alkanindiges sp. H1]
+Length=94
+
+ Score = 73.6 bits (179),  Expect = 1e-015, Method: Compositional matrix adjust.
+ Identities = 40/91 (44%), Positives = 54/91 (59%), Gaps = 18/91 (20%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASLI------------------LSNRLETLGFIPQAEVRVIT  42
+           M LS L   Q+A +T V ++++                  +  RL+TLGFIP  +V V+ 
+Sbjct  1   MRLSQLKRHQQATITAVTSAVMPATATPLQDSTSTTQADPIGQRLQTLGFIPGEQVTVLA  60
+
+Query  43  KGIFGGDPILVQIGFTRFALRKSEAKCIYVE  73
+            G+FG DP+LVQIGFTRFALR++EA  I VE
+Sbjct  61  LGLFGRDPVLVQIGFTRFALRRTEADRIQVE  91
+
+
+>WP_017357247.1 ferrous iron transport protein A [Stenotrophomonas maltophilia]
+Length=84
+
+ Score = 73.2 bits (178),  Expect = 2e-015, Method: Compositional matrix adjust.
+ Identities = 37/75 (49%), Positives = 52/75 (69%), Gaps = 3/75 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LSDL     A+V  VQ   A+  ++ RL+ LGF+   +VR++ +G  GG+P+LVQ+GF
+Sbjct  1   MTLSDLPLHSSALVESVQELHANDAIARRLQELGFVTGEDVRLVARGPVGGEPLLVQVGF  60
+
+Query  58  TRFALRKSEAKCIYV  72
+           TRFALR+SEA+ I V
+Sbjct  61  TRFALRRSEARRIQV  75
+
+
+>WP_010482534.1 ferrous iron transport protein A [Stenotrophomonas maltophilia]
+Length=84
+
+ Score = 72.8 bits (177),  Expect = 2e-015, Method: Compositional matrix adjust.
+ Identities = 39/77 (51%), Positives = 51/77 (66%), Gaps = 3/77 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L     A+V  VQ   A+  ++ RL  LGF+   EVR++ KG  GG+P+LVQ+GF
+Sbjct  1   MTLSELPLHTSAVVESVQDLHANDAIARRLRELGFVKGEEVRLVAKGPVGGEPLLVQVGF  60
+
+Query  58  TRFALRKSEAKCIYVEG  74
+           TRFALR SEAK I V+ 
+Sbjct  61  TRFALRISEAKRIVVDA  77
+
+
+>WP_065854000.1 iron transporter FeoA [Ralstonia pickettii]
+Length=101
+
+ Score = 73.2 bits (178),  Expect = 3e-015, Method: Compositional matrix adjust.
+ Identities = 37/78 (47%), Positives = 52/78 (67%), Gaps = 5/78 (6%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L+ +  A+V  V+    +  +S RL  LGF+   EVRV+  G FGGDP++VQ+GF
+Sbjct  1   MRLSELSRRATAVVDHVEDREPADPISQRLRELGFVTGEEVRVVAVGPFGGDPLVVQVGF  60
+
+Query  58  TRFALRKSEAK--CIYVE  73
+           TRFALR+ EA   C++ E
+Sbjct  61  TRFALRRQEAARVCVHAE  78
+
+
+>WP_009240368.1 MULTISPECIES: iron transporter FeoA [Ralstonia]
+Length=101
+
+ Score = 72.8 bits (177),  Expect = 3e-015, Method: Compositional matrix adjust.
+ Identities = 37/78 (47%), Positives = 52/78 (67%), Gaps = 5/78 (6%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L+ +  A+V  V+    +  +S RL  LGF+   EVRV+  G FGGDP++VQ+GF
+Sbjct  1   MRLSELSRRATAVVDHVEDREPADPISQRLRELGFVTGEEVRVVAVGPFGGDPLVVQVGF  60
+
+Query  58  TRFALRKSEAK--CIYVE  73
+           TRFALR+ EA   C++ E
+Sbjct  61  TRFALRRQEAARVCVHAE  78
+
+
+>WP_023457413.1 ferrous iron transport protein A [Asticcacaulis sp. AC466]
+Length=79
+
+ Score = 72.0 bits (175),  Expect = 3e-015, Method: Compositional matrix adjust.
+ Identities = 38/76 (50%), Positives = 51/76 (67%), Gaps = 3/76 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKV---QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M L++L A   A+VT V       ++SNRL  LGF+   EV+V+ +G  G DP+L+QIGF
+Sbjct  1   MKLTELPAFSPALVTGVVDAHDGDLISNRLRELGFVTGEEVKVVGRGPIGADPLLIQIGF  60
+
+Query  58  TRFALRKSEAKCIYVE  73
+           TRFALR+SEA  + VE
+Sbjct  61  TRFALRRSEAARVTVE  76
+
+
+>WP_049464336.1 MULTISPECIES: ferrous iron transport protein A [Stenotrophomonas]
+Length=84
+
+ Score = 72.4 bits (176),  Expect = 3e-015, Method: Compositional matrix adjust.
+ Identities = 38/79 (48%), Positives = 53/79 (67%), Gaps = 3/79 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L     A+V  VQ   A+  ++ RL  LGF+   EVR++ KG  GG+P+LVQ+GF
+Sbjct  1   MTLSELPLHTSAVVESVQDLHANDAIARRLRELGFVNGEEVRLVAKGPVGGEPLLVQVGF  60
+
+Query  58  TRFALRKSEAKCIYVEGLN  76
+           TRFALR SEAK + V+ ++
+Sbjct  61  TRFALRISEAKRVVVDAVS  79
+
+
+>WP_084910419.1 ferrous iron transport protein A [[Pseudomonas] mesoacidophila]
+Length=81
+
+ Score = 72.0 bits (175),  Expect = 3e-015, Method: Compositional matrix adjust.
+ Identities = 36/76 (47%), Positives = 50/76 (66%), Gaps = 3/76 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKV---QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L     AIV +V   Q    ++ RL  LGF+P   VRV+ +G +G DPIL+QIG 
+Sbjct  1   MRLSNLTKHTPAIVEQVDDAQPDDPIAQRLRDLGFVPGEPVRVVARGPWGADPILIQIGS  60
+
+Query  58  TRFALRKSEAKCIYVE  73
+           TRFALR++EA+ + V+
+Sbjct  61  TRFALRRAEAERVSVQ  76
+
+
+>WP_005409473.1 MULTISPECIES: ferrous iron transport protein A [Stenotrophomonas]
+Length=84
+
+ Score = 72.0 bits (175),  Expect = 4e-015, Method: Compositional matrix adjust.
+ Identities = 38/77 (49%), Positives = 51/77 (66%), Gaps = 3/77 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L     A+V  VQ   A+  ++ RL  LGF+   EVR++ KG  GG+P+LVQ+GF
+Sbjct  1   MTLSELPLHTSAVVESVQDLHANDAIARRLRELGFVKGEEVRLVAKGPVGGEPLLVQVGF  60
+
+Query  58  TRFALRKSEAKCIYVEG  74
+           TRFALR SEAK + V+ 
+Sbjct  61  TRFALRISEAKRVVVDA  77
+
+
+>WP_032128790.1 ferrous iron transport protein A [Stenotrophomonas maltophilia]
+Length=84
+
+ Score = 72.0 bits (175),  Expect = 4e-015, Method: Compositional matrix adjust.
+ Identities = 38/77 (49%), Positives = 51/77 (66%), Gaps = 3/77 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L     A+V  VQ   A+  ++ RL  LGF+   EVR++ KG  GG+P+LVQ+GF
+Sbjct  1   MTLSELPLHASAVVESVQDLHANDAIARRLRELGFVKGEEVRLVAKGPVGGEPLLVQVGF  60
+
+Query  58  TRFALRKSEAKCIYVEG  74
+           TRFALR SEAK + V+ 
+Sbjct  61  TRFALRISEAKRVVVDA  77
+
+
+>WP_053519514.1 ferrous iron transport protein A [Stenotrophomonas maltophilia]
+Length=84
+
+ Score = 72.0 bits (175),  Expect = 4e-015, Method: Compositional matrix adjust.
+ Identities = 37/77 (48%), Positives = 51/77 (66%), Gaps = 3/77 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L     A+V  VQ   A+  ++ RL  LGF+   EVR++ KG  GG+P+LVQ+GF
+Sbjct  1   MTLSELPLHTSAVVDSVQDLHANDAIARRLRELGFVKGEEVRLVAKGPLGGEPLLVQVGF  60
+
+Query  58  TRFALRKSEAKCIYVEG  74
+           TRFALR SEAK + ++ 
+Sbjct  61  TRFALRISEAKRVVIDA  77
+
+
+>WP_038688583.1 ferrous iron transport protein A [Stenotrophomonas rhizophila]
+Length=84
+
+ Score = 72.0 bits (175),  Expect = 5e-015, Method: Compositional matrix adjust.
+ Identities = 37/80 (46%), Positives = 53/80 (66%), Gaps = 3/80 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LSDL     A+V  VQ   A+  ++ RL  LGF+   +VR++ +G  GG+P+LVQ+GF
+Sbjct  1   MTLSDLPLHGSALVDAVQDLHANDAIARRLRELGFVKGEDVRLVARGPVGGEPLLVQVGF  60
+
+Query  58  TRFALRKSEAKCIYVEGLNS  77
+           TRFALR+SEA+ I V  + +
+Sbjct  61  TRFALRRSEARRILVTAIPA  80
+
+
+>WP_008265355.1 ferrous iron transport protein A [Stenotrophomonas sp. SKA14]
+Length=84
+
+ Score = 71.6 bits (174),  Expect = 5e-015, Method: Compositional matrix adjust.
+ Identities = 38/76 (50%), Positives = 51/76 (67%), Gaps = 3/76 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L     A+V  VQ   A+  ++ RL  LGF+   EVR++ KG  GG+P+LVQ+GF
+Sbjct  1   MTLSELPLHTSAVVGSVQDLHANDAIARRLRELGFVKGEEVRLVAKGPVGGEPLLVQVGF  60
+
+Query  58  TRFALRKSEAKCIYVE  73
+           TRFALR SEAK + V+
+Sbjct  61  TRFALRISEAKRVVVD  76
+
+
+>WP_005416370.1 MULTISPECIES: ferrous iron transport protein A [Proteobacteria]
+Length=84
+
+ Score = 71.6 bits (174),  Expect = 6e-015, Method: Compositional matrix adjust.
+ Identities = 38/77 (49%), Positives = 51/77 (66%), Gaps = 3/77 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L     A+V  VQ   A+  ++ RL  LGF+   EVR++ KG  GG+P+LVQ+GF
+Sbjct  1   MTLSELPLHTSAVVESVQDLHANDAIARRLRELGFVNGEEVRLVAKGPVGGEPLLVQVGF  60
+
+Query  58  TRFALRKSEAKCIYVEG  74
+           TRFALR SEAK + V+ 
+Sbjct  61  TRFALRISEAKRVVVDA  77
+
+
+>WP_028534277.1 ferrous iron transport protein A [Paludibacterium yongneupense]
+Length=80
+
+ Score = 71.6 bits (174),  Expect = 6e-015, Method: Compositional matrix adjust.
+ Identities = 38/75 (51%), Positives = 48/75 (64%), Gaps = 3/75 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           MYLSDL     A V  V+   AS  ++ RL  LGF+    VR++T   +GGDP+LVQIG 
+Sbjct  1   MYLSDLPKGAAATVEHVEDATASDAIAQRLRDLGFVHGEPVRIVTHAPWGGDPLLVQIGS  60
+
+Query  58  TRFALRKSEAKCIYV  72
+           TRFALR+ EA+ I V
+Sbjct  61  TRFALRRREARRIVV  75
+
+
+>WP_079221735.1 ferrous iron transport protein A [Stenotrophomonas maltophilia]
+Length=84
+
+ Score = 71.6 bits (174),  Expect = 6e-015, Method: Compositional matrix adjust.
+ Identities = 38/76 (50%), Positives = 51/76 (67%), Gaps = 3/76 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L     A+V  VQ   A+  ++ RL  LGF+   EVR++ KG  GG+P+LVQ+GF
+Sbjct  1   MTLSELPLHTPAVVDSVQDLHANDAIARRLRELGFVKGEEVRLVAKGPVGGEPLLVQVGF  60
+
+Query  58  TRFALRKSEAKCIYVE  73
+           TRFALR SEAK I ++
+Sbjct  61  TRFALRISEAKRIVID  76
+
+
+>WP_021204543.1 ferrous iron transport protein A [Stenotrophomonas maltophilia]
+Length=84
+
+ Score = 71.6 bits (174),  Expect = 6e-015, Method: Compositional matrix adjust.
+ Identities = 38/77 (49%), Positives = 51/77 (66%), Gaps = 3/77 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L     A+V  VQ   A+  ++ RL  LGF+   EVR++ KG  GG+P+LVQ+GF
+Sbjct  1   MTLSELPLHTSAVVESVQDLHANDAIARRLRELGFVNGEEVRLVAKGPVGGEPLLVQVGF  60
+
+Query  58  TRFALRKSEAKCIYVEG  74
+           TRFALR SEAK + V+ 
+Sbjct  61  TRFALRISEAKRVVVDA  77
+
+
+>WP_049416284.1 ferrous iron transport protein A [Stenotrophomonas maltophilia]
+Length=84
+
+ Score = 71.2 bits (173),  Expect = 8e-015, Method: Compositional matrix adjust.
+ Identities = 38/77 (49%), Positives = 51/77 (66%), Gaps = 3/77 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L     A+V  VQ   A+  ++ RL  LGF+   EVR++ KG  GG+P+LVQ+GF
+Sbjct  1   MTLSELPLHTSAVVESVQDLHANDPIARRLRELGFVNGEEVRLVAKGPVGGEPLLVQVGF  60
+
+Query  58  TRFALRKSEAKCIYVEG  74
+           TRFALR SEAK + V+ 
+Sbjct  61  TRFALRISEAKRVVVDA  77
+
+
+>WP_057509132.1 ferrous iron transport protein A [Stenotrophomonas chelatiphaga]
+Length=83
+
+ Score = 71.2 bits (173),  Expect = 8e-015, Method: Compositional matrix adjust.
+ Identities = 37/75 (49%), Positives = 49/75 (65%), Gaps = 3/75 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LSDL  Q  A+V  V    A+  +S RL  LGF+    VR++ +G  GG+P+LVQ+GF
+Sbjct  1   MTLSDLPLQANAVVETVHDTHANDAISRRLRELGFVKGESVRLVARGPIGGEPLLVQVGF  60
+
+Query  58  TRFALRKSEAKCIYV  72
+           TRFALR+SEA  I +
+Sbjct  61  TRFALRRSEAARIQI  75
+
+
+>WP_053462674.1 ferrous iron transport protein A [Stenotrophomonas maltophilia]
+Length=84
+
+ Score = 71.2 bits (173),  Expect = 9e-015, Method: Compositional matrix adjust.
+ Identities = 38/79 (48%), Positives = 53/79 (67%), Gaps = 3/79 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L     A+V  VQ   A+  ++ RL  LGF+   EVR++ KG  GG+P+LVQ+GF
+Sbjct  1   MTLSELPLHISAVVESVQDLHANDAIARRLRELGFVNGEEVRLVAKGPVGGEPLLVQVGF  60
+
+Query  58  TRFALRKSEAKCIYVEGLN  76
+           TRFALR SEAK + V+ ++
+Sbjct  61  TRFALRISEAKRVVVDAVS  79
+
+
+>WP_034219925.1 ferrous iron transport protein A [Arenimonas donghaensis]
+Length=81
+
+ Score = 70.9 bits (172),  Expect = 1e-014, Method: Compositional matrix adjust.
+ Identities = 34/76 (45%), Positives = 49/76 (64%), Gaps = 3/76 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LSDL     AIV+ V        ++ RL  +GF+P   VR++T+G  GG+P+LVQ+GF
+Sbjct  1   MVLSDLPTGNEAIVSDVHDAGPGDAVARRLRDIGFVPGESVRLLTRGPLGGEPLLVQVGF  60
+
+Query  58  TRFALRKSEAKCIYVE  73
+           TRFA+R+ EA  + +E
+Sbjct  61  TRFAMRRQEAARVKLE  76
+
+
+>WP_065198715.1 ferrous iron transport protein A [Stenotrophomonas maltophilia]
+Length=84
+
+ Score = 70.9 bits (172),  Expect = 1e-014, Method: Compositional matrix adjust.
+ Identities = 37/77 (48%), Positives = 51/77 (66%), Gaps = 3/77 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L     A+V  VQ   A+  ++ RL  LGF+   EVR++ KG  GG+P+LVQ+GF
+Sbjct  1   MTLSELPLHTPALVESVQDLHANDAIARRLRELGFVKGEEVRLVAKGPVGGEPLLVQVGF  60
+
+Query  58  TRFALRKSEAKCIYVEG  74
+           TRFALR SEAK + ++ 
+Sbjct  61  TRFALRISEAKRVVIDA  77
+
+
+>WP_019182966.1 MULTISPECIES: ferrous iron transport protein A [Stenotrophomonas]
+Length=85
+
+ Score = 70.9 bits (172),  Expect = 1e-014, Method: Compositional matrix adjust.
+ Identities = 38/79 (48%), Positives = 51/79 (65%), Gaps = 3/79 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LSDL     A+V  VQ   A+  ++ RL+ LGF+   EVR++ +G  G +P+LVQ+GF
+Sbjct  1   MTLSDLALYSSALVESVQELHANDAIARRLKELGFVKGEEVRLVARGPVGAEPLLVQVGF  60
+
+Query  58  TRFALRKSEAKCIYVEGLN  76
+           TRFALR+SEA  I V  L 
+Sbjct  61  TRFALRRSEAARIVVTALQ  79
+
+
+>WP_027679437.1 iron transporter FeoA [Ralstonia sp. UNC404CL21Col]
+Length=102
+
+ Score = 71.2 bits (173),  Expect = 1e-014, Method: Compositional matrix adjust.
+ Identities = 36/77 (47%), Positives = 50/77 (65%), Gaps = 3/77 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L+ +  A+V  V+    +  +S RL  LGF+   EVRV+  G FGGDP++VQ+GF
+Sbjct  1   MRLSELSRRATAVVDHVEDREPADPISQRLRELGFVTGEEVRVVAVGPFGGDPLVVQVGF  60
+
+Query  58  TRFALRKSEAKCIYVEG  74
+           TRFALR+ EA  + V  
+Sbjct  61  TRFALRRQEAARVRVHA  77
+
+
+>WP_024978288.1 iron transporter FeoA [Ralstonia pickettii]
+Length=102
+
+ Score = 71.2 bits (173),  Expect = 1e-014, Method: Compositional matrix adjust.
+ Identities = 36/75 (48%), Positives = 51/75 (68%), Gaps = 3/75 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L+ +  A+V  V+   ++  +S RL  LGF+   EVRV+  G FGGDP++VQ+GF
+Sbjct  1   MRLSELSRRATAVVDHVEDRESADPISQRLRELGFVTGEEVRVVAVGPFGGDPLVVQVGF  60
+
+Query  58  TRFALRKSEAKCIYV  72
+           TRFALR+ EA  + V
+Sbjct  61  TRFALRRQEAARVRV  75
+
+
+>WP_004627969.1 iron transporter FeoA [Ralstonia pickettii]
+Length=102
+
+ Score = 71.2 bits (173),  Expect = 1e-014, Method: Compositional matrix adjust.
+ Identities = 37/78 (47%), Positives = 51/78 (65%), Gaps = 5/78 (6%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L+ +  A+V  V+    +  +S RL  LGF+   EVRV+  G FGGDP++VQ+GF
+Sbjct  1   MRLSELSRRATAVVDHVEDREPADPISQRLRELGFVTGEEVRVVAVGPFGGDPLVVQVGF  60
+
+Query  58  TRFALRKSEAK--CIYVE  73
+           TRFALR+ EA   C+  E
+Sbjct  61  TRFALRRQEAARVCVRAE  78
+
+
+>WP_068097785.1 MULTISPECIES: ferrous iron transport protein A [Rhodanobacter]
+Length=81
+
+ Score = 70.5 bits (171),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 38/75 (51%), Positives = 48/75 (64%), Gaps = 3/75 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKV---QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LSDL     A+V +V    A+  ++ RL  LGF+    VRV+  G  GGDP+LVQIGF
+Sbjct  1   MRLSDLPKGAPAVVDRVDDAHAADPIAQRLRDLGFVDGEPVRVVAVGPMGGDPLLVQIGF  60
+
+Query  58  TRFALRKSEAKCIYV  72
+           TRFALR++EA  I V
+Sbjct  61  TRFALRRAEAARISV  75
+
+
+>WP_019661455.1 ferrous iron transport protein A [Stenotrophomonas maltophilia]
+Length=84
+
+ Score = 70.5 bits (171),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 38/77 (49%), Positives = 51/77 (66%), Gaps = 3/77 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L     A+V  VQ   A+  ++ RL  LGF+   EVR++ KG  GG+P+LVQ+GF
+Sbjct  1   MTLSELPLHISAVVESVQDLHANDAIARRLRELGFVNGEEVRLVAKGPVGGEPLLVQVGF  60
+
+Query  58  TRFALRKSEAKCIYVEG  74
+           TRFALR SEAK + V+ 
+Sbjct  61  TRFALRISEAKRVVVDA  77
+
+
+>WP_068858123.1 ferrous iron transport protein A [Perlucidibaca sp. BK296]
+Length=79
+
+ Score = 70.5 bits (171),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 38/76 (50%), Positives = 48/76 (63%), Gaps = 3/76 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASL---ILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LSDL     A V +V+A+     ++ RL  LGF+P   VR+   G  G DPILVQIGF
+Sbjct  1   MRLSDLPRYTTATVQRVEAAYSNDAIAQRLADLGFVPGESVRLTATGPVGQDPILVQIGF  60
+
+Query  58  TRFALRKSEAKCIYVE  73
+           TRFALR++EA  + VE
+Sbjct  61  TRFALRRTEADRVLVE  76
+
+
+>WP_083840351.1 ferrous iron transport protein A [Ralstonia sp. PBA]
+Length=78
+
+ Score = 70.1 bits (170),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 36/75 (48%), Positives = 48/75 (64%), Gaps = 3/75 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQA---SLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L   Q  IV  V A     ++++RL  LGF+    VRV+    FGGDPI+VQIGF
+Sbjct  1   MLLSELARSQVGIVDAVHALSADDVIAHRLRDLGFVAGEPVRVVATSPFGGDPIVVQIGF  60
+
+Query  58  TRFALRKSEAKCIYV  72
+           TRFALR +EA  +++
+Sbjct  61  TRFALRHAEAARVHL  75
+
+
+>WP_054656730.1 ferrous iron transport protein A [[Pseudomonas] pictorum]
+Length=90
+
+ Score = 70.5 bits (171),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 35/80 (44%), Positives = 52/80 (65%), Gaps = 3/80 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LSDL     A V  V    A+  ++ RL  LGF+   EVR++ +G  GG+P+L+Q+GF
+Sbjct  1   MTLSDLPLHASAQVESVHDLHANDAIARRLRELGFVNGEEVRMVARGPVGGEPLLIQVGF  60
+
+Query  58  TRFALRKSEAKCIYVEGLNS  77
+           TRFALR+SEA  + + G+++
+Sbjct  61  TRFALRRSEASRVQLSGVDA  80
+
+
+>WP_045205397.1 iron transporter FeoA [Burkholderiaceae bacterium 26]
+Length=102
+
+ Score = 70.9 bits (172),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 36/80 (45%), Positives = 52/80 (65%), Gaps = 3/80 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L+ +  A+V  V+    +  +S RL  LGF+   EVRV+  G FGGDP++VQ+GF
+Sbjct  1   MRLSELSRRATAVVDHVEDREPADPISQRLRELGFVTGEEVRVVAVGPFGGDPLVVQVGF  60
+
+Query  58  TRFALRKSEAKCIYVEGLNS  77
+           TRFALR+ EA  + V   ++
+Sbjct  61  TRFALRRQEAARVRVRAQSA  80
+
+
+>WP_056386392.1 ferrous iron transport protein A [Rhodanobacter sp. Soil772]
+Length=81
+
+ Score = 70.1 bits (170),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 37/75 (49%), Positives = 48/75 (64%), Gaps = 3/75 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKV---QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LSDL     A+V +V    A+  ++ RL  LGF+    VRV+  G  GGDP+L+QIGF
+Sbjct  1   MRLSDLPKGAPAVVDRVDDAHAADPIAQRLRDLGFVDGEPVRVVAVGPMGGDPLLIQIGF  60
+
+Query  58  TRFALRKSEAKCIYV  72
+           TRFALR++EA  I V
+Sbjct  61  TRFALRRAEAARISV  75
+
+
+>WP_007510622.1 MULTISPECIES: ferrous iron transport protein A [Rhodanobacter]
+Length=81
+
+ Score = 70.1 bits (170),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 37/75 (49%), Positives = 48/75 (64%), Gaps = 3/75 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKV---QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LSDL     A+V +V    A+  ++ RL  LGF+    VRV+  G  GGDP+LVQIGF
+Sbjct  1   MRLSDLPKGAPAVVERVDDAHAADPIAQRLRDLGFVDGEPVRVVAVGPMGGDPLLVQIGF  60
+
+Query  58  TRFALRKSEAKCIYV  72
+           TRFALR++EA  + V
+Sbjct  61  TRFALRRAEAARVSV  75
+
+
+>WP_027489864.1 ferrous iron transport protein A [Rhodanobacter sp. OR92]
+Length=81
+
+ Score = 70.1 bits (170),  Expect = 3e-014, Method: Compositional matrix adjust.
+ Identities = 37/75 (49%), Positives = 48/75 (64%), Gaps = 3/75 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKV---QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LSDL     A+V +V    A+  ++ RL  LGF+    VRV+  G  GGDP+LVQIGF
+Sbjct  1   MRLSDLPKGAPAVVERVDDAHAADPIAQRLRDLGFVDGEPVRVVAVGPMGGDPLLVQIGF  60
+
+Query  58  TRFALRKSEAKCIYV  72
+           TRFALR++EA  + V
+Sbjct  61  TRFALRRAEAARVSV  75
+
+
+>WP_042612821.1 ferrous iron transport protein A [Stenotrophomonas maltophilia]
+Length=83
+
+ Score = 70.1 bits (170),  Expect = 3e-014, Method: Compositional matrix adjust.
+ Identities = 36/75 (48%), Positives = 49/75 (65%), Gaps = 3/75 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LSDL  Q  A+V  V    A+  ++ RL  LGF+    VR++ +G  GG+P+LVQ+GF
+Sbjct  1   MTLSDLPLQTNAVVETVHDTHANDTIARRLRELGFVQGESVRLVARGPVGGEPLLVQVGF  60
+
+Query  58  TRFALRKSEAKCIYV  72
+           TRFALR+SEA  + V
+Sbjct  61  TRFALRRSEAARVQV  75
+
+
+>WP_018082506.1 ferrous iron transport protein A [Asticcacaulis benevestitus]
+Length=79
+
+ Score = 69.7 bits (169),  Expect = 3e-014, Method: Compositional matrix adjust.
+ Identities = 37/76 (49%), Positives = 49/76 (64%), Gaps = 3/76 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKV---QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M L++L A    +VT V       ++SNRL  LGF+    VRV+ +G  G DP+L+QIGF
+Sbjct  1   MKLTELPAFAPGLVTGVIDTHDGDLISNRLRELGFVDGEPVRVVGRGPIGADPLLIQIGF  60
+
+Query  58  TRFALRKSEAKCIYVE  73
+           TRFALR+SEA  + VE
+Sbjct  61  TRFALRRSEAARVMVE  76
+
+
+>WP_057639807.1 ferrous iron transport protein A [Stenotrophomonas daejeonensis]
+Length=81
+
+ Score = 69.7 bits (169),  Expect = 3e-014, Method: Compositional matrix adjust.
+ Identities = 37/75 (49%), Positives = 50/75 (67%), Gaps = 3/75 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LSDL     A V +VQ   A+  ++ RL  LGF+   +VR++ +G  GG+P+LVQ+GF
+Sbjct  1   MTLSDLPLHAAAQVEEVQDMHANDAIARRLRELGFVGGEDVRMVARGPLGGEPLLVQVGF  60
+
+Query  58  TRFALRKSEAKCIYV  72
+           TRFALR+SEA  I V
+Sbjct  61  TRFALRRSEAARIRV  75
+
+
+>WP_041676681.1 ferrous iron transport protein A [Rhodanobacter denitrificans]
+Length=81
+
+ Score = 69.7 bits (169),  Expect = 3e-014, Method: Compositional matrix adjust.
+ Identities = 37/75 (49%), Positives = 48/75 (64%), Gaps = 3/75 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKV---QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LSDL     A+V +V    A+  ++ RL  LGF+    VRV+  G  GGDP+LVQIGF
+Sbjct  1   MRLSDLPRGAPAVVERVDDAHAADPIAQRLRDLGFVDGEPVRVVAVGPMGGDPLLVQIGF  60
+
+Query  58  TRFALRKSEAKCIYV  72
+           TRFALR++EA  + V
+Sbjct  61  TRFALRRAEAARVSV  75
+
+
+>WP_007804835.1 MULTISPECIES: ferrous iron transport protein A [Rhodanobacter]
+Length=81
+
+ Score = 69.3 bits (168),  Expect = 5e-014, Method: Compositional matrix adjust.
+ Identities = 36/75 (48%), Positives = 48/75 (64%), Gaps = 3/75 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L     A+V +V    A+  ++ RL  LGF+    VRV+  G  GGDP+L+QIGF
+Sbjct  1   MRLSELPKGAPAVVDRVHDAHAADPIAQRLRDLGFVDGEPVRVVAVGPMGGDPVLIQIGF  60
+
+Query  58  TRFALRKSEAKCIYV  72
+           TRFALRK+EA  + V
+Sbjct  61  TRFALRKAEASRVSV  75
+
+
+>WP_025874743.1 MULTISPECIES: ferrous iron transport protein A [Stenotrophomonas]
+Length=84
+
+ Score = 69.3 bits (168),  Expect = 5e-014, Method: Compositional matrix adjust.
+ Identities = 35/76 (46%), Positives = 51/76 (67%), Gaps = 3/76 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L     A+V  VQ   A+  ++ RL  LGF+   EVR++ +G  GG+P+LVQ+GF
+Sbjct  1   MTLSELPLHASAVVDSVQDLHANDAIARRLRELGFVKGEEVRLVARGPVGGEPLLVQVGF  60
+
+Query  58  TRFALRKSEAKCIYVE  73
+           TRFALR SEA+ + ++
+Sbjct  61  TRFALRISEARRVVID  76
+
+
+>WP_079227365.1 ferrous iron transport protein A [Pseudomonas putida]
+Length=78
+
+ Score = 68.9 bits (167),  Expect = 5e-014, Method: Compositional matrix adjust.
+ Identities = 34/76 (45%), Positives = 51/76 (67%), Gaps = 3/76 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M L DL  +Q A VT+V+    + ++  RL+ +GF+P   V ++ +  +GGDP+LVQ+G 
+Sbjct  1   MRLCDLPGRQEACVTQVERNGDTDLVGQRLQDIGFVPGERVSIVARAPWGGDPVLVQVGS  60
+
+Query  58  TRFALRKSEAKCIYVE  73
+           TRFALR SEA+ I V+
+Sbjct  61  TRFALRLSEAQKILVK  76
+
+
+>WP_057501495.1 ferrous iron transport protein A [Stenotrophomonas maltophilia]
+Length=84
+
+ Score = 69.3 bits (168),  Expect = 5e-014, Method: Compositional matrix adjust.
+ Identities = 37/77 (48%), Positives = 50/77 (65%), Gaps = 3/77 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L     A+V  VQ   A+  ++ RL  LGF+   EVR++ KG  GG+P+LVQ+GF
+Sbjct  1   MTLSELPLHTSAVVESVQDLHANDAIARRLRELGFVNGEEVRLVAKGPVGGEPLLVQVGF  60
+
+Query  58  TRFALRKSEAKCIYVEG  74
+           TRFALR SEA  + V+ 
+Sbjct  61  TRFALRISEAMRVVVDA  77
+
+
+>WP_055773139.1 MULTISPECIES: ferrous iron transport protein A [Stenotrophomonas]
+Length=81
+
+ Score = 68.9 bits (167),  Expect = 6e-014, Method: Compositional matrix adjust.
+ Identities = 36/75 (48%), Positives = 49/75 (65%), Gaps = 3/75 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LSDL     A V  VQ   A+  ++ RL  LGF+   +VRV+ +G  GG+P+LVQ+GF
+Sbjct  1   MTLSDLPLHAPAQVEAVQDLHANDAIARRLRELGFVDGEDVRVVARGPVGGEPLLVQVGF  60
+
+Query  58  TRFALRKSEAKCIYV  72
+           TRFALR+SEA  + +
+Sbjct  61  TRFALRRSEAARVRI  75
+
+
+>WP_071017547.1 MULTISPECIES: ferrous iron transport protein A [Cupriavidus]
+Length=102
+
+ Score = 69.7 bits (169),  Expect = 6e-014, Method: Compositional matrix adjust.
+ Identities = 33/76 (43%), Positives = 51/76 (67%), Gaps = 3/76 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASLI---LSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M L +L  +  A+VT V+ ++    +S RL  LGF+P   V+++  G FG DP++ Q+GF
+Sbjct  1   MRLPELPRRTVAVVTSVEDAMPNDPVSRRLRELGFVPGETVQIVAHGPFGKDPLVAQVGF  60
+
+Query  58  TRFALRKSEAKCIYVE  73
+           TRFALR++EA+ I +E
+Sbjct  61  TRFALRRAEAERIAIE  76
+
+
+>WP_059286519.1 ferrous iron transport protein A [Aquitalea magnusonii]
+Length=82
+
+ Score = 68.9 bits (167),  Expect = 7e-014, Method: Compositional matrix adjust.
+ Identities = 36/76 (47%), Positives = 51/76 (67%), Gaps = 3/76 (4%)
+
+Query  1   MYLSDLNAQQRAIVT---KVQASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L  QQ A V    K+QA   ++ RL+ +GF+    V+VIT+  +GGDPILVQ+G 
+Sbjct  1   MRLSELGKQQTASVVGVEKLQADDAIAARLQDIGFVAGETVKVITRAPWGGDPILVQVGT  60
+
+Query  58  TRFALRKSEAKCIYVE  73
+           +RFALR+ EA  I ++
+Sbjct  61  SRFALRREEASRIVLQ  76
+
+
+>WP_072895896.1 ferrous iron transport protein A [Hydrocarboniphaga daqingensis]
+Length=79
+
+ Score = 68.9 bits (167),  Expect = 7e-014, Method: Compositional matrix adjust.
+ Identities = 37/76 (49%), Positives = 48/76 (63%), Gaps = 3/76 (4%)
+
+Query  1   MYLSDLNAQQRAI---VTKVQASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LSDL+    A+   V  V     +S RL  LGF+    VRV+  G FGGDP+L+QIGF
+Sbjct  1   MRLSDLSRDVPAVIVTVDDVTRPDPISGRLRDLGFVAGEAVRVVANGPFGGDPMLIQIGF  60
+
+Query  58  TRFALRKSEAKCIYVE  73
+           T+FALR++EA  + VE
+Sbjct  61  TQFALRRAEAARVQVE  76
+
+
+>WP_039953653.1 ferrous iron transport protein A [Rhodanobacter thiooxydans]
+Length=81
+
+ Score = 68.6 bits (166),  Expect = 9e-014, Method: Compositional matrix adjust.
+ Identities = 36/75 (48%), Positives = 48/75 (64%), Gaps = 3/75 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKV---QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L     A+V +V    AS  ++ RL  LGF+    VRV+  G  GGDP+L+QIGF
+Sbjct  1   MRLSELPKGAPAVVDRVDDAHASDPIAQRLRDLGFVDGEPVRVVAVGPMGGDPLLIQIGF  60
+
+Query  58  TRFALRKSEAKCIYV  72
+           TRFALR++EA  + V
+Sbjct  61  TRFALRRAEAARVSV  75
+
+
+>WP_069261715.1 ferrous iron transport protein A [Paraburkholderia nodosa]
+Length=83
+
+ Score = 68.6 bits (166),  Expect = 9e-014, Method: Compositional matrix adjust.
+ Identities = 34/75 (45%), Positives = 50/75 (67%), Gaps = 3/75 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M L+DL+    A+V +V+   A   ++ RL  LGF+P   VRV+ +  +G DP+LVQIG 
+Sbjct  1   MRLTDLSKGATALVERVEDIRAPDPIAKRLRDLGFVPGEPVRVVARAPWGADPLLVQIGS  60
+
+Query  58  TRFALRKSEAKCIYV  72
+           TRFALR++EA+ + V
+Sbjct  61  TRFALRRAEAQRVSV  75
+
+
+>WP_026033908.1 ferrous iron transport protein A [Dyella japonica]
+Length=81
+
+ Score = 68.6 bits (166),  Expect = 9e-014, Method: Compositional matrix adjust.
+ Identities = 35/77 (45%), Positives = 48/77 (62%), Gaps = 3/77 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKV---QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LSDL     A+V +V    AS +++ RL  LGF+    VRV+ +G  G DP+L+QIG 
+Sbjct  1   MRLSDLPKGATAVVDRVDDAHASDVIAQRLRDLGFVSGEPVRVVAQGPMGADPLLIQIGS  60
+
+Query  58  TRFALRKSEAKCIYVEG  74
+           TRFALR+ EA+ + V  
+Sbjct  61  TRFALRRKEAERVLVHA  77
+
+
+>WP_061957658.1 ferrous iron transport protein A [Cupriavidus pauculus]
+Length=101
+
+ Score = 68.9 bits (167),  Expect = 9e-014, Method: Compositional matrix adjust.
+ Identities = 37/76 (49%), Positives = 50/76 (66%), Gaps = 3/76 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASLI---LSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L+ +  AIV  V  +     ++ RL  LGF+P   V++IT G FG DP++ Q+GF
+Sbjct  1   MRLSELSRRTVAIVKSVDDATPNDPVARRLRDLGFVPGETVQIITFGPFGKDPLVAQVGF  60
+
+Query  58  TRFALRKSEAKCIYVE  73
+           TRFALR+SEA  I VE
+Sbjct  61  TRFALRRSEADRIAVE  76
+
+
+>WP_019449849.1 ferrous iron transport protein A [Cupriavidus sp. BIS7]
+Length=100
+
+ Score = 68.9 bits (167),  Expect = 1e-013, Method: Compositional matrix adjust.
+ Identities = 36/80 (45%), Positives = 53/80 (66%), Gaps = 3/80 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L  +  A+V  V    A+  ++ RL  LGF+P  EV++I  G FG DP++ Q+G+
+Sbjct  1   MRLSELPRRTAAVVKSVNDEFANDPVARRLRDLGFVPGEEVQIIAVGPFGKDPLVAQVGY  60
+
+Query  58  TRFALRKSEAKCIYVEGLNS  77
+           TRFALR++EA  I VE L++
+Sbjct  61  TRFALRRAEAARITVEVLSA  80
+
+
+>WP_020206086.1 ferrous iron transport protein A [Cupriavidus sp. WS]
+Length=101
+
+ Score = 68.9 bits (167),  Expect = 1e-013, Method: Compositional matrix adjust.
+ Identities = 36/80 (45%), Positives = 52/80 (65%), Gaps = 3/80 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L  +  A++  V    +S  ++ RL  LGF+P   V+VI  G FG DP++ Q+GF
+Sbjct  1   MRLSELPRRTAAVIVSVDDTSSSDPVARRLRELGFVPGEAVQVIALGPFGMDPLVAQVGF  60
+
+Query  58  TRFALRKSEAKCIYVEGLNS  77
+           TRFALR+SEA  I VE +++
+Sbjct  61  TRFALRRSEAARITVEAVSA  80
+
+
+>WP_059412062.1 ferrous iron transport protein A [Cupriavidus basilensis]
+Length=101
+
+ Score = 68.9 bits (167),  Expect = 1e-013, Method: Compositional matrix adjust.
+ Identities = 36/80 (45%), Positives = 52/80 (65%), Gaps = 3/80 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L  +  A++  V    +S  ++ RL  LGF+P   V+VI  G FG DP++ Q+GF
+Sbjct  1   MRLSELPRRTAAVIVSVDDTSSSDPVARRLRELGFVPGEAVQVIALGPFGMDPLVAQVGF  60
+
+Query  58  TRFALRKSEAKCIYVEGLNS  77
+           TRFALR+SEA  I VE +++
+Sbjct  61  TRFALRRSEAARITVEAVSA  80
+
+
+>WP_054666005.1 ferrous iron transport protein A [Stenotrophomonas acidaminiphila]
+Length=81
+
+ Score = 68.2 bits (165),  Expect = 1e-013, Method: Compositional matrix adjust.
+ Identities = 37/75 (49%), Positives = 48/75 (64%), Gaps = 3/75 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LSDL     A V  VQ    +  ++ RL  LGF+   +VRV+ +G  GG+P+LVQIGF
+Sbjct  1   MTLSDLPLHAPAQVEAVQDLHPNDAIARRLRELGFVDGEDVRVVARGPVGGEPLLVQIGF  60
+
+Query  58  TRFALRKSEAKCIYV  72
+           TRFALR+SEA  I +
+Sbjct  61  TRFALRRSEAARIRI  75
+
+
+>WP_059533149.1 MULTISPECIES: ferrous iron transport protein A [Burkholderia 
+cepacia complex]
+Length=81
+
+ Score = 68.2 bits (165),  Expect = 1e-013, Method: Compositional matrix adjust.
+ Identities = 34/75 (45%), Positives = 48/75 (64%), Gaps = 3/75 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKV---QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L     A+V  V   Q    ++ RL  LGF+P   VRV+ +G +G DPIL+QIG 
+Sbjct  1   MRLSNLTKYTPALVDHVDDVQPDDPIAQRLRDLGFVPGEPVRVVARGPWGADPILIQIGS  60
+
+Query  58  TRFALRKSEAKCIYV  72
+           TRFALR++EA+ + +
+Sbjct  61  TRFALRRAEAERVSI  75
+
+
+>WP_027493010.1 ferrous iron transport protein A [Rhodanobacter sp. OR444]
+Length=81
+
+ Score = 68.2 bits (165),  Expect = 1e-013, Method: Compositional matrix adjust.
+ Identities = 36/75 (48%), Positives = 48/75 (64%), Gaps = 3/75 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKV---QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L     A+V +V    AS  ++ RL  LGF+    VRV+  G  GGDP+L+QIGF
+Sbjct  1   MRLSELPKGAPAVVDRVDDAHASDPIAQRLRDLGFVGGEPVRVVAVGPMGGDPLLIQIGF  60
+
+Query  58  TRFALRKSEAKCIYV  72
+           TRFALR++EA  + V
+Sbjct  61  TRFALRRAEAARVSV  75
+
+
+>WP_057628640.1 MULTISPECIES: ferrous iron transport protein A [Stenotrophomonas]
+Length=82
+
+ Score = 68.2 bits (165),  Expect = 1e-013, Method: Compositional matrix adjust.
+ Identities = 39/82 (48%), Positives = 51/82 (62%), Gaps = 5/82 (6%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LSDL     A V  VQ   A+  ++ RL  LGF+   EVR++ +G  GG+P+L Q+GF
+Sbjct  1   MTLSDLPLHASARVESVQDLHANDAIARRLRELGFVNGEEVRLVARGPVGGEPLLYQVGF  60
+
+Query  58  TRFALRKSEAKCIYV--EGLNS  77
+           TRFALR+SEA  + V  EG  S
+Sbjct  61  TRFALRRSEAARVQVSAEGAQS  82
+
+
+>WP_057636787.1 ferrous iron transport protein A [Stenotrophomonas ginsengisoli]
+Length=79
+
+ Score = 67.8 bits (164),  Expect = 2e-013, Method: Compositional matrix adjust.
+ Identities = 35/76 (46%), Positives = 50/76 (66%), Gaps = 3/76 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASL---ILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L   + A VT V  +L    ++ RL  LGF+P  +V V+ +G  GG+P+L+Q+G+
+Sbjct  1   MTLSELALHRPANVTAVVDALPNDTIARRLRELGFVPGEQVSVVARGPIGGEPVLIQVGY  60
+
+Query  58  TRFALRKSEAKCIYVE  73
+           TRFALR SEA  + VE
+Sbjct  61  TRFALRLSEAARVQVE  76
+
+
+>WP_072760566.1 ferrous iron transport protein A [Rhodanobacter sp. OK091]
+Length=81
+
+ Score = 67.8 bits (164),  Expect = 2e-013, Method: Compositional matrix adjust.
+ Identities = 35/75 (47%), Positives = 49/75 (65%), Gaps = 3/75 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L+    A+V +V    A+  ++ RL  LGF+    VRV+  G  GGDP+L+QIG+
+Sbjct  1   MRLSELSKGASAVVDRVHDAHAADPIAQRLRDLGFVDGEPVRVVAIGPMGGDPVLIQIGY  60
+
+Query  58  TRFALRKSEAKCIYV  72
+           TRFALR++EA  I V
+Sbjct  61  TRFALRRAEAARISV  75
+
+
+>WP_079725740.1 ferrous iron transport protein A [Pseudoxanthomonas indica]
+Length=82
+
+ Score = 67.8 bits (164),  Expect = 2e-013, Method: Compositional matrix adjust.
+ Identities = 37/80 (46%), Positives = 50/80 (63%), Gaps = 3/80 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASLILSN---RLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M L++L A+  AIV  V+      N   RL  LGF+   +V+++ KG FG +P+LVQ+GF
+Sbjct  1   MMLTELPARALAIVETVEDHAPNDNIARRLRELGFVDGEQVQIVAKGPFGAEPLLVQVGF  60
+
+Query  58  TRFALRKSEAKCIYVEGLNS  77
+           TRFALR+SEA  I V  L  
+Sbjct  61  TRFALRRSEAARIRVRRLEK  80
+
+
+>WP_077439911.1 ferrous iron transport protein A [Rhodanobacter sp. C01]
+Length=81
+
+ Score = 67.8 bits (164),  Expect = 2e-013, Method: Compositional matrix adjust.
+ Identities = 35/75 (47%), Positives = 48/75 (64%), Gaps = 3/75 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L     A+V +V    A+  ++ RL  LGF+    VRV+  G  GGDP+L+QIG+
+Sbjct  1   MRLSELPQGAPAVVDRVHDAHAADPIAQRLRDLGFVDGEPVRVVATGPMGGDPVLIQIGY  60
+
+Query  58  TRFALRKSEAKCIYV  72
+           TRFALR++EA  I V
+Sbjct  61  TRFALRRAEAARISV  75
+
+
+>WP_057664347.1 ferrous iron transport protein A [Stenotrophomonas koreensis]
+Length=79
+
+ Score = 67.8 bits (164),  Expect = 2e-013, Method: Compositional matrix adjust.
+ Identities = 34/77 (44%), Positives = 51/77 (66%), Gaps = 3/77 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASLI---LSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L+  + A V  V  +L    ++ RL  LGF+P  +VR++ +G  GG+P+L+Q+G+
+Sbjct  1   MTLSELDLHRTATVLMVVDALPNDSIARRLRELGFVPGEQVRLVARGPVGGEPLLIQVGY  60
+
+Query  58  TRFALRKSEAKCIYVEG  74
+           TRFALR SEA  + VE 
+Sbjct  61  TRFALRLSEAARVQVEA  77
+
+
+>WP_013479430.1 ferrous iron transport protein A [Asticcacaulis excentricus]
+Length=78
+
+ Score = 67.4 bits (163),  Expect = 2e-013, Method: Compositional matrix adjust.
+ Identities = 36/75 (48%), Positives = 46/75 (61%), Gaps = 3/75 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LSDL     AIV  V    A   +  RL  LGF+    V+V+ KG FG +P+L+QIGF
+Sbjct  1   MKLSDLPLHSAAIVVDVADLGADDRVGRRLRELGFVADEPVKVVAKGPFGAEPLLIQIGF  60
+
+Query  58  TRFALRKSEAKCIYV  72
+           TRFALR++EA  + V
+Sbjct  61  TRFALRRAEADRVQV  75
+
+
+>WP_057631949.1 ferrous iron transport protein A [Stenotrophomonas humi]
+Length=82
+
+ Score = 67.4 bits (163),  Expect = 2e-013, Method: Compositional matrix adjust.
+ Identities = 34/76 (45%), Positives = 49/76 (64%), Gaps = 3/76 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LSDL     A V  VQ    +  ++ RL  LGF+   EVR++ +G  GG+P+L+Q+GF
+Sbjct  1   MTLSDLPLHAPARVEDVQDMHPNDAIARRLRELGFVSGEEVRLVARGPVGGEPLLIQVGF  60
+
+Query  58  TRFALRKSEAKCIYVE  73
+           TRFALR+SEA  + ++
+Sbjct  61  TRFALRRSEAARVRIQ  76
+
+
+>WP_035862617.1 ferrous iron transport protein A [Cupriavidus sp. SK-3]
+Length=101
+
+ Score = 68.2 bits (165),  Expect = 2e-013, Method: Compositional matrix adjust.
+ Identities = 35/80 (44%), Positives = 51/80 (64%), Gaps = 3/80 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LSDL  +  A++  V     +  ++ RL  LGF+P   V+VI  G FG DP++ Q+GF
+Sbjct  1   MRLSDLARRTAAVIVSVDDNSPNDPVARRLRELGFVPGEAVQVIALGPFGMDPLVAQVGF  60
+
+Query  58  TRFALRKSEAKCIYVEGLNS  77
+           TRFALR++EA  I VE +++
+Sbjct  61  TRFALRRAEAARITVEAVSA  80
+
+
+>WP_077514260.1 ferrous iron transport protein A [Rhodanobacter sp. B05]
+Length=81
+
+ Score = 67.4 bits (163),  Expect = 2e-013, Method: Compositional matrix adjust.
+ Identities = 37/75 (49%), Positives = 47/75 (63%), Gaps = 3/75 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L     A+V +V    A   ++ RL  LGF+    VRV+  G  GGDPIL+QIGF
+Sbjct  1   MRLSELPKGAPAVVDRVHDAHAVDPIARRLRDLGFVDGEPVRVVAVGPMGGDPILIQIGF  60
+
+Query  58  TRFALRKSEAKCIYV  72
+           TRFALR++EA  I V
+Sbjct  61  TRFALRRAEAARISV  75
+
+
+>WP_068851506.1 ferrous iron transport protein A [Stenotrophomonas rhizophila]
+Length=84
+
+ Score = 67.4 bits (163),  Expect = 3e-013, Method: Compositional matrix adjust.
+ Identities = 35/75 (47%), Positives = 49/75 (65%), Gaps = 3/75 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKV---QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LSDL     A+V  V    A+  ++ RL  LGF+   +VR++ +G  GG+P+LVQ+GF
+Sbjct  1   MTLSDLPLHGSALVESVRDLHANDAIARRLRELGFVKGEDVRLVARGPIGGEPLLVQVGF  60
+
+Query  58  TRFALRKSEAKCIYV  72
+           TRFALR SEA+ I +
+Sbjct  61  TRFALRISEARRIDI  75
+
+
+>WP_046972307.1 ferrous iron transport protein A [Dyella japonica]
+Length=81
+
+ Score = 67.4 bits (163),  Expect = 3e-013, Method: Compositional matrix adjust.
+ Identities = 35/76 (46%), Positives = 48/76 (63%), Gaps = 3/76 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKV---QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LSDL     A+V +V    AS  ++ RL  LGF+    VRV+ +G  G DP+L+QIG 
+Sbjct  1   MRLSDLPKGATAVVDRVDDAHASDPIAQRLRDLGFVAGEPVRVVAQGPLGADPLLIQIGS  60
+
+Query  58  TRFALRKSEAKCIYVE  73
+           TRFALR+ EA+ + V+
+Sbjct  61  TRFALRRKEAERVQVQ  76
+
+
+>WP_028770232.1 ferrous iron transport protein A [Silanimonas lenta]
+Length=79
+
+ Score = 67.0 bits (162),  Expect = 4e-013, Method: Compositional matrix adjust.
+ Identities = 36/76 (47%), Positives = 48/76 (63%), Gaps = 3/76 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKV---QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M L DL   QRA V  V     +  ++ RL  LGFIP A +R++    FGGDP+LV IG 
+Sbjct  1   MRLRDLQQGQRARVVAVDDAHPADAIARRLRELGFIPGAPLRLLALAPFGGDPMLVGIGG  60
+
+Query  58  TRFALRKSEAKCIYVE  73
+           +RFALR++EA+ + VE
+Sbjct  61  SRFALRRAEAERVRVE  76
+
+
+>WP_045240923.1 ferrous iron transport protein A [Burkholderiaceae bacterium 
+16]
+Length=101
+
+ Score = 67.4 bits (163),  Expect = 4e-013, Method: Compositional matrix adjust.
+ Identities = 35/80 (44%), Positives = 51/80 (64%), Gaps = 3/80 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LSDL  +  A++  V     +  ++ RL  LGF+P   V+VI  G FG DP++ Q+GF
+Sbjct  1   MRLSDLARRTAAVIVSVDDNSPNDPVARRLRELGFVPGEAVQVIALGPFGMDPLVAQVGF  60
+
+Query  58  TRFALRKSEAKCIYVEGLNS  77
+           TRFALR++EA  I VE +++
+Sbjct  61  TRFALRRAEAARITVEAVSA  80
+
+
+>WP_043290498.1 ferrous iron transport protein A [Pseudoxanthomonas spadix]
+Length=81
+
+ Score = 67.0 bits (162),  Expect = 4e-013, Method: Compositional matrix adjust.
+ Identities = 36/70 (51%), Positives = 46/70 (66%), Gaps = 3/70 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L  + +AIV  VQ    +  ++ RL  LGF+    V V+ +G  G DPILVQIGF
+Sbjct  1   MMLSELPRRTQAIVDSVQDRGPNDTIARRLRELGFVSGEPVEVVARGPIGADPILVQIGF  60
+
+Query  58  TRFALRKSEA  67
+           TRFALR+SEA
+Sbjct  61  TRFALRRSEA  70
+
+
+>WP_063394076.1 iron transporter FeoA [Ralstonia mannitolilytica]
+Length=103
+
+ Score = 67.4 bits (163),  Expect = 4e-013, Method: Compositional matrix adjust.
+ Identities = 34/73 (47%), Positives = 48/73 (66%), Gaps = 3/73 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L+ +  A+V  V+    +  +S RL  LGF+    VRV+  G FGGDP++VQ+GF
+Sbjct  1   MRLSELSRRATAVVDHVEDREPADPISQRLRELGFVTGEPVRVVAVGPFGGDPLVVQVGF  60
+
+Query  58  TRFALRKSEAKCI  70
+           TRFALR+ EA  +
+Sbjct  61  TRFALRRQEADRV  73
+
+
+>WP_045219442.1 iron transporter FeoA [Ralstonia mannitolilytica]
+Length=103
+
+ Score = 67.4 bits (163),  Expect = 4e-013, Method: Compositional matrix adjust.
+ Identities = 34/73 (47%), Positives = 48/73 (66%), Gaps = 3/73 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L+ +  A+V  V+    +  +S RL  LGF+    VRV+  G FGGDP++VQ+GF
+Sbjct  1   MRLSELSRRATAVVDHVEDREPADPISQRLRELGFVTGEPVRVVAVGPFGGDPLVVQVGF  60
+
+Query  58  TRFALRKSEAKCI  70
+           TRFALR+ EA  +
+Sbjct  61  TRFALRRQEADRV  73
+
+
+>WP_019399512.1 MULTISPECIES: ferrous iron transport protein A [Pseudoxanthomonas]
+Length=83
+
+ Score = 67.0 bits (162),  Expect = 4e-013, Method: Compositional matrix adjust.
+ Identities = 33/76 (43%), Positives = 50/76 (66%), Gaps = 3/76 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LSDL  +    VT V+    + +++ RL  LGF+    V+V+ KG  GG+P+LVQ+G+
+Sbjct  1   MLLSDLPPRTPVAVTSVEDRHPNDVVARRLRELGFVAGEPVQVVAKGPLGGEPLLVQVGY  60
+
+Query  58  TRFALRKSEAKCIYVE  73
+           TRFALR++EA  + V+
+Sbjct  61  TRFALRRAEAARVRVQ  76
+
+
+>WP_038491703.1 ferrous iron transport protein A [Collimonas arenae]
+Length=79
+
+ Score = 66.6 bits (161),  Expect = 5e-013, Method: Compositional matrix adjust.
+ Identities = 32/75 (43%), Positives = 48/75 (64%), Gaps = 3/75 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASLI---LSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M L DLN    A++  V+  L+   ++ RL  LGF+    V V+ +G  G DP+++QIGF
+Sbjct  1   MRLCDLNPFTPAVIEHVEDVLVADPIAQRLRELGFVNGEPVSVVARGPVGADPLMIQIGF  60
+
+Query  58  TRFALRKSEAKCIYV  72
+           TRFALR++EA  ++V
+Sbjct  61  TRFALRRAEAHRVHV  75
+
+
+>WP_077554992.1 ferrous iron transport protein A [Rhodanobacter sp. B04]
+Length=81
+
+ Score = 66.6 bits (161),  Expect = 5e-013, Method: Compositional matrix adjust.
+ Identities = 34/75 (45%), Positives = 48/75 (64%), Gaps = 3/75 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L     A+V +V    A+  ++ RL  LGF+    VRV+  G  GGDP+L+QIG+
+Sbjct  1   MRLSELPKGAPAVVDRVHDAHAADPIAQRLRDLGFVDGEPVRVVAVGPMGGDPVLIQIGY  60
+
+Query  58  TRFALRKSEAKCIYV  72
+           TRFALR++EA  + V
+Sbjct  61  TRFALRRAEAARVSV  75
+
+
+>WP_008212175.1 ferrous iron transport protein A [Rhodanobacter sp. 115]
+Length=81
+
+ Score = 66.6 bits (161),  Expect = 5e-013, Method: Compositional matrix adjust.
+ Identities = 35/75 (47%), Positives = 49/75 (65%), Gaps = 3/75 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKV---QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L     A+V +V   QA+  ++ RL  LGF+    VRV+ +G  GGDP+L+QIG 
+Sbjct  1   MRLSELQKGAPAVVERVDDVQAADPIAQRLRDLGFVQGEPVRVVARGPMGGDPLLIQIGS  60
+
+Query  58  TRFALRKSEAKCIYV  72
+           TRFALR++EA  + V
+Sbjct  61  TRFALRRNEAARVEV  75
+
+
+>WP_057647587.1 ferrous iron transport protein A [Stenotrophomonas panacihumi]
+Length=82
+
+ Score = 66.6 bits (161),  Expect = 6e-013, Method: Compositional matrix adjust.
+ Identities = 35/75 (47%), Positives = 49/75 (65%), Gaps = 3/75 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LSD+   Q A+V  VQ   A+  +S RL  LGF+   EV+V+  G  G +P+LVQ+G+
+Sbjct  1   MTLSDMPLHQPALVESVQDRHANDAISRRLRELGFVAGEEVKVVAVGPVGREPLLVQVGY  60
+
+Query  58  TRFALRKSEAKCIYV  72
+           TRFALR++EA  + V
+Sbjct  61  TRFALRRTEAARVIV  75
+
+
+>WP_027803744.1 ferrous iron transport protein A [Paraburkholderia dilworthii]
+Length=81
+
+ Score = 66.6 bits (161),  Expect = 6e-013, Method: Compositional matrix adjust.
+ Identities = 35/75 (47%), Positives = 47/75 (63%), Gaps = 3/75 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQA---SLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L     A+V  VQ    +  ++ RL  LGF+P   VRV+  G +G DPIL+QIG 
+Sbjct  1   MRLSELPKGAAALVESVQDVHDADAIAQRLRDLGFVPGEPVRVVAAGPWGADPILIQIGS  60
+
+Query  58  TRFALRKSEAKCIYV  72
+           TRFALR++EA  + V
+Sbjct  61  TRFALRRAEANRVNV  75
+
+
+>WP_049622140.1 ferrous iron transport protein A [Dyella-like sp. DHo]
+Length=83
+
+ Score = 66.6 bits (161),  Expect = 6e-013, Method: Compositional matrix adjust.
+ Identities = 35/75 (47%), Positives = 48/75 (64%), Gaps = 3/75 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKV---QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LSDL     A+V +V   QA+  ++ RL  LGF+    VR++ +G  G DP+L+QIG 
+Sbjct  1   MRLSDLPKGAAAVVDRVDDAQANDPIAQRLRDLGFVAGEPVRLVAQGPLGADPLLIQIGS  60
+
+Query  58  TRFALRKSEAKCIYV  72
+           TRFALR+SEA  + V
+Sbjct  61  TRFALRRSEAARVAV  75
+
+
+>WP_027795083.1 ferrous iron transport protein A [Paraburkholderia acidipaludis]
+Length=81
+
+ Score = 66.6 bits (161),  Expect = 6e-013, Method: Compositional matrix adjust.
+ Identities = 36/81 (44%), Positives = 51/81 (63%), Gaps = 4/81 (5%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASL---ILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LSDL+    A V +V+ +     ++ RL  LGF+P   VRV+ +  +  DP+LVQIG 
+Sbjct  1   MLLSDLSKGATAYVERVEDAHERDPIAQRLRDLGFVPGEPVRVVARAPWSADPLLVQIGS  60
+
+Query  58  TRFALRKSEAKCIYV-EGLNS  77
+           TRFALR++EA+ + V EG  S
+Sbjct  61  TRFALRRAEARRVSVREGATS  81
+
+
+>WP_043551859.1 ferrous iron transport protein A [Acetobacter malorum]
+Length=103
+
+ Score = 67.0 bits (162),  Expect = 6e-013, Method: Compositional matrix adjust.
+ Identities = 32/77 (42%), Positives = 49/77 (64%), Gaps = 3/77 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASLI---LSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M L++L  + + I+  V  +     ++ RLE  GF+P   V+V+  G FGGDP+ V+IGF
+Sbjct  1   MRLNELPLESQGIIDHVAPATPADPIARRLEEFGFVPGEPVKVVAFGPFGGDPMAVEIGF  60
+
+Query  58  TRFALRKSEAKCIYVEG  74
+           TRFALR+SEA  + ++ 
+Sbjct  61  TRFALRRSEAARVVMQA  77
+
+
+>WP_077517665.1 ferrous iron transport protein A [Rhodanobacter sp. C03]
+Length=81
+
+ Score = 66.2 bits (160),  Expect = 7e-013, Method: Compositional matrix adjust.
+ Identities = 34/75 (45%), Positives = 48/75 (64%), Gaps = 3/75 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L     A+V +V    A+  ++ RL  LGF+    VRV+  G  GGDP+L+QIG+
+Sbjct  1   MRLSELPKGAPAVVDRVHDAHAADPIAQRLRDLGFVDGEPVRVVAIGPMGGDPVLIQIGY  60
+
+Query  58  TRFALRKSEAKCIYV  72
+           TRFALR++EA  + V
+Sbjct  61  TRFALRRAEAARVSV  75
+
+
+>WP_010514220.1 MULTISPECIES: ferrous iron transport protein A [Komagataeibacter]
+Length=83
+
+ Score = 66.2 bits (160),  Expect = 7e-013, Method: Compositional matrix adjust.
+ Identities = 33/76 (43%), Positives = 47/76 (62%), Gaps = 3/76 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LSDL     A++  V    ++  +++RL  LGF+P   VRV+     GGDP+ V+IGF
+Sbjct  1   MRLSDLPRGTDAVIDSVDDHGSTDPVAHRLRELGFVPGEAVRVVATAPLGGDPLAVRIGF  60
+
+Query  58  TRFALRKSEAKCIYVE  73
+           TRFALR++EA  + V 
+Sbjct  61  TRFALRRTEADRVNVH  76
+
+
+>WP_006158310.1 ferrous iron transport protein A [Cupriavidus basilensis]
+Length=101
+
+ Score = 67.0 bits (162),  Expect = 7e-013, Method: Compositional matrix adjust.
+ Identities = 34/80 (43%), Positives = 51/80 (64%), Gaps = 3/80 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L  +  A++  +     +  ++ RL  LGF+P   V+VI  G FG DP++ Q+GF
+Sbjct  1   MRLSELPRRTAAVIVSIDDNSPNDPIARRLRELGFVPGEAVQVIALGPFGMDPLVAQVGF  60
+
+Query  58  TRFALRKSEAKCIYVEGLNS  77
+           TRFALR++EA  I VE L++
+Sbjct  61  TRFALRRAEAARITVEALSA  80
+
+
+>WP_084711349.1 hypothetical protein [Nevskia ramosa]
+Length=117
+
+ Score = 67.4 bits (163),  Expect = 7e-013, Method: Compositional matrix adjust.
+ Identities = 34/73 (47%), Positives = 49/73 (67%), Gaps = 3/73 (4%)
+
+Query  3    LSDLNAQQRAIVTKV---QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGFTR  59
+            L DL  +  AIV +V   QA+  ++ RL  LGF+    VRV+ +G  GGDP++VQIG+TR
+Sbjct  41   LKDLKLRVEAIVDRVEDVQAADPIAARLRDLGFVAGEPVRVVARGPIGGDPLVVQIGYTR  100
+
+Query  60   FALRKSEAKCIYV  72
+            FALR++EA  + +
+Sbjct  101  FALRRAEAARVMI  113
+
+
+>WP_078198726.1 iron transporter FeoA [Cupriavidus necator]
+Length=104
+
+ Score = 66.6 bits (161),  Expect = 9e-013, Method: Compositional matrix adjust.
+ Identities = 35/76 (46%), Positives = 48/76 (63%), Gaps = 3/76 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASLI---LSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L  +  A+V  V  +     ++ RL  LGF+P   V++I  G FG DP++ Q+GF
+Sbjct  1   MRLSELPRRTPAVVQSVDDTTPGDPVARRLRELGFVPGEAVQIIAHGPFGMDPLVAQVGF  60
+
+Query  58  TRFALRKSEAKCIYVE  73
+           TRFALR+SEA  I VE
+Sbjct  61  TRFALRRSEAARIGVE  76
+
+
+>WP_065057684.1 ferrous iron transport protein A [Paraburkholderia tropica]
+Length=91
+
+ Score = 66.2 bits (160),  Expect = 9e-013, Method: Compositional matrix adjust.
+ Identities = 34/82 (41%), Positives = 52/82 (63%), Gaps = 5/82 (6%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M L+DL+    A V +V+   A   ++ RL  LGF+P   VRV+ +  +  DP+LVQIG 
+Sbjct  1   MRLTDLSKGASAFVARVEDASAPDPIAQRLRDLGFVPGEPVRVVARAPWSADPLLVQIGS  60
+
+Query  58  TRFALRKSEAK--CIYVEGLNS  77
+           TRFALR++EA+   I +E +++
+Sbjct  61  TRFALRRAEAERVTIQIEAIDA  82
+
+
+>WP_039597926.1 iron transporter FeoA [Ralstonia sp. A12]
+Length=107
+
+ Score = 66.6 bits (161),  Expect = 1e-012, Method: Compositional matrix adjust.
+ Identities = 35/75 (47%), Positives = 49/75 (65%), Gaps = 3/75 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L+ +  A+V  V+    +  +S RL  LGF+    VRV+  G FGGDP++VQ+GF
+Sbjct  1   MRLSELSRRATAVVDHVEDREPADPISQRLRELGFVTGEVVRVVAVGPFGGDPLVVQVGF  60
+
+Query  58  TRFALRKSEAKCIYV  72
+           TRFALR+ EA  + V
+Sbjct  61  TRFALRRQEAARVRV  75
+
+
+>WP_022955160.1 ferrous iron transport protein A [Perlucidibaca piscinae]
+Length=81
+
+ Score = 65.9 bits (159),  Expect = 1e-012, Method: Compositional matrix adjust.
+ Identities = 34/77 (44%), Positives = 48/77 (62%), Gaps = 3/77 (4%)
+
+Query  3   LSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGFTR  59
+           LS+L +   A+V  V+   A   ++ RL  LGF+P   VR+   G  G DP+LVQ+GFTR
+Sbjct  4   LSELPSFTPAVVETVEHLSADDAIARRLADLGFVPGETVRITASGPVGADPLLVQVGFTR  63
+
+Query  60  FALRKSEAKCIYVEGLN  76
+           FALR+SEA  + V+ + 
+Sbjct  64  FALRRSEAARVRVQAVT  80
+
+
+>WP_042550196.1 iron transporter FeoA [Ralstonia solanacearum]
+Length=103
+
+ Score = 66.6 bits (161),  Expect = 1e-012, Method: Compositional matrix adjust.
+ Identities = 35/75 (47%), Positives = 50/75 (67%), Gaps = 3/75 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L+ +  A+V  V+   ++  +S RL  LGF+   +V V+  G FGGDP++VQ+GF
+Sbjct  1   MRLSELSRRATAVVDHVEDRESADPISQRLRELGFVTGEQVCVVAVGPFGGDPLVVQVGF  60
+
+Query  58  TRFALRKSEAKCIYV  72
+           TRFALRK EA  + V
+Sbjct  61  TRFALRKQEAARVRV  75
+
+
+>WP_007397025.1 ferrous iron transport protein A [Gluconacetobacter sp. SXCC-1]
+Length=82
+
+ Score = 65.9 bits (159),  Expect = 1e-012, Method: Compositional matrix adjust.
+ Identities = 34/76 (45%), Positives = 46/76 (61%), Gaps = 3/76 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LSDL     AI+  V    ++  ++ RL  LGF+P   VR+I     GGDP+ V+IGF
+Sbjct  1   MRLSDLPRGADAIIDSVNDTASNDPVARRLRELGFVPGEPVRIIATAPLGGDPMAVRIGF  60
+
+Query  58  TRFALRKSEAKCIYVE  73
+           TRFALR++EA  + V 
+Sbjct  61  TRFALRRTEADRVTVH  76
+
+
+>WP_028220727.1 ferrous iron transport protein A [Paraburkholderia oxyphila]
+Length=85
+
+ Score = 65.9 bits (159),  Expect = 1e-012, Method: Compositional matrix adjust.
+ Identities = 34/75 (45%), Positives = 47/75 (63%), Gaps = 3/75 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M L+DL     A V +V    A   ++ RL  LGF+P   VRV+ +  +G DP+LVQIG 
+Sbjct  1   MRLTDLTKGATAYVERVDDASARDPIAQRLRDLGFVPGEPVRVVARAPWGADPLLVQIGS  60
+
+Query  58  TRFALRKSEAKCIYV  72
+           TRFALR++EA+ + V
+Sbjct  61  TRFALRRAEAQRVSV  75
+
+
+>WP_075453863.1 iron transporter FeoA [Ralstonia solanacearum]
+Length=103
+
+ Score = 66.2 bits (160),  Expect = 1e-012, Method: Compositional matrix adjust.
+ Identities = 35/75 (47%), Positives = 50/75 (67%), Gaps = 3/75 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L+ +  A+V  V+   ++  +S RL  LGF+   +V V+  G FGGDP++VQ+GF
+Sbjct  1   MRLSELSRRATAVVDHVEDRESADPISQRLRELGFVTGEQVCVVAVGPFGGDPLVVQVGF  60
+
+Query  58  TRFALRKSEAKCIYV  72
+           TRFALRK EA  + V
+Sbjct  61  TRFALRKQEAARVRV  75
+
+
+>WP_039572262.1 iron transporter FeoA [Ralstonia solanacearum]
+Length=101
+
+ Score = 66.2 bits (160),  Expect = 1e-012, Method: Compositional matrix adjust.
+ Identities = 35/75 (47%), Positives = 50/75 (67%), Gaps = 3/75 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L+ +  A+V  V+   ++  +S RL  LGF+   +V V+  G FGGDP++VQ+GF
+Sbjct  1   MRLSELSRRATAVVDHVEDRESADPISQRLRELGFVTGEQVCVVAVGPFGGDPLVVQVGF  60
+
+Query  58  TRFALRKSEAKCIYV  72
+           TRFALRK EA  + V
+Sbjct  61  TRFALRKQEAARVRV  75
+
+
+>WP_003264367.1 iron transporter FeoA [Ralstonia solanacearum]
+Length=103
+
+ Score = 66.2 bits (160),  Expect = 1e-012, Method: Compositional matrix adjust.
+ Identities = 35/75 (47%), Positives = 50/75 (67%), Gaps = 3/75 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L+ +  A+V  V+   ++  +S RL  LGF+   +V V+  G FGGDP++VQ+GF
+Sbjct  1   MRLSELSRRATAVVDHVEDRESADPISQRLRELGFVTGEQVCVVAVGPFGGDPLVVQVGF  60
+
+Query  58  TRFALRKSEAKCIYV  72
+           TRFALRK EA  + V
+Sbjct  61  TRFALRKQEAARVRV  75
+
+
+>WP_013207594.1 ferrous iron transporter A (feoA) [Ralstonia solanacearum]
+ YP_003747460.1 putative ferrous iron transport protein A (feoA) [Ralstonia solanacearum 
+CFBP2957]
+Length=103
+
+ Score = 66.2 bits (160),  Expect = 1e-012, Method: Compositional matrix adjust.
+ Identities = 35/75 (47%), Positives = 50/75 (67%), Gaps = 3/75 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L+ +  A+V  V+   ++  +S RL  LGF+   +V V+  G FGGDP++VQ+GF
+Sbjct  1   MRLSELSRRATAVVDHVEDRESADPISQRLRELGFVTGEQVCVVAVGPFGGDPLVVQVGF  60
+
+Query  58  TRFALRKSEAKCIYV  72
+           TRFALRK EA  + V
+Sbjct  61  TRFALRKQEAARVRV  75
+
+
+>WP_043352761.1 ferrous iron transport protein A [Cupriavidus basilensis]
+Length=101
+
+ Score = 66.2 bits (160),  Expect = 1e-012, Method: Compositional matrix adjust.
+ Identities = 34/80 (43%), Positives = 51/80 (64%), Gaps = 3/80 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L  +  A++  +     +  ++ RL  LGF+P   V+VI  G FG DP++ Q+GF
+Sbjct  1   MRLSELPRRAAAVIVSIDDNSPNDPVARRLRELGFVPGEAVQVIALGPFGMDPLVAQVGF  60
+
+Query  58  TRFALRKSEAKCIYVEGLNS  77
+           TRFALR++EA  I VE L++
+Sbjct  61  TRFALRRAEAARITVEALSA  80
+
+
+>WP_034926933.1 ferrous iron transport protein A [Komagataeibacter rhaeticus]
+Length=82
+
+ Score = 65.9 bits (159),  Expect = 1e-012, Method: Compositional matrix adjust.
+ Identities = 34/76 (45%), Positives = 46/76 (61%), Gaps = 3/76 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LSDL     AI+  V    ++  ++ RL  LGF+P   VR+I     GGDP+ V+IGF
+Sbjct  1   MRLSDLPRGADAIIDSVNDTASNDPVARRLRELGFVPGEPVRIIATAPLGGDPMAVRIGF  60
+
+Query  58  TRFALRKSEAKCIYVE  73
+           TRFALR++EA  + V 
+Sbjct  61  TRFALRRTEADRVTVH  76
+
+
+>WP_048933719.1 iron transporter FeoA [Ralstonia sp. MD27]
+Length=103
+
+ Score = 66.2 bits (160),  Expect = 1e-012, Method: Compositional matrix adjust.
+ Identities = 34/73 (47%), Positives = 49/73 (67%), Gaps = 3/73 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L+ +  A+V  V+   ++  +S RL  LGF+    VRV+  G FGGDP++VQ+GF
+Sbjct  1   MRLSELSRRATAVVDHVEDRESADPISQRLRELGFVAGEVVRVVAVGPFGGDPLVVQVGF  60
+
+Query  58  TRFALRKSEAKCI  70
+           TRFALR+ EA  +
+Sbjct  61  TRFALRRQEAARV  73
+
+
+>WP_039736290.1 ferrous iron transport protein A [Komagataeibacter intermedius]
+Length=83
+
+ Score = 65.9 bits (159),  Expect = 1e-012, Method: Compositional matrix adjust.
+ Identities = 32/76 (42%), Positives = 47/76 (62%), Gaps = 3/76 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LSDL     A++  V    ++  +++RL  LGF+P   VR++     GGDP+ V+IGF
+Sbjct  1   MRLSDLPRGTDAVIDSVDDHGSTDPVAHRLRELGFVPGEAVRIVATAPLGGDPLAVRIGF  60
+
+Query  58  TRFALRKSEAKCIYVE  73
+           TRFALR++EA  + V 
+Sbjct  61  TRFALRRTEADRVNVH  76
+
+
+>WP_074549948.1 ferrous iron transport protein A [Dyella jiangningensis]
+Length=81
+
+ Score = 65.9 bits (159),  Expect = 1e-012, Method: Compositional matrix adjust.
+ Identities = 34/75 (45%), Positives = 47/75 (63%), Gaps = 3/75 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKV---QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LSDL     A+V +V    AS  ++ RL  LGF+    VR++ +G  G DP+L+QIG 
+Sbjct  1   MRLSDLPKGATAVVDRVDDAHASDAIAQRLRDLGFVSGEPVRMVAQGPLGADPLLIQIGS  60
+
+Query  58  TRFALRKSEAKCIYV  72
+           TRFALR+ EA+ + V
+Sbjct  61  TRFALRRKEAERVLV  75
+
+
+>WP_014105918.1 ferrous iron transport protein A [Komagataeibacter medellinensis]
+Length=82
+
+ Score = 65.9 bits (159),  Expect = 1e-012, Method: Compositional matrix adjust.
+ Identities = 33/76 (43%), Positives = 46/76 (61%), Gaps = 3/76 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LSDL     AI+  V    ++  ++ RL  LGF+P   VR++     GGDP+ V+IGF
+Sbjct  1   MRLSDLPRGADAIIDSVDDHTSNDPVAGRLRELGFVPGEPVRIVATAPLGGDPLAVRIGF  60
+
+Query  58  TRFALRKSEAKCIYVE  73
+           TRFALR++EA  + V 
+Sbjct  61  TRFALRRTEADRVNVH  76
+
+
+>WP_043103335.1 ferrous iron transport protein A [Oleiagrimonas soli]
+Length=81
+
+ Score = 65.5 bits (158),  Expect = 1e-012, Method: Compositional matrix adjust.
+ Identities = 33/75 (44%), Positives = 49/75 (65%), Gaps = 3/75 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASL---ILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LSDL    +A+V  V+ +    +++ RL  LGF+    VRV+ +   GGDP+LVQ+G+
+Sbjct  1   MQLSDLPKGAQAVVHTVEDAHPDDLIARRLRDLGFVVGETVRVVARAPLGGDPLLVQVGY  60
+
+Query  58  TRFALRKSEAKCIYV  72
+           TRFALR++EA  + V
+Sbjct  61  TRFALRRNEAARVLV  75
+
+
+>WP_066732618.1 ferrous iron transport protein A [Cupriavidus sp. D384]
+Length=108
+
+ Score = 66.2 bits (160),  Expect = 1e-012, Method: Compositional matrix adjust.
+ Identities = 35/76 (46%), Positives = 49/76 (64%), Gaps = 3/76 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASLI---LSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L  +  AIV  V  +     ++ RL  LGF+P   V+++T G FG DP++ Q+G+
+Sbjct  1   MRLSELPRRTVAIVKSVDDATPNDPVARRLRDLGFVPGESVQIVTFGPFGKDPLVAQVGY  60
+
+Query  58  TRFALRKSEAKCIYVE  73
+           TRFALR+SEA  I VE
+Sbjct  61  TRFALRRSEAGRIAVE  76
+
+
+>WP_072320764.1 ferrous iron transport protein A [Luteibacter sp. UNCMF366Tsu5.1]
+Length=81
+
+ Score = 65.5 bits (158),  Expect = 2e-012, Method: Compositional matrix adjust.
+ Identities = 34/75 (45%), Positives = 45/75 (60%), Gaps = 3/75 (4%)
+
+Query  1   MYLSDLNAQQRAIV---TKVQASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LSD      A+V   T    S  ++ RL  LGF+    VR++ +G  GGDP+L+QIG 
+Sbjct  1   MRLSDAPKGANAVVQSVTDAHPSDPIAQRLRDLGFVAGEPVRLVARGPLGGDPLLIQIGS  60
+
+Query  58  TRFALRKSEAKCIYV  72
+           TRFALRK+EA  + V
+Sbjct  61  TRFALRKAEAARVDV  75
+
+
+>WP_056003314.1 ferrous iron transport protein A [Frateuria sp. Soil773]
+Length=81
+
+ Score = 65.5 bits (158),  Expect = 2e-012, Method: Compositional matrix adjust.
+ Identities = 34/75 (45%), Positives = 46/75 (61%), Gaps = 3/75 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKV---QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LSDL     A+V +V    A   ++ RL  LGF+    VR++ +G  G DP+L+QIG 
+Sbjct  1   MRLSDLPKGSPAVVDRVDDAHAGDPIAQRLRDLGFVEGEPVRLVARGPLGADPLLIQIGS  60
+
+Query  58  TRFALRKSEAKCIYV  72
+           TRFALR+SEA  + V
+Sbjct  61  TRFALRRSEAARVTV  75
+
+
+>WP_014618555.1 iron transporter FeoA [Ralstonia solanacearum]
+Length=103
+
+ Score = 65.9 bits (159),  Expect = 2e-012, Method: Compositional matrix adjust.
+ Identities = 35/75 (47%), Positives = 49/75 (65%), Gaps = 3/75 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L+ +  A+V  V+    +  +S RL  LGF+   +V V+  G FGGDP++VQ+GF
+Sbjct  1   MRLSELSRRATAVVDHVEDREPADPISQRLRELGFVTGEQVCVVAVGPFGGDPLVVQVGF  60
+
+Query  58  TRFALRKSEAKCIYV  72
+           TRFALRK EA  + V
+Sbjct  61  TRFALRKQEAARVRV  75
+
+
+>WP_023263727.1 MULTISPECIES: ferrous iron transport protein A [Cupriavidus]
+Length=95
+
+ Score = 65.5 bits (158),  Expect = 2e-012, Method: Compositional matrix adjust.
+ Identities = 35/76 (46%), Positives = 48/76 (63%), Gaps = 3/76 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASLI---LSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LSDL  +  AIV  V  S     ++ RL  LGF+P   V++IT G FG DP++ Q+G 
+Sbjct  1   MRLSDLPRRTAAIVLSVDDSTPNDPIARRLRELGFVPGEAVQIITYGPFGKDPLVAQVGS  60
+
+Query  58  TRFALRKSEAKCIYVE  73
+           TRFALR++EA  + V+
+Sbjct  61  TRFALRRAEAARVTVQ  76
+
+
+>WP_029922125.1 iron transporter [Nevskia soli]
+Length=81
+
+ Score = 65.1 bits (157),  Expect = 2e-012, Method: Compositional matrix adjust.
+ Identities = 36/81 (44%), Positives = 51/81 (63%), Gaps = 4/81 (5%)
+
+Query  1   MY-LSDLNAQQRAIVTKVQASLI---LSNRLETLGFIPQAEVRVITKGIFGGDPILVQIG  56
+           MY L+DL     A + +V A      ++ RL  LGF+    VRV+ KG  GGDP+LVQIG
+Sbjct  1   MYQLTDLPRNTNATIREVTAHGAHDPIAVRLAELGFVQGEPVRVVAKGPVGGDPVLVQIG  60
+
+Query  57  FTRFALRKSEAKCIYVEGLNS  77
+           +TRFALR++EA  + V+  ++
+Sbjct  61  YTRFALRRTEAARVMVQAEDA  81
+
+
+>WP_041228503.1 ferrous iron transport protein A [Cupriavidus necator]
+Length=104
+
+ Score = 65.9 bits (159),  Expect = 2e-012, Method: Compositional matrix adjust.
+ Identities = 35/76 (46%), Positives = 48/76 (63%), Gaps = 3/76 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASLI---LSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L  +  A+V  V  +     ++ RL  LGF+P   V++I  G FG DP++ Q+GF
+Sbjct  1   MRLSELPRRTPAVVQSVDDATPGDPVARRLRELGFVPGEAVQIIAYGPFGMDPLVAQVGF  60
+
+Query  58  TRFALRKSEAKCIYVE  73
+           TRFALR+SEA  I VE
+Sbjct  61  TRFALRRSEASRIGVE  76
+
+
+>WP_026200498.1 ferrous iron transport protein A [Cupriavidus sp. UYPR2.512]
+Length=104
+
+ Score = 65.9 bits (159),  Expect = 2e-012, Method: Compositional matrix adjust.
+ Identities = 35/76 (46%), Positives = 48/76 (63%), Gaps = 3/76 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASLI---LSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L  +  A+V  V  +     ++ RL  LGF+P   V++I  G FG DP++ Q+GF
+Sbjct  1   MRLSELPRRTPAVVQSVDDATPGDPVARRLRELGFVPGEAVQIIAYGPFGMDPLVAQVGF  60
+
+Query  58  TRFALRKSEAKCIYVE  73
+           TRFALR+SEA  I VE
+Sbjct  61  TRFALRRSEAARIGVE  76
+
+
+>WP_039580020.1 ferrous iron transport protein A [Xanthomonas phaseoli]
+Length=82
+
+ Score = 65.1 bits (157),  Expect = 2e-012, Method: Compositional matrix adjust.
+ Identities = 34/75 (45%), Positives = 48/75 (64%), Gaps = 3/75 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASL---ILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LSD+   + AIV  V+  L    ++ RL  LGF+ + EV V+  G  G +P+LVQ+G+
+Sbjct  1   MTLSDMPLHRAAIVDSVEDRLPNDTIARRLRELGFVAREEVTVLATGPVGREPLLVQVGY  60
+
+Query  58  TRFALRKSEAKCIYV  72
+           TRFALR+SEA  + V
+Sbjct  61  TRFALRRSEAARVQV  75
+
+
+>WP_085316234.1 ferrous iron transport protein A [Derxia lacustris]
+Length=85
+
+ Score = 65.1 bits (157),  Expect = 2e-012, Method: Compositional matrix adjust.
+ Identities = 36/80 (45%), Positives = 52/80 (65%), Gaps = 3/80 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASL---ILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           + LS L+    AIV  VQ +    +++ RL  LGF+    VRVI     GGDPI+VQ+GF
+Sbjct  2   LALSQLSLNTDAIVGSVQDAHPGDVVARRLRDLGFVCGELVRVIAASPLGGDPIVVQVGF  61
+
+Query  58  TRFALRKSEAKCIYVEGLNS  77
+           TRFALR+SEA+ + V+ +++
+Sbjct  62  TRFALRRSEAERVSVQLIDA  81
+
+
+>WP_061508345.1 ferrous iron transport protein A [Acetobacter malorum]
+Length=103
+
+ Score = 65.5 bits (158),  Expect = 2e-012, Method: Compositional matrix adjust.
+ Identities = 32/70 (46%), Positives = 46/70 (66%), Gaps = 3/70 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASLI---LSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M L++L  + + I+  V  +     ++ RLE  GF+P   V+V+  G FGGDP+ V+IGF
+Sbjct  1   MRLNELPLECQGIIDHVAPATPADPIARRLEEFGFVPGEPVKVVAFGPFGGDPMAVEIGF  60
+
+Query  58  TRFALRKSEA  67
+           TRFALR+SEA
+Sbjct  61  TRFALRRSEA  70
+
+
+>WP_031328763.1 MULTISPECIES: iron transporter FeoA [Ralstonia]
+Length=103
+
+ Score = 65.5 bits (158),  Expect = 2e-012, Method: Compositional matrix adjust.
+ Identities = 34/73 (47%), Positives = 48/73 (66%), Gaps = 3/73 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L+ +  A+V  V+    +  +S RL  LGF+    VRV+  G FGGDP++VQ+GF
+Sbjct  1   MRLSELSRRATAVVDHVEDREPADPISQRLRELGFVTGEVVRVVAVGPFGGDPLVVQVGF  60
+
+Query  58  TRFALRKSEAKCI  70
+           TRFALR+ EA  +
+Sbjct  61  TRFALRRQEAARV  73
+
+
+>WP_077930349.1 hypothetical protein [Acetobacter persici]
+Length=103
+
+ Score = 65.5 bits (158),  Expect = 2e-012, Method: Compositional matrix adjust.
+ Identities = 32/77 (42%), Positives = 49/77 (64%), Gaps = 3/77 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASLI---LSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M L++L  + + I+  V  +     ++ RLE  GF+P   V+V+  G FGGDP+ V+IGF
+Sbjct  1   MRLNELPLECQGIIDHVAPTTPADPIARRLEEFGFVPGEPVKVVAFGPFGGDPMAVEIGF  60
+
+Query  58  TRFALRKSEAKCIYVEG  74
+           TRFALR+SEA  + ++ 
+Sbjct  61  TRFALRRSEAARVVMQA  77
+
+
+>WP_048835843.1 ferrous iron transport protein A [Acetobacter orleanensis]
+Length=103
+
+ Score = 65.5 bits (158),  Expect = 2e-012, Method: Compositional matrix adjust.
+ Identities = 33/76 (43%), Positives = 49/76 (64%), Gaps = 3/76 (4%)
+
+Query  1   MYLSDLNAQQRAI---VTKVQASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M L++L  + + I   V  V  +  ++ RLE  GF+P   V+V+  G FGGDP+ V+IGF
+Sbjct  1   MRLNELPLECQGIIDHVAPVTPADPIARRLEEFGFVPGEPVKVVAFGPFGGDPMAVEIGF  60
+
+Query  58  TRFALRKSEAKCIYVE  73
+           TRFALR+SEA  + ++
+Sbjct  61  TRFALRRSEAARVVMQ  76
+
+
+>WP_041680328.1 ferrous iron transport protein A [Cupriavidus pinatubonensis]
+Length=104
+
+ Score = 65.5 bits (158),  Expect = 2e-012, Method: Compositional matrix adjust.
+ Identities = 36/76 (47%), Positives = 48/76 (63%), Gaps = 3/76 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASLI---LSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L  +  A+V  V  +     ++ RL  LGF+P   V+VI  G FG DP++ Q+GF
+Sbjct  1   MRLSELPRRTPAVVQSVDDAAPNDPVARRLRELGFVPGEAVQVIAFGPFGMDPLVAQVGF  60
+
+Query  58  TRFALRKSEAKCIYVE  73
+           TRFALR+SEA  I VE
+Sbjct  61  TRFALRRSEAARIGVE  76
+
+
+>WP_035820831.1 MULTISPECIES: ferrous iron transport protein A [Burkholderiaceae]
+Length=104
+
+ Score = 65.5 bits (158),  Expect = 2e-012, Method: Compositional matrix adjust.
+ Identities = 35/76 (46%), Positives = 48/76 (63%), Gaps = 3/76 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASLI---LSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L  +  A+V  V  +     ++ RL  LGF+P   V++I  G FG DP++ Q+GF
+Sbjct  1   MRLSELPRRTPAVVQSVDDATPGDPVARRLRELGFVPGEAVQIIAYGPFGMDPLVAQVGF  60
+
+Query  58  TRFALRKSEAKCIYVE  73
+           TRFALR+SEA  I VE
+Sbjct  61  TRFALRRSEAARIGVE  76
+
+
+>WP_026107420.1 ferrous iron transport protein A [Dyella ginsengisoli]
+Length=81
+
+ Score = 65.1 bits (157),  Expect = 2e-012, Method: Compositional matrix adjust.
+ Identities = 33/75 (44%), Positives = 47/75 (63%), Gaps = 3/75 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKV---QASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LSDL     A+V +V    A  +++ RL  LGF+    VR++ +G  G DP+L+QIG 
+Sbjct  1   MRLSDLPKGLPAVVDRVDDAHADDVIAQRLRDLGFVAGEPVRLVARGPMGADPLLIQIGS  60
+
+Query  58  TRFALRKSEAKCIYV  72
+           TRFALR++EA  + V
+Sbjct  61  TRFALRRNEASRVTV  75
+
+
+>WP_027817020.1 ferrous iron transport protein A [Paraburkholderia bannensis]
+Length=88
+
+ Score = 65.1 bits (157),  Expect = 2e-012, Method: Compositional matrix adjust.
+ Identities = 32/75 (43%), Positives = 48/75 (64%), Gaps = 3/75 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M L+DL     A+V +V+   A   ++ RL  LGF+P   VR++ +  +  DP+LVQIG 
+Sbjct  1   MRLTDLTKGATALVERVEDASARDPIAQRLRDLGFVPGEPVRIVARAPWSADPLLVQIGS  60
+
+Query  58  TRFALRKSEAKCIYV  72
+           TRFALR++EA+ + V
+Sbjct  61  TRFALRRAEAERVSV  75
+
+
+>WP_061505364.1 ferrous iron transport protein A [Acetobacter malorum]
+Length=103
+
+ Score = 65.5 bits (158),  Expect = 2e-012, Method: Compositional matrix adjust.
+ Identities = 32/77 (42%), Positives = 49/77 (64%), Gaps = 3/77 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASLI---LSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M L++L  + + I+  V  +     ++ RLE  GF+P   V+V+  G FGGDP+ V+IGF
+Sbjct  1   MRLNELPLECQGIIDHVAPATPADPIARRLEEFGFVPGEPVKVVAFGPFGGDPMAVEIGF  60
+
+Query  58  TRFALRKSEAKCIYVEG  74
+           TRFALR+SEA  + ++ 
+Sbjct  61  TRFALRRSEAARVVMQA  77
+
+
+>WP_028209673.1 ferrous iron transport protein A [Paraburkholderia mimosarum]
+Length=85
+
+ Score = 65.1 bits (157),  Expect = 2e-012, Method: Compositional matrix adjust.
+ Identities = 33/75 (44%), Positives = 49/75 (65%), Gaps = 3/75 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M L+DL+    A+V +V+   A   ++ RL  LGF+P   +RV+    +G DP+LVQIG 
+Sbjct  1   MRLTDLSKGATALVERVEDIHAPDPIAQRLRDLGFVPGEPLRVVALAPWGADPLLVQIGS  60
+
+Query  58  TRFALRKSEAKCIYV  72
+           TRFALR++EA+ + V
+Sbjct  61  TRFALRRAEAQRVSV  75
+
+
+>WP_042880540.1 ferrous iron transport protein A [Cupriavidus necator]
+Length=104
+
+ Score = 65.5 bits (158),  Expect = 2e-012, Method: Compositional matrix adjust.
+ Identities = 35/76 (46%), Positives = 48/76 (63%), Gaps = 3/76 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASLI---LSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L  +  A+V  V  +     ++ RL  LGF+P   V++I  G FG DP++ Q+GF
+Sbjct  1   MRLSELPRRTPAVVQSVDDATPGDPVARRLRELGFVPGEAVQIIAYGPFGMDPLVAQVGF  60
+
+Query  58  TRFALRKSEAKCIYVE  73
+           TRFALR+SEA  I VE
+Sbjct  61  TRFALRRSEAARIGVE  76
+
+
+>WP_014630830.1 ferrous iron transporter A (feoA) [Ralstonia solanacearum]
+Length=103
+
+ Score = 65.5 bits (158),  Expect = 2e-012, Method: Compositional matrix adjust.
+ Identities = 35/77 (45%), Positives = 49/77 (64%), Gaps = 3/77 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQ---ASLILSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M LS+L+ +  A+V  V+    +  +S RL  LGF+   +V V+  G FGGDP++VQ+GF
+Sbjct  1   MRLSELSRRATAVVDHVEDREPADPISQRLRELGFVMGEQVCVVAVGPFGGDPLVVQVGF  60
+
+Query  58  TRFALRKSEAKCIYVEG  74
+           TRFALRK EA  + V  
+Sbjct  61  TRFALRKQEAARVRVHA  77
+
+
+>WP_063907888.1 ferrous iron transport protein A [Acetobacter malorum]
+Length=86
+
+ Score = 65.1 bits (157),  Expect = 2e-012, Method: Compositional matrix adjust.
+ Identities = 32/76 (42%), Positives = 49/76 (64%), Gaps = 3/76 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASLI---LSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M L++L  + + I+  V  +     ++ RLE  GF+P   V+V+  G FGGDP+ V+IGF
+Sbjct  1   MRLNELPLECQGIIDHVAPTTPADPIARRLEEFGFVPGEPVKVVAFGPFGGDPMAVEIGF  60
+
+Query  58  TRFALRKSEAKCIYVE  73
+           TRFALR+SEA  + ++
+Sbjct  61  TRFALRRSEAARVVMQ  76
+
+
+>WP_061491413.1 ferrous iron transport protein A [Acetobacter malorum]
+Length=103
+
+ Score = 65.5 bits (158),  Expect = 2e-012, Method: Compositional matrix adjust.
+ Identities = 32/77 (42%), Positives = 49/77 (64%), Gaps = 3/77 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASLI---LSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M L++L  + + I+  V  +     ++ RLE  GF+P   V+V+  G FGGDP+ V+IGF
+Sbjct  1   MRLNELPLECQGIIDHVAPATPADPIARRLEEFGFVPGEPVKVVAFGPFGGDPMAVEIGF  60
+
+Query  58  TRFALRKSEAKCIYVEG  74
+           TRFALR+SEA  + ++ 
+Sbjct  61  TRFALRRSEAARVVMQA  77
+
+
+>WP_062273889.1 ferrous iron transport protein A [Acetobacter cerevisiae]
+Length=103
+
+ Score = 65.5 bits (158),  Expect = 3e-012, Method: Compositional matrix adjust.
+ Identities = 32/70 (46%), Positives = 46/70 (66%), Gaps = 3/70 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASLI---LSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M L++L  + + I+  V  +     ++ RLE  GF+P   V+V+  G FGGDP+ V+IGF
+Sbjct  1   MRLNELPLECQGIIDHVAPATPADPIARRLEEFGFVPGEPVKVVAFGPFGGDPMAVEIGF  60
+
+Query  58  TRFALRKSEA  67
+           TRFALR+SEA
+Sbjct  61  TRFALRRSEA  70
+
+
+>WP_062142559.1 ferrous iron transport protein A [Acetobacter cerevisiae]
+Length=103
+
+ Score = 65.5 bits (158),  Expect = 3e-012, Method: Compositional matrix adjust.
+ Identities = 32/77 (42%), Positives = 49/77 (64%), Gaps = 3/77 (4%)
+
+Query  1   MYLSDLNAQQRAIVTKVQASLI---LSNRLETLGFIPQAEVRVITKGIFGGDPILVQIGF  57
+           M L++L  + + I+  V  +     ++ RLE  GF+P   V+V+  G FGGDP+ V+IGF
+Sbjct  1   MRLNELPLECQGIIDHVAPATPADPIARRLEEFGFVPGEPVKVVAFGPFGGDPMAVEIGF  60
+
+Query  58  TRFALRKSEAKCIYVEG  74
+           TRFALR+SEA  + ++ 
+Sbjct  61  TRFALRRSEAARVVMQA  77
+
+
+
+Lambda      K        H
+   0.324    0.140    0.384 
+
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+
+Effective search space used: 766999532572
+
+
+  Database: NCBI Protein Reference Sequences
+    Posted date:  May 29, 2017 12:00 AM
+  Number of letters in database: 31,412,196,622
+  Number of sequences in database:  82,027,677
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40

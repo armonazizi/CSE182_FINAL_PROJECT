@@ -1,0 +1,4318 @@
+BLASTP 2.6.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: NCBI Protein Reference Sequences
+           82,027,677 sequences; 31,412,196,622 total letters
+
+
+
+Query= embl-cds:ABO11128 putative toluene tolerance protein Ttg2F
+OS=Acinetobacter baumannii (strain ATCC 17978 / CIP 53.77 / LMG 1025
+/ NCDC KC755 / 5377) GN=A1S_0684 SV=1 UP=UP000006737:Chromosome
+
+Length=83
+
+RID: JV0AKX9M014
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+WP_001083680.1  MULTISPECIES: hypothetical protein [Acinetobacter...  172     9e-055
+WP_071211174.1  hypothetical protein [Acinetobacter baumannii]        171     3e-054
+WP_031991274.1  hypothetical protein [Acinetobacter baumannii]        171     3e-054
+WP_072618647.1  hypothetical protein [Acinetobacter baumannii]        171     4e-054
+WP_002050455.1  MULTISPECIES: hypothetical protein [Acinetobacter...  170     4e-054
+WP_064192079.1  hypothetical protein [Acinetobacter baumannii]        170     5e-054
+WP_065042475.1  hypothetical protein [Acinetobacter baumannii]        170     6e-054
+WP_071243931.1  hypothetical protein [Acinetobacter baumannii]        170     7e-054
+WP_001083681.1  hypothetical protein [Acinetobacter baumannii]        169     1e-053
+WP_004703799.1  MULTISPECIES: hypothetical protein [Acinetobacter]    169     2e-053
+WP_005239571.1  hypothetical protein [Acinetobacter sp. CIP 64.2]     169     2e-053
+WP_031995108.1  hypothetical protein [Acinetobacter baumannii]        168     2e-053
+WP_004655594.1  MULTISPECIES: hypothetical protein [Acinetobacter]    168     3e-053
+WP_004881449.1  MULTISPECIES: hypothetical protein [Acinetobacter]    167     6e-053
+WP_004641297.1  MULTISPECIES: hypothetical protein [Acinetobacter...  167     1e-052
+WP_005151378.1  MULTISPECIES: hypothetical protein [Acinetobacter]    167     1e-052
+WP_002115399.1  MULTISPECIES: hypothetical protein [Acinetobacter]    167     1e-052
+WP_004914432.1  hypothetical protein [Acinetobacter junii]            166     1e-052
+WP_018678006.1  hypothetical protein [Acinetobacter tjernbergiae]     166     2e-052
+WP_005228821.1  MULTISPECIES: hypothetical protein [Acinetobacter]    166     3e-052
+WP_004637997.1  MULTISPECIES: hypothetical protein [Acinetobacter]    166     3e-052
+WP_004663844.1  MULTISPECIES: hypothetical protein [Acinetobacter]    166     3e-052
+WP_005198374.1  hypothetical protein [Acinetobacter sp. NIPH 298]     165     4e-052
+WP_004794487.1  MULTISPECIES: hypothetical protein [Acinetobacter]    165     5e-052
+WP_004922703.1  MULTISPECIES: hypothetical protein [Acinetobacter]    165     7e-052
+WP_004934849.1  MULTISPECIES: hypothetical protein [Acinetobacter]    164     1e-051
+WP_050041240.1  hypothetical protein [Acinetobacter parvus]           164     1e-051
+WP_004862636.1  hypothetical protein [Acinetobacter gerneri]          164     1e-051
+WP_004757255.1  MULTISPECIES: hypothetical protein [Acinetobacter]    164     1e-051
+WP_004804522.1  hypothetical protein [Acinetobacter sp. CIP 56.2]     164     1e-051
+WP_004675160.1  MULTISPECIES: hypothetical protein [Acinetobacter]    164     1e-051
+WP_004669796.1  hypothetical protein [Acinetobacter sp. CIP-A165]     164     2e-051
+WP_017481233.1  MULTISPECIES: hypothetical protein [Acinetobacter...  163     2e-051
+WP_004799892.1  hypothetical protein [Acinetobacter sp. CIP 102637]   162     5e-051
+WP_005056857.1  hypothetical protein [Acinetobacter beijerinckii]     162     6e-051
+WP_004683009.1  MULTISPECIES: hypothetical protein [Acinetobacter]    162     7e-051
+WP_044437304.1  hypothetical protein [Acinetobacter ursingii]         162     1e-050
+WP_005018558.1  MULTISPECIES: hypothetical protein [Acinetobacter]    162     1e-050
+WP_005406709.1  MULTISPECIES: hypothetical protein [Acinetobacter]    161     2e-050
+WP_004999125.1  MULTISPECIES: hypothetical protein [Acinetobacter]    160     6e-050
+WP_045794602.1  hypothetical protein [Acinetobacter brisouii]         159     8e-050
+WP_016167324.1  hypothetical protein [Acinetobacter tandoii]          159     8e-050
+WP_005027733.1  MULTISPECIES: hypothetical protein [Acinetobacter]    159     9e-050
+WP_004695019.1  MULTISPECIES: hypothetical protein [Acinetobacter]    159     1e-049
+WP_065995429.1  hypothetical protein [Acinetobacter sp. WCHA30]       159     2e-049
+WP_078191194.1  MULTISPECIES: hypothetical protein [Acinetobacter]    158     2e-049
+WP_004987487.1  hypothetical protein [Acinetobacter ursingii]         158     2e-049
+WP_067761938.1  MULTISPECIES: hypothetical protein [Acinetobacter]    157     5e-049
+WP_004830087.1  MULTISPECIES: hypothetical protein [Acinetobacter]    157     8e-049
+WP_004975198.1  MULTISPECIES: hypothetical protein [Acinetobacter]    156     1e-048
+WP_016657384.1  hypothetical protein [Acinetobacter rudis]            156     2e-048
+WP_086174950.1  hypothetical protein [Acinetobacter sp. ANC 3903]     156     2e-048
+WP_004650949.1  MULTISPECIES: hypothetical protein [Acinetobacter]    156     2e-048
+WP_004750547.1  MULTISPECIES: hypothetical protein [Acinetobacter]    156     2e-048
+WP_086189440.1  hypothetical protein [Acinetobacter sp. ANC 3832]     156     2e-048
+WP_054580179.1  hypothetical protein [Acinetobacter equi]             156     2e-048
+WP_086181895.1  hypothetical protein [Acinetobacter sp. ANC 4558]     155     3e-048
+WP_086178630.1  hypothetical protein [Acinetobacter sp. ANC 5054]     155     3e-048
+WP_004723729.1  MULTISPECIES: hypothetical protein [Acinetobacter]    155     4e-048
+WP_070155716.1  hypothetical protein [Acinetobacter towneri]          155     6e-048
+WP_005011984.1  hypothetical protein [Acinetobacter bouvetii]         155     6e-048
+WP_034583384.1  hypothetical protein [Acinetobacter sp. HR7]          154     1e-047
+WP_067669398.1  hypothetical protein [Acinetobacter sp. ANC 4149]     154     1e-047
+WP_023273628.1  hypothetical protein [Acinetobacter nectaris]         154     1e-047
+WP_068889746.1  hypothetical protein [Acinetobacter celticus]         153     2e-047
+WP_053578676.1  hypothetical protein [Acinetobacter sp. TTH0-4]       153     2e-047
+WP_067557610.1  hypothetical protein [Acinetobacter larvae]           153     3e-047
+WP_086213626.1  hypothetical protein [Acinetobacter sp. ANC 3813]     153     3e-047
+WP_010116465.1  hypothetical protein [Acinetobacter sp. P8-3-8]       152     4e-047
+WP_067728542.1  hypothetical protein [Acinetobacter sp. NCu2D-2]      152     7e-047
+WP_004814457.1  MULTISPECIES: hypothetical protein [Acinetobacter]    152     9e-047
+WP_086204606.1  hypothetical protein [Acinetobacter sp. ANC 4999]     152     1e-046
+WP_004646023.1  MULTISPECIES: hypothetical protein [Acinetobacter]    152     1e-046
+WP_086207466.1  hypothetical protein [Acinetobacter sp. ANC 4648]     152     1e-046
+WP_067656300.1  hypothetical protein [Acinetobacter sp. TGL-Y2]       152     1e-046
+WP_035268923.1  hypothetical protein [Acinetobacter sp. Ver3]         151     2e-046
+WP_071321303.1  hypothetical protein [Acinetobacter sp. LCT-H3]       150     3e-046
+WP_005179933.1  MULTISPECIES: hypothetical protein [Acinetobacter]    150     4e-046
+WP_004783413.1  MULTISPECIES: hypothetical protein [Acinetobacter]    149     1e-045
+WP_004730742.1  MULTISPECIES: hypothetical protein [Acinetobacter]    148     3e-045
+WP_005267411.1  MULTISPECIES: hypothetical protein [Acinetobacter]    146     1e-044
+WP_070069543.1  hypothetical protein [Acinetobacter qingfengensis]    144     1e-043
+WP_026471823.1  hypothetical protein [Alkanindiges illinoisensis]     135     3e-040
+WP_076876947.1  hypothetical protein [Alkanindiges sp. H1]            135     4e-040
+WP_068860334.1  hypothetical protein [Perlucidibaca sp. BK296]        92.4    4e-023
+WP_067058358.1  hypothetical protein [Moraxella atlantae]             89.7    5e-022
+WP_067337120.1  hypothetical protein [Moraxella atlantae]             89.0    1e-021
+WP_063513393.1  hypothetical protein [Moraxella ovis]                 88.6    1e-021
+WP_037059357.1  MULTISPECIES: BolA family transcriptional regulat...  88.6    2e-021
+WP_022956582.1  hypothetical protein [Perlucidibaca piscinae]         88.2    2e-021
+WP_036366621.1  BolA family transcriptional regulator [Moraxella ...  88.2    2e-021
+WP_046695956.1  BolA family transcriptional regulator [Moraxella ...  87.8    2e-021
+WP_062845518.1  BolA family transcriptional regulator [Psychrobac...  87.4    4e-021
+WP_019671708.1  BolA family transcriptional regulator [Psychrobac...  87.4    4e-021
+WP_011959782.1  BolA family transcriptional regulator [Psychrobac...  87.4    5e-021
+WP_075102592.1  hypothetical protein [Psychrobacter sp. Rd 27.2]      87.0    7e-021
+WP_057761749.1  BolA family transcriptional regulator [Psychrobac...  86.7    9e-021
+WP_058025509.1  MULTISPECIES: BolA family transcriptional regulat...  86.3    1e-020
+WP_010200621.1  MULTISPECIES: BolA family transcriptional regulat...  85.9    1e-020
+WP_068038007.1  MULTISPECIES: hypothetical protein [Psychrobacter]    85.9    2e-020
+WP_011514505.1  MULTISPECIES: BolA family transcriptional regulat...  85.5    2e-020
+WP_077447884.1  hypothetical protein [Psychrobacter sp. CIP 110853]   85.5    2e-020
+WP_065256357.1  hypothetical protein [Moraxella lacunata]             85.1    3e-020
+WP_058369916.1  MULTISPECIES: BolA family transcriptional regulat...  85.1    4e-020
+WP_079692695.1  hypothetical protein [Psychrobacter sp. DAB_AL43B]    85.1    4e-020
+WP_062533902.1  BolA family transcriptional regulator [Psychrobac...  84.7    5e-020
+WP_082894293.1  hypothetical protein [Psychrobacter sp. SHUES1]       84.3    6e-020
+WP_077450729.1  hypothetical protein [Psychrobacter sp. CIP 110854]   84.3    8e-020
+WP_078307824.1  hypothetical protein [Moraxella lincolnii]            84.0    9e-020
+WP_011281162.1  BolA family transcriptional regulator [Psychrobac...  84.0    1e-019
+WP_065253355.1  hypothetical protein [Moraxella osloensis]            83.2    2e-019
+WP_037031441.1  BolA family transcriptional regulator [Psychrobac...  83.2    2e-019
+WP_036594190.1  BolA family transcriptional regulator [Moraxella ...  83.2    2e-019
+WP_065263076.1  MULTISPECIES: hypothetical protein [Proteobacteria]   82.8    3e-019
+WP_009501509.1  BolA family transcriptional regulator [Moraxella ...  82.4    3e-019
+WP_029103864.1  BolA family transcriptional regulator [Moraxella ...  82.4    4e-019
+WP_066888514.1  hypothetical protein [Moraxella nonliquefaciens]      82.0    5e-019
+WP_076555848.1  hypothetical protein [Moraxella cuniculi]             81.6    9e-019
+WP_066805648.1  hypothetical protein [Moraxella oblonga]              81.3    1e-018
+WP_019520035.1  BolA family transcriptional regulator [Moraxella ...  81.3    1e-018
+WP_078276666.1  hypothetical protein [Moraxella caviae]               80.9    2e-018
+WP_078274064.1  hypothetical protein [Moraxella bovis]                80.5    2e-018
+WP_062499934.1  BolA family transcriptional regulator [Moraxella ...  80.5    2e-018
+WP_079324048.1  hypothetical protein [Moraxella equi]                 80.1    3e-018
+WP_049237754.1  BolA family transcriptional regulator [Moraxella ...  80.1    3e-018
+WP_007394165.1  BolA family transcriptional regulator [Psychrobac...  80.1    3e-018
+WP_053953061.1  BolA family transcriptional regulator [Idiomarina...  79.7    4e-018
+WP_064602591.1  hypothetical protein [Moraxella catarrhalis]          79.3    5e-018
+WP_003657343.1  MULTISPECIES: BolA family transcriptional regulat...  79.3    6e-018
+WP_078254059.1  hypothetical protein [Moraxella pluranimalium]        78.6    1e-017
+WP_003669891.1  BolA family transcriptional regulator [Moraxella ...  78.6    1e-017
+WP_068992770.1  BolA family transcriptional regulator [Kangiella ...  78.2    2e-017
+WP_046561718.1  BolA family transcriptional regulator [Kangiella ...  77.8    2e-017
+WP_064652651.1  hypothetical protein [Moraxella catarrhalis]          77.8    2e-017
+WP_078256062.1  hypothetical protein [Moraxella canis]                77.4    4e-017
+WP_008042463.1  cell division protein BolA [Reinekea blandensis]      77.0    5e-017
+WP_078317266.1  hypothetical protein [Moraxella porci]                76.6    7e-017
+WP_008251626.1  cell division protein BolA [Zhongshania aliphatic...  75.5    2e-016
+WP_016400755.1  BolA family transcriptional regulator [Agarivoran...  74.7    4e-016
+WP_055732821.1  BolA family transcriptional regulator [Agarivoran...  74.7    4e-016
+WP_014995896.1  MULTISPECIES: cell division protein BolA [Alcaniv...  73.9    8e-016
+WP_023402583.1  BolA family transcriptional regulator [Vibrio hal...  73.6    1e-015
+WP_026957956.1  MULTISPECIES: BolA family transcriptional regulat...  73.6    1e-015
+WP_028669363.1  hypothetical protein [Saccharospirillum impatiens]    73.6    1e-015
+WP_006717252.1  BolA family transcriptional regulator [Aggregatib...  73.6    2e-015
+WP_048748960.1  BolA family transcriptional regulator [Aggregatib...  73.2    2e-015
+WP_005569303.1  BolA family transcriptional regulator [Aggregatib...  73.2    2e-015
+WP_034878136.1  hypothetical protein [Endozoicomonas montiporae]      72.8    2e-015
+WP_067560881.1  hypothetical protein [Halofilum ochraceum]            73.2    2e-015
+WP_005541027.1  BolA family transcriptional regulator [Aggregatib...  72.8    3e-015
+WP_012847381.1  MULTISPECIES: BolA family transcriptional regulat...  72.8    3e-015
+WP_005576014.1  BolA family transcriptional regulator [Aggregatib...  72.8    3e-015
+WP_074372078.1  BolA family transcriptional regulator [Vibrio sp....  72.8    3e-015
+WP_034834068.1  cell division protein BolA [Endozoicomonas numazu...  72.4    3e-015
+WP_017028814.1  BolA family transcriptional regulator [Vibrio bre...  72.8    3e-015
+WP_045425301.1  MULTISPECIES: BolA family transcriptional regulat...  72.4    3e-015
+WP_016954480.1  hypothetical protein [Catenovulum agarivorans]        72.4    3e-015
+WP_054343596.1  cell division protein BolA [Neptunomonas antarctica]  72.4    4e-015
+WP_012800589.1  BolA family transcriptional regulator [Kangiella ...  72.4    4e-015
+WP_008294485.1  cell division protein BolA [Congregibacter litora...  72.0    4e-015
+WP_070176732.1  BolA family transcriptional regulator [Alteromona...  72.4    4e-015
+WP_013260726.1  transcriptional regulator, BolA superfamily [gamm...  72.4    4e-015
+WP_055023469.1  MULTISPECIES: BolA family transcriptional regulat...  72.0    4e-015
+WP_067605985.1  cell division protein BolA [Alcanivorax sp. CP2C]     72.0    5e-015
+WP_036749674.1  BolA family transcriptional regulator [Photobacte...  72.0    6e-015
+WP_005349627.1  MULTISPECIES: BolA family transcriptional regulat...  72.0    6e-015
+WP_017806080.1  BolA family transcriptional regulator [Avibacteri...  72.0    6e-015
+WP_018625323.1  BolA family transcriptional regulator [Kangiella ...  71.6    7e-015
+WP_021712392.1  BolA family transcriptional regulator [Vibrio ezu...  71.6    8e-015
+WP_039163360.1  BolA family transcriptional regulator [Gallibacte...  71.6    8e-015
+WP_054477009.1  BolA family transcriptional regulator [Photorhabd...  71.6    9e-015
+WP_021019064.1  MULTISPECIES: BolA family transcriptional regulat...  71.2    1e-014
+WP_039033477.1  MULTISPECIES: BolA family transcriptional regulat...  71.2    1e-014
+WP_068376362.1  BolA family transcriptional regulator [Paraglacie...  71.2    1e-014
+WP_047255217.1  BolA family transcriptional regulator [Moellerell...  71.2    1e-014
+WP_072958947.1  BolA family transcriptional regulator [Vibrio gaz...  71.2    1e-014
+WP_005568458.1  BolA family transcriptional regulator [Aggregatib...  70.9    1e-014
+WP_062263761.1  cell division protein BolA [Endozoicomonas arenos...  70.9    1e-014
+WP_011494959.1  BolA family transcriptional regulator [Shewanella...  70.9    1e-014
+WP_004728672.1  BolA family transcriptional regulator [Vibrio fur...  70.9    2e-014
+WP_005476231.1  MULTISPECIES: BolA family transcriptional regulat...  70.9    2e-014
+WP_050694128.1  BolA family transcriptional regulator [Aggregatib...  70.9    2e-014
+WP_028115748.1  BolA family transcriptional regulator [Ferrimonas...  70.9    2e-014
+WP_077336403.1  BolA family transcriptional regulator [Vibrio ruber]  70.9    2e-014
+WP_086433614.1  cell division protein BolA [Idiomarina planktonica]   70.9    2e-014
+WP_008078753.1  BolA family transcriptional regulator [Vibrio sin...  70.5    2e-014
+WP_067982492.1  BolA family transcriptional regulator [Neptuniiba...  70.5    2e-014
+WP_076539160.1  hypothetical protein [Shewanella sp. UCD-KL21]        70.5    2e-014
+WP_007022348.1  BolA family transcriptional regulator [Neptuniiba...  70.5    2e-014
+WP_008738286.1  cell division protein BolA [Alcanivorax pacificus]    70.5    2e-014
+WP_007226008.1  BolA family transcriptional regulator [marine gam...  70.1    2e-014
+WP_011621481.1  MULTISPECIES: BolA family transcriptional regulat...  70.5    2e-014
+WP_013746230.1  BolA family transcriptional regulator [Gallibacte...  70.1    3e-014
+WP_066750329.1  BolA family transcriptional regulator [Cosenzaea ...  70.1    3e-014
+WP_011148158.1  MULTISPECIES: BolA family transcriptional regulat...  70.1    3e-014
+WP_035489500.1  cell division protein BolA [Gammaproteobacteria b...  70.1    3e-014
+WP_049216100.1  BolA family transcriptional regulator [Pasteurell...  70.1    3e-014
+WP_009599953.1  BolA family transcriptional regulator [Vibrio car...  70.1    3e-014
+WP_055451907.1  BolA family transcriptional regulator [Vibrio flu...  70.1    3e-014
+WP_028386557.1  BolA family transcriptional regulator [Legionella...  69.7    4e-014
+WP_034617032.1  BolA family transcriptional regulator [Chelonobac...  69.7    4e-014
+WP_083264770.1  hypothetical protein [Pseudohongiella acticola]       69.7    4e-014
+WP_039087686.1  BolA family transcriptional regulator [Gallibacte...  69.7    4e-014
+WP_025012084.1  MULTISPECIES: BolA family transcriptional regulat...  69.7    4e-014
+WP_042496156.1  BolA family transcriptional regulator [Vibrio mar...  69.7    4e-014
+WP_046975293.1  BolA family transcriptional regulator [Photorhabd...  69.7    4e-014
+WP_027859335.1  BolA family transcriptional regulator [Marinobact...  69.7    5e-014
+WP_005701240.1  BolA family transcriptional regulator [Aggregatib...  69.7    5e-014
+WP_006535338.1  MULTISPECIES: BolA family transcriptional regulat...  69.7    5e-014
+WP_075172819.1  cell division protein BolA [Neptunomonas phycophila]  69.3    5e-014
+WP_060557771.1  BolA family transcriptional regulator [Proteus mi...  69.7    5e-014
+WP_073320212.1  BolA family transcriptional regulator [Aestuariib...  69.7    5e-014
+WP_068715188.1  BolA family transcriptional regulator [Vibrio tri...  69.3    5e-014
+WP_021616404.1  BolA family transcriptional regulator [Aggregatib...  69.3    5e-014
+WP_068695912.1  MULTISPECIES: BolA family transcriptional regulat...  69.3    6e-014
+WP_043762631.1  BolA family transcriptional regulator [Aeromonas ...  69.3    6e-014
+WP_053906970.1  BolA family transcriptional regulator [Moellerell...  69.3    6e-014
+WP_033132280.1  MULTISPECIES: BolA family transcriptional regulat...  69.3    6e-014
+WP_073602926.1  BolA family transcriptional regulator [Vibrio aer...  69.3    7e-014
+WP_032109663.1  MULTISPECIES: BolA family transcriptional regulat...  69.3    7e-014
+WP_076502042.1  hypothetical protein [Shewanella morhuae]             68.9    8e-014
+WP_037438555.1  BolA family transcriptional regulator [Shewanella...  68.9    8e-014
+WP_004245293.1  MULTISPECIES: BolA family transcriptional regulat...  68.9    8e-014
+WP_039089092.1  BolA family transcriptional regulator [Gallibacte...  68.9    8e-014
+WP_072931729.1  BolA family transcriptional regulator [Nissabacte...  68.9    8e-014
+WP_022939967.1  BolA family transcriptional regulator [Psychromon...  68.9    8e-014
+WP_054543612.1  BolA family transcriptional regulator [Aeromonas ...  68.9    9e-014
+WP_007641401.1  BolA family transcriptional regulator [Paraglacie...  68.9    9e-014
+WP_038173622.1  BolA family transcriptional regulator [Vibrio pac...  68.9    9e-014
+WP_011073688.1  BolA family transcriptional regulator [Shewanella...  68.9    9e-014
+WP_036545204.1  BolA family transcriptional regulator [Nitrincola...  68.6    9e-014
+WP_010675882.1  MULTISPECIES: BolA family transcriptional regulat...  68.9    1e-013
+WP_053309457.1  BolA family transcriptional regulator [Vibrio alg...  68.9    1e-013
+WP_067662817.1  BolA family transcriptional regulator [Ferrimonas...  68.6    1e-013
+WP_020329541.1  MULTISPECIES: BolA family transcriptional regulat...  68.6    1e-013
+WP_007235749.1  toluene tolerance protein [marine gamma proteobac...  68.6    1e-013
+WP_022984948.1  cell division protein BolA [Alcanivorax sp. P2S70]    68.6    1e-013
+WP_042013422.1  BolA family transcriptional regulator [Aeromonas ...  68.6    1e-013
+WP_067868889.1  BolA family transcriptional regulator [Neptuniiba...  68.6    1e-013
+WP_036842129.1  BolA family transcriptional regulator [Photorhabd...  68.6    1e-013
+WP_003281217.1  MULTISPECIES: BolA family transcriptional regulat...  68.6    1e-013
+WP_064718882.1  BolA family transcriptional regulator [Proteus ha...  68.6    1e-013
+WP_039080768.1  BolA family transcriptional regulator [Gallibacte...  68.6    1e-013
+WP_059119822.1  BolA family transcriptional regulator [Vibrio sp....  68.6    1e-013
+WP_038208107.1  BolA family transcriptional regulator [Vibrio tub...  68.6    1e-013
+WP_037023522.1  BolA family transcriptional regulator [Pseudomona...  68.6    1e-013
+WP_073579785.1  BolA family transcriptional regulator [Vibrio qui...  68.6    1e-013
+WP_034864341.1  BolA family transcriptional regulator [Enterobact...  68.6    1e-013
+WP_058406364.1  BolA family transcriptional regulator [Aeromonas ...  68.6    1e-013
+WP_026456362.1  BolA family transcriptional regulator [Aeromonas ...  68.6    1e-013
+WP_032093539.1  BolA family transcriptional regulator [Necropsoba...  68.6    1e-013
+WP_007018953.1  cell division protein BolA [Bermanella marisrubri]    68.2    1e-013
+WP_058451407.1  BolA family transcriptional regulator [Legionella...  68.2    1e-013
+WP_017444279.1  hypothetical protein [Gayadomonas joobiniege]         68.2    1e-013
+WP_061189607.1  BolA family transcriptional regulator [Pseudomona...  68.2    1e-013
+WP_039135023.1  MULTISPECIES: BolA family transcriptional regulat...  68.2    2e-013
+WP_040481547.1  cell division protein BolA [Luminiphilus syltensis]   68.2    2e-013
+WP_004409843.1  BolA family transcriptional regulator [Vibrio ori...  68.2    2e-013
+WP_015870013.1  BolA family transcriptional regulator [Edwardsiel...  68.2    2e-013
+WP_066108789.1  BolA family transcriptional regulator [Gallibacte...  68.2    2e-013
+WP_003094334.1  MULTISPECIES: BolA family transcriptional regulat...  68.2    2e-013
+WP_048692515.1  hypothetical protein [Catenovulum maritimum]          68.2    2e-013
+WP_085759031.1  cell division protein BolA [Oceanicoccus sagamien...  68.2    2e-013
+WP_084257765.1  BolA family transcriptional regulator [Pasteurell...  68.2    2e-013
+WP_076837678.1  hypothetical protein [Acidihalobacter ferrooxidans]   68.2    2e-013
+WP_008914689.1  BolA family transcriptional regulator [Providenci...  68.2    2e-013
+WP_047046166.1  BolA family transcriptional regulator [Vibrio mex...  68.2    2e-013
+WP_028240291.1  BolA family transcriptional regulator [Pseudomona...  67.8    2e-013
+WP_072069765.1  BolA family transcriptional regulator [Proteus vu...  68.2    2e-013
+WP_042049878.1  MULTISPECIES: BolA family transcriptional regulat...  68.2    2e-013
+WP_070338177.1  BolA family transcriptional regulator [Pseudomona...  67.8    2e-013
+WP_028468537.1  BolA family transcriptional regulator [Neptunomon...  67.8    2e-013
+WP_020583184.1  hypothetical protein [Endozoicomonas elysicola]       67.8    2e-013
+WP_033115468.1  MULTISPECIES: BolA family transcriptional regulat...  68.2    2e-013
+WP_069006393.1  hypothetical protein [Candidatus Thiodiazotropha ...  67.8    2e-013
+WP_005306001.1  MULTISPECIES: BolA family transcriptional regulat...  67.8    2e-013
+WP_050718780.1  BolA family transcriptional regulator [Aeromonas ...  67.8    2e-013
+WP_061340817.1  BolA family transcriptional regulator [Pseudomona...  67.8    2e-013
+WP_066014487.1  cell division protein BolA [Endozoicomonas atrinae]   67.8    2e-013
+WP_007231501.1  BolA family transcriptional regulator [gamma prot...  67.8    2e-013
+WP_049845512.1  MULTISPECIES: BolA family transcriptional regulat...  67.8    2e-013
+WP_011233669.1  MULTISPECIES: BolA family transcriptional regulat...  67.8    3e-013
+WP_043163968.1  BolA family transcriptional regulator [Aeromonas ...  67.8    3e-013
+WP_047011381.1  cell division protein BolA [Spongiibacter sp. IMC...  67.4    3e-013
+WP_028374431.1  BolA family transcriptional regulator [Legionella...  67.4    3e-013
+WP_036519289.1  BolA family transcriptional regulator [Nitrincola...  67.4    3e-013
+WP_027697725.1  BolA family transcriptional regulator [Vibrio lit...  67.8    3e-013
+WP_067516962.1  cell division protein BolA [Endozoicomonas ascidi...  67.8    3e-013
+WP_005455111.1  BolA family transcriptional regulator [Vibrio par...  67.8    3e-013
+WP_025821578.1  BolA family transcriptional regulator [Shewanella...  67.8    3e-013
+WP_040991030.1  BolA family transcriptional regulator [Vibrio ren...  67.8    3e-013
+WP_041204876.1  BolA family transcriptional regulator [Aeromonas ...  67.8    3e-013
+WP_007650477.1  BolA family transcriptional regulator [Shewanella...  67.8    3e-013
+WP_068992300.1  hypothetical protein [Candidatus Thiodiazotropha ...  67.4    3e-013
+WP_004748587.1  MULTISPECIES: BolA family transcriptional regulat...  67.4    3e-013
+WP_077415089.1  hypothetical protein [Rodentibacter rarus]            67.4    3e-013
+WP_083218874.1  hypothetical protein [Candidatus Thiodiazotropha ...  67.8    3e-013
+WP_040188876.1  BolA family transcriptional regulator [Klebsiella...  67.4    3e-013
+WP_040002780.1  BolA family transcriptional regulator [Dickeya ch...  67.4    3e-013
+WP_012639240.1  BolA family transcriptional regulator [Thioalkali...  67.4    3e-013
+WP_044362247.1  BolA family transcriptional regulator [Vibrio flu...  67.4    3e-013
+WP_006086065.1  MULTISPECIES: BolA family transcriptional regulat...  67.4    3e-013
+WP_027253701.1  BolA family transcriptional regulator [Photobacte...  67.4    4e-013
+WP_004144910.1  MULTISPECIES: BolA family transcriptional regulat...  67.4    4e-013
+WP_006878028.1  BolA family transcriptional regulator [Vibrio bra...  67.4    4e-013
+WP_004091268.1  BolA family transcriptional regulator [Hafnia alvei]  67.4    4e-013
+WP_009023250.1  cell division protein BolA [gamma proteobacterium...  67.0    4e-013
+WP_010450413.1  BolA family transcriptional regulator [Vibrio rot...  67.4    4e-013
+WP_038657313.1  BolA family transcriptional regulator [Pseudomona...  67.0    4e-013
+WP_044315494.1  BolA family transcriptional regulator [Pseudomona...  67.0    4e-013
+WP_025442283.1  BolA family transcriptional regulator [Vibrio par...  67.0    4e-013
+WP_082628115.1  hypothetical protein [Pseudohongiella spirulinae]     67.0    4e-013
+WP_015278023.1  BolA family transcriptional regulator [Pseudomona...  67.0    5e-013
+WP_077583851.1  hypothetical protein [Rodentibacter pneumotropicus]   67.0    5e-013
+WP_038091791.1  BolA family transcriptional regulator [Acidihalob...  67.0    5e-013
+WP_036159403.1  BolA family transcriptional regulator [Marinomona...  67.0    5e-013
+WP_014948354.1  BolA family transcriptional regulator [Alteromona...  67.0    5e-013
+WP_054489821.1  BolA family transcriptional regulator [Idiomarina...  67.0    5e-013
+WP_032115713.1  BolA family transcriptional regulator [Arsenophon...  67.0    5e-013
+WP_035231655.1  cell division protein BolA [Alcanivorax nanhaiticus]  67.0    5e-013
+WP_007990200.1  MULTISPECIES: BolA family transcriptional regulat...  67.0    5e-013
+WP_006713549.1  MULTISPECIES: BolA family transcriptional regulat...  67.0    6e-013
+WP_045112143.1  BolA family transcriptional regulator [Moritella ...  67.0    6e-013
+WP_065235227.1  BolA family transcriptional regulator [Gallibacte...  67.0    6e-013
+WP_002918383.1  MULTISPECIES: BolA family transcriptional regulat...  66.6    6e-013
+WP_070073557.1  BolA family transcriptional regulator [Acidihalob...  66.6    6e-013
+WP_018953247.1  BolA family transcriptional regulator [Thioalkali...  66.6    6e-013
+WP_045106373.1  BolA family transcriptional regulator [Legionella...  66.6    6e-013
+WP_035339454.1  MULTISPECIES: BolA family transcriptional regulat...  66.6    6e-013
+WP_006083058.1  BolA family transcriptional regulator [Shewanella...  66.6    6e-013
+WP_060394833.1  BolA family transcriptional regulator [Pseudomona...  66.6    6e-013
+WP_003302826.1  MULTISPECIES: BolA family transcriptional regulat...  66.6    6e-013
+WP_006748610.1  BolA family transcriptional regulator [Thioalkali...  66.6    6e-013
+WP_017036126.1  BolA family transcriptional regulator [Vibrio gen...  66.6    7e-013
+WP_017052146.1  BolA family transcriptional regulator [Vibrio gen...  66.6    7e-013
+WP_075709744.1  BolA family transcriptional regulator [Vibrio pan...  66.6    7e-013
+WP_005381092.1  MULTISPECIES: BolA family transcriptional regulat...  66.6    7e-013
+WP_017779764.1  BolA family transcriptional regulator [Aeromonas ...  66.6    7e-013
+WP_011771140.1  BolA family transcriptional regulator [Psychromon...  66.6    7e-013
+WP_011638802.1  BolA family transcriptional regulator [Shewanella...  66.6    7e-013
+WP_053314988.1  BolA family transcriptional regulator [Vibrio par...  66.6    7e-013
+WP_041103970.1  MULTISPECIES: BolA family transcriptional regulat...  66.2    7e-013
+WP_060983509.1  BolA family transcriptional regulator [Vibrio spl...  66.6    7e-013
+WP_005593719.1  BolA family transcriptional regulator [Vibrio sco...  66.6    8e-013
+WP_045098948.1  BolA family transcriptional regulator [Tatlockia ...  66.6    8e-013
+WP_006009515.1  BolA family transcriptional regulator [Glaciecola...  66.6    8e-013
+WP_061337694.1  BolA family transcriptional regulator [Pseudomona...  66.2    8e-013
+WP_017073431.1  BolA family transcriptional regulator [Vibrio spl...  66.6    8e-013
+WP_005484869.1  MULTISPECIES: BolA family transcriptional regulat...  66.6    8e-013
+WP_004258269.1  BolA family transcriptional regulator [Providenci...  66.6    8e-013
+WP_027874562.1  cell division protein BolA [Spongiibacter marinus]    66.2    8e-013
+WP_014233068.1  MULTISPECIES: BolA family transcriptional regulat...  66.6    8e-013
+WP_077499102.1  hypothetical protein [Rodentibacter rarus]            66.6    8e-013
+WP_038236709.1  BolA family transcriptional regulator [Xenorhabdu...  66.2    8e-013
+WP_070552851.1  BolA family transcriptional regulator [Klebsiella...  66.2    9e-013
+WP_019614378.1  BolA family transcriptional regulator [Psychromon...  66.2    9e-013
+WP_035015497.1  hypothetical protein [Catenovulum agarivorans]        66.2    9e-013
+WP_069541577.1  BolA family transcriptional regulator [Vibrio par...  66.2    9e-013
+WP_018138073.1  MULTISPECIES: BolA family transcriptional regulat...  66.2    1e-012
+WP_011609323.1  BolA family transcriptional regulator [Histophilu...  66.2    1e-012
+WP_075652422.1  BolA family transcriptional regulator [Vibrio pon...  66.2    1e-012
+WP_036859246.1  cell division protein BolA [Porticoccus hydrocarb...  65.9    1e-012
+WP_078926630.1  BolA family transcriptional regulator [Vibrio cin...  66.2    1e-012
+WP_077313968.1  BolA family transcriptional regulator [Vibrio sp....  66.2    1e-012
+WP_023630425.1  MULTISPECIES: BolA family transcriptional regulat...  65.9    1e-012
+WP_004738686.1  MULTISPECIES: BolA family transcriptional regulat...  66.2    1e-012
+WP_018941239.1  BolA family transcriptional regulator [Thioalkali...  65.9    1e-012
+WP_005601835.1  BolA family transcriptional regulator [Actinobaci...  66.2    1e-012
+WP_076590706.1  BolA family transcriptional regulator [Vibrio ost...  65.9    1e-012
+WP_052283633.1  BolA family transcriptional regulator [Kluyvera c...  65.9    1e-012
+WP_036968750.1  BolA family transcriptional regulator [Providenci...  65.9    1e-012
+WP_053099611.1  BolA family transcriptional regulator [Oblitimona...  65.9    1e-012
+WP_042146867.1  MULTISPECIES: BolA family transcriptional regulat...  65.9    1e-012
+WP_017925704.1  MULTISPECIES: BolA family transcriptional regulat...  65.9    1e-012
+WP_085156457.1  BolA family protein [Alteromonadaceae bacterium B...  66.2    1e-012
+WP_018140332.1  MULTISPECIES: BolA family transcriptional regulat...  65.9    1e-012
+WP_017026417.1  BolA family transcriptional regulator [Vibrio rum...  65.9    1e-012
+WP_062816689.1  MULTISPECIES: cell division protein BolA [Alcaniv...  65.9    1e-012
+WP_076575022.1  cell division protein BolA [Aeromonas sp. RU39B]      65.9    1e-012
+WP_067401393.1  BolA family transcriptional regulator [Morganella...  65.9    1e-012
+WP_038663133.1  MULTISPECIES: BolA family transcriptional regulat...  65.9    1e-012
+WP_042473211.1  BolA family transcriptional regulator [Vibrio mar...  65.9    1e-012
+WP_006073308.1  MULTISPECIES: BolA family transcriptional regulat...  65.9    1e-012
+WP_038053501.1  BolA family transcriptional regulator [Thioalkali...  65.5    2e-012
+WP_004401736.1  BolA family transcriptional regulator [Vibrio nig...  65.9    2e-012
+WP_045957198.1  BolA family transcriptional regulator [Vibrio gal...  65.9    2e-012
+WP_014609846.1  BolA family transcriptional regulator [Shewanella...  65.9    2e-012
+WP_084200757.1  cell division protein BolA [Halioglobus japonicus]    65.5    2e-012
+WP_024023072.1  cell division protein BolA [Marinomonas profundim...  65.5    2e-012
+WP_039979196.1  BolA family transcriptional regulator [Vibrio sag...  65.9    2e-012
+WP_024524570.1  BolA family transcriptional regulator [Edwardsiel...  65.5    2e-012
+WP_022551576.1  BolA family transcriptional regulator [Vibrio nig...  65.5    2e-012
+WP_077420307.1  hypothetical protein [Rodentibacter trehalosiferm...  65.9    2e-012
+WP_012983327.1  BolA family transcriptional regulator [Thioalkali...  65.5    2e-012
+WP_008815209.1  MULTISPECIES: BolA family transcriptional regulat...  65.5    2e-012
+WP_002613389.1  BolA family transcriptional regulator [Stigmatell...  65.5    2e-012
+WP_022589561.1  BolA family transcriptional regulator [Vibrio nig...  65.5    2e-012
+WP_058910827.1  BolA family transcriptional regulator [Erwinia te...  65.5    2e-012
+WP_005281719.1  BolA family transcriptional regulator [Edwardsiel...  65.5    2e-012
+WP_054894370.1  MULTISPECIES: BolA family transcriptional regulat...  65.5    2e-012
+WP_026375875.1  BolA family transcriptional regulator [Aestuariib...  65.5    2e-012
+WP_025242912.1  BolA family transcriptional regulator [Pseudomona...  65.5    2e-012
+WP_028689666.1  MULTISPECIES: BolA family transcriptional regulat...  65.5    2e-012
+WP_075294508.1  hypothetical protein [Histophilus somni]              65.5    2e-012
+WP_032553259.1  BolA family transcriptional regulator [Vibrio for...  65.5    2e-012
+WP_006659104.1  BolA family transcriptional regulator [Providenci...  65.5    2e-012
+WP_064082284.1  hypothetical protein [[Haemophilus] ducreyi]          65.5    2e-012
+WP_027707887.1  BolA family transcriptional regulator [Zooshikell...  65.5    2e-012
+WP_036956119.1  BolA family transcriptional regulator [Providenci...  65.5    2e-012
+WP_077475101.1  hypothetical protein [Rodentibacter ratti]            65.5    2e-012
+WP_058503118.1  BolA family transcriptional regulator [Legionella...  65.1    2e-012
+WP_077474359.1  MULTISPECIES: hypothetical protein [Rodentibacter]    65.1    2e-012
+WP_042846210.1  BolA family transcriptional regulator [Providenci...  65.1    3e-012
+WP_009840679.1  BolA family transcriptional regulator [Pseudoalte...  65.1    3e-012
+WP_028864243.1  cell division protein BolA [Psychromonas aquimarina]  65.1    3e-012
+WP_005432865.1  MULTISPECIES: BolA family transcriptional regulat...  65.1    3e-012
+WP_068330810.1  BolA family transcriptional regulator [Photobacte...  65.1    3e-012
+WP_006003005.1  BolA family transcriptional regulator [Glaciecola...  65.1    3e-012
+WP_029856725.1  BolA family transcriptional regulator [Vibrio par...  65.1    3e-012
+WP_015258973.1  BolA family transcriptional regulator [Thioalkali...  65.1    3e-012
+WP_005396230.1  MULTISPECIES: BolA family transcriptional regulat...  65.1    3e-012
+WP_033570444.1  BolA family transcriptional regulator [Dickeya sp...  65.1    3e-012
+WP_005723418.1  BolA family transcriptional regulator [Pasteurell...  65.1    3e-012
+WP_013364538.1  BolA family transcriptional regulator [Enterobact...  65.1    3e-012
+WP_016392670.1  BolA family transcriptional regulator [Pseudomona...  65.1    3e-012
+WP_019471361.1  MULTISPECIES: BolA family transcriptional regulat...  65.1    3e-012
+WP_042485365.1  BolA family transcriptional regulator [Vibrio dia...  65.1    3e-012
+WP_017055315.1  MULTISPECIES: BolA family transcriptional regulat...  65.1    3e-012
+WP_007622674.1  BolA family transcriptional regulator [Paraglacie...  65.1    3e-012
+WP_014888951.1  BolA family transcriptional regulator [secondary ...  65.1    3e-012
+WP_069124450.1  hypothetical protein [Candidatus Thiodiazotropha ...  64.7    3e-012
+WP_077462804.1  hypothetical protein [Rodentibacter heylii]           65.1    3e-012
+WP_024327148.1  BolA family transcriptional regulator [Thioalkali...  64.7    3e-012
+WP_017940948.1  MULTISPECIES: BolA family transcriptional regulat...  64.7    3e-012
+WP_074023470.1  BolA family transcriptional regulator [Xenorhabdu...  65.1    3e-012
+WP_067045887.1  BolA family transcriptional regulator [Moritella ...  65.1    3e-012
+WP_039492911.1  MULTISPECIES: BolA family transcriptional regulat...  65.1    3e-012
+WP_015848109.1  BolA family transcriptional regulator [Dickeya ch...  65.1    3e-012
+WP_067741948.1  BolA family transcriptional regulator [Alteromona...  65.1    3e-012
+WP_028695185.1  BolA family transcriptional regulator [Pseudomona...  64.7    3e-012
+WP_019619915.1  BolA family transcriptional regulator [Amphritea ...  64.7    3e-012
+WP_003255121.1  MULTISPECIES: BolA family transcriptional regulat...  64.7    3e-012
+WP_071817225.1  BolA family transcriptional regulator [Alteromona...  65.1    3e-012
+WP_059371063.1  BolA family transcriptional regulator [Enterobact...  64.7    4e-012
+WP_024549637.1  MULTISPECIES: BolA family transcriptional regulat...  64.7    4e-012
+WP_077664532.1  hypothetical protein [Rodentibacter pneumotropicus]   64.7    4e-012
+WP_069547022.1  BolA family transcriptional regulator [Vibrio par...  64.7    4e-012
+WP_065237882.1  BolA family transcriptional regulator [Gallibacte...  64.7    4e-012
+WP_028388469.1  BolA family transcriptional regulator [Legionella...  64.7    4e-012
+WP_018356046.1  BolA family transcriptional regulator [Rodentibac...  64.7    4e-012
+WP_006992761.1  BolA family transcriptional regulator [Paraglacie...  64.7    4e-012
+WP_025565153.1  cell division protein BolA [Psychromonas sp. SP041]   64.7    4e-012
+WP_067366956.1  BolA family transcriptional regulator [Morganella...  64.7    4e-012
+WP_015585657.1  MULTISPECIES: BolA family transcriptional regulat...  64.7    4e-012
+WP_077542724.1  hypothetical protein [Rodentibacter genomosp. 1]      64.7    4e-012
+WP_029613593.1  MULTISPECIES: BolA family transcriptional regulat...  64.7    4e-012
+WP_028631519.1  MULTISPECIES: BolA family transcriptional regulat...  64.7    4e-012
+WP_043254646.1  BolA family transcriptional regulator [Pseudomona...  64.7    4e-012
+WP_025216749.1  BolA family transcriptional regulator [Mannheimia...  64.7    4e-012
+WP_002442028.1  BolA family transcriptional regulator [Shimwellia...  64.7    4e-012
+WP_009114743.1  BolA family transcriptional regulator [Brenneria ...  64.7    4e-012
+WP_009577403.1  toluene tolerance protein [gamma proteobacterium ...  64.3    4e-012
+WP_035248083.1  cell division protein BolA [Alcanivorax jadensis]     64.7    4e-012
+WP_017058924.1  MULTISPECIES: BolA family transcriptional regulat...  64.7    4e-012
+WP_064290511.1  BolA family transcriptional regulator [Klebsiella...  64.7    4e-012
+WP_027075062.1  hypothetical protein [Mannheimia granulomatis]        64.7    4e-012
+WP_042802172.1  hypothetical protein [Mannheimia haemolytica]         64.7    4e-012
+WP_066050543.1  cell division protein BolA [Halioglobus sp. HI00S01]  64.3    4e-012
+WP_017374866.1  BolA family transcriptional regulator [Enterobact...  64.7    4e-012
+WP_050659079.1  BolA family transcriptional regulator [Gallaecimo...  64.7    4e-012
+WP_072550541.1  BolA family transcriptional regulator [Candidatus...  64.7    5e-012
+WP_064968669.1  BolA family transcriptional regulator [Pasteurell...  64.7    5e-012
+WP_010944290.1  hypothetical protein [[Haemophilus] ducreyi]          64.7    5e-012
+WP_078240201.1  BolA family transcriptional regulator [[Haemophil...  64.7    5e-012
+WP_043210519.1  MULTISPECIES: BolA family transcriptional regulat...  64.3    5e-012
+WP_037000595.1  MULTISPECIES: BolA family transcriptional regulat...  64.3    5e-012
+WP_047976523.1  BolA family transcriptional regulator [Muribacter...  64.3    5e-012
+WP_015369504.1  MULTISPECIES: BolA family transcriptional regulat...  64.3    5e-012
+WP_024559279.1  BolA family transcriptional regulator [Franconiba...  64.3    5e-012
+WP_028867504.1  cell division protein BolA [Psychromonas arctica]     64.3    5e-012
+WP_005598336.1  BolA family transcriptional regulator [Actinobaci...  64.3    5e-012
+WP_058496222.1  BolA family transcriptional regulator [Legionella...  64.3    5e-012
+WP_074011794.1  BolA family transcriptional regulator [Candidatus...  64.3    5e-012
+WP_004106141.1  MULTISPECIES: BolA family transcriptional regulat...  64.3    5e-012
+WP_058075589.1  BolA family transcriptional regulator [Pseudomona...  64.3    5e-012
+WP_014851665.1  MULTISPECIES: BolA family transcriptional regulat...  64.3    5e-012
+WP_005605084.1  BolA family transcriptional regulator [Actinobaci...  64.3    6e-012
+WP_005628347.1  BolA family transcriptional regulator [Haemophilu...  64.3    6e-012
+WP_058637508.1  BolA family transcriptional regulator [Pseudomona...  64.3    6e-012
+WP_014990892.1  MULTISPECIES: BolA family transcriptional regulat...  64.3    6e-012
+WP_003025040.1  MULTISPECIES: acid stress protein IbaG [Enterobac...  64.3    6e-012
+WP_004236327.1  MULTISPECIES: BolA family transcriptional regulat...  64.3    6e-012
+WP_005686372.1  hypothetical protein [Haemophilus influenzae]         64.3    6e-012
+WP_009875283.1  BolA family transcriptional regulator [Actinobaci...  64.3    6e-012
+WP_003242910.1  BolA family transcriptional regulator [Pseudomona...  63.9    6e-012
+WP_011219801.1  BolA family transcriptional regulator [Photobacte...  64.3    6e-012
+WP_008929219.1  cell division protein BolA [Alcanivorax hongdenge...  64.3    6e-012
+WP_010435028.1  MULTISPECIES: BolA family transcriptional regulat...  64.3    6e-012
+WP_028111484.1  BolA family transcriptional regulator [Ferrimonas...  64.3    6e-012
+WP_063519840.1  MULTISPECIES: cell division protein BolA [Alcaniv...  64.3    6e-012
+
+
+>WP_001083680.1 MULTISPECIES: hypothetical protein [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=83
+
+ Score = 172 bits (436),  Expect = 9e-055, Method: Compositional matrix adjust.
+ Identities = 83/83 (100%), Positives = 83/83 (100%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG
+Sbjct  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTKDEWRKASLFGA
+Sbjct  61  EVHAVTIRAMTKDEWRKASLFGA  83
+
+
+>WP_071211174.1 hypothetical protein [Acinetobacter baumannii]
+Length=83
+
+ Score = 171 bits (432),  Expect = 3e-054, Method: Compositional matrix adjust.
+ Identities = 82/83 (99%), Positives = 83/83 (100%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLTQILKEAFPEAEVVV+GQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG
+Sbjct  1   MNSEQLTQILKEAFPEAEVVVTGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTKDEWRKASLFGA
+Sbjct  61  EVHAVTIRAMTKDEWRKASLFGA  83
+
+
+>WP_031991274.1 hypothetical protein [Acinetobacter baumannii]
+Length=83
+
+ Score = 171 bits (432),  Expect = 3e-054, Method: Compositional matrix adjust.
+ Identities = 82/83 (99%), Positives = 83/83 (100%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLT+ILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG
+Sbjct  1   MNSEQLTKILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTKDEWRKASLFGA
+Sbjct  61  EVHAVTIRAMTKDEWRKASLFGA  83
+
+
+>WP_072618647.1 hypothetical protein [Acinetobacter baumannii]
+Length=83
+
+ Score = 171 bits (432),  Expect = 4e-054, Method: Compositional matrix adjust.
+ Identities = 82/83 (99%), Positives = 83/83 (100%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLTQILKEAFP+AEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG
+Sbjct  1   MNSEQLTQILKEAFPKAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTKDEWRKASLFGA
+Sbjct  61  EVHAVTIRAMTKDEWRKASLFGA  83
+
+
+>WP_002050455.1 MULTISPECIES: hypothetical protein [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=83
+
+ Score = 170 bits (431),  Expect = 4e-054, Method: Compositional matrix adjust.
+ Identities = 82/83 (99%), Positives = 82/83 (99%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLTQILKEAFPEAEV VSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG
+Sbjct  1   MNSEQLTQILKEAFPEAEVAVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTKDEWRKASLFGA
+Sbjct  61  EVHAVTIRAMTKDEWRKASLFGA  83
+
+
+>WP_064192079.1 hypothetical protein [Acinetobacter baumannii]
+Length=83
+
+ Score = 170 bits (431),  Expect = 5e-054, Method: Compositional matrix adjust.
+ Identities = 82/83 (99%), Positives = 82/83 (99%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG
+Sbjct  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTKDEWRKASL GA
+Sbjct  61  EVHAVTIRAMTKDEWRKASLLGA  83
+
+
+>WP_065042475.1 hypothetical protein [Acinetobacter baumannii]
+Length=83
+
+ Score = 170 bits (430),  Expect = 6e-054, Method: Compositional matrix adjust.
+ Identities = 82/83 (99%), Positives = 82/83 (99%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKR VARQQAVYAPLNTYIASG
+Sbjct  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRAVARQQAVYAPLNTYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTKDEWRKASLFGA
+Sbjct  61  EVHAVTIRAMTKDEWRKASLFGA  83
+
+
+>WP_071243931.1 hypothetical protein [Acinetobacter baumannii]
+Length=83
+
+ Score = 170 bits (430),  Expect = 7e-054, Method: Compositional matrix adjust.
+ Identities = 82/83 (99%), Positives = 82/83 (99%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLN YIASG
+Sbjct  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNIYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTKDEWRKASLFGA
+Sbjct  61  EVHAVTIRAMTKDEWRKASLFGA  83
+
+
+>WP_001083681.1 hypothetical protein [Acinetobacter baumannii]
+Length=83
+
+ Score = 169 bits (428),  Expect = 1e-053, Method: Compositional matrix adjust.
+ Identities = 82/83 (99%), Positives = 82/83 (99%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLTQILKEAFP AEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG
+Sbjct  1   MNSEQLTQILKEAFPGAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTKDEWRKASLFGA
+Sbjct  61  EVHAVTIRAMTKDEWRKASLFGA  83
+
+
+>WP_004703799.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=83
+
+ Score = 169 bits (427),  Expect = 2e-053, Method: Compositional matrix adjust.
+ Identities = 81/83 (98%), Positives = 82/83 (99%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLTQILKEAFP+AEV VSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG
+Sbjct  1   MNSEQLTQILKEAFPDAEVAVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTKDEWRKASLFGA
+Sbjct  61  EVHAVTIRAMTKDEWRKASLFGA  83
+
+
+>WP_005239571.1 hypothetical protein [Acinetobacter sp. CIP 64.2]
+Length=83
+
+ Score = 169 bits (427),  Expect = 2e-053, Method: Compositional matrix adjust.
+ Identities = 81/83 (98%), Positives = 82/83 (99%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLN+YIASG
+Sbjct  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+            VHAVTIRAMTKDEWRKASLFGA
+Sbjct  61  AVHAVTIRAMTKDEWRKASLFGA  83
+
+
+>WP_031995108.1 hypothetical protein [Acinetobacter baumannii]
+Length=83
+
+ Score = 168 bits (426),  Expect = 2e-053, Method: Compositional matrix adjust.
+ Identities = 82/83 (99%), Positives = 82/83 (99%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLTQILKEAFPEAEVVVSGQAGKF LRIVDDQFEGKRTVARQQAVYAPLNTYIASG
+Sbjct  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFYLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTKDEWRKASLFGA
+Sbjct  61  EVHAVTIRAMTKDEWRKASLFGA  83
+
+
+>WP_004655594.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=83
+
+ Score = 168 bits (425),  Expect = 3e-053, Method: Compositional matrix adjust.
+ Identities = 80/83 (96%), Positives = 82/83 (99%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLTQILKEAFPEAEV VSGQAGKFDLRIVDDQFEGKRTVARQQ+VYAPLN+YIASG
+Sbjct  1   MNSEQLTQILKEAFPEAEVAVSGQAGKFDLRIVDDQFEGKRTVARQQSVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTKDEWRKASLFGA
+Sbjct  61  EVHAVTIRAMTKDEWRKASLFGA  83
+
+
+>WP_004881449.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=83
+
+ Score = 167 bits (424),  Expect = 6e-053, Method: Compositional matrix adjust.
+ Identities = 80/83 (96%), Positives = 81/83 (98%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLTQILKEAFPEAEV VSGQAGKFDLRIVDDQFEGKRTV RQQAVYAPLN+YIASG
+Sbjct  1   MNSEQLTQILKEAFPEAEVAVSGQAGKFDLRIVDDQFEGKRTVTRQQAVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTKDEWRKASLFGA
+Sbjct  61  EVHAVTIRAMTKDEWRKASLFGA  83
+
+
+>WP_004641297.1 MULTISPECIES: hypothetical protein [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=83
+
+ Score = 167 bits (422),  Expect = 1e-052, Method: Compositional matrix adjust.
+ Identities = 81/83 (98%), Positives = 81/83 (98%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLTQILKEAFP AEVVVSGQAGKFDLRIVDDQFEGKRTVARQQ VYAPLNTYIASG
+Sbjct  1   MNSEQLTQILKEAFPVAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQLVYAPLNTYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTKDEWRKASLFGA
+Sbjct  61  EVHAVTIRAMTKDEWRKASLFGA  83
+
+
+>WP_005151378.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=83
+
+ Score = 167 bits (422),  Expect = 1e-052, Method: Compositional matrix adjust.
+ Identities = 80/83 (96%), Positives = 81/83 (98%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLTQILKEAFPEAEV VSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLN+YIASG
+Sbjct  1   MNSEQLTQILKEAFPEAEVAVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+            VHAVTIRAMTKDEWRKASLFGA
+Sbjct  61  AVHAVTIRAMTKDEWRKASLFGA  83
+
+
+>WP_002115399.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+ YP_004997801.1 NAD-dependent DNA ligase LigA [Acinetobacter pittii PHEA-2]
+Length=83
+
+ Score = 167 bits (422),  Expect = 1e-052, Method: Compositional matrix adjust.
+ Identities = 80/83 (96%), Positives = 81/83 (98%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLTQILKEAFPEAEV VSGQAGKFDLRIVDDQF+GKRTVARQQ VYAPLNTYIASG
+Sbjct  1   MNSEQLTQILKEAFPEAEVAVSGQAGKFDLRIVDDQFDGKRTVARQQLVYAPLNTYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTKDEWRKASLFGA
+Sbjct  61  EVHAVTIRAMTKDEWRKASLFGA  83
+
+
+>WP_004914432.1 hypothetical protein [Acinetobacter junii]
+Length=83
+
+ Score = 166 bits (421),  Expect = 1e-052, Method: Compositional matrix adjust.
+ Identities = 79/83 (95%), Positives = 81/83 (98%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLTQILKEAFPEAEV VSGQAGKFDLRIVDDQFEGKRT+ RQQAVYAPLN+YIASG
+Sbjct  1   MNSEQLTQILKEAFPEAEVAVSGQAGKFDLRIVDDQFEGKRTLTRQQAVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTKDEWRKASLFGA
+Sbjct  61  EVHAVTIRAMTKDEWRKASLFGA  83
+
+
+>WP_018678006.1 hypothetical protein [Acinetobacter tjernbergiae]
+Length=83
+
+ Score = 166 bits (420),  Expect = 2e-052, Method: Compositional matrix adjust.
+ Identities = 79/83 (95%), Positives = 81/83 (98%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLTQILKEAFPEAEV VSGQAGKFDLRIVDDQF+GKRTV RQQAVYAPLN+YIASG
+Sbjct  1   MNSEQLTQILKEAFPEAEVAVSGQAGKFDLRIVDDQFDGKRTVTRQQAVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTKDEWRKASLFGA
+Sbjct  61  EVHAVTIRAMTKDEWRKASLFGA  83
+
+
+>WP_005228821.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=83
+
+ Score = 166 bits (419),  Expect = 3e-052, Method: Compositional matrix adjust.
+ Identities = 79/83 (95%), Positives = 81/83 (98%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLTQILKEAFPEAEV VSGQAGKFDLRIVDDQFEGKRTVARQQ+VYAPLN+YIASG
+Sbjct  1   MNSEQLTQILKEAFPEAEVAVSGQAGKFDLRIVDDQFEGKRTVARQQSVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+            VHAVTIRAMTKDEWRKASLFGA
+Sbjct  61  AVHAVTIRAMTKDEWRKASLFGA  83
+
+
+>WP_004637997.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=83
+
+ Score = 166 bits (419),  Expect = 3e-052, Method: Compositional matrix adjust.
+ Identities = 79/83 (95%), Positives = 81/83 (98%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLTQILKEAFPEAEV VSGQAGKFDLRIVDDQFEGKRTV+RQQAVYAPLN+YIASG
+Sbjct  1   MNSEQLTQILKEAFPEAEVAVSGQAGKFDLRIVDDQFEGKRTVSRQQAVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+            VHAVTIRAMTKDEWRKASLFGA
+Sbjct  61  AVHAVTIRAMTKDEWRKASLFGA  83
+
+
+>WP_004663844.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=83
+
+ Score = 166 bits (419),  Expect = 3e-052, Method: Compositional matrix adjust.
+ Identities = 78/83 (94%), Positives = 81/83 (98%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLTQILKEAFPEAEV VSGQAGKFDLRIVDDQF+GKRT+ RQQAVYAPLN+YIASG
+Sbjct  1   MNSEQLTQILKEAFPEAEVAVSGQAGKFDLRIVDDQFDGKRTITRQQAVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTKDEWRKASLFGA
+Sbjct  61  EVHAVTIRAMTKDEWRKASLFGA  83
+
+
+>WP_005198374.1 hypothetical protein [Acinetobacter sp. NIPH 298]
+Length=83
+
+ Score = 165 bits (418),  Expect = 4e-052, Method: Compositional matrix adjust.
+ Identities = 79/83 (95%), Positives = 80/83 (96%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLTQILKEAFPEAEV VSGQAGKFDLRIVDDQFEGKRTV RQQAVYAPLN+YIASG
+Sbjct  1   MNSEQLTQILKEAFPEAEVAVSGQAGKFDLRIVDDQFEGKRTVTRQQAVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+            VHAVTIRAMTKDEWRKASLFGA
+Sbjct  61  AVHAVTIRAMTKDEWRKASLFGA  83
+
+
+>WP_004794487.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=83
+
+ Score = 165 bits (418),  Expect = 5e-052, Method: Compositional matrix adjust.
+ Identities = 80/83 (96%), Positives = 80/83 (96%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLTQILKEAFP AEV VSGQAGKFDLRIVDDQFEGKRTVARQQ VYAPLNTYIASG
+Sbjct  1   MNSEQLTQILKEAFPVAEVAVSGQAGKFDLRIVDDQFEGKRTVARQQLVYAPLNTYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTKDEWRKASLFGA
+Sbjct  61  EVHAVTIRAMTKDEWRKASLFGA  83
+
+
+>WP_004922703.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=83
+
+ Score = 165 bits (417),  Expect = 7e-052, Method: Compositional matrix adjust.
+ Identities = 78/83 (94%), Positives = 82/83 (99%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLTQIL+EAFPE+EV VSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLN+YIASG
+Sbjct  1   MNSEQLTQILQEAFPESEVAVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTK+EWRKASLFGA
+Sbjct  61  EVHAVTIRAMTKEEWRKASLFGA  83
+
+
+>WP_004934849.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=83
+
+ Score = 164 bits (415),  Expect = 1e-051, Method: Compositional matrix adjust.
+ Identities = 78/83 (94%), Positives = 82/83 (99%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN+EQLTQIL++AFP AEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLN+YIASG
+Sbjct  1   MNNEQLTQILQDAFPAAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTKDEWRKASLFGA
+Sbjct  61  EVHAVTIRAMTKDEWRKASLFGA  83
+
+
+>WP_050041240.1 hypothetical protein [Acinetobacter parvus]
+Length=83
+
+ Score = 164 bits (415),  Expect = 1e-051, Method: Compositional matrix adjust.
+ Identities = 77/83 (93%), Positives = 80/83 (96%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLTQILKEAFPEAEV VSGQAGKFDLRIVDDQF+GKRT+ RQQ VYAPLN+YIASG
+Sbjct  1   MNSEQLTQILKEAFPEAEVAVSGQAGKFDLRIVDDQFDGKRTITRQQTVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTKDEWRKASLFGA
+Sbjct  61  EVHAVTIRAMTKDEWRKASLFGA  83
+
+
+>WP_004862636.1 hypothetical protein [Acinetobacter gerneri]
+Length=83
+
+ Score = 164 bits (415),  Expect = 1e-051, Method: Compositional matrix adjust.
+ Identities = 78/83 (94%), Positives = 82/83 (99%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLT+ILK AFP+AEVVVSGQAGKFDLRIVDDQFEGKRTVARQQ+VYAPLNTYIASG
+Sbjct  1   MNSEQLTEILKAAFPDAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQSVYAPLNTYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTK+EWRKASLFGA
+Sbjct  61  EVHAVTIRAMTKEEWRKASLFGA  83
+
+
+>WP_004757255.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=83
+
+ Score = 164 bits (415),  Expect = 1e-051, Method: Compositional matrix adjust.
+ Identities = 78/83 (94%), Positives = 80/83 (96%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLTQILKEAFPEAEV VSGQAGKFDLRIVDDQF+GKRTV RQQAVYAPLN+YIASG
+Sbjct  1   MNSEQLTQILKEAFPEAEVTVSGQAGKFDLRIVDDQFDGKRTVTRQQAVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+            VHAVTIRAMTKDEWRKASLFGA
+Sbjct  61  AVHAVTIRAMTKDEWRKASLFGA  83
+
+
+>WP_004804522.1 hypothetical protein [Acinetobacter sp. CIP 56.2]
+Length=83
+
+ Score = 164 bits (415),  Expect = 1e-051, Method: Compositional matrix adjust.
+ Identities = 79/83 (95%), Positives = 80/83 (96%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLTQILKEAFPEAEV VSGQAGKFDLRIVDD FEGKRTVARQQAVYAPLN+YIASG
+Sbjct  1   MNSEQLTQILKEAFPEAEVAVSGQAGKFDLRIVDDLFEGKRTVARQQAVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+            VHAVTIRAMTKDEWRKASLFGA
+Sbjct  61  AVHAVTIRAMTKDEWRKASLFGA  83
+
+
+>WP_004675160.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=83
+
+ Score = 164 bits (415),  Expect = 1e-051, Method: Compositional matrix adjust.
+ Identities = 78/83 (94%), Positives = 80/83 (96%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLTQILKEAFPEAEV VSGQAGKFDLRIVDDQF+GKRTV RQQAVYAPLN+YIASG
+Sbjct  1   MNSEQLTQILKEAFPEAEVAVSGQAGKFDLRIVDDQFDGKRTVTRQQAVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+            VHAVTIRAMTKDEWRKASLFGA
+Sbjct  61  AVHAVTIRAMTKDEWRKASLFGA  83
+
+
+>WP_004669796.1 hypothetical protein [Acinetobacter sp. CIP-A165]
+Length=83
+
+ Score = 164 bits (414),  Expect = 2e-051, Method: Compositional matrix adjust.
+ Identities = 78/82 (95%), Positives = 79/82 (96%), Gaps = 0/82 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLTQILKEAFPEAEV VSGQAGKFDLRIVDDQFEGKRTV RQQAVYAPLN+YIASG
+Sbjct  1   MNSEQLTQILKEAFPEAEVAVSGQAGKFDLRIVDDQFEGKRTVTRQQAVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFG  82
+            VHAVTIRAMTKDEWRKASLFG
+Sbjct  61  AVHAVTIRAMTKDEWRKASLFG  82
+
+
+>WP_017481233.1 MULTISPECIES: hypothetical protein [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=83
+
+ Score = 163 bits (413),  Expect = 2e-051, Method: Compositional matrix adjust.
+ Identities = 79/83 (95%), Positives = 80/83 (96%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLTQILKEAFPEAEV VSGQAGKFDLRIVDDQF+GKRTVARQQ VYAPL TYIASG
+Sbjct  1   MNSEQLTQILKEAFPEAEVAVSGQAGKFDLRIVDDQFDGKRTVARQQLVYAPLYTYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTKDEWRKASLFGA
+Sbjct  61  EVHAVTIRAMTKDEWRKASLFGA  83
+
+
+>WP_004799892.1 hypothetical protein [Acinetobacter sp. CIP 102637]
+Length=83
+
+ Score = 162 bits (411),  Expect = 5e-051, Method: Compositional matrix adjust.
+ Identities = 77/83 (93%), Positives = 80/83 (96%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLTQILKEAFPEA+V VSGQAGKFDLRIVDDQF+GKRTV RQQAVYAPLN+YIASG
+Sbjct  1   MNSEQLTQILKEAFPEADVAVSGQAGKFDLRIVDDQFDGKRTVTRQQAVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+            VHAVTIRAMTKDEWRKASLFGA
+Sbjct  61  AVHAVTIRAMTKDEWRKASLFGA  83
+
+
+>WP_005056857.1 hypothetical protein [Acinetobacter beijerinckii]
+Length=83
+
+ Score = 162 bits (410),  Expect = 6e-051, Method: Compositional matrix adjust.
+ Identities = 78/83 (94%), Positives = 79/83 (95%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN EQLTQILKEAFPEAEV VSGQAGKFDLRIVDDQFEGKRTV RQQAVYAPLN+YIASG
+Sbjct  1   MNIEQLTQILKEAFPEAEVAVSGQAGKFDLRIVDDQFEGKRTVTRQQAVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+            VHAVTIRAMTKDEWRKASLFGA
+Sbjct  61  AVHAVTIRAMTKDEWRKASLFGA  83
+
+
+>WP_004683009.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=83
+
+ Score = 162 bits (410),  Expect = 7e-051, Method: Compositional matrix adjust.
+ Identities = 77/82 (94%), Positives = 79/82 (96%), Gaps = 0/82 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLTQILKEAFPEAEV VSGQAGKFDLRIVDDQF+GKRTV RQQAVYAPLN+YIASG
+Sbjct  1   MNSEQLTQILKEAFPEAEVAVSGQAGKFDLRIVDDQFDGKRTVTRQQAVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFG  82
+            VHAVTIRAMTKDEWRKASLFG
+Sbjct  61  AVHAVTIRAMTKDEWRKASLFG  82
+
+
+>WP_044437304.1 hypothetical protein [Acinetobacter ursingii]
+Length=83
+
+ Score = 162 bits (409),  Expect = 1e-050, Method: Compositional matrix adjust.
+ Identities = 76/83 (92%), Positives = 81/83 (98%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLTQIL+EAFP+AEV V+GQAGKFDLRIVDDQFEGKR+VARQQAVYAPLN+YIASG
+Sbjct  1   MNSEQLTQILQEAFPDAEVAVTGQAGKFDLRIVDDQFEGKRSVARQQAVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+            VHAVTIRAMTKDEWRKASLFGA
+Sbjct  61  AVHAVTIRAMTKDEWRKASLFGA  83
+
+
+>WP_005018558.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=83
+
+ Score = 162 bits (409),  Expect = 1e-050, Method: Compositional matrix adjust.
+ Identities = 76/83 (92%), Positives = 81/83 (98%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLT+IL+ AFPEAEV VSGQAGKFDLRIVDDQFEGKRT+ARQQAVYAPLN+YIASG
+Sbjct  1   MNSEQLTEILQAAFPEAEVAVSGQAGKFDLRIVDDQFEGKRTIARQQAVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTK+EWRKASLFGA
+Sbjct  61  EVHAVTIRAMTKEEWRKASLFGA  83
+
+
+>WP_005406709.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=83
+
+ Score = 161 bits (407),  Expect = 2e-050, Method: Compositional matrix adjust.
+ Identities = 75/83 (90%), Positives = 81/83 (98%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLT+IL+ AFPEAEV VSGQAGKFDLRIVDDQFEGKRT+ARQQA+YAPLN+YIASG
+Sbjct  1   MNSEQLTEILQAAFPEAEVAVSGQAGKFDLRIVDDQFEGKRTIARQQAIYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTK+EWRKASLFGA
+Sbjct  61  EVHAVTIRAMTKEEWRKASLFGA  83
+
+
+>WP_004999125.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=83
+
+ Score = 160 bits (404),  Expect = 6e-050, Method: Compositional matrix adjust.
+ Identities = 75/83 (90%), Positives = 80/83 (96%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLTQIL+EAFP+AEV V+GQAGKFDLRIVDDQFEGKR+VARQQAVYAPLN+YIASG
+Sbjct  1   MNSEQLTQILQEAFPDAEVAVTGQAGKFDLRIVDDQFEGKRSVARQQAVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+            VHAVTIR MTKDEWRKASLFGA
+Sbjct  61  AVHAVTIRTMTKDEWRKASLFGA  83
+
+
+>WP_045794602.1 hypothetical protein [Acinetobacter brisouii]
+Length=83
+
+ Score = 159 bits (403),  Expect = 8e-050, Method: Compositional matrix adjust.
+ Identities = 77/83 (93%), Positives = 79/83 (95%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLT+ILK AFP AEVVVSGQAGKFDLRIVDDQFEGKR VARQQAVYAPLN YIASG
+Sbjct  1   MNSEQLTEILKTAFPHAEVVVSGQAGKFDLRIVDDQFEGKRPVARQQAVYAPLNDYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTK+EWRKASLFGA
+Sbjct  61  EVHAVTIRAMTKEEWRKASLFGA  83
+
+
+>WP_016167324.1 hypothetical protein [Acinetobacter tandoii]
+Length=83
+
+ Score = 159 bits (403),  Expect = 8e-050, Method: Compositional matrix adjust.
+ Identities = 76/83 (92%), Positives = 79/83 (95%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLT+ILK AFPEAEV VSGQAGKFDLRIVDDQFEGKR VARQQ VYAPLN+YIASG
+Sbjct  1   MNSEQLTEILKTAFPEAEVAVSGQAGKFDLRIVDDQFEGKRPVARQQTVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTK+EWRKASLFGA
+Sbjct  61  EVHAVTIRAMTKEEWRKASLFGA  83
+
+
+>WP_005027733.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=83
+
+ Score = 159 bits (403),  Expect = 9e-050, Method: Compositional matrix adjust.
+ Identities = 75/83 (90%), Positives = 80/83 (96%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLT+IL+ AFPEAEV VSGQAGKFDLRIVDDQFEGKRT+ARQQAVYAPLN+YIASG
+Sbjct  1   MNSEQLTEILQAAFPEAEVAVSGQAGKFDLRIVDDQFEGKRTIARQQAVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTK+EW KASLFGA
+Sbjct  61  EVHAVTIRAMTKEEWHKASLFGA  83
+
+
+>WP_004695019.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=83
+
+ Score = 159 bits (403),  Expect = 1e-049, Method: Compositional matrix adjust.
+ Identities = 76/83 (92%), Positives = 79/83 (95%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLT+ILK AFPEAEV VSGQ GKFDLRIVDDQFEGKR VARQQAVYAPLN+YIASG
+Sbjct  1   MNSEQLTEILKAAFPEAEVAVSGQGGKFDLRIVDDQFEGKRPVARQQAVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTK+EWRKASLFGA
+Sbjct  61  EVHAVTIRAMTKEEWRKASLFGA  83
+
+
+>WP_065995429.1 hypothetical protein [Acinetobacter sp. WCHA30]
+Length=83
+
+ Score = 159 bits (401),  Expect = 2e-049, Method: Compositional matrix adjust.
+ Identities = 75/83 (90%), Positives = 79/83 (95%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLT+ILK AFP+AEV VSGQAGKFDLRIVDDQFEGKR VARQQ VYAPLN+YIASG
+Sbjct  1   MNSEQLTEILKSAFPDAEVAVSGQAGKFDLRIVDDQFEGKRPVARQQTVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTK+EWRKASLFGA
+Sbjct  61  EVHAVTIRAMTKEEWRKASLFGA  83
+
+
+>WP_078191194.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=83
+
+ Score = 158 bits (400),  Expect = 2e-049, Method: Compositional matrix adjust.
+ Identities = 75/83 (90%), Positives = 79/83 (95%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLT+ILK AFPEAEV VSGQ GKFDLRIVDDQFEGKR VARQQ+VYAPLN+YIASG
+Sbjct  1   MNSEQLTEILKAAFPEAEVAVSGQGGKFDLRIVDDQFEGKRPVARQQSVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTK+EWRKASLFGA
+Sbjct  61  EVHAVTIRAMTKEEWRKASLFGA  83
+
+
+>WP_004987487.1 hypothetical protein [Acinetobacter ursingii]
+Length=83
+
+ Score = 158 bits (400),  Expect = 2e-049, Method: Compositional matrix adjust.
+ Identities = 75/83 (90%), Positives = 80/83 (96%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLTQIL+EAFP+AEV V+GQAGKFDLRIVDDQFEGKR+VARQQAVYAPLN+YIASG
+Sbjct  1   MNSEQLTQILQEAFPDAEVAVTGQAGKFDLRIVDDQFEGKRSVARQQAVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+            VHAVTIRAMTK EWRKASLFGA
+Sbjct  61  AVHAVTIRAMTKAEWRKASLFGA  83
+
+
+>WP_067761938.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=83
+
+ Score = 157 bits (398),  Expect = 5e-049, Method: Compositional matrix adjust.
+ Identities = 75/83 (90%), Positives = 78/83 (94%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLT ILK AFPEAEV VSGQ GKFDLRIVDDQFEGKR VARQQ+VYAPLN+YIASG
+Sbjct  1   MNSEQLTDILKAAFPEAEVAVSGQGGKFDLRIVDDQFEGKRPVARQQSVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTK+EWRKASLFGA
+Sbjct  61  EVHAVTIRAMTKEEWRKASLFGA  83
+
+
+>WP_004830087.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=83
+
+ Score = 157 bits (397),  Expect = 8e-049, Method: Compositional matrix adjust.
+ Identities = 74/83 (89%), Positives = 79/83 (95%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLT+ILK AFP+AEV VSGQAGKFDLRIVDDQFEGKR V RQQAVYAPLN+YIASG
+Sbjct  1   MNSEQLTEILKAAFPDAEVAVSGQAGKFDLRIVDDQFEGKRPVPRQQAVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTK+EWRKAS+FGA
+Sbjct  61  EVHAVTIRAMTKEEWRKASMFGA  83
+
+
+>WP_004975198.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=83
+
+ Score = 156 bits (395),  Expect = 1e-048, Method: Compositional matrix adjust.
+ Identities = 74/83 (89%), Positives = 79/83 (95%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLT+ILK AFPEAEV VSGQ GKFDLRIVD+QFEGKR VARQQAVYAPLN+YIASG
+Sbjct  1   MNSEQLTEILKAAFPEAEVAVSGQGGKFDLRIVDNQFEGKRPVARQQAVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMT++EWRKASLFGA
+Sbjct  61  EVHAVTIRAMTQEEWRKASLFGA  83
+
+
+>WP_016657384.1 hypothetical protein [Acinetobacter rudis]
+Length=83
+
+ Score = 156 bits (395),  Expect = 2e-048, Method: Compositional matrix adjust.
+ Identities = 74/82 (90%), Positives = 78/82 (95%), Gaps = 0/82 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLT+ILK AFPEAEV V+GQAGKFDLRIVDDQFE KR VARQQAVYAPLN+YIASG
+Sbjct  1   MNSEQLTEILKTAFPEAEVTVNGQAGKFDLRIVDDQFESKRQVARQQAVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFG  82
+           EVHAVTIRAMTK+EWRKASLFG
+Sbjct  61  EVHAVTIRAMTKEEWRKASLFG  82
+
+
+>WP_086174950.1 hypothetical protein [Acinetobacter sp. ANC 3903]
+Length=83
+
+ Score = 156 bits (395),  Expect = 2e-048, Method: Compositional matrix adjust.
+ Identities = 74/83 (89%), Positives = 79/83 (95%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLT+ILK AFPEAEV VSGQ GKFDLRIVD+QFEGKR VARQQAVYAPLN+YIASG
+Sbjct  1   MNSEQLTEILKAAFPEAEVAVSGQGGKFDLRIVDEQFEGKRPVARQQAVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMT++EWRKASLFGA
+Sbjct  61  EVHAVTIRAMTQEEWRKASLFGA  83
+
+
+>WP_004650949.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=83
+
+ Score = 156 bits (394),  Expect = 2e-048, Method: Compositional matrix adjust.
+ Identities = 74/83 (89%), Positives = 78/83 (94%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLT+ILK AFPEAEV VSGQ GKFDLRIVD+QFEGKR VARQQ VYAPLN+YIASG
+Sbjct  1   MNSEQLTEILKAAFPEAEVAVSGQGGKFDLRIVDEQFEGKRPVARQQTVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTK+EWRKASLFGA
+Sbjct  61  EVHAVTIRAMTKEEWRKASLFGA  83
+
+
+>WP_004750547.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=83
+
+ Score = 156 bits (394),  Expect = 2e-048, Method: Compositional matrix adjust.
+ Identities = 75/83 (90%), Positives = 77/83 (93%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLT+ILK  FP AEVVVSGQAGKFDLRIVDDQFEGKR VARQQ VYAPLN YIASG
+Sbjct  1   MNSEQLTEILKATFPHAEVVVSGQAGKFDLRIVDDQFEGKRPVARQQVVYAPLNDYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTK+EWRKASLFGA
+Sbjct  61  EVHAVTIRAMTKEEWRKASLFGA  83
+
+
+>WP_086189440.1 hypothetical protein [Acinetobacter sp. ANC 3832]
+Length=83
+
+ Score = 156 bits (394),  Expect = 2e-048, Method: Compositional matrix adjust.
+ Identities = 74/83 (89%), Positives = 78/83 (94%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLT+ILK AFP AEV VSGQAGKFDLRIVDDQFE KR VARQQ+VYAPLN+YIASG
+Sbjct  1   MNSEQLTEILKAAFPNAEVAVSGQAGKFDLRIVDDQFEAKRQVARQQSVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTK+EWRKASLFGA
+Sbjct  61  EVHAVTIRAMTKEEWRKASLFGA  83
+
+
+>WP_054580179.1 hypothetical protein [Acinetobacter equi]
+Length=83
+
+ Score = 156 bits (394),  Expect = 2e-048, Method: Compositional matrix adjust.
+ Identities = 74/83 (89%), Positives = 78/83 (94%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLT+ILK AFP AE+VVSGQ GKFDLRIVDDQFEGKR VARQQ VYAPLN+YIASG
+Sbjct  1   MNSEQLTEILKAAFPVAEIVVSGQGGKFDLRIVDDQFEGKRPVARQQTVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTK+EWRKASLFGA
+Sbjct  61  EVHAVTIRAMTKEEWRKASLFGA  83
+
+
+>WP_086181895.1 hypothetical protein [Acinetobacter sp. ANC 4558]
+Length=83
+
+ Score = 155 bits (393),  Expect = 3e-048, Method: Compositional matrix adjust.
+ Identities = 74/83 (89%), Positives = 78/83 (94%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLT+ILK AFP AEVVVSGQ GKFDLRIVDDQFEGKR VARQQ VYAPLN+YI+SG
+Sbjct  1   MNSEQLTEILKVAFPAAEVVVSGQGGKFDLRIVDDQFEGKRPVARQQTVYAPLNSYISSG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTK+EWRKASLFGA
+Sbjct  61  EVHAVTIRAMTKEEWRKASLFGA  83
+
+
+>WP_086178630.1 hypothetical protein [Acinetobacter sp. ANC 5054]
+Length=83
+
+ Score = 155 bits (393),  Expect = 3e-048, Method: Compositional matrix adjust.
+ Identities = 73/83 (88%), Positives = 78/83 (94%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLT+ILK AFPEAEV VSGQ GKFDLRIVDDQFEG R V+RQQ+VYAPLN+YIASG
+Sbjct  1   MNSEQLTEILKAAFPEAEVAVSGQGGKFDLRIVDDQFEGNRPVSRQQSVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTK+EWRKASLFGA
+Sbjct  61  EVHAVTIRAMTKEEWRKASLFGA  83
+
+
+>WP_004723729.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=83
+
+ Score = 155 bits (392),  Expect = 4e-048, Method: Compositional matrix adjust.
+ Identities = 73/83 (88%), Positives = 79/83 (95%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLT+ILK AFP+AEV VSGQAGKFDLRIVD+QFEGKR V RQQAVYAPLN+YIASG
+Sbjct  1   MNSEQLTEILKAAFPDAEVAVSGQAGKFDLRIVDNQFEGKRPVPRQQAVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTK+EWRKAS+FGA
+Sbjct  61  EVHAVTIRAMTKEEWRKASMFGA  83
+
+
+>WP_070155716.1 hypothetical protein [Acinetobacter towneri]
+Length=83
+
+ Score = 155 bits (391),  Expect = 6e-048, Method: Compositional matrix adjust.
+ Identities = 73/83 (88%), Positives = 79/83 (95%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLT+ILK AFPEAEV VSGQ GKFDLRIVD+QF+GKR VARQQAVYAPLN+YIASG
+Sbjct  1   MNSEQLTEILKAAFPEAEVAVSGQGGKFDLRIVDNQFDGKRPVARQQAVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMT++EWRKASLFGA
+Sbjct  61  EVHAVTIRAMTQEEWRKASLFGA  83
+
+
+>WP_005011984.1 hypothetical protein [Acinetobacter bouvetii]
+Length=83
+
+ Score = 155 bits (391),  Expect = 6e-048, Method: Compositional matrix adjust.
+ Identities = 74/83 (89%), Positives = 76/83 (92%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQL  ILK AFPEAEV VSGQ GKFDLRIVDDQFEGKR VARQQ VYAPLN+YIASG
+Sbjct  1   MNSEQLADILKAAFPEAEVAVSGQGGKFDLRIVDDQFEGKRPVARQQTVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTK+EWRKASLFGA
+Sbjct  61  EVHAVTIRAMTKEEWRKASLFGA  83
+
+
+>WP_034583384.1 hypothetical protein [Acinetobacter sp. HR7]
+Length=83
+
+ Score = 154 bits (390),  Expect = 1e-047, Method: Compositional matrix adjust.
+ Identities = 71/83 (86%), Positives = 79/83 (95%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN+EQL ++LK AFPEAE+VV+GQ GK+DLRIVDDQFEGKR VARQQAVYAPLN+YIASG
+Sbjct  1   MNNEQLAEVLKAAFPEAEIVVTGQGGKYDLRIVDDQFEGKRPVARQQAVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTK+EWRKASLFGA
+Sbjct  61  EVHAVTIRAMTKEEWRKASLFGA  83
+
+
+>WP_067669398.1 hypothetical protein [Acinetobacter sp. ANC 4149]
+Length=83
+
+ Score = 154 bits (390),  Expect = 1e-047, Method: Compositional matrix adjust.
+ Identities = 73/83 (88%), Positives = 77/83 (93%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLT ILK AFP+AEV VSGQ GKFDLRIVDDQF+GKR VARQQ VYAPLN+YIASG
+Sbjct  1   MNSEQLTDILKAAFPDAEVAVSGQGGKFDLRIVDDQFDGKRPVARQQTVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTK+EWRKASLFGA
+Sbjct  61  EVHAVTIRAMTKEEWRKASLFGA  83
+
+
+>WP_023273628.1 hypothetical protein [Acinetobacter nectaris]
+Length=83
+
+ Score = 154 bits (389),  Expect = 1e-047, Method: Compositional matrix adjust.
+ Identities = 71/82 (87%), Positives = 79/82 (96%), Gaps = 0/82 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLT+ILK+AFP AEVVVSGQAGKFDLR+VDDQFEGKR VARQQ VYAPLN++IASG
+Sbjct  1   MNSEQLTEILKQAFPNAEVVVSGQAGKFDLRVVDDQFEGKRPVARQQLVYAPLNSFIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFG  82
+           EVHAVTI+AMTK+EWRKAS+FG
+Sbjct  61  EVHAVTIKAMTKEEWRKASMFG  82
+
+
+>WP_068889746.1 hypothetical protein [Acinetobacter celticus]
+Length=83
+
+ Score = 153 bits (387),  Expect = 2e-047, Method: Compositional matrix adjust.
+ Identities = 73/83 (88%), Positives = 77/83 (93%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLT ILK AFPEAEV VSGQ GKFDLRIVD QFEGKR VARQQAVYAPLN+YIASG
+Sbjct  1   MNSEQLTDILKAAFPEAEVAVSGQGGKFDLRIVDGQFEGKRPVARQQAVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMT++EWRKAS+FGA
+Sbjct  61  EVHAVTIRAMTQEEWRKASMFGA  83
+
+
+>WP_053578676.1 hypothetical protein [Acinetobacter sp. TTH0-4]
+Length=83
+
+ Score = 153 bits (387),  Expect = 2e-047, Method: Compositional matrix adjust.
+ Identities = 73/83 (88%), Positives = 77/83 (93%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLT+ILK AFPEAEV VSGQ GKFDLRIVD QFEGKR VARQQ VYAPLN+YIASG
+Sbjct  1   MNSEQLTEILKAAFPEAEVAVSGQGGKFDLRIVDAQFEGKRPVARQQTVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMT++EWRKASLFGA
+Sbjct  61  EVHAVTIRAMTQEEWRKASLFGA  83
+
+
+>WP_067557610.1 hypothetical protein [Acinetobacter larvae]
+Length=83
+
+ Score = 153 bits (387),  Expect = 3e-047, Method: Compositional matrix adjust.
+ Identities = 71/83 (86%), Positives = 79/83 (95%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLT+ILK AFPEAE+ VSGQAGKFDLRIVDD+FE +R+VARQQAVYAP+N YIASG
+Sbjct  1   MNSEQLTEILKAAFPEAEIAVSGQAGKFDLRIVDDRFETQRSVARQQAVYAPINAYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTK+EWRKAS+FGA
+Sbjct  61  EVHAVTIRAMTKEEWRKASMFGA  83
+
+
+>WP_086213626.1 hypothetical protein [Acinetobacter sp. ANC 3813]
+Length=83
+
+ Score = 153 bits (386),  Expect = 3e-047, Method: Compositional matrix adjust.
+ Identities = 72/83 (87%), Positives = 77/83 (93%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN+EQLT ILK AFP+A+V VSGQ GKFDLRIVDDQFEGKR VARQQ VYAPLN+YIASG
+Sbjct  1   MNTEQLTDILKAAFPDADVAVSGQGGKFDLRIVDDQFEGKRPVARQQTVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTK+EWRKASLFGA
+Sbjct  61  EVHAVTIRAMTKEEWRKASLFGA  83
+
+
+>WP_010116465.1 hypothetical protein [Acinetobacter sp. P8-3-8]
+Length=83
+
+ Score = 152 bits (385),  Expect = 4e-047, Method: Compositional matrix adjust.
+ Identities = 72/83 (87%), Positives = 77/83 (93%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLT+ILK AFP+AEV VSGQAGKFDLRIVDDQFEGKR VARQQ VY PLN+YIASG
+Sbjct  1   MNSEQLTEILKAAFPDAEVAVSGQAGKFDLRIVDDQFEGKRPVARQQTVYQPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+            VHAVTIRAMTK+EWRKAS+FGA
+Sbjct  61  AVHAVTIRAMTKEEWRKASMFGA  83
+
+
+>WP_067728542.1 hypothetical protein [Acinetobacter sp. NCu2D-2]
+Length=83
+
+ Score = 152 bits (384),  Expect = 7e-047, Method: Compositional matrix adjust.
+ Identities = 71/83 (86%), Positives = 78/83 (94%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQL +ILK AFPEA++ VSGQ GKFDLRIVD+QFEGKR VARQQAVYAPLN++IASG
+Sbjct  1   MNSEQLAEILKAAFPEADIAVSGQGGKFDLRIVDEQFEGKRPVARQQAVYAPLNSFIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTK+EWRKASLFGA
+Sbjct  61  EVHAVTIRAMTKEEWRKASLFGA  83
+
+
+>WP_004814457.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=83
+
+ Score = 152 bits (383),  Expect = 9e-047, Method: Compositional matrix adjust.
+ Identities = 70/83 (84%), Positives = 78/83 (94%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN+EQL +ILK AFPEA++ VSGQ GK+DLRIVDDQF+GKR VARQQAVYAPLN+YIASG
+Sbjct  1   MNNEQLAEILKAAFPEADIAVSGQGGKYDLRIVDDQFDGKRPVARQQAVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTK+EWRKASLFGA
+Sbjct  61  EVHAVTIRAMTKEEWRKASLFGA  83
+
+
+>WP_086204606.1 hypothetical protein [Acinetobacter sp. ANC 4999]
+Length=83
+
+ Score = 152 bits (383),  Expect = 1e-046, Method: Compositional matrix adjust.
+ Identities = 72/83 (87%), Positives = 77/83 (93%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLT+IL  AFP+AEV VSGQAGKFDLRIVD+QFEGKR V RQQ VYAPLN+YIASG
+Sbjct  1   MNSEQLTEILITAFPDAEVAVSGQAGKFDLRIVDNQFEGKRPVVRQQTVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTK+EWRKASLFGA
+Sbjct  61  EVHAVTIRAMTKEEWRKASLFGA  83
+
+
+>WP_004646023.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=83
+
+ Score = 152 bits (383),  Expect = 1e-046, Method: Compositional matrix adjust.
+ Identities = 72/83 (87%), Positives = 77/83 (93%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN+EQLT+ILK AFPEA+V VSGQ GKFDLRIVDDQFEGKR VARQQAVYAPLN +IASG
+Sbjct  1   MNNEQLTEILKAAFPEADVAVSGQGGKFDLRIVDDQFEGKRPVARQQAVYAPLNAHIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+            VHAVTIRAMTK+EWRKASLFGA
+Sbjct  61  AVHAVTIRAMTKEEWRKASLFGA  83
+
+
+>WP_086207466.1 hypothetical protein [Acinetobacter sp. ANC 4648]
+Length=83
+
+ Score = 152 bits (383),  Expect = 1e-046, Method: Compositional matrix adjust.
+ Identities = 72/83 (87%), Positives = 78/83 (94%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLT+IL  AFP+AEV VSGQAGKF+LRIVD+QFEGKR VARQQ VYAPLN+YIASG
+Sbjct  1   MNSEQLTEILITAFPDAEVAVSGQAGKFELRIVDNQFEGKRPVARQQTVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTK+EWRKASLFGA
+Sbjct  61  EVHAVTIRAMTKEEWRKASLFGA  83
+
+
+>WP_067656300.1 hypothetical protein [Acinetobacter sp. TGL-Y2]
+Length=83
+
+ Score = 152 bits (383),  Expect = 1e-046, Method: Compositional matrix adjust.
+ Identities = 72/83 (87%), Positives = 75/83 (90%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLT ILK AFP AE+ VSGQ GKFDLRIVDDQFE KRTVARQQ+VYAPLN YI SG
+Sbjct  1   MNSEQLTDILKAAFPAAEIAVSGQGGKFDLRIVDDQFEAKRTVARQQSVYAPLNDYIKSG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTK+EWRKASLFGA
+Sbjct  61  EVHAVTIRAMTKEEWRKASLFGA  83
+
+
+>WP_035268923.1 hypothetical protein [Acinetobacter sp. Ver3]
+Length=83
+
+ Score = 151 bits (381),  Expect = 2e-046, Method: Compositional matrix adjust.
+ Identities = 72/83 (87%), Positives = 76/83 (92%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNSEQLT+ILK AFP A+V VSGQ+GKFDLRIVDD FEGKRTVARQQAVYAPLN YI SG
+Sbjct  1   MNSEQLTEILKAAFPSADVAVSGQSGKFDLRIVDDLFEGKRTVARQQAVYAPLNEYIKSG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+            VHAVTIRAMTK+EWRKASLFGA
+Sbjct  61  AVHAVTIRAMTKEEWRKASLFGA  83
+
+
+>WP_071321303.1 hypothetical protein [Acinetobacter sp. LCT-H3]
+Length=83
+
+ Score = 150 bits (380),  Expect = 3e-046, Method: Compositional matrix adjust.
+ Identities = 70/83 (84%), Positives = 77/83 (93%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN+EQL  ILK AFPEA++ VSGQ GK+DLRIVDDQF+GKR VARQQAVYAPLN+YIASG
+Sbjct  1   MNNEQLAGILKAAFPEADIAVSGQGGKYDLRIVDDQFDGKRPVARQQAVYAPLNSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTIRAMTK+EWRKASLFGA
+Sbjct  61  EVHAVTIRAMTKEEWRKASLFGA  83
+
+
+>WP_005179933.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=83
+
+ Score = 150 bits (379),  Expect = 4e-046, Method: Compositional matrix adjust.
+ Identities = 71/83 (86%), Positives = 77/83 (93%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN+EQL +ILK AFPEA+VVVSGQ GKFDLRIVDDQFEGKR VARQQAVYAP+N  IASG
+Sbjct  1   MNNEQLAEILKAAFPEADVVVSGQGGKFDLRIVDDQFEGKRLVARQQAVYAPINALIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           EVHAVTI+AMTK+EWRKASLFGA
+Sbjct  61  EVHAVTIKAMTKEEWRKASLFGA  83
+
+
+>WP_004783413.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=83
+
+ Score = 149 bits (377),  Expect = 1e-045, Method: Compositional matrix adjust.
+ Identities = 70/83 (84%), Positives = 77/83 (93%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN+EQL +ILK AFPEA+V VSGQ GKFDLRIVDDQFEGKR VARQQAVYAPLN++IASG
+Sbjct  1   MNNEQLAEILKAAFPEADVAVSGQGGKFDLRIVDDQFEGKRPVARQQAVYAPLNSHIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+            VHAVTIRA+TK+EWRKASLFGA
+Sbjct  61  AVHAVTIRALTKEEWRKASLFGA  83
+
+
+>WP_004730742.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=83
+
+ Score = 148 bits (374),  Expect = 3e-045, Method: Compositional matrix adjust.
+ Identities = 70/83 (84%), Positives = 76/83 (92%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN+EQL +IL+ AFPEA+V VSGQ GKFDLRIVDDQFEGKR VARQQAVYAPLN +IASG
+Sbjct  1   MNNEQLAEILEAAFPEADVAVSGQGGKFDLRIVDDQFEGKRPVARQQAVYAPLNAHIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+            VHAVTIRAMTK+EWRKASLFGA
+Sbjct  61  AVHAVTIRAMTKEEWRKASLFGA  83
+
+
+>WP_005267411.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=83
+
+ Score = 146 bits (369),  Expect = 1e-044, Method: Compositional matrix adjust.
+ Identities = 69/83 (83%), Positives = 75/83 (90%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN+EQL +IL+ AFPEA+V VSGQ GKFDLRIVDDQFEGKR VARQQAVYAPLN +IASG
+Sbjct  1   MNNEQLAEILEAAFPEADVAVSGQGGKFDLRIVDDQFEGKRPVARQQAVYAPLNAHIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+            VHAVTIRAMTK+EWRK SLFGA
+Sbjct  61  AVHAVTIRAMTKEEWRKVSLFGA  83
+
+
+>WP_070069543.1 hypothetical protein [Acinetobacter qingfengensis]
+Length=83
+
+ Score = 144 bits (363),  Expect = 1e-043, Method: Compositional matrix adjust.
+ Identities = 67/82 (82%), Positives = 77/82 (94%), Gaps = 0/82 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNS+QL+QIL++AFP+AE+VV+GQAGKFDLRIVD  FEGKRTVARQQAVYAPLN +IASG
+Sbjct  1   MNSDQLSQILQQAFPQAEIVVTGQAGKFDLRIVDAGFEGKRTVARQQAVYAPLNEHIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFG  82
+            VHAVTIRAMT +EWRKAS+FG
+Sbjct  61  VVHAVTIRAMTPEEWRKASMFG  82
+
+
+>WP_026471823.1 hypothetical protein [Alkanindiges illinoisensis]
+Length=83
+
+ Score = 135 bits (340),  Expect = 3e-040, Method: Compositional matrix adjust.
+ Identities = 64/83 (77%), Positives = 73/83 (88%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNS+QL  +L+ AFP+AEV V+GQAGKFDLRIVD QFEG R VARQQAVYAP+N +IASG
+Sbjct  1   MNSDQLATLLQAAFPQAEVHVTGQAGKFDLRIVDAQFEGLRPVARQQAVYAPINEHIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+            VHAV+IRAMT +EWRKASLFGA
+Sbjct  61  AVHAVSIRAMTPEEWRKASLFGA  83
+
+
+>WP_076876947.1 hypothetical protein [Alkanindiges sp. H1]
+Length=83
+
+ Score = 135 bits (340),  Expect = 4e-040, Method: Compositional matrix adjust.
+ Identities = 65/83 (78%), Positives = 72/83 (87%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNS+QL  +L+ AFP+AEV V+GQAGKFDLRIVD QFEG R VARQQAVYAP+N  IASG
+Sbjct  1   MNSDQLAMLLQAAFPQAEVHVTGQAGKFDLRIVDAQFEGLRPVARQQAVYAPINEQIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+            VHAVTIRAMT +EWRKASLFGA
+Sbjct  61  AVHAVTIRAMTPEEWRKASLFGA  83
+
+
+>WP_068860334.1 hypothetical protein [Perlucidibaca sp. BK296]
+Length=83
+
+ Score = 92.4 bits (228),  Expect = 4e-023, Method: Compositional matrix adjust.
+ Identities = 42/83 (51%), Positives = 58/83 (70%), Gaps = 1/83 (1%)
+
+Query  1   MNSEQLTQILKEAFPEAE-VVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIAS  59
+           MN+ ++  +L  A PEA+ + V+G  GKF + IV   FE  R VA+QQ VYAPL T+IAS
+Sbjct  1   MNAAEIQSLLTAAIPEAQHIAVTGDGGKFTVTIVHPAFESLRPVAKQQLVYAPLQTHIAS  60
+
+Query  60  GEVHAVTIRAMTKDEWRKASLFG  82
+           G +HAV+++ +T +EWRK  LFG
+Sbjct  61  GAIHAVSMQTLTPEEWRKMKLFG  83
+
+
+>WP_067058358.1 hypothetical protein [Moraxella atlantae]
+Length=81
+
+ Score = 89.7 bits (221),  Expect = 5e-022, Method: Compositional matrix adjust.
+ Identities = 40/76 (53%), Positives = 55/76 (72%), Gaps = 0/76 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN+E L  +L+  FP+A +  + Q  KFD+R+VDD F GKR VARQQAV A ++   A+G
+Sbjct  1   MNAEDLIALLRLHFPDALIEAANQGNKFDVRVVDDSFAGKRPVARQQAVLALVSDKFATG  60
+
+Query  61  EVHAVTIRAMTKDEWR  76
+           E+HA+ I+A+T DEWR
+Sbjct  61  EIHALNIQALTPDEWR  76
+
+
+>WP_067337120.1 hypothetical protein [Moraxella atlantae]
+Length=81
+
+ Score = 89.0 bits (219),  Expect = 1e-021, Method: Compositional matrix adjust.
+ Identities = 39/76 (51%), Positives = 54/76 (71%), Gaps = 0/76 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN+E L  +L+  FP+A +  + Q  KFD+R+VDD F GKR VARQQAV A ++    +G
+Sbjct  1   MNAEDLIALLRPHFPDALIEAANQGNKFDVRVVDDSFAGKRPVARQQAVLALVSDKFTTG  60
+
+Query  61  EVHAVTIRAMTKDEWR  76
+           E+HA+ I+A+T DEWR
+Sbjct  61  EIHALNIQALTPDEWR  76
+
+
+>WP_063513393.1 hypothetical protein [Moraxella ovis]
+Length=81
+
+ Score = 88.6 bits (218),  Expect = 1e-021, Method: Compositional matrix adjust.
+ Identities = 40/76 (53%), Positives = 56/76 (74%), Gaps = 0/76 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN++ L ++L+  FP+AE+  + Q  KF++ IVDD FEGKR VARQQAVYA  N +I SG
+Sbjct  1   MNADDLIELLRPHFPDAEIQAANQGNKFEVLIVDDAFEGKRLVARQQAVYAIANPHIQSG  60
+
+Query  61  EVHAVTIRAMTKDEWR  76
+            +HA+TI A+T  E++
+Sbjct  61  AMHALTIHALTPAEYQ  76
+
+
+>WP_037059357.1 MULTISPECIES: BolA family transcriptional regulator [Psychrobacter]
+Length=83
+
+ Score = 88.6 bits (218),  Expect = 2e-021, Method: Compositional matrix adjust.
+ Identities = 38/75 (51%), Positives = 55/75 (73%), Gaps = 0/75 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN++ L   L++ +P+A +  + Q  KFD+R+VD  FEGKRTV RQQA+YA +N  IASG
+Sbjct  3   MNADDLIAFLQQHYPDAFIQAANQGNKFDVRVVDASFEGKRTVQRQQAIYALVNDKIASG  62
+
+Query  61  EVHAVTIRAMTKDEW  75
+           ++HA+ I+A+T  EW
+Sbjct  63  DIHALNIQALTPSEW  77
+
+
+>WP_022956582.1 hypothetical protein [Perlucidibaca piscinae]
+Length=83
+
+ Score = 88.2 bits (217),  Expect = 2e-021, Method: Compositional matrix adjust.
+ Identities = 41/83 (49%), Positives = 57/83 (69%), Gaps = 1/83 (1%)
+
+Query  1   MNSEQLTQILKEAFPEA-EVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIAS  59
+           MN+ ++  +L  A P+A  V VSG  GKF + +V   FEG R VARQQ +YAPL  +IAS
+Sbjct  1   MNAAEIQALLVAALPDAGHVEVSGDGGKFQVIVVHPAFEGLRPVARQQKIYAPLQAHIAS  60
+
+Query  60  GEVHAVTIRAMTKDEWRKASLFG  82
+           G +HAV+++ +T ++WRK  LFG
+Sbjct  61  GAIHAVSMQTLTPEDWRKMRLFG  83
+
+
+>WP_036366621.1 BolA family transcriptional regulator [Moraxella bovoculi]
+Length=79
+
+ Score = 88.2 bits (217),  Expect = 2e-021, Method: Compositional matrix adjust.
+ Identities = 40/76 (53%), Positives = 55/76 (72%), Gaps = 0/76 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN++ L ++L+  FP AE+  + Q  KF++ IVDD FEGKR VARQQAVYA  N +I SG
+Sbjct  1   MNADDLIELLRPHFPNAEIQAANQGNKFEVLIVDDAFEGKRLVARQQAVYAIANPHIQSG  60
+
+Query  61  EVHAVTIRAMTKDEWR  76
+            +HA+TI A+T  E++
+Sbjct  61  AMHALTIHALTPAEYQ  76
+
+
+>WP_046695956.1 BolA family transcriptional regulator [Moraxella bovoculi]
+Length=81
+
+ Score = 87.8 bits (216),  Expect = 2e-021, Method: Compositional matrix adjust.
+ Identities = 40/76 (53%), Positives = 55/76 (72%), Gaps = 0/76 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN++ L ++L+  FP AE+  + Q  KF++ IVDD FEGKR VARQQAVYA  N +I SG
+Sbjct  1   MNADDLIELLRPHFPNAEIQAANQGNKFEVLIVDDAFEGKRLVARQQAVYAIANPHIQSG  60
+
+Query  61  EVHAVTIRAMTKDEWR  76
+            +HA+TI A+T  E++
+Sbjct  61  AMHALTIHALTPAEYQ  76
+
+
+>WP_062845518.1 BolA family transcriptional regulator [Psychrobacter alimentarius]
+Length=83
+
+ Score = 87.4 bits (215),  Expect = 4e-021, Method: Compositional matrix adjust.
+ Identities = 40/75 (53%), Positives = 54/75 (72%), Gaps = 0/75 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN++ L   L+  FP+A +  + Q  KFD+R+VD  FEGKRTV RQQAVYA +N  IASG
+Sbjct  3   MNADDLIAFLQIHFPDAFIQAANQGNKFDVRVVDASFEGKRTVQRQQAVYALVNDKIASG  62
+
+Query  61  EVHAVTIRAMTKDEW  75
+           ++HA+ I+A+T  EW
+Sbjct  63  DIHALNIQALTPAEW  77
+
+
+>WP_019671708.1 BolA family transcriptional regulator [Psychrobacter lutiphocae]
+Length=84
+
+ Score = 87.4 bits (215),  Expect = 4e-021, Method: Compositional matrix adjust.
+ Identities = 39/77 (51%), Positives = 55/77 (71%), Gaps = 0/77 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN+E L   L+  FP+A +  + Q  KFD+R+VD  FEGKR V RQQAVYA +N  IA G
+Sbjct  3   MNAEDLITFLQPHFPDALIQAANQGNKFDVRVVDISFEGKRQVQRQQAVYALVNELIARG  62
+
+Query  61  EVHAVTIRAMTKDEWRK  77
+           ++HA+ I+A+T +EW++
+Sbjct  63  DIHALNIQALTPEEWQQ  79
+
+
+>WP_011959782.1 BolA family transcriptional regulator [Psychrobacter sp. PRwf-1]
+Length=84
+
+ Score = 87.4 bits (215),  Expect = 5e-021, Method: Compositional matrix adjust.
+ Identities = 39/75 (52%), Positives = 52/75 (69%), Gaps = 0/75 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN++ L   L+  FPEA +  + Q  KFD+R+VD  FEGKR V RQQA+Y  +N  IASG
+Sbjct  3   MNADDLIAFLQPHFPEAFIQAANQGNKFDVRVVDASFEGKRLVQRQQAIYGLVNDIIASG  62
+
+Query  61  EVHAVTIRAMTKDEW  75
+           E+HA+ I+A+T  EW
+Sbjct  63  EIHALNIQALTPQEW  77
+
+
+>WP_075102592.1 hypothetical protein [Psychrobacter sp. Rd 27.2]
+Length=83
+
+ Score = 87.0 bits (214),  Expect = 7e-021, Method: Compositional matrix adjust.
+ Identities = 40/79 (51%), Positives = 55/79 (70%), Gaps = 0/79 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN++ L   L+  FP+A +  + Q  KFD+R+VD  FEGKR+V RQQAVYA +N  IASG
+Sbjct  3   MNADDLIAFLQTHFPDAFIQAANQGNKFDVRVVDVSFEGKRSVQRQQAVYALVNDKIASG  62
+
+Query  61  EVHAVTIRAMTKDEWRKAS  79
+           ++HA+ I+A+T  EW   S
+Sbjct  63  DIHALNIQALTPAEWDAQS  81
+
+
+>WP_057761749.1 BolA family transcriptional regulator [Psychrobacter sp. P11G3]
+Length=83
+
+ Score = 86.7 bits (213),  Expect = 9e-021, Method: Compositional matrix adjust.
+ Identities = 40/79 (51%), Positives = 54/79 (68%), Gaps = 0/79 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN++ L   L+  FP+A +  + Q  KFD+R+VD  FEGKR V RQQAVYA +N  IASG
+Sbjct  3   MNADDLIAFLQTHFPDAFIQAANQGNKFDVRVVDASFEGKRAVQRQQAVYALVNDKIASG  62
+
+Query  61  EVHAVTIRAMTKDEWRKAS  79
+           ++HA+ I+A+T  EW   S
+Sbjct  63  DIHALNIQALTPAEWDAQS  81
+
+
+>WP_058025509.1 MULTISPECIES: BolA family transcriptional regulator [Psychrobacter]
+Length=83
+
+ Score = 86.3 bits (212),  Expect = 1e-020, Method: Compositional matrix adjust.
+ Identities = 39/79 (49%), Positives = 54/79 (68%), Gaps = 0/79 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN++ L   L+  FP+A +  + Q  KFD+R+VD  FEGKR V RQQA+YA +N  IASG
+Sbjct  3   MNADDLIAFLQTHFPDAFIQAANQGNKFDVRVVDASFEGKRAVQRQQAIYALVNDKIASG  62
+
+Query  61  EVHAVTIRAMTKDEWRKAS  79
+           ++HA+ I+A+T  EW   S
+Sbjct  63  DIHALNIQALTPAEWDAQS  81
+
+
+>WP_010200621.1 MULTISPECIES: BolA family transcriptional regulator [Psychrobacter]
+Length=83
+
+ Score = 85.9 bits (211),  Expect = 1e-020, Method: Compositional matrix adjust.
+ Identities = 38/75 (51%), Positives = 53/75 (71%), Gaps = 0/75 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN++ L   L+  FP+A +  + Q  KFD+R+VD  FEGKR V RQQA+YA +N  IASG
+Sbjct  3   MNADDLIAFLQTHFPDAFIQAANQGNKFDVRVVDASFEGKRAVQRQQAIYALVNDKIASG  62
+
+Query  61  EVHAVTIRAMTKDEW  75
+           ++HA+ I+A+T  EW
+Sbjct  63  DIHALNIQALTPAEW  77
+
+
+>WP_068038007.1 MULTISPECIES: hypothetical protein [Psychrobacter]
+Length=83
+
+ Score = 85.9 bits (211),  Expect = 2e-020, Method: Compositional matrix adjust.
+ Identities = 37/75 (49%), Positives = 54/75 (72%), Gaps = 0/75 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN++ L   L++ FP+A +  + Q  KFD+R+VD  FEGKR V RQQ++YA +N  IASG
+Sbjct  3   MNADDLIAFLQQHFPDAFIQAANQGNKFDVRVVDASFEGKRAVQRQQSIYALVNDKIASG  62
+
+Query  61  EVHAVTIRAMTKDEW  75
+           ++HA+ I+A+T  EW
+Sbjct  63  DIHALNIQALTPAEW  77
+
+
+>WP_011514505.1 MULTISPECIES: BolA family transcriptional regulator [Psychrobacter]
+Length=83
+
+ Score = 85.5 bits (210),  Expect = 2e-020, Method: Compositional matrix adjust.
+ Identities = 39/75 (52%), Positives = 53/75 (71%), Gaps = 0/75 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN++ L   L+  FP+A +  + Q  KFD+R+VD  FEGKR V RQQAVYA +N  IASG
+Sbjct  3   MNADDLIAFLQTHFPDAFIQAANQGTKFDVRVVDASFEGKRAVQRQQAVYALVNDKIASG  62
+
+Query  61  EVHAVTIRAMTKDEW  75
+           ++HA+ I+A+T  EW
+Sbjct  63  DIHALNIQALTPAEW  77
+
+
+>WP_077447884.1 hypothetical protein [Psychrobacter sp. CIP 110853]
+Length=84
+
+ Score = 85.5 bits (210),  Expect = 2e-020, Method: Compositional matrix adjust.
+ Identities = 39/77 (51%), Positives = 52/77 (68%), Gaps = 0/77 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN++ L   L+  FPEA +  + Q  KFD+R+VD  FEGKR V RQQAVY  +   IASG
+Sbjct  3   MNADDLIAFLQPHFPEAFIQAANQGNKFDVRVVDASFEGKRLVQRQQAVYGLVGDIIASG  62
+
+Query  61  EVHAVTIRAMTKDEWRK  77
+           E+HA+ I+A+T  EW +
+Sbjct  63  EIHALNIQALTPQEWEQ  79
+
+
+>WP_065256357.1 hypothetical protein [Moraxella lacunata]
+Length=80
+
+ Score = 85.1 bits (209),  Expect = 3e-020, Method: Compositional matrix adjust.
+ Identities = 39/76 (51%), Positives = 53/76 (70%), Gaps = 0/76 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN++ L  +L+  FP AE+    Q  KF++ IVDD FEGKR V RQQAVYA +N +I SG
+Sbjct  1   MNADDLIALLRPHFPSAEIQAVNQGNKFEVLIVDDSFEGKRLVQRQQAVYAIVNPHIQSG  60
+
+Query  61  EVHAVTIRAMTKDEWR  76
+            +HA+TI A+T  E++
+Sbjct  61  AMHALTIHALTPAEYQ  76
+
+
+>WP_058369916.1 MULTISPECIES: BolA family transcriptional regulator [Psychrobacter]
+Length=83
+
+ Score = 85.1 bits (209),  Expect = 4e-020, Method: Compositional matrix adjust.
+ Identities = 38/79 (48%), Positives = 54/79 (68%), Gaps = 0/79 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN++ L   L++ FP+A +  + Q  KFD+R+VD  FEGKR V RQQA+Y  +N  IASG
+Sbjct  3   MNADDLIAFLQQHFPDAFIQAANQGNKFDVRVVDASFEGKRAVQRQQAIYRLVNDKIASG  62
+
+Query  61  EVHAVTIRAMTKDEWRKAS  79
+           ++HA+ I+A+T  EW   S
+Sbjct  63  DIHALNIQALTPAEWEAQS  81
+
+
+>WP_079692695.1 hypothetical protein [Psychrobacter sp. DAB_AL43B]
+Length=83
+
+ Score = 85.1 bits (209),  Expect = 4e-020, Method: Compositional matrix adjust.
+ Identities = 39/75 (52%), Positives = 53/75 (71%), Gaps = 0/75 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN++ L   L+  FP+A +  + Q  KFD+R+VD  FEGKR V RQQAVYA +N  IASG
+Sbjct  3   MNADDLIAFLQTHFPDAFIQAANQGTKFDVRVVDASFEGKRAVQRQQAVYALVNDKIASG  62
+
+Query  61  EVHAVTIRAMTKDEW  75
+           ++HA+ I+A+T  EW
+Sbjct  63  DIHALNIQALTPVEW  77
+
+
+>WP_062533902.1 BolA family transcriptional regulator [Psychrobacter urativorans]
+Length=83
+
+ Score = 84.7 bits (208),  Expect = 5e-020, Method: Compositional matrix adjust.
+ Identities = 37/75 (49%), Positives = 53/75 (71%), Gaps = 0/75 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN++ L   L++ +P A +  + Q  KFD+R+VD  FEGKR V RQQA+YA +N  IASG
+Sbjct  3   MNADDLIAFLQQHYPAAFIQAANQGNKFDVRVVDASFEGKRAVQRQQAIYALVNDKIASG  62
+
+Query  61  EVHAVTIRAMTKDEW  75
+           ++HA+ I+A+T  EW
+Sbjct  63  DIHALNIQALTPAEW  77
+
+
+>WP_082894293.1 hypothetical protein [Psychrobacter sp. SHUES1]
+Length=83
+
+ Score = 84.3 bits (207),  Expect = 6e-020, Method: Compositional matrix adjust.
+ Identities = 38/75 (51%), Positives = 53/75 (71%), Gaps = 0/75 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN++ L   L+  FP+A +  + Q  KFD+R+VD  FEGKR V RQQ+VYA +N  IASG
+Sbjct  3   MNADDLIAFLQTHFPDAFIQAANQGTKFDVRVVDASFEGKRAVQRQQSVYALVNDKIASG  62
+
+Query  61  EVHAVTIRAMTKDEW  75
+           ++HA+ I+A+T  EW
+Sbjct  63  DIHALNIQALTPAEW  77
+
+
+>WP_077450729.1 hypothetical protein [Psychrobacter sp. CIP 110854]
+Length=84
+
+ Score = 84.3 bits (207),  Expect = 8e-020, Method: Compositional matrix adjust.
+ Identities = 38/77 (49%), Positives = 52/77 (68%), Gaps = 0/77 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN++ L   L+  FP+A +  + Q  KFD+R+VD  FEGKR V RQQAVY  +   IASG
+Sbjct  3   MNADDLIAFLQPHFPDAFIQAANQGNKFDVRVVDASFEGKRLVQRQQAVYGLVGDIIASG  62
+
+Query  61  EVHAVTIRAMTKDEWRK  77
+           E+HA+ I+A+T  EW +
+Sbjct  63  EIHALNIQALTPQEWEQ  79
+
+
+>WP_078307824.1 hypothetical protein [Moraxella lincolnii]
+Length=81
+
+ Score = 84.0 bits (206),  Expect = 9e-020, Method: Compositional matrix adjust.
+ Identities = 38/77 (49%), Positives = 50/77 (65%), Gaps = 0/77 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M ++ L   L+  FP A +    Q  KF+LRI+DD F GKR V RQQAVYA  N +I+SG
+Sbjct  1   MTADDLIAFLQPHFPNATIDAVNQGNKFELRIIDDGFTGKRLVQRQQAVYALTNHFISSG  60
+
+Query  61  EVHAVTIRAMTKDEWRK  77
+           E+HA+ I A+T  EW+ 
+Sbjct  61  EIHALNIHALTFAEWQN  77
+
+
+>WP_011281162.1 BolA family transcriptional regulator [Psychrobacter arcticus]
+Length=83
+
+ Score = 84.0 bits (206),  Expect = 1e-019, Method: Compositional matrix adjust.
+ Identities = 38/75 (51%), Positives = 52/75 (69%), Gaps = 0/75 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN++ L   L+  FP+A +  + Q  KFD+R+VD  FEGKR V RQQ VYA +N  IASG
+Sbjct  3   MNADDLIAFLQTHFPDAFIQAANQGTKFDVRVVDASFEGKRAVQRQQTVYALVNDKIASG  62
+
+Query  61  EVHAVTIRAMTKDEW  75
+           ++HA+ I+A+T  EW
+Sbjct  63  DIHALNIQALTPAEW  77
+
+
+>WP_065253355.1 hypothetical protein [Moraxella osloensis]
+Length=85
+
+ Score = 83.2 bits (204),  Expect = 2e-019, Method: Compositional matrix adjust.
+ Identities = 36/77 (47%), Positives = 53/77 (69%), Gaps = 0/77 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN++ L  +L+  FP  ++  + Q  KFD+R+VDD FEGKR VARQQAV   ++   ASG
+Sbjct  1   MNAQDLITLLQHHFPSGKIEAANQGNKFDVRVVDDSFEGKRPVARQQAVLGLVSDKFASG  60
+
+Query  61  EVHAVTIRAMTKDEWRK  77
+           E+HA+ I+A+T  +W +
+Sbjct  61  EIHALNIQALTYAQWHE  77
+
+
+>WP_037031441.1 BolA family transcriptional regulator [Psychrobacter phenylpyruvicus]
+Length=84
+
+ Score = 83.2 bits (204),  Expect = 2e-019, Method: Compositional matrix adjust.
+ Identities = 37/77 (48%), Positives = 53/77 (69%), Gaps = 0/77 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN++ L   L+  +P+A +  + Q  KFD+R+VD  FEGKR V RQQAVYA +   IASG
+Sbjct  3   MNADDLIAFLQPHYPDAFIQAANQGNKFDVRVVDASFEGKRLVQRQQAVYALVGDIIASG  62
+
+Query  61  EVHAVTIRAMTKDEWRK  77
+           ++HA+ I+A+T  EW +
+Sbjct  63  DIHALNIQALTPQEWEQ  79
+
+
+>WP_036594190.1 BolA family transcriptional regulator [Moraxella osloensis]
+Length=85
+
+ Score = 83.2 bits (204),  Expect = 2e-019, Method: Compositional matrix adjust.
+ Identities = 36/77 (47%), Positives = 53/77 (69%), Gaps = 0/77 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN++ L  +L+  FP  ++  + Q  KFD+R+VDD FEGKR VARQQAV   ++   ASG
+Sbjct  1   MNAQDLITLLQPHFPSGKIEAANQGNKFDVRVVDDSFEGKRAVARQQAVLGLVSDKFASG  60
+
+Query  61  EVHAVTIRAMTKDEWRK  77
+           E+HA+ I+A+T  +W +
+Sbjct  61  EIHALNIQALTYAQWHE  77
+
+
+>WP_065263076.1 MULTISPECIES: hypothetical protein [Proteobacteria]
+Length=85
+
+ Score = 82.8 bits (203),  Expect = 3e-019, Method: Compositional matrix adjust.
+ Identities = 36/77 (47%), Positives = 53/77 (69%), Gaps = 0/77 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN++ L  +L+  FP  ++  + Q  KFD+R+VDD FEGKR VARQQAV   ++   ASG
+Sbjct  1   MNAQDLITLLQPHFPSGKIEAANQGNKFDVRVVDDSFEGKRPVARQQAVLGLVSDKFASG  60
+
+Query  61  EVHAVTIRAMTKDEWRK  77
+           E+HA+ I+A+T  +W +
+Sbjct  61  EIHALNIQALTYAQWHE  77
+
+
+>WP_009501509.1 BolA family transcriptional regulator [Moraxella macacae]
+Length=79
+
+ Score = 82.4 bits (202),  Expect = 3e-019, Method: Compositional matrix adjust.
+ Identities = 36/76 (47%), Positives = 51/76 (67%), Gaps = 0/76 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN++ L  +L+  FP   +  +    KFDLR+VDD F+ KR VARQQA+ A +N   ASG
+Sbjct  1   MNAQDLIDLLQPHFPNGLIQSANNGNKFDLRVVDDSFKDKRPVARQQAILALVNDKFASG  60
+
+Query  61  EVHAVTIRAMTKDEWR  76
+           E+HA+ I+A+T  EW+
+Sbjct  61  EIHALNIQALTYSEWQ  76
+
+
+>WP_029103864.1 BolA family transcriptional regulator [Moraxella caprae]
+Length=80
+
+ Score = 82.4 bits (202),  Expect = 4e-019, Method: Compositional matrix adjust.
+ Identities = 38/75 (51%), Positives = 51/75 (68%), Gaps = 0/75 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN++ L  +L+  FP AE+    Q  KF++ IVDD F+GKR V RQQAVYA  N +I SG
+Sbjct  1   MNADDLIALLRPHFPSAEIQAVNQGNKFEVLIVDDSFDGKRLVQRQQAVYAIANPHIQSG  60
+
+Query  61  EVHAVTIRAMTKDEW  75
+            +HA+TI A+T  E+
+Sbjct  61  AMHALTIHALTPAEY  75
+
+
+>WP_066888514.1 hypothetical protein [Moraxella nonliquefaciens]
+Length=80
+
+ Score = 82.0 bits (201),  Expect = 5e-019, Method: Compositional matrix adjust.
+ Identities = 38/76 (50%), Positives = 52/76 (68%), Gaps = 0/76 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN++ L  +L+  FP AE+    Q  KF++ IVDD F+GKR V RQQAVYA  N +I SG
+Sbjct  1   MNADDLIALLRPHFPNAEIQAVNQGNKFEVLIVDDGFDGKRLVQRQQAVYAIANQHIQSG  60
+
+Query  61  EVHAVTIRAMTKDEWR  76
+            +HA+TI A+T  E++
+Sbjct  61  AMHALTIHALTHAEYQ  76
+
+
+>WP_076555848.1 hypothetical protein [Moraxella cuniculi]
+Length=80
+
+ Score = 81.6 bits (200),  Expect = 9e-019, Method: Compositional matrix adjust.
+ Identities = 35/75 (47%), Positives = 53/75 (71%), Gaps = 0/75 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN+++L  +L+  FP+A +    Q  KF+L IVD+ F+ KR VARQQ ++A +N +I SG
+Sbjct  1   MNAQELIDLLRPHFPKAHIDAVNQGNKFELLIVDEAFDNKRLVARQQMIFALVNEHIQSG  60
+
+Query  61  EVHAVTIRAMTKDEW  75
+            +HA+TI A+T DE+
+Sbjct  61  AMHALTIHALTPDEY  75
+
+
+>WP_066805648.1 hypothetical protein [Moraxella oblonga]
+Length=81
+
+ Score = 81.3 bits (199),  Expect = 1e-018, Method: Compositional matrix adjust.
+ Identities = 36/76 (47%), Positives = 52/76 (68%), Gaps = 0/76 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNS+ L  +L+  FP A +    Q  KF++ IVD+ F+GKR V RQQA+YA +N +I SG
+Sbjct  1   MNSDDLIALLRPTFPNANIEAVNQGNKFEVLIVDESFDGKRLVQRQQAIYAIVNAHIQSG  60
+
+Query  61  EVHAVTIRAMTKDEWR  76
+            +HA+TI A+T  E++
+Sbjct  61  AMHALTIHALTPAEYQ  76
+
+
+>WP_019520035.1 BolA family transcriptional regulator [Moraxella boevrei]
+Length=82
+
+ Score = 81.3 bits (199),  Expect = 1e-018, Method: Compositional matrix adjust.
+ Identities = 35/77 (45%), Positives = 51/77 (66%), Gaps = 0/77 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN++ L  +L+  FP   +  +    KFD+R+VDD F+GKR V RQQAV A +N   ASG
+Sbjct  1   MNAQDLIDLLQPHFPNGLIQSANNGNKFDVRVVDDSFDGKRPVQRQQAVLALVNDKFASG  60
+
+Query  61  EVHAVTIRAMTKDEWRK  77
+           E+HA+ I+A+T  +W +
+Sbjct  61  EIHALNIQALTHAQWNE  77
+
+
+>WP_078276666.1 hypothetical protein [Moraxella caviae]
+Length=81
+
+ Score = 80.9 bits (198),  Expect = 2e-018, Method: Compositional matrix adjust.
+ Identities = 38/75 (51%), Positives = 52/75 (69%), Gaps = 0/75 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN++ L  +L+  F  AE+  + Q  KF++ IVD+ FEGKR VARQQ VYA  N +I SG
+Sbjct  1   MNADDLIALLRPHFVNAEIQAANQGNKFEVLIVDEAFEGKRLVARQQMVYAIANPHIQSG  60
+
+Query  61  EVHAVTIRAMTKDEW  75
+           E+HA+TI A+T  E+
+Sbjct  61  EMHALTIHALTPAEY  75
+
+
+>WP_078274064.1 hypothetical protein [Moraxella bovis]
+Length=80
+
+ Score = 80.5 bits (197),  Expect = 2e-018, Method: Compositional matrix adjust.
+ Identities = 37/75 (49%), Positives = 50/75 (67%), Gaps = 0/75 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN++ L  +L+  FP AE+    Q  KF++ IVDD F+GKR V RQQ VYA  N +I SG
+Sbjct  1   MNADDLIALLRPHFPSAEIQAVNQGNKFEVLIVDDSFDGKRLVQRQQVVYAIANPHIQSG  60
+
+Query  61  EVHAVTIRAMTKDEW  75
+            +HA+TI A+T  E+
+Sbjct  61  AMHALTIHALTPAEY  75
+
+
+>WP_062499934.1 BolA family transcriptional regulator [Moraxella lacunata]
+Length=80
+
+ Score = 80.5 bits (197),  Expect = 2e-018, Method: Compositional matrix adjust.
+ Identities = 37/76 (49%), Positives = 53/76 (70%), Gaps = 0/76 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN++ L  +L+  F +AE+    Q  KF++ IVDD F+GKR V RQQAVYA +N +I SG
+Sbjct  1   MNADDLIALLRPHFADAEIQAVNQGNKFEVLIVDDSFDGKRLVQRQQAVYAIVNPHIQSG  60
+
+Query  61  EVHAVTIRAMTKDEWR  76
+            +HA+TI A+T  E++
+Sbjct  61  AMHALTIHALTPAEYQ  76
+
+
+>WP_079324048.1 hypothetical protein [Moraxella equi]
+Length=80
+
+ Score = 80.1 bits (196),  Expect = 3e-018, Method: Compositional matrix adjust.
+ Identities = 37/75 (49%), Positives = 50/75 (67%), Gaps = 0/75 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN++ L  +L+  FP AE+    Q  KF++ IVDD F+GKR V RQQ VYA  N +I SG
+Sbjct  1   MNADDLIALLRPHFPNAEIQAVNQGNKFEVLIVDDSFDGKRLVQRQQVVYAIANPHIQSG  60
+
+Query  61  EVHAVTIRAMTKDEW  75
+            +HA+TI A+T  E+
+Sbjct  61  VMHALTIHALTPAEY  75
+
+
+>WP_049237754.1 BolA family transcriptional regulator [Moraxella catarrhalis]
+Length=80
+
+ Score = 80.1 bits (196),  Expect = 3e-018, Method: Compositional matrix adjust.
+ Identities = 36/75 (48%), Positives = 52/75 (69%), Gaps = 0/75 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN++ L ++L+  F +A +    +  KF+L IVDD FEGKR VARQQ +YA +N +I SG
+Sbjct  1   MNAQALIELLRPHFTDAHIDAVNEGNKFELLIVDDAFEGKRLVARQQMIYALVNEHIQSG  60
+
+Query  61  EVHAVTIRAMTKDEW  75
+            +HA+TI A+T  E+
+Sbjct  61  AMHALTIHALTPAEY  75
+
+
+>WP_007394165.1 BolA family transcriptional regulator [Psychrobacter sp. 1501(2011)]
+Length=84
+
+ Score = 80.1 bits (196),  Expect = 3e-018, Method: Compositional matrix adjust.
+ Identities = 36/77 (47%), Positives = 51/77 (66%), Gaps = 0/77 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN++ L   L+  +PEA +  + Q  KFD+R+VD  FEGKR V RQQAVY  +   IA G
+Sbjct  3   MNADDLIAFLQPHYPEAFIQAANQGNKFDVRVVDASFEGKRLVQRQQAVYGLVGDIIARG  62
+
+Query  61  EVHAVTIRAMTKDEWRK  77
+           ++HA+ I+A+T  EW +
+Sbjct  63  DIHALNIQALTPKEWEE  79
+
+
+>WP_053953061.1 BolA family transcriptional regulator [Idiomarina zobellii]
+Length=84
+
+ Score = 79.7 bits (195),  Expect = 4e-018, Method: Compositional matrix adjust.
+ Identities = 36/77 (47%), Positives = 49/77 (64%), Gaps = 0/77 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN EQL  +L +A   +E+ V       D+  V D FE    V RQQA+YAPLN +I+SG
+Sbjct  1   MNEEQLKTLLNDALNLSELYVKVDGANVDIIAVSDDFESMSKVKRQQAIYAPLNPHISSG  60
+
+Query  61  EVHAVTIRAMTKDEWRK  77
+           E+HAV+I+A T D+W +
+Sbjct  61  EIHAVSIKAYTPDDWAR  77
+
+
+>WP_064602591.1 hypothetical protein [Moraxella catarrhalis]
+Length=80
+
+ Score = 79.3 bits (194),  Expect = 5e-018, Method: Compositional matrix adjust.
+ Identities = 36/75 (48%), Positives = 51/75 (68%), Gaps = 0/75 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN++ L ++L+  F +A +    +  KF+L IVDD FEGKR VARQQ VY  +N YI +G
+Sbjct  1   MNAQALIELLRPHFADAHIDAVNEGNKFELLIVDDAFEGKRLVARQQMVYTLVNQYIQNG  60
+
+Query  61  EVHAVTIRAMTKDEW  75
+            +HA+TI A+T  E+
+Sbjct  61  AMHALTIHALTPAEY  75
+
+
+>WP_003657343.1 MULTISPECIES: BolA family transcriptional regulator [Moraxella]
+Length=80
+
+ Score = 79.3 bits (194),  Expect = 6e-018, Method: Compositional matrix adjust.
+ Identities = 36/75 (48%), Positives = 51/75 (68%), Gaps = 0/75 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN++ L ++L+  F +A +    +  KF+L IVDD FEGKR VARQQ VY  +N YI +G
+Sbjct  1   MNAQALIELLRPHFADAHIDAVNEGNKFELLIVDDAFEGKRLVARQQMVYTLVNQYIQNG  60
+
+Query  61  EVHAVTIRAMTKDEW  75
+            +HA+TI A+T  E+
+Sbjct  61  AMHALTIHALTPAEY  75
+
+
+>WP_078254059.1 hypothetical protein [Moraxella pluranimalium]
+Length=81
+
+ Score = 78.6 bits (192),  Expect = 1e-017, Method: Compositional matrix adjust.
+ Identities = 38/81 (47%), Positives = 55/81 (68%), Gaps = 2/81 (2%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MNS+ L  +L+  F +A +    Q  KF+L IVD+ FEGKR VARQQ ++A +N +I SG
+Sbjct  1   MNSDDLIALLRPHFVDAHIEAVNQGNKFELLIVDNAFEGKRLVARQQMIFALVNEHIQSG  60
+
+Query  61  EVHAVTIRAMTKDEW--RKAS  79
+            +HA+TI A+T  E+  RK++
+Sbjct  61  AMHALTIHALTPAEYDARKSN  81
+
+
+>WP_003669891.1 BolA family transcriptional regulator [Moraxella catarrhalis]
+Length=80
+
+ Score = 78.6 bits (192),  Expect = 1e-017, Method: Compositional matrix adjust.
+ Identities = 36/75 (48%), Positives = 51/75 (68%), Gaps = 0/75 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN++ L ++L+  F +A +    +  KF+L IVDD FEGKR VARQQ VY  +N YI +G
+Sbjct  1   MNAQALIELLRPHFADAYIDAVNEGNKFELLIVDDAFEGKRLVARQQMVYTLVNQYIQNG  60
+
+Query  61  EVHAVTIRAMTKDEW  75
+            +HA+TI A+T  E+
+Sbjct  61  AMHALTIHALTPAEY  75
+
+
+>WP_068992770.1 BolA family transcriptional regulator [Kangiella sediminilitoris]
+Length=81
+
+ Score = 78.2 bits (191),  Expect = 2e-017, Method: Compositional matrix adjust.
+ Identities = 35/78 (45%), Positives = 53/78 (68%), Gaps = 0/78 (0%)
+
+Query  4   EQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASGEVH  63
+           E++ +++++A    E+ V G    + + +V +QFEG R V +QQ VYA +N +IASGE+H
+Sbjct  3   EEIKKLIEQAIDTTELRVDGDGSHYQVIVVSEQFEGLRAVKKQQMVYAAVNEHIASGEIH  62
+
+Query  64  AVTIRAMTKDEWRKASLF  81
+           A+TI+A T  EW KA LF
+Sbjct  63  ALTIKAYTPAEWEKAKLF  80
+
+
+>WP_046561718.1 BolA family transcriptional regulator [Kangiella geojedonensis]
+Length=81
+
+ Score = 77.8 bits (190),  Expect = 2e-017, Method: Compositional matrix adjust.
+ Identities = 35/78 (45%), Positives = 52/78 (67%), Gaps = 0/78 (0%)
+
+Query  4   EQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASGEVH  63
+           E++ +++++     E+ V G    + + +V DQFEG R V +QQ VYA +N +IASGE+H
+Sbjct  3   EEIKKLIEQEINTTELRVDGDGSHYQVIVVSDQFEGLRAVKKQQMVYAAVNEHIASGEIH  62
+
+Query  64  AVTIRAMTKDEWRKASLF  81
+           A+TI+A T  EW KA LF
+Sbjct  63  ALTIKAYTPAEWEKAKLF  80
+
+
+>WP_064652651.1 hypothetical protein [Moraxella catarrhalis]
+Length=80
+
+ Score = 77.8 bits (190),  Expect = 2e-017, Method: Compositional matrix adjust.
+ Identities = 35/75 (47%), Positives = 50/75 (67%), Gaps = 0/75 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN++ L ++L+  F +A +    +  KF+L IVDD FEGKR V RQQ VY  +N YI +G
+Sbjct  1   MNAQALIELLRPHFADAHIDAVNEGNKFELLIVDDAFEGKRLVVRQQMVYTLVNQYIQNG  60
+
+Query  61  EVHAVTIRAMTKDEW  75
+            +HA+TI A+T  E+
+Sbjct  61  AMHALTIHALTPAEY  75
+
+
+>WP_078256062.1 hypothetical protein [Moraxella canis]
+Length=80
+
+ Score = 77.4 bits (189),  Expect = 4e-017, Method: Compositional matrix adjust.
+ Identities = 35/75 (47%), Positives = 52/75 (69%), Gaps = 0/75 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN++ L ++L+  F +A +    +  KF+L IVD+ FEGKR VARQQ +YA +N +I SG
+Sbjct  1   MNAQALIELLRPHFTDAHIDAVNEGNKFELLIVDEAFEGKRLVARQQMIYALVNEHIQSG  60
+
+Query  61  EVHAVTIRAMTKDEW  75
+            +HA+TI A+T  E+
+Sbjct  61  AMHALTIYALTPAEY  75
+
+
+>WP_008042463.1 cell division protein BolA [Reinekea blandensis]
+Length=76
+
+ Score = 77.0 bits (188),  Expect = 5e-017, Method: Compositional matrix adjust.
+ Identities = 37/75 (49%), Positives = 50/75 (67%), Gaps = 0/75 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M S+ +  +L  AF +A + V+G+  KFD+ +V + F GKR VARQQ VYA LN  IASG
+Sbjct  1   MTSDDVKNLLIPAFADATIEVAGEGAKFDISMVSEAFAGKRAVARQQMVYAVLNEQIASG  60
+
+Query  61  EVHAVTIRAMTKDEW  75
+           ++HAVT+   T DE 
+Sbjct  61  DIHAVTMTLKTPDEL  75
+
+
+>WP_078317266.1 hypothetical protein [Moraxella porci]
+Length=80
+
+ Score = 76.6 bits (187),  Expect = 7e-017, Method: Compositional matrix adjust.
+ Identities = 37/80 (46%), Positives = 54/80 (68%), Gaps = 2/80 (3%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN++ L ++L+  F +A +    +  KF+L IVD  FEGKR VARQQ ++A +N +I SG
+Sbjct  1   MNAQALIELLRPHFADAHIDAVNEGNKFELLIVDHAFEGKRLVARQQMIFALVNEHIQSG  60
+
+Query  61  EVHAVTIRAMTKDEW--RKA  78
+            +HA+TI A+T  E+  RKA
+Sbjct  61  AMHALTIHALTPAEYDARKA  80
+
+
+>WP_008251626.1 cell division protein BolA [Zhongshania aliphaticivorans]
+Length=77
+
+ Score = 75.5 bits (184),  Expect = 2e-016, Method: Compositional matrix adjust.
+ Identities = 34/74 (46%), Positives = 48/74 (65%), Gaps = 0/74 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M ++ + Q L E FPE++V VSG    FD+R+V   F G R V RQQ VYA +N +I  G
+Sbjct  1   MQTDHIEQRLSEHFPESDVAVSGDGSHFDVRVVSAAFAGLRAVKRQQLVYAAVNDWIRDG  60
+
+Query  61  EVHAVTIRAMTKDE  74
+            +HA+ I+A+T +E
+Sbjct  61  SLHAINIKAITPEE  74
+
+
+>WP_016400755.1 BolA family transcriptional regulator [Agarivorans albus]
+Length=84
+
+ Score = 74.7 bits (182),  Expect = 4e-016, Method: Compositional matrix adjust.
+ Identities = 38/82 (46%), Positives = 48/82 (59%), Gaps = 0/82 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M  EQ+ +IL +A     V VSG+   F +  V   F     V +QQAVYAPL  YIAS 
+Sbjct  1   MQPEQIEEILSQALELEHVQVSGEGNHFQVVAVGAMFTDLSRVKKQQAVYAPLKEYIASN  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFG  82
+           E+HA+ I+A T DEW+K   FG
+Sbjct  61  EIHALGIKAFTPDEWQKQQKFG  82
+
+
+>WP_055732821.1 BolA family transcriptional regulator [Agarivorans gilvus]
+Length=84
+
+ Score = 74.7 bits (182),  Expect = 4e-016, Method: Compositional matrix adjust.
+ Identities = 38/82 (46%), Positives = 48/82 (59%), Gaps = 0/82 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M  EQ+ QIL +A     V V+G+   F +  V   F     V +QQAVYAPL  YIAS 
+Sbjct  1   MQPEQIEQILSQALELDHVQVTGEGNHFQVVAVGAMFTDLSRVKKQQAVYAPLKEYIASN  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFG  82
+           E+HA+ I+A T DEW+K   FG
+Sbjct  61  EIHALGIKAFTPDEWQKQQKFG  82
+
+
+>WP_014995896.1 MULTISPECIES: cell division protein BolA [Alcanivorax]
+Length=84
+
+ Score = 73.9 bits (180),  Expect = 8e-016, Method: Compositional matrix adjust.
+ Identities = 35/82 (43%), Positives = 49/82 (60%), Gaps = 0/82 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN E +  +++  F +AEV V G   +F +R+V D FEG   V +QQ VY  +N  IA G
+Sbjct  1   MNPEDVKALVEAGFDDAEVAVDGGGDRFLIRVVSDAFEGLMPVKKQQLVYGCINQAIADG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFG  82
+            +HAV+I+  T+ EW KA   G
+Sbjct  61  TIHAVSIQTYTRAEWEKAQKMG  82
+
+
+>WP_023402583.1 BolA family transcriptional regulator [Vibrio halioticoli]
+Length=84
+
+ Score = 73.6 bits (179),  Expect = 1e-015, Method: Compositional matrix adjust.
+ Identities = 33/77 (43%), Positives = 50/77 (65%), Gaps = 0/77 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M+S Q+ ++L EA   AE+ V G+   F++  VD  FEG   V +QQ +YAPL  YI   
+Sbjct  1   MDSTQVKELLDEALQLAEIHVKGEGSHFEVIAVDASFEGMSRVKKQQFIYAPLTDYIQRN  60
+
+Query  61  EVHAVTIRAMTKDEWRK  77
+           E+HA++I+A T +EW++
+Sbjct  61  EIHALSIKAFTPEEWQR  77
+
+
+>WP_026957956.1 MULTISPECIES: BolA family transcriptional regulator [Aliagarivorans]
+Length=84
+
+ Score = 73.6 bits (179),  Expect = 1e-015, Method: Compositional matrix adjust.
+ Identities = 32/82 (39%), Positives = 51/82 (62%), Gaps = 0/82 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M ++Q+ +IL +      + VSG+   F++  V +QF     V +QQ +YAPL  YIAS 
+Sbjct  1   MQADQVKEILNQQLDLEHLAVSGEGNHFEVVAVSEQFASMTRVKKQQVIYAPLKDYIASN  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFG  82
+           E+HA+TI+A++ +EW+    FG
+Sbjct  61  EIHALTIKALSPEEWKAQQKFG  82
+
+
+>WP_028669363.1 hypothetical protein [Saccharospirillum impatiens]
+Length=80
+
+ Score = 73.6 bits (179),  Expect = 1e-015, Method: Compositional matrix adjust.
+ Identities = 34/75 (45%), Positives = 48/75 (64%), Gaps = 0/75 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M+++++  +L  AFP A V V G   KF +R++D  F GKR V RQQ VY  LN  I SG
+Sbjct  1   MSADEVKAMLAAAFPGATVEVDGGGAKFTVRVIDAAFTGKRPVQRQQQVYGVLNDKITSG  60
+
+Query  61  EVHAVTIRAMTKDEW  75
+           ++HAV++   T +EW
+Sbjct  61  DIHAVSMALFTPEEW  75
+
+
+>WP_006717252.1 BolA family transcriptional regulator [Aggregatibacter segnis]
+Length=85
+
+ Score = 73.6 bits (179),  Expect = 2e-015, Method: Compositional matrix adjust.
+ Identities = 33/82 (40%), Positives = 52/82 (63%), Gaps = 0/82 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M ++++ +ILKEA    EV V G+   + +  V DQFEG   V +QQ +YAPL  +I+S 
+Sbjct  1   METQEIERILKEALNLDEVYVQGENAHYGVIAVSDQFEGLSKVKQQQMIYAPLLNHISSN  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFG  82
+           E+HA++IR  T ++W++  L  
+Sbjct  61  EIHALSIRTYTVEKWKRERLLN  82
+
+
+>WP_048748960.1 BolA family transcriptional regulator [Aggregatibacter segnis]
+Length=85
+
+ Score = 73.2 bits (178),  Expect = 2e-015, Method: Compositional matrix adjust.
+ Identities = 33/82 (40%), Positives = 52/82 (63%), Gaps = 0/82 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M ++++ +ILKEA    EV V G+   + +  V DQFEG   V +QQ +YAPL  +I+S 
+Sbjct  1   METQEIERILKEALNLDEVYVQGENAHYGVIAVSDQFEGLSKVKQQQMIYAPLLNHISSN  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFG  82
+           E+HA++IR  T ++W++  L  
+Sbjct  61  EIHALSIRTYTVEKWKRERLLN  82
+
+
+>WP_005569303.1 BolA family transcriptional regulator [Aggregatibacter actinomycetemcomitans]
+Length=85
+
+ Score = 73.2 bits (178),  Expect = 2e-015, Method: Compositional matrix adjust.
+ Identities = 33/82 (40%), Positives = 52/82 (63%), Gaps = 0/82 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M ++++ +ILKEA    EV V G+   + +  V DQFEG   V +QQ +YAPL  +I+S 
+Sbjct  1   METQEIEKILKEALNLDEVYVQGEDAHYGVIAVSDQFEGLSKVKQQQMIYAPLLNHISSN  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFG  82
+           E+HA++IR  T ++W++  L  
+Sbjct  61  EIHALSIRTYTVEKWKRERLLN  82
+
+
+>WP_034878136.1 hypothetical protein [Endozoicomonas montiporae]
+Length=80
+
+ Score = 72.8 bits (177),  Expect = 2e-015, Method: Compositional matrix adjust.
+ Identities = 34/77 (44%), Positives = 50/77 (65%), Gaps = 0/77 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M + Q+  +L+E    +EV+V G+   F L I+ D+F+G   V RQQ VY  LN  IASG
+Sbjct  1   MLANQVKALLEEKIQGSEVLVEGEGCDFRLTIISDEFQGAMPVKRQQMVYQHLNGMIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRK  77
+           E+HAVT+  +T+ EW++
+Sbjct  61  EIHAVTMVTLTQSEWQQ  77
+
+
+>WP_067560881.1 hypothetical protein [Halofilum ochraceum]
+Length=83
+
+ Score = 73.2 bits (178),  Expect = 2e-015, Method: Compositional matrix adjust.
+ Identities = 33/77 (43%), Positives = 50/77 (65%), Gaps = 0/77 (0%)
+
+Query  2   NSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASGE  61
+            +E+  ++++   P+A+  V G  GKF+  ++ D FEGK  +A+ + VYA L+  I SGE
+Sbjct  3   QTEEYARLIEAYIPDAKAKVEGGGGKFEATVISDAFEGKSILAKHRLVYAALDDQIKSGE  62
+
+Query  62  VHAVTIRAMTKDEWRKA  78
+           VHAV+IRA T  EW +A
+Sbjct  63  VHAVSIRAYTPSEWSQA  79
+
+
+>WP_005541027.1 BolA family transcriptional regulator [Aggregatibacter actinomycetemcomitans]
+Length=85
+
+ Score = 72.8 bits (177),  Expect = 3e-015, Method: Compositional matrix adjust.
+ Identities = 33/82 (40%), Positives = 52/82 (63%), Gaps = 0/82 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M ++++ +ILKEA    EV V G+   + +  V DQFEG   V +QQ +YAPL  +I+S 
+Sbjct  1   METQEIERILKEALNLDEVYVQGEDAHYGVIAVSDQFEGLSKVKQQQMIYAPLLNHISSN  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFG  82
+           E+HA++IR  T ++W++  L  
+Sbjct  61  EIHALSIRTYTVEKWKRERLLN  82
+
+
+>WP_012847381.1 MULTISPECIES: BolA family transcriptional regulator [Edwardsiella]
+Length=84
+
+ Score = 72.8 bits (177),  Expect = 3e-015, Method: Compositional matrix adjust.
+ Identities = 34/77 (44%), Positives = 49/77 (64%), Gaps = 0/77 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN++Q+  +L +A    EV V+G    F + +V + F G   V +QQAVYAPL  YIA  
+Sbjct  1   MNNDQIKDVLMKALALQEVHVTGDGSHFQVIVVGELFAGMSRVKQQQAVYAPLMEYIADN  60
+
+Query  61  EVHAVTIRAMTKDEWRK  77
+            +HA+TI+A T DEW++
+Sbjct  61  RIHALTIKAYTPDEWQR  77
+
+
+>WP_005576014.1 BolA family transcriptional regulator [Aggregatibacter actinomycetemcomitans]
+Length=85
+
+ Score = 72.8 bits (177),  Expect = 3e-015, Method: Compositional matrix adjust.
+ Identities = 33/82 (40%), Positives = 52/82 (63%), Gaps = 0/82 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M ++++ +ILKEA    EV V G+   + +  V DQFEG   V +QQ +YAPL  +I+S 
+Sbjct  1   METQEIERILKEALNLDEVYVQGEDAHYGVIAVSDQFEGLSKVKQQQLIYAPLLNHISSN  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFG  82
+           E+HA++IR  T ++W++  L  
+Sbjct  61  EIHALSIRTYTVEKWKRERLLN  82
+
+
+>WP_074372078.1 BolA family transcriptional regulator [Vibrio sp. CECT 9026]
+Length=84
+
+ Score = 72.8 bits (177),  Expect = 3e-015, Method: Compositional matrix adjust.
+ Identities = 34/77 (44%), Positives = 49/77 (64%), Gaps = 0/77 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M+S Q+ +IL EA    E+ V G+   F++  VD+ F+G   V +QQ +YAPL TYI   
+Sbjct  1   MDSAQVQEILDEALHLHEIHVKGEGSHFEVIAVDECFDGMSRVKKQQFIYAPLMTYIQRN  60
+
+Query  61  EVHAVTIRAMTKDEWRK  77
+           E+HAV+I+A T  EW +
+Sbjct  61  EIHAVSIKAYTPAEWER  77
+
+
+>WP_034834068.1 cell division protein BolA [Endozoicomonas numazuensis]
+Length=79
+
+ Score = 72.4 bits (176),  Expect = 3e-015, Method: Compositional matrix adjust.
+ Identities = 34/77 (44%), Positives = 49/77 (64%), Gaps = 0/77 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M + ++  +L+E+ P +EV+V G+   F L I+ DQFEG   V RQQ VY  LN  IASG
+Sbjct  1   MQATEVKALLEESIPGSEVLVEGEGCDFRLTIISDQFEGALPVKRQQMVYKHLNELIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRK  77
+            +HAVT+  +T  E ++
+Sbjct  61  AIHAVTMTTLTPSEAQR  77
+
+
+>WP_017028814.1 BolA family transcriptional regulator [Vibrio breoganii]
+Length=84
+
+ Score = 72.8 bits (177),  Expect = 3e-015, Method: Compositional matrix adjust.
+ Identities = 31/77 (40%), Positives = 51/77 (66%), Gaps = 0/77 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M+S Q+ ++L +A   AE+ V G+   +++  VD+ F+G   V +QQ +YAPL  YI   
+Sbjct  1   MDSTQVKKLLDDALQLAEIHVKGEGSHYEVIAVDESFDGMSRVKKQQLIYAPLMEYIQRN  60
+
+Query  61  EVHAVTIRAMTKDEWRK  77
+           ++HAV+I+A T DEW++
+Sbjct  61  DIHAVSIKAFTPDEWQR  77
+
+
+>WP_045425301.1 MULTISPECIES: BolA family transcriptional regulator [Edwardsiella]
+Length=84
+
+ Score = 72.4 bits (176),  Expect = 3e-015, Method: Compositional matrix adjust.
+ Identities = 34/77 (44%), Positives = 49/77 (64%), Gaps = 0/77 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN++Q+  +L +A    EV V+G    F + +V + F G   V +QQAVYAPL  YIA  
+Sbjct  1   MNNDQIKDVLMKALALQEVHVTGDGSHFQVIVVGELFAGMSRVKQQQAVYAPLMEYIADN  60
+
+Query  61  EVHAVTIRAMTKDEWRK  77
+            +HA+TI+A T DEW++
+Sbjct  61  RIHALTIKAYTLDEWQR  77
+
+
+>WP_016954480.1 hypothetical protein [Catenovulum agarivorans]
+Length=84
+
+ Score = 72.4 bits (176),  Expect = 3e-015, Method: Compositional matrix adjust.
+ Identities = 37/78 (47%), Positives = 49/78 (63%), Gaps = 1/78 (1%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKF-DLRIVDDQFEGKRTVARQQAVYAPLNTYIAS  59
+           MN EQ+ Q++ +A    E++V  +   + ++ IV   FEG R V RQQ VY PLN  IA 
+Sbjct  1   MNLEQIKQLVGDAIEHEELIVEHEDNYYLNIIIVSAVFEGLRPVKRQQMVYQPLNDMIAD  60
+
+Query  60  GEVHAVTIRAMTKDEWRK  77
+           G VHAV I+A T DEW+K
+Sbjct  61  GTVHAVKIKAFTADEWQK  78
+
+
+>WP_054343596.1 cell division protein BolA [Neptunomonas antarctica]
+Length=80
+
+ Score = 72.4 bits (176),  Expect = 4e-015, Method: Compositional matrix adjust.
+ Identities = 29/77 (38%), Positives = 50/77 (65%), Gaps = 0/77 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN+E++  I++     +EV+  G+   F++ ++++QF G   V +QQ VY  LN YIA G
+Sbjct  1   MNAEEVKTIIESQLQGSEVITGGEGCSFEVTVINEQFTGLMPVKKQQLVYQCLNEYIADG  60
+
+Query  61  EVHAVTIRAMTKDEWRK  77
+            +HA+TI+  T ++W+K
+Sbjct  61  TIHALTIKTYTPEQWKK  77
+
+
+>WP_012800589.1 BolA family transcriptional regulator [Kangiella koreensis]
+Length=81
+
+ Score = 72.4 bits (176),  Expect = 4e-015, Method: Compositional matrix adjust.
+ Identities = 34/78 (44%), Positives = 50/78 (64%), Gaps = 0/78 (0%)
+
+Query  4   EQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASGEVH  63
+           EQ+  ++++     E+ V G    F + IV   FEG R+V +QQ VYA +N +IASG++H
+Sbjct  3   EQIKSLIEKEIECEELRVDGDGSHFQVIIVSKAFEGLRSVKKQQMVYATVNEHIASGDIH  62
+
+Query  64  AVTIRAMTKDEWRKASLF  81
+           A+TI+A T +EW KA  F
+Sbjct  63  ALTIKAYTPEEWSKAKHF  80
+
+
+>WP_008294485.1 cell division protein BolA [Congregibacter litoralis]
+Length=80
+
+ Score = 72.0 bits (175),  Expect = 4e-015, Method: Compositional matrix adjust.
+ Identities = 33/75 (44%), Positives = 47/75 (63%), Gaps = 0/75 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M+++ +  +++EA  +A V V G    +D+ +V D F   R V RQQ VYA +N  IASG
+Sbjct  1   MDAKTVEAMVREALVDATVSVEGAGANYDITVVSDAFADMRAVRRQQTVYAAINQAIASG  60
+
+Query  61  EVHAVTIRAMTKDEW  75
+            +HAV IRA+T  EW
+Sbjct  61  SIHAVNIRALTPAEW  75
+
+
+>WP_070176732.1 BolA family transcriptional regulator [Alteromonas lipolytica]
+Length=85
+
+ Score = 72.4 bits (176),  Expect = 4e-015, Method: Compositional matrix adjust.
+ Identities = 34/82 (41%), Positives = 50/82 (61%), Gaps = 0/82 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M+++++  +LKE    AEV V G+   F +  V D F     V RQQAVYAPLN +IA G
+Sbjct  1   MDTKEIESLLKEKLDLAEVYVKGEGSHFTVIAVSDAFAEMSRVKRQQAVYAPLNAFIADG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFG  82
+            +HAV+I+  T+ +W++   F 
+Sbjct  61  SMHAVSIKTFTEKDWQRERQFN  82
+
+
+>WP_013260726.1 transcriptional regulator, BolA superfamily [gamma proteobacterium 
+HdN1]
+Length=84
+
+ Score = 72.4 bits (176),  Expect = 4e-015, Method: Compositional matrix adjust.
+ Identities = 35/82 (43%), Positives = 49/82 (60%), Gaps = 0/82 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M+   +   L+  FP+AEV V     K  + +V D F GKR V +QQ VY  LN  +ASG
+Sbjct  1   MDENLIKSRLQTGFPDAEVHVDLMGNKAQVVVVSDAFAGKRVVQKQQMVYQQLNDLLASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFG  82
+           E+HAV+++ +T DEW +   FG
+Sbjct  61  ELHAVSMQTLTPDEWAQKKKFG  82
+
+
+>WP_055023469.1 MULTISPECIES: BolA family transcriptional regulator [Shewanella]
+Length=83
+
+ Score = 72.0 bits (175),  Expect = 4e-015, Method: Compositional matrix adjust.
+ Identities = 33/82 (40%), Positives = 50/82 (61%), Gaps = 0/82 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M+ + + QIL EA    EV V+     + +  V + F+G   V +QQ +YAPLN +IASG
+Sbjct  1   MDCKVIEQILTEALTIDEVHVTSDGSHYKVVAVGECFDGMSKVKQQQTIYAPLNDHIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFG  82
+           E+HA+TI+  T  +W++  LF 
+Sbjct  61  ELHALTIKTFTPTQWKREKLFN  82
+
+
+>WP_067605985.1 cell division protein BolA [Alcanivorax sp. CP2C]
+Length=84
+
+ Score = 72.0 bits (175),  Expect = 5e-015, Method: Compositional matrix adjust.
+ Identities = 32/82 (39%), Positives = 50/82 (61%), Gaps = 0/82 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M SE +  +++  F +A+V V G+  +F +R++ D FEG   V +QQ VY+ +N  IA  
+Sbjct  1   MKSEDVKALVEAGFEDADVAVEGEGDRFLIRVISDAFEGLMPVKKQQLVYSCINPQIADN  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFG  82
+            +HAV+I+  T+ EW KA   G
+Sbjct  61  SIHAVSIKTFTRAEWEKAQKMG  82
+
+
+>WP_036749674.1 BolA family transcriptional regulator [Photobacterium galatheae]
+Length=84
+
+ Score = 72.0 bits (175),  Expect = 6e-015, Method: Compositional matrix adjust.
+ Identities = 33/77 (43%), Positives = 50/77 (65%), Gaps = 0/77 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M + ++ QIL+ A    EV+VSG+   + +  V   FEG   V +QQAVYAPL ++IAS 
+Sbjct  1   METSEIKQILENALALDEVIVSGEGSHYQVIAVGAMFEGMSRVKKQQAVYAPLMSHIASN  60
+
+Query  61  EVHAVTIRAMTKDEWRK  77
+            +HA++I+A T +EW +
+Sbjct  61  AIHALSIKAYTPEEWAR  77
+
+
+>WP_005349627.1 MULTISPECIES: BolA family transcriptional regulator [Aeromonas]
+Length=85
+
+ Score = 72.0 bits (175),  Expect = 6e-015, Method: Compositional matrix adjust.
+ Identities = 34/81 (42%), Positives = 51/81 (63%), Gaps = 0/81 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M   ++  IL+EA P +EV V+G    F +  V D F+G   V +QQA+YAPL   IA+ 
+Sbjct  1   MQVSEIEAILREALPLSEVHVTGDGSHFQVIAVADLFDGMSRVKKQQAIYAPLMDKIATN  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLF  81
+           E+HA++I+A T+ EW++   F
+Sbjct  61  EIHALSIKAYTEAEWKRERKF  81
+
+
+>WP_017806080.1 BolA family transcriptional regulator [Avibacterium paragallinarum]
+Length=86
+
+ Score = 72.0 bits (175),  Expect = 6e-015, Method: Compositional matrix adjust.
+ Identities = 29/82 (35%), Positives = 53/82 (65%), Gaps = 0/82 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M ++++ +ILK+A    +V V G+   F + ++DD       + +QQ +YAPL +Y +SG
+Sbjct  1   METQEIERILKQALNLEQVYVQGENAHFGVIVIDDNIAALSRLKQQQTIYAPLMSYFSSG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFG  82
+           E+HA+TI+  T+++W++  LF 
+Sbjct  61  EIHALTIKTFTQEKWQRERLFN  82
+
+
+>WP_018625323.1 BolA family transcriptional regulator [Kangiella aquimarina]
+Length=81
+
+ Score = 71.6 bits (174),  Expect = 7e-015, Method: Compositional matrix adjust.
+ Identities = 33/79 (42%), Positives = 50/79 (63%), Gaps = 0/79 (0%)
+
+Query  4   EQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASGEVH  63
+           EQ+  ++++     E+ V G    F + +V   FEG R+V +QQ VYA +N +IASG++H
+Sbjct  3   EQIKSLIEKEIECEELRVDGDGSHFQVIVVSKAFEGLRSVKKQQMVYAAVNEHIASGDIH  62
+
+Query  64  AVTIRAMTKDEWRKASLFG  82
+           A+TI+A T +EW KA  F 
+Sbjct  63  ALTIKAYTPEEWSKAKHFA  81
+
+
+>WP_021712392.1 BolA family transcriptional regulator [Vibrio ezurae]
+Length=84
+
+ Score = 71.6 bits (174),  Expect = 8e-015, Method: Compositional matrix adjust.
+ Identities = 32/77 (42%), Positives = 50/77 (65%), Gaps = 0/77 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M+S Q+ ++L EA   AE+ V G+   F++  VD  FEG   V +QQ +YAPL  YI   
+Sbjct  1   MDSTQVKKLLDEALQLAEIHVKGEGSHFEVIAVDASFEGMSRVKKQQFIYAPLMEYIQRN  60
+
+Query  61  EVHAVTIRAMTKDEWRK  77
+           ++HA++I+A T +EW++
+Sbjct  61  DIHALSIKAFTPEEWQR  77
+
+
+>WP_039163360.1 BolA family transcriptional regulator [Gallibacterium anatis]
+Length=84
+
+ Score = 71.6 bits (174),  Expect = 8e-015, Method: Compositional matrix adjust.
+ Identities = 31/81 (38%), Positives = 51/81 (63%), Gaps = 0/81 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M+ +++ Q+LK+A    EV V G+   +D+  V D+F     V +QQ +YAPL  ++AS 
+Sbjct  1   MDPKEIEQLLKQALDLDEVYVCGENAHYDVIAVSDKFADLSRVKQQQMIYAPLMDHLASN  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLF  81
+            +HA+TI+  T D+W++  LF
+Sbjct  61  SIHALTIKTFTVDKWKREKLF  81
+
+
+>WP_054477009.1 BolA family transcriptional regulator [Photorhabdus heterorhabditis]
+Length=84
+
+ Score = 71.6 bits (174),  Expect = 9e-015, Method: Compositional matrix adjust.
+ Identities = 31/77 (40%), Positives = 49/77 (64%), Gaps = 0/77 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M++ ++ Q+L +     EV+VSG    F + +V + F G   V +QQAVYAPL  YIA  
+Sbjct  1   MDTNEIKQVLMDKLALDEVIVSGDGSHFQVIVVGEMFAGMSRVKQQQAVYAPLMEYIADN  60
+
+Query  61  EVHAVTIRAMTKDEWRK  77
+            +HA++I+A T D+W++
+Sbjct  61  RIHALSIKAYTPDDWKR  77
+
+
+>WP_021019064.1 MULTISPECIES: BolA family transcriptional regulator [Vibrio]
+Length=84
+
+ Score = 71.2 bits (173),  Expect = 1e-014, Method: Compositional matrix adjust.
+ Identities = 33/77 (43%), Positives = 48/77 (62%), Gaps = 0/77 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M+S Q+ +IL EA    E+ V G+   F++  VD+ F+G   V +QQ +YAPL  YI   
+Sbjct  1   MDSAQVQEILDEALHLHEIHVKGEGSHFEVIAVDECFDGMSRVKKQQLIYAPLMAYIQRN  60
+
+Query  61  EVHAVTIRAMTKDEWRK  77
+           E+HAV+I+A T  EW +
+Sbjct  61  EIHAVSIKAYTPAEWER  77
+
+
+>WP_039033477.1 MULTISPECIES: BolA family transcriptional regulator [Shewanella]
+Length=85
+
+ Score = 71.2 bits (173),  Expect = 1e-014, Method: Compositional matrix adjust.
+ Identities = 31/82 (38%), Positives = 51/82 (62%), Gaps = 0/82 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN+ ++ QILK++    EV VS +   F +  V + F+G   + +QQA+YAPL   I SG
+Sbjct  1   MNTTEIEQILKDSLSLTEVYVSAEGSHFKIVAVGECFDGMSRIKQQQAIYAPLMDKITSG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFG  82
+           E+HA++I+  T  +W++  +F 
+Sbjct  61  EMHALSIKTFTPTQWQREKIFN  82
+
+
+>WP_068376362.1 BolA family transcriptional regulator [Paraglaciecola sp. S66]
+Length=85
+
+ Score = 71.2 bits (173),  Expect = 1e-014, Method: Compositional matrix adjust.
+ Identities = 34/81 (42%), Positives = 48/81 (59%), Gaps = 0/81 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M ++Q+  +LKE    +EV VSG    F +  V DQF     V +QQ VYAPL+  IA G
+Sbjct  1   MENQQIQSMLKETLGLSEVFVSGDGSHFQIIAVSDQFAEMSRVKKQQFVYAPLSALIAEG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLF  81
+            +HAV+I+  T  +W++  LF
+Sbjct  61  GMHAVSIKTFTDSQWKREKLF  81
+
+
+>WP_047255217.1 BolA family transcriptional regulator [Moellerella wisconsensis]
+Length=84
+
+ Score = 71.2 bits (173),  Expect = 1e-014, Method: Compositional matrix adjust.
+ Identities = 32/83 (39%), Positives = 51/83 (61%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M++ ++ Q+L +A    EV+V G+   F + +V   F+G   V +QQ+VYAPL  YIA  
+Sbjct  1   MDTNEIKQVLMDALGLDEVIVKGEGSHFQVIVVGAMFDGMSRVKQQQSVYAPLMEYIADN  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+            +HA+TI+A T ++W + S  G 
+Sbjct  61  RIHALTIKAYTPEQWARDSKLGG  83
+
+
+>WP_072958947.1 BolA family transcriptional regulator [Vibrio gazogenes]
+Length=84
+
+ Score = 71.2 bits (173),  Expect = 1e-014, Method: Compositional matrix adjust.
+ Identities = 33/77 (43%), Positives = 48/77 (62%), Gaps = 0/77 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M+S Q+ +IL EA    E+ V G+   F++  VD+ F+G   V +QQ +Y PL TYI   
+Sbjct  1   MDSAQVQEILDEALHLHEIHVKGEGSHFEVIAVDECFDGVSRVKKQQIIYTPLMTYIQRN  60
+
+Query  61  EVHAVTIRAMTKDEWRK  77
+           E+HAV+I+A T  EW +
+Sbjct  61  EIHAVSIKAYTPAEWER  77
+
+
+>WP_005568458.1 BolA family transcriptional regulator [Aggregatibacter actinomycetemcomitans]
+Length=85
+
+ Score = 70.9 bits (172),  Expect = 1e-014, Method: Compositional matrix adjust.
+ Identities = 32/82 (39%), Positives = 51/82 (62%), Gaps = 0/82 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M ++++ +ILKEA    EV V G+   + +  V DQFEG   V +QQ +YAPL  +I+  
+Sbjct  1   METQEIEKILKEALNLDEVYVQGEDAHYGVIAVSDQFEGLSKVKQQQMIYAPLLNHISRN  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFG  82
+           E+HA++IR  T ++W++  L  
+Sbjct  61  EIHALSIRTYTVEKWKRERLLN  82
+
+
+>WP_062263761.1 cell division protein BolA [Endozoicomonas arenosclerae]
+Length=79
+
+ Score = 70.9 bits (172),  Expect = 1e-014, Method: Compositional matrix adjust.
+ Identities = 34/77 (44%), Positives = 48/77 (62%), Gaps = 0/77 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M + ++  +L+E+ P +EV+V G+   F L I+ DQFEG   V RQQ VY  LN  IASG
+Sbjct  1   MQATEVKALLEESIPGSEVLVEGEGCDFRLTIISDQFEGALPVKRQQMVYKHLNDLIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRK  77
+            +HAVT+   T  E ++
+Sbjct  61  AIHAVTMTTQTPSEAQR  77
+
+
+>WP_011494959.1 BolA family transcriptional regulator [Shewanella denitrificans]
+Length=83
+
+ Score = 70.9 bits (172),  Expect = 1e-014, Method: Compositional matrix adjust.
+ Identities = 32/81 (40%), Positives = 49/81 (60%), Gaps = 0/81 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M+ +Q+ QIL +A    E   S     + +  V + F+G   V +QQA+Y PLN YIASG
+Sbjct  1   MDCKQIEQILIDALGLEEAHASADGSHYKVVAVGECFDGMSRVKQQQAIYGPLNEYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLF  81
+           E+HA+TI+  T  +W++  +F
+Sbjct  61  ELHALTIKTFTPTQWKREKIF  81
+
+
+>WP_004728672.1 BolA family transcriptional regulator [Vibrio furnissii]
+Length=84
+
+ Score = 70.9 bits (172),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 32/77 (42%), Positives = 49/77 (64%), Gaps = 0/77 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M+S Q+ QIL++A    E+ V G+   +++  VD  F+G   V +QQ +YAPL  YI   
+Sbjct  1   MDSAQVQQILEQALNLQEIHVKGEGSHYEVIAVDAAFDGMSRVKKQQLIYAPLMAYIQRN  60
+
+Query  61  EVHAVTIRAMTKDEWRK  77
+           ++HAV+I+A T DEW +
+Sbjct  61  DIHAVSIKAFTPDEWAR  77
+
+
+>WP_005476231.1 MULTISPECIES: BolA family transcriptional regulator [Vibrio]
+Length=84
+
+ Score = 70.9 bits (172),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 31/75 (41%), Positives = 49/75 (65%), Gaps = 0/75 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M+S ++ QIL++A    E++V G+   +++  VD  F+G   V +QQ +YAPL  YI   
+Sbjct  1   MDSAKVQQILEQALNLEEIMVKGEGSHYEVIAVDASFDGMSRVKKQQLIYAPLMEYIQRN  60
+
+Query  61  EVHAVTIRAMTKDEW  75
+           ++HAV+I+A T DEW
+Sbjct  61  DIHAVSIKAFTPDEW  75
+
+
+>WP_050694128.1 BolA family transcriptional regulator [Aggregatibacter aphrophilus]
+Length=85
+
+ Score = 70.9 bits (172),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 32/82 (39%), Positives = 52/82 (63%), Gaps = 0/82 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M ++++ +ILKEA    EV V G+   + +  V DQF G   V +QQ +YAPL ++I+S 
+Sbjct  1   METQEIERILKEALNLDEVYVQGEDAHYGVIAVSDQFAGLSKVKQQQMIYAPLLSHISSN  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFG  82
+           E+HA++IR  T ++W++  L  
+Sbjct  61  EIHALSIRTYTVEKWKRERLLN  82
+
+
+>WP_028115748.1 BolA family transcriptional regulator [Ferrimonas senticii]
+Length=82
+
+ Score = 70.9 bits (172),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 34/82 (41%), Positives = 49/82 (60%), Gaps = 0/82 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M   ++ Q L++A    E+ VS +   + + IV D F+G+  V RQQAVYAPL   I  G
+Sbjct  1   MELSEIQQRLEQAMATTEIKVSAEGTHYKIVIVSDAFDGQSKVKRQQAVYAPLMDKITDG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFG  82
+            +HA+TI+A T  EW++  LF 
+Sbjct  61  TLHALTIKAFTPAEWQREKLFN  82
+
+
+>WP_077336403.1 BolA family transcriptional regulator [Vibrio ruber]
+Length=84
+
+ Score = 70.9 bits (172),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 33/77 (43%), Positives = 48/77 (62%), Gaps = 0/77 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M+S Q+ +IL EA    E+ V G+   F++  VD+ F+G   V +QQ +YAPL  YI   
+Sbjct  1   MDSAQVQEILDEALHLHEIHVKGEGSHFEVIAVDECFDGMSRVKKQQFIYAPLMAYIQRN  60
+
+Query  61  EVHAVTIRAMTKDEWRK  77
+           E+HAV+I+A T  EW +
+Sbjct  61  EIHAVSIKAYTPAEWER  77
+
+
+>WP_086433614.1 cell division protein BolA [Idiomarina planktonica]
+Length=85
+
+ Score = 70.9 bits (172),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 33/77 (43%), Positives = 50/77 (65%), Gaps = 0/77 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M+SEQ+ ++LK+A    EV+V        + +V + FEG   V +QQ VY PLN +IASG
+Sbjct  1   MDSEQIEKLLKDALDLTEVLVKTDGSHATITVVGEAFEGLSRVKQQQLVYRPLNEHIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRK  77
+            +HAV+I+A T  +W++
+Sbjct  61  AIHAVSIKAYTPTQWQR  77
+
+
+>WP_008078753.1 BolA family transcriptional regulator [Vibrio sinaloensis]
+Length=84
+
+ Score = 70.5 bits (171),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 31/75 (41%), Positives = 49/75 (65%), Gaps = 0/75 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M+S ++ QIL++A    E++V G+   +++  VD  F+G   V +QQ +YAPL  YI   
+Sbjct  1   MDSAKVQQILEQALNLEELIVKGEGSHYEVIAVDACFDGMNRVKKQQLIYAPLMEYIQRN  60
+
+Query  61  EVHAVTIRAMTKDEW  75
+           ++HAV+I+A T DEW
+Sbjct  61  DIHAVSIKAFTPDEW  75
+
+
+>WP_067982492.1 BolA family transcriptional regulator [Neptuniibacter pectenicola]
+Length=80
+
+ Score = 70.5 bits (171),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 32/76 (42%), Positives = 47/76 (62%), Gaps = 0/76 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M +EQ+ QIL+       V  +G+   F + +V + FEG R V  QQ VYA LN YIA+G
+Sbjct  1   MQAEQVKQILESQLENCVVTTAGEGCDFQVIVVGELFEGLRPVKCQQLVYACLNEYIANG  60
+
+Query  61  EVHAVTIRAMTKDEWR  76
+            +HA+TI+  T ++W+
+Sbjct  61  TIHALTIKTYTPEQWK  76
+
+
+>WP_076539160.1 hypothetical protein [Shewanella sp. UCD-KL21]
+Length=83
+
+ Score = 70.5 bits (171),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 32/82 (39%), Positives = 49/82 (60%), Gaps = 0/82 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M+ + + QIL EA    EV V+     + +  V + F+    V +QQ +YAPLN +IASG
+Sbjct  1   MDCKVIEQILSEALTLDEVHVTSDGSHYKVVAVGEMFDAMSKVKQQQTIYAPLNEHIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFG  82
+           E+HA+TI+  T  +W++  LF 
+Sbjct  61  ELHALTIKTFTPTQWKREKLFN  82
+
+
+>WP_007022348.1 BolA family transcriptional regulator [Neptuniibacter caesariensis]
+Length=80
+
+ Score = 70.5 bits (171),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 31/75 (41%), Positives = 46/75 (61%), Gaps = 0/75 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M +EQ+ QIL+       V  +G+   F + +V + F+G R V  QQ VYA LN YIA+G
+Sbjct  1   MQAEQVKQILESKLENCTVTTAGEGCDFQVTVVGEMFQGLRPVKCQQLVYACLNEYIANG  60
+
+Query  61  EVHAVTIRAMTKDEW  75
+            +HA+TI+  T ++W
+Sbjct  61  TIHALTIKTYTPEQW  75
+
+
+>WP_008738286.1 cell division protein BolA [Alcanivorax pacificus]
+Length=84
+
+ Score = 70.5 bits (171),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 35/82 (43%), Positives = 47/82 (57%), Gaps = 0/82 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN EQ+  +L+     A+V V G   +FD+ +V + F+G   V RQQ VY  +N  IA G
+Sbjct  1   MNPEQVQALLEAGIEGAQVSVQGGGSRFDIAVVAEAFDGLSRVRRQQLVYGCINASIADG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFG  82
+            +HAVTI+  T  EW KA   G
+Sbjct  61  TIHAVTIQTYTPAEWDKAQRMG  82
+
+
+>WP_007226008.1 BolA family transcriptional regulator [marine gamma proteobacterium 
+HTCC2143]
+Length=78
+
+ Score = 70.1 bits (170),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 30/77 (39%), Positives = 48/77 (62%), Gaps = 0/77 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M  +Q+ +IL+   P+ ++ V+G+    D+ +V D FEG   V +QQ VYA LN  IA G
+Sbjct  1   MQPDQVKKILQLQLPDCDIEVAGEGSHIDVTVVGDVFEGLNAVKKQQLVYAGLNPLIADG  60
+
+Query  61  EVHAVTIRAMTKDEWRK  77
+            +HAV ++  T+ EW++
+Sbjct  61  SIHAVNMKTYTRTEWQQ  77
+
+
+>WP_011621481.1 MULTISPECIES: BolA family transcriptional regulator [Shewanella]
+Length=83
+
+ Score = 70.5 bits (171),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 32/83 (39%), Positives = 50/83 (60%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M    + QIL++A    EV  S     + +  V + F+G   V +QQA+YAPL +YIASG
+Sbjct  1   MECSLIEQILRDALALDEVHASSDGSHYKVIAVGECFDGMSRVKQQQAIYAPLMSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           E+HA+TI+  T  +W++  +F +
+Sbjct  61  ELHALTIKTFTPTQWKREKIFNS  83
+
+
+>WP_013746230.1 BolA family transcriptional regulator [Gallibacterium anatis]
+Length=84
+
+ Score = 70.1 bits (170),  Expect = 3e-014, Method: Compositional matrix adjust.
+ Identities = 31/81 (38%), Positives = 51/81 (63%), Gaps = 0/81 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M+ +++ Q+LK+A    EV V G+   +D+  V D+F     V +QQ +YAPL  ++AS 
+Sbjct  1   MDPKEIEQLLKQALDLDEVYVRGENAHYDVIAVSDKFADLSRVKQQQMIYAPLMDHLASN  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLF  81
+            +HA+TI+  T D+W++  LF
+Sbjct  61  AIHALTIKTFTVDKWKREKLF  81
+
+
+>WP_066750329.1 BolA family transcriptional regulator [Cosenzaea myxofaciens]
+Length=84
+
+ Score = 70.1 bits (170),  Expect = 3e-014, Method: Compositional matrix adjust.
+ Identities = 29/77 (38%), Positives = 50/77 (65%), Gaps = 0/77 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M++ ++ Q+L +A    EV+V+G    F + +V   FEG   V +QQ++YAPL  YI+  
+Sbjct  1   MDTNEIKQVLMDALSLDEVIVNGDGSHFQVVVVGAMFEGMSRVKQQQSIYAPLMEYISDN  60
+
+Query  61  EVHAVTIRAMTKDEWRK  77
+            +HA++I+A T +EW++
+Sbjct  61  RIHALSIKAYTPEEWKR  77
+
+
+>WP_011148158.1 MULTISPECIES: BolA family transcriptional regulator [Photorhabdus]
+Length=84
+
+ Score = 70.1 bits (170),  Expect = 3e-014, Method: Compositional matrix adjust.
+ Identities = 30/77 (39%), Positives = 49/77 (64%), Gaps = 0/77 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M++ ++ Q+L +     EV+V+G    F + +V + F G   V +QQAVYAPL  YIA  
+Sbjct  1   MDTNEIKQVLMDKLALDEVIVNGDGSHFQVIVVGEMFAGMSRVKQQQAVYAPLMEYIADN  60
+
+Query  61  EVHAVTIRAMTKDEWRK  77
+            +HA++I+A T D+W++
+Sbjct  61  RIHALSIKAYTPDDWKR  77
+
+
+>WP_035489500.1 cell division protein BolA [Gammaproteobacteria bacterium MOLA455]
+Length=79
+
+ Score = 70.1 bits (170),  Expect = 3e-014, Method: Compositional matrix adjust.
+ Identities = 29/76 (38%), Positives = 48/76 (63%), Gaps = 0/76 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN E +  +L+ A P  +  V+ + G +++  + + F+GKR V RQQ +YA LN+ I+SG
+Sbjct  1   MNPEDVKALLESAIPNCQFEVASEGGHYNITAIGEVFDGKRAVQRQQLIYAALNSEISSG  60
+
+Query  61  EVHAVTIRAMTKDEWR  76
+            +HAV ++  T  EW+
+Sbjct  61  AMHAVNMKIFTPSEWQ  76
+
+
+>WP_049216100.1 BolA family transcriptional regulator [Pasteurella multocida]
+Length=85
+
+ Score = 70.1 bits (170),  Expect = 3e-014, Method: Compositional matrix adjust.
+ Identities = 32/82 (39%), Positives = 51/82 (62%), Gaps = 0/82 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M ++++ +ILKEA    EV V G+   + +  V D+F G   V +QQ +YAPL  YI+S 
+Sbjct  1   METQEIERILKEALNLDEVYVQGENAHYGVIAVSDEFAGLSRVKQQQLIYAPLMDYISSN  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFG  82
+            +HA+TI+  T ++W++  LF 
+Sbjct  61  AIHALTIKTYTVEKWKRDRLFN  82
+
+
+>WP_009599953.1 BolA family transcriptional regulator [Vibrio caribbeanicus]
+Length=84
+
+ Score = 70.1 bits (170),  Expect = 3e-014, Method: Compositional matrix adjust.
+ Identities = 32/75 (43%), Positives = 48/75 (64%), Gaps = 0/75 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M+S ++ QIL +A    E+ V G+   +++  VD +FEG   V +QQ +YAPL  YI   
+Sbjct  1   MDSTEVQQILSQALELEELHVKGEGSHYEVIAVDVRFEGMNRVKKQQLIYAPLMEYIQRN  60
+
+Query  61  EVHAVTIRAMTKDEW  75
+           ++HAV+I+A T DEW
+Sbjct  61  DIHAVSIKAYTPDEW  75
+
+
+>WP_055451907.1 BolA family transcriptional regulator [Vibrio fluvialis]
+Length=84
+
+ Score = 70.1 bits (170),  Expect = 3e-014, Method: Compositional matrix adjust.
+ Identities = 32/75 (43%), Positives = 48/75 (64%), Gaps = 0/75 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M+S Q+ QIL++A    E+ V G+   +++  VD  FEG   V +QQ +YAPL  YI   
+Sbjct  1   MDSAQVQQILEQALNLQEIHVKGEGSHYEVIAVDAVFEGMSRVKKQQLIYAPLMEYIQRN  60
+
+Query  61  EVHAVTIRAMTKDEW  75
+           ++HAV+I+A+T  EW
+Sbjct  61  DIHAVSIKALTPSEW  75
+
+
+>WP_028386557.1 BolA family transcriptional regulator [Legionella geestiana]
+Length=81
+
+ Score = 69.7 bits (169),  Expect = 4e-014, Method: Compositional matrix adjust.
+ Identities = 34/77 (44%), Positives = 51/77 (66%), Gaps = 0/77 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           +++E+L Q L+++     V + G    + L +V D F GK  VARQQ VYA L+ YIA+G
+Sbjct  2   ISNEELEQRLRDSGDVIFVKMQGDGYHYQLVVVSDVFVGKSRVARQQWVYAKLHDYIANG  61
+
+Query  61  EVHAVTIRAMTKDEWRK  77
+            VHA+++R +T+DEW K
+Sbjct  62  SVHALSMRTLTRDEWEK  78
+
+
+>WP_034617032.1 BolA family transcriptional regulator [Chelonobacter oris]
+Length=84
+
+ Score = 69.7 bits (169),  Expect = 4e-014, Method: Compositional matrix adjust.
+ Identities = 30/82 (37%), Positives = 50/82 (61%), Gaps = 0/82 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M+++ +  IL++    AEV VSG+   F++  V D F     V +QQ +YAPL  YI++ 
+Sbjct  1   MDAQAIEAILRDQLNLAEVYVSGENAHFNVTAVSDDFAAMNKVKQQQMIYAPLMQYISTN  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFG  82
+           ++HA++I+  T ++WRK  L  
+Sbjct  61  DIHALSIKTFTVEKWRKVRLLN  82
+
+
+>WP_083264770.1 hypothetical protein [Pseudohongiella acticola]
+Length=78
+
+ Score = 69.7 bits (169),  Expect = 4e-014, Method: Compositional matrix adjust.
+ Identities = 35/78 (45%), Positives = 46/78 (59%), Gaps = 0/78 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M++  L  +L+ +FP  EV V G  GKF + +V D F G   V RQQ VY  LN +I SG
+Sbjct  1   MDAPYLEGMLQSSFPGCEVRVEGGGGKFQVAMVGDAFAGLNAVKRQQLVYQQLNAHIRSG  60
+
+Query  61  EVHAVTIRAMTKDEWRKA  78
+            VHAV++  +T DE   A
+Sbjct  61  AVHAVSMNLLTPDESATA  78
+
+
+>WP_039087686.1 BolA family transcriptional regulator [Gallibacterium anatis]
+Length=84
+
+ Score = 69.7 bits (169),  Expect = 4e-014, Method: Compositional matrix adjust.
+ Identities = 30/81 (37%), Positives = 51/81 (63%), Gaps = 0/81 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M+ +++ Q+LK+A    EV V G+   +D+  + D+F     V +QQ +YAPL  ++AS 
+Sbjct  1   MDPKEIEQLLKQALDLDEVYVRGENAHYDVIAISDKFADLSRVKQQQMIYAPLMDHLASN  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLF  81
+            +HA+TI+  T D+W++  LF
+Sbjct  61  AIHALTIKTFTVDKWKREKLF  81
+
+
+>WP_025012084.1 MULTISPECIES: BolA family transcriptional regulator [Shewanella]
+Length=85
+
+ Score = 69.7 bits (169),  Expect = 4e-014, Method: Compositional matrix adjust.
+ Identities = 30/82 (37%), Positives = 52/82 (63%), Gaps = 0/82 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M+++++ QILK++    EV VS +   F +  V + F+G   + +QQA+YAPL   I SG
+Sbjct  1   MDTKEIEQILKDSLSLTEVYVSAEGSHFKIVAVGECFDGMSRIKQQQAIYAPLMDKITSG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFG  82
+           E+HA++I+  T  +W++  +F 
+Sbjct  61  EMHALSIKTFTPTQWQREKIFN  82
+
+
+>WP_042496156.1 BolA family transcriptional regulator [Vibrio maritimus]
+Length=84
+
+ Score = 69.7 bits (169),  Expect = 4e-014, Method: Compositional matrix adjust.
+ Identities = 30/75 (40%), Positives = 49/75 (65%), Gaps = 0/75 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M+S ++ ++L+ A    E++V G+   +++  VD QFEG   V +QQ +YAPL  YI   
+Sbjct  1   MDSTKVQELLQNALNLEELIVKGEGSHYEVIAVDAQFEGMSRVKKQQTIYAPLMEYIQRN  60
+
+Query  61  EVHAVTIRAMTKDEW  75
+           ++HAV+I+A T +EW
+Sbjct  61  DIHAVSIKAYTPEEW  75
+
+
+>WP_046975293.1 BolA family transcriptional regulator [Photorhabdus temperata]
+Length=84
+
+ Score = 69.7 bits (169),  Expect = 4e-014, Method: Compositional matrix adjust.
+ Identities = 30/77 (39%), Positives = 49/77 (64%), Gaps = 0/77 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M++ ++ Q+L +     EV+V+G    F + +V + F G   V +QQAVYAPL  YIA  
+Sbjct  1   MDTNEIKQVLVDKLALDEVIVNGDGSHFQVIVVGEMFAGMSRVKQQQAVYAPLMEYIADN  60
+
+Query  61  EVHAVTIRAMTKDEWRK  77
+            +HA++I+A T D+W++
+Sbjct  61  RIHALSIKAYTPDDWKR  77
+
+
+>WP_027859335.1 BolA family transcriptional regulator [Marinobacterium jannaschii]
+Length=81
+
+ Score = 69.7 bits (169),  Expect = 5e-014, Method: Compositional matrix adjust.
+ Identities = 29/75 (39%), Positives = 47/75 (63%), Gaps = 0/75 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M +E + +I++      EV+ +G+   F + ++ D FEG R V +QQ VY  LN YIA+G
+Sbjct  1   MQAEDVKRIIESELEGCEVITAGEGCDFQVTVIGDVFEGLRPVQKQQKVYGCLNEYIANG  60
+
+Query  61  EVHAVTIRAMTKDEW  75
+            +HA+TI+  T ++W
+Sbjct  61  TIHALTIKTYTPEQW  75
+
+
+>WP_005701240.1 BolA family transcriptional regulator [Aggregatibacter aphrophilus]
+Length=85
+
+ Score = 69.7 bits (169),  Expect = 5e-014, Method: Compositional matrix adjust.
+ Identities = 32/82 (39%), Positives = 52/82 (63%), Gaps = 0/82 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M ++++ +ILKEA    EV V G+   + +  V DQF G   V +QQ +YAPL ++I+S 
+Sbjct  1   METQEIERILKEALNLDEVYVQGEDVHYGVIAVSDQFAGLSKVKQQQMIYAPLLSHISSN  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFG  82
+           E+HA++IR  T ++W++  L  
+Sbjct  61  EIHALSIRTYTVEKWKRERLLN  82
+
+
+>WP_006535338.1 MULTISPECIES: BolA family transcriptional regulator [Enterobacterales]
+Length=84
+
+ Score = 69.7 bits (169),  Expect = 5e-014, Method: Compositional matrix adjust.
+ Identities = 29/77 (38%), Positives = 49/77 (64%), Gaps = 0/77 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M++ ++ Q+L ++    EV+V+G    F + +V   FEG   V +QQ +YAPL  YIA  
+Sbjct  1   MDTNEIKQVLMDSLSLDEVIVNGDGSHFQVVVVGAMFEGMSRVKQQQTIYAPLMEYIADN  60
+
+Query  61  EVHAVTIRAMTKDEWRK  77
+            +HA++I+A T +EW++
+Sbjct  61  RIHALSIKAYTPEEWKR  77
+
+
+>WP_075172819.1 cell division protein BolA [Neptunomonas phycophila]
+Length=80
+
+ Score = 69.3 bits (168),  Expect = 5e-014, Method: Compositional matrix adjust.
+ Identities = 29/76 (38%), Positives = 49/76 (64%), Gaps = 0/76 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M +E++ QI++    +AEV+ +G+   F + ++  QF G   V +QQ VY  LN YIA+G
+Sbjct  1   MQAEEVKQIIESHLSDAEVMTAGEGCDFQVTVISPQFAGLMPVKKQQLVYQCLNEYIANG  60
+
+Query  61  EVHAVTIRAMTKDEWR  76
+            +HA+TI+  T ++W+
+Sbjct  61  TIHALTIKTYTPEQWQ  76
+
+
+>WP_060557771.1 BolA family transcriptional regulator [Proteus mirabilis]
+Length=84
+
+ Score = 69.7 bits (169),  Expect = 5e-014, Method: Compositional matrix adjust.
+ Identities = 29/77 (38%), Positives = 48/77 (62%), Gaps = 0/77 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M++ ++ Q+L +     EV+V+G    F + +V   FEG   V +QQ +YAPL  YIA  
+Sbjct  1   MDTNEIKQVLMDTLSLDEVIVNGDGSHFQVVVVGTMFEGMSRVKQQQTIYAPLMEYIADN  60
+
+Query  61  EVHAVTIRAMTKDEWRK  77
+            +HA++I+A T +EW++
+Sbjct  61  RIHALSIKAYTPEEWKR  77
+
+
+>WP_073320212.1 BolA family transcriptional regulator [Aestuariibacter aggregatus]
+Length=85
+
+ Score = 69.7 bits (169),  Expect = 5e-014, Method: Compositional matrix adjust.
+ Identities = 32/82 (39%), Positives = 50/82 (61%), Gaps = 0/82 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M+ +++  +LK++   AEV V G+   F++  V D F     V RQQ VYAPLN +IA G
+Sbjct  1   MDIKEIETLLKDSLNLAEVYVKGEGSHFNIIAVSDAFADMSRVKRQQFVYAPLNPFIADG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFG  82
+            +HAV+I+  T+ +W++   F 
+Sbjct  61  SMHAVSIKTFTEKDWQRERQFN  82
+
+
+>WP_068715188.1 BolA family transcriptional regulator [Vibrio tritonius]
+Length=84
+
+ Score = 69.3 bits (168),  Expect = 5e-014, Method: Compositional matrix adjust.
+ Identities = 31/75 (41%), Positives = 48/75 (64%), Gaps = 0/75 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M+S Q+ QIL++A    E+ V G+   +++  VD  F+G   V +QQ +YAPL  YI   
+Sbjct  1   MDSSQVKQILEQALNLQEIHVKGEGSHYEVVAVDMCFDGMSRVKKQQLIYAPLMEYIQRN  60
+
+Query  61  EVHAVTIRAMTKDEW  75
+           ++HA++I+A T DEW
+Sbjct  61  DIHALSIKAYTPDEW  75
+
+
+>WP_021616404.1 BolA family transcriptional regulator [Aggregatibacter sp. oral 
+taxon 458]
+Length=85
+
+ Score = 69.3 bits (168),  Expect = 5e-014, Method: Compositional matrix adjust.
+ Identities = 32/82 (39%), Positives = 51/82 (62%), Gaps = 0/82 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M ++++ +ILKEA    EV V G+   + +  V DQF G   V +QQ +YAPL  +I+S 
+Sbjct  1   METQEIERILKEALQLDEVYVQGENAHYGVIAVSDQFAGLSKVKQQQMIYAPLLGHISSN  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFG  82
+           E+HA++IR  T ++W++  L  
+Sbjct  61  EIHALSIRTYTVEKWKRERLLN  82
+
+
+>WP_068695912.1 MULTISPECIES: BolA family transcriptional regulator [Vibrio]
+Length=84
+
+ Score = 69.3 bits (168),  Expect = 6e-014, Method: Compositional matrix adjust.
+ Identities = 30/77 (39%), Positives = 50/77 (65%), Gaps = 0/77 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M+S Q+ ++L +A    E+ V G+   F++  VD  F+G   V +QQ +YAPL  YI + 
+Sbjct  1   MDSTQVKKLLDDALQLEEIQVKGEGSHFEVIAVDATFDGMSRVKKQQFIYAPLTEYIKTN  60
+
+Query  61  EVHAVTIRAMTKDEWRK  77
+           E+HA++I+A T +EW++
+Sbjct  61  EIHALSIKAYTPEEWQR  77
+
+
+>WP_043762631.1 BolA family transcriptional regulator [Aeromonas taiwanensis]
+Length=85
+
+ Score = 69.3 bits (168),  Expect = 6e-014, Method: Compositional matrix adjust.
+ Identities = 33/81 (41%), Positives = 49/81 (60%), Gaps = 0/81 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M   ++  IL EA P +EV V G    + +  V D F+G   V +QQA+YAPL   IA+ 
+Sbjct  1   MQVSEIEAILLEALPLSEVHVKGDGSHYQVIAVGDMFDGMSRVKKQQAIYAPLMDKIATN  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLF  81
+           E+HA++I+A T+ EW++   F
+Sbjct  61  EIHALSIKAYTEAEWKRERKF  81
+
+
+>WP_053906970.1 BolA family transcriptional regulator [Moellerella wisconsensis]
+Length=84
+
+ Score = 69.3 bits (168),  Expect = 6e-014, Method: Compositional matrix adjust.
+ Identities = 31/83 (37%), Positives = 50/83 (60%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M++ ++ Q+L +A    EV+V G+   F + +V   F+G   V +QQ+VYAPL  YIA  
+Sbjct  1   MDTNEIKQVLMDALGLDEVIVKGEGSHFQVIVVGAMFDGMSRVKQQQSVYAPLMEYIADN  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+            +HA+TI+A T ++W +    G 
+Sbjct  61  RIHALTIKAYTPEQWARDKKLGG  83
+
+
+>WP_033132280.1 MULTISPECIES: BolA family transcriptional regulator [Aeromonas]
+Length=85
+
+ Score = 69.3 bits (168),  Expect = 6e-014, Method: Compositional matrix adjust.
+ Identities = 34/81 (42%), Positives = 47/81 (58%), Gaps = 0/81 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M   ++  IL EA P +EV V G    F +  V D F+G   V +QQA+YAPL   IAS 
+Sbjct  1   MQVSEIEAILLEALPLSEVHVKGDGSHFQVIAVGDMFDGMSRVKKQQAIYAPLMDKIASN  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLF  81
+            +HA++I+A T  EW++   F
+Sbjct  61  AIHALSIKAFTDAEWKRERKF  81
+
+
+>WP_073602926.1 BolA family transcriptional regulator [Vibrio aerogenes]
+Length=84
+
+ Score = 69.3 bits (168),  Expect = 7e-014, Method: Compositional matrix adjust.
+ Identities = 30/77 (39%), Positives = 49/77 (64%), Gaps = 0/77 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M+S  + QIL EA    E+ V G+  +F++  +D+ FE    V +QQ +YAPL +YI + 
+Sbjct  1   MDSAAIEQILSEALHLHEIHVKGEGSQFEVIAIDECFENMSRVKKQQFIYAPLMSYIQNN  60
+
+Query  61  EVHAVTIRAMTKDEWRK  77
+           ++HA++I+A T  EW +
+Sbjct  61  DIHAISIKAYTPAEWER  77
+
+
+>WP_032109663.1 MULTISPECIES: BolA family transcriptional regulator [Pasteurellaceae]
+Length=85
+
+ Score = 69.3 bits (168),  Expect = 7e-014, Method: Compositional matrix adjust.
+ Identities = 30/82 (37%), Positives = 51/82 (62%), Gaps = 0/82 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M ++++ +ILK+A    EV V G+   F + +VDD+      V +QQ +YAPL  Y +SG
+Sbjct  1   METQEIERILKQALNLDEVYVQGEDAHFGVIVVDDEIACLSRVKQQQTIYAPLMDYFSSG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFG  82
+           E+HA+TI+  + ++W++  L  
+Sbjct  61  EIHALTIKTFSVEKWKRERLLN  82
+
+
+>WP_076502042.1 hypothetical protein [Shewanella morhuae]
+Length=85
+
+ Score = 68.9 bits (167),  Expect = 8e-014, Method: Compositional matrix adjust.
+ Identities = 32/81 (40%), Positives = 49/81 (60%), Gaps = 0/81 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M    + QIL++A    EV  S     + +  V + F+G   V +QQA+YAPL  +IASG
+Sbjct  1   MECSLIEQILRDALGLEEVHASSDGSHYKVIAVGECFDGMSRVKQQQAIYAPLTAHIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLF  81
+           E+HA+TI+A T  +W++  +F
+Sbjct  61  ELHALTIKAFTPTQWKREKVF  81
+
+
+>WP_037438555.1 BolA family transcriptional regulator [Shewanella mangrovi]
+Length=84
+
+ Score = 68.9 bits (167),  Expect = 8e-014, Method: Compositional matrix adjust.
+ Identities = 29/82 (35%), Positives = 54/82 (66%), Gaps = 0/82 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M+++++ Q+L++A   AEV V+ +   F +  V + F+G   + +QQA+YAPL   I SG
+Sbjct  1   MDTKEIEQLLQQALNLAEVYVTAEGTHFKIVAVGECFDGMSKIKQQQAIYAPLMDRITSG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFG  82
+           E+HA++I+  T ++W++  +F 
+Sbjct  61  ELHALSIKTFTPEQWQREKIFN  82
+
+
+>WP_004245293.1 MULTISPECIES: BolA family transcriptional regulator [Proteus]
+Length=84
+
+ Score = 68.9 bits (167),  Expect = 8e-014, Method: Compositional matrix adjust.
+ Identities = 29/77 (38%), Positives = 48/77 (62%), Gaps = 0/77 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M++ ++ Q+L +     EV+V+G    F + +V   FEG   V +QQ +YAPL  YIA  
+Sbjct  1   MDTNEIKQVLMDTLSLDEVIVNGDGSHFQVVVVGAMFEGMSRVKQQQTIYAPLMEYIADN  60
+
+Query  61  EVHAVTIRAMTKDEWRK  77
+            +HA++I+A T +EW++
+Sbjct  61  RIHALSIKAYTPEEWKR  77
+
+
+>WP_039089092.1 BolA family transcriptional regulator [Gallibacterium anatis]
+Length=84
+
+ Score = 68.9 bits (167),  Expect = 8e-014, Method: Compositional matrix adjust.
+ Identities = 30/81 (37%), Positives = 51/81 (63%), Gaps = 0/81 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M+ +++ Q+LK+A    EV V G+   +D+  V D+F     V +QQ +YAPL  ++A+ 
+Sbjct  1   MDPKEIEQLLKQALDLDEVYVRGENAHYDVIAVSDKFADLSRVKQQQMIYAPLMDHLANN  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLF  81
+            +HA+TI+  T D+W++  LF
+Sbjct  61  AIHALTIKTFTVDKWKREKLF  81
+
+
+>WP_072931729.1 BolA family transcriptional regulator [Nissabacter archeti]
+Length=84
+
+ Score = 68.9 bits (167),  Expect = 8e-014, Method: Compositional matrix adjust.
+ Identities = 30/83 (36%), Positives = 50/83 (60%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M+++++  +L +A    E  V+G    F + +V +QF G   V +QQ+VYAPL  YIA  
+Sbjct  1   MDTQEIKDVLMQALTLQEAHVTGDGSHFQVIVVGEQFAGMSRVKKQQSVYAPLMEYIADN  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+            +HA++I+A T +EW++  L   
+Sbjct  61  RIHALSIKAFTPEEWKRDRLLNG  83
+
+
+>WP_022939967.1 BolA family transcriptional regulator [Psychromonas hadalis]
+Length=82
+
+ Score = 68.9 bits (167),  Expect = 8e-014, Method: Compositional matrix adjust.
+ Identities = 34/81 (42%), Positives = 48/81 (59%), Gaps = 0/81 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M+ E + + L+ A    E +V G+ G F +  V D F G   V +QQ +YAPL   IAS 
+Sbjct  1   MDIEIIKEKLESALVLQECIVKGENGTFQVIAVADFFNGMSRVKKQQTIYAPLTEEIASN  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLF  81
+            +HA+TI+A+T DEW+K   F
+Sbjct  61  AIHALTIKALTPDEWQKQKHF  81
+
+
+>WP_054543612.1 BolA family transcriptional regulator [Aeromonas hydrophila]
+Length=85
+
+ Score = 68.9 bits (167),  Expect = 9e-014, Method: Compositional matrix adjust.
+ Identities = 33/81 (41%), Positives = 47/81 (58%), Gaps = 0/81 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M   ++  IL EA P +EV V G    + +  V D F+G   V +QQA+YAPL   IAS 
+Sbjct  1   MQVSEIEAILLEALPLSEVHVKGDGSHYQVIAVGDMFDGMSRVKKQQAIYAPLMDKIASN  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLF  81
+            +HA++I+A T  EW++   F
+Sbjct  61  AIHALSIKAFTDAEWKRECKF  81
+
+
+>WP_007641401.1 BolA family transcriptional regulator [Paraglaciecola psychrophila]
+Length=85
+
+ Score = 68.9 bits (167),  Expect = 9e-014, Method: Compositional matrix adjust.
+ Identities = 33/82 (40%), Positives = 48/82 (59%), Gaps = 0/82 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M+++Q+  +L E    AE  VSG    F +  V DQFE    V +QQ VYAPL   IA G
+Sbjct  1   MDNQQIEALLLETLSLAEAHVSGDGSHFQVIAVSDQFETMSRVKKQQFVYAPLVAKIAEG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFG  82
+            +HAV+I+  T+ +W++  +F 
+Sbjct  61  SMHAVSIKTFTESQWKREKMFN  82
+
+
+>WP_038173622.1 BolA family transcriptional regulator [Vibrio pacinii]
+Length=84
+
+ Score = 68.9 bits (167),  Expect = 9e-014, Method: Compositional matrix adjust.
+ Identities = 31/75 (41%), Positives = 48/75 (64%), Gaps = 0/75 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M++ ++ QIL +A   AE+ V G+   +++  VD  F+G   V +QQ +YAPL  YI   
+Sbjct  1   MDNAKVQQILNDALHLAELHVKGEGSHYEVVAVDACFDGMSRVKKQQLIYAPLMEYIQRN  60
+
+Query  61  EVHAVTIRAMTKDEW  75
+           ++HAV+I+A T DEW
+Sbjct  61  DIHAVSIKAYTPDEW  75
+
+
+>WP_011073688.1 BolA family transcriptional regulator [Shewanella oneidensis]
+ NP_719479.1 transcriptional regulator BolA family YrbA [Shewanella oneidensis 
+MR-1]
+Length=83
+
+ Score = 68.9 bits (167),  Expect = 9e-014, Method: Compositional matrix adjust.
+ Identities = 31/83 (37%), Positives = 49/83 (59%), Gaps = 0/83 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M    + QIL++A    EV  S     + +  V + F+G   V +QQ +YAPL +YIASG
+Sbjct  1   MECSLIEQILRDALALDEVHASSDGSHYKVIAVGECFDGMSRVKQQQTIYAPLMSYIASG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFGA  83
+           E+HA+TI+  T  +W++  +F +
+Sbjct  61  ELHALTIKTFTPTQWKREKIFNS  83
+
+
+>WP_036545204.1 BolA family transcriptional regulator [Nitrincola lacisaponensis]
+Length=79
+
+ Score = 68.6 bits (166),  Expect = 9e-014, Method: Compositional matrix adjust.
+ Identities = 27/75 (36%), Positives = 50/75 (67%), Gaps = 0/75 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M +E++ Q++++    ++V+ +G+   F++ ++ D F G   V +QQ VYA LN +IASG
+Sbjct  1   MQAEEVKQVIEKQLEGSQVITAGEGCNFEITVISDAFAGLMPVKKQQLVYACLNEHIASG  60
+
+Query  61  EVHAVTIRAMTKDEW  75
+            +HAVT++  T ++W
+Sbjct  61  AIHAVTLKTYTPEQW  75
+
+
+>WP_010675882.1 MULTISPECIES: BolA family transcriptional regulator [Aeromonas]
+Length=85
+
+ Score = 68.9 bits (167),  Expect = 1e-013, Method: Compositional matrix adjust.
+ Identities = 33/81 (41%), Positives = 48/81 (59%), Gaps = 0/81 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M   ++  IL EA P +EV V G    + +  V D F+G   V +QQA+YAPL   IA+ 
+Sbjct  1   MQVSEIEAILLEALPLSEVHVKGDGSHYQVIAVGDMFDGMSRVKKQQAIYAPLMDKIATN  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLF  81
+           E+HA++I+A T  EW++   F
+Sbjct  61  EIHALSIKAYTDAEWKRERKF  81
+
+
+>WP_053309457.1 BolA family transcriptional regulator [Vibrio alginolyticus]
+Length=84
+
+ Score = 68.9 bits (167),  Expect = 1e-013, Method: Compositional matrix adjust.
+ Identities = 31/75 (41%), Positives = 47/75 (63%), Gaps = 0/75 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M+S ++ Q+L EA    E+ V G+   +++  VD  F+G   V +QQ +YAPL  YI   
+Sbjct  1   MDSAKVQQLLDEALNLQEIHVKGEGSHYEVIAVDACFDGMSRVKKQQLIYAPLMEYIQRN  60
+
+Query  61  EVHAVTIRAMTKDEW  75
+           ++HAV+I+A T DEW
+Sbjct  61  DIHAVSIKAFTPDEW  75
+
+
+>WP_067662817.1 BolA family transcriptional regulator [Ferrimonas marina]
+Length=85
+
+ Score = 68.6 bits (166),  Expect = 1e-013, Method: Compositional matrix adjust.
+ Identities = 34/81 (42%), Positives = 50/81 (62%), Gaps = 0/81 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M   ++ Q L++A   AEV VS +   + + +V + FEG+  V RQQAVYAPL   I  G
+Sbjct  1   MELNEIEQRLQDAMALAEVHVSAEGTHYKIVVVGEGFEGQSKVKRQQAVYAPLMDKITDG  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLF  81
+            +HA+TI+A T  EW++  +F
+Sbjct  61  TLHALTIKAFTPAEWQREKIF  81
+
+
+>WP_020329541.1 MULTISPECIES: BolA family transcriptional regulator [Vibrio]
+Length=84
+
+ Score = 68.6 bits (166),  Expect = 1e-013, Method: Compositional matrix adjust.
+ Identities = 32/75 (43%), Positives = 47/75 (63%), Gaps = 0/75 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M+S Q+ QIL++A    E+ V G+   +++  VD  FEG   V +QQ +YAPL  YI   
+Sbjct  1   MDSAQVQQILEQALNLQEIHVKGEGSHYEVIAVDAVFEGMSRVKKQQLIYAPLMEYIQRN  60
+
+Query  61  EVHAVTIRAMTKDEW  75
+           ++HAV+I+A T  EW
+Sbjct  61  DIHAVSIKAFTPSEW  75
+
+
+>WP_007235749.1 toluene tolerance protein [marine gamma proteobacterium HTCC2080]
+Length=77
+
+ Score = 68.6 bits (166),  Expect = 1e-013, Method: Compositional matrix adjust.
+ Identities = 33/74 (45%), Positives = 48/74 (65%), Gaps = 0/74 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M+  ++  ++  AFPE EV V    G + + ++ + F G R+VARQQ VYAPL + IA+G
+Sbjct  1   MDVNEVRDLVLAAFPEGEVDVELAGGHYTVTVISEIFGGVRSVARQQRVYAPLASAIAAG  60
+
+Query  61  EVHAVTIRAMTKDE  74
+            +HAV IRA+T  E
+Sbjct  61  HMHAVNIRALTPAE  74
+
+
+>WP_022984948.1 cell division protein BolA [Alcanivorax sp. P2S70]
+Length=84
+
+ Score = 68.6 bits (166),  Expect = 1e-013, Method: Compositional matrix adjust.
+ Identities = 34/82 (41%), Positives = 46/82 (56%), Gaps = 0/82 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           MN E++  +++  F  A+V V G   +F +R+V D FEG   V +QQ VYA +N  I S 
+Sbjct  1   MNPEEVKALVEAGFDGADVAVEGGGDRFQIRVVSDAFEGLMPVKKQQLVYATINAQIQSN  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLFG  82
+            +HAV I   T  EW KA   G
+Sbjct  61  TIHAVQIITFTPAEWEKAQKMG  82
+
+
+>WP_042013422.1 BolA family transcriptional regulator [Aeromonas fluvialis]
+Length=85
+
+ Score = 68.6 bits (166),  Expect = 1e-013, Method: Compositional matrix adjust.
+ Identities = 33/81 (41%), Positives = 47/81 (58%), Gaps = 0/81 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M   ++  IL EA P +EV V G    + +  V D F+G   V +QQA+YAPL   IAS 
+Sbjct  1   MQVSEIESILLEALPLSEVHVKGDGSHYQVIAVGDMFDGMSRVTKQQAIYAPLMDKIASN  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLF  81
+            +HA++I+A T  EW++   F
+Sbjct  61  AIHALSIKAFTDAEWKRERKF  81
+
+
+>WP_067868889.1 BolA family transcriptional regulator [Neptuniibacter marinus]
+Length=80
+
+ Score = 68.6 bits (166),  Expect = 1e-013, Method: Compositional matrix adjust.
+ Identities = 29/76 (38%), Positives = 48/76 (63%), Gaps = 0/76 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M +EQ+ QI++    +  V  +G+   F + +V + F+G R V  QQ VYA LN YIA+G
+Sbjct  1   MQAEQVKQIIESQLEDCTVTTAGEGCDFQVTVVGELFQGLRPVKCQQLVYACLNEYIANG  60
+
+Query  61  EVHAVTIRAMTKDEWR  76
+            +HA++I+  T ++W+
+Sbjct  61  TIHALSIKTYTPEQWK  76
+
+
+>WP_036842129.1 BolA family transcriptional regulator [Photorhabdus temperata]
+Length=84
+
+ Score = 68.6 bits (166),  Expect = 1e-013, Method: Compositional matrix adjust.
+ Identities = 29/77 (38%), Positives = 48/77 (62%), Gaps = 0/77 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M++ ++  +L +     EV+V+G    F + +V + F G   V +QQAVYAPL  YIA  
+Sbjct  1   MDTNEIKHVLMDKLALDEVIVNGDGSHFQVIVVGEMFAGMSRVKQQQAVYAPLMEYIADN  60
+
+Query  61  EVHAVTIRAMTKDEWRK  77
+            +HA++I+A T D+W++
+Sbjct  61  RIHALSIKAYTPDDWKR  77
+
+
+>WP_003281217.1 MULTISPECIES: BolA family transcriptional regulator [Pseudomonas]
+Length=79
+
+ Score = 68.6 bits (166),  Expect = 1e-013, Method: Compositional matrix adjust.
+ Identities = 28/75 (37%), Positives = 47/75 (63%), Gaps = 0/75 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M ++++   L++  PEA+V V G+   F L ++ D+  G   V RQQ +YA LN +IA G
+Sbjct  1   MQAQEVKNFLEQKIPEAQVEVEGEGCNFQLNVISDELAGLSPVKRQQQIYAHLNPWIADG  60
+
+Query  61  EVHAVTIRAMTKDEW  75
+            +HAVT++  ++ +W
+Sbjct  61  SIHAVTMKFFSRADW  75
+
+
+>WP_064718882.1 BolA family transcriptional regulator [Proteus hauseri]
+Length=84
+
+ Score = 68.6 bits (166),  Expect = 1e-013, Method: Compositional matrix adjust.
+ Identities = 29/77 (38%), Positives = 48/77 (62%), Gaps = 0/77 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M++ ++ Q+L +     EV+V+G    F + +V   FEG   V +QQ +YAPL  YIA  
+Sbjct  1   MDTNEIKQVLMDNLSLDEVIVNGDGSHFQVVVVGAMFEGMSRVKQQQTIYAPLMEYIADN  60
+
+Query  61  EVHAVTIRAMTKDEWRK  77
+            +HA++I+A T +EW++
+Sbjct  61  RIHALSIKAYTPEEWKR  77
+
+
+>WP_039080768.1 BolA family transcriptional regulator [Gallibacterium anatis]
+Length=84
+
+ Score = 68.6 bits (166),  Expect = 1e-013, Method: Compositional matrix adjust.
+ Identities = 30/81 (37%), Positives = 50/81 (62%), Gaps = 0/81 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M+ +++ Q+LK+     EV V G+   +D+  V D+F     V +QQ +YAPL  ++AS 
+Sbjct  1   MDPKEIEQLLKQTLDLDEVYVRGENAHYDVIAVSDKFADLSRVKQQQMIYAPLMDHLASN  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLF  81
+            +HA+TI+  T D+W++  LF
+Sbjct  61  AIHALTIKTFTVDKWKREKLF  81
+
+
+>WP_059119822.1 BolA family transcriptional regulator [Vibrio sp. MEBiC08052]
+Length=84
+
+ Score = 68.6 bits (166),  Expect = 1e-013, Method: Compositional matrix adjust.
+ Identities = 32/77 (42%), Positives = 47/77 (61%), Gaps = 0/77 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M+S Q+ +IL EA    E+ V G+   F++  VD  F+G   V +QQ +YAPL  YI   
+Sbjct  1   MDSAQVQEILDEALHLHEIHVKGEGSHFEVIAVDQCFDGMSRVKKQQFIYAPLMAYIQRN  60
+
+Query  61  EVHAVTIRAMTKDEWRK  77
+           ++HAV+I+A T  EW +
+Sbjct  61  DIHAVSIKAYTPAEWER  77
+
+
+>WP_038208107.1 BolA family transcriptional regulator [Vibrio tubiashii]
+Length=84
+
+ Score = 68.6 bits (166),  Expect = 1e-013, Method: Compositional matrix adjust.
+ Identities = 32/75 (43%), Positives = 47/75 (63%), Gaps = 0/75 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M+S ++ QIL EA    E+ V G+   +++  VD  FEG   V +QQ +YAPL  YI   
+Sbjct  1   MDSAKVQQILNEALNLEELHVKGEGSHYEVVAVDASFEGMSRVKKQQFIYAPLMEYIQRN  60
+
+Query  61  EVHAVTIRAMTKDEW  75
+           ++HAV+I+A T +EW
+Sbjct  61  DIHAVSIKAYTPEEW  75
+
+
+>WP_037023522.1 BolA family transcriptional regulator [Pseudomonas saudiphocaensis]
+Length=79
+
+ Score = 68.6 bits (166),  Expect = 1e-013, Method: Compositional matrix adjust.
+ Identities = 28/75 (37%), Positives = 47/75 (63%), Gaps = 0/75 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M + ++ + L+E  P A+V V G+   F L ++ D+  G   V RQQ +YA LN +IA G
+Sbjct  1   MQAVEVKRFLEEKLPNAQVEVEGEGCNFQLNVISDELAGLSPVKRQQQIYAHLNPWIADG  60
+
+Query  61  EVHAVTIRAMTKDEW  75
+            +HAVT++  ++++W
+Sbjct  61  SIHAVTMKFFSRNDW  75
+
+
+>WP_073579785.1 BolA family transcriptional regulator [Vibrio quintilis]
+Length=84
+
+ Score = 68.6 bits (166),  Expect = 1e-013, Method: Compositional matrix adjust.
+ Identities = 30/77 (39%), Positives = 49/77 (64%), Gaps = 0/77 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M+S ++ QIL EA    E+ V G+  +F++  +D  FE    V +QQ +YAPL +YI + 
+Sbjct  1   MDSAEVEQILSEALQLHEIHVKGEGSQFEVIAIDACFENMNRVKKQQFIYAPLMSYIQNN  60
+
+Query  61  EVHAVTIRAMTKDEWRK  77
+           ++HA++I+A T  EW +
+Sbjct  61  DIHAISIKAYTPAEWER  77
+
+
+>WP_034864341.1 BolA family transcriptional regulator [Enterobacteriaceae bacterium 
+B14]
+Length=84
+
+ Score = 68.6 bits (166),  Expect = 1e-013, Method: Compositional matrix adjust.
+ Identities = 35/83 (42%), Positives = 49/83 (59%), Gaps = 1/83 (1%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M +++L  +L ++    E  V+G    F L +V +QF   R + R+QAVYAPL  YIA  
+Sbjct  1   MENKELEAVLMQSLDLQEAHVTGDGSHFQLIVVGEQFTDMRRLKREQAVYAPLMEYIADN  60
+
+Query  61  EVHAVTIRAMTKDEW-RKASLFG  82
+            +HAV IRA + DEW R+  L G
+Sbjct  61  RIHAVNIRAFSPDEWARERKLNG  83
+
+
+>WP_058406364.1 BolA family transcriptional regulator [Aeromonas salmonicida]
+Length=85
+
+ Score = 68.6 bits (166),  Expect = 1e-013, Method: Compositional matrix adjust.
+ Identities = 33/81 (41%), Positives = 47/81 (58%), Gaps = 0/81 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M   ++  IL EA P +EV V G    + +  V D F+G   V +QQA+YAPL   IAS 
+Sbjct  1   MQVSEIEAILLEALPLSEVHVKGDGSHYQVLAVGDMFDGMSRVKKQQAIYAPLMDKIASN  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLF  81
+            +HA++I+A T  EW++   F
+Sbjct  61  AIHALSIKAFTDAEWKRERKF  81
+
+
+>WP_026456362.1 BolA family transcriptional regulator [Aeromonas enteropelogenes]
+Length=85
+
+ Score = 68.6 bits (166),  Expect = 1e-013, Method: Compositional matrix adjust.
+ Identities = 33/81 (41%), Positives = 48/81 (59%), Gaps = 0/81 (0%)
+
+Query  1   MNSEQLTQILKEAFPEAEVVVSGQAGKFDLRIVDDQFEGKRTVARQQAVYAPLNTYIASG  60
+           M   ++  IL EA P +EV V G    + +  V D F+G   V +QQA+YAPL   IAS 
+Sbjct  1   MQVSEIEAILLEALPLSEVHVKGDGSHYQVIAVGDMFDGMSRVKKQQAIYAPLMDKIASN  60
+
+Query  61  EVHAVTIRAMTKDEWRKASLF  81
+            +HA++I+A T+ EW++   F
+Sbjct  61  AIHALSIKAFTEAEWKRERKF  81
+
+
+
+Lambda      K        H
+   0.317    0.130    0.359 
+
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+
+Effective search space used: 782498359856
+
+
+  Database: NCBI Protein Reference Sequences
+    Posted date:  May 29, 2017 12:00 AM
+  Number of letters in database: 31,412,196,622
+  Number of sequences in database:  82,027,677
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40

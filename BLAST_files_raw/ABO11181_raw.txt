@@ -1,0 +1,4309 @@
+BLASTP 2.6.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: NCBI Protein Reference Sequences
+           82,027,677 sequences; 31,412,196,622 total letters
+
+
+
+Query= embl-cds:ABO11181 hypothetical protein OS=Acinetobacter baumannii
+(strain ATCC 17978 / CIP 53.77 / LMG 1025 / NCDC KC755 / 5377)
+GN=A1S_0741 SV=1 UP=UP000006737:Chromosome
+
+Length=90
+
+RID: JVBX0FG9014
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+WP_025470182.1  Darcynin 1 [Acinetobacter baumannii]                  178     8e-057
+WP_020752831.1  hypothetical protein [Acinetobacter baumannii]        177     2e-056
+WP_002050365.1  MULTISPECIES: darcynin 2 [Acinetobacter calcoacet...  177     2e-056
+WP_086355223.1  Darcynin 1 [Acinetobacter pittii]                     177     2e-056
+WP_000091890.1  Darcynin 1 [Acinetobacter baumannii]                  177     3e-056
+WP_032018829.1  darcynin [Acinetobacter baumannii]                    177     3e-056
+WP_039254654.1  darcynin [Acinetobacter baumannii]                    177     4e-056
+WP_031958523.1  darcynin [Acinetobacter baumannii]                    177     4e-056
+WP_068565978.1  Darcynin 1 [Acinetobacter pittii]                     176     5e-056
+WP_017392350.1  darcynin [Acinetobacter calcoaceticus]                176     5e-056
+WP_005042894.1  darcynin 2 [Acinetobacter calcoaceticus]              176     6e-056
+WP_068556987.1  Darcynin 1 [Acinetobacter pittii]                     176     6e-056
+WP_016803340.1  MULTISPECIES: darcynin [Acinetobacter]                176     6e-056
+WP_086263029.1  Darcynin 1 [Acinetobacter baumannii]                  176     8e-056
+WP_000091887.1  darcynin [Acinetobacter baumannii]                    176     8e-056
+WP_045126356.1  darcynin [Acinetobacter calcoaceticus]                176     9e-056
+WP_024438893.1  darcynin [Acinetobacter baumannii]                    176     9e-056
+WP_032042145.1  MULTISPECIES: darcynin [Acinetobacter calcoacetic...  176     1e-055
+WP_005048804.1  darcynin 2 [Acinetobacter calcoaceticus]              176     1e-055
+WP_077166325.1  Darcynin 1 [Acinetobacter genomosp. 33YU]             175     1e-055
+WP_033846715.1  MULTISPECIES: darcynin [Acinetobacter calcoacetic...  175     1e-055
+WP_080026374.1  Darcynin 1 [Acinetobacter calcoaceticus]              175     2e-055
+WP_032048066.1  MULTISPECIES: darcynin [Acinetobacter calcoacetic...  175     2e-055
+WP_017393235.1  MULTISPECIES: darcynin [Acinetobacter calcoacetic...  175     2e-055
+WP_020992184.1  darcynin 2 [Acinetobacter nosocomialis]               175     2e-055
+WP_023897267.1  hypothetical protein [Acinetobacter baumannii]        175     2e-055
+WP_016142099.1  darcynin 2 [Acinetobacter pittii]                     175     2e-055
+WP_069120107.1  Darcynin 1 [Acinetobacter pittii]                     175     2e-055
+WP_005071141.1  darcynin 2 [Acinetobacter pittii]                     175     2e-055
+WP_005302950.1  darcynin 1 [Acinetobacter sp. NIPH 542]               175     2e-055
+WP_077169968.1  Darcynin 1 [Acinetobacter genomosp. 33YU]             174     3e-055
+WP_078220239.1  Darcynin 1 [Acinetobacter pittii]                     174     3e-055
+WP_032050012.1  darcynin [Acinetobacter baumannii]                    174     3e-055
+WP_004710419.1  darcynin 2 [Acinetobacter nosocomialis]               174     3e-055
+WP_002059151.1  darcynin 2 [Acinetobacter baumannii]                  174     3e-055
+WP_045437629.1  darcynin [Acinetobacter calcoaceticus]                174     3e-055
+WP_079548125.1  Darcynin 1 [Acinetobacter calcoaceticus]              174     4e-055
+WP_000091889.1  darcynin [Acinetobacter baumannii]                    174     4e-055
+WP_000091898.1  darcynin [Acinetobacter baumannii]                    174     5e-055
+WP_005124636.1  darcynin 2 [Acinetobacter baumannii]                  174     5e-055
+WP_068976545.1  Darcynin 1 [Acinetobacter pittii]                     174     5e-055
+WP_039756101.1  darcynin [Acinetobacter pittii]                       174     5e-055
+WP_038347172.1  darcynin [Acinetobacter baumannii]                    174     5e-055
+WP_031976974.1  darcynin [Acinetobacter baumannii]                    174     5e-055
+WP_001162235.1  darcynin [Acinetobacter baumannii]                    173     6e-055
+WP_032009296.1  darcynin [Acinetobacter baumannii]                    174     6e-055
+WP_017387649.1  darcynin [Acinetobacter calcoaceticus]                174     7e-055
+WP_044103418.1  darcynin [Acinetobacter pittii]                       174     7e-055
+WP_079746401.1  Darcynin 1 [Acinetobacter baumannii]                  173     7e-055
+WP_057067969.1  Darcynin 1 [Acinetobacter pittii]                     173     7e-055
+WP_001138355.1  darcynin [Acinetobacter baumannii]                    173     8e-055
+WP_042075543.1  darcynin [Acinetobacter nosocomialis]                 173     8e-055
+WP_016139150.1  darcynin 2 [Acinetobacter calcoaceticus]              173     8e-055
+WP_005075182.1  MULTISPECIES: darcynin 2 [Acinetobacter calcoacet...  173     1e-054
+WP_077163837.1  Darcynin 1 [Acinetobacter genomosp. 33YU]             173     1e-054
+WP_086324124.1  Darcynin 1 [Acinetobacter pittii]                     173     1e-054
+WP_032039660.1  darcynin [Acinetobacter baumannii]                    173     1e-054
+WP_086377855.1  Darcynin 1 [Acinetobacter baumannii]                  173     1e-054
+WP_068526741.1  Darcynin 1 [Acinetobacter pittii]                     173     1e-054
+WP_002067883.1  darcynin 2 [Acinetobacter baumannii]                  172     2e-054
+WP_060466164.1  Darcynin 1 [Acinetobacter sp. LMB-5]                  172     2e-054
+WP_000091893.1  darcynin [Acinetobacter baumannii]                    172     2e-054
+WP_032036421.1  darcynin [Acinetobacter baumannii]                    172     2e-054
+WP_069031241.1  Darcynin 1 [Acinetobacter pittii]                     172     2e-054
+WP_064480089.1  Darcynin 1 [Acinetobacter baumannii]                  172     2e-054
+WP_032036823.1  darcynin [Acinetobacter sp. 742879]                   172     2e-054
+WP_029776881.1  darcynin [Acinetobacter sp. WC-136]                   172     2e-054
+WP_004641414.1  darcynin 2 [Acinetobacter calcoaceticus]              172     2e-054
+WP_031994345.1  darcynin [Acinetobacter baumannii]                    172     2e-054
+WP_004703571.1  darcynin 2 [Acinetobacter seifertii]                  172     2e-054
+WP_071543110.1  Darcynin 1 [Acinetobacter baumannii]                  172     2e-054
+WP_063098180.1  Darcynin 1 [Acinetobacter pittii]                     172     2e-054
+WP_065725492.1  Darcynin 1 [Acinetobacter baumannii]                  172     2e-054
+WP_075431234.1  Darcynin 1 [Acinetobacter calcoaceticus]              172     3e-054
+WP_002133772.1  darcynin 2 [Acinetobacter baumannii]                  172     3e-054
+WP_005075181.1  darcynin 2 [Acinetobacter pittii]                     171     3e-054
+WP_032004306.1  MULTISPECIES: darcynin [Acinetobacter calcoacetic...  172     3e-054
+WP_005129548.1  darcynin 2 [Acinetobacter baumannii]                  172     3e-054
+WP_083009125.1  Darcynin 1 [Acinetobacter nosocomialis]               172     4e-054
+WP_032047152.1  darcynin [Acinetobacter baumannii]                    172     4e-054
+WP_049067469.1  Darcynin 1 [Acinetobacter baumannii]                  172     4e-054
+WP_071243914.1  Darcynin 1 [Acinetobacter baumannii]                  172     4e-054
+WP_045900393.1  darcynin [Acinetobacter baumannii]                    172     4e-054
+WP_049066050.1  Darcynin 1 [Acinetobacter seifertii]                  171     4e-054
+WP_000091895.1  darcynin [Acinetobacter baumannii]                    171     4e-054
+WP_029423903.1  darcynin [Acinetobacter baumannii]                    172     4e-054
+WP_078220241.1  Darcynin 1 [Acinetobacter pittii]                     171     5e-054
+WP_003655964.1  darcynin [Acinetobacter calcoaceticus]                171     6e-054
+WP_068613091.1  Darcynin 1 [Acinetobacter pittii]                     171     6e-054
+WP_031982509.1  darcynin [Acinetobacter sp. 1130196]                  171     6e-054
+WP_025465909.1  darcynin [Acinetobacter baumannii]                    171     6e-054
+WP_032026680.1  darcynin [Acinetobacter baumannii]                    171     6e-054
+WP_032053174.1  MULTISPECIES: darcynin [Acinetobacter calcoacetic...  171     6e-054
+WP_019456512.1  darcynin [Acinetobacter sp. GG2]                      171     6e-054
+WP_000091894.1  darcynin [Acinetobacter baumannii]                    171     7e-054
+WP_000091897.1  darcynin [Acinetobacter baumannii]                    171     7e-054
+WP_031988659.1  darcynin [Acinetobacter baumannii]                    171     8e-054
+WP_047479881.1  Darcynin 1 [Acinetobacter baumannii]                  171     8e-054
+WP_013198859.1  hypothetical protein [Acinetobacter oleivorans]       171     8e-054
+WP_000091892.1  darcynin [Acinetobacter baumannii]                    171     8e-054
+WP_000091896.1  darcynin [Acinetobacter baumannii]                    171     8e-054
+WP_033848202.1  darcynin [Acinetobacter sp. 826659]                   171     9e-054
+WP_057692307.1  Darcynin 1 [Acinetobacter baumannii]                  171     9e-054
+WP_032056932.1  MULTISPECIES: darcynin [Acinetobacter calcoacetic...  171     9e-054
+WP_031945764.1  MULTISPECIES: darcynin [Acinetobacter calcoacetic...  170     9e-054
+WP_071225373.1  Darcynin 1 [Acinetobacter baumannii]                  171     1e-053
+WP_072689686.1  Darcynin 1 [Acinetobacter baumannii]                  171     1e-053
+WP_068558335.1  MULTISPECIES: Darcynin 1 [Acinetobacter calcoacet...  170     1e-053
+WP_081035443.1  Darcynin 1 [Acinetobacter pittii]                     170     1e-053
+WP_039211764.1  darcynin [Acinetobacter baumannii]                    171     1e-053
+WP_032059961.1  darcynin [Acinetobacter baumannii]                    170     2e-053
+WP_017387521.1  MULTISPECIES: darcynin [Acinetobacter]                170     2e-053
+WP_017897433.1  darcynin [Acinetobacter baumannii]                    170     2e-053
+WP_000091891.1  darcynin [Acinetobacter baumannii]                    169     2e-053
+WP_019767942.1  MULTISPECIES: darcynin [Acinetobacter calcoacetic...  169     3e-053
+WP_086231193.1  Darcynin 1 [Acinetobacter pittii]                     169     3e-053
+WP_021511515.1  darcynin [Acinetobacter baumannii]                    169     3e-053
+WP_000091888.1  darcynin [Acinetobacter baumannii]                    169     4e-053
+WP_086353512.1  Darcynin 1 [Acinetobacter pittii]                     169     6e-053
+WP_033852474.1  darcynin [Acinetobacter baumannii]                    169     7e-053
+WP_031966956.1  darcynin [Acinetobacter baumannii]                    168     1e-052
+WP_004794386.1  darcynin 2 [Acinetobacter sp. NIPH 817]               168     1e-052
+WP_052775487.1  Darcynin 1 [Acinetobacter baumannii]                  167     1e-052
+WP_065718949.1  Darcynin 1 [Acinetobacter baumannii]                  167     2e-052
+WP_032033602.1  darcynin [Acinetobacter sp. 723929]                   167     2e-052
+WP_086399070.1  Darcynin 1 [Acinetobacter pittii]                     167     3e-052
+WP_032002240.1  MULTISPECIES: darcynin [Acinetobacter calcoacetic...  166     4e-052
+WP_046813244.1  darcynin [Acinetobacter pittii]                       166     4e-052
+WP_068791331.1  Darcynin 1, partial [Acinetobacter sp. 1475718]       166     5e-052
+WP_079377726.1  Darcynin 1 [Acinetobacter baumannii]                  166     5e-052
+WP_005803282.1  MULTISPECIES: darcynin 2 [Acinetobacter calcoacet...  166     6e-052
+WP_081313733.1  Darcynin 1 [Acinetobacter pittii]                     166     7e-052
+WP_032024609.1  darcynin [Acinetobacter baumannii]                    165     2e-051
+WP_026055564.1  Darcynin 1 [Acinetobacter calcoaceticus]              165     2e-051
+WP_068930796.1  Darcynin 1 [Acinetobacter pittii]                     164     2e-051
+WP_081405347.1  Darcynin 1, partial [Acinetobacter sp. 1475718]       164     4e-051
+WP_031968998.1  darcynin [Acinetobacter sp. 225588]                   163     1e-050
+WP_069031757.1  Darcynin 1 [Acinetobacter pittii]                     145     6e-044
+WP_079283091.1  Darcynin 1 [Acinetobacter baumannii]                  132     5e-039
+WP_069322292.1  Darcynin 1 [Acinetobacter baumannii]                  130     2e-038
+WP_071243315.1  Darcynin 1 [Acinetobacter baumannii]                  130     6e-038
+WP_045792474.1  darcynin [Acinetobacter brisouii]                     126     5e-036
+WP_004820336.1  hypothetical protein [Acinetobacter guillouiae]       125     1e-035
+WP_019101728.1  MULTISPECIES: hypothetical protein [Chromobacterium]  117     2e-032
+WP_043634998.1  darcynin [Chromobacterium haemolyticum]               117     2e-032
+WP_048413081.1  hypothetical protein [Chromobacterium sp. LK11]       116     5e-032
+WP_043571824.1  MULTISPECIES: hypothetical protein [Chromobacterium]  115     1e-031
+WP_047249200.1  hypothetical protein [Chromobacterium subtsugae]      115     1e-031
+WP_047243089.1  hypothetical protein [Chromobacterium subtsugae]      114     4e-031
+WP_048410075.1  hypothetical protein [Chromobacterium sp. LK1]        114     5e-031
+WP_081548903.1  hypothetical protein [Chromobacterium haemolyticum]   113     7e-031
+WP_071115713.1  Darcynin [Chromobacterium sp. 37-2]                   110     8e-030
+WP_043623883.1  MULTISPECIES: hypothetical protein [Chromobacterium]  109     2e-029
+WP_070980562.1  Darcynin [Chromobacterium vaccinii]                   108     4e-029
+WP_046168304.1  darcynin [Chromobacterium vaccinii]                   108     8e-029
+WP_046157895.1  darcynin [Chromobacterium vaccinii]                   107     9e-029
+WP_021475045.1  hypothetical protein [Pseudogulbenkiania ferrooxi...  107     1e-028
+WP_011978322.1  hypothetical protein [Marinomonas sp. MWYL1]          107     2e-028
+WP_067012479.1  Darcynin 1 [Marinomonas spartinae]                    107     2e-028
+WP_068558400.1  Darcynin 1 [Acinetobacter pittii]                     102     3e-027
+WP_081572891.1  Darcynin [Chromobacterium violaceum]                  100     5e-026
+WP_076225572.1  Darcynin [Chromobacterium pseudoviolaceum]            100     6e-026
+WP_043596910.1  darcynin [Chromobacterium violaceum]                  100     8e-026
+WP_081526100.1  Darcynin [Chromobacterium violaceum]                  100     1e-025
+WP_004737274.1  hypothetical protein [Vibrio splendidus]              91.7    2e-022
+WP_044440746.1  MULTISPECIES: hypothetical protein [Agreia]           85.1    1e-019
+WP_029697763.1  hypothetical protein [Franconibacter pulveris]        81.3    3e-018
+WP_045934451.1  hypothetical protein [Streptomyces sp. NRRL B-1568]   81.3    3e-018
+WP_024553890.1  hypothetical protein [Franconibacter helveticus]      80.1    8e-018
+WP_035281420.1  hypothetical protein [Actinokineospora spheciospo...  80.1    9e-018
+WP_024560486.1  MULTISPECIES: hypothetical protein [Franconibacter]   79.7    1e-017
+WP_083102957.1  hypothetical protein [Streptomyces gilvosporeus]      79.7    1e-017
+WP_034738290.1  hypothetical protein [Hyphomonas chukchiensis]        79.3    2e-017
+WP_037788554.1  hypothetical protein [Streptomyces natalensis]        79.3    2e-017
+WP_071380055.1  hypothetical protein [Streptomyces sp. MUSC 1]        79.3    2e-017
+WP_035538686.1  hypothetical protein [Hyphomonas oceanitis]           79.0    2e-017
+WP_078507917.1  hypothetical protein [Streptomyces sp. MspMP-M5]      79.3    2e-017
+WP_067355170.1  hypothetical protein [Streptomyces noursei]           79.0    2e-017
+WP_057613756.1  hypothetical protein [Streptomyces sp. Root369]       79.0    3e-017
+WP_039639622.1  hypothetical protein [Streptomyces sp. 769]           78.6    4e-017
+WP_051798659.1  hypothetical protein [Streptomyces sp. NRRL S-337]    78.2    5e-017
+WP_073446078.1  hypothetical protein [Streptomyces yunnanensis]       78.2    7e-017
+WP_078871953.1  hypothetical protein [Streptomyces sp. NRRL S-337]    78.2    7e-017
+WP_047607899.1  hypothetical protein [Rahnella aquatilis]             77.4    9e-017
+WP_045448065.1  hypothetical protein [Tepidicaulis marinus]           77.4    1e-016
+WP_037807047.1  hypothetical protein [Streptomyces sp. NRRL S-1448]   77.4    1e-016
+WP_015697003.1  hypothetical protein [Rahnella aquatilis]             76.6    2e-016
+WP_007855637.1  hypothetical protein [Acidovorax sp. CF316]           77.0    2e-016
+WP_085483845.1  hypothetical protein [Agreia pratensis]               76.6    2e-016
+WP_056060620.1  hypothetical protein [Acidovorax sp. Root402]         76.6    2e-016
+WP_053923674.1  hypothetical protein [Streptomyces chattanoogensis]   76.6    3e-016
+WP_037381145.1  hypothetical protein [Serratia sp. ATCC 39006]        76.3    3e-016
+WP_050298020.1  darcynin [Yersinia intermedia]                        75.1    3e-016
+WP_030711121.1  hypothetical protein [Streptomyces sp. NRRL F-2580]   76.3    3e-016
+WP_056747353.1  hypothetical protein [Acidovorax sp. Root568]         76.3    3e-016
+WP_079151287.1  hypothetical protein [Streptomyces sparsogenes]       76.3    4e-016
+WP_051442922.1  hypothetical protein [Curvibacter gracilis]           75.9    6e-016
+WP_078587862.1  hypothetical protein [Streptomyces mobaraensis]       75.9    6e-016
+WP_075974582.1  hypothetical protein [Actinokineospora bangkokensis]  75.5    6e-016
+WP_012824516.1  hypothetical protein [Halothiobacillus neapolitanus]  75.1    7e-016
+WP_020594663.1  hypothetical protein [Spirosoma panaciterrae]         75.1    8e-016
+WP_038017118.1  hypothetical protein [Tatumella morbirosei]           74.7    9e-016
+WP_012824523.1  hypothetical protein [Halothiobacillus neapolitanus]  75.1    9e-016
+WP_049717983.1  hypothetical protein [Streptomyces caatingaensis]     74.3    2e-015
+WP_079177157.1  hypothetical protein [Streptomyces sp. MUSC 14]       76.3    2e-015
+WP_054222385.1  hypothetical protein [Actinobacteria bacterium OV...  73.9    3e-015
+WP_065414454.1  darcynin [Acidithiobacillus ferrivorans]              73.9    3e-015
+WP_083347475.1  hypothetical protein [Rhizobium sp. LCM 4573]         73.2    5e-015
+WP_009567651.1  MULTISPECIES: darcynin [Bacteria]                     72.8    8e-015
+WP_045696355.1  hypothetical protein [Streptomyces rubellomurinus]    72.0    1e-014
+WP_052314519.1  hypothetical protein [Nocardia thailandica]           72.0    2e-014
+WP_035191974.1  darcynin [Acidithiobacillus ferrivorans]              72.0    2e-014
+WP_051841576.1  hypothetical protein [Streptomyces lavendulae]        71.6    2e-014
+WP_047483602.1  hypothetical protein [Methylibium sp. CF059]          71.2    3e-014
+WP_081576792.1  darcynin [Acidithiobacillus thiooxidans]              71.2    3e-014
+WP_028955259.1  hypothetical protein [Sulfitobacter sp. 20_GPM-15...  70.5    5e-014
+WP_008216669.1  hypothetical protein [Vibrionales bacterium SWAT-3]   68.9    8e-014
+WP_050348708.1  hypothetical protein [Arsenicicoccus sp. oral tax...  69.7    1e-013
+WP_058045507.1  hypothetical protein [Streptomyces sp. MBT76]         70.1    1e-013
+WP_066177739.1  hypothetical protein [Hoeflea olei]                   69.7    1e-013
+WP_045495486.1  hypothetical protein [Chryseobacterium sp. StRB126]   69.7    1e-013
+WP_080054563.1  hypothetical protein [Spirosoma aerolatum]            69.3    2e-013
+WP_076093445.1  hypothetical protein [Streptomyces sp. IMTB 2501]     68.9    2e-013
+WP_071877528.1  Darcynin 2 [Enterococcus silesiacus]                  68.9    2e-013
+WP_083899392.1  hypothetical protein [Nocardia abscessus]             68.6    3e-013
+WP_044587419.1  darcynin [Bradyrhizobium sp. LTSPM299]                68.6    3e-013
+WP_044538432.1  darcynin [Bradyrhizobium sp. LTSP885]                 68.6    3e-013
+WP_028338896.1  darcynin [Bradyrhizobium elkanii]                     68.6    5e-013
+WP_029078185.1  darcynin [Bradyrhizobium sp. th.b2]                   68.2    5e-013
+WP_016846500.1  MULTISPECIES: hypothetical protein [Bradyrhizobium]   68.2    5e-013
+WP_037923335.1  hypothetical protein [Sulfitobacter pseudonitzsch...  67.8    6e-013
+WP_028334353.1  darcynin [Bradyrhizobium elkanii]                     67.8    8e-013
+WP_076862613.1  darcynin [Bradyrhizobium sp. SEMIA 6399]              67.0    1e-012
+WP_066089288.1  hypothetical protein [Hydrogenophaga sp. LPB0072]     66.2    3e-012
+WP_051002910.1  darcynin [Bradyrhizobium elkanii]                     66.2    3e-012
+WP_086331894.1  Darcynin 2 [Enterococcus sp. 4G2_DIV0659]             65.9    4e-012
+WP_084236247.1  hypothetical protein [Hydrogenophaga taeniospiralis]  65.9    5e-012
+WP_067855328.1  darcynin [Mycobacterium wolinskyi]                    65.1    7e-012
+WP_048504130.1  hypothetical protein [Chryseobacterium sp. BLS98]     65.9    7e-012
+WP_065266076.1  hypothetical protein [Leisingera sp. JC1]             64.7    9e-012
+WP_050058092.1  darcynin [Silvibacterium bohemicum]                   64.7    1e-011
+WP_019297725.1  MULTISPECIES: hypothetical protein [Leisingera]       64.3    1e-011
+WP_014263473.1  hypothetical protein [Granulicella mallensis]         64.7    2e-011
+WP_010665723.1  hypothetical protein [Acetobacter aceti]              64.3    2e-011
+WP_039147288.1  MULTISPECIES: hypothetical protein [Leisingera]       63.5    2e-011
+WP_023273418.1  hypothetical protein [Acinetobacter nectaris]         63.5    3e-011
+WP_019990148.1  hypothetical protein [Rudanella lutea]                63.9    3e-011
+WP_078019192.1  darcynin [Mycobacterium litorale]                     63.5    3e-011
+WP_064959832.1  darcynin [Mycobacterium peregrinum]                   62.8    5e-011
+WP_004621530.1  hypothetical protein [Caulobacter vibrioides]         63.2    5e-011
+WP_064884186.1  darcynin [Mycobacterium peregrinum]                   62.8    5e-011
+WP_015159710.1  hypothetical protein [Chamaesiphon minutus]           62.8    6e-011
+WP_084196379.1  hypothetical protein [Chryseobacterium gambrini]      63.2    9e-011
+WP_035376847.1  hypothetical protein [Acetobacter nitrogenifigens]    62.4    9e-011
+WP_045857677.1  hypothetical protein [Alteromonadaceae bacterium ...  62.0    9e-011
+WP_044208187.1  hypothetical protein [Pectobacterium carotovorum]     62.0    1e-010
+WP_066897819.1  darcynin [Mycobacterium houstonense]                  61.2    2e-010
+WP_050412039.1  hypothetical protein [Massilia sp. NR 4-1]            61.6    2e-010
+WP_007675380.1  darcynin [Caulobacter sp. AP07]                       61.6    2e-010
+WP_071502368.1  hypothetical protein [Arsenicibacter rosenii]         61.2    2e-010
+WP_039494403.1  hypothetical protein [Pectobacterium carotovorum]     60.8    3e-010
+WP_084730222.1  hypothetical protein [Wenyingzhuangia marina]         61.6    3e-010
+WP_077741180.1  darcynin [Mycobacterium boenickei]                    60.8    3e-010
+WP_055146877.1  hypothetical protein [Leadbetterella sp. JN14-9]      61.2    3e-010
+WP_083569677.1  hypothetical protein [Muricauda antarctica]           61.2    4e-010
+WP_036400090.1  darcynin [Mycobacterium cosmeticum]                   60.8    4e-010
+WP_036482293.1  MULTISPECIES: darcynin [Mycobacterium]                60.8    4e-010
+WP_071275493.1  Darcynin 2 [Bacillus aryabhattai]                     60.5    5e-010
+WP_023000571.1  hypothetical protein [Labrenzia sp. C1B10]            60.5    6e-010
+WP_039321729.1  darcynin [Mycobacterium setense]                      60.1    6e-010
+WP_023014548.1  hypothetical protein [Labrenzia sp. C1B70]            60.1    7e-010
+WP_069757899.1  hypothetical protein [Streptomyces sp. LUP47b]        59.7    7e-010
+WP_083345722.1  darcynin [Terriglobus roseus]                         60.1    8e-010
+WP_082444477.1  hypothetical protein [Labrenzia aggregata]            60.1    8e-010
+WP_044523555.1  darcynin [Mycobacterium septicum]                     59.7    9e-010
+WP_062488192.1  hypothetical protein [Labrenzia sp. CP4]              60.1    9e-010
+WP_072329069.1  Darcynin 2 [Paenibacillus sp. UNCCL117]               59.3    1e-009
+WP_057469498.1  hypothetical protein [Rhizobium sp. Root1203]         59.3    2e-009
+WP_047751184.1  Darcynin 2 [Bacillus aryabhattai]                     58.9    2e-009
+WP_052030129.1  hypothetical protein [Streptomyces sp. PCS3-D2]       58.9    2e-009
+WP_047594043.1  hypothetical protein [Methylibium sp. YR605]          58.9    2e-009
+WP_062659169.1  darcynin [Mycobacterium canariasense]                 58.9    3e-009
+WP_060531443.1  Darcynin 2 [Paenibacillus bovis]                      58.5    3e-009
+WP_015029005.1  MULTISPECIES: hypothetical protein [Emticicia]        58.9    4e-009
+WP_085278558.1  Darcynin 2 [Paenibacillus barengoltzii]               57.8    6e-009
+WP_071672510.1  hypothetical protein [Nioella nitratireducens]        57.4    6e-009
+WP_056806638.1  MULTISPECIES: hypothetical protein [Rhizobacter]      57.4    7e-009
+WP_040439430.1  hypothetical protein [Labrenzia aggregata]            57.4    8e-009
+WP_056730486.1  darcynin [Phenylobacterium sp. Root700]               57.4    8e-009
+WP_052200528.1  darcynin [Terriglobus sp. TAA 43]                     57.4    9e-009
+WP_010446312.1  darcynin [Pseudomonas fuscovaginae]                   57.4    1e-008
+WP_026286721.1  MULTISPECIES: darcynin [Pseudomonas]                  57.0    1e-008
+WP_028537607.1  MULTISPECIES: darcynin [Paenibacillus]                57.0    1e-008
+WP_064618571.1  darcynin [Pseudomonas sp. GR 6-02]                    57.0    1e-008
+WP_002172290.1  hypothetical protein [Bacillus cereus]                56.6    1e-008
+WP_048370994.1  hypothetical protein [Bacillus sp. LK2]               56.2    2e-008
+WP_050734438.1  darcynin [Methylobacterium sp. ARG-1]                 56.6    2e-008
+WP_030603510.1  hypothetical protein [Streptomyces fulvoviolaceus]    56.2    2e-008
+WP_067584335.1  darcynin [Amycolatopsis sp. M39]                      55.8    4e-008
+WP_073466408.1  hypothetical protein [Rhizobacter sp. OV335]          55.5    4e-008
+WP_047506097.1  hypothetical protein [Methylibium sp. CF468]          55.1    5e-008
+WP_052114667.1  MULTISPECIES: hypothetical protein [Elizabethkingia]  55.8    5e-008
+WP_038186198.1  hypothetical protein [Xenorhabdus bovienii]           55.1    5e-008
+WP_078677963.1  hypothetical protein [Elizabethkingia genomosp. 3]    55.8    5e-008
+WP_015619387.1  hypothetical protein [Actinoplanes sp. N902-109]      55.5    5e-008
+WP_076375486.1  hypothetical protein [Mucilaginibacter lappiensis]    55.1    7e-008
+WP_063057087.1  darcynin [Nocardia soli]                              55.1    8e-008
+WP_063005696.1  darcynin [Nocardia cummidelens]                       55.1    8e-008
+WP_020548165.1  darcynin [Streptomyces scabrisporus]                  55.1    8e-008
+WP_038197619.1  hypothetical protein [Xenorhabdus bovienii]           54.7    9e-008
+WP_069327566.1  Darcynin 2 [Paenibacillus sp. TI45-13ar]              54.7    9e-008
+WP_068619785.1  Darcynin 2 [Paenibacillus sp. Marseille-P2472]        54.7    1e-007
+WP_078981502.1  darcynin [Streptomyces scabrisporus]                  54.7    1e-007
+WP_034335450.1  hypothetical protein [Deinococcus misasensis]         54.3    1e-007
+WP_060944432.1  darcynin [Streptomyces hygroscopicus]                 54.3    1e-007
+WP_073778215.1  darcynin [Streptomyces sp. MJM1172]                   54.3    1e-007
+WP_048018706.1  Darcynin 2 [Bacillus aryabhattai]                     54.3    1e-007
+WP_004436917.1  hypothetical protein [Bacillus methanolicus]          54.3    1e-007
+WP_040740059.1  darcynin [Nocardia tenerifensis]                      54.3    1e-007
+WP_029899310.1  darcynin [Nocardia brasiliensis]                      54.3    1e-007
+WP_038250355.1  hypothetical protein [Xenorhabdus bovienii]           53.9    2e-007
+WP_044646952.1  darcynin [Paenibacillus terrae]                       53.9    2e-007
+WP_007559653.1  darcynin [Methylobacterium sp. GXF4]                  53.9    2e-007
+WP_062990534.1  darcynin [Nocardia salmonicida]                       53.9    2e-007
+WP_067074773.1  darcynin [Streptomyces endus]                         53.9    2e-007
+WP_066028724.1  darcynin [Streptomyces sporocinereus]                 53.5    2e-007
+WP_046335892.1  hypothetical protein [Xenorhabdus bovienii]           53.5    2e-007
+WP_030837555.1  darcynin [Streptomyces hygroscopicus]                 53.5    3e-007
+WP_025705710.1  darcynin [Paenibacillus graminis]                     53.5    3e-007
+WP_037813302.1  darcynin [Streptomyces sp. NRRL F-3213]               53.5    3e-007
+WP_067503447.1  darcynin [Actinoplanes sp. TFC3]                      53.5    3e-007
+WP_078510286.1  darcynin [Streptomyces himastatinicus]                52.8    3e-007
+WP_043837484.1  darcynin [Amycolatopsis orientalis]                   53.1    3e-007
+WP_029118594.1  darcynin [Mycobacterium sp. UNC410CL29Cvi84]          53.1    3e-007
+WP_073795508.1  darcynin [Streptomyces sp. CB03578]                   53.1    4e-007
+WP_070388434.1  darcynin [Streptomyces pactum]                        53.1    4e-007
+WP_015793682.1  darcynin [Catenulispora acidiphila]                   53.1    4e-007
+WP_056823939.1  darcynin [Nocardia sp. Root136]                       53.1    4e-007
+WP_067834960.1  darcynin [Nocardia lijiangensis]                      53.1    4e-007
+WP_082729329.1  MULTISPECIES: darcynin [Pseudomonas]                  52.8    4e-007
+WP_025685403.1  darcynin [Paenibacillus sp. 1-49]                     52.8    4e-007
+WP_042295840.1  darcynin [Paraburkholderia bannensis]                 52.8    4e-007
+WP_049584456.1  hypothetical protein [Photorhabdus luminescens]       52.8    5e-007
+WP_033355371.1  darcynin [Streptomyces aureofaciens]                  52.8    5e-007
+WP_069291665.1  Darcynin 2 [Paenibacillus polymyxa]                   52.4    6e-007
+WP_008735330.1  darcynin [Streptomyces sp. Mg1]                       52.8    6e-007
+WP_063352149.1  darcynin [Streptomyces sp. MJM8645]                   52.8    6e-007
+WP_064985939.1  darcynin [Mycobacterium mucogenicum]                  52.4    6e-007
+WP_048631511.1  darcynin [Mycobacterium aurum]                        52.4    7e-007
+WP_010056052.1  MULTISPECIES: hypothetical protein [Streptomyces]     52.4    7e-007
+WP_066268717.1  Darcynin 2 [Bacillus acidicola]                       52.4    7e-007
+WP_034092162.1  darcynin [Streptacidiphilus albus]                    52.4    7e-007
+WP_036778172.1  hypothetical protein [Photorhabdus luminescens]       52.0    7e-007
+WP_004950047.1  hypothetical protein [Streptomyces mobaraensis]       52.4    8e-007
+WP_074108171.1  Darcynin 2 [Paenibacillus sp. P26E]                   52.4    8e-007
+WP_018569556.1  MULTISPECIES: darcynin [Streptomyces]                 52.4    8e-007
+WP_055742113.1  Darcynin 2 [Bacillus shackletonii]                    52.4    8e-007
+WP_040748998.1  darcynin [Nocardia transvalensis]                     52.4    8e-007
+WP_042260722.1  darcynin [Nocardia brasiliensis]                      52.4    9e-007
+WP_058829437.1  Darcynin 2 [Paenibacillus polymyxa]                   52.0    9e-007
+WP_029516775.1  darcynin [Paenibacillus polymyxa]                     52.0    9e-007
+WP_064749029.1  darcynin [Lysobacter antibioticus]                    52.0    9e-007
+WP_040148897.1  hypothetical protein [Photorhabdus luminescens]       52.0    9e-007
+WP_074100008.1  Darcynin 2 [Paenibacillus sp. P3E]                    52.0    1e-006
+WP_007429921.1  hypothetical protein [Paenibacillus sp. Aloe-11]      52.0    1e-006
+WP_079911290.1  Darcynin 2 [Paenibacillus sp. 32352]                  52.0    1e-006
+WP_030560021.1  darcynin [Streptomyces aureocirculatus]               52.0    1e-006
+WP_046395319.1  hypothetical protein [Photorhabdus luminescens]       51.6    1e-006
+WP_039270101.1  darcynin [Paenibacillus polymyxa]                     52.0    1e-006
+WP_072549217.1  darcynin [Granulibacter bethesdensis]                 52.0    1e-006
+WP_050900923.1  MULTISPECIES: hypothetical protein [Rhodobacterac...  50.4    1e-006
+WP_065391649.1  hypothetical protein [Photorhabdus luminescens]       51.6    1e-006
+WP_037769826.1  darcynin [Streptomyces sp. FXJ7.023]                  52.0    1e-006
+WP_058717166.1  darcynin [Sphingomonas sanguinis]                     52.0    1e-006
+WP_030020712.1  darcynin [Streptomyces monomycini]                    52.0    1e-006
+WP_020103545.1  hypothetical protein [Mycobacterium sp. 360MFTsu5.1]  51.6    1e-006
+WP_010982169.1  darcynin [Streptomyces avermitilis]                   52.0    1e-006
+WP_061446525.1  darcynin [Streptomyces sp. CCM_MD2014]                51.6    1e-006
+WP_020124075.1  darcynin [Streptomyces canus]                         52.0    1e-006
+WP_074088240.1  Darcynin 2 [Paenibacillus sp. P32E]                   51.6    1e-006
+WP_035550068.1  darcynin [Burkholderia sp. 9120]                      51.6    1e-006
+WP_006141262.1  darcynin [Streptomyces griseoaurantiacus]             51.6    2e-006
+WP_085563593.1  darcynin [Streptomyces griseofuscus]                  52.0    2e-006
+WP_037656836.1  darcynin [Streptomyces griseofuscus]                  52.0    2e-006
+WP_058768081.1  darcynin [Pseudomonas psychrotolerans]                51.6    2e-006
+WP_067678086.1  darcynin [Nocardia miyunensis]                        51.6    2e-006
+WP_083500194.1  darcynin [Sphingomonas endophytica]                   51.6    2e-006
+WP_044785545.1  darcynin [Paenibacillus polymyxa]                     51.2    2e-006
+WP_075951106.1  darcynin [Pseudonocardia sp. CNS-004]                 51.6    2e-006
+WP_025364614.1  darcynin [Paenibacillus polymyxa]                     51.2    2e-006
+WP_043701128.1  darcynin [Nocardia abscessus]                         51.2    2e-006
+WP_062649996.1  darcynin [Streptomyces sp. NBRC 110468]               51.2    2e-006
+WP_019686951.1  darcynin [Paenibacillus polymyxa]                     51.2    2e-006
+WP_055550689.1  darcynin [Streptomyces kanamyceticus]                 51.2    2e-006
+WP_030992503.1  darcynin [Streptomyces sp. NRRL S-1813]               51.2    2e-006
+WP_013370578.1  hypothetical protein [Paenibacillus polymyxa]         51.2    2e-006
+WP_030887712.1  darcynin [Streptomyces varsoviensis]                  51.2    2e-006
+WP_029324491.1  MULTISPECIES: darcynin [Bacillus]                     51.2    2e-006
+WP_019353967.1  MULTISPECIES: hypothetical protein [Streptomyces]     51.2    2e-006
+WP_053853931.1  darcynin [Mycobacterium mucogenicum]                  50.8    2e-006
+WP_010345067.1  darcynin [Paenibacillus peoriae]                      50.8    2e-006
+WP_041749290.1  darcynin [Brevibacillus brevis]                       50.8    3e-006
+WP_058190908.1  darcynin [Methylobacterium sp. GXS13]                 50.8    3e-006
+WP_068060546.1  darcynin [Nocardia xishanensis]                       50.8    3e-006
+WP_074764037.1  darcynin [Paraburkholderia fungorum]                  50.8    3e-006
+WP_047771239.1  MULTISPECIES: hypothetical protein [Xenorhabdus]      50.4    3e-006
+WP_063209115.1  MULTISPECIES: Darcynin 2 [Paenibacillus]              50.8    3e-006
+WP_033820657.1  darcynin [Kitasatospora sp. MBT63]                    50.8    3e-006
+WP_025719616.1  darcynin [Paenibacillus sp. 1-18]                     50.8    3e-006
+WP_030081683.1  darcynin [Streptomyces decoyicus]                     50.8    3e-006
+WP_079035802.1  darcynin [Streptomyces flocculus]                     50.8    3e-006
+WP_042831453.1  darcynin [Streptomyces rimosus]                       50.8    3e-006
+WP_025358809.1  darcynin [Kutzneria albida]                           50.8    3e-006
+WP_003984735.1  MULTISPECIES: hypothetical protein [Streptomyces]     50.8    3e-006
+WP_016472964.1  MULTISPECIES: hypothetical protein [Streptomyces]     50.8    3e-006
+WP_061005311.1  darcynin [Mycobacterium mucogenicum]                  50.4    3e-006
+WP_079103175.1  darcynin [Streptomyces aurantiacus]                   51.2    3e-006
+WP_064859255.1  darcynin [Mycobacterium mucogenicum]                  50.4    3e-006
+WP_044566576.1  darcynin [Streptomyces iranensis]                     50.8    3e-006
+WP_022721285.1  darcynin [Rhodopseudomonas sp. B29]                   50.8    3e-006
+WP_011633112.1  darcynin [Granulibacter bethesdensis]                 50.8    3e-006
+WP_020667664.1  hypothetical protein [Amycolatopsis nigrescens]       50.8    3e-006
+WP_051459590.1  darcynin [Granulibacter bethesdensis]                 50.8    4e-006
+WP_047680361.1  hypothetical protein [Xenorhabdus sp. NBAII XenSa04]  50.1    4e-006
+WP_076162023.1  darcynin [Amycolatopsis coloradensis]                 50.4    4e-006
+WP_072573432.1  darcynin [Granulibacter bethesdensis]                 50.4    4e-006
+WP_041106767.1  darcynin [Bacillus pumilus]                           50.4    4e-006
+WP_043666139.1  darcynin [Nocardia vulneris]                          50.4    5e-006
+WP_014988074.1  darcynin [Nocardia brasiliensis]                      50.4    5e-006
+WP_058712225.1  Darcynin 2 [Paenibacillus jamilae]                    50.1    5e-006
+WP_074479066.1  darcynin [Micromonospora carbonacea]                  50.1    6e-006
+WP_053173888.1  darcynin [Streptomyces virginiae]                     50.1    6e-006
+WP_033225776.1  darcynin [Streptomyces virginiae]                     50.1    6e-006
+WP_024718485.1  darcynin [Bacillus pumilus]                           49.7    6e-006
+WP_030599684.1  MULTISPECIES: darcynin [Streptomyces]                 50.1    7e-006
+WP_030273913.1  darcynin [Streptomyces sp. NRRL B-24484]              49.7    7e-006
+WP_033034258.1  darcynin [Streptomyces rimosus]                       49.7    7e-006
+WP_065215057.1  Darcynin 2 [Bacillus safensis]                        49.7    8e-006
+WP_034283651.1  darcynin [Bacillus safensis]                          49.7    8e-006
+WP_016819196.1  darcynin [Paenibacillus polymyxa]                     49.7    8e-006
+WP_081221865.1  darcynin [Streptomyces sp. M41(2017)]                 49.7    8e-006
+WP_058760495.1  darcynin [Pseudomonas psychrotolerans]                49.7    9e-006
+WP_045970286.1  hypothetical protein [Xenorhabdus doucetiae]          49.3    9e-006
+WP_030665027.1  darcynin [Streptomyces rimosus]                       49.7    1e-005
+WP_010848091.1  hypothetical protein [Xenorhabdus nematophila]        49.3    1e-005
+WP_072368195.1  Darcynin 2 [Bacillus sp. ru9509.4]                    49.3    1e-005
+WP_024427606.1  darcynin [Bacillus pumilus]                           49.3    1e-005
+WP_076977782.1  darcynin [Streptomyces sp. M1013]                     49.3    1e-005
+WP_059298749.1  darcynin [Streptomyces canus]                         49.3    1e-005
+WP_053487165.1  MULTISPECIES: Darcynin 2 [Bacillus]                   49.3    1e-005
+WP_037770798.1  darcynin [Streptomyces sp. FXJ7.023]                  49.3    1e-005
+WP_030465714.1  darcynin [Lechevalieria aerocolonigenes]              49.3    1e-005
+WP_039165381.1  MULTISPECIES: darcynin [Bacillus]                     49.3    1e-005
+WP_078673253.1  hypothetical protein [Chitinophaga eiseniae]          49.3    1e-005
+WP_082740483.1  darcynin [Sphingomonas sp. CCH9-F2]                   49.3    1e-005
+WP_053698984.1  darcynin [Streptomyces sp. NRRL F-5755]               49.3    1e-005
+WP_030725667.1  darcynin [Streptomyces sp. NRRL S-237]                49.3    1e-005
+WP_037305088.1  darcynin [Amycolatopsis orientalis]                   48.9    1e-005
+WP_005150097.1  hypothetical protein [Amycolatopsis azurea]           48.9    1e-005
+WP_025093705.1  darcynin [Bacillus pumilus]                           48.9    1e-005
+WP_039962871.1  MULTISPECIES: darcynin [Bacillus]                     48.9    1e-005
+WP_031369982.1  darcynin [Lysobacter antibioticus]                    48.9    1e-005
+WP_035852596.1  darcynin [Cryptosporangium arvum]                     49.3    1e-005
+WP_077965860.1  darcynin [Streptomyces tsukubensis]                   48.9    1e-005
+WP_041508059.1  darcynin [Bacillus aerophilus]                        48.9    1e-005
+WP_008347446.1  MULTISPECIES: hypothetical protein [Bacillus]         48.9    1e-005
+WP_045316330.1  darcynin [Lechevalieria aerocolonigenes]              48.9    2e-005
+WP_076840640.1  Darcynin 2 [Bacillus sp. I-2]                         48.9    2e-005
+WP_045944039.1  darcynin [Streptomyces sp. NRRL S-495]                48.9    2e-005
+WP_053650110.1  darcynin [Streptomyces sp. XY431]                     48.9    2e-005
+WP_020635098.1  darcynin [Amycolatopsis alba]                         48.9    2e-005
+WP_043399684.1  MULTISPECIES: darcynin [Mycobacterium]                48.5    2e-005
+WP_068025406.1  darcynin [Nocardia mexicana]                          48.9    2e-005
+WP_052871382.1  darcynin [Streptomyces sp. NRRL F-4335]               48.5    2e-005
+WP_016334103.1  hypothetical protein [Amycolatopsis orientalis]       48.5    2e-005
+WP_073764166.1  darcynin [Streptomyces sp. CB02923]                   48.5    2e-005
+WP_003971550.1  MULTISPECIES: darcynin [Streptomyces]                 48.5    2e-005
+WP_069315487.1  darcynin [Xenorhabdus hominickii]                     48.5    2e-005
+WP_073928378.1  darcynin [Streptomyces sp. CB03911]                   48.5    2e-005
+WP_060729899.1  darcynin [Streptomyces albus]                         48.5    2e-005
+WP_030864382.1  darcynin [Streptomyces violaceoruber]                 48.5    2e-005
+WP_030389318.1  darcynin [Streptomyces sp. NRRL S-241]                48.5    2e-005
+WP_046337769.1  darcynin [Xenorhabdus bovienii]                       48.5    2e-005
+WP_038183910.1  darcynin [Xenorhabdus bovienii]                       48.5    2e-005
+WP_007032594.1  hypothetical protein [Amycolatopsis decaplanina]      48.1    3e-005
+WP_079407599.1  darcynin [Streptomyces sp. 3211]                      48.5    3e-005
+WP_038194801.1  darcynin [Xenorhabdus bovienii]                       48.5    3e-005
+WP_044853207.1  darcynin [Amycolatopsis orientalis]                   48.1    3e-005
+WP_057918307.1  darcynin [Lysobacter antibioticus]                    48.5    3e-005
+WP_030651991.1  darcynin [Streptomyces rimosus]                       48.5    3e-005
+WP_073208105.1  Darcynin 2 [Bacillus safensis]                        48.1    3e-005
+WP_075621396.1  Darcynin 2 [Bacillus safensis]                        48.1    3e-005
+WP_041089478.1  darcynin [Bacillus pumilus]                           48.1    3e-005
+WP_019743501.1  darcynin [Bacillus pumilus]                           48.1    3e-005
+WP_062768797.1  MULTISPECIES: darcynin [Streptomyces]                 48.1    3e-005
+WP_053688048.1  darcynin [Streptomyces sp. WM6372]                    48.1    3e-005
+WP_063275980.1  darcynin [Amycolatopsis keratiniphila]                48.1    3e-005
+WP_073842820.1  darcynin [Amycolatopsis sp. CB00013]                  48.1    4e-005
+WP_058846568.1  darcynin [Streptomyces silvensis]                     48.1    4e-005
+WP_023421081.1  hypothetical protein [Streptomyces sp. GBA 94-10]     48.1    4e-005
+
+
+>WP_025470182.1 Darcynin 1 [Acinetobacter baumannii]
+Length=96
+
+ Score = 178 bits (451),  Expect = 8e-057, Method: Compositional matrix adjust.
+ Identities = 89/90 (99%), Positives = 90/90 (100%), Gaps = 0/90 (0%)
+
+Query  1   MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+           +ALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  5   LALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  64
+
+Query  61  IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+           IRDSEFCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  65  IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  94
+
+
+>WP_020752831.1 hypothetical protein [Acinetobacter baumannii]
+Length=109
+
+ Score = 177 bits (450),  Expect = 2e-056, Method: Compositional matrix adjust.
+ Identities = 88/90 (98%), Positives = 90/90 (100%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFSAQKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSAQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_002050365.1 MULTISPECIES: darcynin 2 [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=109
+
+ Score = 177 bits (450),  Expect = 2e-056, Method: Compositional matrix adjust.
+ Identities = 88/90 (98%), Positives = 90/90 (100%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFSAQKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSAQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_086355223.1 Darcynin 1 [Acinetobacter pittii]
+Length=109
+
+ Score = 177 bits (449),  Expect = 2e-056, Method: Compositional matrix adjust.
+ Identities = 88/90 (98%), Positives = 90/90 (100%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFSAQKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSAQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_000091890.1 Darcynin 1 [Acinetobacter baumannii]
+Length=109
+
+ Score = 177 bits (449),  Expect = 3e-056, Method: Compositional matrix adjust.
+ Identities = 87/90 (97%), Positives = 90/90 (100%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAR+KRAEFSAQKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALARQKRAEFSAQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_032018829.1 darcynin [Acinetobacter baumannii]
+Length=109
+
+ Score = 177 bits (448),  Expect = 3e-056, Method: Compositional matrix adjust.
+ Identities = 88/90 (98%), Positives = 89/90 (99%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSE CTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSELCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_039254654.1 darcynin [Acinetobacter baumannii]
+Length=109
+
+ Score = 177 bits (448),  Expect = 4e-056, Method: Compositional matrix adjust.
+ Identities = 87/90 (97%), Positives = 90/90 (100%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFSAQKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYF+IDA
+Sbjct  18   LALAREKRAEFSAQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFMIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_031958523.1 darcynin [Acinetobacter baumannii]
+Length=109
+
+ Score = 177 bits (448),  Expect = 4e-056, Method: Compositional matrix adjust.
+ Identities = 87/90 (97%), Positives = 90/90 (100%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFSAQKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSAQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGY+EYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYMEYES  107
+
+
+>WP_068565978.1 Darcynin 1 [Acinetobacter pittii]
+Length=109
+
+ Score = 176 bits (447),  Expect = 5e-056, Method: Compositional matrix adjust.
+ Identities = 87/90 (97%), Positives = 90/90 (100%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFSAQKL+PIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSAQKLKPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_017392350.1 darcynin [Acinetobacter calcoaceticus]
+Length=109
+
+ Score = 176 bits (447),  Expect = 5e-056, Method: Compositional matrix adjust.
+ Identities = 86/90 (96%), Positives = 90/90 (100%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFSAQKLEPIFEKYP+VK+RWYDVEAFSTKASDIA+FETTSLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSAQKLEPIFEKYPTVKIRWYDVEAFSTKASDIAMFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_005042894.1 darcynin 2 [Acinetobacter calcoaceticus]
+Length=113
+
+ Score = 176 bits (447),  Expect = 6e-056, Method: Compositional matrix adjust.
+ Identities = 87/90 (97%), Positives = 90/90 (100%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFSAQKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSAQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIP+IEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPSIEDGYVEYES  107
+
+
+>WP_068556987.1 Darcynin 1 [Acinetobacter pittii]
+Length=109
+
+ Score = 176 bits (447),  Expect = 6e-056, Method: Compositional matrix adjust.
+ Identities = 87/90 (97%), Positives = 89/90 (99%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFSAQKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSAQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYE 
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYEG  107
+
+
+>WP_016803340.1 MULTISPECIES: darcynin [Acinetobacter]
+Length=109
+
+ Score = 176 bits (446),  Expect = 6e-056, Method: Compositional matrix adjust.
+ Identities = 87/90 (97%), Positives = 89/90 (99%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFS QKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSTQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_086263029.1 Darcynin 1 [Acinetobacter baumannii]
+Length=109
+
+ Score = 176 bits (446),  Expect = 8e-056, Method: Compositional matrix adjust.
+ Identities = 87/90 (97%), Positives = 89/90 (99%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFS QKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSVQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_000091887.1 darcynin [Acinetobacter baumannii]
+Length=109
+
+ Score = 176 bits (446),  Expect = 8e-056, Method: Compositional matrix adjust.
+ Identities = 87/90 (97%), Positives = 89/90 (99%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFSAQKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETT LQDYYFVIDA
+Sbjct  18   LALAREKRAEFSAQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTCLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_045126356.1 darcynin [Acinetobacter calcoaceticus]
+Length=112
+
+ Score = 176 bits (446),  Expect = 9e-056, Method: Compositional matrix adjust.
+ Identities = 86/90 (96%), Positives = 89/90 (99%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFSAQKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSAQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEF+EIIPAIEDGYVEYE 
+Sbjct  78   IRDSEFCTVPYFEFIEIIPAIEDGYVEYEG  107
+
+
+>WP_024438893.1 darcynin [Acinetobacter baumannii]
+Length=109
+
+ Score = 176 bits (445),  Expect = 9e-056, Method: Compositional matrix adjust.
+ Identities = 88/90 (98%), Positives = 89/90 (99%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFSAQKLE IFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSAQKLESIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_032042145.1 MULTISPECIES: darcynin [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=109
+
+ Score = 176 bits (445),  Expect = 1e-055, Method: Compositional matrix adjust.
+ Identities = 86/90 (96%), Positives = 89/90 (99%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFS QKLEPIFEKYP+VKVRWYD+EAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSTQKLEPIFEKYPTVKVRWYDIEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_005048804.1 darcynin 2 [Acinetobacter calcoaceticus]
+Length=109
+
+ Score = 176 bits (445),  Expect = 1e-055, Method: Compositional matrix adjust.
+ Identities = 86/90 (96%), Positives = 89/90 (99%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFS QKLEPIFEKYP+VK+RWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSTQKLEPIFEKYPTVKIRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_077166325.1 Darcynin 1 [Acinetobacter genomosp. 33YU]
+Length=110
+
+ Score = 175 bits (444),  Expect = 1e-055, Method: Compositional matrix adjust.
+ Identities = 86/89 (97%), Positives = 89/89 (100%), Gaps = 0/89 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFSAQKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSAQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+            IRDSEFCT+PYFEFVEIIPAIEDGYVEYE
+Sbjct  78   IRDSEFCTIPYFEFVEIIPAIEDGYVEYE  106
+
+
+>WP_033846715.1 MULTISPECIES: darcynin [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=109
+
+ Score = 175 bits (444),  Expect = 1e-055, Method: Compositional matrix adjust.
+ Identities = 86/90 (96%), Positives = 89/90 (99%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFS QKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYF+IDA
+Sbjct  18   LALAREKRAEFSTQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFMIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_080026374.1 Darcynin 1 [Acinetobacter calcoaceticus]
+Length=109
+
+ Score = 175 bits (444),  Expect = 2e-055, Method: Compositional matrix adjust.
+ Identities = 86/90 (96%), Positives = 89/90 (99%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFSAQKLEPIFEKYP+VKVRWYDVEAFS KASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSAQKLEPIFEKYPTVKVRWYDVEAFSAKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCT+PYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTIPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_032048066.1 MULTISPECIES: darcynin [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=109
+
+ Score = 175 bits (443),  Expect = 2e-055, Method: Compositional matrix adjust.
+ Identities = 86/90 (96%), Positives = 89/90 (99%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFS QKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSKQKLEPIFEKYPNVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEF+EIIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFIEIIPAIEDGYVEYES  107
+
+
+>WP_017393235.1 MULTISPECIES: darcynin [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=109
+
+ Score = 175 bits (443),  Expect = 2e-055, Method: Compositional matrix adjust.
+ Identities = 87/90 (97%), Positives = 89/90 (99%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFSAQKLEPIFEKY +VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSAQKLEPIFEKYSTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_020992184.1 darcynin 2 [Acinetobacter nosocomialis]
+Length=109
+
+ Score = 175 bits (443),  Expect = 2e-055, Method: Compositional matrix adjust.
+ Identities = 86/90 (96%), Positives = 89/90 (99%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFS QKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSTQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYE+
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYEA  107
+
+
+>WP_023897267.1 hypothetical protein [Acinetobacter baumannii]
+Length=111
+
+ Score = 175 bits (443),  Expect = 2e-055, Method: Compositional matrix adjust.
+ Identities = 86/90 (96%), Positives = 89/90 (99%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFSAQKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSAQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFC VPYFEFVEIIPAIEDGYVEYE+
+Sbjct  78   IRDSEFCIVPYFEFVEIIPAIEDGYVEYEN  107
+
+
+>WP_016142099.1 darcynin 2 [Acinetobacter pittii]
+Length=109
+
+ Score = 175 bits (443),  Expect = 2e-055, Method: Compositional matrix adjust.
+ Identities = 86/90 (96%), Positives = 88/90 (98%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAE S QKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALAREKRAELSTQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_069120107.1 Darcynin 1 [Acinetobacter pittii]
+Length=109
+
+ Score = 175 bits (443),  Expect = 2e-055, Method: Compositional matrix adjust.
+ Identities = 86/90 (96%), Positives = 90/90 (100%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAR+KRAEFSA+KLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALARKKRAEFSAKKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_005071141.1 darcynin 2 [Acinetobacter pittii]
+Length=109
+
+ Score = 175 bits (443),  Expect = 2e-055, Method: Compositional matrix adjust.
+ Identities = 86/90 (96%), Positives = 88/90 (98%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFSAQKLEPIFEKYP+VKVRWYDVEAFSTK SDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSAQKLEPIFEKYPTVKVRWYDVEAFSTKVSDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYE 
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYEG  107
+
+
+>WP_005302950.1 darcynin 1 [Acinetobacter sp. NIPH 542]
+Length=109
+
+ Score = 175 bits (443),  Expect = 2e-055, Method: Compositional matrix adjust.
+ Identities = 86/89 (97%), Positives = 88/89 (99%), Gaps = 0/89 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFS QKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSTQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYE
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYE  106
+
+
+>WP_077169968.1 Darcynin 1 [Acinetobacter genomosp. 33YU]
+Length=109
+
+ Score = 174 bits (442),  Expect = 3e-055, Method: Compositional matrix adjust.
+ Identities = 86/90 (96%), Positives = 89/90 (99%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFS QKLEPIF+KYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSKQKLEPIFKKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_078220239.1 Darcynin 1 [Acinetobacter pittii]
+Length=101
+
+ Score = 174 bits (442),  Expect = 3e-055, Method: Compositional matrix adjust.
+ Identities = 86/90 (96%), Positives = 88/90 (98%), Gaps = 0/90 (0%)
+
+Query  1   MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+           +ALAREKRAEFS QKLEPIF KYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  10  LALAREKRAEFSTQKLEPIFAKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  69
+
+Query  61  IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+           IRDSEFCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  70  IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  99
+
+
+>WP_032050012.1 darcynin [Acinetobacter baumannii]
+Length=109
+
+ Score = 174 bits (442),  Expect = 3e-055, Method: Compositional matrix adjust.
+ Identities = 86/90 (96%), Positives = 89/90 (99%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL REKRAEFSAQKLEPIFEKYP+VKVRWYDVEAFSTKASDIA+FETTSLQDYYFVIDA
+Sbjct  18   LALPREKRAEFSAQKLEPIFEKYPTVKVRWYDVEAFSTKASDIALFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_004710419.1 darcynin 2 [Acinetobacter nosocomialis]
+Length=109
+
+ Score = 174 bits (442),  Expect = 3e-055, Method: Compositional matrix adjust.
+ Identities = 85/90 (94%), Positives = 89/90 (99%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFSAQKLEPIF KYP+VK+RWYDVEAFSTKASDIAVFETTS+QDYYFVIDA
+Sbjct  18   LALAREKRAEFSAQKLEPIFAKYPTVKIRWYDVEAFSTKASDIAVFETTSMQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_002059151.1 darcynin 2 [Acinetobacter baumannii]
+Length=109
+
+ Score = 174 bits (442),  Expect = 3e-055, Method: Compositional matrix adjust.
+ Identities = 86/90 (96%), Positives = 89/90 (99%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFSAQKLEPIF KYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSAQKLEPIFAKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFV+IIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVDIIPAIEDGYVEYES  107
+
+
+>WP_045437629.1 darcynin [Acinetobacter calcoaceticus]
+Length=109
+
+ Score = 174 bits (442),  Expect = 3e-055, Method: Compositional matrix adjust.
+ Identities = 85/90 (94%), Positives = 89/90 (99%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFSAQKLEPIFEKYP+VK+RWYDVEAFS KASDIA+FETTSLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSAQKLEPIFEKYPTVKIRWYDVEAFSAKASDIAMFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_079548125.1 Darcynin 1 [Acinetobacter calcoaceticus]
+Length=109
+
+ Score = 174 bits (441),  Expect = 4e-055, Method: Compositional matrix adjust.
+ Identities = 86/90 (96%), Positives = 88/90 (98%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL REKRAEFS QKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALPREKRAEFSTQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_000091889.1 darcynin [Acinetobacter baumannii]
+Length=109
+
+ Score = 174 bits (441),  Expect = 4e-055, Method: Compositional matrix adjust.
+ Identities = 86/90 (96%), Positives = 88/90 (98%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFS QKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFET SLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSTQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETASLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCT+PYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTMPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_000091898.1 darcynin [Acinetobacter baumannii]
+Length=109
+
+ Score = 174 bits (441),  Expect = 5e-055, Method: Compositional matrix adjust.
+ Identities = 85/90 (94%), Positives = 89/90 (99%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL REKRAEFSAQKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALPREKRAEFSAQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            +RDSEFCTVPYFEFVEIIPAIEDGYVEYE+
+Sbjct  78   LRDSEFCTVPYFEFVEIIPAIEDGYVEYEN  107
+
+
+>WP_005124636.1 darcynin 2 [Acinetobacter baumannii]
+Length=109
+
+ Score = 174 bits (441),  Expect = 5e-055, Method: Compositional matrix adjust.
+ Identities = 85/90 (94%), Positives = 89/90 (99%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAR+KRAEFSAQKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFET SLQDYYFVIDA
+Sbjct  18   LALARQKRAEFSAQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETASLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYE+
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYET  107
+
+
+>WP_068976545.1 Darcynin 1 [Acinetobacter pittii]
+Length=109
+
+ Score = 174 bits (441),  Expect = 5e-055, Method: Compositional matrix adjust.
+ Identities = 86/90 (96%), Positives = 87/90 (97%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFS QKLEPIF KYPSVKVRWYDVEAFSTKASDIAVFE TSLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSTQKLEPIFNKYPSVKVRWYDVEAFSTKASDIAVFEATSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_039756101.1 darcynin [Acinetobacter pittii]
+Length=109
+
+ Score = 174 bits (441),  Expect = 5e-055, Method: Compositional matrix adjust.
+ Identities = 86/90 (96%), Positives = 88/90 (98%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL REKRAEFSAQKLEPIF KYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALTREKRAEFSAQKLEPIFAKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_038347172.1 darcynin [Acinetobacter baumannii]
+Length=109
+
+ Score = 174 bits (440),  Expect = 5e-055, Method: Compositional matrix adjust.
+ Identities = 85/90 (94%), Positives = 90/90 (100%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAR+KRAEFSAQKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFET+SLQDYYFVIDA
+Sbjct  18   LALARQKRAEFSAQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETSSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFV+IIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVDIIPAIEDGYVEYES  107
+
+
+>WP_031976974.1 darcynin [Acinetobacter baumannii]
+Length=109
+
+ Score = 174 bits (440),  Expect = 5e-055, Method: Compositional matrix adjust.
+ Identities = 85/90 (94%), Positives = 88/90 (98%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL REKRAEFSAQKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALTREKRAEFSAQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGY+EYE 
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYLEYEG  107
+
+
+>WP_001162235.1 darcynin [Acinetobacter baumannii]
+Length=92
+
+ Score = 173 bits (439),  Expect = 6e-055, Method: Compositional matrix adjust.
+ Identities = 85/90 (94%), Positives = 88/90 (98%), Gaps = 0/90 (0%)
+
+Query  1   MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+           MALAREKRAEFSAQK EPIFEKYP+VKVRWYDVEAFSTKASDIA+FET+SLQDYYFVID 
+Sbjct  1   MALAREKRAEFSAQKFEPIFEKYPTVKVRWYDVEAFSTKASDIAMFETSSLQDYYFVIDT  60
+
+Query  61  IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+           IRDSEFCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  61  IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+
+
+>WP_032009296.1 darcynin [Acinetobacter baumannii]
+Length=109
+
+ Score = 174 bits (440),  Expect = 6e-055, Method: Compositional matrix adjust.
+ Identities = 85/90 (94%), Positives = 89/90 (99%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFS QKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFET+SLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSTQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETSSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFV+IIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVDIIPAIEDGYVEYES  107
+
+
+>WP_017387649.1 darcynin [Acinetobacter calcoaceticus]
+Length=109
+
+ Score = 174 bits (440),  Expect = 7e-055, Method: Compositional matrix adjust.
+ Identities = 85/90 (94%), Positives = 89/90 (99%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL REKRAEFSAQKLEPIFEKYP+VKVRWYD+EAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALPREKRAEFSAQKLEPIFEKYPTVKVRWYDIEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDS+FCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSDFCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_044103418.1 darcynin [Acinetobacter pittii]
+Length=109
+
+ Score = 174 bits (440),  Expect = 7e-055, Method: Compositional matrix adjust.
+ Identities = 85/90 (94%), Positives = 90/90 (100%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFSAQKL+PIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVI+A
+Sbjct  18   LALAREKRAEFSAQKLKPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIEA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEY+S
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYKS  107
+
+
+>WP_079746401.1 Darcynin 1 [Acinetobacter baumannii]
+Length=96
+
+ Score = 173 bits (438),  Expect = 7e-055, Method: Compositional matrix adjust.
+ Identities = 85/90 (94%), Positives = 89/90 (99%), Gaps = 0/90 (0%)
+
+Query  1   MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+           +ALAREKRAEFSAQKLEPIFEKYP+VKVRWYDVEAFSTKA+DIAVFET+SLQDYYFVIDA
+Sbjct  5   LALAREKRAEFSAQKLEPIFEKYPAVKVRWYDVEAFSTKANDIAVFETSSLQDYYFVIDA  64
+
+Query  61  IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+           IRDSE CTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  65  IRDSELCTVPYFEFVEIIPAIEDGYVEYES  94
+
+
+>WP_057067969.1 Darcynin 1 [Acinetobacter pittii]
+Length=109
+
+ Score = 173 bits (439),  Expect = 7e-055, Method: Compositional matrix adjust.
+ Identities = 86/89 (97%), Positives = 88/89 (99%), Gaps = 0/89 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL REKRAEFSAQKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALPREKRAEFSAQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYE
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYE  106
+
+
+>WP_001138355.1 darcynin [Acinetobacter baumannii]
+Length=109
+
+ Score = 173 bits (439),  Expect = 8e-055, Method: Compositional matrix adjust.
+ Identities = 85/90 (94%), Positives = 89/90 (99%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAR+KRAEFSAQKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFET+SLQDYYFVIDA
+Sbjct  18   LALARQKRAEFSAQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETSSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSE CTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSELCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_042075543.1 darcynin [Acinetobacter nosocomialis]
+Length=109
+
+ Score = 173 bits (439),  Expect = 8e-055, Method: Compositional matrix adjust.
+ Identities = 85/90 (94%), Positives = 88/90 (98%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL REKRAEFS QKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTS+QDYYFVIDA
+Sbjct  18   LALPREKRAEFSTQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSMQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_016139150.1 darcynin 2 [Acinetobacter calcoaceticus]
+Length=109
+
+ Score = 173 bits (439),  Expect = 8e-055, Method: Compositional matrix adjust.
+ Identities = 86/90 (96%), Positives = 88/90 (98%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFS QKLE IFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSVQKLEAIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_005075182.1 MULTISPECIES: darcynin 2 [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=109
+
+ Score = 173 bits (439),  Expect = 1e-054, Method: Compositional matrix adjust.
+ Identities = 85/90 (94%), Positives = 88/90 (98%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL REKRAEFS QKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALPREKRAEFSTQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGY+EYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYLEYES  107
+
+
+>WP_077163837.1 Darcynin 1 [Acinetobacter genomosp. 33YU]
+Length=109
+
+ Score = 173 bits (438),  Expect = 1e-054, Method: Compositional matrix adjust.
+ Identities = 85/90 (94%), Positives = 88/90 (98%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFSAQKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFE TSLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSAQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFEATSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSE CTVPYFEFVEIIPAIEDGYVEYE+
+Sbjct  78   IRDSELCTVPYFEFVEIIPAIEDGYVEYEN  107
+
+
+>WP_086324124.1 Darcynin 1 [Acinetobacter pittii]
+Length=112
+
+ Score = 173 bits (439),  Expect = 1e-054, Method: Compositional matrix adjust.
+ Identities = 85/90 (94%), Positives = 88/90 (98%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL REKRAEFS QKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALPREKRAEFSTQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGY+EYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYLEYES  107
+
+
+>WP_032039660.1 darcynin [Acinetobacter baumannii]
+Length=109
+
+ Score = 173 bits (438),  Expect = 1e-054, Method: Compositional matrix adjust.
+ Identities = 85/90 (94%), Positives = 88/90 (98%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFSAQKLEPIF KYP+VKVRWYDVEAFSTKASDIAVFET+SLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSAQKLEPIFAKYPTVKVRWYDVEAFSTKASDIAVFETSSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYE 
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYEG  107
+
+
+>WP_086377855.1 Darcynin 1 [Acinetobacter baumannii]
+Length=109
+
+ Score = 173 bits (438),  Expect = 1e-054, Method: Compositional matrix adjust.
+ Identities = 85/90 (94%), Positives = 88/90 (98%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL REKRAEFS QKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALPREKRAEFSTQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIP+IEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPSIEDGYVEYES  107
+
+
+>WP_068526741.1 Darcynin 1 [Acinetobacter pittii]
+Length=109
+
+ Score = 173 bits (438),  Expect = 1e-054, Method: Compositional matrix adjust.
+ Identities = 85/90 (94%), Positives = 87/90 (97%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFS QKLEPIF KYP+VK RWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSTQKLEPIFAKYPTVKTRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_002067883.1 darcynin 2 [Acinetobacter baumannii]
+Length=109
+
+ Score = 172 bits (437),  Expect = 2e-054, Method: Compositional matrix adjust.
+ Identities = 84/90 (93%), Positives = 88/90 (98%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFS QKLEPIF+KYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSTQKLEPIFDKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGY+EYE 
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYLEYEG  107
+
+
+>WP_060466164.1 Darcynin 1 [Acinetobacter sp. LMB-5]
+Length=109
+
+ Score = 172 bits (437),  Expect = 2e-054, Method: Compositional matrix adjust.
+ Identities = 85/90 (94%), Positives = 88/90 (98%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL REKRA+FSAQKLEPIF KYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALTREKRAKFSAQKLEPIFAKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_000091893.1 darcynin [Acinetobacter baumannii]
+Length=109
+
+ Score = 172 bits (437),  Expect = 2e-054, Method: Compositional matrix adjust.
+ Identities = 85/90 (94%), Positives = 87/90 (97%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL REKRAEFS QKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALPREKRAEFSTQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYE 
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYEG  107
+
+
+>WP_032036421.1 darcynin [Acinetobacter baumannii]
+Length=109
+
+ Score = 172 bits (437),  Expect = 2e-054, Method: Compositional matrix adjust.
+ Identities = 85/90 (94%), Positives = 89/90 (99%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFSAQKLEPIF KYP+VKVRWY+VEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSAQKLEPIFAKYPTVKVRWYEVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFV+IIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVDIIPAIEDGYVEYES  107
+
+
+>WP_069031241.1 Darcynin 1 [Acinetobacter pittii]
+Length=109
+
+ Score = 172 bits (437),  Expect = 2e-054, Method: Compositional matrix adjust.
+ Identities = 85/90 (94%), Positives = 88/90 (98%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL+REKRAEFS QKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFE TSLQDYYFVIDA
+Sbjct  18   LALSREKRAEFSIQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFEATSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_064480089.1 Darcynin 1 [Acinetobacter baumannii]
+Length=109
+
+ Score = 172 bits (437),  Expect = 2e-054, Method: Compositional matrix adjust.
+ Identities = 85/90 (94%), Positives = 87/90 (97%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFS QKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFET SLQDYYFVID 
+Sbjct  18   LALAREKRAEFSTQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETASLQDYYFVIDV  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_032036823.1 darcynin [Acinetobacter sp. 742879]
+Length=109
+
+ Score = 172 bits (437),  Expect = 2e-054, Method: Compositional matrix adjust.
+ Identities = 85/90 (94%), Positives = 87/90 (97%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFS QKLEPI  KYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSTQKLEPILGKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_029776881.1 darcynin [Acinetobacter sp. WC-136]
+Length=101
+
+ Score = 172 bits (436),  Expect = 2e-054, Method: Compositional matrix adjust.
+ Identities = 85/90 (94%), Positives = 88/90 (98%), Gaps = 0/90 (0%)
+
+Query  1   MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+           +ALAREKRAEFSAQKLEPIF+ YP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  10  LALAREKRAEFSAQKLEPIFDMYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  69
+
+Query  61  IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+           IRDSEFCTVPYFEFVEIIPAIEDGYVEY S
+Sbjct  70  IRDSEFCTVPYFEFVEIIPAIEDGYVEYGS  99
+
+
+>WP_004641414.1 darcynin 2 [Acinetobacter calcoaceticus]
+Length=109
+
+ Score = 172 bits (437),  Expect = 2e-054, Method: Compositional matrix adjust.
+ Identities = 85/90 (94%), Positives = 88/90 (98%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL REKRAEFSAQKLEPIFEKYP+VKVRWYDVEAFS KASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALPREKRAEFSAQKLEPIFEKYPTVKVRWYDVEAFSAKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYE+
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYEN  107
+
+
+>WP_031994345.1 darcynin [Acinetobacter baumannii]
+Length=109
+
+ Score = 172 bits (437),  Expect = 2e-054, Method: Compositional matrix adjust.
+ Identities = 85/90 (94%), Positives = 88/90 (98%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL REKRAEFS QKLEPIF+KYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALPREKRAEFSTQKLEPIFDKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFV+IIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVDIIPAIEDGYVEYES  107
+
+
+>WP_004703571.1 darcynin 2 [Acinetobacter seifertii]
+Length=110
+
+ Score = 172 bits (437),  Expect = 2e-054, Method: Compositional matrix adjust.
+ Identities = 85/89 (96%), Positives = 88/89 (99%), Gaps = 0/89 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFSAQKL PIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSAQKLGPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+            IRDSEFCTVPYFEFVEIIPAIEDGYV+YE
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVKYE  106
+
+
+>WP_071543110.1 Darcynin 1 [Acinetobacter baumannii]
+Length=96
+
+ Score = 172 bits (435),  Expect = 2e-054, Method: Compositional matrix adjust.
+ Identities = 84/90 (93%), Positives = 89/90 (99%), Gaps = 0/90 (0%)
+
+Query  1   MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+           +ALAREKRAEFSAQKLEPIFEKYP+VKVRWYDVEAFSTKA+DIAVFET+SLQDYYFVIDA
+Sbjct  5   LALAREKRAEFSAQKLEPIFEKYPAVKVRWYDVEAFSTKANDIAVFETSSLQDYYFVIDA  64
+
+Query  61  IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+           IR+SE CTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  65  IRNSELCTVPYFEFVEIIPAIEDGYVEYES  94
+
+
+>WP_063098180.1 Darcynin 1 [Acinetobacter pittii]
+Length=111
+
+ Score = 172 bits (436),  Expect = 2e-054, Method: Compositional matrix adjust.
+ Identities = 84/89 (94%), Positives = 88/89 (99%), Gaps = 0/89 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFS QKL+PIFEKYP+VKVRWYDVEAFSTKASDIA+FETTSLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSVQKLDPIFEKYPTVKVRWYDVEAFSTKASDIAMFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYE
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYE  106
+
+
+>WP_065725492.1 Darcynin 1 [Acinetobacter baumannii]
+Length=109
+
+ Score = 172 bits (436),  Expect = 2e-054, Method: Compositional matrix adjust.
+ Identities = 85/90 (94%), Positives = 87/90 (97%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL REKRAEFSAQKLEPIF KYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALPREKRAEFSAQKLEPIFAKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYE 
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYEG  107
+
+
+>WP_075431234.1 Darcynin 1 [Acinetobacter calcoaceticus]
+Length=109
+
+ Score = 172 bits (436),  Expect = 3e-054, Method: Compositional matrix adjust.
+ Identities = 84/90 (93%), Positives = 87/90 (97%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFS QKLEPIFEKYP+VKVRWYD+EAFS KASDIAV ETTSLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSTQKLEPIFEKYPTVKVRWYDIEAFSAKASDIAVLETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_002133772.1 darcynin 2 [Acinetobacter baumannii]
+Length=109
+
+ Score = 172 bits (436),  Expect = 3e-054, Method: Compositional matrix adjust.
+ Identities = 86/90 (96%), Positives = 88/90 (98%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFS QKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSTQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEF TVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSEFYTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_005075181.1 darcynin 2 [Acinetobacter pittii]
+Length=92
+
+ Score = 171 bits (434),  Expect = 3e-054, Method: Compositional matrix adjust.
+ Identities = 85/90 (94%), Positives = 87/90 (97%), Gaps = 0/90 (0%)
+
+Query  1   MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+           MALAREKRAEFSAQKLEPIF+ YP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  1   MALAREKRAEFSAQKLEPIFDMYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+
+Query  61  IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+           IRDS FCTVPYFEFVEIIPAIEDGYVEY S
+Sbjct  61  IRDSAFCTVPYFEFVEIIPAIEDGYVEYGS  90
+
+
+>WP_032004306.1 MULTISPECIES: darcynin [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=109
+
+ Score = 172 bits (436),  Expect = 3e-054, Method: Compositional matrix adjust.
+ Identities = 85/90 (94%), Positives = 87/90 (97%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFS QKLEPIF KYP+VKVRWYDVEAFSTKASDIAVFET SLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSTQKLEPIFAKYPTVKVRWYDVEAFSTKASDIAVFETKSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_005129548.1 darcynin 2 [Acinetobacter baumannii]
+Length=115
+
+ Score = 172 bits (436),  Expect = 3e-054, Method: Compositional matrix adjust.
+ Identities = 83/90 (92%), Positives = 89/90 (99%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFSAQKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFET+SLQDYYFV+DA
+Sbjct  18   LALAREKRAEFSAQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETSSLQDYYFVVDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSE CTVPYFEFV+IIPAIEDGY+EYES
+Sbjct  78   IRDSELCTVPYFEFVDIIPAIEDGYLEYES  107
+
+
+>WP_083009125.1 Darcynin 1 [Acinetobacter nosocomialis]
+Length=109
+
+ Score = 172 bits (435),  Expect = 4e-054, Method: Compositional matrix adjust.
+ Identities = 86/90 (96%), Positives = 88/90 (98%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFSAQKLEPIFEKY +VKVRWYDVEAFS KASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSAQKLEPIFEKYSTVKVRWYDVEAFSPKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_032047152.1 darcynin [Acinetobacter baumannii]
+Length=109
+
+ Score = 172 bits (435),  Expect = 4e-054, Method: Compositional matrix adjust.
+ Identities = 84/90 (93%), Positives = 87/90 (97%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL REKRAEFS QKLEPIF KYP+VKVRWYD+EAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALPREKRAEFSTQKLEPIFAKYPTVKVRWYDIEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_049067469.1 Darcynin 1 [Acinetobacter baumannii]
+Length=109
+
+ Score = 172 bits (435),  Expect = 4e-054, Method: Compositional matrix adjust.
+ Identities = 84/90 (93%), Positives = 88/90 (98%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL REKRAEFS QKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDY+FVIDA
+Sbjct  18   LALPREKRAEFSTQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYHFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDS+FCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSKFCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_071243914.1 Darcynin 1 [Acinetobacter baumannii]
+Length=109
+
+ Score = 172 bits (435),  Expect = 4e-054, Method: Compositional matrix adjust.
+ Identities = 84/90 (93%), Positives = 87/90 (97%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL REKRAEFS QKLEPIFEKYP+VKVRWYDVEAFSTKASDIA+FETTSLQDYYFVIDA
+Sbjct  18   LALPREKRAEFSTQKLEPIFEKYPTVKVRWYDVEAFSTKASDIALFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYE 
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYEG  107
+
+
+>WP_045900393.1 darcynin [Acinetobacter baumannii]
+Length=109
+
+ Score = 172 bits (435),  Expect = 4e-054, Method: Compositional matrix adjust.
+ Identities = 84/90 (93%), Positives = 87/90 (97%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL REKRAEFS QKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALPREKRAEFSTQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGY+EYE 
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYLEYEG  107
+
+
+>WP_049066050.1 Darcynin 1 [Acinetobacter seifertii]
+Length=109
+
+ Score = 171 bits (434),  Expect = 4e-054, Method: Compositional matrix adjust.
+ Identities = 84/90 (93%), Positives = 87/90 (97%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL REKRAEFS QKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTS+QDYYFVIDA
+Sbjct  18   LALTREKRAEFSVQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSMQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFC VPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSEFCKVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_000091895.1 darcynin [Acinetobacter baumannii]
+Length=109
+
+ Score = 171 bits (434),  Expect = 4e-054, Method: Compositional matrix adjust.
+ Identities = 84/90 (93%), Positives = 87/90 (97%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL REKRAEFS QKLEPI EKYP+VKVRWYDVEAFSTKASDIA+FETTSLQDYYFVIDA
+Sbjct  18   LALPREKRAEFSTQKLEPILEKYPTVKVRWYDVEAFSTKASDIALFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_029423903.1 darcynin [Acinetobacter baumannii]
+Length=116
+
+ Score = 172 bits (435),  Expect = 4e-054, Method: Compositional matrix adjust.
+ Identities = 84/88 (95%), Positives = 86/88 (98%), Gaps = 0/88 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL REKRAEFS QKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALPREKRAEFSTQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEY  88
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEY
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEY  105
+
+
+>WP_078220241.1 Darcynin 1 [Acinetobacter pittii]
+Length=109
+
+ Score = 171 bits (434),  Expect = 5e-054, Method: Compositional matrix adjust.
+ Identities = 84/90 (93%), Positives = 86/90 (96%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFS QKLEPIF KYP+VK RWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSTQKLEPIFAKYPTVKTRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYE 
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYEG  107
+
+
+>WP_003655964.1 darcynin [Acinetobacter calcoaceticus]
+Length=109
+
+ Score = 171 bits (434),  Expect = 6e-054, Method: Compositional matrix adjust.
+ Identities = 84/90 (93%), Positives = 87/90 (97%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + L REKRAEFS QKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LTLPREKRAEFSTQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYF+FVEIIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFDFVEIIPAIEDGYVEYES  107
+
+
+>WP_068613091.1 Darcynin 1 [Acinetobacter pittii]
+Length=109
+
+ Score = 171 bits (434),  Expect = 6e-054, Method: Compositional matrix adjust.
+ Identities = 84/90 (93%), Positives = 86/90 (96%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFS QKLEPI  KYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSTQKLEPILGKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYE 
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYEG  107
+
+
+>WP_031982509.1 darcynin [Acinetobacter sp. 1130196]
+Length=109
+
+ Score = 171 bits (434),  Expect = 6e-054, Method: Compositional matrix adjust.
+ Identities = 84/90 (93%), Positives = 87/90 (97%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL REKRAEFS QKLEPIF KYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALPREKRAEFSTQKLEPIFAKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGY+EYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYMEYES  107
+
+
+>WP_025465909.1 darcynin [Acinetobacter baumannii]
+Length=109
+
+ Score = 171 bits (433),  Expect = 6e-054, Method: Compositional matrix adjust.
+ Identities = 85/90 (94%), Positives = 87/90 (97%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL REKRAEFS QKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALPREKRAEFSTQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSE CTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSECCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_032026680.1 darcynin [Acinetobacter baumannii]
+Length=115
+
+ Score = 171 bits (434),  Expect = 6e-054, Method: Compositional matrix adjust.
+ Identities = 83/90 (92%), Positives = 89/90 (99%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAR+KRAEFSAQKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFET+SLQDYYFVIDA
+Sbjct  18   LALARQKRAEFSAQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETSSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSE CTVPYFEFV+IIPAIEDGY+EYES
+Sbjct  78   IRDSELCTVPYFEFVDIIPAIEDGYLEYES  107
+
+
+>WP_032053174.1 MULTISPECIES: darcynin [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=115
+
+ Score = 171 bits (434),  Expect = 6e-054, Method: Compositional matrix adjust.
+ Identities = 85/90 (94%), Positives = 87/90 (97%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFS QKLEPIFEKY +VKVRWYDVEAFSTKASDIAVFET SLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSTQKLEPIFEKYSTVKVRWYDVEAFSTKASDIAVFETISLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_019456512.1 darcynin [Acinetobacter sp. GG2]
+Length=109
+
+ Score = 171 bits (433),  Expect = 6e-054, Method: Compositional matrix adjust.
+ Identities = 84/90 (93%), Positives = 87/90 (97%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL REKRAEFSAQKLEPIFEKYP+VKVRWYDVEAFSTKASDIA+FE TSLQDYYFVIDA
+Sbjct  18   LALPREKRAEFSAQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAMFEATSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYE 
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYEG  107
+
+
+>WP_000091894.1 darcynin [Acinetobacter baumannii]
+Length=108
+
+ Score = 171 bits (433),  Expect = 7e-054, Method: Compositional matrix adjust.
+ Identities = 84/89 (94%), Positives = 87/89 (98%), Gaps = 0/89 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL REKRAEFS QKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALPREKRAEFSTQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEY+
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYK  106
+
+
+>WP_000091897.1 darcynin [Acinetobacter baumannii]
+Length=109
+
+ Score = 171 bits (433),  Expect = 7e-054, Method: Compositional matrix adjust.
+ Identities = 84/90 (93%), Positives = 87/90 (97%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFSAQKLEPIF KYP+VKVRWYDVEAFSTKASDIAVFE +SLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSAQKLEPIFAKYPTVKVRWYDVEAFSTKASDIAVFEASSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYE 
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYEG  107
+
+
+>WP_031988659.1 darcynin [Acinetobacter baumannii]
+Length=109
+
+ Score = 171 bits (433),  Expect = 8e-054, Method: Compositional matrix adjust.
+ Identities = 83/90 (92%), Positives = 88/90 (98%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAE S QKLEPIFEKYP+VKVRWYDVEAF+TKASDIAVFETTSLQDY+FVIDA
+Sbjct  18   LALAREKRAEISTQKLEPIFEKYPTVKVRWYDVEAFNTKASDIAVFETTSLQDYHFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDS+FCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSKFCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_047479881.1 Darcynin 1 [Acinetobacter baumannii]
+Length=109
+
+ Score = 171 bits (433),  Expect = 8e-054, Method: Compositional matrix adjust.
+ Identities = 84/90 (93%), Positives = 87/90 (97%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFS QKLEPIF KYP+VKVRWYDVEAFSTKASDIAVFET+SLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSTQKLEPIFGKYPTVKVRWYDVEAFSTKASDIAVFETSSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSE CTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSELCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_013198859.1 hypothetical protein [Acinetobacter oleivorans]
+Length=106
+
+ Score = 171 bits (432),  Expect = 8e-054, Method: Compositional matrix adjust.
+ Identities = 85/89 (96%), Positives = 87/89 (98%), Gaps = 0/89 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFS QKLEPIFEKY +VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSIQKLEPIFEKYSTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYE
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYE  106
+
+
+>WP_000091892.1 darcynin [Acinetobacter baumannii]
+Length=109
+
+ Score = 171 bits (433),  Expect = 8e-054, Method: Compositional matrix adjust.
+ Identities = 85/90 (94%), Positives = 87/90 (97%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL REKRAEFS QKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALPREKRAEFSTQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSE CTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSECCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_000091896.1 darcynin [Acinetobacter baumannii]
+Length=109
+
+ Score = 171 bits (433),  Expect = 8e-054, Method: Compositional matrix adjust.
+ Identities = 84/90 (93%), Positives = 86/90 (96%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL REKRAEFS QKLEP FEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALPREKRAEFSTQKLEPTFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSE CTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSELCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_033848202.1 darcynin [Acinetobacter sp. 826659]
+Length=109
+
+ Score = 171 bits (432),  Expect = 9e-054, Method: Compositional matrix adjust.
+ Identities = 83/90 (92%), Positives = 87/90 (97%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL  EKRAEFSAQKLEPIFEKYP+VK+RWYDVEAFSTKASDIAVFET SLQDYYF+IDA
+Sbjct  18   LALTHEKRAEFSAQKLEPIFEKYPTVKIRWYDVEAFSTKASDIAVFETISLQDYYFMIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_057692307.1 Darcynin 1, partial [Acinetobacter baumannii]
+Length=108
+
+ Score = 171 bits (432),  Expect = 9e-054, Method: Compositional matrix adjust.
+ Identities = 85/90 (94%), Positives = 87/90 (97%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL REKRAEFS QKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALPREKRAEFSTQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSE CTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSECCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_032056932.1 MULTISPECIES: darcynin [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=113
+
+ Score = 171 bits (433),  Expect = 9e-054, Method: Compositional matrix adjust.
+ Identities = 85/90 (94%), Positives = 87/90 (97%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL REKRAEFS QKLEPIFEKY +VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALPREKRAEFSTQKLEPIFEKYSTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_031945764.1 MULTISPECIES: darcynin [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=101
+
+ Score = 170 bits (431),  Expect = 9e-054, Method: Compositional matrix adjust.
+ Identities = 84/90 (93%), Positives = 87/90 (97%), Gaps = 0/90 (0%)
+
+Query  1   MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+           +ALAREKRAEFSAQKLEPIF+ YP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  10  LALAREKRAEFSAQKLEPIFDMYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  69
+
+Query  61  IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+           IRDS FCTVPYFEFVEIIPAIEDGYVEY S
+Sbjct  70  IRDSAFCTVPYFEFVEIIPAIEDGYVEYGS  99
+
+
+>WP_071225373.1 Darcynin 1 [Acinetobacter baumannii]
+Length=109
+
+ Score = 171 bits (432),  Expect = 1e-053, Method: Compositional matrix adjust.
+ Identities = 84/90 (93%), Positives = 87/90 (97%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL REKRAEFS QKLEPIF+KYPSVKVRWYDVEAFSTKASDIAVFET SLQDYYFVIDA
+Sbjct  18   LALPREKRAEFSTQKLEPIFDKYPSVKVRWYDVEAFSTKASDIAVFETASLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYE+
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYEN  107
+
+
+>WP_072689686.1 Darcynin 1 [Acinetobacter baumannii]
+Length=109
+
+ Score = 171 bits (432),  Expect = 1e-053, Method: Compositional matrix adjust.
+ Identities = 84/90 (93%), Positives = 88/90 (98%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFS QKL+PIFEKYP+VKVRWYDVEAFSTKASDIAV ET+SLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSTQKLDPIFEKYPTVKVRWYDVEAFSTKASDIAVCETSSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_068558335.1 MULTISPECIES: Darcynin 1 [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=101
+
+ Score = 170 bits (431),  Expect = 1e-053, Method: Compositional matrix adjust.
+ Identities = 84/90 (93%), Positives = 87/90 (97%), Gaps = 0/90 (0%)
+
+Query  1   MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+           +ALAREKRAEFSAQKLEPIF+ YP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  10  LALAREKRAEFSAQKLEPIFDMYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  69
+
+Query  61  IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+           IRDS FCTVPYFEFVEIIPAIEDGYVEY S
+Sbjct  70  IRDSAFCTVPYFEFVEIIPAIEDGYVEYGS  99
+
+
+>WP_081035443.1 Darcynin 1 [Acinetobacter pittii]
+Length=96
+
+ Score = 170 bits (430),  Expect = 1e-053, Method: Compositional matrix adjust.
+ Identities = 84/90 (93%), Positives = 88/90 (98%), Gaps = 0/90 (0%)
+
+Query  1   MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+           + LAREKRAEFSAQKLEPIFEKY +VK+RWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  5   LFLAREKRAEFSAQKLEPIFEKYLTVKIRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  64
+
+Query  61  IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+           IRDSEFCTVPYFEFVEIIPAIEDGYVEY+S
+Sbjct  65  IRDSEFCTVPYFEFVEIIPAIEDGYVEYDS  94
+
+
+>WP_039211764.1 darcynin [Acinetobacter baumannii]
+Length=115
+
+ Score = 171 bits (432),  Expect = 1e-053, Method: Compositional matrix adjust.
+ Identities = 83/90 (92%), Positives = 87/90 (97%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL REKRAEFS QKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALPREKRAEFSTQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSE CTVPYFEFV+IIPAIEDGY+EYES
+Sbjct  78   IRDSELCTVPYFEFVDIIPAIEDGYLEYES  107
+
+
+>WP_032059961.1 darcynin [Acinetobacter baumannii]
+Length=109
+
+ Score = 170 bits (431),  Expect = 2e-053, Method: Compositional matrix adjust.
+ Identities = 84/90 (93%), Positives = 87/90 (97%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL REKRAEFS QKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALPREKRAEFSTQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFC VPYFEFVEIIPAIE+GYVEYES
+Sbjct  78   IRDSEFCIVPYFEFVEIIPAIEEGYVEYES  107
+
+
+>WP_017387521.1 MULTISPECIES: darcynin [Acinetobacter]
+Length=110
+
+ Score = 170 bits (430),  Expect = 2e-053, Method: Compositional matrix adjust.
+ Identities = 84/89 (94%), Positives = 88/89 (99%), Gaps = 0/89 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFSA+KLEPIFEKY +VKVRWYDVEAFSTKASDIAVFET+SLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSAKKLEPIFEKYSTVKVRWYDVEAFSTKASDIAVFETSSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYE
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYE  106
+
+
+>WP_017897433.1 darcynin [Acinetobacter baumannii]
+Length=113
+
+ Score = 170 bits (430),  Expect = 2e-053, Method: Compositional matrix adjust.
+ Identities = 83/90 (92%), Positives = 86/90 (96%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL REKRAEFS QKLEPIF KYP+VKVRWYD+EAFSTKASDIAVFETTSLQDYYFVID 
+Sbjct  18   LALPREKRAEFSTQKLEPIFAKYPTVKVRWYDIEAFSTKASDIAVFETTSLQDYYFVIDV  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_000091891.1 darcynin [Acinetobacter baumannii]
+Length=109
+
+ Score = 169 bits (429),  Expect = 2e-053, Method: Compositional matrix adjust.
+ Identities = 83/90 (92%), Positives = 87/90 (97%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL REKRAEFS QKLEPIF+KYP+VKVRWYDVEAFSTKASDIA+FET SLQDYYFVIDA
+Sbjct  18   LALPREKRAEFSTQKLEPIFDKYPTVKVRWYDVEAFSTKASDIALFETASLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_019767942.1 MULTISPECIES: darcynin [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=109
+
+ Score = 169 bits (429),  Expect = 3e-053, Method: Compositional matrix adjust.
+ Identities = 83/90 (92%), Positives = 86/90 (96%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + LAREKRAEF+ QKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LVLAREKRAEFNTQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDS FCTVPYFEFVEIIPAIEDGYVEY S
+Sbjct  78   IRDSAFCTVPYFEFVEIIPAIEDGYVEYGS  107
+
+
+>WP_086231193.1 Darcynin 1 [Acinetobacter pittii]
+Length=106
+
+ Score = 169 bits (429),  Expect = 3e-053, Method: Compositional matrix adjust.
+ Identities = 84/90 (93%), Positives = 87/90 (97%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFSAQKLEPIF+ YP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  15   LALAREKRAEFSAQKLEPIFDMYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  74
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDS FCTVPYFEFVEIIPAIEDGYVEY S
+Sbjct  75   IRDSAFCTVPYFEFVEIIPAIEDGYVEYGS  104
+
+
+>WP_021511515.1 darcynin [Acinetobacter baumannii]
+Length=109
+
+ Score = 169 bits (429),  Expect = 3e-053, Method: Compositional matrix adjust.
+ Identities = 82/90 (91%), Positives = 87/90 (97%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFSAQKL PIF KYP+VKVRWYD+EAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSAQKLGPIFAKYPTVKVRWYDIEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSE CTVPYFEFV+IIPAIEDGYVEYE+
+Sbjct  78   IRDSELCTVPYFEFVDIIPAIEDGYVEYEN  107
+
+
+>WP_000091888.1 darcynin [Acinetobacter baumannii]
+Length=109
+
+ Score = 169 bits (428),  Expect = 4e-053, Method: Compositional matrix adjust.
+ Identities = 82/90 (91%), Positives = 87/90 (97%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL REKRAEFS QKLEPIF+KYPSVKVRWYDVEAFSTKASDIA+FETTSLQDYYFVIDA
+Sbjct  18   LALPREKRAEFSTQKLEPIFDKYPSVKVRWYDVEAFSTKASDIALFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDS+FCTVPYFEFVEIIPAI+DGYVEYE 
+Sbjct  78   IRDSDFCTVPYFEFVEIIPAIKDGYVEYEG  107
+
+
+>WP_086353512.1 Darcynin 1 [Acinetobacter pittii]
+Length=109
+
+ Score = 169 bits (427),  Expect = 6e-053, Method: Compositional matrix adjust.
+ Identities = 83/90 (92%), Positives = 86/90 (96%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + LAREKRAEF+ QKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LVLAREKRAEFNTQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IR SEFCTVPYFEFVEIIPAIEDGYVEY S
+Sbjct  78   IRASEFCTVPYFEFVEIIPAIEDGYVEYGS  107
+
+
+>WP_033852474.1 darcynin [Acinetobacter baumannii]
+Length=109
+
+ Score = 169 bits (427),  Expect = 7e-053, Method: Compositional matrix adjust.
+ Identities = 84/90 (93%), Positives = 86/90 (96%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFSAQKLEPIFE YP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSAQKLEPIFEMYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IR SEFCTVPYFEFVE IPAIEDGYVEYE 
+Sbjct  78   IRVSEFCTVPYFEFVESIPAIEDGYVEYEG  107
+
+
+>WP_031966956.1 darcynin [Acinetobacter baumannii]
+Length=109
+
+ Score = 168 bits (425),  Expect = 1e-052, Method: Compositional matrix adjust.
+ Identities = 84/90 (93%), Positives = 86/90 (96%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL REKRAEFS QKLEPIFEK P+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALPREKRAEFSTQKLEPIFEKSPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSE CTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  78   IRDSECCTVPYFEFVEIIPAIEDGYVEYES  107
+
+
+>WP_004794386.1 darcynin 2 [Acinetobacter sp. NIPH 817]
+Length=109
+
+ Score = 168 bits (425),  Expect = 1e-052, Method: Compositional matrix adjust.
+ Identities = 82/90 (91%), Positives = 86/90 (96%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL REKRAEFSAQKL+PIFEKYP+VKVRWYDVEAFS KASDIAVFET SLQDYYFVIDA
+Sbjct  18   LALPREKRAEFSAQKLDPIFEKYPTVKVRWYDVEAFSAKASDIAVFETASLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFV+IIP IEDGYVEYES
+Sbjct  78   IRDSEFCTVPYFEFVQIIPTIEDGYVEYES  107
+
+
+>WP_052775487.1 Darcynin 1, partial [Acinetobacter baumannii]
+Length=104
+
+ Score = 167 bits (424),  Expect = 1e-052, Method: Compositional matrix adjust.
+ Identities = 82/87 (94%), Positives = 86/87 (99%), Gaps = 0/87 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAR+KRAEFSAQKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFET+SLQDYYFVIDA
+Sbjct  18   LALARQKRAEFSAQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETSSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVE  87
+            IRDSE CTVPYFEFVEIIPAIEDGYVE
+Sbjct  78   IRDSELCTVPYFEFVEIIPAIEDGYVE  104
+
+
+>WP_065718949.1 Darcynin 1 [Acinetobacter baumannii]
+Length=109
+
+ Score = 167 bits (424),  Expect = 2e-052, Method: Compositional matrix adjust.
+ Identities = 81/90 (90%), Positives = 85/90 (94%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL REKRAEFS QKLEPIF KYP+VKVRWYD+EAFSTKASDIAVFETTSLQDYYFVID 
+Sbjct  18   LALPREKRAEFSTQKLEPIFAKYPTVKVRWYDIEAFSTKASDIAVFETTSLQDYYFVIDV  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGY+EYE 
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYLEYEG  107
+
+
+>WP_032033602.1 darcynin [Acinetobacter sp. 723929]
+Length=109
+
+ Score = 167 bits (423),  Expect = 2e-052, Method: Compositional matrix adjust.
+ Identities = 83/90 (92%), Positives = 87/90 (97%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEF+ QKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALAREKRAEFNTQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IR SEFCTVPYFEFVEIIPAIED YVEY+S
+Sbjct  78   IRASEFCTVPYFEFVEIIPAIEDEYVEYKS  107
+
+
+>WP_086399070.1 Darcynin 1 [Acinetobacter pittii]
+Length=111
+
+ Score = 167 bits (422),  Expect = 3e-052, Method: Compositional matrix adjust.
+ Identities = 82/89 (92%), Positives = 86/89 (97%), Gaps = 0/89 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEFS +KL PIFEKYP+VKVRWYDVEAFSTKASDIA+FETTSLQDYYFVIDA
+Sbjct  18   LALAREKRAEFSTRKLGPIFEKYPTVKVRWYDVEAFSTKASDIAMFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+            IRDSEFCT PYFEFVEIIPAIEDGYVEYE
+Sbjct  78   IRDSEFCTEPYFEFVEIIPAIEDGYVEYE  106
+
+
+>WP_032002240.1 MULTISPECIES: darcynin [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=101
+
+ Score = 166 bits (421),  Expect = 4e-052, Method: Compositional matrix adjust.
+ Identities = 83/90 (92%), Positives = 87/90 (97%), Gaps = 0/90 (0%)
+
+Query  1   MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+           +ALAREKRAEFSAQKLEPIF+ YP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  10  LALAREKRAEFSAQKLEPIFDMYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  69
+
+Query  61  IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+           IR SEFCTVPYFEFVEIIPAIED YVEY+S
+Sbjct  70  IRASEFCTVPYFEFVEIIPAIEDEYVEYKS  99
+
+
+>WP_046813244.1 darcynin [Acinetobacter pittii]
+Length=110
+
+ Score = 166 bits (421),  Expect = 4e-052, Method: Compositional matrix adjust.
+ Identities = 82/89 (92%), Positives = 85/89 (96%), Gaps = 0/89 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALAREKRAEF  QKLEPIF KYP+VK RWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LALAREKRAEFITQKLEPIFAKYPTVKFRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+            IRDSEFCTVPYFEFVEIIPAIEDGY+EYE
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYLEYE  106
+
+
+>WP_068791331.1 Darcynin 1, partial [Acinetobacter sp. 1475718]
+Length=106
+
+ Score = 166 bits (421),  Expect = 5e-052, Method: Compositional matrix adjust.
+ Identities = 81/90 (90%), Positives = 85/90 (94%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + LAREKRAEF+ QKLEPIF+ YP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  15   LVLAREKRAEFNTQKLEPIFDMYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  74
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDS FCTVPYFEFVEIIPAIEDGYVEY S
+Sbjct  75   IRDSAFCTVPYFEFVEIIPAIEDGYVEYGS  104
+
+
+>WP_079377726.1 Darcynin 1 [Acinetobacter baumannii]
+Length=101
+
+ Score = 166 bits (420),  Expect = 5e-052, Method: Compositional matrix adjust.
+ Identities = 82/90 (91%), Positives = 86/90 (96%), Gaps = 0/90 (0%)
+
+Query  1   MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+           + LAREKRAEF+ QKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  10  LVLAREKRAEFNTQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  69
+
+Query  61  IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+           IR SEFCTVPYFEFVEIIPAIED YVEY+S
+Sbjct  70  IRASEFCTVPYFEFVEIIPAIEDEYVEYKS  99
+
+
+>WP_005803282.1 MULTISPECIES: darcynin 2 [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=109
+
+ Score = 166 bits (420),  Expect = 6e-052, Method: Compositional matrix adjust.
+ Identities = 82/90 (91%), Positives = 86/90 (96%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + LAREKRAEF+ QKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LVLAREKRAEFNTQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IR SEFCTVPYFEFVEIIPAIED YVEY+S
+Sbjct  78   IRASEFCTVPYFEFVEIIPAIEDEYVEYKS  107
+
+
+>WP_081313733.1 Darcynin 1 [Acinetobacter pittii]
+Length=98
+
+ Score = 166 bits (419),  Expect = 7e-052, Method: Compositional matrix adjust.
+ Identities = 82/87 (94%), Positives = 84/87 (97%), Gaps = 0/87 (0%)
+
+Query  3   LAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDAIR  62
+           L REKRAEFS QKLEPIFEKY +VK+RWYDVEAFSTKASDIAVFETTSLQDYYFVIDAIR
+Sbjct  8   LPREKRAEFSTQKLEPIFEKYSTVKIRWYDVEAFSTKASDIAVFETTSLQDYYFVIDAIR  67
+
+Query  63  DSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+           DSEFCTVPYFEFVEIIPAIEDGYVEYE
+Sbjct  68  DSEFCTVPYFEFVEIIPAIEDGYVEYE  94
+
+
+>WP_032024609.1 darcynin [Acinetobacter baumannii]
+Length=109
+
+ Score = 165 bits (417),  Expect = 2e-051, Method: Compositional matrix adjust.
+ Identities = 82/90 (91%), Positives = 85/90 (94%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + LAREKRAEF+ QKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LVLAREKRAEFNTQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IR SEFCTVPYFEFVEIIPAIED YVEY S
+Sbjct  78   IRASEFCTVPYFEFVEIIPAIEDEYVEYGS  107
+
+
+>WP_026055564.1 Darcynin 1 [Acinetobacter calcoaceticus]
+Length=111
+
+ Score = 165 bits (417),  Expect = 2e-051, Method: Compositional matrix adjust.
+ Identities = 81/90 (90%), Positives = 85/90 (94%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL REKRAEF+ QKLEPIFEKYP+VKVRWYDVEAFS KA DIA+FE TSLQDYYFVIDA
+Sbjct  16   LALPREKRAEFNTQKLEPIFEKYPTVKVRWYDVEAFSAKAIDIAMFEATSLQDYYFVIDA  75
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYES
+Sbjct  76   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  105
+
+
+>WP_068930796.1 Darcynin 1 [Acinetobacter pittii]
+Length=109
+
+ Score = 164 bits (416),  Expect = 2e-051, Method: Compositional matrix adjust.
+ Identities = 81/90 (90%), Positives = 86/90 (96%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL REKRAEFS QKLE IFEKY +VKVRWYDVEAFSTKA+DIAVFETTSLQDYYF+IDA
+Sbjct  18   LALPREKRAEFSTQKLERIFEKYSTVKVRWYDVEAFSTKATDIAVFETTSLQDYYFMIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IRDSEFCTVPYFEFVEIIPAIEDGYVEYE+
+Sbjct  78   IRDSEFCTVPYFEFVEIIPAIEDGYVEYEN  107
+
+
+>WP_081405347.1 Darcynin 1, partial [Acinetobacter sp. 1475718]
+Length=96
+
+ Score = 164 bits (414),  Expect = 4e-051, Method: Compositional matrix adjust.
+ Identities = 81/87 (93%), Positives = 84/87 (97%), Gaps = 0/87 (0%)
+
+Query  1   MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+           +ALAREKRAEFSAQKLEPIF+ YP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  10  LALAREKRAEFSAQKLEPIFDMYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  69
+
+Query  61  IRDSEFCTVPYFEFVEIIPAIEDGYVE  87
+           IR S FCTVPYFEFVEIIPAIEDGYVE
+Sbjct  70  IRASAFCTVPYFEFVEIIPAIEDGYVE  96
+
+
+>WP_031968998.1 darcynin [Acinetobacter sp. 225588]
+Length=109
+
+ Score = 163 bits (412),  Expect = 1e-050, Method: Compositional matrix adjust.
+ Identities = 81/90 (90%), Positives = 85/90 (94%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + LAREKRAEF+ QKLEPIFEK P+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18   LVLAREKRAEFNTQKLEPIFEKSPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            IR SEFCTVPYFEFVEIIPAIED YVEY+S
+Sbjct  78   IRASEFCTVPYFEFVEIIPAIEDEYVEYKS  107
+
+
+>WP_069031757.1 Darcynin 1, partial [Acinetobacter pittii]
+Length=94
+
+ Score = 145 bits (367),  Expect = 6e-044, Method: Compositional matrix adjust.
+ Identities = 71/77 (92%), Positives = 74/77 (96%), Gaps = 0/77 (0%)
+
+Query  1   MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+           + LAREKRAEF+ QKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA
+Sbjct  18  LVLAREKRAEFNTQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  77
+
+Query  61  IRDSEFCTVPYFEFVEI  77
+           IR SEFCTVPYFEFVEI
+Sbjct  78  IRASEFCTVPYFEFVEI  94
+
+
+>WP_079283091.1 Darcynin 1 [Acinetobacter baumannii]
+Length=74
+
+ Score = 132 bits (333),  Expect = 5e-039, Method: Compositional matrix adjust.
+ Identities = 65/72 (90%), Positives = 68/72 (94%), Gaps = 0/72 (0%)
+
+Query  19  IFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDAIRDSEFCTVPYFEFVEII  78
+           +FEK P+ KVRWYDVEAFSTKAS IA+FET SLQDYYFVIDAIRDSEFCTVPYFEFVEII
+Sbjct  1   MFEKCPTAKVRWYDVEAFSTKASGIAMFETISLQDYYFVIDAIRDSEFCTVPYFEFVEII  60
+
+Query  79  PAIEDGYVEYES  90
+           PAIEDGYVEYES
+Sbjct  61  PAIEDGYVEYES  72
+
+
+>WP_069322292.1 Darcynin 1, partial [Acinetobacter baumannii]
+Length=67
+
+ Score = 130 bits (328),  Expect = 2e-038, Method: Compositional matrix adjust.
+ Identities = 65/65 (100%), Positives = 65/65 (100%), Gaps = 0/65 (0%)
+
+Query  26  VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDAIRDSEFCTVPYFEFVEIIPAIEDGY  85
+           VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDAIRDSEFCTVPYFEFVEIIPAIEDGY
+Sbjct  1   VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDAIRDSEFCTVPYFEFVEIIPAIEDGY  60
+
+Query  86  VEYES  90
+           VEYES
+Sbjct  61  VEYES  65
+
+
+>WP_071243315.1 Darcynin 1, partial [Acinetobacter baumannii]
+Length=84
+
+ Score = 130 bits (327),  Expect = 6e-038, Method: Compositional matrix adjust.
+ Identities = 63/67 (94%), Positives = 66/67 (99%), Gaps = 0/67 (0%)
+
+Query  1   MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+           +AL REKRAEFSAQKLEPIFEKYP+VKVRWYDVEAFSTKASDIA+FETTSLQDYYFVIDA
+Sbjct  18  LALPREKRAEFSAQKLEPIFEKYPTVKVRWYDVEAFSTKASDIALFETTSLQDYYFVIDA  77
+
+Query  61  IRDSEFC  67
+           IRDSEFC
+Sbjct  78  IRDSEFC  84
+
+
+>WP_045792474.1 darcynin [Acinetobacter brisouii]
+Length=109
+
+ Score = 126 bits (316),  Expect = 5e-036, Method: Compositional matrix adjust.
+ Identities = 56/90 (62%), Positives = 76/90 (84%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + L+RE R +F+AQ ++PI ++Y +V VRWYD EAF+TK SDIAVFET SL+DYYFV+DA
+Sbjct  18   LRLSREDRNKFNAQIIQPILKQYSAVNVRWYDAEAFTTKTSDIAVFETDSLRDYYFVVDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            +RDS   +VPYFE ++IIPA+E+GY+EYE+
+Sbjct  78   LRDSPMFSVPYFELMDIIPAVEEGYLEYEA  107
+
+
+>WP_004820336.1 hypothetical protein [Acinetobacter guillouiae]
+Length=109
+
+ Score = 125 bits (313),  Expect = 1e-035, Method: Compositional matrix adjust.
+ Identities = 58/88 (66%), Positives = 71/88 (81%), Gaps = 0/88 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL RE R     + ++ I +KY SVKVRWYD EAF+ +ASDIAVFET+SLQ+YYFVIDA
+Sbjct  18   LALPREYRNNLGEKTIQEILKKYKSVKVRWYDAEAFNARASDIAVFETSSLQEYYFVIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEY  88
+            +RDSE  + PYFE VEIIPA+EDGY+EY
+Sbjct  78   LRDSEIFSTPYFELVEIIPAVEDGYIEY  105
+
+
+>WP_019101728.1 MULTISPECIES: hypothetical protein [Chromobacterium]
+Length=112
+
+ Score = 117 bits (292),  Expect = 2e-032, Method: Compositional matrix adjust.
+ Identities = 48/90 (53%), Positives = 76/90 (84%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + L+R +R +F A+ L PI+ +YP+V++RW+D EAF+T+ SDIA+FET S++D+Y++IDA
+Sbjct  18   LRLSRPERRQFEAETLRPIYARYPAVRMRWFDAEAFTTRCSDIALFETESIKDFYYLIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            +RDS+  T PYFEFV+I+PA+EDG+ +Y++
+Sbjct  78   LRDSKLVTEPYFEFVDILPAVEDGFRDYDA  107
+
+
+>WP_043634998.1 darcynin [Chromobacterium haemolyticum]
+Length=112
+
+ Score = 117 bits (292),  Expect = 2e-032, Method: Compositional matrix adjust.
+ Identities = 48/90 (53%), Positives = 76/90 (84%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + L+R +R +F A+ L PI+ +YP+V++RW+D EAF+T+ SDIA+FET S++D+Y++IDA
+Sbjct  18   LRLSRPERRQFEAETLRPIYARYPAVRMRWFDAEAFTTRCSDIALFETESIKDFYYLIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            +RDS+  T PYFEFV+I+PA+EDG+ +Y++
+Sbjct  78   LRDSKLVTEPYFEFVDILPAVEDGFRDYDA  107
+
+
+>WP_048413081.1 hypothetical protein [Chromobacterium sp. LK11]
+Length=112
+
+ Score = 116 bits (290),  Expect = 5e-032, Method: Compositional matrix adjust.
+ Identities = 47/90 (52%), Positives = 76/90 (84%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + L+R +R +F A+ L PI+ +YP+V++RW+D EAF+T+ SDIA+FET S++D+Y++IDA
+Sbjct  18   LRLSRPERRQFEAETLRPIYARYPAVRMRWFDAEAFTTRCSDIALFETESIKDFYYLIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            +RDS+  T PYFEFV+I+PA+E+G+ +Y++
+Sbjct  78   LRDSKLATEPYFEFVDILPAVENGFRDYDA  107
+
+
+>WP_043571824.1 MULTISPECIES: hypothetical protein [Chromobacterium]
+Length=111
+
+ Score = 115 bits (288),  Expect = 1e-031, Method: Compositional matrix adjust.
+ Identities = 48/90 (53%), Positives = 75/90 (83%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + L+R +R  F A+ L PI+E+YP+V++RW+D EAF+ + SDIA+FET S++++Y++IDA
+Sbjct  18   LRLSRPERRRFEAETLRPIYERYPAVRMRWFDAEAFTGRCSDIALFETESIREFYYLIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            +RDS+  T PYFEF++IIPA+EDG+ EY++
+Sbjct  78   LRDSKIATEPYFEFLDIIPAVEDGFREYDA  107
+
+
+>WP_047249200.1 hypothetical protein [Chromobacterium subtsugae]
+Length=111
+
+ Score = 115 bits (287),  Expect = 1e-031, Method: Compositional matrix adjust.
+ Identities = 48/90 (53%), Positives = 75/90 (83%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + L+R +R  F A+ L PI+E+YP+V++RW+D EAF+ + SDIA+FET S++++Y++IDA
+Sbjct  18   LRLSRPERRRFEAETLRPIYERYPAVRMRWFDAEAFTGRCSDIALFETESIREFYYLIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            +RDS+  T PYFEF++IIPA+EDG+ EY++
+Sbjct  78   LRDSKIATEPYFEFLDIIPAVEDGFREYDA  107
+
+
+>WP_047243089.1 hypothetical protein [Chromobacterium subtsugae]
+Length=111
+
+ Score = 114 bits (284),  Expect = 4e-031, Method: Compositional matrix adjust.
+ Identities = 47/90 (52%), Positives = 74/90 (82%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + L+R +R  F  + L PI+E+YP+V++RW+D EAF+ + SDIA+FET S++++Y++IDA
+Sbjct  18   LRLSRPERRRFETETLRPIYERYPAVRMRWFDAEAFTGRCSDIALFETESIREFYYLIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            +RDS+  T PYFEF++IIPA+EDG+ EY++
+Sbjct  78   LRDSKIATEPYFEFLDIIPAVEDGFREYDA  107
+
+
+>WP_048410075.1 hypothetical protein [Chromobacterium sp. LK1]
+Length=112
+
+ Score = 114 bits (284),  Expect = 5e-031, Method: Compositional matrix adjust.
+ Identities = 46/90 (51%), Positives = 74/90 (82%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + L+R +R  F  + L+PI+ +YP+V++RW+D EAF+T+ SDIA+FET S++D+Y++IDA
+Sbjct  18   LRLSRPERRRFETETLKPIYARYPAVRMRWFDAEAFTTRCSDIALFETESIKDFYYLIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            +RDS   T P+FEFV+I+PA+EDG+ +Y++
+Sbjct  78   LRDSRLVTEPFFEFVDILPAVEDGFRDYDA  107
+
+
+>WP_081548903.1 hypothetical protein [Chromobacterium haemolyticum]
+Length=112
+
+ Score = 113 bits (283),  Expect = 7e-031, Method: Compositional matrix adjust.
+ Identities = 46/90 (51%), Positives = 73/90 (81%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + L+R +R  F  + L PI+ +YP+V++RW+D EAF+ + SDIA+FET S++D+Y++IDA
+Sbjct  18   LRLSRPERRRFETETLRPIYARYPTVRMRWFDAEAFTARCSDIALFETESIKDFYYLIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            +RDS+  T PYFEFV+I+PA+EDG+ +Y++
+Sbjct  78   LRDSKLLTEPYFEFVDILPAVEDGFRDYDA  107
+
+
+>WP_071115713.1 Darcynin [Chromobacterium sp. 37-2]
+Length=111
+
+ Score = 110 bits (275),  Expect = 8e-030, Method: Compositional matrix adjust.
+ Identities = 46/90 (51%), Positives = 74/90 (82%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + L+R +R  F A+ L+PI+ +Y +V++RW+D EAF+ + SDIA+FET S++D+Y++IDA
+Sbjct  18   LRLSRPERRRFEAEVLQPIYARYAAVRMRWFDAEAFTGRCSDIALFETKSIKDFYYLIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            +RDS+  T PYFEF++IIPA+E+G+ EY++
+Sbjct  78   LRDSKIGTEPYFEFLDIIPAVENGFREYDA  107
+
+
+>WP_043623883.1 MULTISPECIES: hypothetical protein [Chromobacterium]
+Length=111
+
+ Score = 109 bits (273),  Expect = 2e-029, Method: Compositional matrix adjust.
+ Identities = 46/90 (51%), Positives = 70/90 (78%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + L+R +R  F  + L+PI+ ++P VK+RW+D EAF+T+ SD+A+FE  S + +YF+IDA
+Sbjct  18   LRLSRPERRRFEQETLQPIYARFPGVKMRWFDAEAFTTRCSDVAMFEAESAKAFYFLIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            +RDS   T PYFEFV+IIPA+EDG+ +Y++
+Sbjct  78   LRDSPLMTEPYFEFVDIIPAVEDGFRDYDA  107
+
+
+>WP_070980562.1 Darcynin [Chromobacterium vaccinii]
+Length=111
+
+ Score = 108 bits (271),  Expect = 4e-029, Method: Compositional matrix adjust.
+ Identities = 46/90 (51%), Positives = 70/90 (78%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + L+R +R  F    L+PI+ +YP V++RW+D EAF+ + SD+A+FET S+Q +Y++IDA
+Sbjct  18   LRLSRPERRRFEDDTLKPIYARYPEVRMRWFDAEAFTARCSDVAMFETESVQAFYYLIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            +RDS   T PYFEFV+IIPA+EDG+ +Y++
+Sbjct  78   LRDSPLMTEPYFEFVDIIPAVEDGFRDYDA  107
+
+
+>WP_046168304.1 darcynin [Chromobacterium vaccinii]
+Length=110
+
+ Score = 108 bits (269),  Expect = 8e-029, Method: Compositional matrix adjust.
+ Identities = 46/90 (51%), Positives = 69/90 (77%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + L+R +R  F    L+PI+ +YP V++RW+D EAF+ + SD+A+FET S Q +Y++IDA
+Sbjct  18   LRLSRPERRRFEDDTLKPIYARYPEVRMRWFDAEAFTARCSDVAMFETESAQAFYYLIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            +RDS   T PYFEFV+IIPA+EDG+ +Y++
+Sbjct  78   LRDSPLMTEPYFEFVDIIPAVEDGFRDYDA  107
+
+
+>WP_046157895.1 darcynin [Chromobacterium vaccinii]
+Length=111
+
+ Score = 107 bits (268),  Expect = 9e-029, Method: Compositional matrix adjust.
+ Identities = 46/90 (51%), Positives = 69/90 (77%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + L+R +R  F    L+PI+ +YP V++RW+D EAF+ + SD+A+FET S Q +Y++IDA
+Sbjct  18   LRLSRPERRRFEDDTLKPIYARYPEVRMRWFDAEAFTARCSDVAMFETESAQAFYYLIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            +RDS   T PYFEFV+IIPA+EDG+ +Y++
+Sbjct  78   LRDSPLMTEPYFEFVDIIPAVEDGFRDYDA  107
+
+
+>WP_021475045.1 hypothetical protein [Pseudogulbenkiania ferrooxidans]
+Length=111
+
+ Score = 107 bits (267),  Expect = 1e-028, Method: Compositional matrix adjust.
+ Identities = 45/90 (50%), Positives = 70/90 (78%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + L+R +R  F    L+PI+ +YP V++RW+D EAF+ + SD+A+FET S+Q +Y++IDA
+Sbjct  18   LRLSRPERRRFEDDTLKPIYARYPEVRMRWFDAEAFTARCSDVAMFETESVQAFYYLIDA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            +RDS   T PYFEFV+IIPA+E+G+ +Y++
+Sbjct  78   LRDSPLMTEPYFEFVDIIPAVENGFRDYDA  107
+
+
+>WP_011978322.1 hypothetical protein [Marinomonas sp. MWYL1]
+Length=113
+
+ Score = 107 bits (267),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 48/90 (53%), Positives = 71/90 (79%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            ++L+RE+R  +  + +  IF +YP V VR +D EAF+T+ SDIAV+ET +LQ+YYF+I+A
+Sbjct  18   LSLSREERNRYFTETIGDIFARYPDVSVRLFDCEAFTTRCSDIAVYETENLQNYYFLIEA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            +RDS+  TVPYFE V+I PA+E+G+ EYE+
+Sbjct  78   LRDSQIFTVPYFEVVDIFPALENGFKEYEA  107
+
+
+>WP_067012479.1 Darcynin 1 [Marinomonas spartinae]
+Length=114
+
+ Score = 107 bits (266),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 49/90 (54%), Positives = 70/90 (78%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            ++L+RE+R  +  + +  IF +YP V VR YD EAF+T+ SDIAV+ET +LQ YYF+I+A
+Sbjct  18   LSLSREERNRYFTETIGDIFARYPDVSVRLYDCEAFTTRCSDIAVYETENLQHYYFLIEA  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            +RDS+  TVPYFE V+I PA+E+G+ EYE+
+Sbjct  78   LRDSQVFTVPYFEVVDIFPALENGFEEYEA  107
+
+
+>WP_068558400.1 Darcynin 1, partial [Acinetobacter pittii]
+Length=71
+
+ Score = 102 bits (255),  Expect = 3e-027, Method: Compositional matrix adjust.
+ Identities = 49/54 (91%), Positives = 52/54 (96%), Gaps = 0/54 (0%)
+
+Query  1   MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDY  54
+           + LAREKRAEF+ QKLEPIFEKYP+VKVRWYDVEAFSTKASDIAVFETTSLQDY
+Sbjct  18  LVLAREKRAEFNTQKLEPIFEKYPTVKVRWYDVEAFSTKASDIAVFETTSLQDY  71
+
+
+>WP_081572891.1 Darcynin [Chromobacterium violaceum]
+Length=111
+
+ Score = 100 bits (250),  Expect = 5e-026, Method: Compositional matrix adjust.
+ Identities = 42/75 (56%), Positives = 62/75 (83%), Gaps = 0/75 (0%)
+
+Query  16   LEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDAIRDSEFCTVPYFEFV  75
+            L+PI+ +YP V++RW+D EAFS + SD+A+FET S+  +Y++IDA+RDS   T PYFEFV
+Sbjct  33   LKPIYARYPEVRMRWFDAEAFSARCSDVAMFETESVPAFYYLIDALRDSPLMTKPYFEFV  92
+
+Query  76   EIIPAIEDGYVEYES  90
+            +IIPA+EDG+ +Y++
+Sbjct  93   DIIPAVEDGFRDYDA  107
+
+
+>WP_076225572.1 Darcynin [Chromobacterium pseudoviolaceum]
+Length=111
+
+ Score = 100 bits (250),  Expect = 6e-026, Method: Compositional matrix adjust.
+ Identities = 42/75 (56%), Positives = 62/75 (83%), Gaps = 0/75 (0%)
+
+Query  16   LEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDAIRDSEFCTVPYFEFV  75
+            L+PI+ +YP V++RW+D EAFS + SD+A+FET S+  +Y++IDA+RDS   T PYFEFV
+Sbjct  33   LKPIYARYPEVRMRWFDAEAFSARCSDVAMFETESVPAFYYLIDALRDSPLMTKPYFEFV  92
+
+Query  76   EIIPAIEDGYVEYES  90
+            +IIPA+EDG+ +Y++
+Sbjct  93   DIIPAVEDGFRDYDA  107
+
+
+>WP_043596910.1 darcynin [Chromobacterium violaceum]
+Length=111
+
+ Score = 100 bits (249),  Expect = 8e-026, Method: Compositional matrix adjust.
+ Identities = 42/75 (56%), Positives = 62/75 (83%), Gaps = 0/75 (0%)
+
+Query  16   LEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDAIRDSEFCTVPYFEFV  75
+            L+PI+ +YP V++RW+D EAFS + SD+A+FET S+  +Y++IDA+RDS   T PYFEFV
+Sbjct  33   LKPIYARYPEVRMRWFDAEAFSARCSDVAMFETESVPAFYYLIDALRDSPLMTEPYFEFV  92
+
+Query  76   EIIPAIEDGYVEYES  90
+            +IIPA+EDG+ +Y++
+Sbjct  93   DIIPAVEDGFRDYDA  107
+
+
+>WP_081526100.1 Darcynin [Chromobacterium violaceum]
+Length=111
+
+ Score = 100 bits (248),  Expect = 1e-025, Method: Compositional matrix adjust.
+ Identities = 42/75 (56%), Positives = 62/75 (83%), Gaps = 0/75 (0%)
+
+Query  16   LEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDAIRDSEFCTVPYFEFV  75
+            L+PI+ +YP V++RW+D EAFS + SD+A+FET S+  +Y++IDA+RDS   T PYFEFV
+Sbjct  33   LKPIYARYPEVRMRWFDAEAFSARCSDVAMFETESVPAFYYLIDALRDSPLMTEPYFEFV  92
+
+Query  76   EIIPAIEDGYVEYES  90
+            +IIPA+EDG+ +Y++
+Sbjct  93   DIIPAVEDGFRDYDA  107
+
+
+>WP_004737274.1 hypothetical protein [Vibrio splendidus]
+Length=99
+
+ Score = 91.7 bits (226),  Expect = 2e-022, Method: Compositional matrix adjust.
+ Identities = 40/90 (44%), Positives = 60/90 (67%), Gaps = 0/90 (0%)
+
+Query  1   MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+           + L+R  R  + AQ    +F KYP V +R +D EAF+   SDI +FET  +Q YYF+++ 
+Sbjct  8   LQLSRNDRNSYFAQLNHDVFAKYPGVHIRLFDAEAFTACCSDIVMFETEDIQSYYFLVEE  67
+
+Query  61  IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+           +RDS+  T PYF+ + I PAIE+G++E+E 
+Sbjct  68  LRDSKIYTKPYFDVISIFPAIENGFLEFEG  97
+
+
+>WP_044440746.1 MULTISPECIES: hypothetical protein [Agreia]
+Length=117
+
+ Score = 85.1 bits (209),  Expect = 1e-019, Method: Compositional matrix adjust.
+ Identities = 35/90 (39%), Positives = 56/90 (62%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + L+R  RA+  A ++EP    +P  ++RW D E+ +   SD+ + ETT L+++  + + 
+Sbjct  21   LRLSRTARADVIATEVEPAMAAHPECRIRWIDAESLTALCSDVMLVETTDLRNWNHLWER  80
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            +RDS     PYFE V I+P IEDGY +YE+
+Sbjct  81   LRDSSLFAEPYFELVSIVPGIEDGYADYEA  110
+
+
+>WP_029697763.1 hypothetical protein [Franconibacter pulveris]
+Length=108
+
+ Score = 81.3 bits (199),  Expect = 3e-018, Method: Compositional matrix adjust.
+ Identities = 38/89 (43%), Positives = 56/89 (63%), Gaps = 1/89 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + L R +R   +   L  +      V +R +D EAF+TK +D+A+F+   +Q +YF I+ 
+Sbjct  15   LRLERAERNRIADSVLSTVLSD-NKVTLRMFDAEAFTTKCTDVAMFQAEDMQAFYFAIER  73
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+            +RDSE  T PYFE VEIIP IEDG+ ++E
+Sbjct  74   LRDSELITTPYFEMVEIIPTIEDGFKDFE  102
+
+
+>WP_045934451.1 hypothetical protein [Streptomyces sp. NRRL B-1568]
+Length=115
+
+ Score = 81.3 bits (199),  Expect = 3e-018, Method: Compositional matrix adjust.
+ Identities = 40/91 (44%), Positives = 56/91 (62%), Gaps = 1/91 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPS-VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVID  59
+            +AL+RE+R    AQ LEP+F  Y   VK R++D EAF+ + SD AV ET  L  YYF+I+
+Sbjct  16   LALSREQRNAMRAQHLEPVFAAYADRVKARFFDAEAFNGRISDFAVLETEDLGAYYFLIE  75
+
+Query  60   AIRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            A+RD+      Y  F ++   +EDG+  YE 
+Sbjct  76   ALRDTPVIAEGYLTFNDVFLGVEDGFHAYEQ  106
+
+
+>WP_024553890.1 hypothetical protein [Franconibacter helveticus]
+Length=108
+
+ Score = 80.1 bits (196),  Expect = 8e-018, Method: Compositional matrix adjust.
+ Identities = 35/65 (54%), Positives = 48/65 (74%), Gaps = 0/65 (0%)
+
+Query  25   SVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDAIRDSEFCTVPYFEFVEIIPAIEDG  84
+            SV +R +D EAF+TK +D+A+F+   +Q +YF I+ +RDSE  T PYFE VEIIP IEDG
+Sbjct  38   SVTLRMFDAEAFTTKCTDVAMFQAEDMQAFYFAIERLRDSELITKPYFEMVEIIPTIEDG  97
+
+Query  85   YVEYE  89
+            +  +E
+Sbjct  98   FKAFE  102
+
+
+>WP_035281420.1 hypothetical protein [Actinokineospora spheciospongiae]
+Length=112
+
+ Score = 80.1 bits (196),  Expect = 9e-018, Method: Compositional matrix adjust.
+ Identities = 35/85 (41%), Positives = 53/85 (62%), Gaps = 0/85 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + L+R +RA  + + L      +P    R++D EAFS + SD+ +F TT L DYY V++ 
+Sbjct  24   LRLSRPERAAVADKTLGAALRGHPRTTARFFDAEAFSARCSDVLLFTTTDLADYYLVVEE  83
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGY  85
+            +RDS   TVPYF   E++ A+EDG+
+Sbjct  84   LRDSPLFTVPYFHLDELVLAVEDGH  108
+
+
+>WP_024560486.1 MULTISPECIES: hypothetical protein [Franconibacter]
+Length=108
+
+ Score = 79.7 bits (195),  Expect = 1e-017, Method: Compositional matrix adjust.
+ Identities = 38/89 (43%), Positives = 55/89 (62%), Gaps = 1/89 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + L R +R   +   L  +      V +R +D EAF+TK +D+A+F+   +Q +YF I+ 
+Sbjct  15   LRLERAERNRIADSVLSTVLSD-NKVTLRMFDAEAFTTKCTDVAMFQAEDMQAFYFAIER  73
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+            +RDSE  T PYFE VEIIP IEDG+  +E
+Sbjct  74   LRDSELITTPYFEMVEIIPTIEDGFKAFE  102
+
+
+>WP_083102957.1 hypothetical protein [Streptomyces gilvosporeus]
+Length=115
+
+ Score = 79.7 bits (195),  Expect = 1e-017, Method: Compositional matrix adjust.
+ Identities = 40/90 (44%), Positives = 54/90 (60%), Gaps = 1/90 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPS-VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVID  59
+            +AL+RE+R    A  LEP+F  Y   V  R++D EAF+ + SD AV ET  L  YYF+I+
+Sbjct  16   LALSREQRNAMRAAHLEPVFAAYADRVTARFFDAEAFNGRISDFAVLETDDLGAYYFLIE  75
+
+Query  60   AIRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+            A+RD+      Y  F E+   IEDG+  YE
+Sbjct  76   ALRDTPVIAEGYLTFGEVFLGIEDGFAAYE  105
+
+
+>WP_034738290.1 hypothetical protein [Hyphomonas chukchiensis]
+Length=109
+
+ Score = 79.3 bits (194),  Expect = 2e-017, Method: Compositional matrix adjust.
+ Identities = 39/90 (43%), Positives = 60/90 (67%), Gaps = 1/90 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + L R++R+    +       ++ ++  R++D EAFS +ASD+A+FETT L+ YYF ++ 
+Sbjct  18   LRLPRDERSRIVDRAFSKALAEH-AMAFRYFDAEAFSARASDVALFETTDLRAYYFAMEH  76
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            +RDS     PYFE V+IIPAIEDGY  +E+
+Sbjct  77   LRDSPIFAEPYFEIVDIIPAIEDGYQAFEA  106
+
+
+>WP_037788554.1 hypothetical protein [Streptomyces natalensis]
+Length=115
+
+ Score = 79.3 bits (194),  Expect = 2e-017, Method: Compositional matrix adjust.
+ Identities = 39/90 (43%), Positives = 53/90 (59%), Gaps = 1/90 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPS-VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVID  59
+            +AL+RE+R    A  LEP+F  Y   V  R++D EAF  + SD AV ET  L  YYF+I+
+Sbjct  16   LALSREQRNAMRAAHLEPVFAAYADRVTARFFDAEAFHGRISDFAVLETDDLGGYYFLIE  75
+
+Query  60   AIRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+            A+RD+      Y  F E+   +EDG+  YE
+Sbjct  76   ALRDTPVIAEGYLTFGEVFLGVEDGFAAYE  105
+
+
+>WP_071380055.1 hypothetical protein [Streptomyces sp. MUSC 1]
+Length=118
+
+ Score = 79.3 bits (194),  Expect = 2e-017, Method: Compositional matrix adjust.
+ Identities = 32/89 (36%), Positives = 57/89 (64%), Gaps = 0/89 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL R +R +  A  ++P+++K+ +V+VRW+D EA++   SD+ V  T  L  +  + + 
+Sbjct  23   LALGRPQRQQIIADHVQPLWDKHDTVQVRWFDAEAWAATPSDVLVATTNDLTSWSDLFEE  82
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+            +RDS   +VPYF    ++P +EDG+ +YE
+Sbjct  83   LRDSPLWSVPYFRVDLVLPTVEDGFADYE  111
+
+
+>WP_035538686.1 hypothetical protein [Hyphomonas oceanitis]
+Length=109
+
+ Score = 79.0 bits (193),  Expect = 2e-017, Method: Compositional matrix adjust.
+ Identities = 38/90 (42%), Positives = 60/90 (67%), Gaps = 1/90 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + L R++R+  + +       ++ ++  R++D EAFS +ASD+A+FETT L+ YYF ++ 
+Sbjct  18   LRLPRDERSRIADRAFSKALGEH-AMAFRYFDAEAFSARASDVALFETTDLRAYYFAMEH  76
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            +RDS     PYFE V+IIP IEDGY  +E+
+Sbjct  77   LRDSPIFAEPYFEIVDIIPTIEDGYQAFEA  106
+
+
+>WP_078507917.1 hypothetical protein [Streptomyces sp. MspMP-M5]
+Length=121
+
+ Score = 79.3 bits (194),  Expect = 2e-017, Method: Compositional matrix adjust.
+ Identities = 32/89 (36%), Positives = 58/89 (65%), Gaps = 0/89 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL R +R +  A+ ++P+ +K+ +V+VRW+D EA++   SD+ V  T  L  +  + + 
+Sbjct  26   LALGRAERRQIIAEHVQPLLDKHAAVQVRWFDAEAWAASPSDVLVATTNDLTAWSDLFEG  85
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+            +RDS   +VPYF+   ++P +EDG+ +YE
+Sbjct  86   LRDSPLWSVPYFQVELVLPTVEDGFEDYE  114
+
+
+>WP_067355170.1 hypothetical protein [Streptomyces noursei]
+Length=115
+
+ Score = 79.0 bits (193),  Expect = 2e-017, Method: Compositional matrix adjust.
+ Identities = 39/90 (43%), Positives = 55/90 (61%), Gaps = 1/90 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPS-VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVID  59
+            +AL+RE+R    A  LEP+F  Y   V  R++D EAF+ + SD AV ET  L  YYF+I+
+Sbjct  16   LALSREQRNAMRAAHLEPVFAAYADRVTARFFDAEAFTGRVSDFAVLETEDLGAYYFLIE  75
+
+Query  60   AIRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+            A+RD+   +  Y  F +I   +EDG+  YE
+Sbjct  76   ALRDTPVISEGYLTFADIFLGVEDGFQAYE  105
+
+
+>WP_057613756.1 hypothetical protein [Streptomyces sp. Root369]
+Length=118
+
+ Score = 79.0 bits (193),  Expect = 3e-017, Method: Compositional matrix adjust.
+ Identities = 32/89 (36%), Positives = 56/89 (63%), Gaps = 0/89 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL R +R +  A  ++P+ +++ +V+VRW+D EA++   SD+ V  T  L  +  + + 
+Sbjct  23   LALGRPERQQIIADHVQPLLDRHDAVQVRWFDAEAWAAAPSDVLVATTNDLTSWSDLFEG  82
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+            +RDS   +VPYF    ++P IEDG+ +YE
+Sbjct  83   LRDSPLWSVPYFRVDLVLPTIEDGFADYE  111
+
+
+>WP_039639622.1 hypothetical protein [Streptomyces sp. 769]
+Length=115
+
+ Score = 78.6 bits (192),  Expect = 4e-017, Method: Compositional matrix adjust.
+ Identities = 38/90 (42%), Positives = 55/90 (61%), Gaps = 1/90 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPS-VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVID  59
+            +AL+RE+R    A  LEP+F  Y   V  R++D EAF+ + SD AV ET  L  YYF+++
+Sbjct  16   LALSREQRNAMRAAHLEPVFAAYADRVTARFFDAEAFTGRVSDFAVLETEDLGAYYFLVE  75
+
+Query  60   AIRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+            A+RD+   +  Y  F +I   +EDG+  YE
+Sbjct  76   ALRDTPVISEGYLTFADIFLGVEDGFQAYE  105
+
+
+>WP_051798659.1 hypothetical protein [Streptomyces sp. NRRL S-337]
+Length=115
+
+ Score = 78.2 bits (191),  Expect = 5e-017, Method: Compositional matrix adjust.
+ Identities = 39/90 (43%), Positives = 53/90 (59%), Gaps = 1/90 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPS-VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVID  59
+            +AL+RE+R    A  LEP+F  Y   V  R++D EAF  + SD AV ET  L  YYF+I+
+Sbjct  16   LALSREQRNAMRAAHLEPVFAAYADRVTARFFDAEAFHGRISDFAVLETEDLGAYYFLIE  75
+
+Query  60   AIRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+            A+RD+      Y  F E+   +EDG+  YE
+Sbjct  76   ALRDTPVIAEGYLTFGEVFLGVEDGFAAYE  105
+
+
+>WP_073446078.1 hypothetical protein [Streptomyces yunnanensis]
+Length=122
+
+ Score = 78.2 bits (191),  Expect = 7e-017, Method: Compositional matrix adjust.
+ Identities = 38/90 (42%), Positives = 55/90 (61%), Gaps = 1/90 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPS-VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVID  59
+            +AL+RE+R    A  LEP+F  Y   V  R++D EAF+ + SD AV ET  L  YYF+++
+Sbjct  16   LALSREQRNAMRAAHLEPVFAAYADRVTARFFDAEAFTGRVSDFAVLETEDLGAYYFLVE  75
+
+Query  60   AIRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+            A+RD+   +  Y  F +I   +EDG+  YE
+Sbjct  76   ALRDTPVISEGYLTFADIFLGVEDGFQAYE  105
+
+
+>WP_078871953.1 hypothetical protein [Streptomyces sp. NRRL S-337]
+Length=129
+
+ Score = 78.2 bits (191),  Expect = 7e-017, Method: Compositional matrix adjust.
+ Identities = 38/90 (42%), Positives = 56/90 (62%), Gaps = 1/90 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPS-VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVID  59
+            +AL+RE+R     + LEPIF+ Y   V  R++D EAF+ + SD AV ET  L  YYF+++
+Sbjct  25   LALSREERNAMRREHLEPIFDAYADRVTARFFDAEAFTGRVSDFAVLETDDLGAYYFLVE  84
+
+Query  60   AIRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+            A+RD+   +  Y  F +I   +EDG+  YE
+Sbjct  85   ALRDTPVISEGYLTFADIFLGVEDGFQAYE  114
+
+
+>WP_047607899.1 hypothetical protein [Rahnella aquatilis]
+Length=105
+
+ Score = 77.4 bits (189),  Expect = 9e-017, Method: Compositional matrix adjust.
+ Identities = 37/89 (42%), Positives = 56/89 (63%), Gaps = 1/89 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + L R +R   +   L  +      V +R +D EAF+TK +D+A+FE   ++ +YF I+ 
+Sbjct  15   LRLERSERNRIADTVLSTVLPD-NKVTLRMFDAEAFTTKCTDVAMFEAEDMESFYFAIER  73
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+            +RDSE  T PYFE V+IIP+IE+GY  +E
+Sbjct  74   LRDSELITKPYFEMVDIIPSIENGYKAFE  102
+
+
+>WP_045448065.1 hypothetical protein [Tepidicaulis marinus]
+Length=111
+
+ Score = 77.4 bits (189),  Expect = 1e-016, Method: Compositional matrix adjust.
+ Identities = 33/85 (39%), Positives = 55/85 (65%), Gaps = 0/85 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + L  E+R + ++    P  E +P  K+R++D EAFS + SDI   ET +L  +  ++D 
+Sbjct  20   LRLTHEERRKAASAAFAPWMENHPDAKIRYFDAEAFSGRCSDILQIETNNLAAHCGLMDR  79
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGY  85
+            +RDS+  TVPY+E ++IIP++ED +
+Sbjct  80   LRDSDLFTVPYYELIDIIPSVEDTF  104
+
+
+>WP_037807047.1 hypothetical protein [Streptomyces sp. NRRL S-1448]
+Length=120
+
+ Score = 77.4 bits (189),  Expect = 1e-016, Method: Compositional matrix adjust.
+ Identities = 38/90 (42%), Positives = 55/90 (61%), Gaps = 1/90 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPS-VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVID  59
+            +AL+RE+R     + LEPIF  Y   V  R++D EAF+ + SD AV ET  L  YYF+++
+Sbjct  16   LALSREERNAMRREHLEPIFAAYADRVTARFFDAEAFTGRVSDFAVLETDDLGAYYFLVE  75
+
+Query  60   AIRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+            A+RD+   +  Y  F +I   +EDG+  YE
+Sbjct  76   ALRDTPVISEGYLTFADIFLGVEDGFQAYE  105
+
+
+>WP_015697003.1 hypothetical protein [Rahnella aquatilis]
+Length=105
+
+ Score = 76.6 bits (187),  Expect = 2e-016, Method: Compositional matrix adjust.
+ Identities = 36/89 (40%), Positives = 56/89 (63%), Gaps = 1/89 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + L R +R   +   L  +      V +R +D EAF+TK +D+A+FE   ++ +YF I+ 
+Sbjct  15   LRLERSERNRIADTVLSTVLPD-NKVTLRMFDAEAFTTKCTDVAMFEAEDMESFYFAIER  73
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+            +RDSE  T PYFE V+IIP++E+GY  +E
+Sbjct  74   LRDSELITKPYFEMVDIIPSLENGYKAFE  102
+
+
+>WP_007855637.1 hypothetical protein [Acidovorax sp. CF316]
+Length=116
+
+ Score = 77.0 bits (188),  Expect = 2e-016, Method: Compositional matrix adjust.
+ Identities = 33/89 (37%), Positives = 54/89 (61%), Gaps = 0/89 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + L RE+R   +A+ L P+      + +R++D EAFS   SD+ + ET   + +YF ++ 
+Sbjct  16   LQLPRERRNALTAEHLHPLLGPGAGLAMRYFDAEAFSASCSDVMLVETPDPRAWYFFMER  75
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+            +RDS     PYF+ V+I+PAIE G+  +E
+Sbjct  76   LRDSPLIAHPYFDVVQIVPAIEGGFEAFE  104
+
+
+>WP_085483845.1 hypothetical protein [Agreia pratensis]
+Length=117
+
+ Score = 76.6 bits (187),  Expect = 2e-016, Method: Compositional matrix adjust.
+ Identities = 32/90 (36%), Positives = 54/90 (60%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + L+R +RA+  + ++EP    +    +RW D E+ +   SD+ + +TT L+ +  + + 
+Sbjct  21   LRLSRTERADVISAEVEPAAAAHHDCHIRWIDAESMTALCSDVMIIDTTDLRSWNHLWEQ  80
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            +RDS     PYFE V I+P IEDGY +YE+
+Sbjct  81   LRDSSLFAEPYFELVSIVPGIEDGYADYEA  110
+
+
+>WP_056060620.1 hypothetical protein [Acidovorax sp. Root402]
+Length=112
+
+ Score = 76.6 bits (187),  Expect = 2e-016, Method: Compositional matrix adjust.
+ Identities = 36/90 (40%), Positives = 56/90 (62%), Gaps = 1/90 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKY-PSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVID  59
+            + L RE+R E     L  +  +Y  ++++R +D EAF+   SD+ + ET     +Y  ++
+Sbjct  18   LRLPREQRRELGEAHLHALLPRYQGALRLRHFDAEAFAAPCSDLMLVETDDPLKHYDFME  77
+
+Query  60   AIRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+             +RDS   TVPYFE ++I+PAIEDGYV +E
+Sbjct  78   RLRDSPLLTVPYFEVLQILPAIEDGYVAFE  107
+
+
+>WP_053923674.1 hypothetical protein [Streptomyces chattanoogensis]
+Length=116
+
+ Score = 76.6 bits (187),  Expect = 3e-016, Method: Compositional matrix adjust.
+ Identities = 37/90 (41%), Positives = 54/90 (60%), Gaps = 1/90 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPS-VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVID  59
+            +AL+RE+R       LEP+F  Y   V  R++D EAF+ + SD AV ET  L  YYF+++
+Sbjct  16   LALSREERNAMRTAHLEPVFTAYADRVTARFFDAEAFTGRISDFAVLETDDLGAYYFLVE  75
+
+Query  60   AIRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+            A+RD+   +  Y  F +I   +EDG+  YE
+Sbjct  76   ALRDTPVISKGYLTFADIFLGVEDGFQAYE  105
+
+
+>WP_037381145.1 hypothetical protein [Serratia sp. ATCC 39006]
+Length=109
+
+ Score = 76.3 bits (186),  Expect = 3e-016, Method: Compositional matrix adjust.
+ Identities = 36/89 (40%), Positives = 54/89 (61%), Gaps = 1/89 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + L R +R    A  + P       V +R +D EAF+TK +D+A+F    ++ +YF I+ 
+Sbjct  15   LRLPRSERNRI-ADGVIPTVLSGGKVSLRMFDAEAFTTKCTDVAMFHADDMESFYFAIER  73
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+            +RDS   T PYFE +EIIP IEDG+ ++E
+Sbjct  74   LRDSTLITKPYFEMIEIIPTIEDGFKKFE  102
+
+
+>WP_050298020.1 darcynin [Yersinia intermedia]
+Length=70
+
+ Score = 75.1 bits (183),  Expect = 3e-016, Method: Compositional matrix adjust.
+ Identities = 32/60 (53%), Positives = 44/60 (73%), Gaps = 0/60 (0%)
+
+Query  30  WYDVEAFSTKASDIAVFETTSLQDYYFVIDAIRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+            +D EAF+TK +D+A+F+   +Q +YF I+ +RDSE  T PYFE VEIIP IEDG+  +E
+Sbjct  1   MFDAEAFTTKCTDVAMFQAKDMQSFYFCIERLRDSELITKPYFEMVEIIPTIEDGFKAFE  60
+
+
+>WP_030711121.1 hypothetical protein [Streptomyces sp. NRRL F-2580]
+Length=113
+
+ Score = 76.3 bits (186),  Expect = 3e-016, Method: Compositional matrix adjust.
+ Identities = 37/90 (41%), Positives = 53/90 (59%), Gaps = 1/90 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYP-SVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVID  59
+            +AL+R +R    A+ +EP+F  Y   V  R++D EAF  + SD AV ET  L  YYF+++
+Sbjct  16   LALSRPERGAMRAEHIEPVFAAYADRVSARFFDAEAFHGRFSDFAVLETEDLGAYYFLVE  75
+
+Query  60   AIRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+            A+RD+      Y  F EI   + DG+ EYE
+Sbjct  76   ALRDTPLIAEGYLSFGEIFLGVADGFAEYE  105
+
+
+>WP_056747353.1 hypothetical protein [Acidovorax sp. Root568]
+Length=112
+
+ Score = 76.3 bits (186),  Expect = 3e-016, Method: Compositional matrix adjust.
+ Identities = 36/90 (40%), Positives = 56/90 (62%), Gaps = 1/90 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKY-PSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVID  59
+            + L RE+R E     L  +  +Y  ++++R +D EAF+   SD+ + ET     +Y  ++
+Sbjct  18   LRLPREQRRELGEAHLHDLLPRYQGALRLRHFDAEAFAAPCSDLMLVETDDPLKHYDFME  77
+
+Query  60   AIRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+             +RDS   TVPYFE ++I+PAIEDGYV +E
+Sbjct  78   RLRDSPLLTVPYFEVLQILPAIEDGYVAFE  107
+
+
+>WP_079151287.1 hypothetical protein [Streptomyces sparsogenes]
+Length=121
+
+ Score = 76.3 bits (186),  Expect = 4e-016, Method: Compositional matrix adjust.
+ Identities = 31/89 (35%), Positives = 56/89 (63%), Gaps = 0/89 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL R +R +  A+ +EP+ E++ +V+VRW+D EA++   SD+ +  T     +  + + 
+Sbjct  26   LALGRPERQQIIAEHVEPLLERHSAVQVRWFDAEAWAAAPSDVLMATTDDPTAWSDLFEG  85
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+            +RDS   +VPYF    ++P +EDG+ +YE
+Sbjct  86   LRDSPLWSVPYFRVDMVLPTVEDGFADYE  114
+
+
+>WP_051442922.1 hypothetical protein [Curvibacter gracilis]
+Length=119
+
+ Score = 75.9 bits (185),  Expect = 6e-016, Method: Compositional matrix adjust.
+ Identities = 32/89 (36%), Positives = 55/89 (62%), Gaps = 0/89 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + L+R +R   + Q L P+  +   +++R++D EAFS   SD+ + ET     +YF ++ 
+Sbjct  18   LRLSRSERDRLARQHLTPLLGEPEHLRMRFFDAEAFSAFCSDVMMIETDDPMRHYFFMEG  77
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+            +RD+     PYFE ++I+PA+EDG+  YE
+Sbjct  78   LRDTPLIHAPYFEVLQIVPALEDGFRAYE  106
+
+
+>WP_078587862.1 hypothetical protein [Streptomyces mobaraensis]
+Length=131
+
+ Score = 75.9 bits (185),  Expect = 6e-016, Method: Compositional matrix adjust.
+ Identities = 37/90 (41%), Positives = 54/90 (60%), Gaps = 1/90 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYP-SVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVID  59
+            +AL+RE+R    A  LEP+F  +   V+ R++D EAF+ + SD  V ET  L  YYF+I+
+Sbjct  33   LALSREQRNAMRAAHLEPVFAAHADRVRARFFDAEAFTGRFSDFTVLETDDLGAYYFLIE  92
+
+Query  60   AIRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+            A+RD+      Y  F E+   +EDG+  YE
+Sbjct  93   ALRDTPVIAEGYLTFGEVFLGVEDGFEAYE  122
+
+
+>WP_075974582.1 hypothetical protein [Actinokineospora bangkokensis]
+Length=112
+
+ Score = 75.5 bits (184),  Expect = 6e-016, Method: Compositional matrix adjust.
+ Identities = 33/85 (39%), Positives = 52/85 (61%), Gaps = 0/85 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + L+R +R   +   L     ++P    R++D+EAFS ++SD+AVF T  L DYY V++ 
+Sbjct  24   LRLSRAERERVADATLGTALARHPRTTARFFDLEAFSARSSDVAVFTTRDLDDYYLVVEE  83
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGY  85
+            +RDS   T PYF   +++  IEDG+
+Sbjct  84   LRDSPLFTEPYFRLDDLLLGIEDGH  108
+
+
+>WP_012824516.1 hypothetical protein [Halothiobacillus neapolitanus]
+Length=112
+
+ Score = 75.1 bits (183),  Expect = 7e-016, Method: Compositional matrix adjust.
+ Identities = 37/90 (41%), Positives = 53/90 (59%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL+R +R E +  K+ PI +++P+V    +D EAF    SDI +F     + +YF  + 
+Sbjct  19   LALSRPERNELTQAKIFPILQEHPNVHHTHFDAEAFCGFVSDIEMFSCDDPRQFYFFFEK  78
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+             RDSE  +  YF  V I PA  DGYVEYE+
+Sbjct  79   FRDSELISKGYFTIVNIFPAYADGYVEYEN  108
+
+
+>WP_020594663.1 hypothetical protein [Spirosoma panaciterrae]
+Length=116
+
+ Score = 75.1 bits (183),  Expect = 8e-016, Method: Compositional matrix adjust.
+ Identities = 32/91 (35%), Positives = 56/91 (62%), Gaps = 1/91 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKY-PSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVID  59
+            + L R +R +    ++ PI   Y P+V  R +D E F  + SD+ +   T L+DYYF+++
+Sbjct  17   LQLTRSERNDIFTAEVAPILANYQPNVSTRLFDAETFHARVSDVLLLTCTDLRDYYFLME  76
+
+Query  60   AIRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            ++RD+     PY E V++I ++EDG+ E+E+
+Sbjct  77   SLRDTSLFGKPYIELVDVIVSVEDGFREFEA  107
+
+
+>WP_038017118.1 hypothetical protein [Tatumella morbirosei]
+Length=106
+
+ Score = 74.7 bits (182),  Expect = 9e-016, Method: Compositional matrix adjust.
+ Identities = 34/89 (38%), Positives = 55/89 (62%), Gaps = 1/89 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + L R++R   + + L  +      V +R +D EAF+ + +D+A+F+   +Q +Y+ I+ 
+Sbjct  15   LRLPRKERNRIADRVLAEVLSD-GKVTLRMFDAEAFTARCTDVAMFQAEDMQSFYYAIER  73
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+            +RDSE  T PYFE  EIIP IEDG+  +E
+Sbjct  74   LRDSELITTPYFEIAEIIPTIEDGFKAFE  102
+
+
+>WP_012824523.1 hypothetical protein [Halothiobacillus neapolitanus]
+Length=112
+
+ Score = 75.1 bits (183),  Expect = 9e-016, Method: Compositional matrix adjust.
+ Identities = 37/90 (41%), Positives = 53/90 (59%), Gaps = 0/90 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL+R +R E +  K+ PI +++P+V    +D EAF    SDI +F     + +YF  + 
+Sbjct  19   LALSRPERNELTQAKIFPILQEHPNVHHTHFDAEAFCGFVSDIEMFSCDDPRQFYFFFEE  78
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+             RDSE  +  YF  V I PA  DGYVEYE+
+Sbjct  79   FRDSELISKGYFTIVNIFPAYADGYVEYEN  108
+
+
+>WP_049717983.1 hypothetical protein [Streptomyces caatingaensis]
+Length=115
+
+ Score = 74.3 bits (181),  Expect = 2e-015, Method: Compositional matrix adjust.
+ Identities = 35/90 (39%), Positives = 56/90 (62%), Gaps = 1/90 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPS-VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVID  59
+            +AL+RE+R    A  L+P+F  Y   V+ R++D EAF+ + SD AV ET  L  YYF+++
+Sbjct  16   LALSREERDAMRAAHLDPVFAAYADRVRARFFDAEAFNGRFSDFAVLETDDLGAYYFLVE  75
+
+Query  60   AIRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+            A+RD+   +  +F   E+   +EDG+  Y+
+Sbjct  76   ALRDTPLVSEGHFVLGEVFLGVEDGFQAYQ  105
+
+
+>WP_079177157.1 hypothetical protein [Streptomyces sp. MUSC 14]
+Length=198
+
+ Score = 76.3 bits (186),  Expect = 2e-015, Method: Compositional matrix adjust.
+ Identities = 32/89 (36%), Positives = 55/89 (62%), Gaps = 0/89 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL R +R +  A  ++P+ + + +V+VRW+D EA++   SD+ V  T  L  +  + + 
+Sbjct  103  LALGRPERQQIIADHVQPLLDTHDTVQVRWFDAEAWAAAPSDVLVATTDDLTAWSDLFEG  162
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+            +RDS   +VPYF    ++P IEDG+ +YE
+Sbjct  163  LRDSPLWSVPYFRVELVLPTIEDGFADYE  191
+
+
+>WP_054222385.1 hypothetical protein [Actinobacteria bacterium OV450]
+Length=120
+
+ Score = 73.9 bits (180),  Expect = 3e-015, Method: Compositional matrix adjust.
+ Identities = 37/90 (41%), Positives = 52/90 (58%), Gaps = 1/90 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYP-SVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVID  59
+            +AL RE+R    A  +EP+F +Y   V  R++D EAFS   SD AV ET  L  YYF+I+
+Sbjct  16   LALPREERNRMRATHIEPLFTRYADRVTARFFDAEAFSGSFSDFAVLETADLGAYYFLIE  75
+
+Query  60   AIRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+            A+RD+      Y    E++  + DG+  YE
+Sbjct  76   ALRDTPLIHEGYLILGEVLLGVRDGFQTYE  105
+
+
+>WP_065414454.1 darcynin [Acidithiobacillus ferrivorans]
+Length=118
+
+ Score = 73.9 bits (180),  Expect = 3e-015, Method: Compositional matrix adjust.
+ Identities = 36/83 (43%), Positives = 55/83 (66%), Gaps = 1/83 (1%)
+
+Query  6    EKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDAIRDSE  65
+            + R  F  +K+ PI E +P+V +R++D E+++ + SDI V++T+ L  Y  VI  +RD+ 
+Sbjct  24   KTRFAFIKEKVNPILEAHPTVSMRFFDTESYTARISDIVVWKTSDLVAYQGVIKGLRDTI  83
+
+Query  66   FCTVPYFEFVEIIPAIEDGYVEY  88
+            F    YFE +EIIPA+EDGY  Y
+Sbjct  84   FWD-HYFEVLEIIPAVEDGYAAY  105
+
+
+>WP_083347475.1 hypothetical protein [Rhizobium sp. LCM 4573]
+Length=116
+
+ Score = 73.2 bits (178),  Expect = 5e-015, Method: Compositional matrix adjust.
+ Identities = 35/85 (41%), Positives = 53/85 (62%), Gaps = 1/85 (1%)
+
+Query  4    AREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDAIRD  63
+                R  F    L+PI E+YP  K+ +YD EAF+   +D+ V+  TSLQDY  V++ +R+
+Sbjct  20   GENGRFAFGKNVLDPILERYPGAKMTFYDCEAFTADCTDVMVWRVTSLQDYNGVVNDLRE  79
+
+Query  64   SEFCTVPYFEFVEIIPAIEDGYVEY  88
+            +EF +  YF   +IIPAIE+ Y ++
+Sbjct  80   TEFWSY-YFTIEKIIPAIENEYAKH  103
+
+
+>WP_009567651.1 MULTISPECIES: darcynin [Bacteria]
+Length=118
+
+ Score = 72.8 bits (177),  Expect = 8e-015, Method: Compositional matrix adjust.
+ Identities = 37/88 (42%), Positives = 56/88 (64%), Gaps = 1/88 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + L  E R  F  + + PI E +P+V +R++D E+++ + SDI V++T+ L  Y  VI  
+Sbjct  19   LDLEPEVRFAFIKENVNPILEAHPTVSMRFFDTESYTARISDIVVWKTSDLIAYQSVIKG  78
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEY  88
+            +RD+ F    YFE +EIIPA+EDGY  Y
+Sbjct  79   LRDTIFWD-HYFEVLEIIPAVEDGYAAY  105
+
+
+>WP_045696355.1 hypothetical protein [Streptomyces rubellomurinus]
+Length=109
+
+ Score = 72.0 bits (175),  Expect = 1e-014, Method: Compositional matrix adjust.
+ Identities = 35/90 (39%), Positives = 53/90 (59%), Gaps = 1/90 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPS-VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVID  59
+            +AL R +R    A  L P+ EKY   V+ R++D EAF T+ SD A+FET  L  YY +++
+Sbjct  15   LALPRTERQRLKAAHLAPLIEKYADRVRARFFDAEAFYTRFSDFALFETDDLTAYYHLVE  74
+
+Query  60   AIRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+             +RD+      Y  F +++  IEDG+  +E
+Sbjct  75   ELRDTPLVGQGYLTFKDVVLGIEDGHEHFE  104
+
+
+>WP_052314519.1 hypothetical protein [Nocardia thailandica]
+Length=116
+
+ Score = 72.0 bits (175),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 35/85 (41%), Positives = 53/85 (62%), Gaps = 0/85 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            ++L R +R   +   L    +      +R++D EAFS + SD+AVF TT L +YY VI+A
+Sbjct  28   LSLTRAERRRVADAALGAALDGRTRTTMRFFDAEAFSARCSDVAVFTTTDLAEYYLVIEA  87
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGY  85
+            +RDS   TVPYF   ++I ++EDG+
+Sbjct  88   LRDSALFTVPYFRLDDLILSVEDGH  112
+
+
+>WP_035191974.1 darcynin [Acidithiobacillus ferrivorans]
+Length=118
+
+ Score = 72.0 bits (175),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 36/83 (43%), Positives = 54/83 (65%), Gaps = 1/83 (1%)
+
+Query  6    EKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDAIRDSE  65
+            + R  F  +K+ PI E + +V +R++D E+++ + SDI V+ET+ L  Y  VI  +RD+ 
+Sbjct  24   KTRFAFIKEKVNPILEAHSTVSMRFFDTESYTARISDIVVWETSDLVAYQGVIKGLRDTI  83
+
+Query  66   FCTVPYFEFVEIIPAIEDGYVEY  88
+            F    YFE +EIIPA+EDGY  Y
+Sbjct  84   FWD-RYFEVLEIIPAVEDGYAAY  105
+
+
+>WP_051841576.1 hypothetical protein [Streptomyces lavendulae]
+Length=122
+
+ Score = 71.6 bits (174),  Expect = 2e-014, Method: Compositional matrix adjust.
+ Identities = 33/90 (37%), Positives = 54/90 (60%), Gaps = 1/90 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYP-SVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVID  59
+            +AL+RE+R       +EP+F +Y   +  R++D EAF+   SD AV ET  L  YYF+++
+Sbjct  16   LALSREERNRMRTTHIEPVFAQYADRITARFFDAEAFNGGFSDFAVLETEDLGAYYFLVE  75
+
+Query  60   AIRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+            A+RD+   +  +    E++  + DG+ EYE
+Sbjct  76   ALRDTPLISDGHLVLGEVLIGVRDGFQEYE  105
+
+
+>WP_047483602.1 hypothetical protein [Methylibium sp. CF059]
+Length=116
+
+ Score = 71.2 bits (173),  Expect = 3e-014, Method: Compositional matrix adjust.
+ Identities = 32/89 (36%), Positives = 55/89 (62%), Gaps = 0/89 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL R +R E     L  ++  +PSV+VR++D   FS + SD+ ++ETT + +Y   + A
+Sbjct  19   LALDRARRDEVYDGALMQVYNHFPSVRVRFFDSSGFSGRCSDVLMWETTDMPEYRDAVAA  78
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+            + +  F   P FE VE+IP++ DG+ E++
+Sbjct  79   LHEHAFFGQPCFEIVEVIPSVPDGWREFD  107
+
+
+>WP_081576792.1 darcynin [Acidithiobacillus thiooxidans]
+Length=118
+
+ Score = 71.2 bits (173),  Expect = 3e-014, Method: Compositional matrix adjust.
+ Identities = 35/81 (43%), Positives = 52/81 (64%), Gaps = 1/81 (1%)
+
+Query  8    RAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDAIRDSEFC  67
+            R  F  + + PI E +P+V +R++D E+++ + SDI V+ET+ L  Y  V   +RD+ F 
+Sbjct  26   RFAFIKENVNPILEAHPTVSMRFFDTESYTARISDIVVWETSDLIAYQGVTKGLRDTIFW  85
+
+Query  68   TVPYFEFVEIIPAIEDGYVEY  88
+               YFE +EIIPA+EDGY  Y
+Sbjct  86   D-HYFEVLEIIPAMEDGYAAY  105
+
+
+>WP_028955259.1 hypothetical protein [Sulfitobacter sp. 20_GPM-1509m]
+Length=108
+
+ Score = 70.5 bits (171),  Expect = 5e-014, Method: Compositional matrix adjust.
+ Identities = 30/64 (47%), Positives = 47/64 (73%), Gaps = 0/64 (0%)
+
+Query  26   VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDAIRDSEFCTVPYFEFVEIIPAIEDGY  85
+            V +R+YD EAFS   SD+AVFET  L+ YYFV++ +R++     PYF+ ++IIPA+E+G+
+Sbjct  40   VSMRFYDAEAFSGTCSDVAVFETRDLRAYYFVVERLRNTPLFGKPYFDVIDIIPALENGH  99
+
+Query  86   VEYE  89
+              ++
+Sbjct  100  QTFQ  103
+
+
+>WP_008216669.1 hypothetical protein [Vibrionales bacterium SWAT-3]
+Length=69
+
+ Score = 68.9 bits (167),  Expect = 8e-014, Method: Compositional matrix adjust.
+ Identities = 29/64 (45%), Positives = 46/64 (72%), Gaps = 0/64 (0%)
+
+Query  27  KVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDAIRDSEFCTVPYFEFVEIIPAIEDGYV  86
+            ++ +D EAF+   SDI +FET  +Q YYF+++ +RDS+  T PYF+ + I PAIE+G++
+Sbjct  4   NMQLFDAEAFTACCSDIVMFETEDIQSYYFLVEELRDSKVYTKPYFDVISIFPAIENGFL  63
+
+Query  87  EYES  90
+           E+E 
+Sbjct  64  EFEG  67
+
+
+>WP_050348708.1 hypothetical protein [Arsenicicoccus sp. oral taxon 190]
+Length=121
+
+ Score = 69.7 bits (169),  Expect = 1e-013, Method: Compositional matrix adjust.
+ Identities = 29/89 (33%), Positives = 50/89 (56%), Gaps = 0/89 (0%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +AL+R +R +  A +++P    +    VRW D EA +   SD+ + ET  L+ ++ + +A
+Sbjct  19   LALSRAQRRDVIAAQVQPALSAHADCSVRWLDAEAMTATCSDVVLVETDDLRSWHHLWEA  78
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+            +RDS    VPYF    ++   ED Y ++E
+Sbjct  79   LRDSALFAVPYFRLESLVVGAEDAYEDHE  107
+
+
+>WP_058045507.1 hypothetical protein [Streptomyces sp. MBT76]
+Length=135
+
+ Score = 70.1 bits (170),  Expect = 1e-013, Method: Compositional matrix adjust.
+ Identities = 35/90 (39%), Positives = 52/90 (58%), Gaps = 1/90 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPS-VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVID  59
+            + L R++R     Q ++P+F KY   V  R++D EAF  + +D A+ ETT L+ YY +I+
+Sbjct  16   LDLTRDERNAMEEQYIQPVFAKYADRVSARFFDAEAFHAQHTDFALLETTDLRAYYHLIE  75
+
+Query  60   AIRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+             +RD+      Y  F +I   IEDGY  YE
+Sbjct  76   ELRDTPLIGRQYLAFTDIKIGIEDGYRSYE  105
+
+
+>WP_066177739.1 hypothetical protein [Hoeflea olei]
+Length=111
+
+ Score = 69.7 bits (169),  Expect = 1e-013, Method: Compositional matrix adjust.
+ Identities = 30/60 (50%), Positives = 44/60 (73%), Gaps = 0/60 (0%)
+
+Query  26  VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDAIRDSEFCTVPYFEFVEIIPAIEDGY  85
+           V +R++D EAFS   SD+AVFETT +  YYF ++ +R++   + PYFE V IIPA+E+G+
+Sbjct  40  VTMRFFDAEAFSGVCSDVAVFETTDMVAYYFTMERLRNTALISAPYFEIVAIIPALENGF  99
+
+
+>WP_045495486.1 hypothetical protein [Chryseobacterium sp. StRB126]
+Length=120
+
+ Score = 69.7 bits (169),  Expect = 1e-013, Method: Compositional matrix adjust.
+ Identities = 34/90 (38%), Positives = 55/90 (61%), Gaps = 1/90 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKY-PSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVID  59
+            ++L RE+R++F   +L PIFEK   +V VR +D E F +K SD  +  T  L DY  +++
+Sbjct  20   LSLTREQRSDFLEDQLMPIFEKVAKTVNVRMFDSEYFHSKVSDFLLVTTDELHDYKLMME  79
+
+Query  60   AIRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+             +RDS+   VPYF+  +II   E+ + ++ 
+Sbjct  80   MLRDSKVYGVPYFQITDIIVGQENMFKDFN  109
+
+
+>WP_080054563.1 hypothetical protein [Spirosoma aerolatum]
+Length=116
+
+ Score = 69.3 bits (168),  Expect = 2e-013, Method: Compositional matrix adjust.
+ Identities = 31/91 (34%), Positives = 54/91 (59%), Gaps = 1/91 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPS-VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVID  59
+            + L R +R      ++ P+  KY S V  R +D EAF  + SD+ +     L+ YYF+I+
+Sbjct  17   LKLTRAERNAIFTAEVTPVLAKYQSQVTTRLFDAEAFHARVSDVLLISCMDLRHYYFLIE  76
+
+Query  60   AIRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            ++RD+     PY E +++I ++EDG+ E+E+
+Sbjct  77   SLRDTSLFGEPYIELIDVIVSVEDGFREFEA  107
+
+
+>WP_076093445.1 hypothetical protein [Streptomyces sp. IMTB 2501]
+Length=118
+
+ Score = 68.9 bits (167),  Expect = 2e-013, Method: Compositional matrix adjust.
+ Identities = 33/91 (36%), Positives = 53/91 (58%), Gaps = 1/91 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPS-VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVID  59
+            +AL+RE+R   +   + P+F KY   V  R++D EAF+T  SD A+ ET  L+ YYF+++
+Sbjct  16   LALSREERNAMAGAHIHPVFAKYADRVSARFFDAEAFTTDFSDFAMLETDDLKAYYFLVE  75
+
+Query  60   AIRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+             +RDS   +  Y     I   +E G+  +E+
+Sbjct  76   ELRDSPLISQGYLVMNNIFMGVEAGFQAFEA  106
+
+
+>WP_071877528.1 Darcynin 2 [Enterococcus silesiacus]
+Length=110
+
+ Score = 68.9 bits (167),  Expect = 2e-013, Method: Compositional matrix adjust.
+ Identities = 35/90 (39%), Positives = 55/90 (61%), Gaps = 2/90 (2%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAF-STKASDIAVFETTSLQDYYFVID  59
+            + L+RE R E  AQ L  I  KYP++ VR++D EAF     +D A++ETT +  Y+F+ +
+Sbjct  16   LQLSRENRNE-KAQSLLAIINKYPNISVRFFDAEAFPGANYTDFAIYETTDIAGYHFMWE  74
+
+Query  60   AIRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+             IRD+   T  YF+  ++I  +ED +  +E
+Sbjct  75   EIRDTNLYTEGYFKIKDVIFGVEDAFKAFE  104
+
+
+>WP_083899392.1 hypothetical protein [Nocardia abscessus]
+Length=108
+
+ Score = 68.6 bits (166),  Expect = 3e-013, Method: Compositional matrix adjust.
+ Identities = 36/85 (42%), Positives = 53/85 (62%), Gaps = 1/85 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            ++L+R +R   +   L   F   PS  +R++D EAFS + S+IAVF TT L +YY VI+ 
+Sbjct  21   LSLSRPERRRIADPALGVAFADRPSTAMRFFDAEAFSARCSNIAVF-TTDLAEYYPVIER  79
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGY  85
+            +RDS   T P F   ++I A+EDG+
+Sbjct  80   LRDSALFTTPDFRLEDLILAVEDGH  104
+
+
+>WP_044587419.1 darcynin [Bradyrhizobium sp. LTSPM299]
+Length=120
+
+ Score = 68.6 bits (166),  Expect = 3e-013, Method: Compositional matrix adjust.
+ Identities = 30/86 (35%), Positives = 55/86 (64%), Gaps = 1/86 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + L  E+R  F  +++ P+  + P +++RW++ EAFST+A+D+ + ET  L  + +  D 
+Sbjct  35   LDLKTEQRRAFLDEEIIPLLRRRPELRIRWFEPEAFSTRATDVMICETRDLTAWAWFCDH  94
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYV  86
+            +RD+ F    YFE ++I+PA+E  Y+
+Sbjct  95   LRDTRFWD-HYFEVLDIMPALEGNYL  119
+
+
+>WP_044538432.1 darcynin [Bradyrhizobium sp. LTSP885]
+Length=120
+
+ Score = 68.6 bits (166),  Expect = 3e-013, Method: Compositional matrix adjust.
+ Identities = 30/86 (35%), Positives = 55/86 (64%), Gaps = 1/86 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + L  E+R  F  +++ P+  + P +++RW++ EAFST+A+D+ + ET  L  + +  D 
+Sbjct  35   LDLKTEQRRAFLDEEIIPLLRRRPELRIRWFEPEAFSTRATDVMICETRDLTAWAWFCDH  94
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYV  86
+            +RD+ F    YFE ++I+PA+E  Y+
+Sbjct  95   LRDTRFWD-HYFEVLDIMPALEGNYL  119
+
+
+>WP_028338896.1 darcynin [Bradyrhizobium elkanii]
+Length=120
+
+ Score = 68.6 bits (166),  Expect = 5e-013, Method: Compositional matrix adjust.
+ Identities = 31/86 (36%), Positives = 55/86 (64%), Gaps = 1/86 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + L  E+R  F  +++ P+  + P +KVRW++ EAFST+A+D+ + ET  L  + +  D 
+Sbjct  35   LDLKTEQRLAFLHEEVIPLLRRRPELKVRWFEPEAFSTRATDVMICETDDLSAWAWFCDH  94
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYV  86
+            +R++ F    YFE ++I+PA+E  Y+
+Sbjct  95   LRETRFWD-HYFEVLDIMPALEGNYL  119
+
+
+>WP_029078185.1 darcynin [Bradyrhizobium sp. th.b2]
+Length=120
+
+ Score = 68.2 bits (165),  Expect = 5e-013, Method: Compositional matrix adjust.
+ Identities = 30/86 (35%), Positives = 56/86 (65%), Gaps = 1/86 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + L  E+R  F  +++ P+  + P ++VRW++ EAFST+A+D+ + ET+ L  + +  D 
+Sbjct  35   LDLKTEQRLAFLHEEVIPLLRRRPELRVRWFEPEAFSTRATDVMICETSDLSAWAWFCDH  94
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYV  86
+            +R++ F    YFE ++I+PA+E  Y+
+Sbjct  95   LRETRFWDH-YFEVLDIMPALEGNYL  119
+
+
+>WP_016846500.1 MULTISPECIES: hypothetical protein [Bradyrhizobium]
+Length=120
+
+ Score = 68.2 bits (165),  Expect = 5e-013, Method: Compositional matrix adjust.
+ Identities = 31/86 (36%), Positives = 55/86 (64%), Gaps = 1/86 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + L  E+R  F  +++ P+  + P +KVRW++ EAFST+A+D+ + ET  L  + +  D 
+Sbjct  35   LDLKTEQRLAFLHEEVIPLLRRRPELKVRWFEPEAFSTRATDVMICETDDLSAWAWFCDH  94
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYV  86
+            +R++ F    YFE ++I+PA+E  Y+
+Sbjct  95   LRETRFWD-HYFEVLDIMPALEGNYL  119
+
+
+>WP_037923335.1 hypothetical protein [Sulfitobacter pseudonitzschiae]
+Length=108
+
+ Score = 67.8 bits (164),  Expect = 6e-013, Method: Compositional matrix adjust.
+ Identities = 29/64 (45%), Positives = 45/64 (70%), Gaps = 0/64 (0%)
+
+Query  26   VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDAIRDSEFCTVPYFEFVEIIPAIEDGY  85
+            V +R+YD EAFS   SD+AVFE   L  YYFV++ +R++     PYF+ ++IIPA+E+G+
+Sbjct  40   VSMRFYDAEAFSGTCSDVAVFEARDLGAYYFVVERLRNTPLFGKPYFDVIDIIPALENGH  99
+
+Query  86   VEYE  89
+              ++
+Sbjct  100  QTFQ  103
+
+
+>WP_028334353.1 darcynin [Bradyrhizobium elkanii]
+Length=120
+
+ Score = 67.8 bits (164),  Expect = 8e-013, Method: Compositional matrix adjust.
+ Identities = 31/86 (36%), Positives = 55/86 (64%), Gaps = 1/86 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + L  E+R  F  +++ P+  + P +KVRW++ EAFST+A+D+ + ET  L  + +  D 
+Sbjct  35   LDLKTEQRLAFLHEEVIPLLRRRPELKVRWFEPEAFSTRATDVMICETDDLLAWAWFCDH  94
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYV  86
+            +R++ F    YFE ++I+PA+E  Y+
+Sbjct  95   LRETRFWD-HYFEVLDIMPALEGNYL  119
+
+
+>WP_076862613.1 darcynin [Bradyrhizobium sp. SEMIA 6399]
+Length=120
+
+ Score = 67.0 bits (162),  Expect = 1e-012, Method: Compositional matrix adjust.
+ Identities = 30/86 (35%), Positives = 55/86 (64%), Gaps = 1/86 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + L  E+R  F  +++ P+  + P +K+RW++ EAFST+A+D+ + ET  L  + +  D 
+Sbjct  35   LDLKTEQRLVFLHEEVIPLLRRRPELKLRWFEPEAFSTRATDVMICETGDLSAWAWFCDH  94
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYV  86
+            +R++ F    YFE ++I+PA+E  Y+
+Sbjct  95   LRETRFWD-HYFEVLDIMPALEGNYL  119
+
+
+>WP_066089288.1 hypothetical protein [Hydrogenophaga sp. LPB0072]
+Length=117
+
+ Score = 66.2 bits (160),  Expect = 3e-012, Method: Compositional matrix adjust.
+ Identities = 32/91 (35%), Positives = 52/91 (57%), Gaps = 1/91 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEK-YPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVID  59
+            + L+RE R   + Q L     + +  + +R++D EAFS   SD+ + ET   + + F ++
+Sbjct  21   LQLSREARKALADQHLGAALARSHGLLTMRYFDAEAFSAPCSDVMMVETLDPRHHCFFME  80
+
+Query  60   AIRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+             +RDS   + PYFE + II  +EDGY  YE+
+Sbjct  81   QLRDSPLFSAPYFEVLNIISTVEDGYQAYEA  111
+
+
+>WP_051002910.1 darcynin [Bradyrhizobium elkanii]
+Length=120
+
+ Score = 66.2 bits (160),  Expect = 3e-012, Method: Compositional matrix adjust.
+ Identities = 30/86 (35%), Positives = 55/86 (64%), Gaps = 1/86 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + L  E+R  F  +++ P+  + P +KVRW++ EAF T+A+D+ + ET  L  + +  D 
+Sbjct  35   LDLKTEQRLAFLHEEVIPLLRRRPELKVRWFEPEAFWTRATDVMICETDDLSAWAWFCDH  94
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYV  86
+            +R+++F    YFE ++I+PA+E  Y+
+Sbjct  95   LRETKFWD-HYFEVLDIMPALEGNYL  119
+
+
+>WP_086331894.1 Darcynin 2 [Enterococcus sp. 4G2_DIV0659]
+Length=110
+
+ Score = 65.9 bits (159),  Expect = 4e-012, Method: Compositional matrix adjust.
+ Identities = 37/90 (41%), Positives = 55/90 (61%), Gaps = 2/90 (2%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAF-STKASDIAVFETTSLQDYYFVID  59
+            + L+RE+R +   + L  I +KYPSV VR++D EAF     +D A+ ETT L  Y+F+ +
+Sbjct  16   LQLSREERNK-RGKSLLDIIDKYPSVSVRFFDAEAFPGANFTDFAICETTDLAAYHFMWE  74
+
+Query  60   AIRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+             IRD+   T  YF+  E+I  IED +  +E
+Sbjct  75   EIRDTNLYTESYFKIKEVIFGIEDAFKAFE  104
+
+
+>WP_084236247.1 hypothetical protein [Hydrogenophaga taeniospiralis]
+Length=125
+
+ Score = 65.9 bits (159),  Expect = 5e-012, Method: Compositional matrix adjust.
+ Identities = 31/91 (34%), Positives = 54/91 (59%), Gaps = 1/91 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSV-KVRWYDVEAFSTKASDIAVFETTSLQDYYFVID  59
+            + L+RE R   + + +     +   +  +R++D EAFS+  S++ + ET   + +YF ++
+Sbjct  29   LQLSREARKSLADEHMGAALARSEGLLTMRYFDAEAFSSPCSEVVMVETRDPRHHYFFME  88
+
+Query  60   AIRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+             +RDS   +VPYFE + I+  IEDGY  YE+
+Sbjct  89   QLRDSPLFSVPYFEVLNIVSTIEDGYQTYEA  119
+
+
+>WP_067855328.1 darcynin [Mycobacterium wolinskyi]
+Length=108
+
+ Score = 65.1 bits (157),  Expect = 7e-012, Method: Compositional matrix adjust.
+ Identities = 28/81 (35%), Positives = 50/81 (62%), Gaps = 1/81 (1%)
+
+Query  7   KRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDAIRDSEF  66
+           KR +   + L+PI E++P VK RWYD E ++ + +D+ ++ETT   +Y   ++ +R++ F
+Sbjct  21  KRFDELTRHLQPILERHPEVKFRWYDTEFYTARVTDLLLWETTDPHEYELAVEELRETPF  80
+
+Query  67  CTVPYFEFVEIIPAIEDGYVE  87
+               YF  VEI+P + + Y +
+Sbjct  81  WDR-YFTIVEILPGVANAYAD  100
+
+
+>WP_048504130.1 hypothetical protein [Chryseobacterium sp. BLS98]
+Length=140
+
+ Score = 65.9 bits (159),  Expect = 7e-012, Method: Compositional matrix adjust.
+ Identities = 31/84 (37%), Positives = 52/84 (62%), Gaps = 1/84 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKY-PSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVID  59
+            ++L+RE+R+ F    + PIF+K   + KV  YD E F +K SD  +  TT+ +DY  +++
+Sbjct  44   LSLSREERSNFFESSITPIFQKVGKTTKVNLYDSEYFHSKTSDFIIINTTNFEDYKLLLE  103
+
+Query  60   AIRDSEFCTVPYFEFVEIIPAIED  83
+             +RD++    PYF+ V+II   E+
+Sbjct  104  LLRDTKIYGEPYFDIVDIIVGQEN  127
+
+
+>WP_065266076.1 hypothetical protein [Leisingera sp. JC1]
+Length=107
+
+ Score = 64.7 bits (156),  Expect = 9e-012, Method: Compositional matrix adjust.
+ Identities = 31/90 (34%), Positives = 52/90 (58%), Gaps = 2/90 (2%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + ++R +R+  +A  LEP       + +R +D EAF    SD+A+ E  + + YYF I+ 
+Sbjct  16   LRISRAERSRIAAAALEPFTRN--GLSLRHFDAEAFHADCSDVAMIEAETPEAYYFAIEQ  73
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            +RD+   T  YF   +IIP+ E+G+  YE+
+Sbjct  74   LRDTALITEGYFTVTQIIPSYENGFRAYEA  103
+
+
+>WP_050058092.1 darcynin [Silvibacterium bohemicum]
+Length=105
+
+ Score = 64.7 bits (156),  Expect = 1e-011, Method: Compositional matrix adjust.
+ Identities = 31/85 (36%), Positives = 55/85 (65%), Gaps = 2/85 (2%)
+
+Query  2   ALAREKRAEFSAQKLEPIFEKY-PSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+             ++E+R+   A  +EPI +K+ P V +R YDVE +S + +D+ ++E T    Y F+++A
+Sbjct  11  GFSKEERSRLLATHVEPILKKHSPEVILRLYDVEFYSARVTDVWIWEATDHLAYEFLVEA  70
+
+Query  61  IRDSEFCTVPYFEFVEIIPAIEDGY  85
+           +R++ F    YF+ VEI+P +E+ Y
+Sbjct  71  LRETPFWDR-YFQIVEILPGVENAY  94
+
+
+>WP_019297725.1 MULTISPECIES: hypothetical protein [Leisingera]
+Length=107
+
+ Score = 64.3 bits (155),  Expect = 1e-011, Method: Compositional matrix adjust.
+ Identities = 31/90 (34%), Positives = 49/90 (54%), Gaps = 2/90 (2%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + L R++R   +A  LEP       + +R +D EAF    SD+A+ E  + + YYF I+ 
+Sbjct  16   LRLNRQERGRLAATGLEPFTRN--GLSLRHFDAEAFHADCSDVAMIEAETPEAYYFAIEQ  73
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            +RD+      YF    IIPA E+G+  +E+
+Sbjct  74   LRDTALIAEGYFTVTGIIPAYENGFRSFEA  103
+
+
+>WP_014263473.1 hypothetical protein [Granulicella mallensis]
+Length=122
+
+ Score = 64.7 bits (156),  Expect = 2e-011, Method: Compositional matrix adjust.
+ Identities = 30/86 (35%), Positives = 54/86 (63%), Gaps = 1/86 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + LA   R  F  ++L P+  K P V +R++D EAFS +A+D+  +ET  +  + ++ D 
+Sbjct  34   LDLATADRTAFLKEELLPLLVKRPEVTMRYFDAEAFSARATDVLFWETKDISAWQWICDH  93
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYV  86
+            +R+++F    YFE +EI+P++E  Y+
+Sbjct  94   LRETKFWDY-YFEVLEILPSLEGNYL  118
+
+
+>WP_010665723.1 hypothetical protein [Acetobacter aceti]
+Length=132
+
+ Score = 64.3 bits (155),  Expect = 2e-011, Method: Compositional matrix adjust.
+ Identities = 30/83 (36%), Positives = 51/83 (61%), Gaps = 1/83 (1%)
+
+Query  6    EKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDAIRDSE  65
+              R  F    L+P+  +YP   + +YD EAF+   +D+ V+  TSL+DY  V++ +R+++
+Sbjct  36   NGRFAFGKNVLDPLLARYPGATMTFYDSEAFTADCTDVMVWTVTSLRDYNGVVNDLRETK  95
+
+Query  66   FCTVPYFEFVEIIPAIEDGYVEY  88
+            F +  YF   +IIPAIE+ Y ++
+Sbjct  96   FWS-HYFTIEKIIPAIENEYAKH  117
+
+
+>WP_039147288.1 MULTISPECIES: hypothetical protein [Leisingera]
+Length=107
+
+ Score = 63.5 bits (153),  Expect = 2e-011, Method: Compositional matrix adjust.
+ Identities = 31/90 (34%), Positives = 49/90 (54%), Gaps = 2/90 (2%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            + L R++R   +A  LEP       + +R +D EAF    SD+A+ E  + + YYF I+ 
+Sbjct  16   LRLDRQERGRLAATGLEPFTRN--GLSLRHFDAEAFHADCSDVAMIEAETPEAYYFAIEQ  73
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEYES  90
+            +RD+      YF    IIPA E+G+  +E+
+Sbjct  74   LRDTALIAEGYFTVTGIIPAYENGFRSFEA  103
+
+
+>WP_023273418.1 hypothetical protein [Acinetobacter nectaris]
+Length=110
+
+ Score = 63.5 bits (153),  Expect = 3e-011, Method: Compositional matrix adjust.
+ Identities = 37/90 (41%), Positives = 55/90 (61%), Gaps = 2/90 (2%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAF-STKASDIAVFETTSLQDYYFVID  59
+            +AL RE+R  + AQ LE I  K+P VKVR+ D EAF  +  +D  + ET +L+ Y+F+ +
+Sbjct  16   LALPRERRRAY-AQGLEEIIAKHPDVKVRFCDSEAFPGSNFTDFLICETENLKSYHFMWE  74
+
+Query  60   AIRDSEFCTVPYFEFVEIIPAIEDGYVEYE  89
+             IRDS   T  YF+  ++I   E+ +  YE
+Sbjct  75   EIRDSTPYTQGYFKIKDVIMGAENAFQSYE  104
+
+
+>WP_019990148.1 hypothetical protein [Rudanella lutea]
+Length=131
+
+ Score = 63.9 bits (154),  Expect = 3e-011, Method: Compositional matrix adjust.
+ Identities = 31/86 (36%), Positives = 51/86 (59%), Gaps = 1/86 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPS-VKVRWYDVEAFSTKASDIAVFETTSLQDYYFVID  59
+            +AL+R +R  F  +K  P+F ++   V+VR +D EAF  + SD+ +     L  YY  ++
+Sbjct  38   LALSRSQREAFFDRKTTPLFARFEQEVQVRLFDAEAFHARFSDVMMISCNDLNQYYVFME  97
+
+Query  60   AIRDSEFCTVPYFEFVEIIPAIEDGY  85
+            A+RD+E  + PY E  E+I   E+G+
+Sbjct  98   ALRDTELFSKPYIEVKEVIVTRENGF  123
+
+
+>WP_078019192.1 darcynin [Mycobacterium litorale]
+Length=119
+
+ Score = 63.5 bits (153),  Expect = 3e-011, Method: Compositional matrix adjust.
+ Identities = 29/87 (33%), Positives = 53/87 (61%), Gaps = 1/87 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +A+  ++R    A+ LEP   ++PSV+ RWYD E ++ + +D  V+ET+S  +Y  V++ 
+Sbjct  25   LAMPVDQRFSEIAKHLEPALGRHPSVEFRWYDTEFYTARVTDTWVWETSSPHEYELVVEE  84
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVE  87
+            +R++      YF  VEI+P + + Y +
+Sbjct  85   LRETPLWDR-YFSIVEILPGVLNAYAD  110
+
+
+>WP_064959832.1 darcynin [Mycobacterium peregrinum]
+Length=108
+
+ Score = 62.8 bits (151),  Expect = 5e-011, Method: Compositional matrix adjust.
+ Identities = 26/87 (30%), Positives = 52/87 (60%), Gaps = 1/87 (1%)
+
+Query  1   MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+           +  +  KR +  A+ L+PI +++P+V  RWYD E ++ + +D+ ++ETT   +Y   ++ 
+Sbjct  15  LGFSVAKRFDELARHLQPILDRHPAVNFRWYDTEFYTARVTDLLLWETTDPHEYELAVEE  74
+
+Query  61  IRDSEFCTVPYFEFVEIIPAIEDGYVE  87
+           +R++      YF  VEI+P + + Y +
+Sbjct  75  LRETPLWDR-YFTIVEILPGVANAYAD  100
+
+
+>WP_004621530.1 hypothetical protein [Caulobacter vibrioides]
+Length=117
+
+ Score = 63.2 bits (152),  Expect = 5e-011, Method: Compositional matrix adjust.
+ Identities = 31/88 (35%), Positives = 53/88 (60%), Gaps = 1/88 (1%)
+
+Query  1    MALAREKRAEFSAQKLEPIFEKYPSVKVRWYDVEAFSTKASDIAVFETTSLQDYYFVIDA  60
+            +ALA + R  F    ++P+    P+VK+R+YD E +  + SD+ V+ET     Y  +++ 
+Sbjct  21   LALAPKDRFAFFDAHIDPLLAAQPAVKLRFYDAEFYDARVSDVLVWETADQAAYRAIVEG  80
+
+Query  61   IRDSEFCTVPYFEFVEIIPAIEDGYVEY  88
+            +R++ F    YF  V+IIPAIE+ Y ++
+Sbjct  81   LRETPFWD-HYFHIVDIIPAIENAYADH  107
+
+
+
+Lambda      K        H
+   0.321    0.136    0.392 
+
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+
+Effective search space used: 794716080060
+
+
+  Database: NCBI Protein Reference Sequences
+    Posted date:  May 29, 2017 12:00 AM
+  Number of letters in database: 31,412,196,622
+  Number of sequences in database:  82,027,677
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40

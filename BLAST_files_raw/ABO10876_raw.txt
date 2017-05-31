@@ -1,0 +1,4332 @@
+BLASTP 2.6.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: NCBI Protein Reference Sequences
+           82,027,677 sequences; 31,412,196,622 total letters
+
+
+
+Query= embl-cds:ABO10876 protein chain initiation factor IF-1
+OS=Acinetobacter baumannii (strain ATCC 17978 / CIP 53.77 / LMG 1025
+/ NCDC KC755 / 5377) GN=A1S_0421 SV=1 UP=UP000006737:Chromosome
+
+Length=73
+
+RID: JVUAM62Y014
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+WP_001284370.1  MULTISPECIES: translation initiation factor IF-1 ...  150     3e-046
+WP_004692529.1  MULTISPECIES: translation initiation factor IF-1 ...  149     6e-046
+WP_031952088.1  translation initiation factor IF-1 [Acinetobacter...  149     8e-046
+WP_016657571.1  translation initiation factor IF-1 [Acinetobacter...  148     1e-045
+WP_004718087.1  MULTISPECIES: translation initiation factor IF-1 ...  148     1e-045
+WP_026472443.1  MULTISPECIES: translation initiation factor IF-1 ...  148     1e-045
+WP_075911516.1  translation initiation factor IF-1 [Acinetobacter...  148     1e-045
+WP_032013547.1  translation initiation factor IF-1 [Acinetobacter...  148     2e-045
+WP_034671744.1  translation initiation factor IF-1 [Acinetobacter...  147     2e-045
+WP_004920223.1  MULTISPECIES: translation initiation factor IF-1 ...  147     3e-045
+WP_004754324.1  MULTISPECIES: translation initiation factor IF-1 ...  147     3e-045
+WP_065026639.1  translation initiation factor IF-1 [Acinetobacter...  147     5e-045
+WP_039620943.1  translation initiation factor IF-1 [Acinetobacter...  146     8e-045
+WP_011961149.1  MULTISPECIES: translation initiation factor IF-1 ...  131     9e-039
+WP_019671605.1  MULTISPECIES: translation initiation factor IF-1 ...  130     1e-038
+WP_007395612.1  MULTISPECIES: translation initiation factor IF-1 ...  130     2e-038
+WP_027068842.1  translation initiation factor IF-1 [Lysobacter de...  130     2e-038
+WP_003657459.1  MULTISPECIES: translation initiation factor IF-1 ...  130     2e-038
+WP_068859314.1  translation initiation factor IF-1 [Perlucidibaca...  130     3e-038
+WP_078306721.1  translation initiation factor IF-1 [Moraxella lin...  129     5e-038
+WP_029102801.1  MULTISPECIES: translation initiation factor IF-1 ...  129     5e-038
+WP_076587867.1  translation initiation factor IF-1 [Luteimonas to...  129     6e-038
+WP_007116282.1  MULTISPECIES: translation initiation factor IF-1 ...  129     7e-038
+WP_066804404.1  translation initiation factor IF-1 [Moraxella obl...  129     8e-038
+WP_036168934.1  translation initiation factor IF-1 [Lysobacter do...  128     1e-037
+WP_072755445.1  translation initiation factor IF-1 [Thermomonas h...  128     1e-037
+WP_009501196.1  MULTISPECIES: translation initiation factor IF-1 ...  127     2e-037
+WP_027080044.1  translation initiation factor IF-1 [Luteimonas me...  127     2e-037
+WP_027083105.1  translation initiation factor IF-1 [Lysobacter sp...  127     2e-037
+WP_014160711.1  translation initiation factor IF-1 [Pseudoxanthom...  127     2e-037
+WP_067056595.1  translation initiation factor IF-1 [Moraxella atl...  127     2e-037
+WP_031372296.1  MULTISPECIES: translation initiation factor IF-1 ...  127     2e-037
+WP_079726088.1  translation initiation factor IF-1 [Pseudoxanthom...  127     2e-037
+WP_022955964.1  translation initiation factor IF-1 [Perlucidibaca...  127     3e-037
+WP_078277255.1  translation initiation factor IF-1 [Moraxella cav...  127     3e-037
+WP_045446828.1  MULTISPECIES: translation initiation factor IF-1 ...  127     3e-037
+WP_010199824.1  MULTISPECIES: translation initiation factor IF-1 ...  127     3e-037
+WP_078756943.1  translation initiation factor IF-1 [Lysobacter sp...  127     3e-037
+WP_068036477.1  MULTISPECIES: translation initiation factor IF-1 ...  127     3e-037
+WP_058369034.1  translation initiation factor IF-1 [Psychrobacter...  127     4e-037
+WP_062358368.1  translation initiation factor IF-1 [Pseudoxanthom...  127     4e-037
+WP_055248081.1  translation initiation factor IF-1 [Xanthomonas s...  127     4e-037
+WP_024890331.1  MULTISPECIES: translation initiation factor IF-1 ...  126     5e-037
+WP_028839405.1  translation initiation factor IF-1 [Thermomonas f...  126     6e-037
+WP_047138142.1  translation initiation factor IF-1 [Luteimonas sp...  126     7e-037
+WP_036193457.1  MULTISPECIES: translation initiation factor IF-1 ...  126     7e-037
+WP_021814850.1  MULTISPECIES: translation initiation factor IF-1 ...  126     8e-037
+WP_055943174.1  MULTISPECIES: translation initiation factor IF-1 ...  125     1e-036
+WP_008737658.1  translation initiation factor IF-1 [Alcanivorax p...  124     3e-036
+WP_005409596.1  MULTISPECIES: translation initiation factor IF-1 ...  124     3e-036
+WP_027072495.1  translation initiation factor IF-1 [Luteimonas sp...  124     4e-036
+WP_007643841.1  MULTISPECIES: translation initiation factor IF-1 ...  124     6e-036
+WP_052633646.1  translation initiation factor IF-1 [Pseudoxanthom...  124     7e-036
+WP_004425677.1  MULTISPECIES: translation initiation factor IF-1 ...  123     9e-036
+WP_013535213.1  MULTISPECIES: translation initiation factor IF-1 ...  123     1e-035
+WP_014402653.1  MULTISPECIES: translation initiation factor IF-1 ...  123     1e-035
+WP_039916411.1  MULTISPECIES: translation initiation factor IF-1 ...  123     1e-035
+WP_002813418.1  MULTISPECIES: translation initiation factor IF-1 ...  123     1e-035
+WP_017462389.1  translation initiation factor IF-1 [Dyella ginsen...  123     1e-035
+WP_008209748.1  translation initiation factor IF-1 [Rhodanobacter...  123     1e-035
+WP_005959039.1  MULTISPECIES: translation initiation factor IF-1 ...  123     1e-035
+WP_012488163.1  translation initiation factor IF-1 [Cellvibrio ja...  122     2e-035
+WP_013835430.1  translation initiation factor IF-1 [Thioalkalimic...  122     2e-035
+WP_036140601.1  translation initiation factor IF-1 [Luteibacter s...  122     2e-035
+WP_028769496.1  translation initiation factor IF-1 [Silanimonas l...  122     2e-035
+WP_049622829.1  translation initiation factor IF-1 [Dyella-like s...  122     2e-035
+WP_068476485.1  MULTISPECIES: translation initiation factor IF-1 ...  122     2e-035
+WP_019623292.1  translation initiation factor IF-1 [Amphritea jap...  122     2e-035
+WP_005929186.1  MULTISPECIES: translation initiation factor IF-1 ...  122     2e-035
+WP_043108165.1  translation initiation factor IF-1 [endosymbiont ...  122     2e-035
+WP_024299891.1  translation initiation factor IF-1 [Methylosarcin...  122     3e-035
+WP_044617713.1  translation initiation factor IF-1 [Gynuella suns...  122     3e-035
+WP_020209243.1  translation initiation factor IF-1 [Gilvimarinus ...  122     3e-035
+WP_007081871.1  MULTISPECIES: translation initiation factor IF-1 ...  122     3e-035
+WP_068458790.1  MULTISPECIES: translation initiation factor IF-1 ...  122     3e-035
+WP_062064380.1  translation initiation factor IF-1 [Cellvibrio sp...  122     3e-035
+WP_068995306.1  translation initiation factor IF-1 [Candidatus Th...  122     3e-035
+WP_068584107.1  translation initiation factor IF-1 [Thiomicrospir...  122     3e-035
+WP_019896209.1  translation initiation factor IF-1 [Thiomicrospir...  122     3e-035
+WP_077485337.1  translation initiation factor IF-1 [Rhodanobacter...  122     3e-035
+WP_006459050.1  translation initiation factor IF-1 [Thioalkalimic...  122     4e-035
+WP_068516263.1  MULTISPECIES: translation initiation factor IF-1 ...  122     4e-035
+WP_007039021.1  translation initiation factor IF-1 [Thiorhodococc...  122     4e-035
+WP_069127521.1  translation initiation factor IF-1 [Candidatus Th...  122     4e-035
+WP_007508585.1  MULTISPECIES: translation initiation factor IF-1 ...  122     4e-035
+WP_012971469.1  MULTISPECIES: translation initiation factor IF-1 ...  122     4e-035
+WP_045474147.1  translation initiation factor IF-1 [Thioploca ing...  122     5e-035
+WP_029934638.1  translation initiation factor IF-1 [Thiomicrospir...  121     5e-035
+WP_028486457.1  translation initiation factor IF-1 [Thiomicrospir...  121     5e-035
+WP_036509108.1  translation initiation factor IF-1 [Nitrincola ni...  121     5e-035
+WP_029407455.1  MULTISPECIES: translation initiation factor IF-1 ...  121     5e-035
+WP_015005969.1  MULTISPECIES: translation initiation factor IF-1 ...  121     5e-035
+WP_006889822.1  translation initiation factor IF-1 [Methylobacter...  121     6e-035
+WP_023494599.1  translation initiation factor IF-1 [Methyloglobul...  121     6e-035
+WP_041523034.1  translation initiation factor IF-1 [Gilvimarinus ...  121     6e-035
+WP_019466733.1  MULTISPECIES: translation initiation factor IF-1 ...  121     6e-035
+WP_034220409.1  translation initiation factor IF-1 [Arenimonas do...  121     7e-035
+WP_011037132.1  translation initiation factor IF-1 [Xanthomonas c...  121     7e-035
+WP_026636496.1  translation initiation factor IF-1 [Dyella japonica]  121     7e-035
+WP_011370535.1  MULTISPECIES: translation initiation factor IF-1 ...  121     7e-035
+WP_008436469.1  translation initiation factor IF-1 [Rhodanobacter...  121     7e-035
+WP_024851017.1  MULTISPECIES: translation initiation factor IF-1 ...  121     8e-035
+WP_078487066.1  translation initiation factor IF-1 [Solemya elarr...  121     8e-035
+WP_064631327.1  translation initiation factor IF-1 [Xanthomonas s...  121     8e-035
+WP_072323067.1  translation initiation factor IF-1 [Luteibacter s...  121     8e-035
+WP_034842760.1  MULTISPECIES: translation initiation factor IF-1 ...  121     9e-035
+WP_085759977.1  translation initiation factor IF-1 [Oceanicoccus ...  121     9e-035
+WP_083559073.1  translation initiation factor IF-1 [Oceanococcus ...  120     1e-034
+WP_081128036.1  translation initiation factor IF-1 [Metallibacter...  120     1e-034
+WP_007193303.1  MULTISPECIES: translation initiation factor IF-1 ...  120     1e-034
+WP_045225610.1  translation initiation factor IF-1 [Methylococcac...  120     1e-034
+WP_019866271.1  translation initiation factor IF-1 [Methylovulum ...  120     1e-034
+WP_029134356.1  MULTISPECIES: translation initiation factor IF-1 ...  120     1e-034
+WP_024460472.1  translation initiation factor IF-1 [Marinimicrobi...  120     1e-034
+WP_034211033.1  MULTISPECIES: translation initiation factor IF-1 ...  120     1e-034
+WP_041067735.1  translation initiation factor IF-1 [Thiolapillus ...  120     1e-034
+WP_020583463.1  MULTISPECIES: translation initiation factor IF-1 ...  120     2e-034
+WP_076719472.1  translation initiation factor IF-1 [Motiliproteus...  120     2e-034
+WP_042675200.1  translation initiation factor IF-1 [Xanthomonas f...  120     2e-034
+WP_049722125.1  translation initiation factor IF-1 [Gilvimarinus ...  120     2e-034
+WP_005223622.1  MULTISPECIES: translation initiation factor IF-1 ...  120     2e-034
+WP_040185975.1  MULTISPECIES: translation initiation factor IF-1 ...  120     2e-034
+WP_015486940.1  translation initiation factor IF-1 [Thalassolituu...  120     2e-034
+WP_022947180.1  translation initiation factor IF-1 [Methylohalobi...  120     2e-034
+WP_036522914.1  translation initiation factor IF-1 [Nitrincola sp...  120     2e-034
+WP_026816137.1  translation initiation factor IF-1 [Arenimonas co...  120     2e-034
+WP_078119590.1  translation initiation factor IF-1 [Chromatiaceae...  120     2e-034
+WP_058021674.1  MULTISPECIES: translation initiation factor IF-1 ...  120     2e-034
+WP_045779225.1  translation initiation factor IF-1 [Methylococcac...  120     2e-034
+WP_027313218.1  translation initiation factor IF-1 [Balneatrix al...  120     2e-034
+WP_022962512.1  translation initiation factor IF-1 [Pseudomonas p...  120     2e-034
+WP_014149038.1  MULTISPECIES: translation initiation factor IF-1 ...  120     2e-034
+WP_036548442.1  translation initiation factor IF-1 [Nitrincola la...  119     3e-034
+WP_019556607.1  translation initiation factor IF-1 [Thiomicrospir...  119     3e-034
+WP_062537550.1  translation initiation factor IF-1 [Mizugakiibact...  119     3e-034
+WP_020561928.1  translation initiation factor IF-1 [Methylosarcin...  119     3e-034
+WP_058555834.1  translation initiation factor IF-1 [Thiohalocapsa...  119     3e-034
+WP_028302766.1  translation initiation factor IF-1 [Oceanospirill...  119     3e-034
+WP_080522868.1  translation initiation factor IF-1 [Methyloprofun...  119     3e-034
+WP_012438365.1  translation initiation factor IF-1 [Xanthomonas c...  119     3e-034
+WP_027330818.1  translation initiation factor IF-1 [Marinimicrobi...  119     4e-034
+WP_020157601.1  MULTISPECIES: translation initiation factor IF-1 ...  119     4e-034
+WP_078482350.1  translation initiation factor IF-1 [Solemya veles...  119     4e-034
+WP_048399879.1  translation initiation factor IF-1 [Candidatus Ac...  119     4e-034
+WP_068804272.1  translation initiation factor IF-1 [Immundisoliba...  119     4e-034
+WP_067081888.1  MULTISPECIES: translation initiation factor IF-1 ...  119     5e-034
+WP_072324543.1  translation initiation factor IF-1 [Marinospirill...  119     5e-034
+WP_036989719.1  MULTISPECIES: translation initiation factor IF-1 ...  119     5e-034
+WP_028468938.1  MULTISPECIES: translation initiation factor IF-1 ...  119     6e-034
+WP_005369748.1  MULTISPECIES: translation initiation factor IF-1 ...  119     6e-034
+WP_018981915.1  translation initiation factor IF-1 [Salinimonas c...  119     7e-034
+WP_007232140.1  MULTISPECIES: translation initiation factor IF-1 ...  119     7e-034
+WP_039512826.1  translation initiation factor IF-1 [Xanthomonas a...  118     7e-034
+WP_075172183.1  translation initiation factor IF-1 [Neptunomonas ...  119     7e-034
+WP_085213738.1  translation initiation factor IF-1 [Methylocaldum...  119     7e-034
+WP_078744381.1  translation initiation factor IF-1 [Oceanospirill...  119     7e-034
+WP_043767427.1  translation initiation factor IF-1 [Algiphilus ar...  119     7e-034
+WP_014949333.1  MULTISPECIES: translation initiation factor IF-1 ...  119     7e-034
+WP_013784390.1  MULTISPECIES: translation initiation factor IF-1 ...  119     8e-034
+WP_080050557.1  translation initiation factor IF-1 [Pseudomonas s...  118     8e-034
+WP_009148344.1  translation initiation factor IF-1 [Thiorhodovibr...  118     8e-034
+WP_071872683.1  translation initiation factor IF-1 [Pseudomonas h...  118     8e-034
+WP_027849523.1  MULTISPECIES: translation initiation factor IF-1 ...  118     8e-034
+WP_008043370.1  MULTISPECIES: translation initiation factor IF-1 ...  118     9e-034
+WP_043115807.1  MULTISPECIES: translation initiation factor IF-1 ...  118     9e-034
+WP_011629190.1  translation initiation factor IF-1 [Alkalilimnico...  118     9e-034
+WP_022957154.1  MULTISPECIES: translation initiation factor IF-1 ...  118     9e-034
+WP_012070936.1  MULTISPECIES: translation initiation factor IF-1 ...  118     1e-033
+WP_008844395.1  MULTISPECIES: translation initiation factor IF-1 ...  118     1e-033
+WP_058029687.1  MULTISPECIES: translation initiation factor IF-1 ...  118     1e-033
+WP_027706826.1  translation initiation factor IF-1 [Zooshikella g...  118     1e-033
+WP_022984063.1  MULTISPECIES: translation initiation factor IF-1 ...  118     1e-033
+WP_068373302.1  translation initiation factor IF-1 [Paraglaciecol...  118     1e-033
+WP_025672815.1  MULTISPECIES: translation initiation factor IF-1 ...  118     1e-033
+WP_010130378.1  MULTISPECIES: translation initiation factor IF-1 ...  118     1e-033
+WP_027591103.1  MULTISPECIES: translation initiation factor IF-1 ...  118     1e-033
+WP_064025941.1  MULTISPECIES: translation initiation factor IF-1 ...  118     1e-033
+WP_044412068.1  translation initiation factor IF-1 [Thioalkalimic...  118     1e-033
+WP_031432649.1  translation initiation factor IF-1 [Methylomarinu...  118     1e-033
+WP_027853708.1  MULTISPECIES: translation initiation factor IF-1 ...  118     1e-033
+WP_031492527.1  translation initiation factor IF-1 [Succinivibrio...  118     1e-033
+WP_022968666.1  translation initiation factor IF-1 [Arenimonas or...  118     1e-033
+WP_013795500.1  MULTISPECIES: translation initiation factor IF-1 ...  117     2e-033
+WP_054487875.1  translation initiation factor IF-1 [Idiomarina ab...  117     2e-033
+WP_048671919.1  translation initiation factor IF-1 [Candidatus Co...  117     2e-033
+WP_007153725.1  MULTISPECIES: translation initiation factor IF-1 ...  117     2e-033
+WP_028292799.1  MULTISPECIES: translation initiation factor IF-1 ...  117     2e-033
+WP_007019821.1  MULTISPECIES: translation initiation factor IF-1 ...  117     2e-033
+WP_075609594.1  translation initiation factor IF-1 [Idiomarina sp...  117     2e-033
+WP_043101035.1  translation initiation factor IF-1 [Oleiagrimonas...  117     2e-033
+WP_027859812.1  translation initiation factor IF-1 [Marinobacteri...  117     2e-033
+WP_078319170.1  translation initiation factor IF-1 [Oceanospirill...  117     2e-033
+WP_010548695.1  translation initiation factor IF-1 [gamma proteob...  117     2e-033
+WP_053981222.1  translation initiation factor IF-1 [Marinagarivor...  117     2e-033
+WP_018974609.1  translation initiation factor IF-1 [Rudaea cellul...  117     2e-033
+WP_006003271.1  MULTISPECIES: translation initiation factor IF-1 ...  117     2e-033
+WP_070175908.1  MULTISPECIES: translation initiation factor IF-1 ...  117     2e-033
+WP_011507732.1  MULTISPECIES: translation initiation factor IF-1 ...  117     2e-033
+WP_005503333.1  translation initiation factor IF-1 [Grimontia hol...  117     2e-033
+WP_004725411.1  translation initiation factor IF-1 [Vibrio furnis...  117     2e-033
+WP_007224976.1  translation initiation factor IF-1 [marine gamma ...  117     2e-033
+WP_014994331.1  MULTISPECIES: translation initiation factor IF-1 ...  117     2e-033
+WP_003405083.1  MULTISPECIES: translation initiation factor IF-1 ...  117     2e-033
+WP_076722846.1  translation initiation factor IF-1 [Marinobacter ...  117     2e-033
+WP_008247839.1  translation initiation factor IF-1 [Zhongshania a...  117     2e-033
+WP_002962494.1  MULTISPECIES: translation initiation factor IF-1 ...  117     2e-033
+WP_010323196.1  translation initiation factor IF-1 [Marinobacteri...  117     2e-033
+WP_062479992.1  translation initiation factor IF-1 [Lacimicrobium...  117     2e-033
+WP_006010397.1  translation initiation factor IF-1 [Glaciecola pa...  117     2e-033
+WP_008929746.1  MULTISPECIES: translation initiation factor IF-1 ...  117     3e-033
+WP_007149029.1  MULTISPECIES: translation initiation factor IF-1 ...  117     3e-033
+WP_018624762.1  translation initiation factor IF-1 [Kangiella aqu...  117     3e-033
+WP_015280983.1  translation initiation factor IF-1 [Thioflavicocc...  117     3e-033
+WP_027872503.1  translation initiation factor IF-1 [Spongiibacter...  117     3e-033
+WP_008938619.1  MULTISPECIES: translation initiation factor IF-1 ...  117     3e-033
+WP_002553999.1  MULTISPECIES: translation initiation factor IF-1 ...  117     3e-033
+WP_053953583.1  translation initiation factor IF-1 [Idiomarina zo...  117     3e-033
+WP_067013924.1  translation initiation factor IF-1 [Marinomonas s...  117     3e-033
+WP_011396232.1  translation initiation factor IF-1 [Hahella cheju...  117     3e-033
+WP_040482095.1  translation initiation factor IF-1 [Luminiphilus ...  117     3e-033
+WP_013819653.1  MULTISPECIES: translation initiation factor IF-1 ...  117     3e-033
+WP_004581958.1  MULTISPECIES: translation initiation factor IF-1 ...  117     3e-033
+WP_009668496.1  translation initiation factor IF-1 [gamma proteob...  117     3e-033
+WP_021022425.1  MULTISPECIES: translation initiation factor IF-1 ...  117     3e-033
+WP_026375175.1  translation initiation factor IF-1 [Aestuariibact...  117     3e-033
+WP_006075347.1  MULTISPECIES: translation initiation factor IF-1 ...  117     3e-033
+WP_009835335.1  MULTISPECIES: translation initiation factor IF-1 ...  117     3e-033
+WP_014421226.1  MULTISPECIES: translation initiation factor IF-1 ...  117     4e-033
+WP_023401681.1  translation initiation factor IF-1 [Pseudoalterom...  117     4e-033
+WP_028301223.1  translation initiation factor IF-1 [Oceanospirill...  117     4e-033
+WP_077531475.1  translation initiation factor IF-1 [Halomonas uta...  117     4e-033
+WP_004269147.1  translation initiation factor IF-1 [Nitrosococcus...  117     4e-033
+WP_008489926.1  MULTISPECIES: translation initiation factor IF-1 ...  117     4e-033
+WP_029614443.1  translation initiation factor IF-1 [Pseudomonas p...  117     4e-033
+WP_038272213.1  translation initiation factor IF-1 [Xylella taiwa...  117     4e-033
+WP_010893946.1  translation initiation factor IF-1 [Xylella fasti...  117     4e-033
+WP_016492441.1  MULTISPECIES: translation initiation factor IF-1 ...  117     4e-033
+WP_044386042.1  translation initiation factor IF-1 [Marinobacter ...  117     4e-033
+WP_013219592.1  translation initiation factor IF-1 [Nitrosococcus...  117     4e-033
+WP_007017783.1  translation initiation factor IF-1 [Bermanella ma...  117     4e-033
+WP_026609371.1  MULTISPECIES: translation initiation factor IF-1 ...  117     4e-033
+WP_072549686.1  translation initiation factor IF-1 [Candidatus Fu...  117     4e-033
+WP_077557709.1  translation initiation factor IF-1 [Pasteurellace...  117     4e-033
+WP_058089554.1  MULTISPECIES: translation initiation factor IF-1 ...  117     4e-033
+WP_022965546.1  translation initiation factor IF-1 [Pseudomonas c...  116     5e-033
+WP_054070453.1  translation initiation factor IF-1 [Pseudomonas s...  116     5e-033
+WP_004262604.1  MULTISPECIES: translation initiation factor IF-1 ...  116     5e-033
+WP_016504048.1  translation initiation factor IF-1 [Candidatus Ph...  116     5e-033
+WP_053101714.1  translation initiation factor IF-1 [Oblitimonas a...  116     5e-033
+WP_018694084.1  translation initiation factor IF-1 [Algicola saga...  116     5e-033
+WP_036861763.1  translation initiation factor IF-1 [Porticoccus h...  116     6e-033
+WP_072576861.1  translation initiation factor IF-1 [Suttonella or...  116     6e-033
+WP_004395079.1  MULTISPECIES: translation initiation factor IF-1 ...  116     6e-033
+WP_028115266.1  MULTISPECIES: translation initiation factor IF-1 ...  116     6e-033
+WP_013332816.1  MULTISPECIES: translation initiation factor IF-1 ...  116     6e-033
+WP_011468168.1  MULTISPECIES: translation initiation factor IF-1 ...  116     6e-033
+WP_007350942.1  MULTISPECIES: translation initiation factor IF-1 ...  116     6e-033
+WP_070057980.1  translation initiation factor IF-1 [Marinobacter ...  116     6e-033
+WP_006990869.1  MULTISPECIES: translation initiation factor IF-1 ...  116     6e-033
+WP_012801389.1  translation initiation factor IF-1 [Kangiella kor...  116     7e-033
+WP_010363141.1  translation initiation factor IF-1 [Pseudoalterom...  116     7e-033
+WP_013982940.1  translation initiation factor IF-1 [Pseudomonas s...  116     7e-033
+WP_005600159.1  MULTISPECIES: translation initiation factor IF-1 ...  116     7e-033
+WP_061191022.1  translation initiation factor IF-1 [Pseudomonas a...  116     7e-033
+WP_011760168.1  translation initiation factor IF-1 [Shewanella am...  116     7e-033
+WP_007249140.1  translation initiation factor IF-1 [Pseudomonas s...  116     7e-033
+WP_055461515.1  MULTISPECIES: translation initiation factor IF-1 ...  116     7e-033
+WP_022660728.1  translation initiation factor IF-1 [Desulfovibrio...  116     7e-033
+WP_020409731.1  translation initiation factor IF-1 [Hahella gangh...  116     7e-033
+WP_020881716.1  MULTISPECIES: translation initiation factor IF-1 ...  116     8e-033
+WP_006704672.1  translation initiation factor IF-1 [Candidatus Re...  116     8e-033
+WP_045859879.1  translation initiation factor IF-1 [Alteromonadac...  116     8e-033
+WP_006788081.1  translation initiation factor IF-1 [Thiorhodospir...  116     8e-033
+WP_007618153.1  MULTISPECIES: translation initiation factor IF-1 ...  116     8e-033
+WP_010560183.1  MULTISPECIES: translation initiation factor IF-1 ...  116     8e-033
+WP_009143043.1  translation initiation factor IF-1 [Succinatimona...  116     8e-033
+WP_015046008.1  translation initiation factor IF-1 [Simiduia agar...  116     8e-033
+WP_025732678.1  MULTISPECIES: translation initiation factor IF-1 ...  116     8e-033
+WP_006231244.1  translation initiation factor IF-1 [Photobacteriu...  116     8e-033
+WP_018300477.1  translation initiation factor IF-1 [Fangia hongko...  116     8e-033
+WP_013034606.1  translation initiation factor IF-1 [Nitrosococcus...  116     9e-033
+WP_006717435.1  translation initiation factor IF-1 [Aggregatibact...  116     9e-033
+WP_001040192.1  MULTISPECIES: translation initiation factor IF-1 ...  115     9e-033
+WP_068998215.1  translation initiation factor IF-1 [Terasakiispir...  115     9e-033
+WP_019029000.1  MULTISPECIES: translation initiation factor IF-1 ...  115     1e-032
+WP_007111068.1  MULTISPECIES: translation initiation factor IF-1 ...  115     1e-032
+WP_008169200.1  MULTISPECIES: translation initiation factor IF-1 ...  115     1e-032
+WP_040816397.1  translation initiation factor IF-1 [gamma proteob...  115     1e-032
+WP_045819356.1  translation initiation factor IF-1 [Teredinibacte...  115     1e-032
+WP_071463778.1  translation initiation factor IF-1 [Idiomarina sp...  115     1e-032
+WP_005712424.1  MULTISPECIES: translation initiation factor IF-1 ...  115     1e-032
+WP_016961517.1  MULTISPECIES: translation initiation factor IF-1 ...  115     1e-032
+WP_012031501.1  translation initiation factor IF-1 [Dichelobacter...  115     1e-032
+WP_078237701.1  translation initiation factor IF-1 [Haemophilus p...  115     1e-032
+WP_068546331.1  translation initiation factor IF-1 [Thalassotalea...  115     1e-032
+WP_006081934.1  MULTISPECIES: translation initiation factor IF-1 ...  115     1e-032
+WP_070466733.1  translation initiation factor IF-1 [Aerococcus sp...  115     1e-032
+WP_021759309.1  translation initiation factor IF-1 [Desulfovibrio...  115     1e-032
+WP_010180309.1  translation initiation factor IF-1 [Glaciecola sp...  115     1e-032
+WP_077462897.1  translation initiation factor IF-1 [Rodentibacter...  115     1e-032
+WP_046561074.1  MULTISPECIES: translation initiation factor IF-1 ...  115     1e-032
+WP_005298441.1  MULTISPECIES: translation initiation factor IF-1 ...  115     1e-032
+WP_046305018.1  translation initiation factor IF-1 [Blochmannia e...  115     1e-032
+WP_009542175.1  translation initiation factor IF-1 [Caenispirillu...  115     1e-032
+WP_071263575.1  MULTISPECIES: translation initiation factor IF-1 ...  115     1e-032
+WP_013345495.1  translation initiation factor IF-1 [Ferrimonas ba...  115     1e-032
+WP_026352028.1  MULTISPECIES: translation initiation factor IF-1 ...  115     1e-032
+WP_002539157.1  MULTISPECIES: translation initiation factor IF-1 ...  115     1e-032
+WP_005420180.1  MULTISPECIES: translation initiation factor IF-1 ...  115     1e-032
+WP_001040191.1  translation initiation factor IF-1 [Vibrio mimicus]   115     1e-032
+WP_069313586.1  translation initiation factor IF-1 [Pisciricketts...  115     2e-032
+WP_013660522.1  translation initiation factor IF-1 [Marinomonas m...  115     2e-032
+WP_009839780.1  translation initiation factor IF-1 [Pseudoalterom...  115     2e-032
+WP_027175222.1  translation initiation factor IF-1 [Desulfovibrio...  115     2e-032
+WP_045449210.1  translation initiation factor IF-1 [Tepidicaulis ...  115     2e-032
+WP_068063502.1  translation initiation factor IF-1 [Rheinheimera ...  115     2e-032
+WP_025898002.1  translation initiation factor IF-1 [Sneathiella g...  115     2e-032
+WP_042144174.1  MULTISPECIES: translation initiation factor IF-1 ...  115     2e-032
+WP_059005406.1  translation initiation factor IF-1 [Pseudomonas a...  115     2e-032
+WP_018231659.1  MULTISPECIES: translation initiation factor IF-1 ...  115     2e-032
+WP_052664377.1  translation initiation factor IF-1 [Nitriliruptor...  115     2e-032
+WP_007145816.1  translation initiation factor IF-1 [Methylophaga ...  115     2e-032
+WP_011217896.1  translation initiation factor IF-1 [Photobacteriu...  115     2e-032
+WP_004083749.1  translation initiation factor IF-1 [Xylella fasti...  115     2e-032
+WP_077412635.1  translation initiation factor IF-1 [Marinicella s...  115     2e-032
+WP_008482294.1  MULTISPECIES: translation initiation factor IF-1 ...  115     2e-032
+WP_067562447.1  translation initiation factor IF-1 [Halofilum och...  115     2e-032
+WP_019530109.1  translation initiation factor IF-1 [Dasania marina]   115     2e-032
+WP_069316402.1  translation initiation factor IF-1 [Xenorhabdus h...  115     2e-032
+WP_066318014.1  MULTISPECIES: translation initiation factor IF-1 ...  115     2e-032
+WP_045035821.1  translation initiation factor IF-1 [Photobacteriu...  115     2e-032
+WP_010627817.1  MULTISPECIES: translation initiation factor IF-1 ...  115     3e-032
+WP_009846340.1  translation initiation factor IF-1 [Vibrio sp. ME...  115     3e-032
+WP_085157256.1  translation initiation factor IF-1 [Alteromonadac...  114     3e-032
+WP_067606353.1  translation initiation factor IF-1 [Alcanivorax s...  114     3e-032
+WP_034435947.1  translation initiation factor IF-1 [Candidatus Co...  114     3e-032
+WP_068619099.1  translation initiation factor IF-1 [Woeseia oceani]   114     3e-032
+WP_037333269.1  translation initiation factor IF-1 [Salinisphaera...  114     3e-032
+WP_005493784.1  MULTISPECIES: translation initiation factor IF-1 ...  114     3e-032
+WP_069588804.1  MULTISPECIES: translation initiation factor IF-1 ...  114     3e-032
+WP_034052342.1  translation initiation factor IF-1 [Pseudomonas a...  114     3e-032
+WP_012073642.1  translation initiation factor IF-1 [Actinobacillu...  114     3e-032
+WP_011496276.1  MULTISPECIES: translation initiation factor IF-1 ...  114     3e-032
+WP_007525542.1  MULTISPECIES: translation initiation factor IF-1 ...  114     3e-032
+WP_005627617.1  MULTISPECIES: translation initiation factor IF-1 ...  114     3e-032
+WP_027185205.1  translation initiation factor IF-1 [Desulfovibrio...  114     3e-032
+WP_035513460.1  translation initiation factor IF-1 [Pseudohaliea ...  114     3e-032
+YP_009256790.1  translational initiation factor 1 [Closterium bai...  114     3e-032
+WP_005368778.1  MULTISPECIES: translation initiation factor IF-1 ...  114     3e-032
+WP_007233846.1  MULTISPECIES: translation initiation factor IF-1 ...  114     3e-032
+WP_050954931.1  translation initiation factor IF-1 [Haemophilus i...  114     3e-032
+WP_048689862.1  translation initiation factor IF-1 [Catenovulum m...  114     4e-032
+WP_027948202.1  MULTISPECIES: translation initiation factor IF-1 ...  114     4e-032
+WP_025621295.1  translation initiation factor IF-1 [Vibrio paraha...  114     4e-032
+YP_009033724.1  translational initiation factor 1 (chloroplast) [...  114     4e-032
+WP_017445978.1  translation initiation factor IF-1 [Gayadomonas j...  114     4e-032
+WP_027961652.1  MULTISPECIES: translation initiation factor IF-1 ...  114     4e-032
+WP_070124261.1  translation initiation factor IF-1 [Alteromonas c...  114     4e-032
+WP_070072537.1  translation initiation factor IF-1 [Acidihalobact...  114     5e-032
+WP_077313262.1  translation initiation factor IF-1 [Vibrio sp. CE...  114     5e-032
+WP_069470269.1  translation initiation factor IF-1 [Candidatus Ma...  114     5e-032
+WP_038238038.1  translation initiation factor IF-1 [Xenorhabdus s...  114     5e-032
+WP_005984815.1  translation initiation factor IF-1 [Desulfovibrio...  114     5e-032
+WP_008610216.1  MULTISPECIES: translation initiation factor IF-1 ...  114     5e-032
+WP_002682723.1  MULTISPECIES: translation initiation factor IF-1 ...  114     5e-032
+WP_005541870.1  translation initiation factor IF-1 [Aggregatibact...  114     5e-032
+WP_020340122.1  translation initiation factor IF-1 [Pseudomonas s...  115     5e-032
+WP_014890360.1  MULTISPECIES: translation initiation factor IF-1 ...  114     5e-032
+YP_009258595.1  translational initiation factor 1 [Cosmarium botr...  114     5e-032
+WP_027939629.1  translation initiation factor IF-1 [Anaerobiospir...  114     6e-032
+WP_013261648.1  translation initiation factor IF-1 [gamma proteob...  114     6e-032
+WP_013746899.1  MULTISPECIES: translation initiation factor IF-1 ...  114     6e-032
+WP_008290604.1  translation initiation factor IF-1 [Methylophaga ...  114     6e-032
+WP_005598198.1  MULTISPECIES: translation initiation factor IF-1 ...  114     6e-032
+WP_010861786.1  MULTISPECIES: translation initiation factor IF-1 ...  114     6e-032
+YP_636426.1  translational initiation factor 1 [Staurastrum punct...  114     6e-032
+WP_058574334.1  MULTISPECIES: translation initiation factor IF-1 ...  114     6e-032
+NP_683835.1  translation initiation factor 1 [Chaetosphaeridium g...  114     6e-032
+WP_069958019.1  translation initiation factor IF-1 [Magnetovibrio...  114     6e-032
+WP_010944385.1  translation initiation factor IF-1 [[Haemophilus]...  114     7e-032
+WP_034412971.1  translation initiation factor IF-1 [Candidatus Ph...  114     7e-032
+WP_028007834.1  MULTISPECIES: translation initiation factor IF-1 ...  114     7e-032
+WP_016211259.1  translation initiation factor IF-1 [Pisciricketts...  114     7e-032
+WP_016955625.1  translation initiation factor IF-1 [Catenovulum a...  114     7e-032
+WP_085127154.1  translation initiation factor IF-1 [Tistlia conso...  114     7e-032
+WP_065970641.1  translation initiation factor IF-1 [Acidiferrobac...  113     7e-032
+WP_006912554.1  translation initiation factor IF-1 [Salinisphaera...  113     7e-032
+WP_025820228.1  translation initiation factor IF-1 [Shewanella ma...  113     8e-032
+WP_004287780.1  MULTISPECIES: translation initiation factor IF-1 ...  113     8e-032
+WP_032093655.1  translation initiation factor IF-1 [Necropsobacte...  113     8e-032
+WP_041069245.1  translation initiation factor IF-1 [Candidatus Is...  113     8e-032
+WP_065237439.1  translation initiation factor IF-1 [Gallibacteriu...  113     8e-032
+WP_005705342.1  MULTISPECIES: translation initiation factor IF-1 ...  113     8e-032
+WP_011043571.1  MULTISPECIES: translation initiation factor IF-1 ...  113     8e-032
+WP_041063281.1  translation initiation factor IF-1 [Candidatus Ta...  113     8e-032
+WP_031578628.1  translation initiation factor IF-1 [Ruminobacter ...  113     8e-032
+WP_022729997.1  MULTISPECIES: translation initiation factor IF-1 ...  113     8e-032
+WP_013975822.1  translation initiation factor IF-1 [Candidatus Mo...  113     8e-032
+WP_078716225.1  translation initiation factor IF-1 [Desulfovibrio...  113     9e-032
+WP_064004589.1  translation initiation factor IF-1 [Pisciricketts...  114     9e-032
+WP_060776863.1  translation initiation factor IF-1 [Aerococcus ch...  113     9e-032
+WP_049356144.1  translation initiation factor IF-1 [Haemophilus p...  113     9e-032
+WP_012824618.1  MULTISPECIES: translation initiation factor IF-1 ...  113     9e-032
+WP_016353566.1  translation initiation factor IF-1 [Spiribacter s...  113     9e-032
+WP_061196742.1  translation initiation factor IF-1 [Pseudomonas a...  113     9e-032
+WP_020648417.1  translation initiation factor IF-1 [Solimonas var...  113     1e-031
+WP_007227938.1  translation initiation factor IF-1 [marine gamma ...  113     1e-031
+WP_011865366.1  MULTISPECIES: translation initiation factor IF-1 ...  113     1e-031
+WP_027252769.1  translation initiation factor IF-1 [Photobacteriu...  113     1e-031
+WP_015227146.1  MULTISPECIES: translation initiation factor IF-1 ...  113     1e-031
+WP_029889740.1  translation initiation factor IF-1 [Polycyclovora...  113     1e-031
+WP_003033733.1  MULTISPECIES: translation initiation factor IF-1 ...  113     1e-031
+WP_049304939.1  translation initiation factor IF-1 [Pseudomonas a...  113     1e-031
+WP_010454894.1  translation initiation factor IF-1 [Succinivibrio...  113     1e-031
+WP_039020463.1  translation initiation factor IF-1 [Escherichia c...  113     1e-031
+WP_037439960.1  translation initiation factor IF-1 [Shewanella ma...  113     1e-031
+WP_011814188.1  translation initiation factor IF-1 [Halorhodospir...  113     1e-031
+WP_058502115.1  translation initiation factor IF-1 [Legionella is...  113     1e-031
+WP_038086386.1  translation initiation factor IF-1 [Acidihalobact...  113     1e-031
+WP_005717339.1  MULTISPECIES: translation initiation factor IF-1 ...  113     1e-031
+WP_072281760.1  translation initiation factor IF-1 [Rappaport isr...  113     1e-031
+WP_026014757.1  MULTISPECIES: translation initiation factor IF-1 ...  113     1e-031
+WP_064460947.1  translation initiation factor IF-1 [Francisella p...  113     1e-031
+WP_080886901.1  translation initiation factor IF-1 [Nitrospira ja...  113     1e-031
+WP_025630845.1  translation initiation factor IF-1 [Vibrio paraha...  113     1e-031
+WP_009726411.1  MULTISPECIES: translation initiation factor IF-1 ...  113     1e-031
+WP_004141860.1  translation initiation factor IF-1 [Klebsiella pn...  113     1e-031
+WP_019676586.1  MULTISPECIES: translation initiation factor IF-1 ...  113     1e-031
+WP_077464800.1  translation initiation factor IF-1 [Rodentibacter...  113     1e-031
+WP_011705734.1  translation initiation factor IF-1 [Aeromonas hyd...  113     1e-031
+WP_077071795.1  translation initiation factor IF-1 [Mailhella mas...  113     1e-031
+YP_009258776.1  translational initiation factor 1 [Cylindrocystis...  113     1e-031
+WP_020954558.1  translation initiation factor IF-1 [Borrelia miya...  113     1e-031
+WP_025217878.1  MULTISPECIES: translation initiation factor IF-1 ...  113     1e-031
+WP_013516709.1  translation initiation factor IF-1 [Candidatus Bl...  113     1e-031
+WP_027369258.1  translation initiation factor IF-1 [Desulfovermic...  113     1e-031
+WP_072155533.1  translation initiation factor IF-1 [Idiomarinacea...  113     1e-031
+WP_024953359.1  MULTISPECIES: translation initiation factor IF-1 ...  113     1e-031
+WP_075433349.1  translation initiation factor IF-1 [Buchnera aphi...  113     1e-031
+WP_027179159.1  translation initiation factor IF-1 [Desulfovibrio...  112     2e-031
+WP_013702528.1  translation initiation factor IF-1 [Treponema suc...  112     2e-031
+YP_001019084.1  translational initiation factor 1 [Chlorokybus at...  113     2e-031
+WP_006918952.1  MULTISPECIES: translation initiation factor IF-1 ...  112     2e-031
+WP_005300033.1  MULTISPECIES: translation initiation factor IF-1 ...  112     2e-031
+WP_022605586.1  translation initiation factor IF-1 [Rubidibacter ...  112     2e-031
+NP_904226.1  translation initiation factor 1 [Physcomitrella patens]  113     2e-031
+WP_008871736.1  translation initiation factor IF-1 [Desulfonatron...  112     2e-031
+WP_015258376.1  translation initiation factor IF-1 [Thioalkalivib...  112     2e-031
+WP_028684310.1  translation initiation factor IF-1 [Phaseolibacte...  112     2e-031
+WP_001040186.1  translation initiation factor IF-1 [Salmonella en...  112     2e-031
+WP_018659688.1  translation initiation factor IF-1 [Allofustis se...  112     2e-031
+WP_038682305.1  translation initiation factor IF-1 [Rubrobacter r...  112     2e-031
+WP_001040187.1  MULTISPECIES: translation initiation factor IF-1 ...  112     2e-031
+YP_635783.1  translational initiation factor 1 [Chara vulgaris]       113     2e-031
+WP_017024042.1  translation initiation factor IF-1 [Vibrio rumoie...  112     2e-031
+WP_025248131.1  translation initiation factor IF-1 [Mannheimia va...  112     2e-031
+WP_014888287.1  translation initiation factor IF-1 [secondary end...  112     2e-031
+WP_025407844.1  translation initiation factor IF-1 [Borrelia cori...  112     2e-031
+WP_012593612.1  MULTISPECIES: translation initiation factor IF-1 ...  112     2e-031
+WP_012638400.1  translation initiation factor IF-1 [Thioalkalivib...  112     2e-031
+WP_012421943.1  translation initiation factor IF-1 [Borrelia herm...  112     2e-031
+WP_031563426.1  translation initiation factor IF-1 [Ruminococcus ...  112     2e-031
+WP_028113557.1  translation initiation factor IF-1 [Ferrimonas ky...  112     2e-031
+WP_028879425.1  MULTISPECIES: translation initiation factor IF-1 ...  112     2e-031
+WP_079820115.1  translation initiation factor IF-1 [Salmonella en...  112     2e-031
+WP_066920496.1  translation initiation factor IF-1 [Steroidobacte...  112     2e-031
+WP_022951839.1  translation initiation factor IF-1 [Leucothrix mu...  112     2e-031
+WP_011646371.1  MULTISPECIES: translation initiation factor IF-1 ...  112     2e-031
+WP_012537936.1  MULTISPECIES: translation initiation factor IF-1 ...  112     2e-031
+WP_046009034.1  translation initiation factor IF-1 [Oleispira ant...  112     2e-031
+WP_015465665.1  MULTISPECIES: translation initiation factor IF-1 ...  112     2e-031
+WP_075474191.1  translation initiation factor IF-1 [Buchnera aphi...  112     2e-031
+WP_026959988.1  MULTISPECIES: translation initiation factor IF-1 ...  112     2e-031
+WP_020675823.1  translation initiation factor IF-1 [Geopsychrobac...  112     2e-031
+WP_033552083.1  translation initiation factor IF-1 [Escherichia c...  112     2e-031
+WP_008295635.1  translation initiation factor IF-1 [Congregibacte...  112     2e-031
+WP_084099199.1  translation initiation factor IF-1 [Aerococcus suis]  112     2e-031
+WP_019613018.1  MULTISPECIES: translation initiation factor IF-1 ...  112     2e-031
+WP_034612205.1  MULTISPECIES: translation initiation factor IF-1 ...  112     2e-031
+WP_006813614.1  MULTISPECIES: translation initiation factor IF-1 ...  112     2e-031
+WP_006008898.1  MULTISPECIES: translation initiation factor IF-1 ...  112     2e-031
+WP_009874269.1  translation initiation factor IF-1 [Buchnera aphi...  112     3e-031
+WP_007419779.1  MULTISPECIES: translation initiation factor IF-1 ...  112     3e-031
+WP_013669764.1  MULTISPECIES: translation initiation factor IF-1 ...  112     3e-031
+WP_015879384.1  MULTISPECIES: translation initiation factor IF-1 ...  112     3e-031
+WP_018266249.1  MULTISPECIES: translation initiation factor IF-1 ...  112     3e-031
+WP_039730604.1  translation initiation factor IF-1 [Lyngbya confe...  112     3e-031
+WP_016401030.1  MULTISPECIES: translation initiation factor IF-1 ...  112     3e-031
+WP_028954055.1  translation initiation factor IF-1 [Synechocystis...  112     3e-031
+WP_045212030.1  translation initiation factor IF-1 [Desulfonatron...  112     3e-031
+WP_027300791.1  translation initiation factor IF-1 [Rhodospirilla...  112     3e-031
+WP_070079992.1  translation initiation factor IF-1 [Acidihalobact...  112     3e-031
+WP_006706298.1  translation initiation factor IF-1 [Candidatus Re...  112     3e-031
+WP_025406293.1  translation initiation factor IF-1 [Borrelia herm...  112     3e-031
+WP_010961043.1  translation initiation factor IF-1 [Methylococcus...  112     3e-031
+WP_054657603.1  translation initiation factor IF-1 [Lactobacillus...  112     3e-031
+WP_036532284.1  translation initiation factor IF-1 [Neosynechococ...  112     3e-031
+WP_045054257.1  translation initiation factor IF-1 [Aliterella at...  112     3e-031
+WP_027190819.1  translation initiation factor IF-1 [Desulfovibrio...  112     3e-031
+WP_071517812.1  translation initiation factor IF-1 [Geitlerinema ...  112     3e-031
+
+
+>WP_001284370.1 MULTISPECIES: translation initiation factor IF-1 [Acinetobacter]
+ YP_004997601.1 protein chain initiation factor IF-1 [Acinetobacter pittii PHEA-2]
+Length=73
+
+ Score = 150 bits (378),  Expect = 3e-046, Method: Compositional matrix adjust.
+ Identities = 73/73 (100%), Positives = 73/73 (100%), Gaps = 0/73 (0%)
+
+Query  1   MANKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTP  60
+           MANKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTP
+Sbjct  1   MANKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTP  60
+
+Query  61  YDLTKGRITYRAR  73
+           YDLTKGRITYRAR
+Sbjct  61  YDLTKGRITYRAR  73
+
+
+>WP_004692529.1 MULTISPECIES: translation initiation factor IF-1 [Acinetobacter]
+Length=73
+
+ Score = 149 bits (376),  Expect = 6e-046, Method: Compositional matrix adjust.
+ Identities = 72/73 (99%), Positives = 73/73 (100%), Gaps = 0/73 (0%)
+
+Query  1   MANKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTP  60
+           MANKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTP
+Sbjct  1   MANKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTP  60
+
+Query  61  YDLTKGRITYRAR  73
+           YDL+KGRITYRAR
+Sbjct  61  YDLSKGRITYRAR  73
+
+
+>WP_031952088.1 translation initiation factor IF-1 [Acinetobacter baumannii]
+Length=73
+
+ Score = 149 bits (375),  Expect = 8e-046, Method: Compositional matrix adjust.
+ Identities = 72/73 (99%), Positives = 73/73 (100%), Gaps = 0/73 (0%)
+
+Query  1   MANKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTP  60
+           MANKEELIEFEGVVTETLPNTMFRVRLENGHEV+AHISGKMRKHYIRILTGDSVKVEMTP
+Sbjct  1   MANKEELIEFEGVVTETLPNTMFRVRLENGHEVMAHISGKMRKHYIRILTGDSVKVEMTP  60
+
+Query  61  YDLTKGRITYRAR  73
+           YDLTKGRITYRAR
+Sbjct  61  YDLTKGRITYRAR  73
+
+
+>WP_016657571.1 translation initiation factor IF-1 [Acinetobacter rudis]
+Length=73
+
+ Score = 148 bits (374),  Expect = 1e-045, Method: Compositional matrix adjust.
+ Identities = 71/73 (97%), Positives = 73/73 (100%), Gaps = 0/73 (0%)
+
+Query  1   MANKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTP  60
+           MANKEELIEFEGVVTETLPNTMFRVRLENGHEV+AHISGKMRKHYIRILTGDSVKVEMTP
+Sbjct  1   MANKEELIEFEGVVTETLPNTMFRVRLENGHEVVAHISGKMRKHYIRILTGDSVKVEMTP  60
+
+Query  61  YDLTKGRITYRAR  73
+           YDL+KGRITYRAR
+Sbjct  61  YDLSKGRITYRAR  73
+
+
+>WP_004718087.1 MULTISPECIES: translation initiation factor IF-1 [Acinetobacter]
+Length=73
+
+ Score = 148 bits (374),  Expect = 1e-045, Method: Compositional matrix adjust.
+ Identities = 72/73 (99%), Positives = 73/73 (100%), Gaps = 0/73 (0%)
+
+Query  1   MANKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTP  60
+           MANKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGD+VKVEMTP
+Sbjct  1   MANKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDNVKVEMTP  60
+
+Query  61  YDLTKGRITYRAR  73
+           YDLTKGRITYRAR
+Sbjct  61  YDLTKGRITYRAR  73
+
+
+>WP_026472443.1 MULTISPECIES: translation initiation factor IF-1 [Alkanindiges]
+Length=73
+
+ Score = 148 bits (374),  Expect = 1e-045, Method: Compositional matrix adjust.
+ Identities = 72/73 (99%), Positives = 72/73 (99%), Gaps = 0/73 (0%)
+
+Query  1   MANKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTP  60
+           MANKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGD VKVEMTP
+Sbjct  1   MANKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDQVKVEMTP  60
+
+Query  61  YDLTKGRITYRAR  73
+           YDLTKGRITYRAR
+Sbjct  61  YDLTKGRITYRAR  73
+
+
+>WP_075911516.1 translation initiation factor IF-1 [Acinetobacter baumannii]
+Length=73
+
+ Score = 148 bits (373),  Expect = 1e-045, Method: Compositional matrix adjust.
+ Identities = 72/73 (99%), Positives = 72/73 (99%), Gaps = 0/73 (0%)
+
+Query  1   MANKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTP  60
+           MANKEELIEFE VVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTP
+Sbjct  1   MANKEELIEFESVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTP  60
+
+Query  61  YDLTKGRITYRAR  73
+           YDLTKGRITYRAR
+Sbjct  61  YDLTKGRITYRAR  73
+
+
+>WP_032013547.1 translation initiation factor IF-1 [Acinetobacter baumannii]
+Length=73
+
+ Score = 148 bits (373),  Expect = 2e-045, Method: Compositional matrix adjust.
+ Identities = 72/73 (99%), Positives = 72/73 (99%), Gaps = 0/73 (0%)
+
+Query  1   MANKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTP  60
+           MANKEELIEFEGVVTETLPNTMF VRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTP
+Sbjct  1   MANKEELIEFEGVVTETLPNTMFSVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTP  60
+
+Query  61  YDLTKGRITYRAR  73
+           YDLTKGRITYRAR
+Sbjct  61  YDLTKGRITYRAR  73
+
+
+>WP_034671744.1 translation initiation factor IF-1 [Acinetobacter sp. 272263]
+Length=73
+
+ Score = 147 bits (372),  Expect = 2e-045, Method: Compositional matrix adjust.
+ Identities = 72/73 (99%), Positives = 72/73 (99%), Gaps = 0/73 (0%)
+
+Query  1   MANKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTP  60
+           MANKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILT DSVKVEMTP
+Sbjct  1   MANKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTCDSVKVEMTP  60
+
+Query  61  YDLTKGRITYRAR  73
+           YDLTKGRITYRAR
+Sbjct  61  YDLTKGRITYRAR  73
+
+
+>WP_004920223.1 MULTISPECIES: translation initiation factor IF-1 [Acinetobacter]
+Length=73
+
+ Score = 147 bits (372),  Expect = 3e-045, Method: Compositional matrix adjust.
+ Identities = 71/73 (97%), Positives = 73/73 (100%), Gaps = 0/73 (0%)
+
+Query  1   MANKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTP  60
+           MANKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGD+VKVEMTP
+Sbjct  1   MANKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDNVKVEMTP  60
+
+Query  61  YDLTKGRITYRAR  73
+           YDL+KGRITYRAR
+Sbjct  61  YDLSKGRITYRAR  73
+
+
+>WP_004754324.1 MULTISPECIES: translation initiation factor IF-1 [Acinetobacter]
+Length=73
+
+ Score = 147 bits (372),  Expect = 3e-045, Method: Compositional matrix adjust.
+ Identities = 72/73 (99%), Positives = 72/73 (99%), Gaps = 0/73 (0%)
+
+Query  1   MANKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTP  60
+           MANKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGD VKVEMTP
+Sbjct  1   MANKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDHVKVEMTP  60
+
+Query  61  YDLTKGRITYRAR  73
+           YDLTKGRITYRAR
+Sbjct  61  YDLTKGRITYRAR  73
+
+
+>WP_065026639.1 translation initiation factor IF-1 [Acinetobacter baumannii]
+Length=73
+
+ Score = 147 bits (370),  Expect = 5e-045, Method: Compositional matrix adjust.
+ Identities = 72/73 (99%), Positives = 72/73 (99%), Gaps = 0/73 (0%)
+
+Query  1   MANKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTP  60
+           MANKEELIEFEGVVTET PNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTP
+Sbjct  1   MANKEELIEFEGVVTETHPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTP  60
+
+Query  61  YDLTKGRITYRAR  73
+           YDLTKGRITYRAR
+Sbjct  61  YDLTKGRITYRAR  73
+
+
+>WP_039620943.1 translation initiation factor IF-1 [Acinetobacter harbinensis]
+Length=73
+
+ Score = 146 bits (369),  Expect = 8e-045, Method: Compositional matrix adjust.
+ Identities = 72/73 (99%), Positives = 72/73 (99%), Gaps = 0/73 (0%)
+
+Query  1   MANKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTP  60
+           MA KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTP
+Sbjct  1   MAIKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTP  60
+
+Query  61  YDLTKGRITYRAR  73
+           YDLTKGRITYRAR
+Sbjct  61  YDLTKGRITYRAR  73
+
+
+>WP_011961149.1 MULTISPECIES: translation initiation factor IF-1 [Psychrobacter]
+Length=74
+
+ Score = 131 bits (329),  Expect = 9e-039, Method: Compositional matrix adjust.
+ Identities = 60/73 (82%), Positives = 68/73 (93%), Gaps = 0/73 (0%)
+
+Query  1   MANKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTP  60
+           MA K+++IEFEG V +TLPNT+F+VRLENGHE+IAHISGKMRKHYIRILTGD VKVEMTP
+Sbjct  1   MAKKDDIIEFEGEVIDTLPNTLFKVRLENGHEIIAHISGKMRKHYIRILTGDKVKVEMTP  60
+
+Query  61  YDLTKGRITYRAR  73
+           YDLTKGRITYR +
+Sbjct  61  YDLTKGRITYRGK  73
+
+
+>WP_019671605.1 MULTISPECIES: translation initiation factor IF-1 [Psychrobacter]
+Length=74
+
+ Score = 130 bits (328),  Expect = 1e-038, Method: Compositional matrix adjust.
+ Identities = 60/73 (82%), Positives = 68/73 (93%), Gaps = 0/73 (0%)
+
+Query  1   MANKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTP  60
+           MA K+++IEFEG V +TLPNT+F+VRLENGHE+IAHISGKMRKHYIRILTGD VKVEMTP
+Sbjct  1   MAKKDDIIEFEGEVIDTLPNTLFKVRLENGHEIIAHISGKMRKHYIRILTGDKVKVEMTP  60
+
+Query  61  YDLTKGRITYRAR  73
+           YDLTKGRITYR +
+Sbjct  61  YDLTKGRITYRGK  73
+
+
+>WP_007395612.1 MULTISPECIES: translation initiation factor IF-1 [Psychrobacter]
+Length=74
+
+ Score = 130 bits (327),  Expect = 2e-038, Method: Compositional matrix adjust.
+ Identities = 59/73 (81%), Positives = 68/73 (93%), Gaps = 0/73 (0%)
+
+Query  1   MANKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTP  60
+           MA K+++IEFEG V +TLPNT+F+VRLENGHE+IAHISGKMRKHYIRILTGD VKVEMTP
+Sbjct  1   MAKKDDIIEFEGEVIDTLPNTLFKVRLENGHEIIAHISGKMRKHYIRILTGDKVKVEMTP  60
+
+Query  61  YDLTKGRITYRAR  73
+           YDL+KGRITYR +
+Sbjct  61  YDLSKGRITYRGK  73
+
+
+>WP_027068842.1 translation initiation factor IF-1 [Lysobacter defluvii]
+Length=72
+
+ Score = 130 bits (326),  Expect = 2e-038, Method: Compositional matrix adjust.
+ Identities = 60/70 (86%), Positives = 67/70 (96%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K+++IEFEG V+ETLPNTMFRVRLENGHE+IAHISG+MRKHYIRILTGD VKVEMTPYDL
+Sbjct  3   KDDVIEFEGTVSETLPNTMFRVRLENGHEIIAHISGRMRKHYIRILTGDRVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYR +
+Sbjct  63  TKGRITYRMK  72
+
+
+>WP_003657459.1 MULTISPECIES: translation initiation factor IF-1 [Moraxella]
+Length=73
+
+ Score = 130 bits (326),  Expect = 2e-038, Method: Compositional matrix adjust.
+ Identities = 59/73 (81%), Positives = 68/73 (93%), Gaps = 0/73 (0%)
+
+Query  1   MANKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTP  60
+           MA K+++IEFEG V +TLPNT+F+VRL+NGHE+IAHISGKMRKHYIRILTGD VKVEMTP
+Sbjct  1   MAKKDDIIEFEGEVIDTLPNTLFKVRLDNGHEIIAHISGKMRKHYIRILTGDKVKVEMTP  60
+
+Query  61  YDLTKGRITYRAR  73
+           YDLTKGRITYR +
+Sbjct  61  YDLTKGRITYRGK  73
+
+
+>WP_068859314.1 translation initiation factor IF-1 [Perlucidibaca sp. BK296]
+Length=72
+
+ Score = 130 bits (326),  Expect = 3e-038, Method: Compositional matrix adjust.
+ Identities = 61/71 (86%), Positives = 66/71 (93%), Gaps = 0/71 (0%)
+
+Query  3   NKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYD  62
+           +KEE IEF+GVV +TLPNTMFRV+LENGH VIAHISGKMRKHYIRILTGD VKVEMTPYD
+Sbjct  2   SKEEQIEFDGVVVDTLPNTMFRVKLENGHVVIAHISGKMRKHYIRILTGDQVKVEMTPYD  61
+
+Query  63  LTKGRITYRAR  73
+           L+KGRITYR R
+Sbjct  62  LSKGRITYRVR  72
+
+
+>WP_078306721.1 translation initiation factor IF-1 [Moraxella lincolnii]
+Length=74
+
+ Score = 129 bits (324),  Expect = 5e-038, Method: Compositional matrix adjust.
+ Identities = 58/73 (79%), Positives = 68/73 (93%), Gaps = 0/73 (0%)
+
+Query  1   MANKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTP  60
+           MA K+++IEFEG V +TLPNT+F+VRL+NGHE+IAHISGKMRKHYIRILTGD VKVEMTP
+Sbjct  1   MAKKDDIIEFEGEVIDTLPNTLFKVRLDNGHEIIAHISGKMRKHYIRILTGDKVKVEMTP  60
+
+Query  61  YDLTKGRITYRAR  73
+           YDL+KGRITYR +
+Sbjct  61  YDLSKGRITYRGK  73
+
+
+>WP_029102801.1 MULTISPECIES: translation initiation factor IF-1 [Moraxella]
+Length=73
+
+ Score = 129 bits (324),  Expect = 5e-038, Method: Compositional matrix adjust.
+ Identities = 58/73 (79%), Positives = 68/73 (93%), Gaps = 0/73 (0%)
+
+Query  1   MANKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTP  60
+           MA K+++IEFEG V +TLPNT+F+VRL+NGHE+IAHISGKMRKHYIRILTGD VKVEMTP
+Sbjct  1   MAKKDDIIEFEGEVIDTLPNTLFKVRLDNGHEIIAHISGKMRKHYIRILTGDKVKVEMTP  60
+
+Query  61  YDLTKGRITYRAR  73
+           YDL+KGRITYR +
+Sbjct  61  YDLSKGRITYRGK  73
+
+
+>WP_076587867.1 translation initiation factor IF-1 [Luteimonas tolerans]
+Length=72
+
+ Score = 129 bits (323),  Expect = 6e-038, Method: Compositional matrix adjust.
+ Identities = 58/70 (83%), Positives = 67/70 (96%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K+++IEFEG ++ETLPNTMFRV+LENGHE+IAHISG+MRKHYIRILTGD VKVEMTPYDL
+Sbjct  3   KDDVIEFEGTISETLPNTMFRVKLENGHEIIAHISGRMRKHYIRILTGDKVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYR +
+Sbjct  63  TKGRITYRMK  72
+
+
+>WP_007116282.1 MULTISPECIES: translation initiation factor IF-1 [Proteobacteria]
+Length=73
+
+ Score = 129 bits (323),  Expect = 7e-038, Method: Compositional matrix adjust.
+ Identities = 59/73 (81%), Positives = 68/73 (93%), Gaps = 0/73 (0%)
+
+Query  1   MANKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTP  60
+           MA K+++IEFEG V +TLPNT+F+VRLENGHE+IAHISGKMRK+YIRILTGD VKVEMTP
+Sbjct  1   MAKKDDVIEFEGEVVDTLPNTLFKVRLENGHEIIAHISGKMRKNYIRILTGDKVKVEMTP  60
+
+Query  61  YDLTKGRITYRAR  73
+           YDL+KGRITYR R
+Sbjct  61  YDLSKGRITYRGR  73
+
+
+>WP_066804404.1 translation initiation factor IF-1 [Moraxella oblonga]
+Length=73
+
+ Score = 129 bits (323),  Expect = 8e-038, Method: Compositional matrix adjust.
+ Identities = 58/73 (79%), Positives = 68/73 (93%), Gaps = 0/73 (0%)
+
+Query  1   MANKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTP  60
+           MA K+++IEFEG V +TLPNT+F+VRL+NGHE+IAHISGKMRKHYIRILTGD VKVEMTP
+Sbjct  1   MAKKDDIIEFEGEVIDTLPNTLFKVRLDNGHEIIAHISGKMRKHYIRILTGDRVKVEMTP  60
+
+Query  61  YDLTKGRITYRAR  73
+           YDL+KGRITYR +
+Sbjct  61  YDLSKGRITYRGK  73
+
+
+>WP_036168934.1 translation initiation factor IF-1 [Lysobacter dokdonensis]
+Length=72
+
+ Score = 128 bits (321),  Expect = 1e-037, Method: Compositional matrix adjust.
+ Identities = 59/70 (84%), Positives = 67/70 (96%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K+++IEFEG VTETLPNTMFRV+LENGHE+IAHISG+MRK+YIRILTGD VKVEMTPYDL
+Sbjct  3   KDDVIEFEGTVTETLPNTMFRVKLENGHEIIAHISGRMRKNYIRILTGDKVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYR +
+Sbjct  63  TKGRITYRMK  72
+
+
+>WP_072755445.1 translation initiation factor IF-1 [Thermomonas hydrothermalis]
+Length=72
+
+ Score = 128 bits (321),  Expect = 1e-037, Method: Compositional matrix adjust.
+ Identities = 60/70 (86%), Positives = 67/70 (96%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K+++IEFEG VTETLPNTMFRV+LENGHE+IAHISG+MRK+YIRILTGD VKVEMTPYDL
+Sbjct  3   KDDVIEFEGTVTETLPNTMFRVKLENGHEIIAHISGRMRKNYIRILTGDRVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYR R
+Sbjct  63  TKGRITYRHR  72
+
+
+>WP_009501196.1 MULTISPECIES: translation initiation factor IF-1 [Moraxella]
+Length=73
+
+ Score = 127 bits (320),  Expect = 2e-037, Method: Compositional matrix adjust.
+ Identities = 59/73 (81%), Positives = 67/73 (92%), Gaps = 0/73 (0%)
+
+Query  1   MANKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTP  60
+           MA K+++IEFEG V +TLPNT+F+VRLENGHE+IAHISGKMRK+YIRILTGD VKVEMTP
+Sbjct  1   MAKKDDIIEFEGEVIDTLPNTLFKVRLENGHEIIAHISGKMRKNYIRILTGDKVKVEMTP  60
+
+Query  61  YDLTKGRITYRAR  73
+           YDL KGRITYR R
+Sbjct  61  YDLDKGRITYRGR  73
+
+
+>WP_027080044.1 translation initiation factor IF-1 [Luteimonas mephitis]
+Length=72
+
+ Score = 127 bits (320),  Expect = 2e-037, Method: Compositional matrix adjust.
+ Identities = 58/70 (83%), Positives = 67/70 (96%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K+++IEFEG ++ETLPNTMFRV+LENGHE+IAHISG+MRK+YIRILTGD VKVEMTPYDL
+Sbjct  3   KDDVIEFEGTISETLPNTMFRVKLENGHEIIAHISGRMRKNYIRILTGDKVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYR R
+Sbjct  63  TKGRITYRMR  72
+
+
+>WP_027083105.1 translation initiation factor IF-1 [Lysobacter sp. URHA0019]
+Length=72
+
+ Score = 127 bits (320),  Expect = 2e-037, Method: Compositional matrix adjust.
+ Identities = 59/70 (84%), Positives = 67/70 (96%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K+++IEFEG V+ETLPNTMFRVRLENGHE+IAHISG+MRK+YIRILTGD VKVEMTPYDL
+Sbjct  3   KDDVIEFEGTVSETLPNTMFRVRLENGHEIIAHISGRMRKNYIRILTGDRVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYR +
+Sbjct  63  TKGRITYRMK  72
+
+
+>WP_014160711.1 translation initiation factor IF-1 [Pseudoxanthomonas spadix]
+Length=72
+
+ Score = 127 bits (320),  Expect = 2e-037, Method: Compositional matrix adjust.
+ Identities = 59/71 (83%), Positives = 67/71 (94%), Gaps = 0/71 (0%)
+
+Query  3   NKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYD  62
+           +K++ IEFEG VTETLPNTMFRV+LENGHE+IAHISG+MRK+YIRILTGD VKVEMTPYD
+Sbjct  2   SKDDSIEFEGAVTETLPNTMFRVKLENGHEIIAHISGRMRKNYIRILTGDKVKVEMTPYD  61
+
+Query  63  LTKGRITYRAR  73
+           LTKGRITYR +
+Sbjct  62  LTKGRITYRMK  72
+
+
+>WP_067056595.1 translation initiation factor IF-1 [Moraxella atlantae]
+Length=73
+
+ Score = 127 bits (320),  Expect = 2e-037, Method: Compositional matrix adjust.
+ Identities = 58/73 (79%), Positives = 68/73 (93%), Gaps = 0/73 (0%)
+
+Query  1   MANKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTP  60
+           M+ K+++IEFEG V +TLPNT+F+VRLENGHE+IAHISGKMRK+YIRILTGD VKVEMTP
+Sbjct  1   MSKKDDVIEFEGEVVDTLPNTLFKVRLENGHEIIAHISGKMRKNYIRILTGDKVKVEMTP  60
+
+Query  61  YDLTKGRITYRAR  73
+           YDL+KGRITYR R
+Sbjct  61  YDLSKGRITYRGR  73
+
+
+>WP_031372296.1 MULTISPECIES: translation initiation factor IF-1 [Lysobacter]
+Length=72
+
+ Score = 127 bits (320),  Expect = 2e-037, Method: Compositional matrix adjust.
+ Identities = 59/70 (84%), Positives = 66/70 (94%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K+++IEFEG V ETLPNTMFRVRLENGHE+IAHISG+MRK+YIRILTGD VKVEMTPYDL
+Sbjct  3   KDDVIEFEGTVAETLPNTMFRVRLENGHEIIAHISGRMRKNYIRILTGDKVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYR +
+Sbjct  63  TKGRITYRMK  72
+
+
+>WP_079726088.1 translation initiation factor IF-1 [Pseudoxanthomonas indica]
+Length=72
+
+ Score = 127 bits (319),  Expect = 2e-037, Method: Compositional matrix adjust.
+ Identities = 59/71 (83%), Positives = 67/71 (94%), Gaps = 0/71 (0%)
+
+Query  3   NKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYD  62
+           +K++ IEFEG VTETLPNTMFRV+LENGHE+IAHISG+MRK+YIRILTGD VKVEMTPYD
+Sbjct  2   SKDDSIEFEGTVTETLPNTMFRVKLENGHEIIAHISGRMRKNYIRILTGDKVKVEMTPYD  61
+
+Query  63  LTKGRITYRAR  73
+           LTKGRITYR +
+Sbjct  62  LTKGRITYRMK  72
+
+
+>WP_022955964.1 translation initiation factor IF-1 [Perlucidibaca piscinae]
+Length=72
+
+ Score = 127 bits (319),  Expect = 3e-037, Method: Compositional matrix adjust.
+ Identities = 60/71 (85%), Positives = 65/71 (92%), Gaps = 0/71 (0%)
+
+Query  3   NKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYD  62
+           +KE+ IEF+GVV +TLPNTMFRV+LENGH V AHISGKMRKHYIRILTGD VKVEMTPYD
+Sbjct  2   SKEDQIEFDGVVVDTLPNTMFRVKLENGHIVTAHISGKMRKHYIRILTGDQVKVEMTPYD  61
+
+Query  63  LTKGRITYRAR  73
+           LTKGRITYR R
+Sbjct  62  LTKGRITYRVR  72
+
+
+>WP_078277255.1 translation initiation factor IF-1 [Moraxella caviae]
+Length=74
+
+ Score = 127 bits (319),  Expect = 3e-037, Method: Compositional matrix adjust.
+ Identities = 58/73 (79%), Positives = 67/73 (92%), Gaps = 0/73 (0%)
+
+Query  1   MANKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTP  60
+           MA K+++IEFEG V +TLPNT+F+VRL+NGHE+IAHISGKMRKHYIRILTGD VKVEMTP
+Sbjct  1   MAKKDDIIEFEGEVIDTLPNTLFKVRLDNGHEIIAHISGKMRKHYIRILTGDRVKVEMTP  60
+
+Query  61  YDLTKGRITYRAR  73
+           YDL KGRITYR +
+Sbjct  61  YDLGKGRITYRGK  73
+
+
+>WP_045446828.1 MULTISPECIES: translation initiation factor IF-1 [Psychrobacter]
+Length=73
+
+ Score = 127 bits (319),  Expect = 3e-037, Method: Compositional matrix adjust.
+ Identities = 58/70 (83%), Positives = 66/70 (94%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K+++IEFEG V +TLPNT+FRVRLENGHE+IAHISGKMRKHYIRILTGD VKVEMTPYDL
+Sbjct  3   KDDIIEFEGEVIDTLPNTLFRVRLENGHEIIAHISGKMRKHYIRILTGDKVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRITYR +
+Sbjct  63  SKGRITYRGK  72
+
+
+>WP_010199824.1 MULTISPECIES: translation initiation factor IF-1 [Psychrobacter]
+Length=73
+
+ Score = 127 bits (319),  Expect = 3e-037, Method: Compositional matrix adjust.
+ Identities = 58/70 (83%), Positives = 66/70 (94%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K+E+IEFEG V +TLPNT+F+VRLENGHE+IAHISGKMRKHYIRILTGD VKVEMTPYDL
+Sbjct  3   KDEIIEFEGEVIDTLPNTLFKVRLENGHEIIAHISGKMRKHYIRILTGDKVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRITYR +
+Sbjct  63  SKGRITYRGK  72
+
+
+>WP_078756943.1 translation initiation factor IF-1 [Lysobacter spongiicola]
+Length=72
+
+ Score = 127 bits (319),  Expect = 3e-037, Method: Compositional matrix adjust.
+ Identities = 59/70 (84%), Positives = 66/70 (94%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K+++IEFEG V ETLPNTMFRVRLENGHE+IAHISG+MRK+YIRILTGD VKVEMTPYDL
+Sbjct  3   KDDVIEFEGTVAETLPNTMFRVRLENGHEIIAHISGRMRKNYIRILTGDRVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYR +
+Sbjct  63  TKGRITYRMK  72
+
+
+>WP_068036477.1 MULTISPECIES: translation initiation factor IF-1 [Psychrobacter]
+Length=73
+
+ Score = 127 bits (319),  Expect = 3e-037, Method: Compositional matrix adjust.
+ Identities = 58/70 (83%), Positives = 66/70 (94%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K+++IEFEG V +TLPNT+F+VRLENGHE+IAHISGKMRKHYIRILTGD VKVEMTPYDL
+Sbjct  3   KDDIIEFEGEVIDTLPNTLFKVRLENGHEIIAHISGKMRKHYIRILTGDKVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYR +
+Sbjct  63  TKGRITYRGK  72
+
+
+>WP_058369034.1 translation initiation factor IF-1, partial [Psychrobacter sp. 
+ENNN9_III]
+Length=72
+
+ Score = 127 bits (318),  Expect = 4e-037, Method: Compositional matrix adjust.
+ Identities = 58/70 (83%), Positives = 66/70 (94%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K+++IEFEG V +TLPNT+F+VRLENGHE+IAHISGKMRKHYIRILTGD VKVEMTPYDL
+Sbjct  3   KDDIIEFEGEVIDTLPNTLFKVRLENGHEIIAHISGKMRKHYIRILTGDKVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYR +
+Sbjct  63  TKGRITYRGK  72
+
+
+>WP_062358368.1 translation initiation factor IF-1 [Pseudoxanthomonas mexicana]
+Length=72
+
+ Score = 127 bits (318),  Expect = 4e-037, Method: Compositional matrix adjust.
+ Identities = 59/71 (83%), Positives = 66/71 (93%), Gaps = 0/71 (0%)
+
+Query  3   NKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYD  62
+           +K++ IEFEG V ETLPNTMFRVRLENGHE+IAHISG+MRK+YIRILTGD VKVEMTPYD
+Sbjct  2   SKDDSIEFEGTVAETLPNTMFRVRLENGHEIIAHISGRMRKNYIRILTGDKVKVEMTPYD  61
+
+Query  63  LTKGRITYRAR  73
+           LTKGRITYR +
+Sbjct  62  LTKGRITYRMK  72
+
+
+>WP_055248081.1 translation initiation factor IF-1 [Xanthomonas sp. Mitacek01]
+Length=72
+
+ Score = 127 bits (318),  Expect = 4e-037, Method: Compositional matrix adjust.
+ Identities = 58/70 (83%), Positives = 67/70 (96%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K+++IEFEG V+ETLPNTMFRV+LENGHE+IAHISG+MRK+YIRILTGD VKVEMTPYDL
+Sbjct  3   KDDVIEFEGAVSETLPNTMFRVKLENGHEIIAHISGRMRKNYIRILTGDRVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYR +
+Sbjct  63  TKGRITYRMK  72
+
+
+>WP_024890331.1 MULTISPECIES: translation initiation factor IF-1 [Luteimonas]
+Length=72
+
+ Score = 126 bits (317),  Expect = 5e-037, Method: Compositional matrix adjust.
+ Identities = 58/70 (83%), Positives = 67/70 (96%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K+++IEFEG V+ETLPNTMFRV+LENGHE+IAHISG+MRK+YIRILTGD VKVEMTPYDL
+Sbjct  3   KDDVIEFEGTVSETLPNTMFRVKLENGHEIIAHISGRMRKNYIRILTGDRVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYR +
+Sbjct  63  TKGRITYRMK  72
+
+
+>WP_028839405.1 translation initiation factor IF-1 [Thermomonas fusca]
+Length=72
+
+ Score = 126 bits (317),  Expect = 6e-037, Method: Compositional matrix adjust.
+ Identities = 58/70 (83%), Positives = 67/70 (96%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K+++IEFEG ++ETLPNTMFRV+LENGHE+IAHISG+MRK+YIRILTGD VKVEMTPYDL
+Sbjct  3   KDDVIEFEGTISETLPNTMFRVKLENGHEIIAHISGRMRKNYIRILTGDRVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYR R
+Sbjct  63  TKGRITYRHR  72
+
+
+>WP_047138142.1 translation initiation factor IF-1 [Luteimonas sp. FCS-9]
+Length=72
+
+ Score = 126 bits (317),  Expect = 7e-037, Method: Compositional matrix adjust.
+ Identities = 58/70 (83%), Positives = 67/70 (96%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K+++IEFEG V+ETLPNTMFRV+LENGHE+IAHISG+MRK+YIRILTGD VKVEMTPYDL
+Sbjct  3   KDDVIEFEGSVSETLPNTMFRVKLENGHEIIAHISGRMRKNYIRILTGDRVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYR +
+Sbjct  63  TKGRITYRMK  72
+
+
+>WP_036193457.1 MULTISPECIES: translation initiation factor IF-1 [Lysobacter]
+Length=72
+
+ Score = 126 bits (317),  Expect = 7e-037, Method: Compositional matrix adjust.
+ Identities = 58/70 (83%), Positives = 66/70 (94%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K+++IEFEG V ETLPNT+FRVRLENGHE+IAHISG+MRK+YIRILTGD VKVEMTPYDL
+Sbjct  3   KDDVIEFEGTVAETLPNTLFRVRLENGHEIIAHISGRMRKNYIRILTGDKVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYR +
+Sbjct  63  TKGRITYRNK  72
+
+
+>WP_021814850.1 MULTISPECIES: translation initiation factor IF-1 [Psychrobacter]
+Length=73
+
+ Score = 126 bits (316),  Expect = 8e-037, Method: Compositional matrix adjust.
+ Identities = 57/70 (81%), Positives = 66/70 (94%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K+++IEFEG V +TLPNT+F+VRLENGHE+IAHISGKMRKHYIRILTGD VKVEMTPYDL
+Sbjct  3   KDDIIEFEGEVIDTLPNTLFKVRLENGHEIIAHISGKMRKHYIRILTGDKVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRITYR +
+Sbjct  63  SKGRITYRGK  72
+
+
+>WP_055943174.1 MULTISPECIES: translation initiation factor IF-1 [Pseudoxanthomonas]
+Length=72
+
+ Score = 125 bits (315),  Expect = 1e-036, Method: Compositional matrix adjust.
+ Identities = 58/71 (82%), Positives = 66/71 (93%), Gaps = 0/71 (0%)
+
+Query  3   NKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYD  62
+           +K++ IEFEG V ETLPNTMFRV+LENGHE+IAHISG+MRK+YIRILTGD VKVEMTPYD
+Sbjct  2   SKDDSIEFEGTVAETLPNTMFRVKLENGHEIIAHISGRMRKNYIRILTGDKVKVEMTPYD  61
+
+Query  63  LTKGRITYRAR  73
+           LTKGRITYR +
+Sbjct  62  LTKGRITYRMK  72
+
+
+>WP_008737658.1 translation initiation factor IF-1 [Alcanivorax pacificus]
+Length=72
+
+ Score = 124 bits (312),  Expect = 3e-036, Method: Compositional matrix adjust.
+ Identities = 57/70 (81%), Positives = 65/70 (93%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KEE IE EGVV +TLPNTMFRV+L+NGHE+IAHISGKMRKHYIRILTGD VKVEM+PYDL
+Sbjct  3   KEEQIELEGVVVDTLPNTMFRVKLDNGHEIIAHISGKMRKHYIRILTGDRVKVEMSPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRIT+R +
+Sbjct  63  SKGRITFRMK  72
+
+
+>WP_005409596.1 MULTISPECIES: translation initiation factor IF-1 [Proteobacteria]
+Length=72
+
+ Score = 124 bits (312),  Expect = 3e-036, Method: Compositional matrix adjust.
+ Identities = 58/71 (82%), Positives = 66/71 (93%), Gaps = 0/71 (0%)
+
+Query  3   NKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYD  62
+           +K++ IEFEG V+ETLPNT FRVRLENGHE+IAHISG+MRK+YIRILTGD VKVEMTPYD
+Sbjct  2   SKDDSIEFEGTVSETLPNTTFRVRLENGHEIIAHISGRMRKNYIRILTGDRVKVEMTPYD  61
+
+Query  63  LTKGRITYRAR  73
+           LTKGRITYR +
+Sbjct  62  LTKGRITYRMK  72
+
+
+>WP_027072495.1 translation initiation factor IF-1 [Luteimonas sp. J29]
+Length=72
+
+ Score = 124 bits (311),  Expect = 4e-036, Method: Compositional matrix adjust.
+ Identities = 57/70 (81%), Positives = 66/70 (94%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K+++IEFEG VTETLPNTMFRV+L+ GHE+IAHISG+MRK+YIRILTGD VKVEMTPYDL
+Sbjct  3   KDDVIEFEGTVTETLPNTMFRVKLDTGHEIIAHISGRMRKNYIRILTGDRVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYR +
+Sbjct  63  TKGRITYRMK  72
+
+
+>WP_007643841.1 MULTISPECIES: translation initiation factor IF-1 [Cellvibrio]
+Length=72
+
+ Score = 124 bits (310),  Expect = 6e-036, Method: Compositional matrix adjust.
+ Identities = 59/70 (84%), Positives = 64/70 (91%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K++ IEFEG V +TLPNT FRV+LENGH VIAHISGKMRK+YIRILTGD VKVEMTPYDL
+Sbjct  3   KDDCIEFEGEVVDTLPNTTFRVKLENGHVVIAHISGKMRKNYIRILTGDKVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYRAR
+Sbjct  63  TKGRITYRAR  72
+
+
+>WP_052633646.1 translation initiation factor IF-1 [Pseudoxanthomonas suwonensis]
+Length=72
+
+ Score = 124 bits (310),  Expect = 7e-036, Method: Compositional matrix adjust.
+ Identities = 58/71 (82%), Positives = 65/71 (92%), Gaps = 0/71 (0%)
+
+Query  3   NKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYD  62
+           +K++ IEFEG V ETLPNT FRVRLENGHE+IAHISG+MRK+YIRILTGD VKVEMTPYD
+Sbjct  2   SKDDSIEFEGTVIETLPNTTFRVRLENGHEIIAHISGRMRKNYIRILTGDKVKVEMTPYD  61
+
+Query  63  LTKGRITYRAR  73
+           LTKGRITYR +
+Sbjct  62  LTKGRITYRMK  72
+
+
+>WP_004425677.1 MULTISPECIES: translation initiation factor IF-1 [Xanthomonadaceae]
+Length=72
+
+ Score = 123 bits (309),  Expect = 9e-036, Method: Compositional matrix adjust.
+ Identities = 57/71 (80%), Positives = 66/71 (93%), Gaps = 0/71 (0%)
+
+Query  3   NKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYD  62
+           +K++ IEFEG V+ETLPNT FRV+LENGHE+IAHISG+MRK+YIRILTGD VKVEMTPYD
+Sbjct  2   SKDDSIEFEGTVSETLPNTTFRVKLENGHEIIAHISGRMRKNYIRILTGDRVKVEMTPYD  61
+
+Query  63  LTKGRITYRAR  73
+           LTKGRITYR +
+Sbjct  62  LTKGRITYRMK  72
+
+
+>WP_013535213.1 MULTISPECIES: translation initiation factor IF-1 [Pseudoxanthomonas]
+Length=72
+
+ Score = 123 bits (309),  Expect = 1e-035, Method: Compositional matrix adjust.
+ Identities = 58/71 (82%), Positives = 65/71 (92%), Gaps = 0/71 (0%)
+
+Query  3   NKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYD  62
+           +K++ IEFEG V ETLPNT FRVRLENGHE+IAHISG+MRK+YIRILTGD VKVEMTPYD
+Sbjct  2   SKDDSIEFEGTVIETLPNTTFRVRLENGHEIIAHISGRMRKNYIRILTGDRVKVEMTPYD  61
+
+Query  63  LTKGRITYRAR  73
+           LTKGRITYR +
+Sbjct  62  LTKGRITYRMK  72
+
+
+>WP_014402653.1 MULTISPECIES: translation initiation factor IF-1 [Rhodanobacteraceae]
+Length=72
+
+ Score = 123 bits (308),  Expect = 1e-035, Method: Compositional matrix adjust.
+ Identities = 57/70 (81%), Positives = 64/70 (91%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K+++IE EG V ETLPNTMFRV+LENGH +IAHISG+MRKHYIRILTGD VKVEMTPYDL
+Sbjct  3   KDDVIEMEGTVQETLPNTMFRVQLENGHVIIAHISGRMRKHYIRILTGDKVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYR +
+Sbjct  63  TKGRITYRMK  72
+
+
+>WP_039916411.1 MULTISPECIES: translation initiation factor IF-1 [Cellvibrio]
+Length=72
+
+ Score = 123 bits (308),  Expect = 1e-035, Method: Compositional matrix adjust.
+ Identities = 58/70 (83%), Positives = 64/70 (91%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K++ IEF+G V +TLPNT FRV+LENGH VIAHISGKMRK+YIRILTGD VKVEMTPYDL
+Sbjct  3   KDDCIEFDGEVVDTLPNTTFRVKLENGHVVIAHISGKMRKNYIRILTGDKVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYRAR
+Sbjct  63  TKGRITYRAR  72
+
+
+>WP_002813418.1 MULTISPECIES: translation initiation factor IF-1 [Xanthomonas]
+Length=72
+
+ Score = 123 bits (308),  Expect = 1e-035, Method: Compositional matrix adjust.
+ Identities = 57/71 (80%), Positives = 66/71 (93%), Gaps = 0/71 (0%)
+
+Query  3   NKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYD  62
+           +K++ IEFEG V+ETLPNT FRV+LENGHE+IAHISG+MRK+YIRILTGD VKVEMTPYD
+Sbjct  2   SKDDSIEFEGSVSETLPNTTFRVKLENGHEIIAHISGRMRKNYIRILTGDRVKVEMTPYD  61
+
+Query  63  LTKGRITYRAR  73
+           LTKGRITYR +
+Sbjct  62  LTKGRITYRMK  72
+
+
+>WP_017462389.1 translation initiation factor IF-1 [Dyella ginsengisoli]
+Length=72
+
+ Score = 123 bits (308),  Expect = 1e-035, Method: Compositional matrix adjust.
+ Identities = 57/70 (81%), Positives = 64/70 (91%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K+++IE EG V ETLPNTMFRV+LENGH +IAHISG+MRKHYIRILTGD VKVEMTPYDL
+Sbjct  3   KDDVIEMEGTVLETLPNTMFRVQLENGHVIIAHISGRMRKHYIRILTGDKVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYR +
+Sbjct  63  TKGRITYRMK  72
+
+
+>WP_008209748.1 translation initiation factor IF-1 [Rhodanobacter sp. 115]
+Length=72
+
+ Score = 123 bits (308),  Expect = 1e-035, Method: Compositional matrix adjust.
+ Identities = 57/70 (81%), Positives = 64/70 (91%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K+++IE EG V ETLPNTMFRV+LENGH VIAHISG+MRKHYIRILTGD VK+EMTPYDL
+Sbjct  3   KDDVIEMEGTVLETLPNTMFRVQLENGHVVIAHISGRMRKHYIRILTGDKVKIEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYR +
+Sbjct  63  TKGRITYRMK  72
+
+
+>WP_005959039.1 MULTISPECIES: translation initiation factor IF-1 [sulfur-oxidizing 
+symbionts]
+Length=72
+
+ Score = 123 bits (308),  Expect = 1e-035, Method: Compositional matrix adjust.
+ Identities = 58/70 (83%), Positives = 62/70 (89%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EG VTETLPNTMFRV LENGH V AHISGKMRKHYIRILTGD V V++TPYDL
+Sbjct  3   KEDFIEMEGTVTETLPNTMFRVELENGHVVTAHISGKMRKHYIRILTGDKVTVQLTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRITYRAR
+Sbjct  63  SKGRITYRAR  72
+
+
+>WP_012488163.1 translation initiation factor IF-1 [Cellvibrio japonicus]
+Length=72
+
+ Score = 122 bits (307),  Expect = 2e-035, Method: Compositional matrix adjust.
+ Identities = 58/70 (83%), Positives = 64/70 (91%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K++ IEF+G V +TLPNT FRV+LENGH VIAHISGKMRK+YIRILTGD VKVEMTPYDL
+Sbjct  3   KDDCIEFDGEVIDTLPNTTFRVKLENGHVVIAHISGKMRKNYIRILTGDKVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYRAR
+Sbjct  63  TKGRITYRAR  72
+
+
+>WP_013835430.1 translation initiation factor IF-1 [Thioalkalimicrobium cyclicum]
+Length=72
+
+ Score = 122 bits (307),  Expect = 2e-035, Method: Compositional matrix adjust.
+ Identities = 55/71 (77%), Positives = 66/71 (93%), Gaps = 0/71 (0%)
+
+Query  3   NKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYD  62
+           +K+++IEFEG V ETLPNTMF+V+LENGHE+IAHISG+MRK+YIRIL GD VKVE+TPYD
+Sbjct  2   SKQDVIEFEGTVLETLPNTMFKVQLENGHEIIAHISGRMRKNYIRILAGDKVKVELTPYD  61
+
+Query  63  LTKGRITYRAR  73
+           LTKGRITYR +
+Sbjct  62  LTKGRITYRGK  72
+
+
+>WP_036140601.1 translation initiation factor IF-1 [Luteibacter sp. 9135]
+Length=72
+
+ Score = 122 bits (307),  Expect = 2e-035, Method: Compositional matrix adjust.
+ Identities = 56/70 (80%), Positives = 64/70 (91%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K+++IE EG + ETLPNTMFRV+LENGH +IAHISG+MRKHYIRILTGD VKVEMTPYDL
+Sbjct  3   KDDVIEMEGTIQETLPNTMFRVQLENGHVIIAHISGRMRKHYIRILTGDKVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYR +
+Sbjct  63  TKGRITYRMK  72
+
+
+>WP_028769496.1 translation initiation factor IF-1 [Silanimonas lenta]
+Length=72
+
+ Score = 122 bits (307),  Expect = 2e-035, Method: Compositional matrix adjust.
+ Identities = 57/71 (80%), Positives = 65/71 (92%), Gaps = 0/71 (0%)
+
+Query  3   NKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYD  62
+           +K++ IEFEG VTETLPNTMFRV+LENGH + AHISG+MRK+YIRILTGD VKVEMTPYD
+Sbjct  2   SKDDSIEFEGTVTETLPNTMFRVKLENGHVITAHISGRMRKNYIRILTGDKVKVEMTPYD  61
+
+Query  63  LTKGRITYRAR  73
+           LTKGRITYR +
+Sbjct  62  LTKGRITYRMK  72
+
+
+>WP_049622829.1 translation initiation factor IF-1 [Dyella-like sp. DHo]
+Length=72
+
+ Score = 122 bits (307),  Expect = 2e-035, Method: Compositional matrix adjust.
+ Identities = 57/70 (81%), Positives = 64/70 (91%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K+++IE EG V ETLPNTMFRV+LENGH +IAHISG+MRKHYIRILTGD VKVEMTPYDL
+Sbjct  3   KDDVIEMEGSVLETLPNTMFRVQLENGHVIIAHISGRMRKHYIRILTGDKVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYR +
+Sbjct  63  TKGRITYRMK  72
+
+
+>WP_068476485.1 MULTISPECIES: translation initiation factor IF-1 [Oleiphilus]
+Length=72
+
+ Score = 122 bits (307),  Expect = 2e-035, Method: Compositional matrix adjust.
+ Identities = 58/70 (83%), Positives = 63/70 (90%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE++IE EG + +TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD VKVEMTPYDL
+Sbjct  3   KEDVIEMEGTIVDTLPNTMFRVELENGHVVTAHISGKMRKNYIRILTGDKVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYRAR
+Sbjct  63  TKGRITYRAR  72
+
+
+>WP_019623292.1 translation initiation factor IF-1 [Amphritea japonica]
+Length=72
+
+ Score = 122 bits (307),  Expect = 2e-035, Method: Compositional matrix adjust.
+ Identities = 59/70 (84%), Positives = 63/70 (90%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+  E EGVVT+TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD VKVE+TPYDL
+Sbjct  3   KEDSFEMEGVVTDTLPNTMFRVELENGHVVTAHISGKMRKNYIRILTGDKVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYRAR
+Sbjct  63  TKGRITYRAR  72
+
+
+>WP_005929186.1 MULTISPECIES: translation initiation factor IF-1 [Xanthomonas]
+Length=72
+
+ Score = 122 bits (307),  Expect = 2e-035, Method: Compositional matrix adjust.
+ Identities = 56/71 (79%), Positives = 66/71 (93%), Gaps = 0/71 (0%)
+
+Query  3   NKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYD  62
+           +K++ IEFEG V+ETLPNT FR++LENGHE+IAHISG+MRK+YIRILTGD VKVEMTPYD
+Sbjct  2   SKDDSIEFEGSVSETLPNTTFRIKLENGHEIIAHISGRMRKNYIRILTGDRVKVEMTPYD  61
+
+Query  63  LTKGRITYRAR  73
+           LTKGRITYR +
+Sbjct  62  LTKGRITYRMK  72
+
+
+>WP_043108165.1 translation initiation factor IF-1 [endosymbiont of unidentified 
+scaly snail isolate Monju]
+Length=72
+
+ Score = 122 bits (306),  Expect = 2e-035, Method: Compositional matrix adjust.
+ Identities = 59/70 (84%), Positives = 62/70 (89%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE++IE EG V ETLPNTMFRV LENGH V AHISGKMRKHYIRILTGD VKVE+TPYDL
+Sbjct  3   KEDVIEMEGTVIETLPNTMFRVELENGHVVTAHISGKMRKHYIRILTGDKVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYR R
+Sbjct  63  TKGRITYRER  72
+
+
+>WP_024299891.1 translation initiation factor IF-1 [Methylosarcina lacus]
+Length=72
+
+ Score = 122 bits (306),  Expect = 3e-035, Method: Compositional matrix adjust.
+ Identities = 59/70 (84%), Positives = 63/70 (90%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EG V +TLPNTMFRV+LENGH V AHISGKMRKHYIRILTGDSVKVEMTPYDL
+Sbjct  3   KEDQIEMEGKVIDTLPNTMFRVQLENGHIVTAHISGKMRKHYIRILTGDSVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRIT+R R
+Sbjct  63  TKGRITFRMR  72
+
+
+>WP_044617713.1 translation initiation factor IF-1 [Gynuella sunshinyii]
+Length=72
+
+ Score = 122 bits (306),  Expect = 3e-035, Method: Compositional matrix adjust.
+ Identities = 58/70 (83%), Positives = 64/70 (91%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE++IE EG + ETLPNTMFRV+LENGH V AHISGKMRK+YIRILTGD VKVEMTPYDL
+Sbjct  3   KEDVIEMEGEILETLPNTMFRVKLENGHVVTAHISGKMRKNYIRILTGDKVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRITYRAR
+Sbjct  63  SKGRITYRAR  72
+
+
+>WP_020209243.1 translation initiation factor IF-1 [Gilvimarinus chinensis]
+Length=72
+
+ Score = 122 bits (306),  Expect = 3e-035, Method: Compositional matrix adjust.
+ Identities = 58/70 (83%), Positives = 64/70 (91%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K+++IEFEG V +TLPNT FRV+LENGH V AHISGKMRK+YIRILTGD VKVEMTPYDL
+Sbjct  3   KDDVIEFEGEVVDTLPNTTFRVKLENGHVVTAHISGKMRKNYIRILTGDKVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYRAR
+Sbjct  63  TKGRITYRAR  72
+
+
+>WP_007081871.1 MULTISPECIES: translation initiation factor IF-1 [Rhodanobacter]
+Length=72
+
+ Score = 122 bits (306),  Expect = 3e-035, Method: Compositional matrix adjust.
+ Identities = 56/70 (80%), Positives = 64/70 (91%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K+++IE EG V ETLPNTMFRV+LENGH VIAHISG+MRKHYIRILTGD VK+EMTPYDL
+Sbjct  3   KDDVIEMEGTVQETLPNTMFRVQLENGHVVIAHISGRMRKHYIRILTGDKVKIEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRITYR +
+Sbjct  63  SKGRITYRMK  72
+
+
+>WP_068458790.1 MULTISPECIES: translation initiation factor IF-1 [Oleiphilus]
+Length=72
+
+ Score = 122 bits (306),  Expect = 3e-035, Method: Compositional matrix adjust.
+ Identities = 58/70 (83%), Positives = 63/70 (90%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE++IE EG + +TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD VKVEMTPYDL
+Sbjct  3   KEDVIEMEGTIVDTLPNTMFRVELENGHIVTAHISGKMRKNYIRILTGDKVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYRAR
+Sbjct  63  TKGRITYRAR  72
+
+
+>WP_062064380.1 translation initiation factor IF-1 [Cellvibrio sp. OA-2007]
+Length=72
+
+ Score = 122 bits (306),  Expect = 3e-035, Method: Compositional matrix adjust.
+ Identities = 57/70 (81%), Positives = 64/70 (91%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K++ IEF+G V +TLPNT FRV+LENGH VIAHISGKMRK+YIRILTGD VKVEMTPYDL
+Sbjct  3   KDDCIEFDGEVVDTLPNTTFRVKLENGHVVIAHISGKMRKNYIRILTGDKVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRITYRAR
+Sbjct  63  SKGRITYRAR  72
+
+
+>WP_068995306.1 translation initiation factor IF-1 [Candidatus Thiodiazotropha 
+endoloripes]
+Length=72
+
+ Score = 122 bits (306),  Expect = 3e-035, Method: Compositional matrix adjust.
+ Identities = 58/70 (83%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EG V ETLPNTMFRV LENGH V AHISGKMRKHYIRILTGD V V++TPYDL
+Sbjct  3   KEDFIEMEGTVVETLPNTMFRVELENGHVVTAHISGKMRKHYIRILTGDKVTVQLTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYRAR
+Sbjct  63  TKGRITYRAR  72
+
+
+>WP_068584107.1 translation initiation factor IF-1 [Thiomicrospira sp. WB1]
+Length=72
+
+ Score = 122 bits (306),  Expect = 3e-035, Method: Compositional matrix adjust.
+ Identities = 55/71 (77%), Positives = 66/71 (93%), Gaps = 0/71 (0%)
+
+Query  3   NKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYD  62
+           +K+++IEFEG V ETLPNTMF+VRLENGHE++AHISG+MRK+YIRIL GD VKVE+TPYD
+Sbjct  2   SKQDVIEFEGEVIETLPNTMFKVRLENGHEILAHISGRMRKNYIRILAGDKVKVELTPYD  61
+
+Query  63  LTKGRITYRAR  73
+           LTKGRITYR +
+Sbjct  62  LTKGRITYRGK  72
+
+
+>WP_019896209.1 translation initiation factor IF-1 [Thiomicrospira halophila]
+Length=72
+
+ Score = 122 bits (306),  Expect = 3e-035, Method: Compositional matrix adjust.
+ Identities = 55/71 (77%), Positives = 66/71 (93%), Gaps = 0/71 (0%)
+
+Query  3   NKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYD  62
+           +K+++IEFEG V ETLPNTMF+VRLENGHE++AHISG+MRK+YIRIL GD VKVE+TPYD
+Sbjct  2   SKQDVIEFEGEVLETLPNTMFKVRLENGHEILAHISGRMRKNYIRILAGDKVKVELTPYD  61
+
+Query  63  LTKGRITYRAR  73
+           LTKGRITYR +
+Sbjct  62  LTKGRITYRGK  72
+
+
+>WP_077485337.1 translation initiation factor IF-1 [Rhodanobacter sp. C06]
+Length=72
+
+ Score = 122 bits (305),  Expect = 3e-035, Method: Compositional matrix adjust.
+ Identities = 56/70 (80%), Positives = 64/70 (91%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K+++IE EG V ETLPNTMFRV+LENGH VIAHISG+MRKHYIRILTGD VK+EMTPYDL
+Sbjct  3   KDDVIEMEGTVLETLPNTMFRVQLENGHVVIAHISGRMRKHYIRILTGDKVKIEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRITYR +
+Sbjct  63  SKGRITYRMK  72
+
+
+>WP_006459050.1 translation initiation factor IF-1 [Thioalkalimicrobium aerophilum]
+Length=72
+
+ Score = 122 bits (305),  Expect = 4e-035, Method: Compositional matrix adjust.
+ Identities = 54/71 (76%), Positives = 66/71 (93%), Gaps = 0/71 (0%)
+
+Query  3   NKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYD  62
+           +K+++IEFEG V ETLPNTMF+V+LENGHE++AHISG+MRK+YIRIL GD VKVE+TPYD
+Sbjct  2   SKQDVIEFEGTVLETLPNTMFKVQLENGHEILAHISGRMRKNYIRILAGDKVKVELTPYD  61
+
+Query  63  LTKGRITYRAR  73
+           LTKGRITYR +
+Sbjct  62  LTKGRITYRGK  72
+
+
+>WP_068516263.1 MULTISPECIES: translation initiation factor IF-1 [Oleiphilus]
+Length=72
+
+ Score = 122 bits (305),  Expect = 4e-035, Method: Compositional matrix adjust.
+ Identities = 58/70 (83%), Positives = 63/70 (90%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE++IE EG + +TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD VKVEMTPYDL
+Sbjct  3   KEDVIEMEGTIIDTLPNTMFRVELENGHIVTAHISGKMRKNYIRILTGDKVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYRAR
+Sbjct  63  TKGRITYRAR  72
+
+
+>WP_007039021.1 translation initiation factor IF-1 [Thiorhodococcus drewsii]
+Length=72
+
+ Score = 122 bits (305),  Expect = 4e-035, Method: Compositional matrix adjust.
+ Identities = 56/71 (79%), Positives = 64/71 (90%), Gaps = 0/71 (0%)
+
+Query  3   NKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYD  62
+           +K+++I+ EG VTETLPNT+FRV+LENGH V AHISGKMRKHYIRILTGD V VE+TPYD
+Sbjct  2   SKDDVIQMEGTVTETLPNTVFRVQLENGHNVTAHISGKMRKHYIRILTGDKVTVELTPYD  61
+
+Query  63  LTKGRITYRAR  73
+           LTKGRI YRAR
+Sbjct  62  LTKGRIVYRAR  72
+
+
+>WP_069127521.1 translation initiation factor IF-1 [Candidatus Thiodiazotropha 
+endolucinida]
+Length=72
+
+ Score = 122 bits (305),  Expect = 4e-035, Method: Compositional matrix adjust.
+ Identities = 58/70 (83%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EG V ETLPNTMFRV LENGH V AHISGKMRKHYIRILTGD V V++TPYDL
+Sbjct  3   KEDFIEMEGTVIETLPNTMFRVELENGHVVTAHISGKMRKHYIRILTGDKVTVQLTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYRAR
+Sbjct  63  TKGRITYRAR  72
+
+
+>WP_007508585.1 MULTISPECIES: translation initiation factor IF-1 [Rhodanobacter]
+Length=72
+
+ Score = 122 bits (305),  Expect = 4e-035, Method: Compositional matrix adjust.
+ Identities = 55/70 (79%), Positives = 64/70 (91%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K+++IE EG V ETLPNTMFRV+LENGH +IAHISG+MRKHYIRILTGD VK+EMTPYDL
+Sbjct  3   KDDVIEMEGTVQETLPNTMFRVQLENGHVIIAHISGRMRKHYIRILTGDKVKIEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRITYR +
+Sbjct  63  SKGRITYRMK  72
+
+
+>WP_012971469.1 MULTISPECIES: translation initiation factor IF-1 [Chromatiaceae]
+Length=72
+
+ Score = 122 bits (305),  Expect = 4e-035, Method: Compositional matrix adjust.
+ Identities = 56/71 (79%), Positives = 64/71 (90%), Gaps = 0/71 (0%)
+
+Query  3   NKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYD  62
+           +K+++I+ EG VTETLPNT+FRV+LENGH V AHISGKMRKHYIRILTGD V VE+TPYD
+Sbjct  2   SKDDVIQMEGTVTETLPNTVFRVQLENGHTVTAHISGKMRKHYIRILTGDKVTVELTPYD  61
+
+Query  63  LTKGRITYRAR  73
+           LTKGRI YRAR
+Sbjct  62  LTKGRIVYRAR  72
+
+
+>WP_045474147.1 translation initiation factor IF-1 [Thioploca ingrica]
+Length=72
+
+ Score = 122 bits (305),  Expect = 5e-035, Method: Compositional matrix adjust.
+ Identities = 57/70 (81%), Positives = 63/70 (90%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EG VTETLPNTMFRV+L+NGH V AHISG+MRKHYIRILTGD V V++TPYDL
+Sbjct  3   KEDSIEMEGTVTETLPNTMFRVKLDNGHVVTAHISGRMRKHYIRILTGDKVTVQLTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYRAR
+Sbjct  63  TKGRITYRAR  72
+
+
+>WP_029934638.1 translation initiation factor IF-1 [Thiomicrospira pelophila]
+Length=72
+
+ Score = 121 bits (304),  Expect = 5e-035, Method: Compositional matrix adjust.
+ Identities = 54/70 (77%), Positives = 65/70 (93%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K+++IEFEG V ETLPNTMF+V+LENGHE++AHISG+MRK+YIRIL GD VKVE+TPYDL
+Sbjct  3   KQDVIEFEGTVLETLPNTMFKVQLENGHEILAHISGRMRKNYIRILAGDKVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYR +
+Sbjct  63  TKGRITYRGK  72
+
+
+>WP_028486457.1 translation initiation factor IF-1 [Thiomicrospira chilensis]
+Length=72
+
+ Score = 121 bits (304),  Expect = 5e-035, Method: Compositional matrix adjust.
+ Identities = 54/70 (77%), Positives = 65/70 (93%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K+++IEF+GVV ETLPNTMFRV LENGH+++AHISG+MRK+YIRIL GD VKVE+TPYDL
+Sbjct  3   KQDVIEFDGVVIETLPNTMFRVELENGHQILAHISGRMRKNYIRILAGDPVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYR +
+Sbjct  63  TKGRITYRGK  72
+
+
+>WP_036509108.1 translation initiation factor IF-1 [Nitrincola nitratireducens]
+Length=72
+
+ Score = 121 bits (304),  Expect = 5e-035, Method: Compositional matrix adjust.
+ Identities = 58/70 (83%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KEE  E EG V +TLPNTMFRV LENGH V AHISGKMRKHYIRILTGD VKVE+TPYDL
+Sbjct  3   KEEAFEMEGTVIDTLPNTMFRVELENGHVVTAHISGKMRKHYIRILTGDKVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRITYRAR
+Sbjct  63  SKGRITYRAR  72
+
+
+>WP_029407455.1 MULTISPECIES: translation initiation factor IF-1 [Thiomicrospira]
+Length=72
+
+ Score = 121 bits (304),  Expect = 5e-035, Method: Compositional matrix adjust.
+ Identities = 53/70 (76%), Positives = 66/70 (94%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K+++IEF+GVV ETLPNTMF+V LENGH+++AHISG+MRK+YIRIL GD+VKVE+TPYDL
+Sbjct  3   KQDVIEFDGVVLETLPNTMFKVELENGHQILAHISGRMRKNYIRILAGDAVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYR +
+Sbjct  63  TKGRITYRGK  72
+
+
+>WP_015005969.1 MULTISPECIES: translation initiation factor IF-1 [Cycloclasticus]
+Length=72
+
+ Score = 121 bits (304),  Expect = 5e-035, Method: Compositional matrix adjust.
+ Identities = 58/70 (83%), Positives = 62/70 (89%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EGVV +TLPNTMFRV LENGH + AHISGKMRKHYIRILTGD VKVEMTPYDL
+Sbjct  3   KEDQIEMEGVVKDTLPNTMFRVELENGHIITAHISGKMRKHYIRILTGDRVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYR +
+Sbjct  63  TKGRITYRVK  72
+
+
+>WP_006889822.1 translation initiation factor IF-1 [Methylobacter tundripaludum]
+Length=72
+
+ Score = 121 bits (304),  Expect = 6e-035, Method: Compositional matrix adjust.
+ Identities = 59/70 (84%), Positives = 62/70 (89%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EG V +TLPNTMFRV LENGH V AHISGKMRKHYIRILTGDSVKVEMTPYDL
+Sbjct  3   KEDQIEMEGKVIDTLPNTMFRVELENGHIVTAHISGKMRKHYIRILTGDSVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRIT+R R
+Sbjct  63  TKGRITFRMR  72
+
+
+>WP_023494599.1 translation initiation factor IF-1 [Methyloglobulus morosus]
+Length=72
+
+ Score = 121 bits (304),  Expect = 6e-035, Method: Compositional matrix adjust.
+ Identities = 58/70 (83%), Positives = 63/70 (90%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EG V +TLPNTMFRV+LENGH V AHISGKMRKHYIRILTGDSVKVEMTPYDL
+Sbjct  3   KEDQIEMEGKVIDTLPNTMFRVQLENGHIVTAHISGKMRKHYIRILTGDSVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRI++R R
+Sbjct  63  TKGRISFRMR  72
+
+
+>WP_041523034.1 translation initiation factor IF-1 [Gilvimarinus agarilyticus]
+Length=72
+
+ Score = 121 bits (304),  Expect = 6e-035, Method: Compositional matrix adjust.
+ Identities = 59/70 (84%), Positives = 63/70 (90%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IEFEG V +TLPNT FRV+LENGH V AHISGKMRK+YIRILTGD VKVEMTPYDL
+Sbjct  3   KEDNIEFEGEVIDTLPNTTFRVKLENGHVVTAHISGKMRKNYIRILTGDKVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYRAR
+Sbjct  63  TKGRITYRAR  72
+
+
+>WP_019466733.1 MULTISPECIES: translation initiation factor IF-1 [Rhodanobacteraceae]
+Length=72
+
+ Score = 121 bits (304),  Expect = 6e-035, Method: Compositional matrix adjust.
+ Identities = 56/70 (80%), Positives = 63/70 (90%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K+++IE EG V ETLPNTMFRV+LENGH + AHISG+MRKHYIRILTGD VKVEMTPYDL
+Sbjct  3   KDDVIEMEGTVQETLPNTMFRVQLENGHVITAHISGRMRKHYIRILTGDKVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYR +
+Sbjct  63  TKGRITYRMK  72
+
+
+>WP_034220409.1 translation initiation factor IF-1 [Arenimonas donghaensis]
+Length=72
+
+ Score = 121 bits (303),  Expect = 7e-035, Method: Compositional matrix adjust.
+ Identities = 56/71 (79%), Positives = 64/71 (90%), Gaps = 0/71 (0%)
+
+Query  3   NKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYD  62
+           +K++ IEFEG V ETLPNTMFRV+LENGH + AHISG+MRK+YIRILTGD VKVEMTPYD
+Sbjct  2   SKDDCIEFEGTVLETLPNTMFRVKLENGHVITAHISGRMRKNYIRILTGDKVKVEMTPYD  61
+
+Query  63  LTKGRITYRAR  73
+           LTKGRITYR +
+Sbjct  62  LTKGRITYRMK  72
+
+
+>WP_011037132.1 translation initiation factor IF-1 [Xanthomonas campestris]
+ NP_637333.1 translation initiation factor IF-1 [Xanthomonas campestris pv. 
+campestris str. ATCC 33913]
+Length=72
+
+ Score = 121 bits (303),  Expect = 7e-035, Method: Compositional matrix adjust.
+ Identities = 56/71 (79%), Positives = 66/71 (93%), Gaps = 0/71 (0%)
+
+Query  3   NKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYD  62
+           +K++ IEFEG V+ETLPNT FRV+LENG+E+IAHISG+MRK+YIRILTGD VKVEMTPYD
+Sbjct  2   SKDDSIEFEGSVSETLPNTTFRVKLENGYEIIAHISGRMRKNYIRILTGDRVKVEMTPYD  61
+
+Query  63  LTKGRITYRAR  73
+           LTKGRITYR +
+Sbjct  62  LTKGRITYRMK  72
+
+
+>WP_026636496.1 translation initiation factor IF-1 [Dyella japonica]
+Length=72
+
+ Score = 121 bits (303),  Expect = 7e-035, Method: Compositional matrix adjust.
+ Identities = 56/70 (80%), Positives = 63/70 (90%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K+++IE EG V ETLPNTMFRV+LENGH + AHISG+MRKHYIRILTGD VKVEMTPYDL
+Sbjct  3   KDDVIEMEGTVMETLPNTMFRVQLENGHVITAHISGRMRKHYIRILTGDKVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYR +
+Sbjct  63  TKGRITYRMK  72
+
+
+>WP_011370535.1 MULTISPECIES: translation initiation factor IF-1 [Thiomicrospira]
+Length=72
+
+ Score = 121 bits (303),  Expect = 7e-035, Method: Compositional matrix adjust.
+ Identities = 54/71 (76%), Positives = 66/71 (93%), Gaps = 0/71 (0%)
+
+Query  3   NKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYD  62
+           +K+++IEF+G V ETLPNTMF+VRLENGHE++AHISG+MRK+YIRIL GD VKVE+TPYD
+Sbjct  2   SKQDVIEFDGEVIETLPNTMFKVRLENGHEILAHISGRMRKNYIRILAGDKVKVELTPYD  61
+
+Query  63  LTKGRITYRAR  73
+           LTKGRITYR +
+Sbjct  62  LTKGRITYRGK  72
+
+
+>WP_008436469.1 translation initiation factor IF-1 [Rhodanobacter thiooxydans]
+Length=72
+
+ Score = 121 bits (303),  Expect = 7e-035, Method: Compositional matrix adjust.
+ Identities = 54/70 (77%), Positives = 64/70 (91%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K+++IE EG V ETLPNTMFRV+LENGH ++AHISG+MRKHYIRILTGD VK+EMTPYDL
+Sbjct  3   KDDVIEMEGTVQETLPNTMFRVQLENGHVIVAHISGRMRKHYIRILTGDKVKIEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRITYR +
+Sbjct  63  SKGRITYRMK  72
+
+
+>WP_024851017.1 MULTISPECIES: translation initiation factor IF-1 [Piscirickettsiaceae]
+Length=72
+
+ Score = 121 bits (303),  Expect = 8e-035, Method: Compositional matrix adjust.
+ Identities = 54/71 (76%), Positives = 66/71 (93%), Gaps = 0/71 (0%)
+
+Query  3   NKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYD  62
+           +K+++IEF+G V ETLPNTMF+VRLENGHE++AHISG+MRK+YIRIL GD VKVE+TPYD
+Sbjct  2   SKQDVIEFDGEVLETLPNTMFKVRLENGHEILAHISGRMRKNYIRILAGDKVKVELTPYD  61
+
+Query  63  LTKGRITYRAR  73
+           LTKGRITYR +
+Sbjct  62  LTKGRITYRGK  72
+
+
+>WP_078487066.1 translation initiation factor IF-1 [Solemya elarraichensis gill 
+symbiont]
+Length=72
+
+ Score = 121 bits (303),  Expect = 8e-035, Method: Compositional matrix adjust.
+ Identities = 57/70 (81%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EG V ETLPNTMFRV LENGH V AHISGKMRKHYIRILTGD V V++TPYDL
+Sbjct  3   KEDFIEMEGTVVETLPNTMFRVELENGHVVTAHISGKMRKHYIRILTGDKVTVQLTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRITYRAR
+Sbjct  63  SKGRITYRAR  72
+
+
+>WP_064631327.1 translation initiation factor IF-1 [Xanthomonas sp. WHRI 8853]
+Length=72
+
+ Score = 121 bits (303),  Expect = 8e-035, Method: Compositional matrix adjust.
+ Identities = 56/69 (81%), Positives = 64/69 (93%), Gaps = 0/69 (0%)
+
+Query  5   EELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDLT  64
+           ++ IEFEG V+ETLPNT FRV+LENGHE+IAHISG+MRK+YIRILTGD VKVEMTPYDLT
+Sbjct  4   DDSIEFEGSVSETLPNTTFRVKLENGHEIIAHISGRMRKNYIRILTGDRVKVEMTPYDLT  63
+
+Query  65  KGRITYRAR  73
+           KGRITYR +
+Sbjct  64  KGRITYRMK  72
+
+
+>WP_072323067.1 translation initiation factor IF-1 [Luteibacter sp. UNCMF366Tsu5.1]
+Length=72
+
+ Score = 121 bits (303),  Expect = 8e-035, Method: Compositional matrix adjust.
+ Identities = 56/70 (80%), Positives = 63/70 (90%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K+++IE EG V ETLPNTMFRV+LENGH + AHISG+MRKHYIRILTGD VKVEMTPYDL
+Sbjct  3   KDDVIEMEGTVLETLPNTMFRVQLENGHVITAHISGRMRKHYIRILTGDKVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYR +
+Sbjct  63  TKGRITYRMK  72
+
+
+>WP_034842760.1 MULTISPECIES: translation initiation factor IF-1 [Endozoicomonas]
+Length=72
+
+ Score = 121 bits (303),  Expect = 9e-035, Method: Compositional matrix adjust.
+ Identities = 58/70 (83%), Positives = 63/70 (90%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KEE +E EGVV +TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD VKVE+TPYDL
+Sbjct  3   KEESLEMEGVVIDTLPNTMFRVELENGHVVTAHISGKMRKNYIRILTGDKVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYR+R
+Sbjct  63  TKGRITYRSR  72
+
+
+>WP_085759977.1 translation initiation factor IF-1 [Oceanicoccus sagamiensis]
+Length=72
+
+ Score = 121 bits (303),  Expect = 9e-035, Method: Compositional matrix adjust.
+ Identities = 57/70 (81%), Positives = 64/70 (91%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KEE +E EG V +TLPNT F+VRLENGHEVIAHISGKMRK+YIRILTGD V+VE+TPYDL
+Sbjct  3   KEEQLEMEGEVIDTLPNTTFKVRLENGHEVIAHISGKMRKNYIRILTGDKVRVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRITYRAR
+Sbjct  63  SKGRITYRAR  72
+
+
+>WP_083559073.1 translation initiation factor IF-1 [Oceanococcus atlanticus]
+Length=72
+
+ Score = 120 bits (302),  Expect = 1e-034, Method: Compositional matrix adjust.
+ Identities = 55/70 (79%), Positives = 63/70 (90%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+LIE EG VTETLPNT FRV+LENGH V AHISG+MRKHYIRILTGD+V V++TPYDL
+Sbjct  3   KEDLIEMEGTVTETLPNTTFRVQLENGHSVTAHISGRMRKHYIRILTGDTVTVQLTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRITYR +
+Sbjct  63  SKGRITYRGK  72
+
+
+>WP_081128036.1 translation initiation factor IF-1 [Metallibacterium scheffleri]
+Length=72
+
+ Score = 120 bits (302),  Expect = 1e-034, Method: Compositional matrix adjust.
+ Identities = 56/70 (80%), Positives = 64/70 (91%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K+++IE EG V+ETLPNTMFRV+LENGH VIAHISG+MRK+YIRI+TGD VKVEMTPYDL
+Sbjct  3   KDDVIEMEGTVSETLPNTMFRVQLENGHIVIAHISGRMRKNYIRIITGDKVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TK RITYR R
+Sbjct  63  TKARITYRVR  72
+
+
+>WP_007193303.1 MULTISPECIES: translation initiation factor IF-1 [Chromatiaceae]
+Length=72
+
+ Score = 120 bits (302),  Expect = 1e-034, Method: Compositional matrix adjust.
+ Identities = 56/71 (79%), Positives = 63/71 (89%), Gaps = 0/71 (0%)
+
+Query  3   NKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYD  62
+           +K+++I+ EG VTETLPNT+FRV LENGH V AHISGKMRKHYIRILTGD V VE+TPYD
+Sbjct  2   SKDDVIQMEGTVTETLPNTVFRVELENGHTVTAHISGKMRKHYIRILTGDKVTVELTPYD  61
+
+Query  63  LTKGRITYRAR  73
+           LTKGRI YRAR
+Sbjct  62  LTKGRIVYRAR  72
+
+
+>WP_045225610.1 translation initiation factor IF-1 [Methylococcaceae bacterium 
+73a]
+Length=72
+
+ Score = 120 bits (302),  Expect = 1e-034, Method: Compositional matrix adjust.
+ Identities = 57/71 (80%), Positives = 63/71 (89%), Gaps = 0/71 (0%)
+
+Query  3   NKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYD  62
+           +KE+ IE EG V ETLPNTMFRV L+NGH +IAHISGKMRKHYIRILTGD VKVEMTPYD
+Sbjct  2   SKEDQIEMEGKVIETLPNTMFRVELDNGHVIIAHISGKMRKHYIRILTGDRVKVEMTPYD  61
+
+Query  63  LTKGRITYRAR  73
+           L+KGRIT+R R
+Sbjct  62  LSKGRITFRQR  72
+
+
+>WP_019866271.1 translation initiation factor IF-1 [Methylovulum miyakonense]
+Length=72
+
+ Score = 120 bits (302),  Expect = 1e-034, Method: Compositional matrix adjust.
+ Identities = 57/70 (81%), Positives = 63/70 (90%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EG V +TLPNTMFRV+LENGH V AHISGKMRKHYIRILTGDSVKVEMTPYDL
+Sbjct  3   KEDQIEMEGKVIDTLPNTMFRVQLENGHIVTAHISGKMRKHYIRILTGDSVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRI++R R
+Sbjct  63  SKGRISFRMR  72
+
+
+>WP_029134356.1 MULTISPECIES: translation initiation factor IF-1 [Sedimenticola]
+Length=72
+
+ Score = 120 bits (301),  Expect = 1e-034, Method: Compositional matrix adjust.
+ Identities = 56/70 (80%), Positives = 62/70 (89%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE +G V ETLPNTMFRV LENGH V AHISGKMRKHYIRILTGD+V V++TPYDL
+Sbjct  3   KEDFIEMDGTVIETLPNTMFRVELENGHVVTAHISGKMRKHYIRILTGDTVTVQLTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRITYRAR
+Sbjct  63  SKGRITYRAR  72
+
+
+>WP_024460472.1 translation initiation factor IF-1 [Marinimicrobium sp. LS-A18]
+Length=72
+
+ Score = 120 bits (301),  Expect = 1e-034, Method: Compositional matrix adjust.
+ Identities = 58/70 (83%), Positives = 63/70 (90%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IEFEG V +TLPNT FRV+LENGH V AHISGKMRK+YIRILTGD VKVEMTPYDL
+Sbjct  3   KEDNIEFEGEVVDTLPNTTFRVKLENGHVVTAHISGKMRKNYIRILTGDKVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYR+R
+Sbjct  63  TKGRITYRSR  72
+
+
+>WP_034211033.1 MULTISPECIES: translation initiation factor IF-1 [Arenimonas]
+Length=72
+
+ Score = 120 bits (301),  Expect = 1e-034, Method: Compositional matrix adjust.
+ Identities = 56/71 (79%), Positives = 64/71 (90%), Gaps = 0/71 (0%)
+
+Query  3   NKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYD  62
+           +K++ IEFEG V ETLPNTMFRV+LENGH + AHISG+MRK+YIRILTGD VKVEMTPYD
+Sbjct  2   SKDDSIEFEGTVLETLPNTMFRVKLENGHVITAHISGRMRKNYIRILTGDKVKVEMTPYD  61
+
+Query  63  LTKGRITYRAR  73
+           LTKGRITYR +
+Sbjct  62  LTKGRITYRMK  72
+
+
+>WP_041067735.1 translation initiation factor IF-1 [Thiolapillus brandeum]
+Length=72
+
+ Score = 120 bits (301),  Expect = 1e-034, Method: Compositional matrix adjust.
+ Identities = 57/70 (81%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE++IE EG V ETLPNTMFRV LENGH + AHISGKMRKHYIRILTGD VKVEMTPYDL
+Sbjct  3   KEDVIEMEGTVKETLPNTMFRVELENGHVITAHISGKMRKHYIRILTGDKVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRI YR R
+Sbjct  63  SKGRIVYRER  72
+
+
+>WP_020583463.1 MULTISPECIES: translation initiation factor IF-1 [Endozoicomonas]
+Length=72
+
+ Score = 120 bits (301),  Expect = 2e-034, Method: Compositional matrix adjust.
+ Identities = 58/70 (83%), Positives = 63/70 (90%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KEE +E EGVV +TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD VKVE+TPYDL
+Sbjct  3   KEESLEMEGVVIDTLPNTMFRVELENGHVVTAHISGKMRKNYIRILTGDRVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYR+R
+Sbjct  63  TKGRITYRSR  72
+
+
+>WP_076719472.1 translation initiation factor IF-1 [Motiliproteus sp. MSK22-1]
+Length=72
+
+ Score = 120 bits (301),  Expect = 2e-034, Method: Compositional matrix adjust.
+ Identities = 56/70 (80%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KEE IE +G + +TLPNTMFRV LENGH V AHISGKMRKHYIRILTGD VKVE+TPYDL
+Sbjct  3   KEECIEMDGTIIDTLPNTMFRVELENGHVVTAHISGKMRKHYIRILTGDKVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRI YRAR
+Sbjct  63  SKGRIVYRAR  72
+
+
+>WP_042675200.1 translation initiation factor IF-1 [Xanthomonas fuscans]
+Length=72
+
+ Score = 120 bits (301),  Expect = 2e-034, Method: Compositional matrix adjust.
+ Identities = 56/71 (79%), Positives = 65/71 (92%), Gaps = 0/71 (0%)
+
+Query  3   NKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYD  62
+           +K++ IEFEG V+ETLPNT F V+LENGHE+IAHISG+MRK+YIRILTGD VKVEMTPYD
+Sbjct  2   SKDDSIEFEGSVSETLPNTTFLVKLENGHEIIAHISGRMRKNYIRILTGDRVKVEMTPYD  61
+
+Query  63  LTKGRITYRAR  73
+           LTKGRITYR +
+Sbjct  62  LTKGRITYRMK  72
+
+
+>WP_049722125.1 translation initiation factor IF-1 [Gilvimarinus polysaccharolyticus]
+Length=72
+
+ Score = 120 bits (301),  Expect = 2e-034, Method: Compositional matrix adjust.
+ Identities = 58/70 (83%), Positives = 63/70 (90%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IEFEG V +TLPNT FRV+LENGH V AHISGKMRK+YIRILTGD VKVEMTPYDL
+Sbjct  3   KEDNIEFEGEVIDTLPNTTFRVKLENGHVVTAHISGKMRKNYIRILTGDKVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRITYRAR
+Sbjct  63  SKGRITYRAR  72
+
+
+>WP_005223622.1 MULTISPECIES: translation initiation factor IF-1 [Marichromatium]
+Length=72
+
+ Score = 120 bits (301),  Expect = 2e-034, Method: Compositional matrix adjust.
+ Identities = 56/70 (80%), Positives = 62/70 (89%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K+++I+ EG VTETLPNT+FRV LENGH V AHISGKMRKHYIRILTGD V VE+TPYDL
+Sbjct  3   KDDVIQMEGTVTETLPNTVFRVELENGHTVTAHISGKMRKHYIRILTGDKVTVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRI YRAR
+Sbjct  63  TKGRIVYRAR  72
+
+
+>WP_040185975.1 MULTISPECIES: translation initiation factor IF-1 [Bacteria][Archaea]
+Length=72
+
+ Score = 120 bits (301),  Expect = 2e-034, Method: Compositional matrix adjust.
+ Identities = 57/70 (81%), Positives = 62/70 (89%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           +E+ IE EGVV +TLPNTMFRV LENGH V AHISGKMRKHYIRILTGD VKVE+TPYDL
+Sbjct  3   REDHIEMEGVVVDTLPNTMFRVELENGHVVTAHISGKMRKHYIRILTGDKVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRI YRAR
+Sbjct  63  SKGRIVYRAR  72
+
+
+>WP_015486940.1 translation initiation factor IF-1 [Thalassolituus oleivorans]
+Length=72
+
+ Score = 120 bits (300),  Expect = 2e-034, Method: Compositional matrix adjust.
+ Identities = 57/70 (81%), Positives = 64/70 (91%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K++ IE EG V +TLPNTMFRV+LENGH VIAHISGKMRK+YIRILTGD VKVE+TPYDL
+Sbjct  3   KDDHIEMEGEVVDTLPNTMFRVKLENGHVVIAHISGKMRKNYIRILTGDKVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRITYRAR
+Sbjct  63  SKGRITYRAR  72
+
+
+>WP_022947180.1 translation initiation factor IF-1 [Methylohalobius crimeensis]
+Length=72
+
+ Score = 120 bits (300),  Expect = 2e-034, Method: Compositional matrix adjust.
+ Identities = 56/70 (80%), Positives = 63/70 (90%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE++IE EG V ETLPNTMFRV+LENGH + AHISGKMRKHYIRILTGD VKVEMTPYDL
+Sbjct  3   KEDVIEMEGTVIETLPNTMFRVKLENGHIITAHISGKMRKHYIRILTGDRVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRIT+R +
+Sbjct  63  SKGRITFRLK  72
+
+
+>WP_036522914.1 translation initiation factor IF-1 [Nitrincola sp. A-D6]
+Length=72
+
+ Score = 120 bits (300),  Expect = 2e-034, Method: Compositional matrix adjust.
+ Identities = 57/70 (81%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+  E EG V +TLPNTMFRV LENGH V AHISGKMRKHYIRILTGD VKVE+TPYDL
+Sbjct  3   KEDSFEMEGTVIDTLPNTMFRVELENGHVVTAHISGKMRKHYIRILTGDKVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRITYRAR
+Sbjct  63  SKGRITYRAR  72
+
+
+>WP_026816137.1 translation initiation factor IF-1 [Arenimonas composti]
+Length=72
+
+ Score = 120 bits (300),  Expect = 2e-034, Method: Compositional matrix adjust.
+ Identities = 56/71 (79%), Positives = 64/71 (90%), Gaps = 0/71 (0%)
+
+Query  3   NKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYD  62
+           +K++ IEFEG V ETLPNTMFRV+LENGH + AHISG+MRK+YIRILTGD VKVEMTPYD
+Sbjct  2   SKDDSIEFEGSVLETLPNTMFRVKLENGHVITAHISGRMRKNYIRILTGDKVKVEMTPYD  61
+
+Query  63  LTKGRITYRAR  73
+           LTKGRITYR +
+Sbjct  62  LTKGRITYRMK  72
+
+
+>WP_078119590.1 translation initiation factor IF-1 [Chromatiaceae bacterium 2141T.STBD.0c.01a]
+Length=72
+
+ Score = 120 bits (300),  Expect = 2e-034, Method: Compositional matrix adjust.
+ Identities = 57/70 (81%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE++IE EG V +TLPNTMFRV LENGH V AHISGKMRKHYIRILTGD VKVE+TPYDL
+Sbjct  3   KEDVIEMEGTVVDTLPNTMFRVELENGHVVTAHISGKMRKHYIRILTGDKVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRI YR R
+Sbjct  63  TKGRIVYRER  72
+
+
+>WP_058021674.1 MULTISPECIES: translation initiation factor IF-1 [Pseudohongiella]
+Length=72
+
+ Score = 120 bits (300),  Expect = 2e-034, Method: Compositional matrix adjust.
+ Identities = 58/70 (83%), Positives = 63/70 (90%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EG V +TLPNTMFRV+LENGH V AHISGKMRK+YIRILTGD VKVE+TPYDL
+Sbjct  3   KEDQIEMEGEVVDTLPNTMFRVKLENGHIVTAHISGKMRKNYIRILTGDMVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYRAR
+Sbjct  63  TKGRITYRAR  72
+
+
+>WP_045779225.1 translation initiation factor IF-1 [Methylococcaceae bacterium 
+Sn10-6]
+Length=72
+
+ Score = 120 bits (300),  Expect = 2e-034, Method: Compositional matrix adjust.
+ Identities = 57/70 (81%), Positives = 63/70 (90%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EG V +TLPNTMFRV+LENGH V AHISGKMRKHYIRILTGD+VKVEMTPYDL
+Sbjct  3   KEDQIEMEGKVIDTLPNTMFRVQLENGHIVTAHISGKMRKHYIRILTGDTVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRI++R R
+Sbjct  63  TKGRISFRMR  72
+
+
+>WP_027313218.1 translation initiation factor IF-1 [Balneatrix alpica]
+Length=72
+
+ Score = 120 bits (300),  Expect = 2e-034, Method: Compositional matrix adjust.
+ Identities = 57/70 (81%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EG V +TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD VKVEMTPYDL
+Sbjct  3   KEDCIEMEGTVVDTLPNTMFRVELENGHVVTAHISGKMRKNYIRILTGDKVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRI YR+R
+Sbjct  63  TKGRIVYRSR  72
+
+
+>WP_022962512.1 translation initiation factor IF-1 [Pseudomonas pelagia]
+Length=72
+
+ Score = 120 bits (300),  Expect = 2e-034, Method: Compositional matrix adjust.
+ Identities = 57/70 (81%), Positives = 62/70 (89%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KEE IE EG + +TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD V+VE+TPYDL
+Sbjct  3   KEESIEMEGTIVDTLPNTMFRVELENGHVVTAHISGKMRKNYIRILTGDKVRVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYRAR
+Sbjct  63  TKGRITYRAR  72
+
+
+>WP_014149038.1 MULTISPECIES: translation initiation factor IF-1 [Methylomicrobium]
+Length=72
+
+ Score = 120 bits (300),  Expect = 2e-034, Method: Compositional matrix adjust.
+ Identities = 58/70 (83%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EG V ETLPNTMFRV LENGH V AHISGKMRKHYIRILTGD VKVEMTPYDL
+Sbjct  3   KEDQIEMEGKVVETLPNTMFRVELENGHIVTAHISGKMRKHYIRILTGDKVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRIT+R R
+Sbjct  63  SKGRITFRMR  72
+
+
+>WP_036548442.1 translation initiation factor IF-1 [Nitrincola lacisaponensis]
+Length=72
+
+ Score = 119 bits (299),  Expect = 3e-034, Method: Compositional matrix adjust.
+ Identities = 57/70 (81%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+  E EG V +TLPNTMFRV LENGH V AHISGKMRKHYIRILTGD VKVE+TPYDL
+Sbjct  3   KEDSFEMEGTVIDTLPNTMFRVELENGHIVTAHISGKMRKHYIRILTGDKVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRITYRAR
+Sbjct  63  SKGRITYRAR  72
+
+
+>WP_019556607.1 translation initiation factor IF-1 [Thiomicrospira arctica]
+Length=72
+
+ Score = 119 bits (299),  Expect = 3e-034, Method: Compositional matrix adjust.
+ Identities = 52/70 (74%), Positives = 66/70 (94%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K+++IEF+GVV ETLPNT+F+V LENGH+++AHISG+MRK+YIRIL GD+VKVE+TPYDL
+Sbjct  3   KQDVIEFDGVVLETLPNTLFKVELENGHKILAHISGRMRKNYIRILAGDAVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYR +
+Sbjct  63  TKGRITYRGK  72
+
+
+>WP_062537550.1 translation initiation factor IF-1 [Mizugakiibacter sediminis]
+Length=72
+
+ Score = 119 bits (299),  Expect = 3e-034, Method: Compositional matrix adjust.
+ Identities = 55/70 (79%), Positives = 63/70 (90%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K+++IE EG V ETLPNTMFRV+LENGH + AHISG+MRKHYIRILTGD V+VEMTPYDL
+Sbjct  3   KDDVIEMEGTVLETLPNTMFRVQLENGHVITAHISGRMRKHYIRILTGDKVRVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYR +
+Sbjct  63  TKGRITYRMK  72
+
+
+>WP_020561928.1 translation initiation factor IF-1 [Methylosarcina fibrata]
+Length=72
+
+ Score = 119 bits (299),  Expect = 3e-034, Method: Compositional matrix adjust.
+ Identities = 57/70 (81%), Positives = 63/70 (90%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EG V +TLPNTMFRV+LENGH V AHISGKMRKHYIRILTGD+VKVE+TPYDL
+Sbjct  3   KEDQIEMEGKVIDTLPNTMFRVQLENGHIVTAHISGKMRKHYIRILTGDTVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRIT+R R
+Sbjct  63  TKGRITFRMR  72
+
+
+>WP_058555834.1 translation initiation factor IF-1 [Thiohalocapsa sp. ML1]
+Length=72
+
+ Score = 119 bits (299),  Expect = 3e-034, Method: Compositional matrix adjust.
+ Identities = 57/70 (81%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE++I  EG V ETLPNTMFRV LENGH V AHISGKMRKHYIRILTGD V VE+TPYDL
+Sbjct  3   KEDVITMEGTVMETLPNTMFRVELENGHVVTAHISGKMRKHYIRILTGDKVTVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRITYRAR
+Sbjct  63  SKGRITYRAR  72
+
+
+>WP_028302766.1 translation initiation factor IF-1 [Oceanospirillum maris]
+Length=72
+
+ Score = 119 bits (299),  Expect = 3e-034, Method: Compositional matrix adjust.
+ Identities = 58/70 (83%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KEE IE EG V +TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD VKVE+TPYDL
+Sbjct  3   KEESIEMEGTVVDTLPNTMFRVELENGHIVTAHISGKMRKNYIRILTGDKVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRI YRAR
+Sbjct  63  TKGRIVYRAR  72
+
+
+>WP_080522868.1 translation initiation factor IF-1 [Methyloprofundus sedimenti]
+Length=72
+
+ Score = 119 bits (299),  Expect = 3e-034, Method: Compositional matrix adjust.
+ Identities = 56/70 (80%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE +G + ETLPNTMFRV LENGH + AHISGKMRKHYIRILTGD VKVEMTPYDL
+Sbjct  3   KEDQIEMDGTIIETLPNTMFRVELENGHVITAHISGKMRKHYIRILTGDKVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRIT+R R
+Sbjct  63  TKGRITFRMR  72
+
+
+>WP_012438365.1 translation initiation factor IF-1 [Xanthomonas campestris]
+Length=72
+
+ Score = 119 bits (299),  Expect = 3e-034, Method: Compositional matrix adjust.
+ Identities = 57/73 (78%), Positives = 67/73 (92%), Gaps = 1/73 (1%)
+
+Query  1   MANKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTP  60
+           M+N ++ IEFEG V+ETLPNT FRV+LENG+E+IAHISG+MRK+YIRILTGD VKVEMTP
+Sbjct  1   MSN-DDSIEFEGSVSETLPNTTFRVKLENGYEIIAHISGRMRKNYIRILTGDRVKVEMTP  59
+
+Query  61  YDLTKGRITYRAR  73
+           YDLTKGRITYR +
+Sbjct  60  YDLTKGRITYRMK  72
+
+
+>WP_027330818.1 translation initiation factor IF-1 [Marinimicrobium agarilyticum]
+Length=72
+
+ Score = 119 bits (299),  Expect = 4e-034, Method: Compositional matrix adjust.
+ Identities = 57/70 (81%), Positives = 63/70 (90%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IEFEG V +TLPNT FRV+LENGH V AHISGKMRK+YIRILTGD VKVEMTPYDL
+Sbjct  3   KEDNIEFEGEVVDTLPNTTFRVKLENGHVVTAHISGKMRKNYIRILTGDKVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRITYR+R
+Sbjct  63  SKGRITYRSR  72
+
+
+>WP_020157601.1 MULTISPECIES: translation initiation factor IF-1 [Methylobacter]
+Length=72
+
+ Score = 119 bits (299),  Expect = 4e-034, Method: Compositional matrix adjust.
+ Identities = 58/70 (83%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EG V +TLPNTMFRV LENGH V AHISGKMRKHYIRILTGD VKVEMTPYDL
+Sbjct  3   KEDQIEMEGKVIDTLPNTMFRVELENGHIVTAHISGKMRKHYIRILTGDKVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRIT+R R
+Sbjct  63  TKGRITFRMR  72
+
+
+>WP_078482350.1 translation initiation factor IF-1 [Solemya velesiana gill symbiont]
+Length=72
+
+ Score = 119 bits (298),  Expect = 4e-034, Method: Compositional matrix adjust.
+ Identities = 57/70 (81%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KEE IE EG V +TLPNTMFRV LENGH V AHISGKMRKHYIRILTGD V V++TPYDL
+Sbjct  3   KEENIEMEGTVIDTLPNTMFRVELENGHVVTAHISGKMRKHYIRILTGDKVTVQLTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRITYRAR
+Sbjct  63  SKGRITYRAR  72
+
+
+>WP_048399879.1 translation initiation factor IF-1 [Candidatus Achromatium palustre]
+Length=72
+
+ Score = 119 bits (298),  Expect = 4e-034, Method: Compositional matrix adjust.
+ Identities = 56/70 (80%), Positives = 62/70 (89%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EG V ETLPNTMFRV+LENGH V AHISGKMRK+YIRILTGD V V++TPYDL
+Sbjct  3   KEDFIEMEGTVIETLPNTMFRVQLENGHIVTAHISGKMRKYYIRILTGDKVTVQLTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRI+YRAR
+Sbjct  63  TKGRISYRAR  72
+
+
+>WP_068804272.1 translation initiation factor IF-1 [Immundisolibacter cernigliae]
+Length=72
+
+ Score = 119 bits (298),  Expect = 4e-034, Method: Compositional matrix adjust.
+ Identities = 57/70 (81%), Positives = 60/70 (86%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KEE IE +G V ETLPNT FRVRLENGH V AHISGKMRKHYIRILTGD V V +TPYDL
+Sbjct  3   KEEGIEMQGTVVETLPNTTFRVRLENGHVVTAHISGKMRKHYIRILTGDQVTVSLTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRITYRAR
+Sbjct  63  SKGRITYRAR  72
+
+
+>WP_067081888.1 MULTISPECIES: translation initiation factor IF-1 [Microbulbifer]
+Length=72
+
+ Score = 119 bits (298),  Expect = 5e-034, Method: Compositional matrix adjust.
+ Identities = 57/70 (81%), Positives = 63/70 (90%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K++ IE EG V +TLPNT FRV+LENGH VIAHISGKMRK+YIRILTGD VKVE+TPYDL
+Sbjct  3   KDDYIEMEGEVIDTLPNTTFRVKLENGHVVIAHISGKMRKNYIRILTGDKVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYRAR
+Sbjct  63  TKGRITYRAR  72
+
+
+>WP_072324543.1 translation initiation factor IF-1 [Marinospirillum alkaliphilum]
+Length=72
+
+ Score = 119 bits (298),  Expect = 5e-034, Method: Compositional matrix adjust.
+ Identities = 57/70 (81%), Positives = 63/70 (90%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EGVV +TLPNTMFRV LENGH + AHISGKMRK+YIRILTGD VKVE++PYDL
+Sbjct  3   KEDHIEMEGVVIDTLPNTMFRVELENGHVLTAHISGKMRKNYIRILTGDKVKVELSPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYRAR
+Sbjct  63  TKGRITYRAR  72
+
+
+>WP_036989719.1 MULTISPECIES: translation initiation factor IF-1 [Pseudomonas]
+Length=72
+
+ Score = 119 bits (298),  Expect = 5e-034, Method: Compositional matrix adjust.
+ Identities = 56/70 (80%), Positives = 62/70 (89%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EG + +TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD V+VE+TPYDL
+Sbjct  3   KEDSIEMEGTIVDTLPNTMFRVELENGHVVTAHISGKMRKNYIRILTGDKVRVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYRAR
+Sbjct  63  TKGRITYRAR  72
+
+
+>WP_028468938.1 MULTISPECIES: translation initiation factor IF-1 [Oceanospirillaceae]
+Length=72
+
+ Score = 119 bits (297),  Expect = 6e-034, Method: Compositional matrix adjust.
+ Identities = 57/70 (81%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EG V +TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD VKVE+TPYDL
+Sbjct  3   KEDSIEMEGTVVDTLPNTMFRVELENGHVVTAHISGKMRKNYIRILTGDKVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRI YRAR
+Sbjct  63  TKGRIVYRAR  72
+
+
+>WP_005369748.1 MULTISPECIES: translation initiation factor IF-1 [Methylomicrobium]
+Length=72
+
+ Score = 119 bits (297),  Expect = 6e-034, Method: Compositional matrix adjust.
+ Identities = 57/70 (81%), Positives = 62/70 (89%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EG V +TLPNTMFRV+LENGH V AHISGKMRKHYIRILTGD+VKVEMTPYDL
+Sbjct  3   KEDQIEMEGKVIDTLPNTMFRVQLENGHIVTAHISGKMRKHYIRILTGDTVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRI +R R
+Sbjct  63  TKGRIIFRMR  72
+
+
+>WP_018981915.1 translation initiation factor IF-1 [Salinimonas chungwhensis]
+Length=72
+
+ Score = 119 bits (297),  Expect = 7e-034, Method: Compositional matrix adjust.
+ Identities = 57/70 (81%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EGV+ +TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD V VEMTPYDL
+Sbjct  3   KEDSIEMEGVILDTLPNTMFRVELENGHVVTAHISGKMRKNYIRILTGDKVTVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRI YRAR
+Sbjct  63  TKGRIVYRAR  72
+
+
+>WP_007232140.1 MULTISPECIES: translation initiation factor IF-1 [unclassified 
+Porticoccaceae]
+Length=72
+
+ Score = 119 bits (297),  Expect = 7e-034, Method: Compositional matrix adjust.
+ Identities = 57/70 (81%), Positives = 62/70 (89%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IEFEG V +TLPNT FRV+LEN H +IAHISGKMRKHYIRILTGD VKVEMTPYDL
+Sbjct  3   KEDHIEFEGEVIDTLPNTTFRVKLENDHVIIAHISGKMRKHYIRILTGDKVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRIT+R R
+Sbjct  63  TKGRITFRER  72
+
+
+>WP_039512826.1 translation initiation factor IF-1 [Xanthomonas arboricola]
+Length=66
+
+ Score = 118 bits (296),  Expect = 7e-034, Method: Compositional matrix adjust.
+ Identities = 55/66 (83%), Positives = 62/66 (94%), Gaps = 0/66 (0%)
+
+Query  8   IEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDLTKGR  67
+           +EFEG V+ETLPNT FRV+LENGHE+IAHISG+MRK+YIRILTGD VKVEMTPYDLTKGR
+Sbjct  1   MEFEGSVSETLPNTTFRVKLENGHEIIAHISGRMRKNYIRILTGDRVKVEMTPYDLTKGR  60
+
+Query  68  ITYRAR  73
+           ITYR +
+Sbjct  61  ITYRMK  66
+
+
+>WP_075172183.1 translation initiation factor IF-1 [Neptunomonas phycophila]
+Length=72
+
+ Score = 119 bits (297),  Expect = 7e-034, Method: Compositional matrix adjust.
+ Identities = 57/70 (81%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EG V +TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD VKVE+TPYDL
+Sbjct  3   KEDSIEMEGTVIDTLPNTMFRVELENGHVVTAHISGKMRKNYIRILTGDKVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRI YRAR
+Sbjct  63  TKGRIVYRAR  72
+
+
+>WP_085213738.1 translation initiation factor IF-1 [Methylocaldum sp. 175]
+Length=72
+
+ Score = 119 bits (297),  Expect = 7e-034, Method: Compositional matrix adjust.
+ Identities = 56/71 (79%), Positives = 63/71 (89%), Gaps = 0/71 (0%)
+
+Query  3   NKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYD  62
+           +KE+ IE EG V ETLPNT FRV+L+NGH +IAHISGKMRKHYIRILTGD VKVEMTPYD
+Sbjct  2   SKEDHIEMEGKVIETLPNTTFRVQLDNGHTIIAHISGKMRKHYIRILTGDRVKVEMTPYD  61
+
+Query  63  LTKGRITYRAR  73
+           L+KGRIT+R R
+Sbjct  62  LSKGRITFRQR  72
+
+
+>WP_078744381.1 translation initiation factor IF-1 [Oceanospirillum multiglobuliferum]
+Length=72
+
+ Score = 119 bits (297),  Expect = 7e-034, Method: Compositional matrix adjust.
+ Identities = 57/70 (81%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EG V +TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD VKVE+TPYDL
+Sbjct  3   KEDSIEMEGTVVDTLPNTMFRVELENGHIVTAHISGKMRKNYIRILTGDKVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRI YRAR
+Sbjct  63  TKGRIVYRAR  72
+
+
+>WP_043767427.1 translation initiation factor IF-1 [Algiphilus aromaticivorans]
+Length=72
+
+ Score = 119 bits (297),  Expect = 7e-034, Method: Compositional matrix adjust.
+ Identities = 57/70 (81%), Positives = 62/70 (89%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EGVV +TLPNT FRV+LENGH V AHISGKMRKHYIRILTGD VKVE+TPYDL
+Sbjct  3   KEDHIEMEGVVMDTLPNTTFRVKLENGHIVTAHISGKMRKHYIRILTGDKVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYR +
+Sbjct  63  TKGRITYRDK  72
+
+
+>WP_014949333.1 MULTISPECIES: translation initiation factor IF-1 [Alteromonas]
+Length=72
+
+ Score = 119 bits (297),  Expect = 7e-034, Method: Compositional matrix adjust.
+ Identities = 57/70 (81%), Positives = 60/70 (86%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EG V +TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD V VEMTPYDL
+Sbjct  3   KEDCIEMEGTVLDTLPNTMFRVELENGHVVTAHISGKMRKNYIRILTGDKVTVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRI YRAR
+Sbjct  63  TKGRIVYRAR  72
+
+
+>WP_013784390.1 MULTISPECIES: translation initiation factor IF-1 [Alteromonas]
+Length=72
+
+ Score = 119 bits (297),  Expect = 8e-034, Method: Compositional matrix adjust.
+ Identities = 57/70 (81%), Positives = 60/70 (86%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EG V +TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD V VEMTPYDL
+Sbjct  3   KEDCIEMEGTVQDTLPNTMFRVELENGHVVTAHISGKMRKNYIRILTGDKVTVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRI YRAR
+Sbjct  63  TKGRIIYRAR  72
+
+
+>WP_080050557.1 translation initiation factor IF-1 [Pseudomonas sp. S-6-2]
+Length=72
+
+ Score = 118 bits (296),  Expect = 8e-034, Method: Compositional matrix adjust.
+ Identities = 56/70 (80%), Positives = 62/70 (89%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EG + +TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD V+VE+TPYDL
+Sbjct  3   KEDSIEMEGTIIDTLPNTMFRVELENGHVVTAHISGKMRKNYIRILTGDKVRVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYRAR
+Sbjct  63  TKGRITYRAR  72
+
+
+>WP_009148344.1 translation initiation factor IF-1 [Thiorhodovibrio sp. 970]
+Length=72
+
+ Score = 118 bits (296),  Expect = 8e-034, Method: Compositional matrix adjust.
+ Identities = 56/70 (80%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE++I+ EG V ETLPNT+FRV LENGH V AHISGKMRKHYIRILTGD V VE+TPYDL
+Sbjct  3   KEDVIQMEGTVVETLPNTVFRVELENGHVVTAHISGKMRKHYIRILTGDKVTVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYR R
+Sbjct  63  TKGRITYRVR  72
+
+
+>WP_071872683.1 translation initiation factor IF-1 [Pseudomonas hussainii]
+Length=72
+
+ Score = 118 bits (296),  Expect = 8e-034, Method: Compositional matrix adjust.
+ Identities = 56/71 (79%), Positives = 63/71 (89%), Gaps = 0/71 (0%)
+
+Query  3   NKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYD  62
+           +KE+ IE EG V +TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD V+VE+TPYD
+Sbjct  2   SKEDSIEMEGTVIDTLPNTMFRVELENGHVVTAHISGKMRKNYIRILTGDKVRVELTPYD  61
+
+Query  63  LTKGRITYRAR  73
+           L+KGRITYRAR
+Sbjct  62  LSKGRITYRAR  72
+
+
+>WP_027849523.1 MULTISPECIES: translation initiation factor IF-1 [Marinospirillum]
+Length=72
+
+ Score = 118 bits (296),  Expect = 8e-034, Method: Compositional matrix adjust.
+ Identities = 56/70 (80%), Positives = 63/70 (90%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EGV+ +TLPNTMFRV LENGH + AHISGKMRK+YIRILTGD VKVE++PYDL
+Sbjct  3   KEDHIEMEGVIIDTLPNTMFRVELENGHVLTAHISGKMRKNYIRILTGDKVKVELSPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYRAR
+Sbjct  63  TKGRITYRAR  72
+
+
+>WP_008043370.1 MULTISPECIES: translation initiation factor IF-1 [Saccharospirillaceae]
+Length=72
+
+ Score = 118 bits (296),  Expect = 9e-034, Method: Compositional matrix adjust.
+ Identities = 55/70 (79%), Positives = 63/70 (90%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE++IE EG + +TLPNTMFRV+LENGH + AHISGKMRK+YIRILTGD VKVE+TPYDL
+Sbjct  3   KEDVIEMEGEILDTLPNTMFRVKLENGHVITAHISGKMRKNYIRILTGDKVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRI YRAR
+Sbjct  63  TKGRIVYRAR  72
+
+
+>WP_043115807.1 MULTISPECIES: translation initiation factor IF-1 [sulfur-oxidizing 
+symbionts]
+Length=72
+
+ Score = 118 bits (296),  Expect = 9e-034, Method: Compositional matrix adjust.
+ Identities = 56/70 (80%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EG VT+TLPNT FRV LENGH V AHISGKMRK+YIRILTGD V V++TPYDL
+Sbjct  3   KEDFIEMEGTVTDTLPNTTFRVELENGHVVTAHISGKMRKNYIRILTGDKVTVQLTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYRAR
+Sbjct  63  TKGRITYRAR  72
+
+
+>WP_011629190.1 translation initiation factor IF-1 [Alkalilimnicola ehrlichii]
+Length=72
+
+ Score = 118 bits (296),  Expect = 9e-034, Method: Compositional matrix adjust.
+ Identities = 57/70 (81%), Positives = 60/70 (86%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KEE I+  G V ETLPNTMFRV LENGH V AHISGKMRKHYIRILTGD V VE+TPYDL
+Sbjct  3   KEESIKMNGTVIETLPNTMFRVELENGHVVTAHISGKMRKHYIRILTGDKVTVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRITYRAR
+Sbjct  63  SKGRITYRAR  72
+
+
+>WP_022957154.1 MULTISPECIES: translation initiation factor IF-1 [Spongiibacter]
+Length=72
+
+ Score = 118 bits (296),  Expect = 9e-034, Method: Compositional matrix adjust.
+ Identities = 57/70 (81%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EG V +TLPNT FRVRLENGH V AHISGKMRKHYIRILTGD VKVE+TPYDL
+Sbjct  3   KEDQIEMEGEVIDTLPNTTFRVRLENGHVVTAHISGKMRKHYIRILTGDKVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRIT+R R
+Sbjct  63  TKGRITFRGR  72
+
+
+>WP_012070936.1 MULTISPECIES: translation initiation factor IF-1 [Marinomonas]
+Length=72
+
+ Score = 118 bits (296),  Expect = 1e-033, Method: Compositional matrix adjust.
+ Identities = 56/70 (80%), Positives = 62/70 (89%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KEE +E EG + +TLPNTMFRV LENGH VIAHISGKMRK+YIRILTGD VKVE+TPYDL
+Sbjct  3   KEEGLEMEGTIIDTLPNTMFRVELENGHVVIAHISGKMRKNYIRILTGDKVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRI YRAR
+Sbjct  63  SKGRIVYRAR  72
+
+
+>WP_008844395.1 MULTISPECIES: translation initiation factor IF-1 [Alteromonadaceae]
+Length=72
+
+ Score = 118 bits (296),  Expect = 1e-033, Method: Compositional matrix adjust.
+ Identities = 57/70 (81%), Positives = 60/70 (86%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EG V +TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD V VEMTPYDL
+Sbjct  3   KEDCIEMEGTVLDTLPNTMFRVELENGHVVTAHISGKMRKNYIRILTGDKVTVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRI YRAR
+Sbjct  63  TKGRIIYRAR  72
+
+
+>WP_058029687.1 MULTISPECIES: translation initiation factor IF-1 [Pseudoalteromonas]
+Length=72
+
+ Score = 118 bits (296),  Expect = 1e-033, Method: Compositional matrix adjust.
+ Identities = 55/70 (79%), Positives = 62/70 (89%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE++IE +G V +TLPNTMFRV LENGH V+AHISGKMRK+YIRILTGD V VEMTPYDL
+Sbjct  3   KEDVIEMQGTVLDTLPNTMFRVELENGHVVVAHISGKMRKNYIRILTGDKVTVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRI +RAR
+Sbjct  63  TKGRIVFRAR  72
+
+
+>WP_027706826.1 translation initiation factor IF-1 [Zooshikella ganghwensis]
+Length=72
+
+ Score = 118 bits (296),  Expect = 1e-033, Method: Compositional matrix adjust.
+ Identities = 56/70 (80%), Positives = 62/70 (89%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EG V +TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD V+VE+TPYDL
+Sbjct  3   KEDSIEMEGTVIDTLPNTMFRVELENGHVVTAHISGKMRKNYIRILTGDKVRVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRITYRAR
+Sbjct  63  SKGRITYRAR  72
+
+
+>WP_022984063.1 MULTISPECIES: translation initiation factor IF-1 [Alcanivorax]
+Length=72
+
+ Score = 118 bits (296),  Expect = 1e-033, Method: Compositional matrix adjust.
+ Identities = 55/70 (79%), Positives = 62/70 (89%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KEE IE EGV+ ETLPNTMFRV+L+NGH + AHISGKMRK YIRILTGD VKVEM+PYDL
+Sbjct  3   KEEQIELEGVIVETLPNTMFRVKLDNGHVITAHISGKMRKFYIRILTGDRVKVEMSPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRIT+R +
+Sbjct  63  TKGRITFRMK  72
+
+
+>WP_068373302.1 translation initiation factor IF-1 [Paraglaciecola sp. S66]
+Length=72
+
+ Score = 118 bits (295),  Expect = 1e-033, Method: Compositional matrix adjust.
+ Identities = 56/70 (80%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EG V +TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD+V VEMTPYDL
+Sbjct  3   KEDCIEMEGTVLDTLPNTMFRVELENGHVVTAHISGKMRKNYIRILTGDAVTVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRI YRAR
+Sbjct  63  SKGRIIYRAR  72
+
+
+>WP_025672815.1 MULTISPECIES: translation initiation factor IF-1 [Salinivibrio]
+Length=72
+
+ Score = 118 bits (295),  Expect = 1e-033, Method: Compositional matrix adjust.
+ Identities = 54/70 (77%), Positives = 62/70 (89%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE++IE +G+V +TLPNTMFRV LENGH V AHISGKMRKHYIRILTGD V VEMTPYDL
+Sbjct  3   KEDVIEMQGIVLDTLPNTMFRVELENGHVVTAHISGKMRKHYIRILTGDKVTVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRI +R+R
+Sbjct  63  SKGRIVFRSR  72
+
+
+>WP_010130378.1 MULTISPECIES: translation initiation factor IF-1 [Microbulbifer]
+Length=72
+
+ Score = 118 bits (295),  Expect = 1e-033, Method: Compositional matrix adjust.
+ Identities = 56/70 (80%), Positives = 63/70 (90%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K++ IE EG V +TLPNT FRV+LENGH VIAHISGKMRK+YIRILTGD VKVE+TPYDL
+Sbjct  3   KDDYIEMEGEVIDTLPNTTFRVKLENGHVVIAHISGKMRKNYIRILTGDKVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRITYRAR
+Sbjct  63  SKGRITYRAR  72
+
+
+>WP_027591103.1 MULTISPECIES: translation initiation factor IF-1 [Pseudomonas]
+Length=72
+
+ Score = 118 bits (295),  Expect = 1e-033, Method: Compositional matrix adjust.
+ Identities = 55/71 (77%), Positives = 63/71 (89%), Gaps = 0/71 (0%)
+
+Query  3   NKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYD  62
+           +KE+ +E EG V +TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD V+VE+TPYD
+Sbjct  2   SKEDSLEMEGTVVDTLPNTMFRVELENGHVVTAHISGKMRKNYIRILTGDKVRVELTPYD  61
+
+Query  63  LTKGRITYRAR  73
+           L+KGRITYRAR
+Sbjct  62  LSKGRITYRAR  72
+
+
+>WP_064025941.1 MULTISPECIES: translation initiation factor IF-1 [Methylomonas]
+Length=72
+
+ Score = 118 bits (295),  Expect = 1e-033, Method: Compositional matrix adjust.
+ Identities = 57/70 (81%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EG V +TLPNTMFRV LENGH V AHISGKMRKHYIRILTGD V+VEMTPYDL
+Sbjct  3   KEDQIEMEGKVIDTLPNTMFRVELENGHIVTAHISGKMRKHYIRILTGDKVRVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRIT+R R
+Sbjct  63  TKGRITFRNR  72
+
+
+>WP_044412068.1 translation initiation factor IF-1 [Thioalkalimicrobium microaerophilum]
+Length=72
+
+ Score = 118 bits (295),  Expect = 1e-033, Method: Compositional matrix adjust.
+ Identities = 53/70 (76%), Positives = 63/70 (90%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K+++IEFEG V ETLPNTMF+V LENGH ++AHISG+MRK+YIRIL GD VKVE+TPYDL
+Sbjct  3   KQDVIEFEGTVLETLPNTMFKVELENGHCILAHISGRMRKNYIRILAGDKVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYR +
+Sbjct  63  TKGRITYRGK  72
+
+
+>WP_031432649.1 translation initiation factor IF-1 [Methylomarinum vadi]
+Length=72
+
+ Score = 118 bits (295),  Expect = 1e-033, Method: Compositional matrix adjust.
+ Identities = 57/70 (81%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE +G V +TLPNTMFRV LENGH V AHISGKMRKHYIRILTGD VKVEMTPYDL
+Sbjct  3   KEDQIEMDGKVIDTLPNTMFRVELENGHIVTAHISGKMRKHYIRILTGDRVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRIT+R R
+Sbjct  63  TKGRITFRMR  72
+
+
+>WP_027853708.1 MULTISPECIES: translation initiation factor IF-1 [Oceanospirillaceae]
+Length=72
+
+ Score = 118 bits (295),  Expect = 1e-033, Method: Compositional matrix adjust.
+ Identities = 56/70 (80%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EG V +TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD VKVE+TPYDL
+Sbjct  3   KEDSIEMEGTVVDTLPNTMFRVELENGHVVTAHISGKMRKNYIRILTGDKVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRI YRAR
+Sbjct  63  SKGRIVYRAR  72
+
+
+>WP_031492527.1 translation initiation factor IF-1 [Succinivibrio dextrinosolvens]
+Length=72
+
+ Score = 118 bits (295),  Expect = 1e-033, Method: Compositional matrix adjust.
+ Identities = 55/70 (79%), Positives = 63/70 (90%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KEE IE +G + ETLPNTMFRV+LENGH V+AHISGKMRK+YIRILTGD V V++TPYDL
+Sbjct  3   KEESIEMQGTILETLPNTMFRVQLENGHIVMAHISGKMRKNYIRILTGDKVTVQITPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRIT+RAR
+Sbjct  63  TKGRITFRAR  72
+
+
+>WP_022968666.1 translation initiation factor IF-1 [Arenimonas oryziterrae]
+Length=72
+
+ Score = 118 bits (295),  Expect = 1e-033, Method: Compositional matrix adjust.
+ Identities = 54/71 (76%), Positives = 64/71 (90%), Gaps = 0/71 (0%)
+
+Query  3   NKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYD  62
+           +K++ IEFEG + ETLPNT+FRV+LENGH + AHISG+MRK+YIRILTGD VKVEMTPYD
+Sbjct  2   SKDDSIEFEGTILETLPNTVFRVKLENGHVITAHISGRMRKNYIRILTGDKVKVEMTPYD  61
+
+Query  63  LTKGRITYRAR  73
+           LTKGRITYR +
+Sbjct  62  LTKGRITYRMK  72
+
+
+>WP_013795500.1 MULTISPECIES: translation initiation factor IF-1 [Marinomonas]
+Length=72
+
+ Score = 117 bits (294),  Expect = 2e-033, Method: Compositional matrix adjust.
+ Identities = 55/70 (79%), Positives = 62/70 (89%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KEE +E EG + +TLPNTMFRV LENGH V+AHISGKMRK+YIRILTGD VKVE+TPYDL
+Sbjct  3   KEEGLEMEGTIIDTLPNTMFRVELENGHVVVAHISGKMRKNYIRILTGDKVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRI YRAR
+Sbjct  63  SKGRIVYRAR  72
+
+
+>WP_054487875.1 translation initiation factor IF-1 [Idiomarina abyssalis]
+Length=72
+
+ Score = 117 bits (294),  Expect = 2e-033, Method: Compositional matrix adjust.
+ Identities = 55/70 (79%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE +G V ETLPNTMFRV LENGH V AHISGKMRKHYIRILTGD+V V++TPYDL
+Sbjct  3   KEDSIEMQGTVLETLPNTMFRVELENGHVVTAHISGKMRKHYIRILTGDTVTVQLTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRI +RAR
+Sbjct  63  TKGRIVFRAR  72
+
+
+>WP_048671919.1 translation initiation factor IF-1 [Candidatus Competibacter 
+denitrificans]
+Length=72
+
+ Score = 117 bits (294),  Expect = 2e-033, Method: Compositional matrix adjust.
+ Identities = 55/71 (77%), Positives = 62/71 (87%), Gaps = 0/71 (0%)
+
+Query  3   NKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYD  62
+           +KE+ IE EG V +TLPNTMFRV+LENGH V AHISG+MRKHYIRILTGD VKVE+TPYD
+Sbjct  2   SKEDHIEMEGTVVDTLPNTMFRVQLENGHVVTAHISGRMRKHYIRILTGDKVKVELTPYD  61
+
+Query  63  LTKGRITYRAR  73
+           L+KGRI YR R
+Sbjct  62  LSKGRIVYRGR  72
+
+
+>WP_007153725.1 MULTISPECIES: translation initiation factor IF-1 [Marinobacter]
+Length=72
+
+ Score = 117 bits (294),  Expect = 2e-033, Method: Compositional matrix adjust.
+ Identities = 55/70 (79%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K + IE EGV+ +TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD VKVE+TPYDL
+Sbjct  3   KSDAIEMEGVIVDTLPNTMFRVELENGHIVTAHISGKMRKNYIRILTGDKVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRI YRAR
+Sbjct  63  SKGRIVYRAR  72
+
+
+>WP_028292799.1 MULTISPECIES: translation initiation factor IF-1 [Oceanospirillaceae]
+Length=72
+
+ Score = 117 bits (294),  Expect = 2e-033, Method: Compositional matrix adjust.
+ Identities = 56/70 (80%), Positives = 63/70 (90%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K++ IE EG V +TLPNTMFRV+LENGH V AHISGKMRK+YIRILTGD VKVE+TPYDL
+Sbjct  3   KDDHIEMEGEVIDTLPNTMFRVKLENGHVVTAHISGKMRKNYIRILTGDKVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRITYRAR
+Sbjct  63  SKGRITYRAR  72
+
+
+>WP_007019821.1 MULTISPECIES: translation initiation factor IF-1 [Oceanospirillaceae]
+Length=72
+
+ Score = 117 bits (294),  Expect = 2e-033, Method: Compositional matrix adjust.
+ Identities = 56/70 (80%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EG V +TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD VKVE+TPYDL
+Sbjct  3   KEDSIEMEGTVIDTLPNTMFRVELENGHVVTAHISGKMRKNYIRILTGDKVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRI YRAR
+Sbjct  63  SKGRIVYRAR  72
+
+
+>WP_075609594.1 translation initiation factor IF-1 [Idiomarina sp. 5.13]
+Length=72
+
+ Score = 117 bits (294),  Expect = 2e-033, Method: Compositional matrix adjust.
+ Identities = 57/70 (81%), Positives = 60/70 (86%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EG V +TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD V VEMTPYDL
+Sbjct  3   KEDSIEMEGTVLDTLPNTMFRVELENGHVVTAHISGKMRKNYIRILTGDKVTVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRI YRAR
+Sbjct  63  TKGRIVYRAR  72
+
+
+>WP_043101035.1 translation initiation factor IF-1 [Oleiagrimonas soli]
+Length=72
+
+ Score = 117 bits (294),  Expect = 2e-033, Method: Compositional matrix adjust.
+ Identities = 55/70 (79%), Positives = 62/70 (89%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K+++IE EG V ETLPNTMFRV LENGH + AHISG+MRKHYIRILTGD V+VEMTPYDL
+Sbjct  3   KDDVIEMEGKVLETLPNTMFRVELENGHVITAHISGRMRKHYIRILTGDKVRVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYR +
+Sbjct  63  TKGRITYRMK  72
+
+
+>WP_027859812.1 translation initiation factor IF-1 [Marinobacterium jannaschii]
+Length=72
+
+ Score = 117 bits (294),  Expect = 2e-033, Method: Compositional matrix adjust.
+ Identities = 55/70 (79%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+  E EG V +TLPNTMFRV LENGH V+AHISGKMRK+YIRILTGD VKVE+TPYDL
+Sbjct  3   KEDSFEMEGTVVDTLPNTMFRVELENGHVVVAHISGKMRKNYIRILTGDKVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRI YRAR
+Sbjct  63  SKGRIVYRAR  72
+
+
+>WP_078319170.1 translation initiation factor IF-1 [Oceanospirillum linum]
+Length=72
+
+ Score = 117 bits (294),  Expect = 2e-033, Method: Compositional matrix adjust.
+ Identities = 56/70 (80%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EG V +TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD VKVE+TPYDL
+Sbjct  3   KEDSIEMEGTVVDTLPNTMFRVELENGHIVTAHISGKMRKNYIRILTGDKVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRI YRAR
+Sbjct  63  SKGRIVYRAR  72
+
+
+>WP_010548695.1 translation initiation factor IF-1 [gamma proteobacterium HIMB30]
+Length=72
+
+ Score = 117 bits (294),  Expect = 2e-033, Method: Compositional matrix adjust.
+ Identities = 55/70 (79%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EG + +TLPNTMFRV L+NGH V AHISGKMRKHYIRILTGD V VE+TPYDL
+Sbjct  3   KEDSIEMEGTIVDTLPNTMFRVELDNGHVVTAHISGKMRKHYIRILTGDRVTVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRIT+RAR
+Sbjct  63  TKGRITFRAR  72
+
+
+>WP_053981222.1 translation initiation factor IF-1 [Marinagarivorans algicola]
+Length=72
+
+ Score = 117 bits (294),  Expect = 2e-033, Method: Compositional matrix adjust.
+ Identities = 57/70 (81%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KEE  E EG V +TLPNTMFRV+LEN H V AHISGKMRK+YIRILTGD VKVEMTPYDL
+Sbjct  3   KEENFELEGEVVDTLPNTMFRVKLENDHVVTAHISGKMRKNYIRILTGDKVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRITYRAR
+Sbjct  63  SKGRITYRAR  72
+
+
+>WP_018974609.1 translation initiation factor IF-1 [Rudaea cellulosilytica]
+Length=72
+
+ Score = 117 bits (294),  Expect = 2e-033, Method: Compositional matrix adjust.
+ Identities = 56/70 (80%), Positives = 62/70 (89%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K++ IE EG V +TLPNTMFRV+LENGH V AHISG+MRK+YIRILTGD VKVEMTPYDL
+Sbjct  3   KDDQIEMEGTVLDTLPNTMFRVQLENGHVVTAHISGRMRKNYIRILTGDKVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYR R
+Sbjct  63  TKGRITYRHR  72
+
+
+>WP_006003271.1 MULTISPECIES: translation initiation factor IF-1 [Glaciecola]
+Length=72
+
+ Score = 117 bits (294),  Expect = 2e-033, Method: Compositional matrix adjust.
+ Identities = 56/70 (80%), Positives = 60/70 (86%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EG V +TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD V VEMTPYDL
+Sbjct  3   KEDCIEMEGTVQDTLPNTMFRVELENGHVVTAHISGKMRKNYIRILTGDKVTVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRI YRAR
+Sbjct  63  SKGRIIYRAR  72
+
+
+>WP_070175908.1 MULTISPECIES: translation initiation factor IF-1 [Alteromonadaceae]
+Length=72
+
+ Score = 117 bits (294),  Expect = 2e-033, Method: Compositional matrix adjust.
+ Identities = 56/70 (80%), Positives = 60/70 (86%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EG V +TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD V VEMTPYDL
+Sbjct  3   KEDCIEMEGTVLDTLPNTMFRVELENGHVVTAHISGKMRKNYIRILTGDKVTVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRI YRAR
+Sbjct  63  SKGRIVYRAR  72
+
+
+>WP_011507732.1 MULTISPECIES: translation initiation factor IF-1 [Chromohalobacter]
+Length=72
+
+ Score = 117 bits (294),  Expect = 2e-033, Method: Compositional matrix adjust.
+ Identities = 56/70 (80%), Positives = 62/70 (89%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           +E+ IE EGVV +TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD VKVE+TPYDL
+Sbjct  3   REDHIEMEGVVVDTLPNTMFRVELENGHVVTAHISGKMRKNYIRILTGDKVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRI YRAR
+Sbjct  63  SKGRIVYRAR  72
+
+
+>WP_005503333.1 translation initiation factor IF-1 [Grimontia hollisae]
+Length=72
+
+ Score = 117 bits (294),  Expect = 2e-033, Method: Compositional matrix adjust.
+ Identities = 55/70 (79%), Positives = 62/70 (89%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE++IE +GVV +TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD V VEMTPYDL
+Sbjct  3   KEDVIELQGVVLDTLPNTMFRVELENGHVVTAHISGKMRKNYIRILTGDKVTVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRI +RAR
+Sbjct  63  SKGRIIFRAR  72
+
+
+>WP_004725411.1 translation initiation factor IF-1 [Vibrio furnissii]
+Length=72
+
+ Score = 117 bits (294),  Expect = 2e-033, Method: Compositional matrix adjust.
+ Identities = 55/70 (79%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE++IE +G V +TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD V VEMTPYDL
+Sbjct  3   KEDVIEMQGTVLDTLPNTMFRVELENGHTVTAHISGKMRKNYIRILTGDKVTVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRI +RAR
+Sbjct  63  TKGRIVFRAR  72
+
+
+>WP_007224976.1 translation initiation factor IF-1 [marine gamma proteobacterium 
+HTCC2143]
+Length=72
+
+ Score = 117 bits (294),  Expect = 2e-033, Method: Compositional matrix adjust.
+ Identities = 56/70 (80%), Positives = 63/70 (90%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KEE IE EG V +TLPNT F+V+LENGH VIAHISGKMRK+YIRILTGD V+VE+TPYDL
+Sbjct  3   KEEQIEMEGEVIDTLPNTTFKVQLENGHVVIAHISGKMRKNYIRILTGDKVRVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRITYRAR
+Sbjct  63  SKGRITYRAR  72
+
+
+>WP_014994331.1 MULTISPECIES: translation initiation factor IF-1 [Alcanivorax]
+Length=72
+
+ Score = 117 bits (294),  Expect = 2e-033, Method: Compositional matrix adjust.
+ Identities = 55/70 (79%), Positives = 62/70 (89%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KEE IE EGVV ETLPNTMFRV+L+NGH + AHISGKMRK YIRILTGD VKVEM+PYDL
+Sbjct  3   KEEQIELEGVVLETLPNTMFRVKLDNGHVITAHISGKMRKFYIRILTGDRVKVEMSPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRIT+R +
+Sbjct  63  SKGRITFRMK  72
+
+
+>WP_003405083.1 MULTISPECIES: translation initiation factor IF-1 [Pseudomonas 
+syringae group]
+ NP_793135.1 translation initiation factor IF-1 [[Pseudomonas syringae] pv. 
+tomato str. DC3000]
+Length=72
+
+ Score = 117 bits (293),  Expect = 2e-033, Method: Compositional matrix adjust.
+ Identities = 55/71 (77%), Positives = 62/71 (87%), Gaps = 0/71 (0%)
+
+Query  3   NKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYD  62
+           +KE+  E EG V +TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD V+VE+TPYD
+Sbjct  2   SKEDSFEMEGTVADTLPNTMFRVELENGHVVTAHISGKMRKNYIRILTGDKVRVELTPYD  61
+
+Query  63  LTKGRITYRAR  73
+           L+KGRITYRAR
+Sbjct  62  LSKGRITYRAR  72
+
+
+>WP_076722846.1 translation initiation factor IF-1 [Marinobacter lutaoensis]
+Length=72
+
+ Score = 117 bits (293),  Expect = 2e-033, Method: Compositional matrix adjust.
+ Identities = 55/70 (79%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K ++IE EGVV +TLPNTMFRV L NGH V AHISGKMRK+YIRILTGD VKVE+TPYDL
+Sbjct  3   KSDVIEMEGVVIDTLPNTMFRVELSNGHVVTAHISGKMRKNYIRILTGDKVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRI YRAR
+Sbjct  63  SKGRIVYRAR  72
+
+
+>WP_008247839.1 translation initiation factor IF-1 [Zhongshania aliphaticivorans]
+Length=72
+
+ Score = 117 bits (293),  Expect = 2e-033, Method: Compositional matrix adjust.
+ Identities = 56/70 (80%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EG V +TLPNT FRVRLENGH V AHISGKMRKHYIRILTGD VKVE+TPYDL
+Sbjct  3   KEDQIEMEGEVIDTLPNTTFRVRLENGHVVTAHISGKMRKHYIRILTGDKVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRIT+R R
+Sbjct  63  SKGRITFRGR  72
+
+
+>WP_002962494.1 MULTISPECIES: translation initiation factor IF-1 [Alteromonadales]
+Length=72
+
+ Score = 117 bits (293),  Expect = 2e-033, Method: Compositional matrix adjust.
+ Identities = 54/70 (77%), Positives = 62/70 (89%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE++IE +G V +TLPNTMFRV LENGH V+AHISGKMRK+YIRILTGD V VEMTPYDL
+Sbjct  3   KEDVIEMQGTVLDTLPNTMFRVELENGHVVVAHISGKMRKNYIRILTGDKVTVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRI +RAR
+Sbjct  63  SKGRIVFRAR  72
+
+
+>WP_010323196.1 translation initiation factor IF-1 [Marinobacterium stanieri]
+Length=72
+
+ Score = 117 bits (293),  Expect = 2e-033, Method: Compositional matrix adjust.
+ Identities = 56/70 (80%), Positives = 60/70 (86%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KEE  E EG V +TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD VKVE+TPYDL
+Sbjct  3   KEEAFEMEGTVIDTLPNTMFRVELENGHVVTAHISGKMRKNYIRILTGDKVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRI YRAR
+Sbjct  63  SKGRIVYRAR  72
+
+
+>WP_062479992.1 translation initiation factor IF-1 [Lacimicrobium alkaliphilum]
+Length=72
+
+ Score = 117 bits (293),  Expect = 2e-033, Method: Compositional matrix adjust.
+ Identities = 56/70 (80%), Positives = 60/70 (86%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EG V +TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD V VE+TPYDL
+Sbjct  3   KEDCIEMEGTVLDTLPNTMFRVELENGHVVTAHISGKMRKNYIRILTGDKVTVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRI YRAR
+Sbjct  63  TKGRIVYRAR  72
+
+
+>WP_006010397.1 translation initiation factor IF-1 [Glaciecola pallidula]
+Length=72
+
+ Score = 117 bits (293),  Expect = 2e-033, Method: Compositional matrix adjust.
+ Identities = 56/70 (80%), Positives = 60/70 (86%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EG V +TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD V VEMTPYDL
+Sbjct  3   KEDCIEMEGTVLDTLPNTMFRVELENGHVVTAHISGKMRKNYIRILTGDKVTVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRI YRAR
+Sbjct  63  SKGRIIYRAR  72
+
+
+>WP_008929746.1 MULTISPECIES: translation initiation factor IF-1 [Alcanivorax]
+Length=72
+
+ Score = 117 bits (293),  Expect = 3e-033, Method: Compositional matrix adjust.
+ Identities = 54/70 (77%), Positives = 62/70 (89%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KEE IE EGV+ ETLPNTMFRV+L+NGH + AHISGKMRK YIRILTGD VKVEM+PYDL
+Sbjct  3   KEEQIELEGVIVETLPNTMFRVKLDNGHVITAHISGKMRKFYIRILTGDRVKVEMSPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRIT+R +
+Sbjct  63  SKGRITFRMK  72
+
+
+>WP_007149029.1 MULTISPECIES: translation initiation factor IF-1 [Alcanivorax]
+Length=72
+
+ Score = 117 bits (293),  Expect = 3e-033, Method: Compositional matrix adjust.
+ Identities = 54/70 (77%), Positives = 62/70 (89%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KEE IE EGV+ +TLPNTMFRV+L+NGH + AHISGKMRK YIRILTGD VKVEM+PYDL
+Sbjct  3   KEEQIELEGVIVDTLPNTMFRVKLDNGHVITAHISGKMRKFYIRILTGDRVKVEMSPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRIT+R +
+Sbjct  63  TKGRITFRMK  72
+
+
+>WP_018624762.1 translation initiation factor IF-1 [Kangiella aquimarina]
+Length=72
+
+ Score = 117 bits (293),  Expect = 3e-033, Method: Compositional matrix adjust.
+ Identities = 56/70 (80%), Positives = 63/70 (90%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE++IE EG V ETLPNTMFRV LENGH V AHISGKMRK+YIRILTGD+V VE++PYDL
+Sbjct  3   KEDVIELEGKVLETLPNTMFRVELENGHIVTAHISGKMRKNYIRILTGDTVTVEISPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRIT+RAR
+Sbjct  63  TKGRITFRAR  72
+
+
+>WP_015280983.1 translation initiation factor IF-1 [Thioflavicoccus mobilis]
+Length=72
+
+ Score = 117 bits (293),  Expect = 3e-033, Method: Compositional matrix adjust.
+ Identities = 55/70 (79%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K+++I+ EG V ETLPNT+FRV LENGH V AHISGKMRKHYIRILTGD V VE+TPYDL
+Sbjct  3   KDDVIQMEGTVLETLPNTVFRVELENGHVVTAHISGKMRKHYIRILTGDKVTVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRI YRAR
+Sbjct  63  TKGRIVYRAR  72
+
+
+>WP_027872503.1 translation initiation factor IF-1 [Spongiibacter marinus]
+Length=72
+
+ Score = 117 bits (293),  Expect = 3e-033, Method: Compositional matrix adjust.
+ Identities = 56/70 (80%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EG V +TLPNT FRV+LENGH V AHISGKMRKHYIRILTGD VKVE+TPYDL
+Sbjct  3   KEDQIEMEGEVIDTLPNTTFRVKLENGHVVTAHISGKMRKHYIRILTGDKVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRIT+R R
+Sbjct  63  TKGRITFRGR  72
+
+
+>WP_008938619.1 MULTISPECIES: translation initiation factor IF-1 [Marinobacter]
+Length=72
+
+ Score = 117 bits (293),  Expect = 3e-033, Method: Compositional matrix adjust.
+ Identities = 54/70 (77%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K ++IE EGV+ +TLPNTMFRV L NGH V AHISGKMRK+YIRILTGD VKVE+TPYDL
+Sbjct  3   KSDVIEMEGVIVDTLPNTMFRVELSNGHVVTAHISGKMRKNYIRILTGDKVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRI YRAR
+Sbjct  63  SKGRIVYRAR  72
+
+
+>WP_002553999.1 MULTISPECIES: translation initiation factor IF-1 [Gammaproteobacteria]
+ NP_251309.1 translation initiation factor IF-1 [Pseudomonas aeruginosa PAO1]
+ NP_746137.1 translation initiation factor IF-1 [Pseudomonas putida KT2440]
+ YP_236252.1 translation initiation factor IF-1 [Pseudomonas syringae pv. 
+syringae B728a]
+Length=72
+
+ Score = 117 bits (293),  Expect = 3e-033, Method: Compositional matrix adjust.
+ Identities = 55/71 (77%), Positives = 62/71 (87%), Gaps = 0/71 (0%)
+
+Query  3   NKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYD  62
+           +KE+  E EG V +TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD V+VE+TPYD
+Sbjct  2   SKEDSFEMEGTVVDTLPNTMFRVELENGHVVTAHISGKMRKNYIRILTGDKVRVELTPYD  61
+
+Query  63  LTKGRITYRAR  73
+           L+KGRITYRAR
+Sbjct  62  LSKGRITYRAR  72
+
+
+>WP_053953583.1 translation initiation factor IF-1 [Idiomarina zobellii]
+Length=72
+
+ Score = 117 bits (293),  Expect = 3e-033, Method: Compositional matrix adjust.
+ Identities = 55/70 (79%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE +G V ETLPNTMFRV LENGH V AHISGKMRKHYIRILTGD+V V++TPYDL
+Sbjct  3   KEDNIEMQGTVLETLPNTMFRVELENGHVVTAHISGKMRKHYIRILTGDTVTVQLTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRI +RAR
+Sbjct  63  TKGRIVFRAR  72
+
+
+>WP_067013924.1 translation initiation factor IF-1 [Marinomonas spartinae]
+Length=72
+
+ Score = 117 bits (293),  Expect = 3e-033, Method: Compositional matrix adjust.
+ Identities = 55/70 (79%), Positives = 62/70 (89%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KEE +E EG + +TLPNTMFRV LENGH VIAHISGKMRK+YIRILTGD VKVE+TPYDL
+Sbjct  3   KEEGLEMEGTIIDTLPNTMFRVELENGHVVIAHISGKMRKNYIRILTGDKVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRI YR+R
+Sbjct  63  SKGRIVYRSR  72
+
+
+>WP_011396232.1 translation initiation factor IF-1 [Hahella chejuensis]
+Length=72
+
+ Score = 117 bits (293),  Expect = 3e-033, Method: Compositional matrix adjust.
+ Identities = 56/70 (80%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE  IE EG + +TLPNTMFRV+LENGH V AHISGKMRK+YIRILTGD VKVEMTPYDL
+Sbjct  3   KEGNIEMEGTIIDTLPNTMFRVQLENGHVVTAHISGKMRKNYIRILTGDKVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRI YRAR
+Sbjct  63  SKGRIVYRAR  72
+
+
+>WP_040482095.1 translation initiation factor IF-1 [Luminiphilus syltensis]
+Length=72
+
+ Score = 117 bits (293),  Expect = 3e-033, Method: Compositional matrix adjust.
+ Identities = 56/70 (80%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EG + ETLPNT FRV+LENGH V AHISGKMRKHYIRILTGD V+VE+TPYDL
+Sbjct  3   KEDQIEMEGEIVETLPNTTFRVKLENGHVVTAHISGKMRKHYIRILTGDKVRVEVTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRITYR R
+Sbjct  63  TKGRITYRER  72
+
+
+>WP_013819653.1 MULTISPECIES: translation initiation factor IF-1 [Methylomonas]
+Length=72
+
+ Score = 117 bits (293),  Expect = 3e-033, Method: Compositional matrix adjust.
+ Identities = 56/70 (80%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE +G V +TLPNTMFRV LENGH V AHISGKMRKHYIRILTGD V+VEMTPYDL
+Sbjct  3   KEDQIEMDGKVIDTLPNTMFRVELENGHIVTAHISGKMRKHYIRILTGDKVRVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRIT+R R
+Sbjct  63  TKGRITFRNR  72
+
+
+>WP_004581958.1 MULTISPECIES: translation initiation factor IF-1 [Marinobacter]
+Length=72
+
+ Score = 117 bits (292),  Expect = 3e-033, Method: Compositional matrix adjust.
+ Identities = 54/70 (77%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K ++IE EGV+ +TLPNTMFRV L NGH V AHISGKMRK+YIRILTGD VKVE+TPYDL
+Sbjct  3   KSDVIEMEGVIVDTLPNTMFRVELANGHVVTAHISGKMRKNYIRILTGDKVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRI YRAR
+Sbjct  63  SKGRIVYRAR  72
+
+
+>WP_009668496.1 translation initiation factor IF-1 [gamma proteobacterium IMCC1989]
+Length=72
+
+ Score = 117 bits (292),  Expect = 3e-033, Method: Compositional matrix adjust.
+ Identities = 57/70 (81%), Positives = 62/70 (89%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KEE IE EG V +TLPNT FRV+LENGH V AHISGKMRK+YIRILTGD VKVEMTPYDL
+Sbjct  3   KEENIELEGEVIDTLPNTTFRVKLENGHVVNAHISGKMRKNYIRILTGDKVKVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRIT+RAR
+Sbjct  63  SKGRITFRAR  72
+
+
+>WP_021022425.1 MULTISPECIES: translation initiation factor IF-1 [Salinivibrio]
+Length=72
+
+ Score = 117 bits (292),  Expect = 3e-033, Method: Compositional matrix adjust.
+ Identities = 54/70 (77%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE++IE +G V +TLPNTMFRV LENGH V AHISGKMRKHYIRILTGD V VEMTPYDL
+Sbjct  3   KEDVIEMQGTVLDTLPNTMFRVELENGHVVTAHISGKMRKHYIRILTGDKVTVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRI +R+R
+Sbjct  63  SKGRIVFRSR  72
+
+
+>WP_026375175.1 translation initiation factor IF-1 [Aestuariibacter salexigens]
+Length=72
+
+ Score = 117 bits (292),  Expect = 3e-033, Method: Compositional matrix adjust.
+ Identities = 56/70 (80%), Positives = 60/70 (86%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EG V +TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD V VE+TPYDL
+Sbjct  3   KEDCIEMEGTVLDTLPNTMFRVELENGHVVTAHISGKMRKNYIRILTGDKVTVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRI YRAR
+Sbjct  63  TKGRIIYRAR  72
+
+
+>WP_006075347.1 MULTISPECIES: translation initiation factor IF-1 [Vibrio]
+Length=72
+
+ Score = 117 bits (292),  Expect = 3e-033, Method: Compositional matrix adjust.
+ Identities = 55/70 (79%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE++IE +G V +TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD V VEMTPYDL
+Sbjct  3   KEDVIEMQGTVLDTLPNTMFRVELENGHVVTAHISGKMRKNYIRILTGDKVTVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRI +RAR
+Sbjct  63  TKGRIVFRAR  72
+
+
+>WP_009835335.1 MULTISPECIES: translation initiation factor IF-1 [Marinomonas]
+Length=72
+
+ Score = 117 bits (292),  Expect = 3e-033, Method: Compositional matrix adjust.
+ Identities = 55/70 (79%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KEE IE EG + +TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD VKVE+TPYDL
+Sbjct  3   KEESIEMEGTIIDTLPNTMFRVELENGHVVTAHISGKMRKNYIRILTGDKVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRI YR+R
+Sbjct  63  SKGRIVYRSR  72
+
+
+>WP_014421226.1 MULTISPECIES: translation initiation factor IF-1 [Marinobacter]
+Length=72
+
+ Score = 117 bits (292),  Expect = 4e-033, Method: Compositional matrix adjust.
+ Identities = 54/70 (77%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K ++IE EGV+ +TLPNTMFRV L NGH V AHISGKMRK+YIRILTGD VKVE+TPYDL
+Sbjct  3   KSDVIEMEGVIIDTLPNTMFRVELSNGHVVTAHISGKMRKNYIRILTGDKVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRI YRAR
+Sbjct  63  SKGRIVYRAR  72
+
+
+>WP_023401681.1 translation initiation factor IF-1 [Pseudoalteromonas luteoviolacea]
+Length=72
+
+ Score = 117 bits (292),  Expect = 4e-033, Method: Compositional matrix adjust.
+ Identities = 54/70 (77%), Positives = 62/70 (89%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE++IE +G V ETLPNTMFRV LENGH V+AHISGKMRK+YIRILTGD V VE+TPYDL
+Sbjct  3   KEDVIEMQGTVLETLPNTMFRVELENGHVVVAHISGKMRKNYIRILTGDKVTVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRI +RAR
+Sbjct  63  SKGRIVFRAR  72
+
+
+>WP_028301223.1 translation initiation factor IF-1 [Oceanospirillum beijerinckii]
+Length=72
+
+ Score = 117 bits (292),  Expect = 4e-033, Method: Compositional matrix adjust.
+ Identities = 55/70 (79%), Positives = 60/70 (86%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+  E EG V +TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD VKVE+TPYDL
+Sbjct  3   KEDSFEMEGTVVDTLPNTMFRVELENGHTVTAHISGKMRKNYIRILTGDKVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRI YRAR
+Sbjct  63  SKGRIVYRAR  72
+
+
+>WP_077531475.1 translation initiation factor IF-1 [Halomonas utahensis]
+Length=72
+
+ Score = 117 bits (292),  Expect = 4e-033, Method: Compositional matrix adjust.
+ Identities = 54/70 (77%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K + +E EGV+ +TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD VKVE+TPYDL
+Sbjct  3   KSDAVEMEGVIVDTLPNTMFRVELENGHTVTAHISGKMRKNYIRILTGDKVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRITYR R
+Sbjct  63  SKGRITYRYR  72
+
+
+>WP_004269147.1 translation initiation factor IF-1 [Nitrosococcus oceani]
+Length=72
+
+ Score = 117 bits (292),  Expect = 4e-033, Method: Compositional matrix adjust.
+ Identities = 54/70 (77%), Positives = 60/70 (86%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EG V +TLPNTMFRV LENGH + AHISGKMRKHYIRILTGD V V++TPYDL
+Sbjct  3   KEDSIEMEGTVVDTLPNTMFRVELENGHVITAHISGKMRKHYIRILTGDKVTVQLTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRI YRAR
+Sbjct  63  SKGRIVYRAR  72
+
+
+>WP_008489926.1 MULTISPECIES: translation initiation factor IF-1 [Idiomarina]
+Length=72
+
+ Score = 117 bits (292),  Expect = 4e-033, Method: Compositional matrix adjust.
+ Identities = 54/70 (77%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE +G V +TLPNTMFRV LENGH V AHISGKMRKHYIRILTGD+V V++TPYDL
+Sbjct  3   KEDSIEMQGTVLDTLPNTMFRVELENGHVVTAHISGKMRKHYIRILTGDTVTVQLTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRI +RAR
+Sbjct  63  TKGRIVFRAR  72
+
+
+>WP_029614443.1 translation initiation factor IF-1 [Pseudomonas parafulva]
+Length=72
+
+ Score = 117 bits (292),  Expect = 4e-033, Method: Compositional matrix adjust.
+ Identities = 55/71 (77%), Positives = 62/71 (87%), Gaps = 0/71 (0%)
+
+Query  3   NKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYD  62
+           +KE+  E EG V +TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD V+VE+TPYD
+Sbjct  2   SKEDSFEMEGSVVDTLPNTMFRVELENGHVVTAHISGKMRKNYIRILTGDKVRVELTPYD  61
+
+Query  63  LTKGRITYRAR  73
+           L+KGRITYRAR
+Sbjct  62  LSKGRITYRAR  72
+
+
+>WP_038272213.1 translation initiation factor IF-1 [Xylella taiwanensis]
+Length=72
+
+ Score = 117 bits (292),  Expect = 4e-033, Method: Compositional matrix adjust.
+ Identities = 53/71 (75%), Positives = 63/71 (89%), Gaps = 0/71 (0%)
+
+Query  3   NKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYD  62
+           +K++ IEFEG V+ETLPNT FRV+LENGHE+ AHISG+MRK+YIRILTGD VK+EMT YD
+Sbjct  2   SKDDCIEFEGTVSETLPNTTFRVKLENGHEITAHISGRMRKNYIRILTGDRVKIEMTAYD  61
+
+Query  63  LTKGRITYRAR  73
+           LTKGRI YR +
+Sbjct  62  LTKGRIIYRMK  72
+
+
+>WP_010893946.1 translation initiation factor IF-1 [Xylella fastidiosa]
+Length=72
+
+ Score = 117 bits (292),  Expect = 4e-033, Method: Compositional matrix adjust.
+ Identities = 53/71 (75%), Positives = 63/71 (89%), Gaps = 0/71 (0%)
+
+Query  3   NKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYD  62
+           +K++ IEFEG V+ETLPNT FR++LENGHEV AHISG+MRK+YIRILTGD VK+EMT YD
+Sbjct  2   SKDDCIEFEGTVSETLPNTTFRIKLENGHEVTAHISGRMRKNYIRILTGDRVKIEMTAYD  61
+
+Query  63  LTKGRITYRAR  73
+           LTKGRI YR +
+Sbjct  62  LTKGRIIYRMK  72
+
+
+>WP_016492441.1 MULTISPECIES: translation initiation factor IF-1 [Pseudomonas]
+Length=72
+
+ Score = 117 bits (292),  Expect = 4e-033, Method: Compositional matrix adjust.
+ Identities = 55/71 (77%), Positives = 62/71 (87%), Gaps = 0/71 (0%)
+
+Query  3   NKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYD  62
+           +KE+  E EG V +TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD V+VE+TPYD
+Sbjct  2   SKEDSFEMEGTVIDTLPNTMFRVELENGHVVTAHISGKMRKNYIRILTGDKVRVELTPYD  61
+
+Query  63  LTKGRITYRAR  73
+           L+KGRITYRAR
+Sbjct  62  LSKGRITYRAR  72
+
+
+>WP_044386042.1 translation initiation factor IF-1 [Marinobacter excellens]
+Length=72
+
+ Score = 117 bits (292),  Expect = 4e-033, Method: Compositional matrix adjust.
+ Identities = 54/70 (77%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K ++IE EGV+ +TLPNTMFRV L NGH V AHISGKMRK+YIRILTGD VKVE+TPYDL
+Sbjct  3   KSDVIEMEGVILDTLPNTMFRVELSNGHVVTAHISGKMRKNYIRILTGDKVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRI YRAR
+Sbjct  63  SKGRIVYRAR  72
+
+
+>WP_013219592.1 translation initiation factor IF-1 [Nitrosococcus watsonii]
+Length=72
+
+ Score = 117 bits (292),  Expect = 4e-033, Method: Compositional matrix adjust.
+ Identities = 55/70 (79%), Positives = 60/70 (86%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE EG V +TLPNTMFRV LENGH V AHISGKMRKHYIRILTGD V V++TPYDL
+Sbjct  3   KEDNIEMEGTVVDTLPNTMFRVELENGHVVTAHISGKMRKHYIRILTGDKVTVQLTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRI YRAR
+Sbjct  63  SKGRIVYRAR  72
+
+
+>WP_007017783.1 translation initiation factor IF-1 [Bermanella marisrubri]
+Length=72
+
+ Score = 117 bits (292),  Expect = 4e-033, Method: Compositional matrix adjust.
+ Identities = 55/71 (77%), Positives = 64/71 (90%), Gaps = 0/71 (0%)
+
+Query  3   NKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYD  62
+           ++E+ IE +G V +TLPNTMFRV+LENGH V AHISGKMRK+YIRILTGD VKVE+TPYD
+Sbjct  2   SREDHIEMDGEVIDTLPNTMFRVKLENGHVVTAHISGKMRKNYIRILTGDKVKVELTPYD  61
+
+Query  63  LTKGRITYRAR  73
+           L+KGRITYRAR
+Sbjct  62  LSKGRITYRAR  72
+
+
+>WP_026609371.1 MULTISPECIES: translation initiation factor IF-1 [Methylocaldum]
+Length=72
+
+ Score = 117 bits (292),  Expect = 4e-033, Method: Compositional matrix adjust.
+ Identities = 56/71 (79%), Positives = 62/71 (87%), Gaps = 0/71 (0%)
+
+Query  3   NKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYD  62
+           +KE+ IE EG V ETLPNT FRV+L+NGH + AHISGKMRKHYIRILTGD VKVEMTPYD
+Sbjct  2   SKEDHIEMEGKVIETLPNTTFRVQLDNGHIITAHISGKMRKHYIRILTGDRVKVEMTPYD  61
+
+Query  63  LTKGRITYRAR  73
+           LTKGRIT+R R
+Sbjct  62  LTKGRITFRQR  72
+
+
+>WP_072549686.1 translation initiation factor IF-1 [Candidatus Fukatsuia symbiotica]
+Length=73
+
+ Score = 117 bits (292),  Expect = 4e-033, Method: Compositional matrix adjust.
+ Identities = 54/73 (74%), Positives = 63/73 (86%), Gaps = 0/73 (0%)
+
+Query  1   MANKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTP  60
+           MA KE+ IE +G V +TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD V VE+TP
+Sbjct  1   MAKKEDNIEMQGTVQDTLPNTMFRVELENGHVVTAHISGKMRKNYIRILTGDKVTVELTP  60
+
+Query  61  YDLTKGRITYRAR  73
+           YDL+KGRI++R+R
+Sbjct  61  YDLSKGRISFRSR  73
+
+
+>WP_077557709.1 translation initiation factor IF-1 [Pasteurellaceae bacterium 
+15-036681]
+Length=72
+
+ Score = 117 bits (292),  Expect = 4e-033, Method: Compositional matrix adjust.
+ Identities = 55/70 (79%), Positives = 60/70 (86%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE+ IE +G + ETLPNTMFRV LENGH V AHISGKMRK+YIRILTGD V VEMTPYDL
+Sbjct  3   KEDCIEMQGTILETLPNTMFRVELENGHVVTAHISGKMRKNYIRILTGDKVTVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           TKGRI +RAR
+Sbjct  63  TKGRIIFRAR  72
+
+
+>WP_058089554.1 MULTISPECIES: translation initiation factor IF-1 [Marinobacter]
+Length=72
+
+ Score = 117 bits (292),  Expect = 4e-033, Method: Compositional matrix adjust.
+ Identities = 54/70 (77%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           K ++IE EGV+ +TLPNTMFRV L NGH V AHISGKMRK+YIRILTGD VKVE+TPYDL
+Sbjct  3   KSDVIEMEGVIIDTLPNTMFRVELANGHVVTAHISGKMRKNYIRILTGDKVKVELTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRI YRAR
+Sbjct  63  SKGRIVYRAR  72
+
+
+>WP_022965546.1 translation initiation factor IF-1 [Pseudomonas caeni]
+Length=72
+
+ Score = 116 bits (291),  Expect = 5e-033, Method: Compositional matrix adjust.
+ Identities = 55/71 (77%), Positives = 62/71 (87%), Gaps = 0/71 (0%)
+
+Query  3   NKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYD  62
+           +KE+  E EG V +TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD V+VE+TPYD
+Sbjct  2   SKEDSFEMEGTVVDTLPNTMFRVELENGHVVTAHISGKMRKNYIRILTGDKVRVEITPYD  61
+
+Query  63  LTKGRITYRAR  73
+           L+KGRITYRAR
+Sbjct  62  LSKGRITYRAR  72
+
+
+>WP_054070453.1 translation initiation factor IF-1 [Pseudomonas syringae group 
+genomosp. 3]
+Length=72
+
+ Score = 116 bits (291),  Expect = 5e-033, Method: Compositional matrix adjust.
+ Identities = 54/71 (76%), Positives = 62/71 (87%), Gaps = 0/71 (0%)
+
+Query  3   NKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYD  62
+           +KE+  E EG V +TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD V+VE+TPYD
+Sbjct  2   SKEDSFEMEGTVVDTLPNTMFRVELENGHVVTAHISGKMRKNYIRILTGDKVRVELTPYD  61
+
+Query  63  LTKGRITYRAR  73
+           L+KGR+TYRAR
+Sbjct  62  LSKGRVTYRAR  72
+
+
+>WP_004262604.1 MULTISPECIES: translation initiation factor IF-1 [Terrabacteria 
+group]
+Length=72
+
+ Score = 116 bits (291),  Expect = 5e-033, Method: Compositional matrix adjust.
+ Identities = 54/71 (76%), Positives = 64/71 (90%), Gaps = 0/71 (0%)
+
+Query  3   NKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYD  62
+           +KE++IE EG VTETLPN MF+V+LENG+EV+AHISGKMR +YIRIL GD VKVEM+PYD
+Sbjct  2   SKEDMIEIEGTVTETLPNAMFKVQLENGYEVLAHISGKMRVNYIRILPGDRVKVEMSPYD  61
+
+Query  63  LTKGRITYRAR  73
+           LTKGRITYR +
+Sbjct  62  LTKGRITYRFK  72
+
+
+>WP_016504048.1 translation initiation factor IF-1 [Candidatus Photodesmus katoptron]
+Length=72
+
+ Score = 116 bits (291),  Expect = 5e-033, Method: Compositional matrix adjust.
+ Identities = 54/70 (77%), Positives = 62/70 (89%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE++IE +G V +TLPNTMFRV LENGH VIAHISGKMRK+YIRILTGD V VEMTPYDL
+Sbjct  3   KEDVIEMQGTVLDTLPNTMFRVELENGHLVIAHISGKMRKNYIRILTGDKVTVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRI +R+R
+Sbjct  63  SKGRIVFRSR  72
+
+
+>WP_053101714.1 translation initiation factor IF-1 [Oblitimonas alkaliphila]
+Length=72
+
+ Score = 116 bits (291),  Expect = 5e-033, Method: Compositional matrix adjust.
+ Identities = 54/71 (76%), Positives = 62/71 (87%), Gaps = 0/71 (0%)
+
+Query  3   NKEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYD  62
+           +KE+  E EG + +TLPNTMFRV LENGH V AHISGKMRK+YIRILTGD V+VE+TPYD
+Sbjct  2   SKEDSFEMEGTIVDTLPNTMFRVELENGHVVTAHISGKMRKNYIRILTGDKVRVELTPYD  61
+
+Query  63  LTKGRITYRAR  73
+           L+KGRITYRAR
+Sbjct  62  LSKGRITYRAR  72
+
+
+>WP_018694084.1 translation initiation factor IF-1 [Algicola sagamiensis]
+Length=72
+
+ Score = 116 bits (291),  Expect = 5e-033, Method: Compositional matrix adjust.
+ Identities = 55/70 (79%), Positives = 61/70 (87%), Gaps = 0/70 (0%)
+
+Query  4   KEELIEFEGVVTETLPNTMFRVRLENGHEVIAHISGKMRKHYIRILTGDSVKVEMTPYDL  63
+           KE++IE +G V ETLPNTMFRV LENGH V AHISGKMRK+YIRILTGD V VEMTPYDL
+Sbjct  3   KEDVIEMQGTVLETLPNTMFRVELENGHVVTAHISGKMRKNYIRILTGDKVTVEMTPYDL  62
+
+Query  64  TKGRITYRAR  73
+           +KGRI +RAR
+Sbjct  63  SKGRIIFRAR  72
+
+
+
+Lambda      K        H
+   0.320    0.136    0.382 
+
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+
+Effective search space used: 776186632396
+
+
+  Database: NCBI Protein Reference Sequences
+    Posted date:  May 29, 2017 12:00 AM
+  Number of letters in database: 31,412,196,622
+  Number of sequences in database:  82,027,677
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40

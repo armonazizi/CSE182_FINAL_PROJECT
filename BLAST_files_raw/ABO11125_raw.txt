@@ -1,0 +1,3320 @@
+BLASTP 2.6.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: NCBI Protein Reference Sequences
+           82,027,677 sequences; 31,412,196,622 total letters
+
+
+
+Query= embl-cds:ABO11125 transposase OS=Acinetobacter baumannii (strain
+ATCC 17978 / CIP 53.77 / LMG 1025 / NCDC KC755 / 5377) GN=A1S_0677
+SV=1 UP=UP000006737:Chromosome
+
+Length=55
+
+RID: JV04TVE1014
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+WP_002005888.1  transposase [Acinetobacter baumannii]                 107     1e-029
+WP_000780874.1  hypothetical protein [Acinetobacter baumannii]        108     1e-029
+WP_032042931.1  transposase [Acinetobacter baumannii]                 108     3e-029
+WP_000780884.1  transposase [Acinetobacter pittii]                    108     3e-029
+WP_000780881.1  transposase [Acinetobacter baumannii]                 108     3e-029
+WP_079275868.1  transposase [Acinetobacter baumannii]                 108     4e-029
+WP_081354258.1  IS4 family transposase [Acinetobacter pittii]         107     6e-029
+WP_079283004.1  IS4 family transposase [Acinetobacter baumannii]      107     7e-029
+WP_031957463.1  transposase [Acinetobacter baumannii]                 107     7e-029
+WP_079367922.1  IS4 family transposase [Acinetobacter baumannii]      107     7e-029
+WP_079283412.1  IS4 family transposase [Acinetobacter baumannii]      106     7e-029
+WP_079282177.1  IS4 family transposase [Acinetobacter baumannii]      107     7e-029
+WP_079850580.1  transposase [Acinetobacter baumannii]                 107     7e-029
+WP_079284463.1  IS4 family transposase [Acinetobacter baumannii]      107     8e-029
+WP_079786472.1  transposase [Acinetobacter baumannii]                 106     8e-029
+WP_079284578.1  IS4 family transposase [Acinetobacter baumannii]      106     9e-029
+WP_079265699.1  transposase [Acinetobacter baumannii]                 106     9e-029
+WP_079865755.1  transposase [Acinetobacter baumannii]                 106     1e-028
+WP_079281850.1  IS4 family transposase [Acinetobacter baumannii]      106     1e-028
+WP_079283146.1  transposase [Acinetobacter baumannii]                 107     1e-028
+WP_079283553.1  IS4 family transposase [Acinetobacter baumannii]      107     1e-028
+WP_079283431.1  IS4 family transposase [Acinetobacter baumannii]      106     1e-028
+WP_079282438.1  IS4 family transposase [Acinetobacter baumannii]      106     1e-028
+WP_079275703.1  IS4 family transposase [Acinetobacter baumannii]      106     1e-028
+WP_079292251.1  IS4 family transposase [Acinetobacter baumannii]      106     1e-028
+WP_085947927.1  transposase [Acinetobacter baumannii]                 106     1e-028
+WP_079283382.1  IS4 family transposase [Acinetobacter baumannii]      107     1e-028
+WP_081406473.1  transposase [Acinetobacter soli]                      107     1e-028
+WP_079850289.1  IS4 family transposase [Acinetobacter baumannii]      107     2e-028
+WP_079267313.1  transposase [Acinetobacter baumannii]                 107     2e-028
+WP_086384330.1  transposase [Acinetobacter baumannii]                 107     2e-028
+WP_003335712.1  hypothetical protein [Acinetobacter baumannii]        107     2e-028
+WP_079265465.1  IS4 family transposase [Acinetobacter baumannii]      106     2e-028
+WP_079261840.1  MULTISPECIES: IS4 family transposase [Gammaproteo...  107     2e-028
+WP_002016649.1  transposase [Acinetobacter baumannii]                 106     2e-028
+WP_003320135.1  hypothetical protein [Acinetobacter baumannii]        106     2e-028
+WP_032002828.1  hypothetical protein [Acinetobacter baumannii]        107     2e-028
+WP_017724850.1  hypothetical protein [Acinetobacter baumannii]        107     2e-028
+WP_081037387.1  transposase [Acinetobacter pittii]                    106     2e-028
+WP_000308516.1  hypothetical protein [Acinetobacter baumannii]        106     2e-028
+WP_079267311.1  transposase [Acinetobacter baumannii]                 107     2e-028
+WP_000322359.1  hypothetical protein [Acinetobacter baumannii]        106     2e-028
+WP_079292093.1  transposase [Acinetobacter baumannii]                 106     2e-028
+WP_079866738.1  IS4 family transposase [Acinetobacter baumannii]      106     2e-028
+WP_079267247.1  transposase [Acinetobacter baumannii]                 106     2e-028
+WP_002122977.1  MULTISPECIES: transposase [Gammaproteobacteria]       106     2e-028
+WP_079267236.1  transposase [Acinetobacter baumannii]                 106     2e-028
+WP_079356572.1  IS4 family transposase [Acinetobacter baumannii]      106     2e-028
+WP_079269085.1  IS4 family transposase [Acinetobacter baumannii]      106     2e-028
+WP_079282516.1  IS4 family transposase [Acinetobacter baumannii]      107     2e-028
+WP_003262616.1  hypothetical protein [Acinetobacter baumannii]        106     2e-028
+WP_079376622.1  MULTISPECIES: IS4 family transposase [Acinetobact...  107     2e-028
+WP_079268582.1  IS4 family transposase [Acinetobacter baumannii]      106     2e-028
+WP_003264281.1  hypothetical protein [Acinetobacter baumannii]        106     2e-028
+WP_079740242.1  IS4 family transposase [Acinetobacter baumannii]      107     2e-028
+WP_003266937.1  hypothetical protein [Acinetobacter baumannii]        106     2e-028
+WP_079376468.1  transposase [Acinetobacter baumannii]                 107     2e-028
+WP_000307741.1  hypothetical protein [Acinetobacter baumannii]        106     2e-028
+WP_079284891.1  transposase [Acinetobacter baumannii]                 107     2e-028
+WP_079343389.1  transposase [Acinetobacter baumannii]                 106     2e-028
+WP_079367933.1  IS4 family transposase [Acinetobacter baumannii]      106     2e-028
+WP_079284574.1  transposase [Acinetobacter baumannii]                 106     2e-028
+WP_079281494.1  transposase [Acinetobacter baumannii]                 106     2e-028
+WP_003258917.1  hypothetical protein [Acinetobacter baumannii]        107     2e-028
+WP_079284727.1  IS4 family transposase [Acinetobacter baumannii]      106     2e-028
+WP_082187167.1  transposase [Acinetobacter parvus]                    106     2e-028
+WP_079770640.1  transposase [Acinetobacter baumannii]                 106     2e-028
+WP_081401706.1  IS4 family transposase [Acinetobacter sp. CIP 101...  107     2e-028
+WP_082187171.1  transposase [Acinetobacter parvus]                    106     2e-028
+WP_079283104.1  transposase [Acinetobacter baumannii]                 106     2e-028
+WP_079376473.1  transposase [Acinetobacter baumannii]                 106     2e-028
+WP_079261403.1  transposase [Acinetobacter baumannii]                 106     2e-028
+WP_079773785.1  IS4 family transposase [Acinetobacter baumannii]      107     2e-028
+WP_079284779.1  transposase [Acinetobacter baumannii]                 107     2e-028
+WP_081402716.1  IS4 family transposase [Acinetobacter sp. 983759]     107     2e-028
+WP_079265687.1  transposase [Acinetobacter baumannii]                 106     2e-028
+WP_079788322.1  IS4 family transposase [Acinetobacter baumannii]      107     2e-028
+WP_079275375.1  transposase [Acinetobacter baumannii]                 107     2e-028
+WP_079285849.1  IS4 family transposase [Acinetobacter baumannii]      107     2e-028
+WP_079282798.1  IS4 family transposase [Acinetobacter baumannii]      106     2e-028
+WP_085947933.1  transposase [Acinetobacter baumannii]                 106     2e-028
+WP_082187170.1  IS4 family transposase [Acinetobacter parvus]         107     2e-028
+WP_080593294.1  IS4 family transposase [Acinetobacter johnsonii]      107     2e-028
+WP_079280912.1  MULTISPECIES: transposase [Acinetobacter calcoace...  107     2e-028
+WP_079284661.1  transposase [Acinetobacter baumannii]                 106     2e-028
+WP_079276940.1  transposase [Acinetobacter baumannii]                 106     2e-028
+WP_003290596.1  MULTISPECIES: hypothetical protein [Acinetobacter...  106     2e-028
+WP_077879134.1  MULTISPECIES: IS4 family transposase [Gammaproteo...  107     2e-028
+WP_079377558.1  transposase [Acinetobacter baumannii]                 106     2e-028
+WP_000321620.1  hypothetical protein [Acinetobacter baumannii]        106     2e-028
+WP_085947934.1  transposase [Acinetobacter baumannii]                 106     3e-028
+WP_079281495.1  IS4 family transposase [Acinetobacter baumannii]      107     3e-028
+WP_079272992.1  IS4 family transposase [Acinetobacter baumannii]      107     3e-028
+WP_077253499.1  MULTISPECIES: IS4 family transposase [Gammaproteo...  107     3e-028
+WP_073299977.1  transposase [Acinetobacter baumannii]                 107     3e-028
+WP_010589638.1  transposase [Acinetobacter parvus]                    107     3e-028
+WP_079276178.1  transposase [Acinetobacter baumannii]                 107     3e-028
+WP_079282417.1  IS4 family transposase [Acinetobacter baumannii]      107     3e-028
+WP_079281488.1  IS4 family transposase [Acinetobacter baumannii]      106     3e-028
+WP_079281837.1  IS4 family transposase [Acinetobacter baumannii]      107     3e-028
+WP_079343392.1  IS4 family transposase [Acinetobacter baumannii]      107     3e-028
+WP_079744633.1  transposase [Acinetobacter baumannii]                 107     3e-028
+WP_079367920.1  IS4 family transposase [Acinetobacter baumannii]      105     3e-028
+WP_079371832.1  IS4 family transposase [Acinetobacter baumannii]      107     3e-028
+WP_079284913.1  IS4 family transposase [Acinetobacter baumannii]      107     3e-028
+WP_079255334.1  MULTISPECIES: IS4 family transposase [Acinetobacter]  107     3e-028
+WP_076612355.1  IS4 family transposase ISAba1 [Acinetobacter baum...  107     3e-028
+WP_079393424.1  IS4 family transposase [Acinetobacter baumannii]      107     3e-028
+WP_079283057.1  transposase [Acinetobacter baumannii]                 107     3e-028
+WP_079284011.1  IS4 family transposase [Acinetobacter baumannii]      107     3e-028
+WP_079378230.1  IS4 family transposase [Acinetobacter baumannii]      105     3e-028
+WP_079769627.1  IS4 family transposase [Acinetobacter baumannii]      107     3e-028
+WP_079283368.1  transposase [Acinetobacter baumannii]                 106     3e-028
+WP_079292277.1  IS4 family transposase [Acinetobacter baumannii]      107     3e-028
+WP_079348780.1  IS4 family transposase [Acinetobacter baumannii]      107     3e-028
+WP_079284059.1  transposase [Acinetobacter baumannii]                 106     3e-028
+WP_079284865.1  IS4 family transposase [Acinetobacter baumannii]      107     3e-028
+WP_079283171.1  transposase [Acinetobacter baumannii]                 106     4e-028
+WP_079284938.1  IS4 family transposase [Acinetobacter baumannii]      106     4e-028
+WP_079367931.1  IS4 family transposase [Acinetobacter baumannii]      105     5e-028
+WP_079284521.1  IS4 family transposase [Acinetobacter baumannii]      106     5e-028
+WP_079367935.1  IS4 family transposase [Acinetobacter baumannii]      104     5e-028
+WP_081407447.1  IS4 family transposase [Acinetobacter sp. 72431]      106     6e-028
+WP_086309707.1  transposase [Acinetobacter pittii]                    105     6e-028
+WP_079351298.1  transposase [Acinetobacter baumannii]                 105     6e-028
+WP_079284877.1  transposase [Acinetobacter baumannii]                 105     6e-028
+WP_032067816.1  transposase [Acinetobacter baumannii]                 105     6e-028
+WP_086309718.1  transposase [Acinetobacter pittii]                    105     6e-028
+WP_003206144.1  hypothetical protein [Acinetobacter baumannii]        105     7e-028
+WP_081329497.1  transposase [Acinetobacter pittii]                    104     7e-028
+WP_081316858.1  IS4 family transposase [Acinetobacter johnsonii]      106     7e-028
+WP_079284485.1  IS4 family transposase [Acinetobacter baumannii]      106     7e-028
+WP_078390480.1  MULTISPECIES: IS4 family transposase [Acinetobacter]  106     7e-028
+WP_079284460.1  transposase [Acinetobacter baumannii]                 105     7e-028
+WP_080602474.1  MULTISPECIES: IS4 family transposase [Acinetobacter]  105     8e-028
+WP_079283742.1  transposase [Acinetobacter baumannii]                 105     8e-028
+WP_081311165.1  IS4 family transposase [Acinetobacter pittii]         105     8e-028
+WP_081404359.1  IS4 family transposase [Acinetobacter sp. 1289694]    105     9e-028
+WP_079284794.1  IS4 family transposase [Acinetobacter baumannii]      105     9e-028
+WP_079292288.1  IS4 family transposase [Acinetobacter baumannii]      105     9e-028
+WP_079261409.1  transposase [Acinetobacter baumannii]                 106     1e-027
+WP_079284491.1  IS4 family transposase [Acinetobacter baumannii]      105     1e-027
+WP_004571569.1  hypothetical protein [Acinetobacter baumannii]        105     1e-027
+WP_031943501.1  IS4 family transposase [Acinetobacter baumannii]      104     1e-027
+WP_017816365.1  hypothetical protein [Acinetobacter baumannii]        104     1e-027
+WP_079283757.1  IS4 family transposase [Acinetobacter baumannii]      105     1e-027
+WP_079748612.1  IS4 family transposase [Acinetobacter baumannii]      105     1e-027
+WP_079265697.1  IS4 family transposase [Acinetobacter baumannii]      105     1e-027
+WP_003312512.1  hypothetical protein [Acinetobacter baumannii]        104     1e-027
+WP_079283552.1  IS4 family transposase [Acinetobacter baumannii]      105     2e-027
+WP_079265696.1  IS4 family transposase [Acinetobacter baumannii]      105     2e-027
+WP_079293925.1  IS4 family transposase [Acinetobacter baumannii]      105     2e-027
+WP_079352297.1  IS4 family transposase [Acinetobacter baumannii]      105     2e-027
+WP_085947936.1  transposase [Acinetobacter baumannii]                 104     2e-027
+WP_079282166.1  IS4 family transposase [Acinetobacter baumannii]      104     2e-027
+WP_079376500.1  transposase [Acinetobacter baumannii]                 104     2e-027
+WP_031943500.1  IS4 family transposase [Acinetobacter baumannii]      103     3e-027
+WP_079283123.1  IS4 family transposase [Acinetobacter baumannii]      103     3e-027
+WP_079282690.1  IS4 family transposase [Acinetobacter baumannii]      103     3e-027
+WP_079282176.1  IS4 family transposase [Acinetobacter baumannii]      103     4e-027
+WP_000328542.1  MULTISPECIES: hypothetical protein [Acinetobacter...  102     5e-027
+WP_079745097.1  transposase [Acinetobacter baumannii]                 102     5e-027
+WP_079375824.1  IS4 family transposase [Acinetobacter baumannii]      103     6e-027
+WP_080593406.1  MULTISPECIES: IS4 family transposase [Acinetobacter]  103     7e-027
+WP_079284517.1  IS4 family transposase [Acinetobacter baumannii]      103     9e-027
+WP_085943415.1  IS4 family transposase [Acinetobacter baumannii]      106     1e-026
+WP_085943428.1  IS4 family transposase [Acinetobacter baumannii]      106     1e-026
+WP_079850258.1  IS4 family transposase [Acinetobacter baumannii]      107     1e-026
+WP_079292051.1  IS4 family transposase [Acinetobacter baumannii]      102     1e-026
+WP_085946151.1  IS4 family transposase [Acinetobacter baumannii]      106     1e-026
+WP_085946132.1  IS4 family transposase [Acinetobacter baumannii]      106     1e-026
+WP_085947913.1  IS4 family transposase [Acinetobacter baumannii]      106     2e-026
+WP_085940648.1  IS4 family transposase [Acinetobacter baumannii]      106     2e-026
+WP_079785781.1  IS4 family transposase [Acinetobacter baumannii]      106     2e-026
+WP_085946152.1  IS4 family transposase [Acinetobacter baumannii]      106     2e-026
+WP_085942968.1  IS4 family transposase [Acinetobacter baumannii]      106     2e-026
+WP_085940413.1  MULTISPECIES: IS4 family transposase [Gammaproteo...  106     2e-026
+WP_085944019.1  IS4 family transposase [Acinetobacter baumannii]      106     2e-026
+WP_016801519.1  IS4 family transposase [Acinetobacter radioresist...  100     5e-026
+WP_003265284.1  hypothetical protein [Acinetobacter baumannii]        100     5e-026
+WP_031957567.1  transposase [Acinetobacter baumannii]                 99.4    1e-025
+WP_025464812.1  transposase [Acinetobacter baumannii]                 99.4    1e-025
+WP_057046223.1  transposase [Acinetobacter baumannii]                 99.4    1e-025
+WP_017724869.1  hypothetical protein [Acinetobacter baumannii]        99.4    1e-025
+WP_085946158.1  IS4 family transposase [Acinetobacter baumannii]      103     1e-025
+WP_081406288.1  IS4 family transposase [Acinetobacter towneri]        100     2e-025
+WP_000309238.1  hypothetical protein [Acinetobacter baumannii]        98.6    2e-025
+WP_032026514.1  transposase [Acinetobacter baumannii]                 98.6    2e-025
+WP_079284742.1  IS4 family transposase [Acinetobacter baumannii]      98.6    3e-025
+WP_081403894.1  IS4 family transposase [Acinetobacter sp. 1245593]    99.0    4e-025
+WP_032023825.1  transposase [Acinetobacter baumannii]                 97.4    7e-025
+WP_032021365.1  hypothetical protein [Acinetobacter baumannii]        97.1    7e-025
+WP_005156621.1  hypothetical protein [Acinetobacter sp. NIPH 284]     98.2    9e-025
+WP_031965582.1  hypothetical protein [Acinetobacter baumannii]        97.1    1e-024
+WP_032022164.1  hypothetical protein [Acinetobacter baumannii]        97.1    1e-024
+WP_004972878.1  hypothetical protein [Acinetobacter towneri]          98.2    1e-024
+WP_032031869.1  hypothetical protein [Acinetobacter baumannii]        97.1    1e-024
+WP_004972729.1  hypothetical protein [Acinetobacter towneri]          97.8    1e-024
+WP_053004539.1  hypothetical protein [Acinetobacter baumannii]        96.7    1e-024
+WP_081405063.1  IS4 family transposase [Acinetobacter sp. 88816]      97.8    1e-024
+WP_019383775.1  IS4 family transposase [Acinetobacter venetianus]     97.8    1e-024
+WP_019384314.1  MULTISPECIES: IS4 family transposase [Acinetobacter]  97.8    1e-024
+WP_008941246.1  MULTISPECIES: hypothetical protein [Acinetobacter]    97.8    1e-024
+WP_004758979.1  MULTISPECIES: hypothetical protein [Acinetobacter]    97.8    1e-024
+WP_004756691.1  MULTISPECIES: hypothetical protein [Acinetobacter]    97.8    1e-024
+WP_004642091.1  MULTISPECIES: transposase [Acinetobacter]             97.8    2e-024
+WP_006582339.1  IS4 family transposase [Acinetobacter nosocomialis]   97.8    2e-024
+WP_004812796.1  MULTISPECIES: hypothetical protein [Acinetobacter]    97.8    2e-024
+WP_004906544.1  MULTISPECIES: hypothetical protein [Acinetobacter]    97.8    2e-024
+WP_004798706.1  MULTISPECIES: hypothetical protein [Acinetobacter]    97.8    2e-024
+WP_079269055.1  IS4 family transposase [Acinetobacter baumannii]      97.4    2e-024
+WP_080781189.1  IS4 family transposase [Acinetobacter pittii]         97.4    2e-024
+WP_020992399.1  MULTISPECIES: hypothetical protein [Acinetobacter...  97.4    2e-024
+WP_004762263.1  MULTISPECIES: hypothetical protein [Acinetobacter]    97.4    2e-024
+WP_004682113.1  MULTISPECIES: hypothetical protein [Acinetobacter]    97.4    2e-024
+WP_004909800.1  hypothetical protein [Acinetobacter junii]            97.4    2e-024
+WP_086373735.1  transposase [Acinetobacter baumannii]                 97.1    2e-024
+WP_086044912.1  transposase [Acinetobacter lwoffii]                   97.1    2e-024
+WP_085940659.1  transposase [Acinetobacter baumannii]                 97.1    2e-024
+WP_081405618.1  transposase [Acinetobacter sp. 25977_6]               97.1    2e-024
+WP_086267283.1  transposase [Acinetobacter baumannii]                 97.1    2e-024
+WP_081310234.1  transposase [Acinetobacter pittii]                    96.3    3e-024
+WP_086240215.1  transposase [Acinetobacter baumannii]                 96.7    3e-024
+WP_079275940.1  IS4 family transposase [Acinetobacter baumannii]      97.1    3e-024
+WP_079275939.1  IS4 family transposase [Acinetobacter baumannii]      97.1    3e-024
+WP_000396114.1  hypothetical protein [Acinetobacter baumannii]        95.9    4e-024
+WP_003111180.1  hypothetical protein [Acinetobacter baumannii]        95.5    4e-024
+WP_031976929.1  hypothetical protein [Acinetobacter baumannii]        95.1    5e-024
+WP_079769623.1  IS4 family transposase [Acinetobacter baumannii]      95.1    5e-024
+WP_004571403.1  hypothetical protein [Acinetobacter baumannii]        95.1    6e-024
+WP_050437628.1  hypothetical protein [Acinetobacter baumannii]        94.0    1e-023
+WP_078390467.1  MULTISPECIES: hypothetical protein [Acinetobacter]    95.5    1e-023
+WP_000302509.1  hypothetical protein [Acinetobacter baumannii]        94.0    1e-023
+WP_005249582.1  hypothetical protein [Acinetobacter sp. CIP 102136]   95.1    2e-023
+WP_005103317.1  hypothetical protein [Acinetobacter lwoffii]          95.1    2e-023
+WP_032068248.1  hypothetical protein [Acinetobacter baumannii]        94.0    2e-023
+WP_031989971.1  hypothetical protein [Acinetobacter baumannii]        94.0    2e-023
+WP_076612069.1  IS4 family transposase ISAba33 [Acinetobacter bau...  98.2    3e-023
+WP_016165513.1  hypothetical protein [Acinetobacter tandoii]          94.4    3e-023
+WP_031968792.1  hypothetical protein [Acinetobacter baumannii]        92.8    4e-023
+WP_081405062.1  IS4 family transposase [Acinetobacter sp. 88816]      94.0    4e-023
+WP_080602476.1  IS4 family transposase [Acinetobacter venetianus]     94.0    4e-023
+WP_015060802.1  IS4 family transposase [Acinetobacter baumannii]      93.6    5e-023
+WP_031979080.1  hypothetical protein [Acinetobacter baumannii]        92.0    9e-023
+WP_003305971.1  hypothetical protein [Acinetobacter baumannii]        92.0    9e-023
+WP_079866693.1  IS4 family transposase [Acinetobacter baumannii]      90.5    2e-022
+WP_046128234.1  hypothetical protein [Acinetobacter baumannii]        90.5    3e-022
+WP_000363142.1  hypothetical protein [Acinetobacter baumannii]        90.5    3e-022
+WP_031959964.1  hypothetical protein [Acinetobacter baumannii]        89.4    1e-021
+WP_000557695.1  transposase [Acinetobacter baumannii]                 89.4    1e-021
+WP_000292913.1  hypothetical protein [Acinetobacter baumannii]        88.6    2e-021
+WP_032029217.1  hypothetical protein [Acinetobacter baumannii]        88.6    2e-021
+WP_032002297.1  hypothetical protein [Acinetobacter baumannii]        87.0    5e-021
+WP_024439399.1  hypothetical protein [Acinetobacter baumannii]        86.7    8e-021
+WP_035271132.1  hypothetical protein [Acinetobacter sp. Ver3]         86.7    9e-021
+WP_032020661.1  transposase [Acinetobacter baumannii]                 86.7    1e-020
+WP_031957374.1  hypothetical protein [Acinetobacter baumannii]        86.7    1e-020
+WP_031999302.1  hypothetical protein [Acinetobacter baumannii]        86.7    1e-020
+WP_000430903.1  hypothetical protein [Acinetobacter baumannii]        86.7    1e-020
+WP_031956866.1  hypothetical protein [Acinetobacter baumannii]        86.7    1e-020
+WP_031967345.1  hypothetical protein [Acinetobacter baumannii]        86.3    1e-020
+WP_031964412.1  hypothetical protein [Acinetobacter baumannii]        85.1    4e-020
+WP_000352706.1  hypothetical protein [Acinetobacter baumannii]        84.0    1e-019
+WP_032017413.1  hypothetical protein [Acinetobacter baumannii]        84.0    1e-019
+WP_031987693.1  transposase [Acinetobacter baumannii]                 82.0    5e-019
+WP_000674556.1  hypothetical protein [Acinetobacter baumannii]        82.0    6e-019
+WP_079283918.1  transposase [Acinetobacter baumannii]                 82.4    6e-019
+WP_032027589.1  hypothetical protein [Acinetobacter baumannii]        81.6    8e-019
+WP_031995932.1  transposase [Acinetobacter baumannii]                 81.6    8e-019
+WP_032067101.1  hypothetical protein [Acinetobacter baumannii]        80.9    2e-018
+WP_031983644.1  hypothetical protein [Acinetobacter baumannii]        80.9    2e-018
+WP_004763881.1  hypothetical protein [Acinetobacter sp. CIP 102529]   80.9    2e-018
+WP_003312045.1  hypothetical protein [Acinetobacter baumannii]        80.9    2e-018
+WP_079282790.1  IS4 family transposase [Acinetobacter baumannii]      80.9    2e-018
+WP_079284693.1  IS4 family transposase [Acinetobacter baumannii]      80.5    2e-018
+WP_032067234.1  hypothetical protein [Acinetobacter baumannii]        79.3    6e-018
+WP_032040725.1  hypothetical protein [Acinetobacter baumannii]        79.3    6e-018
+WP_057050969.1  hypothetical protein [Acinetobacter baumannii]        79.3    6e-018
+WP_003287767.1  hypothetical protein [Acinetobacter baumannii]        79.3    6e-018
+WP_079292050.1  IS4 family transposase [Acinetobacter baumannii]      79.3    7e-018
+WP_032019541.1  transposase [Acinetobacter baumannii]                 79.3    7e-018
+WP_000328971.1  hypothetical protein [Acinetobacter baumannii]        79.3    7e-018
+WP_079769621.1  IS4 family transposase [Acinetobacter baumannii]      79.3    1e-017
+WP_063683887.1  transposase [Acinetobacter baumannii]                 78.6    1e-017
+WP_031963030.1  hypothetical protein [Acinetobacter baumannii]        78.2    2e-017
+WP_003245310.1  hypothetical protein [Acinetobacter baumannii]        78.2    2e-017
+WP_003306953.1  hypothetical protein [Acinetobacter baumannii]        77.8    2e-017
+WP_003312598.1  hypothetical protein [Acinetobacter baumannii]        78.2    2e-017
+WP_079283582.1  IS4 family transposase [Acinetobacter baumannii]      77.8    2e-017
+WP_003251113.1  hypothetical protein [Acinetobacter baumannii]        78.2    2e-017
+WP_032003906.1  hypothetical protein [Acinetobacter baumannii]        76.6    7e-017
+WP_003281209.1  hypothetical protein [Acinetobacter baumannii]        76.3    1e-016
+WP_031991381.1  hypothetical protein [Acinetobacter baumannii]        76.3    1e-016
+WP_024439432.1  hypothetical protein [Acinetobacter baumannii]        74.7    4e-016
+WP_048615758.1  hypothetical protein [Vibrio sp. J2-29]               74.7    4e-016
+WP_031979518.1  hypothetical protein [Acinetobacter baumannii]        74.7    4e-016
+WP_004571551.1  hypothetical protein [Acinetobacter baumannii]        74.7    5e-016
+WP_057096316.1  hypothetical protein [Acinetobacter baumannii]        74.7    5e-016
+WP_079283011.1  IS4 family transposase [Acinetobacter baumannii]      73.2    2e-015
+WP_079283647.1  IS4 family transposase [Acinetobacter baumannii]      72.8    2e-015
+WP_031955213.1  hypothetical protein [Acinetobacter baumannii]        72.8    2e-015
+WP_003250404.1  hypothetical protein [Acinetobacter baumannii]        72.8    2e-015
+WP_031995284.1  hypothetical protein [Acinetobacter baumannii]        72.8    2e-015
+WP_029959308.1  hypothetical protein [Acinetobacter baumannii]        72.8    3e-015
+WP_000326255.1  hypothetical protein [Acinetobacter baumannii]        72.4    3e-015
+WP_000293058.1  hypothetical protein [Acinetobacter baumannii]        71.2    1e-014
+WP_031988731.1  hypothetical protein [Acinetobacter baumannii]        70.5    2e-014
+WP_080447904.1  IS4 family transposase [Legionella pneumophila]       72.8    3e-014
+WP_080451947.1  IS4 family transposase [Legionella pneumophila]       72.8    3e-014
+WP_080450342.1  IS4 family transposase [Legionella pneumophila]       72.8    3e-014
+WP_032045117.1  hypothetical protein [Acinetobacter baumannii]        69.7    3e-014
+WP_080452406.1  IS4 family transposase [Legionella pneumophila]       72.4    4e-014
+WP_015961270.1  transposase [Legionella pneumophila]                  72.4    4e-014
+WP_061720450.1  IS4/IS5 family transposase [Legionella pneumophila]   72.4    4e-014
+WP_057050663.1  hypothetical protein [Acinetobacter baumannii]        69.3    4e-014
+WP_003279503.1  hypothetical protein [Acinetobacter baumannii]        69.3    5e-014
+WP_061725752.1  IS4/IS5 family transposase [Legionella pneumophila]   72.8    5e-014
+WP_062752264.1  IS4/IS5 family transposase [Legionella pneumophila]   72.4    5e-014
+WP_062740902.1  IS4/IS5 family transposase [Legionella pneumophila]   72.4    5e-014
+WP_072356579.1  IS4/IS5 family transposase [Legionella pneumophila]   72.8    6e-014
+WP_061721119.1  IS4/IS5 family transposase [Legionella pneumophila]   72.4    6e-014
+WP_061634337.1  IS4 family transposase [Legionella pneumophila]       72.8    6e-014
+WP_065211437.1  IS4/IS5 family transposase [Legionella pneumophila]   72.8    6e-014
+WP_072356239.1  IS4/IS5 family transposase [Legionella pneumophila]   72.8    6e-014
+WP_062896163.1  IS4 family transposase [Legionella pneumophila]       72.8    7e-014
+WP_080452553.1  IS4 family transposase [Legionella pneumophila]       72.8    7e-014
+WP_062740879.1  IS4 family transposase [Legionella pneumophila]       72.8    7e-014
+WP_010946555.1  IS4 family transposase [Legionella pneumophila]       72.4    8e-014
+WP_011212682.1  IS4 family transposase ISLpn9 [Legionella pneumop...  72.4    8e-014
+WP_011214132.1  IS4 family transposase [Legionella pneumophila]       72.4    9e-014
+WP_014841755.1  IS4 family transposase [Legionella pneumophila]       72.0    1e-013
+WP_065211442.1  IS4/IS5 family transposase [Legionella pneumophila]   72.0    1e-013
+WP_061721465.1  IS4 family transposase [Legionella pneumophila]       72.0    1e-013
+WP_065211435.1  IS4/IS5 family transposase [Legionella pneumophila]   71.6    1e-013
+WP_061716568.1  IS4 family transposase [Legionella pneumophila]       71.6    1e-013
+WP_062740871.1  IS4/IS5 family transposase [Legionella pneumophila]   71.6    1e-013
+WP_062752218.1  IS4/IS5 family transposase [Legionella pneumophila]   71.2    2e-013
+WP_019868098.1  hypothetical protein [Methylovulum miyakonense]       69.7    3e-013
+WP_057046165.1  hypothetical protein [Acinetobacter baumannii]        67.4    3e-013
+WP_000408230.1  hypothetical protein [Acinetobacter baumannii]        67.4    3e-013
+WP_031949814.1  hypothetical protein [Acinetobacter baumannii]        67.4    3e-013
+WP_083930158.1  hypothetical protein [Methylovulum miyakonense]       68.6    5e-013
+WP_006872916.1  IS4/IS5 family transposase [Legionella drancourtii]   69.3    9e-013
+WP_061784281.1  IS4 family transposase [Legionella pneumophila]       69.7    9e-013
+WP_061718387.1  IS4/IS5 family transposase [Legionella pneumophila]   68.9    1e-012
+WP_032018412.1  hypothetical protein [Acinetobacter baumannii]        65.9    1e-012
+WP_032044627.1  hypothetical protein [Acinetobacter baumannii]        65.9    1e-012
+WP_032029871.1  hypothetical protein [Acinetobacter baumannii]        65.9    1e-012
+WP_032024674.1  hypothetical protein [Acinetobacter baumannii]        65.5    2e-012
+WP_031968945.1  transposase [Acinetobacter baumannii]                 65.1    2e-012
+WP_003216958.1  MULTISPECIES: hypothetical protein [Gammaproteoba...  65.1    2e-012
+WP_057694639.1  hypothetical protein [Acinetobacter baumannii]        65.1    2e-012
+WP_003114940.1  hypothetical protein [Acinetobacter baumannii]        63.2    2e-011
+WP_057050693.1  hypothetical protein [Acinetobacter baumannii]        62.8    2e-011
+WP_032045165.1  hypothetical protein [Acinetobacter baumannii]        62.8    2e-011
+WP_031989541.1  hypothetical protein [Acinetobacter baumannii]        62.4    2e-011
+WP_031994828.1  hypothetical protein [Acinetobacter baumannii]        62.0    3e-011
+WP_031999189.1  hypothetical protein [Acinetobacter baumannii]        62.0    4e-011
+WP_081756396.1  hypothetical protein [Candidatus Contendobacter o...  64.3    4e-011
+WP_031979122.1  hypothetical protein [Acinetobacter baumannii]        61.6    6e-011
+WP_003285468.1  hypothetical protein [Acinetobacter baumannii]        61.2    7e-011
+WP_057050664.1  hypothetical protein [Acinetobacter baumannii]        61.2    7e-011
+WP_032029592.1  hypothetical protein [Acinetobacter baumannii]        61.2    7e-011
+WP_079364206.1  IS4 family transposase [Acinetobacter baumannii]      60.5    1e-010
+WP_032002484.1  hypothetical protein [Acinetobacter baumannii]        59.7    3e-010
+WP_000518994.1  hypothetical protein [Acinetobacter baumannii]        58.9    5e-010
+WP_031964760.1  hypothetical protein [Acinetobacter baumannii]        58.9    6e-010
+WP_084480190.1  hypothetical protein [Methylosarcina lacus]           59.7    6e-010
+WP_031986520.1  hypothetical protein [Acinetobacter baumannii]        58.5    7e-010
+WP_009627625.1  IS4/IS5 family transposase [Pseudanabaena biceps]     60.8    1e-009
+WP_032064671.1  hypothetical protein [Acinetobacter baumannii]        57.8    1e-009
+WP_081485940.1  hypothetical protein [Thiothrix nivea]                59.3    2e-009
+WP_078924397.1  hypothetical protein [Thiothrix eikelboomii]          60.5    2e-009
+WP_031951883.1  transposase [Acinetobacter baumannii]                 57.4    2e-009
+WP_057051137.1  hypothetical protein [Acinetobacter baumannii]        57.4    2e-009
+WP_061832295.1  transposase [Legionella pneumophila]                  59.7    2e-009
+WP_007040241.1  transposase [Thiorhodococcus drewsii]                 60.1    2e-009
+WP_031953393.1  hypothetical protein [Acinetobacter baumannii]        57.4    3e-009
+WP_048676571.1  IS4/IS5 family transposase [Candidatus Competibac...  59.7    3e-009
+WP_052024277.1  hypothetical protein [Acinetobacter baumannii]        57.0    3e-009
+WP_007043251.1  transposase [Thiorhodococcus drewsii]                 59.3    4e-009
+WP_024300127.1  hypothetical protein [Methylosarcina lacus]           58.9    6e-009
+WP_007041475.1  transposase [Thiorhodococcus drewsii]                 58.5    7e-009
+WP_057046173.1  hypothetical protein [Acinetobacter baumannii]        55.5    1e-008
+WP_031976912.1  hypothetical protein [Acinetobacter baumannii]        55.5    1e-008
+WP_003312606.1  hypothetical protein [Acinetobacter baumannii]        55.5    1e-008
+WP_079284651.1  IS4 family transposase [Acinetobacter baumannii]      55.5    1e-008
+WP_031990024.1  hypothetical protein [Acinetobacter baumannii]        55.5    1e-008
+WP_032022003.1  hypothetical protein [Acinetobacter baumannii]        55.5    1e-008
+WP_039726301.1  transposase [Lyngbya confervoides]                    57.8    1e-008
+WP_006508608.1  IS4 family transposase [Xenococcus sp. PCC 7305]      57.8    1e-008
+WP_083918209.1  hypothetical protein [Methylosarcina fibrata]         54.7    2e-008
+WP_052813179.1  hypothetical protein [Desulfonatronum thioautotro...  57.0    3e-008
+WP_051497471.1  hypothetical protein [Candidatus Contendobacter o...  57.0    3e-008
+WP_051497672.1  hypothetical protein [Candidatus Contendobacter o...  56.6    3e-008
+WP_073074803.1  IS4 family transposase [Phormidesmis priestleyi]      56.6    4e-008
+WP_015939429.1  transposase [Cyanothece sp. PCC 7425]                 56.2    4e-008
+WP_031955849.1  hypothetical protein [Acinetobacter baumannii]        53.9    4e-008
+WP_083636810.1  hypothetical protein [Oscillatoriales cyanobacter...  54.3    6e-008
+WP_057050667.1  hypothetical protein [Acinetobacter baumannii]        53.5    6e-008
+WP_067058089.1  hypothetical protein [Moraxella atlantae]             53.9    8e-008
+WP_012166586.1  IS4 family transposase ISAcma47 [Acaryochloris ma...  55.5    9e-008
+WP_005370628.1  IS4/IS5 family transposase [Methylomicrobium album]   55.5    9e-008
+WP_058881622.1  transposase [Oscillatoriales cyanobacterium MTP1]     55.1    1e-007
+WP_085213053.1  hypothetical protein [Methylocaldum sp. 175]          55.1    1e-007
+WP_083827493.1  hypothetical protein [Thiorhodococcus drewsii]        54.7    1e-007
+WP_084156377.1  hypothetical protein [Desulforegula conservatrix]     52.4    1e-007
+WP_085213016.1  hypothetical protein [Methylocaldum sp. 175]          55.1    1e-007
+WP_085211875.1  hypothetical protein [Methylocaldum sp. 175]          55.1    1e-007
+WP_059002385.1  transposase [Leptolyngbya sp. NIES-2104]              55.1    1e-007
+WP_085213193.1  hypothetical protein [Methylocaldum sp. 175]          54.7    2e-007
+WP_084684964.1  hypothetical protein [Methylohalobius crimeensis]     53.9    2e-007
+WP_077451266.1  hypothetical protein [Psychrobacter sp. CIP 110854]   52.8    2e-007
+WP_079284836.1  IS4 family transposase [Acinetobacter baumannii]      52.4    2e-007
+WP_051497714.1  hypothetical protein [Candidatus Contendobacter o...  54.3    2e-007
+WP_051497724.1  hypothetical protein [Candidatus Contendobacter o...  54.3    2e-007
+WP_012167352.1  IS4 family transposase ISAcma48 [Acaryochloris ma...  54.3    2e-007
+WP_052354650.1  hypothetical protein [Neochlamydia sp. S13]           52.4    3e-007
+WP_052244119.1  IS4/IS5 family transposase [Neochlamydia sp. TUME1]   53.5    4e-007
+WP_082987699.1  hypothetical protein [Moraxella atlantae]             52.4    4e-007
+WP_067234293.1  hypothetical protein [Moraxella atlantae]             52.4    4e-007
+WP_058466253.1  hypothetical protein [Legionella cincinnatiensis]     53.5    4e-007
+WP_068403654.1  IS4/IS5 family transposase [Psychrobacter sp. SHU...  53.1    5e-007
+WP_084645157.1  hypothetical protein [Francisella sp. TX077310]       53.1    5e-007
+WP_077451780.1  hypothetical protein [Psychrobacter sp. CIP 110854]   51.6    5e-007
+WP_077451985.1  hypothetical protein [Psychrobacter sp. CIP 110854]   51.2    7e-007
+WP_077451890.1  hypothetical protein [Psychrobacter sp. CIP 110854]   51.2    8e-007
+WP_084684803.1  hypothetical protein [Methylohalobius crimeensis]     52.8    9e-007
+WP_058505557.1  IS4/IS5 family transposase [Legionella nautarum]      52.8    9e-007
+WP_085212219.1  hypothetical protein [Methylocaldum sp. 175]          50.1    9e-007
+WP_084645175.1  hypothetical protein [Francisella sp. TX077310]       52.8    9e-007
+WP_084684842.1  hypothetical protein [Methylohalobius crimeensis]     52.8    9e-007
+WP_052024206.1  MULTISPECIES: IS4/IS5 family transposase [Acineto...  52.4    9e-007
+WP_077451553.1  hypothetical protein [Psychrobacter sp. CIP 110854]   50.8    9e-007
+WP_062260337.1  IS4/IS5 family transposase [Endozoicomonas arenos...  52.8    9e-007
+WP_084645155.1  hypothetical protein [Francisella sp. TX077310]       52.4    1e-006
+WP_084645151.1  hypothetical protein [Francisella sp. TX077310]       52.4    1e-006
+WP_058368376.1  IS4/IS5 family transposase [Psychrobacter sp. ENN...  52.4    1e-006
+WP_086189058.1  hypothetical protein [Acinetobacter sp. ANC 4470]     52.0    1e-006
+WP_077450740.1  hypothetical protein [Psychrobacter sp. CIP 110854]   50.4    1e-006
+WP_051584572.1  IS4/IS5 family transposase [Psychrobacter phenylp...  52.0    1e-006
+WP_071001282.1  hypothetical protein [Psychrobacter sp. AntiMn-1]     52.0    2e-006
+WP_067515796.1  IS4/IS5 family transposase [Endozoicomonas ascidi...  51.2    3e-006
+WP_044495626.1  transposase [Moorea producens]                        51.2    3e-006
+WP_079352228.1  hypothetical protein [Moraxella atlantae]             51.2    3e-006
+WP_067515762.1  IS4/IS5 family transposase [Endozoicomonas ascidi...  51.2    3e-006
+WP_067584226.1  IS4/IS5 family transposase [Endozoicomonas ascidi...  51.2    3e-006
+WP_067584862.1  IS4/IS5 family transposase [Endozoicomonas ascidi...  51.2    3e-006
+WP_067514615.1  IS4/IS5 family transposase [Endozoicomonas ascidi...  51.2    3e-006
+WP_067587520.1  IS4/IS5 family transposase [Endozoicomonas ascidi...  51.2    4e-006
+WP_082161342.1  IS4/IS5 family transposase [Candidatus Competibac...  50.8    4e-006
+WP_083636779.1  hypothetical protein [Oscillatoriales cyanobacter...  50.8    4e-006
+WP_082781982.1  hypothetical protein [Moraxella atlantae]             50.8    4e-006
+WP_048780709.1  IS4/IS5 family transposase [Cardiobacterium hominis]  50.4    5e-006
+WP_050809098.1  hypothetical protein [Cardiobacterium valvarum]       48.1    6e-006
+WP_048714565.1  IS4/IS5 family transposase [Cardiobacterium hominis]  50.4    6e-006
+WP_062333008.1  MULTISPECIES: IS4/IS5 family transposase [Proteob...  50.4    6e-006
+WP_010589468.1  hypothetical protein [Acinetobacter parvus]           48.1    7e-006
+WP_057046160.1  transposase [Acinetobacter baumannii]                 48.1    7e-006
+WP_083183285.1  hypothetical protein [Candidatus Glomeribacter gi...  50.1    7e-006
+WP_037605385.1  hypothetical protein [Streptococcus salivarius]       48.1    7e-006
+WP_067059502.1  IS4/IS5 family transposase [Moraxella atlantae]       48.9    2e-005
+WP_077447461.1  hypothetical protein [Psychrobacter sp. CIP 110853]   49.3    2e-005
+WP_020561565.1  hypothetical protein [Methylosarcina fibrata]         48.1    2e-005
+WP_079352033.1  hypothetical protein [Moraxella atlantae]             48.9    2e-005
+WP_067059662.1  hypothetical protein [Moraxella atlantae]             48.5    3e-005
+WP_051036842.1  hypothetical protein [Calothrix parietina]            47.0    3e-005
+WP_032046830.1  transposase, partial [Acinetobacter sp. 1289694]      46.6    3e-005
+WP_032046174.1  transposase, partial [Acinetobacter sp. 1289694]      46.6    4e-005
+WP_006683146.1  transposase [Candidatus Glomeribacter gigasporarum]   48.1    4e-005
+WP_007395997.1  hypothetical protein [Psychrobacter sp. 1501(2011)]   48.1    4e-005
+WP_077449875.1  hypothetical protein [Psychrobacter sp. CIP 110854]   48.1    4e-005
+WP_019674136.1  hypothetical protein [Psychrobacter lutiphocae]       46.2    5e-005
+WP_055662201.1  hypothetical protein [Jannaschia seosinensis]         46.6    6e-005
+WP_082050771.1  transposase [Tatlockia micdadei]                      47.4    6e-005
+WP_045356388.1  transposase [Microcystis aeruginosa]                  47.0    1e-004
+WP_010589313.1  hypothetical protein [Acinetobacter parvus]           45.1    1e-004
+WP_008053344.1  IS4 family transposase [Arthrospira sp. PCC 8005]     45.8    1e-004
+WP_052491964.1  hypothetical protein [Thioploca ingrica]              46.2    1e-004
+WP_083505168.1  transposase [Legionella santicrucis]                  46.6    1e-004
+WP_015496185.1  transposase [Octadecabacter arcticus]                 46.6    1e-004
+WP_015497365.1  transposase [Octadecabacter arcticus]                 46.6    1e-004
+WP_014796326.1  IS4/IS5 family transposase [Bernardetia litoralis]    46.6    1e-004
+WP_015497411.1  transposase [Octadecabacter arcticus]                 46.6    1e-004
+WP_051790615.1  hypothetical protein [Endozoicomonas montiporae]      46.2    2e-004
+WP_083461020.1  hypothetical protein [Asanoa ferruginea]              46.2    2e-004
+WP_084005697.1  hypothetical protein [Magnetovibrio blakemorei]       46.2    2e-004
+WP_015493753.1  transposase [Octadecabacter arcticus]                 45.8    2e-004
+WP_082657193.1  transposase [Legionella erythra]                      45.8    2e-004
+WP_014796042.1  IS4/IS5 family transposase [Bernardetia litoralis]    45.8    2e-004
+WP_015494391.1  transposase [Octadecabacter arcticus]                 45.8    2e-004
+WP_015495917.1  transposase [Octadecabacter arcticus]                 45.8    2e-004
+WP_015497350.1  transposase [Octadecabacter arcticus]                 45.8    2e-004
+WP_085982819.1  transposase [Octadecabacter arcticus]                 45.8    2e-004
+WP_082636589.1  transposase [Legionella israelensis]                  45.8    2e-004
+WP_006620891.1  transposase [Arthrospira maxima]                      45.1    3e-004
+WP_051982495.1  hypothetical protein [Oceanicola sp. MCTG156(1a)]     45.1    3e-004
+WP_080443368.1  transposase [Legionella pneumophila]                  45.1    3e-004
+WP_055662460.1  hypothetical protein [Jannaschia seosinensis]         44.7    3e-004
+WP_085632851.1  transposase [Marivita cryptomonadis]                  45.4    3e-004
+
+
+>WP_002005888.1 transposase [Acinetobacter baumannii]
+Length=89
+
+ Score = 107 bits (268),  Expect = 1e-029, Method: Compositional matrix adjust.
+ Identities = 52/52 (100%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+
+
+>WP_000780874.1 hypothetical protein, partial [Acinetobacter baumannii]
+Length=110
+
+ Score = 108 bits (270),  Expect = 1e-029, Method: Compositional matrix adjust.
+ Identities = 52/52 (100%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+
+
+>WP_032042931.1 transposase [Acinetobacter baumannii]
+Length=144
+
+ Score = 108 bits (270),  Expect = 3e-029, Method: Compositional matrix adjust.
+ Identities = 52/52 (100%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+
+
+>WP_000780884.1 transposase [Acinetobacter pittii]
+ YP_006960720.1 hypothetical protein V216_40 [uncultured bacterium HHV216]
+ YP_006960775.1 hypothetical protein V35_51 [uncultured bacterium HHV35]
+ YP_006962135.1 transposase subunit [uncultured bacterium HH1107]
+Length=144
+
+ Score = 108 bits (270),  Expect = 3e-029, Method: Compositional matrix adjust.
+ Identities = 52/52 (100%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+
+
+>WP_000780881.1 transposase [Acinetobacter baumannii]
+Length=144
+
+ Score = 108 bits (270),  Expect = 3e-029, Method: Compositional matrix adjust.
+ Identities = 52/52 (100%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+
+
+>WP_079275868.1 transposase [Acinetobacter baumannii]
+Length=168
+
+ Score = 108 bits (271),  Expect = 4e-029, Method: Compositional matrix adjust.
+ Identities = 52/52 (100%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  25  MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  76
+
+
+>WP_081354258.1 IS4 family transposase, partial [Acinetobacter pittii]
+Length=135
+
+ Score = 107 bits (267),  Expect = 6e-029, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_079283004.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=130
+
+ Score = 107 bits (267),  Expect = 7e-029, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_031957463.1 transposase [Acinetobacter baumannii]
+Length=144
+
+ Score = 107 bits (268),  Expect = 7e-029, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           MKLYISALQLENGE+LLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  1   MKLYISALQLENGEILLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+
+
+>WP_079367922.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=133
+
+ Score = 107 bits (267),  Expect = 7e-029, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_079283412.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=116
+
+ Score = 106 bits (265),  Expect = 7e-029, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  9   VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  60
+
+
+>WP_079282177.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=136
+
+ Score = 107 bits (267),  Expect = 7e-029, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_079850580.1 transposase, partial [Acinetobacter baumannii]
+Length=123
+
+ Score = 107 bits (266),  Expect = 7e-029, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_079284463.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=126
+
+ Score = 107 bits (266),  Expect = 8e-029, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_079786472.1 transposase, partial [Acinetobacter baumannii]
+Length=122
+
+ Score = 106 bits (265),  Expect = 8e-029, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_079284578.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=123
+
+ Score = 106 bits (265),  Expect = 9e-029, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  6   VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  57
+
+
+>WP_079265699.1 transposase, partial [Acinetobacter baumannii]
+Length=123
+
+ Score = 106 bits (265),  Expect = 9e-029, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_079865755.1 transposase, partial [Acinetobacter baumannii]
+Length=122
+
+ Score = 106 bits (265),  Expect = 1e-028, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENG+LLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGDLLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_079281850.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=131
+
+ Score = 106 bits (265),  Expect = 1e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  13  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  64
+
+
+>WP_079283146.1 transposase, partial [Acinetobacter baumannii]
+Length=155
+
+ Score = 107 bits (267),  Expect = 1e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_079283553.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=153
+
+ Score = 107 bits (267),  Expect = 1e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_079283431.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=118
+
+ Score = 106 bits (264),  Expect = 1e-028, Method: Compositional matrix adjust.
+ Identities = 51/51 (100%), Positives = 51/51 (100%), Gaps = 0/51 (0%)
+
+Query  2   KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  14  KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  64
+
+
+>WP_079282438.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=117
+
+ Score = 106 bits (264),  Expect = 1e-028, Method: Compositional matrix adjust.
+ Identities = 51/51 (100%), Positives = 51/51 (100%), Gaps = 0/51 (0%)
+
+Query  2   KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  14  KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  64
+
+
+>WP_079275703.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=136
+
+ Score = 106 bits (265),  Expect = 1e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  1   VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+
+
+>WP_079292251.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=120
+
+ Score = 106 bits (264),  Expect = 1e-028, Method: Compositional matrix adjust.
+ Identities = 51/51 (100%), Positives = 51/51 (100%), Gaps = 0/51 (0%)
+
+Query  2   KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  26  KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  76
+
+
+>WP_085947927.1 transposase, partial [Acinetobacter baumannii]
+Length=134
+
+ Score = 106 bits (265),  Expect = 1e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  13  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  64
+
+
+>WP_079283382.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=154
+
+ Score = 107 bits (267),  Expect = 1e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_081406473.1 transposase, partial [Acinetobacter soli]
+Length=143
+
+ Score = 107 bits (266),  Expect = 1e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  9   VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  60
+
+
+>WP_079850289.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=146
+
+ Score = 107 bits (266),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  13  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  64
+
+
+>WP_079267313.1 transposase [Acinetobacter baumannii]
+Length=154
+
+ Score = 107 bits (266),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  11  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  62
+
+
+>WP_086384330.1 transposase [Acinetobacter baumannii]
+Length=156
+
+ Score = 107 bits (266),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  13  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  64
+
+
+>WP_003335712.1 hypothetical protein, partial [Acinetobacter baumannii]
+Length=153
+
+ Score = 107 bits (266),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  10  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  61
+
+
+>WP_079265465.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=148
+
+ Score = 106 bits (265),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  13  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  64
+
+
+>WP_079261840.1 MULTISPECIES: IS4 family transposase, partial [Gammaproteobacteria]
+Length=160
+
+ Score = 107 bits (266),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_002016649.1 transposase [Acinetobacter baumannii]
+Length=148
+
+ Score = 106 bits (265),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  5   VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  56
+
+
+>WP_003320135.1 hypothetical protein, partial [Acinetobacter baumannii]
+Length=147
+
+ Score = 106 bits (265),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  4   VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  55
+
+
+>WP_032002828.1 hypothetical protein, partial [Acinetobacter baumannii]
+Length=153
+
+ Score = 107 bits (266),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  10  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  61
+
+
+>WP_017724850.1 hypothetical protein, partial [Acinetobacter baumannii]
+Length=152
+
+ Score = 107 bits (266),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  9   VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  60
+
+
+>WP_081037387.1 transposase, partial [Acinetobacter pittii]
+Length=144
+
+ Score = 106 bits (265),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  1   VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+
+
+>WP_000308516.1 hypothetical protein, partial [Acinetobacter baumannii]
+Length=145
+
+ Score = 106 bits (265),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  2   VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  53
+
+
+>WP_079267311.1 transposase [Acinetobacter baumannii]
+Length=155
+
+ Score = 107 bits (266),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  12  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  63
+
+
+>WP_000322359.1 hypothetical protein, partial [Acinetobacter baumannii]
+Length=144
+
+ Score = 106 bits (265),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  1   VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+
+
+>WP_079292093.1 transposase, partial [Acinetobacter baumannii]
+Length=147
+
+ Score = 106 bits (265),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  4   VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  55
+
+
+>WP_079866738.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=135
+
+ Score = 106 bits (264),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/51 (100%), Positives = 51/51 (100%), Gaps = 0/51 (0%)
+
+Query  2   KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  1   KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  51
+
+
+>WP_079267247.1 transposase [Acinetobacter baumannii]
+Length=145
+
+ Score = 106 bits (265),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  2   VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  53
+
+
+>WP_002122977.1 MULTISPECIES: transposase [Gammaproteobacteria]
+ YP_007349552.1 transposase of IS4 (plasmid) [Klebsiella pneumoniae]
+ YP_009070397.1 transposase [Acinetobacter sp. M131]
+Length=148
+
+ Score = 106 bits (265),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  5   VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  56
+
+
+>WP_079267236.1 transposase [Acinetobacter baumannii]
+Length=149
+
+ Score = 106 bits (265),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  6   VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  57
+
+
+>WP_079356572.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=147
+
+ Score = 106 bits (265),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  4   VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  55
+
+
+>WP_079269085.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=149
+
+ Score = 106 bits (265),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  6   VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  57
+
+
+>WP_079282516.1 IS4 family transposase [Acinetobacter baumannii]
+Length=179
+
+ Score = 107 bits (267),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_003262616.1 hypothetical protein, partial [Acinetobacter baumannii]
+Length=146
+
+ Score = 106 bits (265),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  3   VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  54
+
+
+>WP_079376622.1 MULTISPECIES: IS4 family transposase, partial [Acinetobacter 
+calcoaceticus/baumannii complex]
+Length=171
+
+ Score = 107 bits (267),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_079268582.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=148
+
+ Score = 106 bits (265),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  5   VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  56
+
+
+>WP_003264281.1 hypothetical protein, partial [Acinetobacter baumannii]
+Length=150
+
+ Score = 106 bits (265),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  7   VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  58
+
+
+>WP_079740242.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=169
+
+ Score = 107 bits (267),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_003266937.1 hypothetical protein, partial [Acinetobacter baumannii]
+Length=154
+
+ Score = 106 bits (265),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  11  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  62
+
+
+>WP_079376468.1 transposase [Acinetobacter baumannii]
+Length=156
+
+ Score = 107 bits (266),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  13  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  64
+
+
+>WP_000307741.1 hypothetical protein, partial [Acinetobacter baumannii]
+Length=151
+
+ Score = 106 bits (265),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  8   VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  59
+
+
+>WP_079284891.1 transposase [Acinetobacter baumannii]
+Length=156
+
+ Score = 107 bits (266),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  13  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  64
+
+
+>WP_079343389.1 transposase [Acinetobacter baumannii]
+Length=156
+
+ Score = 106 bits (265),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  13  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  64
+
+
+>WP_079367933.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=156
+
+ Score = 106 bits (265),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  13  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  64
+
+
+>WP_079284574.1 transposase [Acinetobacter baumannii]
+Length=156
+
+ Score = 106 bits (265),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  13  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  64
+
+
+>WP_079281494.1 transposase [Acinetobacter baumannii]
+Length=156
+
+ Score = 106 bits (265),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  13  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  64
+
+
+>WP_003258917.1 hypothetical protein, partial [Acinetobacter baumannii]
+Length=160
+
+ Score = 107 bits (266),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  17  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  68
+
+
+>WP_079284727.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=146
+
+ Score = 106 bits (265),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  3   VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  54
+
+
+>WP_082187167.1 transposase [Acinetobacter parvus]
+Length=156
+
+ Score = 106 bits (265),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  13  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  64
+
+
+>WP_079770640.1 transposase [Acinetobacter baumannii]
+Length=156
+
+ Score = 106 bits (265),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  13  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  64
+
+
+>WP_081401706.1 IS4 family transposase [Acinetobacter sp. CIP 101966]
+Length=179
+
+ Score = 107 bits (267),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_082187171.1 transposase [Acinetobacter parvus]
+Length=156
+
+ Score = 106 bits (265),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  13  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  64
+
+
+>WP_079283104.1 transposase [Acinetobacter baumannii]
+Length=156
+
+ Score = 106 bits (265),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  13  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  64
+
+
+>WP_079376473.1 transposase [Acinetobacter baumannii]
+Length=156
+
+ Score = 106 bits (265),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  13  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  64
+
+
+>WP_079261403.1 transposase [Acinetobacter baumannii]
+Length=156
+
+ Score = 106 bits (265),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  13  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  64
+
+
+>WP_079773785.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=169
+
+ Score = 107 bits (266),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_079284779.1 transposase [Acinetobacter baumannii]
+Length=164
+
+ Score = 107 bits (266),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  21  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  72
+
+
+>WP_081402716.1 IS4 family transposase [Acinetobacter sp. 983759]
+Length=179
+
+ Score = 107 bits (267),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_079265687.1 transposase [Acinetobacter baumannii]
+Length=156
+
+ Score = 106 bits (265),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  13  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  64
+
+
+>WP_079788322.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=169
+
+ Score = 107 bits (266),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_079275375.1 transposase [Acinetobacter baumannii]
+Length=168
+
+ Score = 107 bits (266),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  25  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  76
+
+
+>WP_079285849.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=165
+
+ Score = 107 bits (266),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  22  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  73
+
+
+>WP_079282798.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=155
+
+ Score = 106 bits (265),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  12  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  63
+
+
+>WP_085947933.1 transposase [Acinetobacter baumannii]
+Length=156
+
+ Score = 106 bits (265),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  13  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  64
+
+
+>WP_082187170.1 IS4 family transposase [Acinetobacter parvus]
+Length=179
+
+ Score = 107 bits (267),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_080593294.1 IS4 family transposase [Acinetobacter johnsonii]
+Length=178
+
+ Score = 107 bits (267),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  35  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  86
+
+
+>WP_079280912.1 MULTISPECIES: transposase [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=168
+
+ Score = 107 bits (266),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  25  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  76
+
+
+>WP_079284661.1 transposase [Acinetobacter baumannii]
+Length=156
+
+ Score = 106 bits (265),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  13  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  64
+
+
+>WP_079276940.1 transposase, partial [Acinetobacter baumannii]
+Length=143
+
+ Score = 106 bits (264),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/51 (100%), Positives = 51/51 (100%), Gaps = 0/51 (0%)
+
+Query  2   KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  1   KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  51
+
+
+>WP_003290596.1 MULTISPECIES: hypothetical protein, partial [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=143
+
+ Score = 106 bits (264),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/51 (100%), Positives = 51/51 (100%), Gaps = 0/51 (0%)
+
+Query  2   KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  1   KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  51
+
+
+>WP_077879134.1 MULTISPECIES: IS4 family transposase [Gammaproteobacteria]
+Length=179
+
+ Score = 107 bits (267),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_079377558.1 transposase [Acinetobacter baumannii]
+Length=160
+
+ Score = 106 bits (265),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  17  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  68
+
+
+>WP_000321620.1 hypothetical protein, partial [Acinetobacter baumannii]
+Length=159
+
+ Score = 106 bits (265),  Expect = 2e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  16  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  67
+
+
+>WP_085947934.1 transposase [Acinetobacter baumannii]
+Length=156
+
+ Score = 106 bits (265),  Expect = 3e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  13  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  64
+
+
+>WP_079281495.1 IS4 family transposase [Acinetobacter baumannii]
+Length=179
+
+ Score = 107 bits (267),  Expect = 3e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_079272992.1 IS4 family transposase [Acinetobacter baumannii]
+Length=179
+
+ Score = 107 bits (267),  Expect = 3e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_077253499.1 MULTISPECIES: IS4 family transposase [Gammaproteobacteria]
+Length=179
+
+ Score = 107 bits (267),  Expect = 3e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_073299977.1 transposase [Acinetobacter baumannii]
+Length=179
+
+ Score = 107 bits (267),  Expect = 3e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_010589638.1 transposase [Acinetobacter parvus]
+Length=173
+
+ Score = 107 bits (266),  Expect = 3e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  13  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  64
+
+
+>WP_079276178.1 transposase [Acinetobacter baumannii]
+Length=167
+
+ Score = 107 bits (266),  Expect = 3e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  13  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  64
+
+
+>WP_079282417.1 IS4 family transposase [Acinetobacter baumannii]
+Length=179
+
+ Score = 107 bits (267),  Expect = 3e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_079281488.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=158
+
+ Score = 106 bits (265),  Expect = 3e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  15  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  66
+
+
+>WP_079281837.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=177
+
+ Score = 107 bits (266),  Expect = 3e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_079343392.1 IS4 family transposase [Acinetobacter baumannii]
+Length=179
+
+ Score = 107 bits (267),  Expect = 3e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_079744633.1 transposase [Acinetobacter baumannii]
+Length=168
+
+ Score = 107 bits (266),  Expect = 3e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  25  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  76
+
+
+>WP_079367920.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=137
+
+ Score = 105 bits (263),  Expect = 3e-028, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAI DYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIHDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_079371832.1 IS4 family transposase [Acinetobacter baumannii]
+Length=179
+
+ Score = 107 bits (266),  Expect = 3e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_079284913.1 IS4 family transposase [Acinetobacter baumannii]
+Length=179
+
+ Score = 107 bits (266),  Expect = 3e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_079255334.1 MULTISPECIES: IS4 family transposase [Acinetobacter]
+Length=179
+
+ Score = 107 bits (266),  Expect = 3e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_076612355.1 IS4 family transposase ISAba1 [Acinetobacter baumannii]
+Length=178
+
+ Score = 107 bits (266),  Expect = 3e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  35  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  86
+
+
+>WP_079393424.1 IS4 family transposase [Acinetobacter baumannii]
+Length=179
+
+ Score = 107 bits (266),  Expect = 3e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_079283057.1 transposase [Acinetobacter baumannii]
+Length=168
+
+ Score = 107 bits (266),  Expect = 3e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  25  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  76
+
+
+>WP_079284011.1 IS4 family transposase [Acinetobacter baumannii]
+Length=179
+
+ Score = 107 bits (266),  Expect = 3e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_079378230.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=143
+
+ Score = 105 bits (263),  Expect = 3e-028, Method: Compositional matrix adjust.
+ Identities = 51/51 (100%), Positives = 51/51 (100%), Gaps = 0/51 (0%)
+
+Query  2   KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  1   KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  51
+
+
+>WP_079769627.1 IS4 family transposase [Acinetobacter baumannii]
+Length=179
+
+ Score = 107 bits (266),  Expect = 3e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_079283368.1 transposase [Acinetobacter baumannii]
+Length=156
+
+ Score = 106 bits (264),  Expect = 3e-028, Method: Compositional matrix adjust.
+ Identities = 51/51 (100%), Positives = 51/51 (100%), Gaps = 0/51 (0%)
+
+Query  2   KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  14  KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  64
+
+
+>WP_079292277.1 IS4 family transposase [Acinetobacter baumannii]
+Length=179
+
+ Score = 107 bits (266),  Expect = 3e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_079348780.1 IS4 family transposase [Acinetobacter baumannii]
+Length=179
+
+ Score = 107 bits (266),  Expect = 3e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_079284059.1 transposase [Acinetobacter baumannii]
+Length=156
+
+ Score = 106 bits (264),  Expect = 3e-028, Method: Compositional matrix adjust.
+ Identities = 51/51 (100%), Positives = 51/51 (100%), Gaps = 0/51 (0%)
+
+Query  2   KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  14  KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  64
+
+
+>WP_079284865.1 IS4 family transposase [Acinetobacter baumannii]
+Length=179
+
+ Score = 107 bits (266),  Expect = 3e-028, Method: Compositional matrix adjust.
+ Identities = 51/51 (100%), Positives = 51/51 (100%), Gaps = 0/51 (0%)
+
+Query  2   KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  37  KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_079283171.1 transposase [Acinetobacter baumannii]
+Length=168
+
+ Score = 106 bits (265),  Expect = 4e-028, Method: Compositional matrix adjust.
+ Identities = 51/51 (100%), Positives = 51/51 (100%), Gaps = 0/51 (0%)
+
+Query  2   KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  26  KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  76
+
+
+>WP_079284938.1 IS4 family transposase [Acinetobacter baumannii]
+Length=179
+
+ Score = 106 bits (265),  Expect = 4e-028, Method: Compositional matrix adjust.
+ Identities = 51/51 (100%), Positives = 51/51 (100%), Gaps = 0/51 (0%)
+
+Query  2   KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  37  KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_079367931.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=163
+
+ Score = 105 bits (263),  Expect = 5e-028, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSC+KGRGFNLE
+Sbjct  25  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCIKGRGFNLE  76
+
+
+>WP_079284521.1 IS4 family transposase [Acinetobacter baumannii]
+Length=179
+
+ Score = 106 bits (265),  Expect = 5e-028, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGE+LLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGEILLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_079367935.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=123
+
+ Score = 104 bits (260),  Expect = 5e-028, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETL SCLKGRGFNLE
+Sbjct  25  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLLSCLKGRGFNLE  76
+
+
+>WP_081407447.1 IS4 family transposase [Acinetobacter sp. 72431]
+Length=180
+
+ Score = 106 bits (265),  Expect = 6e-028, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNAN+IQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANSIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_086309707.1 transposase [Acinetobacter pittii]
+Length=156
+
+ Score = 105 bits (263),  Expect = 6e-028, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNAN+IQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  13  VKLYISALQLENGELLLVVSPQFNANSIQDYALRWEIETLFSCLKGRGFNLE  64
+
+
+>WP_079351298.1 transposase [Acinetobacter baumannii]
+Length=156
+
+ Score = 105 bits (263),  Expect = 6e-028, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEI+TLFSCLKGRGFNLE
+Sbjct  13  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIDTLFSCLKGRGFNLE  64
+
+
+>WP_079284877.1 transposase [Acinetobacter baumannii]
+Length=156
+
+ Score = 105 bits (263),  Expect = 6e-028, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQL+NGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  13  VKLYISALQLDNGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  64
+
+
+>WP_032067816.1 transposase [Acinetobacter baumannii]
+Length=144
+
+ Score = 105 bits (262),  Expect = 6e-028, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           MKLYISALQLENGELLLVVS QFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  1   MKLYISALQLENGELLLVVSTQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+
+
+>WP_086309718.1 transposase [Acinetobacter pittii]
+Length=156
+
+ Score = 105 bits (262),  Expect = 6e-028, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNAN+IQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  13  VKLYISALQLENGELLLVVSPQFNANSIQDYALRWEIETLFSCLKGRGFNLE  64
+
+
+>WP_003206144.1 hypothetical protein, partial [Acinetobacter baumannii]
+Length=146
+
+ Score = 105 bits (261),  Expect = 7e-028, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQL+NGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  3   VKLYISALQLKNGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  54
+
+
+>WP_081329497.1 transposase, partial [Acinetobacter pittii]
+Length=118
+
+ Score = 104 bits (259),  Expect = 7e-028, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNAN+IQDYALRWEI+TLFSCLKGRGFNLE
+Sbjct  6   VKLYISALQLENGELLLVVSPQFNANSIQDYALRWEIDTLFSCLKGRGFNLE  57
+
+
+>WP_081316858.1 IS4 family transposase [Acinetobacter johnsonii]
+Length=179
+
+ Score = 106 bits (264),  Expect = 7e-028, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNAN+IQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANSIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_079284485.1 IS4 family transposase [Acinetobacter baumannii]
+Length=179
+
+ Score = 106 bits (264),  Expect = 7e-028, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRW+IETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWDIETLFSCLKGRGFNLE  87
+
+
+>WP_078390480.1 MULTISPECIES: IS4 family transposase [Acinetobacter]
+Length=179
+
+ Score = 106 bits (264),  Expect = 7e-028, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNAN+IQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANSIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_079284460.1 transposase [Acinetobacter baumannii]
+Length=156
+
+ Score = 105 bits (262),  Expect = 7e-028, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIET FSCLKGRGFNLE
+Sbjct  13  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETFFSCLKGRGFNLE  64
+
+
+>WP_080602474.1 MULTISPECIES: IS4 family transposase [Acinetobacter]
+Length=179
+
+ Score = 105 bits (263),  Expect = 8e-028, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLY+SALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYMSALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_079283742.1 transposase [Acinetobacter baumannii]
+Length=156
+
+ Score = 105 bits (262),  Expect = 8e-028, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISAL+LENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  13  VKLYISALKLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  64
+
+
+>WP_081311165.1 IS4 family transposase [Acinetobacter pittii]
+Length=179
+
+ Score = 105 bits (263),  Expect = 8e-028, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAI+DYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIEDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_081404359.1 IS4 family transposase [Acinetobacter sp. 1289694]
+Length=179
+
+ Score = 105 bits (263),  Expect = 9e-028, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNAN+IQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANSIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_079284794.1 IS4 family transposase [Acinetobacter baumannii]
+Length=179
+
+ Score = 105 bits (263),  Expect = 9e-028, Method: Compositional matrix adjust.
+ Identities = 50/51 (98%), Positives = 51/51 (100%), Gaps = 0/51 (0%)
+
+Query  2   KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           KLYISALQLENGE+LLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  37  KLYISALQLENGEILLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_079292288.1 IS4 family transposase [Acinetobacter baumannii]
+Length=179
+
+ Score = 105 bits (263),  Expect = 9e-028, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGEL LVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELFLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_079261409.1 transposase [Acinetobacter baumannii]
+Length=209
+
+ Score = 106 bits (265),  Expect = 1e-027, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+            +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  66   VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  117
+
+
+>WP_079284491.1 IS4 family transposase [Acinetobacter baumannii]
+Length=179
+
+ Score = 105 bits (263),  Expect = 1e-027, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAI DYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIHDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_004571569.1 hypothetical protein, partial [Acinetobacter baumannii]
+Length=153
+
+ Score = 105 bits (261),  Expect = 1e-027, Method: Compositional matrix adjust.
+ Identities = 50/51 (98%), Positives = 51/51 (100%), Gaps = 0/51 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNL  51
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNL
+Sbjct  10  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNL  60
+
+
+>WP_031943501.1 IS4 family transposase [Acinetobacter baumannii]
+ YP_009066596.1 transposition protein (plasmid) [Acinetobacter baumannii]
+Length=148
+
+ Score = 104 bits (260),  Expect = 1e-027, Method: Compositional matrix adjust.
+ Identities = 50/51 (98%), Positives = 51/51 (100%), Gaps = 0/51 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNL  51
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNL
+Sbjct  5   VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNL  55
+
+
+>WP_017816365.1 hypothetical protein, partial [Acinetobacter baumannii]
+Length=143
+
+ Score = 104 bits (259),  Expect = 1e-027, Method: Compositional matrix adjust.
+ Identities = 50/50 (100%), Positives = 50/50 (100%), Gaps = 0/50 (0%)
+
+Query  3   LYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           LYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  2   LYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  51
+
+
+>WP_079283757.1 IS4 family transposase [Acinetobacter baumannii]
+Length=179
+
+ Score = 105 bits (262),  Expect = 1e-027, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLF CLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFGCLKGRGFNLE  87
+
+
+>WP_079748612.1 IS4 family transposase [Acinetobacter baumannii]
+Length=179
+
+ Score = 105 bits (262),  Expect = 1e-027, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCL+GRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLEGRGFNLE  87
+
+
+>WP_079265697.1 IS4 family transposase [Acinetobacter baumannii]
+Length=179
+
+ Score = 105 bits (262),  Expect = 1e-027, Method: Compositional matrix adjust.
+ Identities = 50/51 (98%), Positives = 51/51 (100%), Gaps = 0/51 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNL  51
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNL
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNL  86
+
+
+>WP_003312512.1 hypothetical protein, partial [Acinetobacter baumannii]
+Length=142
+
+ Score = 104 bits (259),  Expect = 1e-027, Method: Compositional matrix adjust.
+ Identities = 50/50 (100%), Positives = 50/50 (100%), Gaps = 0/50 (0%)
+
+Query  3   LYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           LYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  1   LYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  50
+
+
+>WP_079283552.1 IS4 family transposase [Acinetobacter baumannii]
+Length=179
+
+ Score = 105 bits (262),  Expect = 2e-027, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDY LRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIQDYVLRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_079265696.1 IS4 family transposase [Acinetobacter baumannii]
+Length=179
+
+ Score = 105 bits (261),  Expect = 2e-027, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLF CLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFCCLKGRGFNLE  87
+
+
+>WP_079293925.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=178
+
+ Score = 105 bits (261),  Expect = 2e-027, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETL SCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLLSCLKGRGFNLE  87
+
+
+>WP_079352297.1 IS4 family transposase [Acinetobacter baumannii]
+Length=179
+
+ Score = 105 bits (261),  Expect = 2e-027, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISA QLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISAQQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_085947936.1 transposase [Acinetobacter baumannii]
+Length=156
+
+ Score = 104 bits (259),  Expect = 2e-027, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRG NLE
+Sbjct  13  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGVNLE  64
+
+
+>WP_079282166.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=152
+
+ Score = 104 bits (259),  Expect = 2e-027, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQL NGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  9   VKLYISALQLVNGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  60
+
+
+>WP_079376500.1 transposase [Acinetobacter baumannii]
+Length=156
+
+ Score = 104 bits (259),  Expect = 2e-027, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYI ALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  13  VKLYIIALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  64
+
+
+>WP_031943500.1 IS4 family transposase [Acinetobacter baumannii]
+ YP_009066589.1 transposition protein (plasmid) [Acinetobacter baumannii]
+Length=148
+
+ Score = 103 bits (258),  Expect = 3e-027, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGR FNLE
+Sbjct  5   VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRXFNLE  56
+
+
+>WP_079283123.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=144
+
+ Score = 103 bits (257),  Expect = 3e-027, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLE GELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  1   VKLYISALQLEYGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+
+
+>WP_079282690.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=154
+
+ Score = 103 bits (258),  Expect = 3e-027, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLE GELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  11  VKLYISALQLEYGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  62
+
+
+>WP_079282176.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=179
+
+ Score = 103 bits (258),  Expect = 4e-027, Method: Compositional matrix adjust.
+ Identities = 49/52 (94%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISAL+LENGELLLVVSPQFNANAIQDY LRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALKLENGELLLVVSPQFNANAIQDYVLRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_000328542.1 MULTISPECIES: hypothetical protein, partial [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=141
+
+ Score = 102 bits (255),  Expect = 5e-027, Method: Compositional matrix adjust.
+ Identities = 49/49 (100%), Positives = 49/49 (100%), Gaps = 0/49 (0%)
+
+Query  4   YISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           YISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  1   YISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  49
+
+
+>WP_079745097.1 transposase, partial [Acinetobacter baumannii]
+Length=141
+
+ Score = 102 bits (255),  Expect = 5e-027, Method: Compositional matrix adjust.
+ Identities = 49/49 (100%), Positives = 49/49 (100%), Gaps = 0/49 (0%)
+
+Query  4   YISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           YISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  1   YISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  49
+
+
+>WP_079375824.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=179
+
+ Score = 103 bits (258),  Expect = 6e-027, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGR FNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRVFNLE  87
+
+
+>WP_080593406.1 MULTISPECIES: IS4 family transposase [Acinetobacter]
+Length=179
+
+ Score = 103 bits (257),  Expect = 7e-027, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKG GFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGCGFNLE  87
+
+
+>WP_079284517.1 IS4 family transposase [Acinetobacter baumannii]
+Length=179
+
+ Score = 103 bits (256),  Expect = 9e-027, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQ YALRWEIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIQYYALRWEIETLFSCLKGRGFNLE  87
+
+
+>WP_085943415.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=338
+
+ Score = 106 bits (265),  Expect = 1e-026, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+            +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  220  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  271
+
+
+>WP_085943428.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=338
+
+ Score = 106 bits (265),  Expect = 1e-026, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+            +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  220  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  271
+
+
+>WP_079850258.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=353
+
+ Score = 107 bits (266),  Expect = 1e-026, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+            +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  220  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  271
+
+
+>WP_079292051.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=172
+
+ Score = 102 bits (255),  Expect = 1e-026, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQLENGELLLVVSPQFNANAIQDYALR EIETLFSCLKGRGFNLE
+Sbjct  36  VKLYISALQLENGELLLVVSPQFNANAIQDYALRLEIETLFSCLKGRGFNLE  87
+
+
+>WP_085946151.1 IS4 family transposase [Acinetobacter baumannii]
+Length=354
+
+ Score = 106 bits (265),  Expect = 1e-026, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+            +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  211  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  262
+
+
+>WP_085946132.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=355
+
+ Score = 106 bits (265),  Expect = 1e-026, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+            +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  220  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  271
+
+
+>WP_085947913.1 IS4 family transposase [Acinetobacter baumannii]
+Length=363
+
+ Score = 106 bits (265),  Expect = 2e-026, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+            +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  220  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  271
+
+
+>WP_085940648.1 IS4 family transposase [Acinetobacter baumannii]
+Length=363
+
+ Score = 106 bits (265),  Expect = 2e-026, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+            +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  220  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  271
+
+
+>WP_079785781.1 IS4 family transposase [Acinetobacter baumannii]
+Length=363
+
+ Score = 106 bits (265),  Expect = 2e-026, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+            +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  220  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  271
+
+
+>WP_085946152.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=360
+
+ Score = 106 bits (265),  Expect = 2e-026, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+            +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  217  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  268
+
+
+>WP_085942968.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=359
+
+ Score = 106 bits (265),  Expect = 2e-026, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+            +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  216  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  267
+
+
+>WP_085940413.1 MULTISPECIES: IS4 family transposase [Gammaproteobacteria]
+Length=363
+
+ Score = 106 bits (265),  Expect = 2e-026, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+            +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  220  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  271
+
+
+>WP_085944019.1 IS4 family transposase [Acinetobacter baumannii]
+Length=360
+
+ Score = 106 bits (265),  Expect = 2e-026, Method: Compositional matrix adjust.
+ Identities = 51/52 (98%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1    MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+            +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  220  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  271
+
+
+>WP_016801519.1 IS4 family transposase [Acinetobacter radioresistens]
+Length=129
+
+ Score = 100 bits (248),  Expect = 5e-026, Method: Compositional matrix adjust.
+ Identities = 47/52 (90%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           MKLYISAL+LE+GELLLVVSP FNA+AI+DYALRWEIETLFSCLKGRGFNLE
+Sbjct  1   MKLYISALRLEDGELLLVVSPMFNASAIRDYALRWEIETLFSCLKGRGFNLE  52
+
+
+>WP_003265284.1 hypothetical protein, partial [Acinetobacter baumannii]
+Length=140
+
+ Score = 100 bits (249),  Expect = 5e-026, Method: Compositional matrix adjust.
+ Identities = 48/48 (100%), Positives = 48/48 (100%), Gaps = 0/48 (0%)
+
+Query  5   ISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           ISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  1   ISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  48
+
+
+>WP_031957567.1 transposase [Acinetobacter baumannii]
+Length=140
+
+ Score = 99.4 bits (246),  Expect = 1e-025, Method: Compositional matrix adjust.
+ Identities = 47/48 (98%), Positives = 48/48 (100%), Gaps = 0/48 (0%)
+
+Query  5   ISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +SALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  1   MSALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  48
+
+
+>WP_025464812.1 transposase [Acinetobacter baumannii]
+Length=140
+
+ Score = 99.4 bits (246),  Expect = 1e-025, Method: Compositional matrix adjust.
+ Identities = 47/48 (98%), Positives = 48/48 (100%), Gaps = 0/48 (0%)
+
+Query  5   ISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +SALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  1   MSALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  48
+
+
+>WP_057046223.1 transposase [Acinetobacter baumannii]
+Length=140
+
+ Score = 99.4 bits (246),  Expect = 1e-025, Method: Compositional matrix adjust.
+ Identities = 47/48 (98%), Positives = 48/48 (100%), Gaps = 0/48 (0%)
+
+Query  5   ISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +SALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  1   MSALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  48
+
+
+>WP_017724869.1 hypothetical protein, partial [Acinetobacter baumannii]
+Length=142
+
+ Score = 99.4 bits (246),  Expect = 1e-025, Method: Compositional matrix adjust.
+ Identities = 47/48 (98%), Positives = 48/48 (100%), Gaps = 0/48 (0%)
+
+Query  5   ISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +SALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  3   LSALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  50
+
+
+>WP_085946158.1 IS4 family transposase [Acinetobacter baumannii]
+Length=354
+
+ Score = 103 bits (258),  Expect = 1e-025, Method: Compositional matrix adjust.
+ Identities = 50/52 (96%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1    MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+            +KLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRG NLE
+Sbjct  211  VKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGVNLE  262
+
+
+>WP_081406288.1 IS4 family transposase [Acinetobacter towneri]
+Length=178
+
+ Score = 100 bits (248),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 47/52 (90%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISAL+LENGELLLVVSP FNA+AI+DYALRWEIETLFSCLKGRGFNLE
+Sbjct  35  VKLYISALRLENGELLLVVSPMFNASAIRDYALRWEIETLFSCLKGRGFNLE  86
+
+
+>WP_000309238.1 hypothetical protein, partial [Acinetobacter baumannii]
+Length=139
+
+ Score = 98.6 bits (244),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 47/47 (100%), Positives = 47/47 (100%), Gaps = 0/47 (0%)
+
+Query  6   SALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           SALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  1   SALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  47
+
+
+>WP_032026514.1 transposase, partial [Acinetobacter baumannii]
+Length=139
+
+ Score = 98.6 bits (244),  Expect = 2e-025, Method: Compositional matrix adjust.
+ Identities = 47/47 (100%), Positives = 47/47 (100%), Gaps = 0/47 (0%)
+
+Query  6   SALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           SALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  1   SALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  47
+
+
+>WP_079284742.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=140
+
+ Score = 98.6 bits (244),  Expect = 3e-025, Method: Compositional matrix adjust.
+ Identities = 47/48 (98%), Positives = 47/48 (98%), Gaps = 0/48 (0%)
+
+Query  5   ISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           I ALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  1   ICALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  48
+
+
+>WP_081403894.1 IS4 family transposase [Acinetobacter sp. 1245593]
+Length=178
+
+ Score = 99.0 bits (245),  Expect = 4e-025, Method: Composition-based stats.
+ Identities = 47/52 (90%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISAL+LENGELLLVVSP FNA+AI+DYALRWEIETLFSCLKGRGFNLE
+Sbjct  35  VKLYISALRLENGELLLVVSPMFNASAIRDYALRWEIETLFSCLKGRGFNLE  86
+
+
+>WP_032023825.1 transposase [Acinetobacter baumannii]
+Length=140
+
+ Score = 97.4 bits (241),  Expect = 7e-025, Method: Compositional matrix adjust.
+ Identities = 46/48 (96%), Positives = 47/48 (98%), Gaps = 0/48 (0%)
+
+Query  5   ISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           + ALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  1   MRALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  48
+
+
+>WP_032021365.1 hypothetical protein, partial [Acinetobacter baumannii]
+Length=124
+
+ Score = 97.1 bits (240),  Expect = 7e-025, Method: Compositional matrix adjust.
+ Identities = 46/46 (100%), Positives = 46/46 (100%), Gaps = 0/46 (0%)
+
+Query  7   ALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           ALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  1   ALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  46
+
+
+>WP_005156621.1 hypothetical protein [Acinetobacter sp. NIPH 284]
+Length=178
+
+ Score = 98.2 bits (243),  Expect = 9e-025, Method: Composition-based stats.
+ Identities = 46/52 (88%), Positives = 52/52 (100%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISAL+LE+GELLLVVSP+FNA+AI+DYALRWEIETLFSCLKGRGFNLE
+Sbjct  35  VKLYISALRLEDGELLLVVSPRFNASAIRDYALRWEIETLFSCLKGRGFNLE  86
+
+
+>WP_031965582.1 hypothetical protein, partial [Acinetobacter baumannii]
+Length=138
+
+ Score = 97.1 bits (240),  Expect = 1e-024, Method: Compositional matrix adjust.
+ Identities = 46/46 (100%), Positives = 46/46 (100%), Gaps = 0/46 (0%)
+
+Query  7   ALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           ALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  1   ALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  46
+
+
+>WP_032022164.1 hypothetical protein, partial [Acinetobacter baumannii]
+Length=138
+
+ Score = 97.1 bits (240),  Expect = 1e-024, Method: Compositional matrix adjust.
+ Identities = 46/46 (100%), Positives = 46/46 (100%), Gaps = 0/46 (0%)
+
+Query  7   ALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           ALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  1   ALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  46
+
+
+>WP_004972878.1 hypothetical protein [Acinetobacter towneri]
+Length=178
+
+ Score = 98.2 bits (243),  Expect = 1e-024, Method: Composition-based stats.
+ Identities = 46/52 (88%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISAL+LE+GELLLVVSP FNA+AI+DYALRWEIETLFSCLKGRGFNLE
+Sbjct  35  VKLYISALRLEDGELLLVVSPMFNASAIRDYALRWEIETLFSCLKGRGFNLE  86
+
+
+>WP_032031869.1 hypothetical protein, partial [Acinetobacter baumannii]
+Length=139
+
+ Score = 97.1 bits (240),  Expect = 1e-024, Method: Compositional matrix adjust.
+ Identities = 46/46 (100%), Positives = 46/46 (100%), Gaps = 0/46 (0%)
+
+Query  7   ALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           ALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  2   ALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  47
+
+
+>WP_004972729.1 hypothetical protein [Acinetobacter towneri]
+Length=178
+
+ Score = 97.8 bits (242),  Expect = 1e-024, Method: Composition-based stats.
+ Identities = 46/52 (88%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISAL+LE+GELLLVVSP FNA+AI+DYALRWEIETLFSCLKGRGFNLE
+Sbjct  35  VKLYISALRLEDGELLLVVSPMFNASAIRDYALRWEIETLFSCLKGRGFNLE  86
+
+
+>WP_053004539.1 hypothetical protein, partial [Acinetobacter baumannii]
+Length=139
+
+ Score = 96.7 bits (239),  Expect = 1e-024, Method: Compositional matrix adjust.
+ Identities = 46/46 (100%), Positives = 46/46 (100%), Gaps = 0/46 (0%)
+
+Query  6   SALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNL  51
+           SALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNL
+Sbjct  1   SALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNL  46
+
+
+>WP_081405063.1 IS4 family transposase [Acinetobacter sp. 88816]
+Length=178
+
+ Score = 97.8 bits (242),  Expect = 1e-024, Method: Composition-based stats.
+ Identities = 46/52 (88%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISAL+LE+GELLLVVSP FNA+AI+DYALRWEIETLFSCLKGRGFNLE
+Sbjct  35  VKLYISALRLEDGELLLVVSPMFNASAIRDYALRWEIETLFSCLKGRGFNLE  86
+
+
+>WP_019383775.1 IS4 family transposase [Acinetobacter venetianus]
+Length=178
+
+ Score = 97.8 bits (242),  Expect = 1e-024, Method: Composition-based stats.
+ Identities = 46/52 (88%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISAL+LE+GELLLVVSP FNA+AI+DYALRWEIETLFSCLKGRGFNLE
+Sbjct  35  VKLYISALRLEDGELLLVVSPMFNASAIRDYALRWEIETLFSCLKGRGFNLE  86
+
+
+>WP_019384314.1 MULTISPECIES: IS4 family transposase [Acinetobacter]
+Length=178
+
+ Score = 97.8 bits (242),  Expect = 1e-024, Method: Composition-based stats.
+ Identities = 46/52 (88%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISAL+LE+GELLLVVSP FNA+AI+DYALRWEIETLFSCLKGRGFNLE
+Sbjct  35  VKLYISALRLEDGELLLVVSPMFNASAIRDYALRWEIETLFSCLKGRGFNLE  86
+
+
+>WP_008941246.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=178
+
+ Score = 97.8 bits (242),  Expect = 1e-024, Method: Composition-based stats.
+ Identities = 46/52 (88%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISAL+LE+GELLLVVSP FNA+AI+DYALRWEIETLFSCLKGRGFNLE
+Sbjct  35  VKLYISALRLEDGELLLVVSPMFNASAIRDYALRWEIETLFSCLKGRGFNLE  86
+
+
+>WP_004758979.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=178
+
+ Score = 97.8 bits (242),  Expect = 1e-024, Method: Composition-based stats.
+ Identities = 46/52 (88%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISAL+LE+GELLLVVSP FNA+AI+DYALRWEIETLFSCLKGRGFNLE
+Sbjct  35  VKLYISALRLEDGELLLVVSPMFNASAIRDYALRWEIETLFSCLKGRGFNLE  86
+
+
+>WP_004756691.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=178
+
+ Score = 97.8 bits (242),  Expect = 1e-024, Method: Composition-based stats.
+ Identities = 46/52 (88%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISAL+LE+GELLLVVSP FNA+AI+DYALRWEIETLFSCLKGRGFNLE
+Sbjct  35  VKLYISALRLEDGELLLVVSPMFNASAIRDYALRWEIETLFSCLKGRGFNLE  86
+
+
+>WP_004642091.1 MULTISPECIES: transposase [Acinetobacter]
+Length=178
+
+ Score = 97.8 bits (242),  Expect = 2e-024, Method: Composition-based stats.
+ Identities = 46/52 (88%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISAL+LE+GELLLVVSP FNA+AI+DYALRWEIETLFSCLKGRGFNLE
+Sbjct  35  VKLYISALRLEDGELLLVVSPMFNASAIRDYALRWEIETLFSCLKGRGFNLE  86
+
+
+>WP_006582339.1 IS4 family transposase [Acinetobacter nosocomialis]
+Length=178
+
+ Score = 97.8 bits (242),  Expect = 2e-024, Method: Composition-based stats.
+ Identities = 46/52 (88%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISAL+LE+GELLLVVSP FNA+AI+DYALRWEIETLFSCLKGRGFNLE
+Sbjct  35  VKLYISALRLEDGELLLVVSPMFNASAIRDYALRWEIETLFSCLKGRGFNLE  86
+
+
+>WP_004812796.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=178
+
+ Score = 97.8 bits (242),  Expect = 2e-024, Method: Composition-based stats.
+ Identities = 46/52 (88%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISAL+LE+GELLLVVSP FNA+AI+DYALRWEIETLFSCLKGRGFNLE
+Sbjct  35  VKLYISALRLEDGELLLVVSPMFNASAIRDYALRWEIETLFSCLKGRGFNLE  86
+
+
+>WP_004906544.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=178
+
+ Score = 97.8 bits (242),  Expect = 2e-024, Method: Composition-based stats.
+ Identities = 46/52 (88%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISAL+LE+GELLLVVSP FNA+AI+DYALRWEIETLFSCLKGRGFNLE
+Sbjct  35  VKLYISALRLEDGELLLVVSPMFNASAIRDYALRWEIETLFSCLKGRGFNLE  86
+
+
+>WP_004798706.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=178
+
+ Score = 97.8 bits (242),  Expect = 2e-024, Method: Composition-based stats.
+ Identities = 46/52 (88%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISAL+LE+GELLLVVSP FNA+AI+DYALRWEIETLFSCLKGRGFNLE
+Sbjct  35  VKLYISALRLEDGELLLVVSPMFNASAIRDYALRWEIETLFSCLKGRGFNLE  86
+
+
+>WP_079269055.1 IS4 family transposase [Acinetobacter baumannii]
+Length=174
+
+ Score = 97.4 bits (241),  Expect = 2e-024, Method: Composition-based stats.
+ Identities = 46/52 (88%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISAL+LE+GELLLVVSP FNA+AI+DYALRWEIETLFSCLKGRGFNLE
+Sbjct  31  VKLYISALRLEDGELLLVVSPMFNASAIRDYALRWEIETLFSCLKGRGFNLE  82
+
+
+>WP_080781189.1 IS4 family transposase [Acinetobacter pittii]
+Length=178
+
+ Score = 97.4 bits (241),  Expect = 2e-024, Method: Composition-based stats.
+ Identities = 46/52 (88%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISAL+LE+GELLLVVSP FNA+AI+DYALRWEIETLFSCLKGRGFNLE
+Sbjct  35  VKLYISALRLEDGELLLVVSPMFNASAIRDYALRWEIETLFSCLKGRGFNLE  86
+
+
+>WP_020992399.1 MULTISPECIES: hypothetical protein [Acinetobacter calcoaceticus/baumannii 
+complex]
+Length=178
+
+ Score = 97.4 bits (241),  Expect = 2e-024, Method: Composition-based stats.
+ Identities = 46/52 (88%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISAL+LE+GELLLVVSP FNA+AI+DYALRWEIETLFSCLKGRGFNLE
+Sbjct  35  VKLYISALRLEDGELLLVVSPMFNASAIRDYALRWEIETLFSCLKGRGFNLE  86
+
+
+>WP_004762263.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=178
+
+ Score = 97.4 bits (241),  Expect = 2e-024, Method: Composition-based stats.
+ Identities = 46/52 (88%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISAL+LE+GELLLVVSP FNA+AI+DYALRWEIETLFSCLKGRGFNLE
+Sbjct  35  VKLYISALRLEDGELLLVVSPMFNASAIRDYALRWEIETLFSCLKGRGFNLE  86
+
+
+>WP_004682113.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=178
+
+ Score = 97.4 bits (241),  Expect = 2e-024, Method: Composition-based stats.
+ Identities = 46/52 (88%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISAL+LE+GELLLVVSP FNA+AI+DYALRWEIETLFSCLKGRGFNLE
+Sbjct  35  VKLYISALRLEDGELLLVVSPMFNASAIRDYALRWEIETLFSCLKGRGFNLE  86
+
+
+>WP_004909800.1 hypothetical protein [Acinetobacter junii]
+Length=178
+
+ Score = 97.4 bits (241),  Expect = 2e-024, Method: Composition-based stats.
+ Identities = 46/52 (88%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISAL+LE+GELLLVVSP FNA+AI+DYALRWEIETLFSCLKGRGFNLE
+Sbjct  35  VKLYISALRLEDGELLLVVSPMFNASAIRDYALRWEIETLFSCLKGRGFNLE  86
+
+
+>WP_086373735.1 transposase [Acinetobacter baumannii]
+Length=168
+
+ Score = 97.1 bits (240),  Expect = 2e-024, Method: Composition-based stats.
+ Identities = 46/52 (88%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISAL+LE+GELLLVVSP FNA+AI+DYALRWEIETLFSCLKGRGFNLE
+Sbjct  25  VKLYISALRLEDGELLLVVSPMFNASAIRDYALRWEIETLFSCLKGRGFNLE  76
+
+
+>WP_086044912.1 transposase [Acinetobacter lwoffii]
+Length=168
+
+ Score = 97.1 bits (240),  Expect = 2e-024, Method: Composition-based stats.
+ Identities = 46/52 (88%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISAL+LE+GELLLVVSP FNA+AI+DYALRWEIETLFSCLKGRGFNLE
+Sbjct  25  VKLYISALRLEDGELLLVVSPMFNASAIRDYALRWEIETLFSCLKGRGFNLE  76
+
+
+>WP_085940659.1 transposase [Acinetobacter baumannii]
+Length=168
+
+ Score = 97.1 bits (240),  Expect = 2e-024, Method: Composition-based stats.
+ Identities = 46/52 (88%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISAL+LE+GELLLVVSP FNA+AI+DYALRWEIETLFSCLKGRGFNLE
+Sbjct  25  VKLYISALRLEDGELLLVVSPMFNASAIRDYALRWEIETLFSCLKGRGFNLE  76
+
+
+>WP_081405618.1 transposase [Acinetobacter sp. 25977_6]
+Length=168
+
+ Score = 97.1 bits (240),  Expect = 2e-024, Method: Composition-based stats.
+ Identities = 46/52 (88%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISAL+LE+GELLLVVSP FNA+AI+DYALRWEIETLFSCLKGRGFNLE
+Sbjct  25  VKLYISALRLEDGELLLVVSPMFNASAIRDYALRWEIETLFSCLKGRGFNLE  76
+
+
+>WP_086267283.1 transposase [Acinetobacter baumannii]
+Length=168
+
+ Score = 97.1 bits (240),  Expect = 2e-024, Method: Composition-based stats.
+ Identities = 46/52 (88%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISAL+LE+GELLLVVSP FNA+AI+DYALRWEIETLFSCLKGRGFNLE
+Sbjct  25  VKLYISALRLEDGELLLVVSPMFNASAIRDYALRWEIETLFSCLKGRGFNLE  76
+
+
+>WP_081310234.1 transposase [Acinetobacter pittii]
+Length=149
+
+ Score = 96.3 bits (238),  Expect = 3e-024, Method: Compositional matrix adjust.
+ Identities = 45/52 (87%), Positives = 50/52 (96%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISAL+LE+GELLLVVSP  NA+AI+DYALRWEIETLFSCLKGRGFNLE
+Sbjct  6   VKLYISALRLEDGELLLVVSPMLNASAIRDYALRWEIETLFSCLKGRGFNLE  57
+
+
+>WP_086240215.1 transposase [Acinetobacter baumannii]
+Length=168
+
+ Score = 96.7 bits (239),  Expect = 3e-024, Method: Composition-based stats.
+ Identities = 46/52 (88%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISAL+LE+GELLLVVSP FNA+AI+DYALRWEIETLFSCLKGRGFNLE
+Sbjct  25  VKLYISALRLEDGELLLVVSPMFNASAIRDYALRWEIETLFSCLKGRGFNLE  76
+
+
+>WP_079275940.1 IS4 family transposase [Acinetobacter baumannii]
+Length=178
+
+ Score = 97.1 bits (240),  Expect = 3e-024, Method: Composition-based stats.
+ Identities = 46/52 (88%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISAL+LE+GELLLVVSP FNA+AI+DYALRWEIETLFSCLKGRGFNLE
+Sbjct  35  VKLYISALRLEDGELLLVVSPIFNASAIRDYALRWEIETLFSCLKGRGFNLE  86
+
+
+>WP_079275939.1 IS4 family transposase [Acinetobacter baumannii]
+Length=178
+
+ Score = 97.1 bits (240),  Expect = 3e-024, Method: Composition-based stats.
+ Identities = 46/52 (88%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISAL+LE+GELLLVVSP FNA+AI+DYALRWEIETLFSCLKGRGFNLE
+Sbjct  35  VKLYISALRLEDGELLLVVSPIFNASAIRDYALRWEIETLFSCLKGRGFNLE  86
+
+
+>WP_000396114.1 hypothetical protein, partial [Acinetobacter baumannii]
+Length=148
+
+ Score = 95.9 bits (237),  Expect = 4e-024, Method: Compositional matrix adjust.
+ Identities = 46/52 (88%), Positives = 48/52 (92%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISALQL+    LLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  5   VKLYISALQLKMESFLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  56
+
+
+>WP_003111180.1 hypothetical protein, partial [Acinetobacter baumannii]
+Length=137
+
+ Score = 95.5 bits (236),  Expect = 4e-024, Method: Compositional matrix adjust.
+ Identities = 45/45 (100%), Positives = 45/45 (100%), Gaps = 0/45 (0%)
+
+Query  8   LQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           LQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  1   LQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  45
+
+
+>WP_031976929.1 hypothetical protein, partial [Acinetobacter baumannii]
+Length=137
+
+ Score = 95.1 bits (235),  Expect = 5e-024, Method: Compositional matrix adjust.
+ Identities = 45/45 (100%), Positives = 45/45 (100%), Gaps = 0/45 (0%)
+
+Query  8   LQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           LQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  1   LQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  45
+
+
+>WP_079769623.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=138
+
+ Score = 95.1 bits (235),  Expect = 5e-024, Method: Compositional matrix adjust.
+ Identities = 45/45 (100%), Positives = 45/45 (100%), Gaps = 0/45 (0%)
+
+Query  7   ALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNL  51
+           ALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNL
+Sbjct  1   ALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNL  45
+
+
+>WP_004571403.1 hypothetical protein, partial [Acinetobacter baumannii]
+Length=138
+
+ Score = 95.1 bits (235),  Expect = 6e-024, Method: Compositional matrix adjust.
+ Identities = 45/45 (100%), Positives = 45/45 (100%), Gaps = 0/45 (0%)
+
+Query  7   ALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNL  51
+           ALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNL
+Sbjct  1   ALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNL  45
+
+
+>WP_050437628.1 hypothetical protein, partial [Acinetobacter baumannii]
+Length=126
+
+ Score = 94.0 bits (232),  Expect = 1e-023, Method: Compositional matrix adjust.
+ Identities = 44/44 (100%), Positives = 44/44 (100%), Gaps = 0/44 (0%)
+
+Query  9   QLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           QLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  1   QLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  44
+
+
+>WP_078390467.1 MULTISPECIES: hypothetical protein [Acinetobacter]
+Length=174
+
+ Score = 95.5 bits (236),  Expect = 1e-023, Method: Composition-based stats.
+ Identities = 45/52 (87%), Positives = 50/52 (96%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISAL+LE+GELLLVVSP  NA+AI+DYALRWEIETLFSCLKGRGFNLE
+Sbjct  31  VKLYISALRLEDGELLLVVSPMLNASAIRDYALRWEIETLFSCLKGRGFNLE  82
+
+
+>WP_000302509.1 hypothetical protein, partial [Acinetobacter baumannii]
+Length=136
+
+ Score = 94.0 bits (232),  Expect = 1e-023, Method: Compositional matrix adjust.
+ Identities = 44/44 (100%), Positives = 44/44 (100%), Gaps = 0/44 (0%)
+
+Query  9   QLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           QLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  1   QLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  44
+
+
+>WP_005249582.1 hypothetical protein [Acinetobacter sp. CIP 102136]
+Length=181
+
+ Score = 95.1 bits (235),  Expect = 2e-023, Method: Composition-based stats.
+ Identities = 45/52 (87%), Positives = 50/52 (96%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISAL+LE+GELLLVVSP  NA+AI+DYALRWEIETLFSCLKGRGFNLE
+Sbjct  38  VKLYISALRLEDGELLLVVSPMLNASAIRDYALRWEIETLFSCLKGRGFNLE  89
+
+
+>WP_005103317.1 hypothetical protein [Acinetobacter lwoffii]
+Length=178
+
+ Score = 95.1 bits (235),  Expect = 2e-023, Method: Composition-based stats.
+ Identities = 45/52 (87%), Positives = 50/52 (96%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISAL+LE+GELLLVVSP  NA+AI+DYALRWEIETLFSCLKGRGFNLE
+Sbjct  35  VKLYISALRLEDGELLLVVSPMLNASAIRDYALRWEIETLFSCLKGRGFNLE  86
+
+
+>WP_032068248.1 hypothetical protein, partial [Acinetobacter baumannii]
+Length=136
+
+ Score = 94.0 bits (232),  Expect = 2e-023, Method: Compositional matrix adjust.
+ Identities = 44/44 (100%), Positives = 44/44 (100%), Gaps = 0/44 (0%)
+
+Query  9   QLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           QLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  1   QLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  44
+
+
+>WP_031989971.1 hypothetical protein, partial [Acinetobacter baumannii]
+Length=136
+
+ Score = 94.0 bits (232),  Expect = 2e-023, Method: Compositional matrix adjust.
+ Identities = 44/44 (100%), Positives = 44/44 (100%), Gaps = 0/44 (0%)
+
+Query  9   QLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           QLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  1   QLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  44
+
+
+>WP_076612069.1 IS4 family transposase ISAba33 [Acinetobacter baumannii]
+Length=363
+
+ Score = 98.2 bits (243),  Expect = 3e-023, Method: Compositional matrix adjust.
+ Identities = 46/52 (88%), Positives = 51/52 (98%), Gaps = 0/52 (0%)
+
+Query  1    MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+            +KLYISAL+LE+GELLLVVSP FNA+AI+DYALRWEIETLFSCLKGRGFNLE
+Sbjct  220  VKLYISALRLEDGELLLVVSPMFNASAIRDYALRWEIETLFSCLKGRGFNLE  271
+
+
+>WP_016165513.1 hypothetical protein [Acinetobacter tandoii]
+Length=178
+
+ Score = 94.4 bits (233),  Expect = 3e-023, Method: Composition-based stats.
+ Identities = 45/52 (87%), Positives = 50/52 (96%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISAL+LE+GELLLVVSP FNA+AI+DYALRWEIETLFSCLKGR FNLE
+Sbjct  35  VKLYISALRLEDGELLLVVSPMFNASAIRDYALRWEIETLFSCLKGRRFNLE  86
+
+
+>WP_031968792.1 hypothetical protein, partial [Acinetobacter baumannii]
+Length=137
+
+ Score = 92.8 bits (229),  Expect = 4e-023, Method: Compositional matrix adjust.
+ Identities = 44/45 (98%), Positives = 44/45 (98%), Gaps = 0/45 (0%)
+
+Query  8   LQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           LQLENGELLLVV PQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  1   LQLENGELLLVVYPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  45
+
+
+>WP_081405062.1 IS4 family transposase [Acinetobacter sp. 88816]
+Length=178
+
+ Score = 94.0 bits (232),  Expect = 4e-023, Method: Composition-based stats.
+ Identities = 45/52 (87%), Positives = 50/52 (96%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KL ISAL+LE+GELLLVVSP FNA+AI+DYALRWEIETLFSCLKGRGFNLE
+Sbjct  35  VKLNISALRLEDGELLLVVSPMFNASAIRDYALRWEIETLFSCLKGRGFNLE  86
+
+
+>WP_080602476.1 IS4 family transposase [Acinetobacter venetianus]
+Length=178
+
+ Score = 94.0 bits (232),  Expect = 4e-023, Method: Composition-based stats.
+ Identities = 45/52 (87%), Positives = 49/52 (94%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISAL+L +GELLLVVSP FNA+AI DYALRWEIETLFSCLKGRGFNLE
+Sbjct  35  VKLYISALRLGDGELLLVVSPMFNASAIGDYALRWEIETLFSCLKGRGFNLE  86
+
+
+>WP_015060802.1 IS4 family transposase [Acinetobacter baumannii]
+ YP_006961785.1 transposase ORF2 [Acinetobacter baumannii]
+Length=178
+
+ Score = 93.6 bits (231),  Expect = 5e-023, Method: Composition-based stats.
+ Identities = 45/52 (87%), Positives = 50/52 (96%), Gaps = 0/52 (0%)
+
+Query  1   MKLYISALQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           +KLYISAL+LE+GELLLVVS  FNA+AI+DYALRWEIETLFSCLKGRGFNLE
+Sbjct  35  VKLYISALRLEDGELLLVVSRMFNASAIRDYALRWEIETLFSCLKGRGFNLE  86
+
+
+>WP_031979080.1 hypothetical protein, partial [Acinetobacter baumannii]
+Length=137
+
+ Score = 92.0 bits (227),  Expect = 9e-023, Method: Compositional matrix adjust.
+ Identities = 44/45 (98%), Positives = 44/45 (98%), Gaps = 0/45 (0%)
+
+Query  8   LQLENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           LQLENGELLLVVS QFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  1   LQLENGELLLVVSSQFNANAIQDYALRWEIETLFSCLKGRGFNLE  45
+
+
+>WP_003305971.1 hypothetical protein, partial [Acinetobacter baumannii]
+Length=135
+
+ Score = 92.0 bits (227),  Expect = 9e-023, Method: Compositional matrix adjust.
+ Identities = 43/43 (100%), Positives = 43/43 (100%), Gaps = 0/43 (0%)
+
+Query  10  LENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           LENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  1   LENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  43
+
+
+>WP_079866693.1 IS4 family transposase, partial [Acinetobacter baumannii]
+Length=126
+
+ Score = 90.5 bits (223),  Expect = 2e-022, Method: Compositional matrix adjust.
+ Identities = 42/42 (100%), Positives = 42/42 (100%), Gaps = 0/42 (0%)
+
+Query  11  ENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           ENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  1   ENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  42
+
+
+>WP_046128234.1 hypothetical protein, partial [Acinetobacter baumannii]
+Length=124
+
+ Score = 90.5 bits (223),  Expect = 3e-022, Method: Compositional matrix adjust.
+ Identities = 42/42 (100%), Positives = 42/42 (100%), Gaps = 0/42 (0%)
+
+Query  11  ENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           ENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  1   ENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  42
+
+
+>WP_000363142.1 hypothetical protein, partial [Acinetobacter baumannii]
+Length=134
+
+ Score = 90.5 bits (223),  Expect = 3e-022, Method: Compositional matrix adjust.
+ Identities = 42/42 (100%), Positives = 42/42 (100%), Gaps = 0/42 (0%)
+
+Query  11  ENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           ENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  1   ENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  42
+
+
+>WP_031959964.1 hypothetical protein, partial [Acinetobacter baumannii]
+Length=135
+
+ Score = 89.4 bits (220),  Expect = 1e-021, Method: Compositional matrix adjust.
+ Identities = 42/43 (98%), Positives = 42/43 (98%), Gaps = 0/43 (0%)
+
+Query  10  LENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           LENGELLLVVSPQ NANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  1   LENGELLLVVSPQVNANAIQDYALRWEIETLFSCLKGRGFNLE  43
+
+
+>WP_000557695.1 transposase [Acinetobacter baumannii]
+Length=138
+
+ Score = 89.4 bits (220),  Expect = 1e-021, Method: Compositional matrix adjust.
+ Identities = 41/43 (95%), Positives = 42/43 (98%), Gaps = 0/43 (0%)
+
+Query  10  LENGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  52
+           + NGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE
+Sbjct  4   VRNGELLLVVSPQFNANAIQDYALRWEIETLFSCLKGRGFNLE  46
+
+
+
+Lambda      K        H
+   0.324    0.139    0.405 
+
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+
+Effective search space used: 786116384982
+
+
+  Database: NCBI Protein Reference Sequences
+    Posted date:  May 29, 2017 12:00 AM
+  Number of letters in database: 31,412,196,622
+  Number of sequences in database:  82,027,677
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40
