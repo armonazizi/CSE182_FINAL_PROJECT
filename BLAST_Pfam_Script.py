@@ -103,21 +103,27 @@ def find_nth(haystack, needle, n):
     return start
 
 def parseBLAST(file):
+	length = 0
+	with open(file, 'r') as x:
+		for line in x:
+			length += 1
+
 	with open(file, 'r') as o, open('BLAST_keywords.txt', 'w') as i:
-		count = 0
 		keyword_dict = {}
+		count = 0
 		for line in o:
 			count += 1
 			if count == 1:
 				i.write(line)
-			elif line[0] == '>':
+			elif line[0] == '>' or count == length:
 				max_occ = 0
 				max_keyword = 'null'
 				for key in keyword_dict:
 					if int(keyword_dict[key]) > max_occ:
 						max_keyword = key
+						max_occ = int(keyword_dict[key])
 				i.write(max_keyword + '\n')
-				keyword_dict = {} # Reset to dictionary for next blastoutput
+				keyword_dict.clear() # Reset to dictionary for next blastoutput
 				i.write(line)
 			else:
 				starte = find_nth(line, '\t', 2) + 1
@@ -130,6 +136,7 @@ def parseBLAST(file):
 						keyword_dict[line[startk:endk]] = str(value)
 					else:
 						keyword_dict[line[startk:endk]] = '1'
+
 	return
 
 def main():
