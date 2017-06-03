@@ -2,7 +2,7 @@ SEQUENCE_ID	BLAST_KEYS	PFAM_KEYS	PROSITE_KEYS
 ABO10995	leucine--tRNA ligase [Acinetobacter baumannii]	tRNA-synt_1_2	AA_TRNA_LIGASE_I
 ABO10618	hypothetical protein [Acinetobacter baumannii]	DUF3861	NULL
 ABO10621	glutathione S-transferase [Acinetobacter baumannii]	GST_N	GST_NTER;GST_CTER
-ABO10632	null	null	NULL
+ABO10632	membrane-bound ATP synthase F0 sector, subunit a [Acinetobacter baumannii]	null	NULL
 ABO10642	glutathione peroxidase [Acinetobacter baumannii]	GSHPx	GLUTATHIONE_PEROXID_3;GLUTATHIONE_PEROXID_1
 ABO11008	hypothetical protein [Acinetobacter baumannii]	null	NULL
 ABO10646	EamA/RhaT family transporter, partial [Acinetobacter baumannii]	EamA	NULL
