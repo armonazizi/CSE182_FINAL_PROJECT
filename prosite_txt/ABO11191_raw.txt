@@ -1,0 +1,63 @@
+[](http://www.isb-sib.ch "SIB Swiss Institute of Bioinformatics" )
+[](http://www.expasy.org "ExPASy - SIB Bioinformatics Resource Portal" )
+
+# [PROSITE](http://prosite.expasy.org)
+
+[Home](http://prosite.expasy.org "Home page" ) | [Contact](/contact "Contact"
+)
+
+![Prosite logo](/images/prosite/prosite.gif) |
+
+  * [Home](/prosite.html)
+  * [ScanProsite](/scanprosite/)
+  * [ProRule](/prorule.html)
+  * [Documents](/prosite_doc.html)
+  * [Downloads](ftp://ftp.expasy.org/databases/prosite/)
+  * [Links](/prosite_link.html)
+  * [Funding](/prosite_funding.html)
+
+  
+  
+---|---  
+ScanProsite tool  
+  
+  
+
+...Scanning: please wait...
+
+    
+    
+    Output format: Text
+    
+    Hits for all PROSITE (release 2017_05) motifs on sequence USERSEQ1 :
+    
+    found: 1 hit in 1 sequence
+    
+    [Graphical view](http://prosite.expasy.org/cgi-bin/prosite/ScanView.cgi?scanfile=609019126024.scan.gz) (graphical view with feature detection)
+    [shaded alignment of hits](../aligner?color=1&zgff=609019126024.scan.gz)
+    
+    Hits for PS50887|GGDEF (profile) GGDEF domain profile :
+    
+    
+    >USERSEQ1  (323 aa)
+    MIGSFWAEFGYWVTSELQNALLLLPIILNIPPYLKIKNHLKGNRIYIKAIDFLPLFAVLISIGVSYYDSGPGSLLYPIAA
+    LIWCAIRYKPIIVALITSFTSAYIIYHVSGHYLLLYPQDYLGNTISIRIGLIMMTVAPLTVSSISALHSELIQKLQHAIA
+    HDELTSSLTRRQFLQSVRLLQEKVQKENKTSAFFMLDVDHFKKVNDSYGHLIGDRALQTCVTTIQNILHPHDLLGRFGGE
+    EFAIFIPDTTREAAFELAERIRIQISQQPIYVYGKLPIFVQVSIGISLYSPSYHRSIESLFKEADDALYQAKRQGRNRVF
+    ISL
+          189 - 323:      score=34.755
+            KTSAFFMLDVDHFKKVNDSYGHLIGDRALQTCVTTIQNILHPHDLLGRFGGEEFAIFIPD
+            TTREAAFELAERIRIQISQQPIYVygklPIFVQVSIGISLYSPSyhRSIESLFKEADDAL
+            YQAKRQGRNRVFISL-
+    
+    
+    
+
+  
+
+[SIB Swiss Institute of Bioinformatics](http://www.isb-sib.ch) |
+[Disclaimer](http://www.expasy.org/disclaimer.html)
+
+Back to the Top
+
+

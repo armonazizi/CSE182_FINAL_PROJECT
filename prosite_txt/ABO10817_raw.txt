@@ -1,0 +1,82 @@
+[](http://www.isb-sib.ch "SIB Swiss Institute of Bioinformatics" )
+[](http://www.expasy.org "ExPASy - SIB Bioinformatics Resource Portal" )
+
+# [PROSITE](http://prosite.expasy.org)
+
+[Home](http://prosite.expasy.org "Home page" ) | [Contact](/contact "Contact"
+)
+
+![Prosite logo](/images/prosite/prosite.gif) |
+
+  * [Home](/prosite.html)
+  * [ScanProsite](/scanprosite/)
+  * [ProRule](/prorule.html)
+  * [Documents](/prosite_doc.html)
+  * [Downloads](ftp://ftp.expasy.org/databases/prosite/)
+  * [Links](/prosite_link.html)
+  * [Funding](/prosite_funding.html)
+
+  
+  
+---|---  
+ScanProsite tool  
+  
+  
+
+...Scanning: please wait...
+
+    
+    
+    Output format: Text
+    
+    Hits for all PROSITE (release 2017_05) motifs on sequence USERSEQ1 :
+    
+    found: 2 hits in 1 sequence
+    
+    [Graphical view](http://prosite.expasy.org/cgi-bin/prosite/ScanView.cgi?scanfile=846889624853.scan.gz) (graphical view with feature detection)
+    
+    >USERSEQ1  (997 aa)
+    MAAEIDISLLEPYYSLDGEHYKHVSGTIFRNGAFNKLFSECLPQLLQVLKQSDSILVFDGSLAIQRELVFKFLGQLADQK
+    VFKKCPAEISDGFYQHPCIQQIQQLFGVLKKYAEQFDQLHIYLKAYLCVEVKKRLPQVLQNKGETTFSQQIRTLSEALKG
+    EQGQRFAVFVQARYPLILVDEFQDTNQDQDDMLASIWRHPERYQKGCMIMVGDRKQAIYGFRGGDMLTFLNAYKDIQAKH
+    GREYKLIHNHRSVADLVEVVDALFQRQIDFGEQVQYDPIRAGTRPHPVLIDQNQPNPHPLRWLMLKDKETEAQQVAWKIR
+    DLLNQSHAGQLYFQKDAQTQTLNEDDIAVLSRNHDGLDKVQFELERLGIRVNRPSKRSVFDCTIAQDVGALLTAILHPYD
+    EAKVKRALISRLFAMDLKQLLQLEQTAEGLSQFMTGFDTIRELWSAQGFLVAWQQCLNQFGIWKNLVAVQSKDNERVVVN
+    LRHLTEILSQHSEKYQGAQNLYHWYLKQLQSPLDREWELERRLSSEAGVQLMTIHQSKGLEFKIVFLLGADKPFRENNKT
+    LNFSTQDITVPESAQTLTQRVVAIADKTYLNEIELKQHEERALAEQNRLWYVALTRASHRVYALLQDTDGKSVSGLAFWK
+    NRAEPFQHRCCTDEIILEQPPAARHLNQHINIIEIQAQHFPDQRFYSRGKTSFSYLAQHLRHKVGTDLLASQSHEAVLAE
+    DELDQVISVEAPAAQPINWIKSNFPRGTLAGNFLHEIFEHIDFQCSDEWVSEIRRRFKNDYSSLWQDLLIKYQESFPEEQ
+    EAEYSLYHAVAEWLQEILSTPLYQGFRLNRLQPEHYLSECPFYLALSDRVLAMKRIQQLFAEYGMEMPELLEARSARYLN
+    GSIDLVYFDGQRYHIADYKSNYLGENLADYSVESIAQSMSLASYWLQAGLYLVALHRYLKVKMQNYDIEQHLGGATYLYL
+    RGMNGEAEQGYYYWQPSTEFVLRLDAILGYFAEDKIA
+    
+       >PS51198|UVRD_HELICASE_ATP_BIND (profile) UvrD-like DNA helicase ATP-binding domain profile :
+    
+          1 - 253:        score=17.440
+            ------------------------------------------------------------
+            --MAAEIDISLLEPYYSLdgehykhvsgtIFRNGAFNKLFSECLPQLLQVLKQSDSILVF
+            DGSlaIQRELVFKFLGQLADQKvfkkcpaeiSDGFYQHPCIQQIQQLFGVLKKYAEQFDQ
+            LHIYLKAYLC------VEVKKRLPQVLQNKGETTFSQQIRTLSEALkgEQGQRFAVFVQA
+            RYPLILVDEFQDTNQDQDDMLASIWRHPERyqkgcMIMVGDRKQAIYGFRGGDMLTFLNA
+            YKDIQAKhgREYKLIHNHRSV
+    
+       >PS51217|UVRD_HELICASE_CTER (profile) UvrD-like DNA helicase C-terminal domain profile :
+    
+          269 - 539:      score=12.815
+            DFGEQVQYDPIRAGTRPHPVLIDQNQPNPHPLRWLMLKDKETEAQQVAWKIRDLLNqsha
+            gqlyfqkdaqTQTLNEDDIAVLSRNHDGLDKVQFELERLGIRVNRPSKRSVFDCTIAQDV
+            GALLTAILHPYDEAKVKRALISRLFAMDLKQLLQLEQTAEG------------LSQFMTG
+            FDTIRELWSAQGFLVAWQQCLNQFgiwkNLVAVQskdnERVVVNLRHLTEILSQHSE---
+            ---KYQGAQNLYHWYLKQLQSPLDREWELErRLSSEAGVQLMTIHQSKG
+    
+    
+    
+
+  
+
+[SIB Swiss Institute of Bioinformatics](http://www.isb-sib.ch) |
+[Disclaimer](http://www.expasy.org/disclaimer.html)
+
+Back to the Top
+
+

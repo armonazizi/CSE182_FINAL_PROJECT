@@ -1,0 +1,71 @@
+[](http://www.isb-sib.ch "SIB Swiss Institute of Bioinformatics" )
+[](http://www.expasy.org "ExPASy - SIB Bioinformatics Resource Portal" )
+
+# [PROSITE](http://prosite.expasy.org)
+
+[Home](http://prosite.expasy.org "Home page" ) | [Contact](/contact "Contact"
+)
+
+![Prosite logo](/images/prosite/prosite.gif) |
+
+  * [Home](/prosite.html)
+  * [ScanProsite](/scanprosite/)
+  * [ProRule](/prorule.html)
+  * [Documents](/prosite_doc.html)
+  * [Downloads](ftp://ftp.expasy.org/databases/prosite/)
+  * [Links](/prosite_link.html)
+  * [Funding](/prosite_funding.html)
+
+  
+  
+---|---  
+ScanProsite tool  
+  
+  
+
+...Scanning: please wait...
+
+    
+    
+    Output format: Text
+    
+    Hits for all PROSITE (release 2017_05) motifs on sequence USERSEQ1 :
+    
+    found: 3 hits in 1 sequence
+    
+    [Graphical view](http://prosite.expasy.org/cgi-bin/prosite/ScanView.cgi?scanfile=340045424344.scan.gz) (graphical view with feature detection)
+    
+    >USERSEQ1  (315 aa)
+    MSNENQKPTSPTEQAQSSDKVSPFLSSPLPQGTPQGQQQSLQQTLTDTPVSGSVPKYNLPRGAGNTGNVGETTHFGYSTV
+    RTEDKAQKVAEVFHSVASKYDLMNDLMSFGIHRLWKRFAINMSGVRRGQHVLDIAGGTGDLAKVFSREVGPQGHVVLSDI
+    NESMLNVGRDRLIDAGCTNVDFVLANAETLEPFADNSFDLVTISFGLRNVTDKDAALASMFRVLKPGGRLLVLEFSKPVF
+    EPFSKLYDLYSFTALPIMGKLVANDSESYKYLAESIRMHPDQRTLKGMMENAGFQNCDYHNLTGGIVAVHRGFKL
+    
+       >PS51608|SAM_MT_UBIE (profile) UbiE family SAM-binding methyltransferase profile :
+    
+          84 - 314:       score=98.022
+            DKAQKVAEVFHSVASKYDLMNDLMSFGIHRLWKRFAINMSGVRRGQHVLDIAGGTGDLAK
+            VFSREVGPQGHVVLSDINESMLNVGRDRLIDAGCTNVDFVLANAETLePFADNSFDLVTI
+            SFGLRNVTDKDAALASMFRVLKPGGRLLVLEFSKPVFEPFSKLYDLYSFTALPIMGKLVA
+            NDSESYKYLAESIRMHPDQRTLKGMMENAGFQNCDYHNLTGGIVAVHRGFK
+    
+    
+       >PS01183|UBIE_1 (pattern) ubiE/COQ5 methyltransferase family signature 1 :
+    
+          100 - 115:     [confidence level: (0)]  YDlMNdlMSfgiHrlW
+    
+       >PS01184|UBIE_2 (pattern) ubiE/COQ5 methyltransferase family signature 2 :
+    
+          222 - 236:     [confidence level: (0)]  RVLKPGGrLlvLEfS
+    
+    
+    
+
+  
+
+[SIB Swiss Institute of Bioinformatics](http://www.isb-sib.ch) |
+[Disclaimer](http://www.expasy.org/disclaimer.html)
+
+Back to the Top
+
+

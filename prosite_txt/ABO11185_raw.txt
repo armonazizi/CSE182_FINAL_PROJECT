@@ -1,0 +1,69 @@
+[](http://www.isb-sib.ch "SIB Swiss Institute of Bioinformatics" )
+[](http://www.expasy.org "ExPASy - SIB Bioinformatics Resource Portal" )
+
+# [PROSITE](http://prosite.expasy.org)
+
+[Home](http://prosite.expasy.org "Home page" ) | [Contact](/contact "Contact"
+)
+
+![Prosite logo](/images/prosite/prosite.gif) |
+
+  * [Home](/prosite.html)
+  * [ScanProsite](/scanprosite/)
+  * [ProRule](/prorule.html)
+  * [Documents](/prosite_doc.html)
+  * [Downloads](ftp://ftp.expasy.org/databases/prosite/)
+  * [Links](/prosite_link.html)
+  * [Funding](/prosite_funding.html)
+
+  
+  
+---|---  
+ScanProsite tool  
+  
+  
+
+...Scanning: please wait...
+
+    
+    
+    Output format: Text
+    
+    Hits for all PROSITE (release 2017_05) motifs on sequence USERSEQ1 :
+    
+    found: 2 hits in 1 sequence
+    
+    [Graphical view](http://prosite.expasy.org/cgi-bin/prosite/ScanView.cgi?scanfile=460835425871.scan.gz) (graphical view with feature detection)
+    
+    >USERSEQ1  (873 aa)
+    MNSSPTTTSNNVNDNDVTNNGNGSTSGSGTGNGSGDGLLNGAASGNGEHNYGIGNGIADDASITAPLSIPINLAGNSITL
+    IGDSSSSSVNNSATNTSNTVNDNDTTYNGNGSGTGNGSGDGLLNGIGSGNGEQNYGIGNGIADDASITAPITLPINLSGN
+    SITLIGNSSASSVNSSPTTTSNTVNDNDTTYNGNGTGDSGVSALGGSGNGSGDGAGNGIASGNGEHNYGIGNGNGDDVDI
+    TAPITGVLNISGNSFTLIGNSSSSSVNTAPTTTSNTVNDNDTIDNGNSGGTGSGSGNGSGDGLLNGAASGNGEHNYGIGN
+    GNGDDVDITAPITGVFNFSGNSFSLIGNSSSSSINTAPTTTTNTVNDNDVTDNGNDGGGLVGGSSGNGSGDGLLNGAASG
+    NGEHNYGIGNGNGDDADFTFPLTGVLNFSGNSLSGFGSSSSDSVNVAPTTATNTVNDNDTIDNANTGGLGGGSGNGSGDG
+    LLNGAASGNGEHNYGIGNGNGDDADFTLPFTGGLNILGNALSGIGGSSTDSINISPTTTSNTVNDNDTTNNGNTSGGVIG
+    SSDSGNGSGDGLLNGISSGNGEHNYGIGNGNGDDVDVVAPITTPLNVLGNSFSFIGGEGTGDILGPITGVIGGIGGDGDI
+    LSPITGIIGGIGGIGGDLGDNPLTGIIQSGIDVLQNLESLKTGLINTGIDTIAGTIIGVFPDAEHPVGDFADLGKLLFET
+    SRDSVNGTLEAISDLAGADLEGASGSITGVIDTLITNGSTASTIIQHIVGDDLVTENGGLLGSITTIIGGVDSGDGGLLG
+    GLDGLININYGDSDNSNSVDVEDILGNILGSVGSNQGIAVGEPDPTGGSLIHTISLNTVNQLTDQLLHALPTV
+    
+       >PS00227|TUBULIN (pattern) Tubulin subunits alpha, beta, and gamma signature :
+    
+          288 - 294:     [confidence level: (-1)]  SGGTGSG
+    
+       >PS00018|EF_HAND_1 (pattern) EF-hand calcium-binding domain :
+    
+          812 - 824:     [confidence level: (-1)]  DSDNSNSVDveDI
+    
+    
+    
+
+  
+
+[SIB Swiss Institute of Bioinformatics](http://www.isb-sib.ch) |
+[Disclaimer](http://www.expasy.org/disclaimer.html)
+
+Back to the Top
+
+

@@ -1,0 +1,47 @@
+[](http://www.isb-sib.ch "SIB Swiss Institute of Bioinformatics" )
+[](http://www.expasy.org "ExPASy - SIB Bioinformatics Resource Portal" )
+
+# [PROSITE](http://prosite.expasy.org)
+
+[Home](http://prosite.expasy.org "Home page" ) | [Contact](/contact "Contact"
+)
+
+![Prosite logo](/images/prosite/prosite.gif) |
+
+  * [Home](/prosite.html)
+  * [ScanProsite](/scanprosite/)
+  * [ProRule](/prorule.html)
+  * [Documents](/prosite_doc.html)
+  * [Downloads](ftp://ftp.expasy.org/databases/prosite/)
+  * [Links](/prosite_link.html)
+  * [Funding](/prosite_funding.html)
+
+  
+  
+---|---  
+ScanProsite tool  
+  
+  
+
+...Scanning: please wait...
+
+    
+    
+    Output format: Text
+    
+    Hits for all PROSITE (release 2017_05) motifs on sequence USERSEQ1 :
+    
+    found: 0 hit in 0 sequence
+    
+    [Graphical view](http://prosite.expasy.org/cgi-bin/prosite/ScanView.cgi?scanfile=196116518982.scan.gz) (graphical view with feature detection)
+    
+    
+
+  
+
+[SIB Swiss Institute of Bioinformatics](http://www.isb-sib.ch) |
+[Disclaimer](http://www.expasy.org/disclaimer.html)
+
+Back to the Top
+
+
