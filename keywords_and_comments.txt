@@ -1,0 +1,101 @@
+SEQUENCE_ID	BLAST_KEYS	PFAM_KEYS	PROSITE_KEYS	Associated Pathway	Comments	
+ABO10995	leucine--tRNA ligase [Acinetobacter baumannii]	tRNA-synt_1_2	AA_TRNA_LIGASE_I	NULL	NULL	
+ABO10618	hypothetical protein [Acinetobacter baumannii]	DUF3861	NULL	NULL	NULL	
+ABO10621	glutathione S-transferase [Acinetobacter baumannii]	GST_N	GST_NTER;GST_CTER	NULL	NULL	
+ABO10632	"membrane-bound ATP synthase F0 sector, subunit a [Acinetobacter baumannii]"	null	NULL	NULL	NULL	
+ABO10642	glutathione peroxidase [Acinetobacter baumannii]	GSHPx	GLUTATHIONE_PEROXID_3;GLUTATHIONE_PEROXID_1	NULL	NULL	
+ABO11008	hypothetical protein [Acinetobacter baumannii]	null	NULL	NULL	NULL	
+ABO10646	"EamA/RhaT family transporter, partial [Acinetobacter baumannii]"	EamA	NULL	NULL	NULL	
+ABO10647	EamA/RhaT family transporter [Acinetobacter baumannii]	EamA	NULL	NULL	NULL	
+ABO10652	hypothetical protein [Acinetobacter baumannii]	DUF2946	NULL	NULL	NULL	
+ABO10654	hypothetical protein [Acinetobacter baumannii]	null	NULL	NULL	NULL	
+ABO10662	MerR family transcriptional regulator [Acinetobacter baumannii]	MerR_1	HTH_MERR_2	Transcription Regulation	NULL	
+ABO11017	RidA family protein [Acinetobacter baumannii]	Ribonuc_L-PSP	NULL	NULL	NULL	
+ABO11018	EamA family transporter [Acinetobacter baumannii]	EamA	NULL	NULL	NULL	
+ABO11023	MULTISPECIES: ribosome silencing factor RsfS [Acinetobacter]	RsfS	NULL	NULL	NULL	
+ABO11025	3-hydroxyisobutyrate dehydrogenase [Acinetobacter baumannii]	NAD_binding_2	NULL	NULL	NULL	
+ABO10675	hypothetical protein [Acinetobacter baumannii]	null	NULL	NULL	NULL	
+ABO10678	"outer membrane porin, OprD family [Acinetobacter baumannii]"	OprD	NULL	Nutrient and Drug Transfer	"Porins can be mutated to not let antibiotic drugs through the cell membrane, but let nutrients through. - ""porin mutants are found in some species of Enterobacteriaceae (Enterobacter aerogenes, Klebsiella pneumoniae) as a means of last resort resistance to the more recent versions of ?-lactams that withstand inactivation by common ?-lactamases"""	
+ABO10683	"endonuclease, partial [Acinetobacter baumannii]"	Tn7_Tnp_TnsA_N	NULL	NULL	NULL	
+ABO10684	IS701 family transposase [Acinetobacter nosocomialis]	DDE_Tnp_1	NULL	Transposition	multiply resistant transposons can be stably integrated into the genome of Acinetobacter	
+ABO10685	transposase [Acinetobacter baumannii]	null	NULL	NULL	NULL	
+ABO10686	"transposase, partial [Acinetobacter baumannii]"	Mu-transpos_C	INTEGRASE	NULL	NULL	
+ABO11036	3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter baumannii]	Pantoate_transf	NULL	NULL	NULL	
+ABO11037	3-methyl-2-oxobutanoate hydroxymethyltransferase [Acinetobacter baumannii]	Pantoate_transf	NULL	NULL	NULL	
+ABO11040	MULTISPECIES: phosphocarrier protein HPr [Acinetobacter]	PTS-HPr	PTS_HPR_DOM	NULL	NULL	
+ABO11049	hypothetical protein [Acinetobacter baumannii]	DUF1768	NULL	NULL	NULL	
+ABO11051	hypothetical protein [Acinetobacter baumannii]	null	NULL	NULL	NULL	
+ABO11055	thiol reductase thioredoxin [Acinetobacter baumannii]	Thioredoxin	THIOREDOXIN_2;THIOREDOXIN_1	NULL	NULL	
+ABO11058	tRNA lysidine(34) synthetase TilS [Acinetobacter baumannii]	ATP_bind_3	NULL	NULL	NULL	
+ABO10699	hypothetical protein [Acinetobacter baumannii]	null	NULL	NULL	NULL	
+ABO10707	sigma-54-dependent Fis family transcriptional regulator [Acinetobacter baumannii]	HTH_8	SIGMA54_INTERACT_4;SIGMA54_INTERACT_3	NULL	NULL	
+ABO10708	"sigma-54-dependent Fis family transcriptional regulator, partial [Acinetobacter baumannii]"	Sigma54_activat	SIGMA54_INTERACT_4;SIGMA54_INTERACT_2	NULL	NULL	
+ABO10709	sigma-54-dependent Fis family transcriptional regulator [Acinetobacter baumannii]	Response_reg	RESPONSE_REGULATORY	NULL	NULL	
+ABO11069	anti-sigma factor antagonist [Acinetobacter baumannii]	STAS	STAS	NULL	NULL	
+ABO10733	argininosuccinate lyase [Acinetobacter baumannii]	null	NULL	NULL	NULL	
+ABO10734	argininosuccinate lyase [Acinetobacter baumannii]	Lyase_1	FUMARATE_LYASES	NULL	NULL	
+ABO10739	hypothetical protein [Acinetobacter baumannii]	null	NULL	NULL	NULL	
+ABO10740	hypothetical protein [Acinetobacter baumannii]	null	NULL	NULL	NULL	
+ABO11085	DNA polymerase V [Acinetobacter baumannii]	Peptidase_S24	NULL	NULL	NULL	
+ABO10743	DNA-binding protein [Acinetobacter baumannii]	Histone_HNS	NULL	NULL	NULL	
+ABO10744	general secretion pathway protein [Acinetobacter baumannii]	T2SSN	NULL	NULL	NULL	
+ABO10756	50S ribosomal protein L7/L12 [Acinetobacter baumannii]	Ribosomal_L12	NULL	NULL	NULL	
+ABO11097	nuclease [Acinetobacter baumannii]	SNase	TNASE_3;TNASE_1	NULL	NULL	
+ABO11101	MULTISPECIES: ferrous iron transport protein A [Acinetobacter]	FeoA	NULL	NULL	NULL	
+ABO11102	ferrous iron transporter B [Acinetobacter baumannii]	FeoB_N	G_FEOB	NULL	NULL	
+ABO11105	transposase [Acinetobacter baumannii]	null	NULL	NULL	NULL	
+ABO10768	MerR family transcriptional regulator [Acinetobacter baumannii]	MerR_1	HTH_MERR_2	NULL	NULL	
+ABO10769	signal peptide-containing protein [Acinetobacter baumannii]	Ser_hydrolase	NULL	NULL	NULL	
+ABO10772	histidine kinase [Acinetobacter pittii]	HATPase_c_3	NULL	NULL	NULL	
+ABO10778	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase [Acinetobacter baumannii]	CDP-OH_P_transf	CDP_ALCOHOL_P_TRANSF	NULL	NULL	
+ABO11108	protein TniQ [Acinetobacter baumannii]	TniQ	NULL	NULL	NULL	
+ABO11109	transposase [Acinetobacter baumannii]	TniB	NULL	NULL	NULL	
+ABO11111	null	null	NULL	NULL	NULL	
+ABO11115	P-type conjugative transfer protein TrbL [Gallibacterium anatis]	TrbL	NULL	Plasmid conjugal transfer	Plasmid transfer is important for transfer of antibiotic resistance genes between bacteria.	
+ABO11117	arsenical-resistance protein [Pseudomonas aeruginosa]	SBF	NULL	NULL	NULL	
+ABO11118	hypothetical protein [Stenotrophomonas maltophilia]	null	NULL	NULL	NULL	
+ABO11121	"IS91 family transposase, partial [Acinetobacter baumannii]"	Zn_Tnp_IS91	NULL	NULL	NULL	
+ABO11122	"IS91 family transposase, partial [Escherichia coli]"	Y2_Tnp	NULL	NULL	NULL	
+ABO11124	"transposase, partial [Acinetobacter baumannii]"	DDE_Tnp_1	NULL	NULL	NULL	
+ABO11125	transposase [Acinetobacter baumannii]	null	NULL	NULL	NULL	
+ABO11128	hypothetical protein [Acinetobacter baumannii]	BolA	NULL	NULL	NULL	
+ABO11136	hypothetical protein [Acinetobacter baumannii]	Phenol_MetA_deg	NULL	NULL	NULL	
+ABO11145	peptidase C13 [Acinetobacter baumannii]	Peptidase_C13	NULL	NULL	NULL	
+ABO11146	"peptidase C13 family protein, partial [Acinetobacter baumannii]"	null	NULL	NULL	NULL	
+ABO11150	hydrolase [Acinetobacter baumannii]	Hydrolase_3	NULL	NULL	NULL	
+ABO11152	copper resistance protein B [Acinetobacter baumannii]	CopB	NULL	NULL	NULL	
+ABO10810	"bifunctional demethylmenaquinone methyltransferase/2-methoxy-6-polyprenyl-1,4-benzoquinol methylase [Acinetobacter baumannii]"	Ubie_methyltran	SAM_MT_UBIE;UBIE_1;UBIE_2	menaquinone biosynthesis.	NULL	
+ABO10814	exonuclease V subunit gamma [Acinetobacter baumannii]	Exonuc_V_gamma	NULL	DNA modification	"This family of exonucleases represents an operon that controls the expression of exonuclease V, an enzyme that trims the ends of DNA"	
+ABO10815	exonuclease V subunit gamma [Acinetobacter baumannii]	null	NULL	NULL	NULL	
+ABO10816	exonuclease V subunit beta [Acinetobacter baumannii]	UvrD-helicase	NULL	NULL	NULL	
+ABO10817	exonuclease V subunit beta [Acinetobacter baumannii]	UvrD_C	UVRD_HELICASE_ATP_BIND;UVRD_HELICASE_CTER	NULL	NULL	
+ABO11176	hypothetical protein [Acinetobacter baumannii]	DUF1852	NULL	NULL	NULL	
+ABO10820	MULTISPECIES: 30S ribosomal protein S15 [Acinetobacter]	Ribosomal_S15	RIBOSOMAL_S15	NULL	NULL	
+ABO10834	apolipoprotein N-acyltransferase [Acinetobacter baumannii]	null	NULL	NULL	NULL	
+ABO10836	sulfurtransferase TusA [Acinetobacter baumannii]	TusA	UPF0033	NULL	NULL	
+ABO10837	electron transfer flavoprotein-ubiquinone oxidoreductase [Acinetobacter baumannii]	FAD_binding_2	NULL	NULL	NULL	
+ABO11179	TetR family transcriptional regulator [Acinetobacter baumannii]	TetR_N	HTH_TETR_2	NULL	NULL	
+ABO11181	darcynin [Acinetobacter baumannii]	Darcynin	NULL	NULL	NULL	
+ABO11185	hypothetical protein [Acinetobacter baumannii]	null	TUBULIN;EF_HAND_1	NULL	NULL	
+ABO11191	GGDEF domain-containing protein [Acinetobacter baumannii]	GGDEF	GGDEF	NULL	NULL	
+ABO11192	NADH-quinone oxidoreductase subunit A [Acinetobacter baumannii]	Oxidored_q4	NULL	NULL	NULL	
+ABO10513	"recombinase, partial [Acinetobacter baumannii]"	Phage_integrase	NULL	Recombination of exogeneous DNA into genome	Recombinase is important to antibiotic resistance since it allows genes that confer drug resistance to be integrated into the bacterial genome.	
+ABO10514	NADPH-dependent oxidoreductase [Acinetobacter baumannii]	FMN_red	NULL	NULL	NULL	
+ABO10515	peptidylprolyl isomerase [Acinetobacter baumannii]	FKBP_C	FKBP_PPIASE	peptidyl-prolyl cis-trans isomerase activity	NULL	
+ABO10844	DNA gyrase inhibitor YacG [Acinetobacter baumannii]	YacG	NULL	"DNA replication - gyrase is needed for dna replication, it relieves supercoiling stress and allows helicase to unwind dsDNA."	"DNA gyrase is a protein targeted by many antibiotics. If YacG were overexpressed, DNA replication would be inhibited."	
+ABO10843	null	null	NULL	NULL	NULL	
+ABO10847	aldehyde-activating protein [Acinetobacter baumannii]	GFA	NULL	NULL	NULL	
+ABO10849	HopJ type III effector protein [Acinetobacter baumannii]	HopJ	NULL	NULL	NULL	
+ABO10850	50S ribosomal protein L31 [Acinetobacter baumannii]	Ribosomal_L31	RIBOSOMAL_L31	NULL	NULL	
+ABO10859	long-chain-acyl-CoA synthetase [Acinetobacter baumannii]	AMP-binding	AMP_BINDING	NULL	NULL	
+ABO11206	cold-shock protein [Acinetobacter baumannii]	CSD	NULL	Altered gene expression during temperature stress	CSPs allow survival in temperature stress. The protein changes gene expression in the bacteria when they experience changes in temperature. They are important in the survival of A. baumannii even though they don't confer drug resistance.	
+ABO11207	calcium-binding protein [Acinetobacter baumannii]	Excalibur	NULL	NULL	NULL	
+ABO11212	aminoacetone oxidase family FAD-binding enzyme [Acinetobacter baumannii]	HI0933_like	NULL	NULL	NULL	
+ABO10871	LysR family transcriptional regulator [Acinetobacter baumannii]	LysR_substrate	HTH_LYSR	NULL	NULL	
+ABO10873	3-isopropylmalate dehydratase small subunit [Acinetobacter baumannii]	Aconitase_C	NULL	NULL	NULL	
+ABO10874	hypothetical protein [Acinetobacter baumannii]	null	NULL	NULL	NULL	
+ABO10876	MULTISPECIES: translation initiation factor IF-1 [Acinetobacter]	eIF-1a	S1_IF1_TYPE	NULL	NULL	
+ABO10882	aspartate-semialdehyde dehydrogenase [Acinetobacter baumannii]	Semialdhyde_dhC	ASD	NULL	NULL	
+ABO11563	"NAD(P)/FAD-dependent oxidoreductase, partial [Acinetobacter baumannii]"	Pyr_redox_3	NULL	NULL	NULL	
+ABO11564	NAD(P)/FAD-dependent oxidoreductase [Acinetobacter baumannii]	null	NULL	NULL	NULL	
+ABO11565	NCS2 family permease [Acinetobacter baumannii]	Xan_ur_permease	NULL	Putative uracil transport protein	NULL	
