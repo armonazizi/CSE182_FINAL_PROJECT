@@ -8,6 +8,7 @@ Files:
 
 keywords.tsv contains all of the keywords that were generated and extracted from blast, pfam, and prosite.
 
+keywords_and_comments.tsv contains all of the keywords as well as all comments that were manually generated.
 
 Directories:
 
