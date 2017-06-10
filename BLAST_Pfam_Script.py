@@ -19,7 +19,7 @@ def runq(query, output, blast):
 	with open(query, 'r') as q:	#	Number of lines in query file
 		for line in q:
 			num_lines += 1
-	with open(query, 'r') as q, open(output, 'w') as o:
+	with open(query, 'r') as q, open(output, 'w') as o:	#open both query and output files
    		for line in q:
    			line_count += 1
    			if line[0] == '>' or line_count == num_lines:	# Header or last line has been reached
@@ -42,7 +42,7 @@ def runq(query, output, blast):
 		   					o.write(header)
 		   					o.write(str(blast_out, 'utf-8'))
 
-		   					subprocess.call(['blastp', '-query', 'temp.fasta', '-remote', '-db', 'refseq_protein', '-out', archive])	#	Query BLAST online
+		   					subprocess.call(['blastp', '-query', 'temp.fasta', '-remote', '-db', 'refseq_protein', '-out', archive])	#	Query and save raw results in archive format
 		   				except Exception as e:
 		   					print(e)
 		   					o.write(header)

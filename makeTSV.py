@@ -4,9 +4,9 @@ Make keyword tsv file from script output
 
 import subprocess
 
-#subprocess.call(['python', 'prosite_script.py'])
-
-
+subprocess.call(['python', 'prosite_script.py'])
+subprocess.call(['python', 'BLAST_Pfam_Script.py', '-f', 'newDNA.txt', '-d', 'BLAST_keywords.txt'])
+subprocess.call(['python', 'BLAST_Pfam_Script.py', '-f', 'newDNA.txt', '-p', 'Pfam_keywords.txt'])
 
 
 prosite_keys = open("prosite_keywords.txt", 'r')
