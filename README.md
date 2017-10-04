@@ -4,6 +4,8 @@ Armon Azizi and Luke Jervis
 CSE 182 Final Project
 Spring 2017
 
+A bioinformatics pipeline used to annotate genome data using online databases.
+
 Files:
 
 keywords.tsv contains all of the keywords that were generated and extracted from blast, pfam, and prosite.
